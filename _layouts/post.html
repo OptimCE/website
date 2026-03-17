@@ -1,0 +1,27 @@
+---
+layout: default
+---
+{% assign t = site.data.i18n[site.lang] %}
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="post__header section">
+    <div class="container container--narrow">
+      <a href="{{ '/actualites/' | relative_url }}" class="post__back">
+        &larr; {{ t.blog.back_to_blog }}
+      </a>
+      <h1 class="post__title" itemprop="name headline">{{ page.title }}</h1>
+      <p class="post__meta">
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+          {{ t.blog.published_on }} {{ page.date | date: "%e %B %Y" }}
+        </time>
+        {% if page.author %}
+          &middot; {{ t.blog.by_author }} <span itemprop="author">{{ page.author }}</span>
+        {% endif %}
+      </p>
+    </div>
+  </header>
+  <div class="post__content section" itemprop="articleBody">
+    <div class="container container--narrow">
+      {{ content }}
+    </div>
+  </div>
+</article>

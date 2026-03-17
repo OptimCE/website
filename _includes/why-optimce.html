@@ -1,0 +1,17 @@
+{% assign t = site.data.i18n[site.lang] %}
+<section class="why-section section">
+  <div class="container">
+    <div class="section__header">
+      <h2 class="section__title">{{ t.why.title }}</h2>
+      <p class="section__subtitle">{{ t.why.subtitle }}</p>
+    </div>
+    <div class="grid grid--3col">
+      {% for point in t.why.points %}
+      <div class="why-card">
+        <h3 class="why-card__title">{{ point.title }}</h3>
+        <p class="why-card__description">{{ point.description }}</p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

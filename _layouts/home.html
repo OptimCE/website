@@ -1,0 +1,31 @@
+---
+layout: default
+---
+{% assign t = site.data.i18n[site.lang] %}
+
+{% include hero.html %}
+{% include features.html %}
+{% include why-optimce.html %}
+{% include for-developers.html %}
+
+<!-- Latest Posts -->
+<section class="section">
+  <div class="container">
+    <div class="section__header">
+      <h2 class="section__title">{{ t.blog.title }}</h2>
+      <p class="section__subtitle">{{ t.blog.subtitle }}</p>
+    </div>
+    <div class="grid grid--3col">
+      {% for post in site.posts limit:3 %}
+        {% include post-card.html post=post %}
+      {% endfor %}
+    </div>
+    <div class="text-center mt-8">
+      <a href="{{ '/actualites/' | relative_url }}" class="btn btn-outline">
+        {{ t.blog.all_posts }}
+      </a>
+    </div>
+  </div>
+</section>
+
+{% include newsletter.html %}

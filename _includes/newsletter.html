@@ -1,0 +1,12 @@
+{% assign t = site.data.i18n[site.lang] %}
+<section class="newsletter-section section">
+  <div class="container">
+    <h2 class="newsletter-section__title">{{ t.newsletter.title }}</h2>
+    <p class="newsletter-section__subtitle">{{ t.newsletter.subtitle }}</p>
+    <form class="newsletter-form" action="#" method="post">
+      <input type="email" class="newsletter-form__input" placeholder="{{ t.newsletter.placeholder }}" aria-label="{{ t.newsletter.placeholder }}" required>
+      <button type="submit" class="btn btn-white">{{ t.newsletter.button }}</button>
+    </form>
+    <p class="newsletter-form__privacy">{{ t.newsletter.privacy }}</p>
+  </div>
+</section>

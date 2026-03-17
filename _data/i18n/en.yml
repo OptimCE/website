@@ -1,0 +1,14 @@
+# ==================================
+# OptimCE — English translations
+# TODO: Complete all translations
+# ==================================
+
+nav:
+  home: "Home"
+  features: "Features"
+  blog: "News"
+  about: "About"
+  get_started: "Get Started"
+  github: "GitHub"
+
+# TODO: Translate all remaining sections from fr.yml

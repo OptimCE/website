@@ -1,0 +1,141 @@
+# ==================================
+# OptimCE — Traductions françaises
+# ==================================
+
+# Navigation
+nav:
+  home: "Accueil"
+  features: "Fonctionnalités"
+  blog: "Actualités"
+  about: "À propos"
+  get_started: "Démarrer"
+  github: "GitHub"
+
+# Hero Section
+hero:
+  title: "La plateforme open source pour gérer votre communauté d'énergie"
+  subtitle: >-
+    OptimCE simplifie la gestion des membres, des compteurs et du partage
+    d'énergie au sein de votre communauté d'énergie renouvelable.
+  cta_primary: "Démarrer maintenant"
+  cta_secondary: "Voir sur GitHub"
+
+# Features Section
+features:
+  title: "Fonctionnalités"
+  subtitle: "Tout ce dont vous avez besoin pour piloter votre communauté d'énergie"
+  items:
+    - icon: "users"
+      title: "Gestion des membres"
+      description: >-
+        Onboarding, rôles, liens communauté-utilisateur.
+        Gérez facilement tous les participants de votre communauté.
+    - icon: "meter"
+      title: "Gestion des compteurs"
+      description: >-
+        Suivez les compteurs d'énergie de chaque membre
+        et centralisez les données de consommation et de production.
+    - icon: "key"
+      title: "Clés de répartition"
+      description: >-
+        Configurez les clés d'allocation et les opérations de partage
+        pour distribuer l'énergie entre les membres.
+    - icon: "building"
+      title: "Multi-communautés"
+      description: >-
+        Une seule instance pour plusieurs communautés d'énergie.
+        Architecture multi-tenant intégrée.
+    - icon: "puzzle"
+      title: "Modules extensibles"
+      description: >-
+        Intégration événementielle (SQS) permettant de brancher
+        des outils tiers comme un système de gestion d'énergie.
+    - icon: "open-source"
+      title: "Open source"
+      description: >-
+        Code source ouvert et transparent. Contribuez, auditez
+        et adaptez la plateforme à vos besoins.
+
+# Why OptimCE
+why:
+  title: "Pourquoi OptimCE ?"
+  subtitle: "Une solution pensée pour les communautés d'énergie européennes"
+  points:
+    - title: "Open source et transparent"
+      description: >-
+        Code source ouvert, auditable et modifiable.
+        Aucun verrouillage fournisseur.
+    - title: "Conçu pour le cadre européen"
+      description: >-
+        Conforme aux directives européennes sur les communautés
+        d'énergie renouvelable et les communautés énergétiques citoyennes.
+    - title: "Simple à déployer"
+      description: >-
+        Installation rapide. Interface multilingue (FR, EN, NL, DE)
+        et architecture prête pour la montée en charge.
+
+# For Developers
+developers:
+  title: "Pour les développeurs"
+  subtitle: "Construit avec des technologies modernes et ouvertes"
+  description: >-
+    Frontend Angular, backend Node.js/TypeScript et FastAPI,
+    architecture événementielle. Contribuez sur GitHub ou intégrez
+    OptimCE dans vos propres outils via l'API REST.
+  tech_stack: "Angular · Node.js · TypeScript · FastAPI · PostgreSQL"
+  cta: "Contribuer sur GitHub"
+
+# Newsletter
+newsletter:
+  title: "Restez informé"
+  subtitle: "Recevez les dernières actualités et mises à jour d'OptimCE."
+  placeholder: "Votre adresse e-mail"
+  button: "S'inscrire"
+  privacy: "Nous respectons votre vie privée. Désabonnement à tout moment."
+
+# Blog
+blog:
+  title: "Actualités"
+  subtitle: "Les dernières nouvelles du projet OptimCE"
+  read_more: "Lire la suite"
+  all_posts: "Voir toutes les actualités"
+  published_on: "Publié le"
+  by_author: "par"
+  back_to_blog: "Retour aux actualités"
+  older_posts: "Articles précédents"
+  newer_posts: "Articles suivants"
+
+# About
+about:
+  title: "À propos d'OptimCE"
+  subtitle: "Notre mission et notre vision"
+
+# Footer
+footer:
+  description: >-
+    Plateforme open source de gestion pour les
+    communautés d'énergie renouvelable.
+  quick_links: "Liens rapides"
+  newsletter_title: "Newsletter"
+  license: "Licence MIT"
+  copyright: "OptimCE. Tous droits réservés."
+
+# 404
+not_found:
+  title: "Page introuvable"
+  message: "La page que vous recherchez n'existe pas ou a été déplacée."
+  back_home: "Retour à l'accueil"
+
+# Language names (for switcher)
+languages:
+  fr: "Français"
+  en: "English"
+  nl: "Nederlands"
+  de: "Deutsch"
+
+# Accessibility
+a11y:
+  skip_to_content: "Aller au contenu"
+  menu_open: "Ouvrir le menu"
+  menu_close: "Fermer le menu"
+  language_select: "Choisir la langue"

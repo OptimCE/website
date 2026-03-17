@@ -1,0 +1,14 @@
+# ==================================
+# OptimCE — Nederlandse vertalingen
+# TODO: Alle vertalingen voltooien
+# ==================================
+
+nav:
+  home: "Home"
+  features: "Functies"
+  blog: "Nieuws"
+  about: "Over ons"
+  get_started: "Beginnen"
+  github: "GitHub"
+
+# TODO: Vertaal alle overige secties uit fr.yml

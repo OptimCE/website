@@ -1,0 +1,55 @@
+{% assign t = site.data.i18n[site.lang] %}
+<footer class="site-footer" role="contentinfo">
+  <div class="container">
+    <div class="site-footer__grid">
+      <!-- Brand -->
+      <div class="site-footer__brand">
+        <img src="{{ '/assets/images/logo.svg' | relative_url }}" alt="OptimCE" width="120" height="61">
+        <p>{{ t.footer.description }}</p>
+      </div>
+
+      <!-- Quick links -->
+      <div>
+        <h3 class="site-footer__heading">{{ t.footer.quick_links }}</h3>
+        <ul class="site-footer__links">
+          <li><a href="{{ '/' | relative_url }}">{{ t.nav.home }}</a></li>
+          <li><a href="{{ '/' | relative_url }}#fonctionnalites">{{ t.nav.features }}</a></li>
+          <li><a href="{{ '/actualites/' | relative_url }}">{{ t.nav.blog }}</a></li>
+          <li><a href="{{ '/a-propos/' | relative_url }}">{{ t.nav.about }}</a></li>
+        </ul>
+      </div>
+
+      <!-- Newsletter -->
+      <div>
+        <h3 class="site-footer__heading">{{ t.footer.newsletter_title }}</h3>
+        <form class="footer-newsletter" action="#" method="post">
+          <input type="email" class="footer-newsletter__input" placeholder="{{ t.newsletter.placeholder }}" aria-label="{{ t.newsletter.placeholder }}" required>
+          <button type="submit" class="footer-newsletter__btn">{{ t.newsletter.button }}</button>
+        </form>
+        <p style="font-size: var(--text-sm); color: var(--color-gray-600);">{{ t.newsletter.privacy }}</p>
+      </div>
+
+      <!-- GitHub & Legal -->
+      <div>
+        <h3 class="site-footer__heading">{{ t.nav.github }}</h3>
+        <ul class="site-footer__links">
+          <li>
+            <a href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener">
+              GitHub
+            </a>
+          </li>
+          <li><a href="{{ '/feed.xml' | relative_url }}">RSS Feed</a></li>
+        </ul>
+        <div class="site-footer__social">
+          <a href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener" aria-label="GitHub">
+            <svg width="20" height="20" viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <div class="site-footer__bottom">
+      <span>&copy; {{ site.time | date: '%Y' }} {{ t.footer.copyright }} {{ t.footer.license }}.</span>
+    </div>
+  </div>
+</footer>

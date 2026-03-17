@@ -1,0 +1,13 @@
+---
+layout: default
+permalink: /404.html
+---
+{% assign t = site.data.i18n[site.lang] %}
+<section class="section text-center" style="min-height: 60vh; display: flex; align-items: center;">
+  <div class="container container--narrow">
+    <p style="font-size: var(--text-5xl); font-weight: var(--weight-bold); color: var(--color-primary); margin-bottom: var(--space-4);">404</p>
+    <h1>{{ t.not_found.title }}</h1>
+    <p class="text-muted" style="margin-bottom: var(--space-8);">{{ t.not_found.message }}</p>
+    <a href="{{ '/' | relative_url }}" class="btn btn-primary">{{ t.not_found.back_home }}</a>
+  </div>
+</section>

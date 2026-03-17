@@ -1,0 +1,65 @@
+# Site Settings
+title: "OptimCE"
+email: "contact@optimce.org"
+description: >-
+  OptimCE est une plateforme open source de gestion pour les communautés
+  d'énergie et les communautés d'énergie renouvelable. Gestion des membres,
+  compteurs, clés de répartition et opérations de partage.
+baseurl: ""
+url: "https://optimce.org"
+lang: "fr"
+
+# Author
+author:
+  name: "Équipe OptimCE"
+
+# Social / Repository
+github_username: "optimce"
+repository: "optimce/website"
+
+# Build Settings
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+# Pagination (jekyll-paginate v1)
+paginate: 6
+paginate_path: "/actualites/page:num/"
+
+# Permalink structure for posts
+permalink: /actualites/:year/:month/:day/:title/
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      lang: "fr"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      lang: "fr"
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed
+  silence_deprecations:
+    - import
+
+# Exclude from processing
+exclude:
+  - .sass-cache
+  - .jekyll-cache
+  - gemfiles
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+  - LICENSE
