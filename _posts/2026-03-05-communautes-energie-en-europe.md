@@ -5,6 +5,8 @@ date: 2026-03-05 09:00:00 +0100
 author: "Équipe OptimCE"
 excerpt: "Tour d'horizon du cadre européen des communautés d'énergie renouvelable et des communautés énergétiques citoyennes."
 categories: [articles]
+lang: fr
+ref: energy-communities-europe
 ---
 
 Les communautés d'énergie occupent une place de plus en plus importante dans le paysage énergétique européen. Deux directives clés encadrent leur développement et définissent leurs droits et obligations.

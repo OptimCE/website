@@ -1,17 +1,20 @@
-{% assign t = site.data.i18n[site.lang] %}
+{% assign lang = page.lang | default: site.lang %}
+{% assign t = site.data.i18n[lang] %}
+{% assign current_lang = site.languages | where: "code", lang | first %}
+{% assign lang_prefix = current_lang.prefix %}
 <a class="skip-link" href="#main-content">{{ t.a11y.skip_to_content }}</a>
 <header class="site-header" role="banner">
   <div class="container site-header__inner">
-    <a href="{{ '/' | relative_url }}" class="site-header__logo" aria-label="OptimCE - {{ t.nav.home }}">
+    <a href="{{ lang_prefix | append: '/' | relative_url }}" class="site-header__logo" aria-label="OptimCE - {{ t.nav.home }}">
       <img src="{{ '/assets/images/logo.svg' | relative_url }}" alt="OptimCE" width="140" height="71">
     </a>
 
     <nav class="site-nav" aria-label="Navigation principale">
       <ul class="site-nav__list">
-        <li><a href="{{ '/' | relative_url }}" {% if page.url == '/' %}aria-current="page"{% endif %}>{{ t.nav.home }}</a></li>
-        <li><a href="{{ '/' | relative_url }}#fonctionnalites">{{ t.nav.features }}</a></li>
-        <li><a href="{{ '/actualites/' | relative_url }}" {% if page.url contains '/actualites' %}aria-current="page"{% endif %}>{{ t.nav.blog }}</a></li>
-        <li><a href="{{ '/a-propos/' | relative_url }}" {% if page.url == '/a-propos/' %}aria-current="page"{% endif %}>{{ t.nav.about }}</a></li>
+        <li><a href="{{ lang_prefix | append: '/' | relative_url }}" {% if page.url == '/' or page.url == lang_prefix | append: '/' %}aria-current="page"{% endif %}>{{ t.nav.home }}</a></li>
+        <li><a href="{{ lang_prefix | append: '/' | relative_url }}{{ current_lang.features_anchor }}">{{ t.nav.features }}</a></li>
+        <li><a href="{{ current_lang.blog_path | relative_url }}" {% if page.url contains '/actualites' or page.url contains '/news' or page.url contains '/aktuelles' or page.url contains '/nieuws' %}aria-current="page"{% endif %}>{{ t.nav.blog }}</a></li>
+        <li><a href="{{ current_lang.about_path | relative_url }}" {% if page.url contains '/a-propos' or page.url contains '/about' %}aria-current="page"{% endif %}>{{ t.nav.about }}</a></li>
       </ul>
     </nav>
 
@@ -34,10 +37,10 @@
   <div id="mobile-menu" class="mobile-menu" aria-hidden="true">
     <nav aria-label="Menu mobile">
       <ul class="mobile-menu__list">
-        <li><a href="{{ '/' | relative_url }}" {% if page.url == '/' %}aria-current="page"{% endif %}>{{ t.nav.home }}</a></li>
-        <li><a href="{{ '/' | relative_url }}#fonctionnalites">{{ t.nav.features }}</a></li>
-        <li><a href="{{ '/actualites/' | relative_url }}" {% if page.url contains '/actualites' %}aria-current="page"{% endif %}>{{ t.nav.blog }}</a></li>
-        <li><a href="{{ '/a-propos/' | relative_url }}" {% if page.url == '/a-propos/' %}aria-current="page"{% endif %}>{{ t.nav.about }}</a></li>
+        <li><a href="{{ lang_prefix | append: '/' | relative_url }}" {% if page.url == '/' or page.url == lang_prefix | append: '/' %}aria-current="page"{% endif %}>{{ t.nav.home }}</a></li>
+        <li><a href="{{ lang_prefix | append: '/' | relative_url }}{{ current_lang.features_anchor }}">{{ t.nav.features }}</a></li>
+        <li><a href="{{ current_lang.blog_path | relative_url }}" {% if page.url contains '/actualites' or page.url contains '/news' or page.url contains '/aktuelles' or page.url contains '/nieuws' %}aria-current="page"{% endif %}>{{ t.nav.blog }}</a></li>
+        <li><a href="{{ current_lang.about_path | relative_url }}" {% if page.url contains '/a-propos' or page.url contains '/about' %}aria-current="page"{% endif %}>{{ t.nav.about }}</a></li>
       </ul>
       <div class="mobile-menu__actions">
         {% include language-switcher.html %}

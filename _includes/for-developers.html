@@ -1,4 +1,5 @@
-{% assign t = site.data.i18n[site.lang] %}
+{% assign lang = page.lang | default: site.lang %}
+{% assign t = site.data.i18n[lang] %}
 <section class="dev-section section">
   <div class="container">
     <div class="dev-section__content">

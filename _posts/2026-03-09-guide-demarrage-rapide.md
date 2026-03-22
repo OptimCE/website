@@ -5,6 +5,8 @@ date: 2026-03-09 14:00:00 +0100
 author: "Équipe OptimCE"
 excerpt: "Découvrez comment installer et configurer OptimCE en quelques étapes pour commencer à gérer votre communauté d'énergie."
 categories: [tutoriels]
+lang: fr
+ref: quick-start-guide
 ---
 
 Ce guide vous accompagne dans l'installation et la première configuration d'OptimCE. En quelques étapes, vous serez prêt à gérer votre communauté d'énergie.

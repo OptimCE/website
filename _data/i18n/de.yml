@@ -1,8 +1,8 @@
 # ==================================
 # OptimCE — Deutsche Übersetzungen
-# TODO: Alle Übersetzungen vervollständigen
 # ==================================
 
+# Navigation
 nav:
   home: "Startseite"
   features: "Funktionen"
@@ -10,5 +10,166 @@ nav:
   about: "Über uns"
   get_started: "Loslegen"
   github: "GitHub"
+  links: "Links"
 
-# TODO: Übersetze alle verbleibenden Abschnitte aus fr.yml
+# Hero Section
+hero:
+  title: "Die Open-Source-Plattform zur Verwaltung Ihrer Energiegemeinschaft"
+  subtitle: >-
+    OptimCE vereinfacht die Verwaltung von Mitgliedern, Zählern und der
+    Energieverteilung in Ihrer Erneuerbare-Energien-Gemeinschaft.
+  cta_primary: "Jetzt starten"
+  cta_secondary: "Auf GitHub ansehen"
+
+# Features Section
+features:
+  title: "Funktionen"
+  subtitle: "Alles, was Sie zur Verwaltung Ihrer Energiegemeinschaft brauchen"
+  items:
+    - icon: "users"
+      title: "Mitgliederverwaltung"
+      description: >-
+        Onboarding, Rollen, Gemeinschaft-Nutzer-Verknüpfungen.
+        Verwalten Sie alle Teilnehmer Ihrer Gemeinschaft einfach.
+    - icon: "meter"
+      title: "Zählerverwaltung"
+      description: >-
+        Verfolgen Sie die Energiezähler jedes Mitglieds
+        und zentralisieren Sie Verbrauchs- und Produktionsdaten.
+    - icon: "key"
+      title: "Verteilungsschlüssel"
+      description: >-
+        Konfigurieren Sie Verteilungsschlüssel und Sharing-Operationen,
+        um Energie unter den Mitgliedern zu verteilen.
+    - icon: "building"
+      title: "Multi-Gemeinschaft"
+      description: >-
+        Eine einzige Instanz für mehrere Energiegemeinschaften.
+        Integrierte Multi-Tenant-Architektur.
+    - icon: "puzzle"
+      title: "Erweiterbare Module"
+      description: >-
+        Ereignisgesteuerte Integration (SQS) zum Anschluss von
+        Drittanbieter-Tools wie einem Energiemanagementsystem.
+    - icon: "open-source"
+      title: "Open Source"
+      description: >-
+        Offener und transparenter Quellcode. Tragen Sie bei, prüfen Sie
+        und passen Sie die Plattform an Ihre Bedürfnisse an.
+
+# Why OptimCE
+why:
+  title: "Warum OptimCE?"
+  subtitle: "Eine Lösung für europäische Energiegemeinschaften"
+  points:
+    - title: "Open Source und transparent"
+      description: >-
+        Offener, überprüfbarer und anpassbarer Quellcode.
+        Kein Vendor-Lock-in.
+    - title: "Für den europäischen Rahmen konzipiert"
+      description: >-
+        Konform mit den europäischen Richtlinien zu Erneuerbare-Energien-Gemeinschaften
+        und Bürgerenergiegemeinschaften.
+    - title: "Einfach bereitzustellen"
+      description: >-
+        Schnelle Installation. Mehrsprachige Oberfläche (FR, EN, NL, DE)
+        und skalierbare Architektur.
+
+# For Developers
+developers:
+  title: "Für Entwickler"
+  subtitle: "Gebaut mit modernen, offenen Technologien"
+  description: >-
+    Angular-Frontend, Node.js/TypeScript- und FastAPI-Backend,
+    ereignisgesteuerte Architektur. Tragen Sie auf GitHub bei oder integrieren Sie
+    OptimCE über die REST-API in Ihre eigenen Tools.
+  tech_stack: "Angular · Node.js · TypeScript · FastAPI · PostgreSQL"
+  cta: "Auf GitHub beitragen"
+
+# Newsletter
+newsletter:
+  title: "Bleiben Sie informiert"
+  subtitle: "Erhalten Sie die neuesten Nachrichten und Updates von OptimCE."
+  placeholder: "Ihre E-Mail-Adresse"
+  button: "Abonnieren"
+  privacy: "Wir respektieren Ihre Privatsphäre. Jederzeit abbestellbar."
+
+# Blog
+blog:
+  title: "Aktuelles"
+  subtitle: "Die neuesten Nachrichten vom OptimCE-Projekt"
+  read_more: "Weiterlesen"
+  all_posts: "Alle Neuigkeiten anzeigen"
+  published_on: "Veröffentlicht am"
+  by_author: "von"
+  back_to_blog: "Zurück zu Aktuelles"
+  older_posts: "Ältere Beiträge"
+  newer_posts: "Neuere Beiträge"
+
+# About
+about:
+  title: "Über OptimCE"
+  subtitle: "Unsere Mission und unsere Vision"
+  mission_title: "Unsere Mission"
+  mission_text: >-
+    OptimCE ist eine Open-Source-Plattform zur Vereinfachung der Verwaltung
+    von Energiegemeinschaften und Erneuerbare-Energien-Gemeinschaften.
+    Unser Ziel ist es, ein zugängliches, transparentes und leistungsfähiges Werkzeug
+    bereitzustellen, mit dem Gemeinschaften ihre Mitglieder, Zähler
+    und Energieverteilungsoperationen effizient verwalten können.
+  why_title: "Warum OptimCE?"
+  why_text: >-
+    Energiegemeinschaften spielen eine wachsende Rolle bei der europäischen
+    Energiewende. Dennoch sind die verfügbaren Verwaltungstools oft proprietär,
+    teuer oder nicht an die Besonderheiten dieser Strukturen angepasst.
+    OptimCE beantwortet diesen Bedarf mit einer freien und kostenlosen Lösung,
+    die speziell für den europäischen Rechtsrahmen konzipiert wurde.
+  architecture_title: "Technische Architektur"
+  architecture_intro: "OptimCE basiert auf einer modernen, modularen Architektur:"
+  architecture_items:
+    - label: "Frontend"
+      text: "Angular, für eine reaktionsschnelle und mehrsprachige Benutzeroberfläche (FR, EN, NL, DE)"
+    - label: "Haupt-Backend"
+      text: "Node.js mit TypeScript, für die Verwaltung von Mitgliedern, Zählern und Verteilungsschlüsseln"
+    - label: "Analytik-Backend"
+      text: "FastAPI (Python), für Datenverarbeitung und Optimierung"
+    - label: "Ereignisgesteuerte Architektur"
+      text: "Integration über SQS zum Anschluss externer Module (z.B. Energiemanagementsystem)"
+    - label: "Multi-Tenant"
+      text: "eine einzige Instanz kann mehrere Energiegemeinschaften bedienen"
+  contribute_title: "Beitragen"
+  contribute_text: >-
+    OptimCE ist ein Open-Source-Projekt und Beiträge sind willkommen.
+    Ob Entwickler, Designer, Übersetzer oder einfach begeistert
+    von Energiegemeinschaften — Sie können auf vielfältige Weise beitragen.
+  contribute_cta: "Projekt auf GitHub ansehen"
+
+# Footer
+footer:
+  description: >-
+    Open-Source-Verwaltungsplattform für
+    Erneuerbare-Energien-Gemeinschaften.
+  quick_links: "Schnellzugriff"
+  newsletter_title: "Newsletter"
+  license: "Apache-2-Lizenz"
+  copyright: "OptimCE. Alle Rechte vorbehalten."
+
+# 404
+not_found:
+  title: "Seite nicht gefunden"
+  message: "Die gesuchte Seite existiert nicht oder wurde verschoben."
+  back_home: "Zurück zur Startseite"
+
+# Language names (for switcher)
+languages:
+  fr: "Français"
+  en: "English"
+  nl: "Nederlands"
+  de: "Deutsch"
+
+# Accessibility
+a11y:
+  skip_to_content: "Zum Inhalt springen"
+  menu_open: "Menü öffnen"
+  menu_close: "Menü schließen"
+  language_select: "Sprache wählen"

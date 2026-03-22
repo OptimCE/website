@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "À propos d'OptimCE"
-subtitle: "Notre mission et notre vision"
-permalink: /a-propos/
-lang: fr
+title: "Über OptimCE"
+subtitle: "Unsere Mission und unsere Vision"
+lang: de
 ref: about
+permalink: /de/about/
 ---
 
 {% assign lang = page.lang | default: site.lang %}
@@ -24,7 +24,7 @@ ref: about
 
 <ul>
   {% for item in t.about.architecture_items %}
-  <li><strong>{{ item.label }}</strong> : {{ item.text }}</li>
+  <li><strong>{{ item.label }}</strong>: {{ item.text }}</li>
   {% endfor %}
 </ul>
 

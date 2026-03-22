@@ -9,6 +9,29 @@ baseurl: "/"
 url: "https://optimce.be"
 lang: "fr"
 
+# Supported languages
+languages:
+  - code: fr
+    prefix: ""
+    blog_path: "/actualites/"
+    about_path: "/a-propos/"
+    features_anchor: "#fonctionnalites"
+  - code: en
+    prefix: "/en"
+    blog_path: "/en/news/"
+    about_path: "/en/about/"
+    features_anchor: "#features"
+  - code: de
+    prefix: "/de"
+    blog_path: "/de/aktuelles/"
+    about_path: "/de/about/"
+    features_anchor: "#funktionen"
+  - code: nl
+    prefix: "/nl"
+    blog_path: "/nl/nieuws/"
+    about_path: "/nl/about/"
+    features_anchor: "#functies"
+
 # Author
 author:
   name: "Équipe OptimCE"
@@ -20,12 +43,7 @@ repository: "optimce/website"
 # Build Settings
 plugins:
   - jekyll-feed
-  - jekyll-paginate
   - jekyll-seo-tag
-
-# Pagination (jekyll-paginate v1)
-paginate: 6
-paginate_path: "/actualites/page:num/"
 
 # Permalink structure for posts
 permalink: /actualites/:year/:month/:day/:title/

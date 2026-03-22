@@ -10,6 +10,7 @@ nav:
   about: "À propos"
   get_started: "Démarrer"
   github: "GitHub"
+  links: "Liens"
 
 # Hero Section
 hero:
@@ -109,6 +110,39 @@ blog:
 about:
   title: "À propos d'OptimCE"
   subtitle: "Notre mission et notre vision"
+  mission_title: "Notre mission"
+  mission_text: >-
+    OptimCE est une plateforme open source conçue pour simplifier la gestion
+    des communautés d'énergie et des communautés d'énergie renouvelable.
+    Notre objectif est de fournir un outil accessible, transparent et performant
+    qui permet aux communautés de gérer efficacement leurs membres, leurs compteurs
+    et leurs opérations de partage d'énergie.
+  why_title: "Pourquoi OptimCE ?"
+  why_text: >-
+    Les communautés d'énergie jouent un rôle croissant dans la transition
+    énergétique européenne. Pourtant, les outils de gestion disponibles sont
+    souvent propriétaires, coûteux ou inadaptés aux spécificités de ces structures.
+    OptimCE répond à ce besoin en offrant une solution libre et gratuite, conçue
+    spécifiquement pour le contexte réglementaire européen.
+  architecture_title: "Architecture technique"
+  architecture_intro: "OptimCE repose sur une architecture moderne et modulaire :"
+  architecture_items:
+    - label: "Frontend"
+      text: "Angular, pour une interface utilisateur réactive et multilingue (FR, EN, NL, DE)"
+    - label: "Backend principal"
+      text: "Node.js avec TypeScript, assurant la gestion des membres, des compteurs et des clés de répartition"
+    - label: "Backend analytique"
+      text: "FastAPI (Python), pour les traitements de données et l'optimisation"
+    - label: "Architecture événementielle"
+      text: "intégration via SQS pour brancher des modules externes (ex. : système de gestion d'énergie)"
+    - label: "Multi-tenant"
+      text: "une seule instance peut servir plusieurs communautés d'énergie"
+  contribute_title: "Contribuer"
+  contribute_text: >-
+    OptimCE est un projet open source et les contributions sont les bienvenues.
+    Que vous soyez développeur, designer, traducteur ou simplement passionné
+    par les communautés d'énergie, vous pouvez contribuer de nombreuses façons.
+  contribute_cta: "Voir le projet sur GitHub"
 
 # Footer
 footer:
@@ -117,7 +151,7 @@ footer:
     communautés d'énergie renouvelable.
   quick_links: "Liens rapides"
   newsletter_title: "Newsletter"
-  license: "Licence MIT"
+  license: "Licence Apache 2"
   copyright: "OptimCE. Tous droits réservés."
 
 # 404

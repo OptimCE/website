@@ -1,8 +1,8 @@
 # ==================================
 # OptimCE — Nederlandse vertalingen
-# TODO: Alle vertalingen voltooien
 # ==================================
 
+# Navigation
 nav:
   home: "Home"
   features: "Functies"
@@ -10,5 +10,166 @@ nav:
   about: "Over ons"
   get_started: "Beginnen"
   github: "GitHub"
+  links: "Links"
 
-# TODO: Vertaal alle overige secties uit fr.yml
+# Hero Section
+hero:
+  title: "Het open source platform voor het beheer van uw energiegemeenschap"
+  subtitle: >-
+    OptimCE vereenvoudigt het beheer van leden, meters en energiedeling
+    binnen uw hernieuwbare-energiegemeenschap.
+  cta_primary: "Nu beginnen"
+  cta_secondary: "Bekijk op GitHub"
+
+# Features Section
+features:
+  title: "Functies"
+  subtitle: "Alles wat u nodig heeft om uw energiegemeenschap te beheren"
+  items:
+    - icon: "users"
+      title: "Ledenbeheer"
+      description: >-
+        Onboarding, rollen, gemeenschap-gebruiker koppelingen.
+        Beheer eenvoudig alle deelnemers van uw gemeenschap.
+    - icon: "meter"
+      title: "Meterbeheer"
+      description: >-
+        Volg de energiemeters van elk lid
+        en centraliseer verbruiks- en productiegegevens.
+    - icon: "key"
+      title: "Verdeelsleutels"
+      description: >-
+        Configureer verdeelsleutels en deeloperaties
+        om energie onder de leden te verdelen.
+    - icon: "building"
+      title: "Multi-gemeenschap"
+      description: >-
+        Eén instantie voor meerdere energiegemeenschappen.
+        Ingebouwde multi-tenant architectuur.
+    - icon: "puzzle"
+      title: "Uitbreidbare modules"
+      description: >-
+        Gebeurtenisgestuurde integratie (SQS) waarmee u
+        tools van derden kunt aansluiten, zoals een energiebeheersysteem.
+    - icon: "open-source"
+      title: "Open source"
+      description: >-
+        Open en transparante broncode. Draag bij, controleer
+        en pas het platform aan uw behoeften aan.
+
+# Why OptimCE
+why:
+  title: "Waarom OptimCE?"
+  subtitle: "Een oplossing ontworpen voor Europese energiegemeenschappen"
+  points:
+    - title: "Open source en transparant"
+      description: >-
+        Open, controleerbare en aanpasbare broncode.
+        Geen vendor lock-in.
+    - title: "Ontworpen voor het Europese kader"
+      description: >-
+        In overeenstemming met de Europese richtlijnen voor hernieuwbare-energiegemeenschappen
+        en burgerenergiegemeenschappen.
+    - title: "Eenvoudig te implementeren"
+      description: >-
+        Snelle installatie. Meertalige interface (FR, EN, NL, DE)
+        en schaalbare architectuur.
+
+# For Developers
+developers:
+  title: "Voor ontwikkelaars"
+  subtitle: "Gebouwd met moderne, open technologieën"
+  description: >-
+    Angular frontend, Node.js/TypeScript en FastAPI backend,
+    gebeurtenisgestuurde architectuur. Draag bij op GitHub of integreer
+    OptimCE in uw eigen tools via de REST API.
+  tech_stack: "Angular · Node.js · TypeScript · FastAPI · PostgreSQL"
+  cta: "Bijdragen op GitHub"
+
+# Newsletter
+newsletter:
+  title: "Blijf op de hoogte"
+  subtitle: "Ontvang het laatste nieuws en updates van OptimCE."
+  placeholder: "Uw e-mailadres"
+  button: "Inschrijven"
+  privacy: "Wij respecteren uw privacy. U kunt zich op elk moment uitschrijven."
+
+# Blog
+blog:
+  title: "Nieuws"
+  subtitle: "Het laatste nieuws van het OptimCE-project"
+  read_more: "Lees meer"
+  all_posts: "Alle nieuws bekijken"
+  published_on: "Gepubliceerd op"
+  by_author: "door"
+  back_to_blog: "Terug naar nieuws"
+  older_posts: "Oudere berichten"
+  newer_posts: "Nieuwere berichten"
+
+# About
+about:
+  title: "Over OptimCE"
+  subtitle: "Onze missie en onze visie"
+  mission_title: "Onze missie"
+  mission_text: >-
+    OptimCE is een open source platform ontworpen om het beheer van
+    energiegemeenschappen en hernieuwbare-energiegemeenschappen te vereenvoudigen.
+    Ons doel is een toegankelijk, transparant en performant hulpmiddel te bieden
+    waarmee gemeenschappen hun leden, meters
+    en energiedelingsoperaties efficiënt kunnen beheren.
+  why_title: "Waarom OptimCE?"
+  why_text: >-
+    Energiegemeenschappen spelen een groeiende rol in de Europese energietransitie.
+    Toch zijn de beschikbare beheertools vaak propriëtair, duur of niet aangepast
+    aan de specifieke behoeften van deze structuren.
+    OptimCE beantwoordt deze behoefte met een vrije en gratis oplossing,
+    specifiek ontworpen voor de Europese regelgevingscontext.
+  architecture_title: "Technische architectuur"
+  architecture_intro: "OptimCE is gebouwd op een moderne, modulaire architectuur:"
+  architecture_items:
+    - label: "Frontend"
+      text: "Angular, voor een responsieve en meertalige gebruikersinterface (FR, EN, NL, DE)"
+    - label: "Hoofd-backend"
+      text: "Node.js met TypeScript, voor het beheer van leden, meters en verdeelsleutels"
+    - label: "Analytische backend"
+      text: "FastAPI (Python), voor gegevensverwerking en optimalisatie"
+    - label: "Gebeurtenisgestuurde architectuur"
+      text: "integratie via SQS om externe modules aan te sluiten (bijv. energiebeheersysteem)"
+    - label: "Multi-tenant"
+      text: "één instantie kan meerdere energiegemeenschappen bedienen"
+  contribute_title: "Bijdragen"
+  contribute_text: >-
+    OptimCE is een open source project en bijdragen zijn welkom.
+    Of u nu ontwikkelaar, designer, vertaler bent of gewoon gepassioneerd
+    door energiegemeenschappen, u kunt op vele manieren bijdragen.
+  contribute_cta: "Bekijk het project op GitHub"
+
+# Footer
+footer:
+  description: >-
+    Open source beheerplatform voor
+    hernieuwbare-energiegemeenschappen.
+  quick_links: "Snelle links"
+  newsletter_title: "Nieuwsbrief"
+  license: "Apache 2-licentie"
+  copyright: "OptimCE. Alle rechten voorbehouden."
+
+# 404
+not_found:
+  title: "Pagina niet gevonden"
+  message: "De pagina die u zoekt bestaat niet of is verplaatst."
+  back_home: "Terug naar home"
+
+# Language names (for switcher)
+languages:
+  fr: "Français"
+  en: "English"
+  nl: "Nederlands"
+  de: "Deutsch"
+
+# Accessibility
+a11y:
+  skip_to_content: "Naar inhoud"
+  menu_open: "Menu openen"
+  menu_close: "Menu sluiten"
+  language_select: "Taal kiezen"

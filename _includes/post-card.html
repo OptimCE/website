@@ -1,4 +1,5 @@
-{% assign t = site.data.i18n[site.lang] %}
+{% assign lang = page.lang | default: site.lang %}
+{% assign t = site.data.i18n[lang] %}
 {% assign post = include.post %}
 <article class="post-card">
   <time class="post-card__date" datetime="{{ post.date | date_to_xmlschema }}">
@@ -8,6 +9,18 @@
     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
   </h3>
   <p class="post-card__excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+  {% if post.ref %}
+    {% assign translations = site.posts | where: "ref", post.ref %}
+    {% if translations.size > 1 %}
+    <div class="post-card__langs">
+      {% for translation in translations %}
+        <a href="{{ translation.url | relative_url }}" class="post-card__lang-badge{% if translation.lang == post.lang %} post-card__lang-badge--active{% endif %}">
+          {{ translation.lang | upcase }}
+        </a>
+      {% endfor %}
+    </div>
+    {% endif %}
+  {% endif %}
   <a href="{{ post.url | relative_url }}" class="post-card__link">
     {{ t.blog.read_more }} &rarr;
   </a>

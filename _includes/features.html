@@ -1,5 +1,8 @@
-{% assign t = site.data.i18n[site.lang] %}
-<section id="fonctionnalites" class="features section">
+{% assign lang = page.lang | default: site.lang %}
+{% assign t = site.data.i18n[lang] %}
+{% assign current_lang = site.languages | where: "code", lang | first %}
+{% assign features_id = current_lang.features_anchor | remove: "#" %}
+<section id="{{ features_id }}" class="features section">
   <div class="container">
     <div class="section__header">
       <h2 class="section__title">{{ t.features.title }}</h2>

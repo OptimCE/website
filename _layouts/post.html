@@ -1,11 +1,13 @@
 ---
 layout: default
 ---
-{% assign t = site.data.i18n[site.lang] %}
+{% assign lang = page.lang | default: site.lang %}
+{% assign t = site.data.i18n[lang] %}
+{% assign current_lang = site.languages | where: "code", lang | first %}
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
   <header class="post__header section">
     <div class="container container--narrow">
-      <a href="{{ '/actualites/' | relative_url }}" class="post__back">
+      <a href="{{ current_lang.blog_path | relative_url }}" class="post__back">
         &larr; {{ t.blog.back_to_blog }}
       </a>
       <h1 class="post__title" itemprop="name headline">{{ page.title }}</h1>
@@ -17,6 +19,20 @@ layout: default
           &middot; {{ t.blog.by_author }} <span itemprop="author">{{ page.author }}</span>
         {% endif %}
       </p>
+      {% if page.ref %}
+        {% assign translations = site.posts | where: "ref", page.ref %}
+        {% if translations.size > 1 %}
+        <nav class="post__translations" aria-label="Translations">
+          {% for translation in translations %}
+            {% if translation.lang != lang %}
+              <a href="{{ translation.url | relative_url }}" class="post__translation-link">
+                {{ t.languages[translation.lang] }}
+              </a>
+            {% endif %}
+          {% endfor %}
+        </nav>
+        {% endif %}
+      {% endif %}
     </div>
   </header>
   <div class="post__content section" itemprop="articleBody">

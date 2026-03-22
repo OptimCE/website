@@ -1,8 +1,8 @@
 # ==================================
 # OptimCE — English translations
-# TODO: Complete all translations
 # ==================================
 
+# Navigation
 nav:
   home: "Home"
   features: "Features"
@@ -10,5 +10,166 @@ nav:
   about: "About"
   get_started: "Get Started"
   github: "GitHub"
+  links: "Links"
 
-# TODO: Translate all remaining sections from fr.yml
+# Hero Section
+hero:
+  title: "The open source platform for managing your energy community"
+  subtitle: >-
+    OptimCE simplifies the management of members, meters and energy sharing
+    within your renewable energy community.
+  cta_primary: "Get started now"
+  cta_secondary: "View on GitHub"
+
+# Features Section
+features:
+  title: "Features"
+  subtitle: "Everything you need to manage your energy community"
+  items:
+    - icon: "users"
+      title: "Member management"
+      description: >-
+        Onboarding, roles, community-user links.
+        Easily manage all participants in your community.
+    - icon: "meter"
+      title: "Meter management"
+      description: >-
+        Track each member's energy meters
+        and centralise consumption and production data.
+    - icon: "key"
+      title: "Allocation keys"
+      description: >-
+        Configure allocation keys and sharing operations
+        to distribute energy among members.
+    - icon: "building"
+      title: "Multi-community"
+      description: >-
+        A single instance for multiple energy communities.
+        Built-in multi-tenant architecture.
+    - icon: "puzzle"
+      title: "Extensible modules"
+      description: >-
+        Event-driven integration (SQS) allowing you to connect
+        third-party tools such as an energy management system.
+    - icon: "open-source"
+      title: "Open source"
+      description: >-
+        Open and transparent source code. Contribute, audit
+        and adapt the platform to your needs.
+
+# Why OptimCE
+why:
+  title: "Why OptimCE?"
+  subtitle: "A solution designed for European energy communities"
+  points:
+    - title: "Open source and transparent"
+      description: >-
+        Open, auditable and modifiable source code.
+        No vendor lock-in.
+    - title: "Designed for the European framework"
+      description: >-
+        Compliant with European directives on renewable energy
+        communities and citizen energy communities.
+    - title: "Easy to deploy"
+      description: >-
+        Quick installation. Multilingual interface (FR, EN, NL, DE)
+        and scalable architecture.
+
+# For Developers
+developers:
+  title: "For developers"
+  subtitle: "Built with modern, open technologies"
+  description: >-
+    Angular frontend, Node.js/TypeScript and FastAPI backend,
+    event-driven architecture. Contribute on GitHub or integrate
+    OptimCE into your own tools via the REST API.
+  tech_stack: "Angular · Node.js · TypeScript · FastAPI · PostgreSQL"
+  cta: "Contribute on GitHub"
+
+# Newsletter
+newsletter:
+  title: "Stay informed"
+  subtitle: "Receive the latest news and updates from OptimCE."
+  placeholder: "Your email address"
+  button: "Subscribe"
+  privacy: "We respect your privacy. Unsubscribe at any time."
+
+# Blog
+blog:
+  title: "News"
+  subtitle: "The latest news from the OptimCE project"
+  read_more: "Read more"
+  all_posts: "View all news"
+  published_on: "Published on"
+  by_author: "by"
+  back_to_blog: "Back to news"
+  older_posts: "Older posts"
+  newer_posts: "Newer posts"
+
+# About
+about:
+  title: "About OptimCE"
+  subtitle: "Our mission and our vision"
+  mission_title: "Our mission"
+  mission_text: >-
+    OptimCE is an open source platform designed to simplify the management
+    of energy communities and renewable energy communities.
+    Our goal is to provide an accessible, transparent and efficient tool
+    that enables communities to effectively manage their members, meters
+    and energy sharing operations.
+  why_title: "Why OptimCE?"
+  why_text: >-
+    Energy communities play a growing role in the European energy transition.
+    Yet the available management tools are often proprietary, expensive or
+    unsuited to the specific needs of these structures.
+    OptimCE addresses this need by offering a free and open solution,
+    designed specifically for the European regulatory context.
+  architecture_title: "Technical architecture"
+  architecture_intro: "OptimCE is built on a modern, modular architecture:"
+  architecture_items:
+    - label: "Frontend"
+      text: "Angular, for a responsive and multilingual user interface (FR, EN, NL, DE)"
+    - label: "Main backend"
+      text: "Node.js with TypeScript, handling member, meter and allocation key management"
+    - label: "Analytics backend"
+      text: "FastAPI (Python), for data processing and optimisation"
+    - label: "Event-driven architecture"
+      text: "integration via SQS to connect external modules (e.g. energy management system)"
+    - label: "Multi-tenant"
+      text: "a single instance can serve multiple energy communities"
+  contribute_title: "Contribute"
+  contribute_text: >-
+    OptimCE is an open source project and contributions are welcome.
+    Whether you are a developer, designer, translator or simply passionate
+    about energy communities, you can contribute in many ways.
+  contribute_cta: "View the project on GitHub"
+
+# Footer
+footer:
+  description: >-
+    Open source management platform for
+    renewable energy communities.
+  quick_links: "Quick links"
+  newsletter_title: "Newsletter"
+  license: "Apache 2 License"
+  copyright: "OptimCE. All rights reserved."
+
+# 404
+not_found:
+  title: "Page not found"
+  message: "The page you are looking for does not exist or has been moved."
+  back_home: "Back to home"
+
+# Language names (for switcher)
+languages:
+  fr: "Français"
+  en: "English"
+  nl: "Nederlands"
+  de: "Deutsch"
+
+# Accessibility
+a11y:
+  skip_to_content: "Skip to content"
+  menu_open: "Open menu"
+  menu_close: "Close menu"
+  language_select: "Choose language"

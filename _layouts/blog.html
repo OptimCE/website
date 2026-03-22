@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-{% assign t = site.data.i18n[site.lang] %}
+{% assign lang = page.lang | default: site.lang %}
+{% assign t = site.data.i18n[lang] %}
+{% assign posts = site.posts | where: "lang", lang %}
 <section class="section">
   <div class="container">
     <div class="section__header">
@@ -9,30 +11,9 @@ layout: default
       <p class="section__subtitle">{{ t.blog.subtitle }}</p>
     </div>
     <div class="grid grid--3col">
-      {% for post in paginator.posts %}
+      {% for post in posts %}
         {% include post-card.html post=post %}
       {% endfor %}
     </div>
-    {% if paginator.total_pages > 1 %}
-    <nav class="pagination" aria-label="Pagination">
-      {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path | relative_url }}" class="pagination__link">
-          &larr; {{ t.blog.newer_posts }}
-        </a>
-      {% else %}
-        <span></span>
-      {% endif %}
-      <span class="pagination__info">
-        {{ paginator.page }} / {{ paginator.total_pages }}
-      </span>
-      {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path | relative_url }}" class="pagination__link">
-          {{ t.blog.older_posts }} &rarr;
-        </a>
-      {% else %}
-        <span></span>
-      {% endif %}
-    </nav>
-    {% endif %}
   </div>
 </section>

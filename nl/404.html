@@ -1,0 +1,18 @@
+---
+layout: default
+title: "Pagina niet gevonden"
+lang: nl
+permalink: /nl/404.html
+---
+
+{% assign lang = page.lang | default: site.lang %}
+{% assign t = site.data.i18n[lang] %}
+{% assign current_lang = site.languages | where: "code", lang | first %}
+
+<section class="section text-center">
+  <div class="container">
+    <h1>{{ t.not_found.title }}</h1>
+    <p>{{ t.not_found.message }}</p>
+    <a href="{{ current_lang.prefix | append: '/' | relative_url }}" class="btn btn-primary">{{ t.not_found.back_home }}</a>
+  </div>
+</section>

@@ -5,6 +5,8 @@ date: 2026-03-01 10:00:00 +0100
 author: "Équipe OptimCE"
 excerpt: "Nous sommes fiers de vous présenter OptimCE, une plateforme open source dédiée à la gestion des communautés d'énergie renouvelable."
 categories: [annonces]
+lang: fr
+ref: launch-optimce
 ---
 
 Nous sommes heureux d'annoncer le lancement d'OptimCE, une plateforme open source conçue pour accompagner les communautés d'énergie et les communautés d'énergie renouvelable dans leur gestion quotidienne.

@@ -1,8 +1,10 @@
 ---
 layout: default
+lang: fr
 permalink: /404.html
 ---
-{% assign t = site.data.i18n[site.lang] %}
+{% assign lang = page.lang | default: site.lang %}
+{% assign t = site.data.i18n[lang] %}
 <section class="section text-center" style="min-height: 60vh; display: flex; align-items: center;">
   <div class="container container--narrow">
     <p style="font-size: var(--text-5xl); font-weight: var(--weight-bold); color: var(--color-primary); margin-bottom: var(--space-4);">404</p>

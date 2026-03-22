@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-{% assign t = site.data.i18n[site.lang] %}
+{% assign lang = page.lang | default: site.lang %}
+{% assign t = site.data.i18n[lang] %}
+{% assign current_lang = site.languages | where: "code", lang | first %}
 
 {% include hero.html %}
 {% include features.html %}
@@ -16,12 +18,13 @@ layout: default
       <p class="section__subtitle">{{ t.blog.subtitle }}</p>
     </div>
     <div class="grid grid--3col">
-      {% for post in site.posts limit:3 %}
+      {% assign posts = site.posts | where: "lang", lang %}
+      {% for post in posts limit:3 %}
         {% include post-card.html post=post %}
       {% endfor %}
     </div>
     <div class="text-center mt-8">
-      <a href="{{ '/actualites/' | relative_url }}" class="btn btn-outline">
+      <a href="{{ current_lang.blog_path | relative_url }}" class="btn btn-outline">
         {{ t.blog.all_posts }}
       </a>
     </div>
