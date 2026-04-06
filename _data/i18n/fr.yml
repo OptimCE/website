@@ -49,7 +49,7 @@ features:
     - icon: "puzzle"
       title: "Modules extensibles"
       description: >-
-        Intégration événementielle (SQS) permettant de brancher
+        Intégration événementielle (NATS) permettant de brancher
         des outils tiers comme un système de gestion d'énergie.
     - icon: "open-source"
       title: "Open source"
@@ -134,7 +134,7 @@ about:
     - label: "Backend analytique"
       text: "FastAPI (Python), pour les traitements de données et l'optimisation"
     - label: "Architecture événementielle"
-      text: "intégration via SQS pour brancher des modules externes (ex. : système de gestion d'énergie)"
+      text: "intégration via NATS pour brancher des modules externes (ex. : système de gestion d'énergie)"
     - label: "Multi-tenant"
       text: "une seule instance peut servir plusieurs communautés d'énergie"
   contribute_title: "Contribuer"
