@@ -18,7 +18,7 @@ Deze release brengt een reeks stabiliteitsverbeteringen en correcties die door d
 
 ## Een gebruikersgids steeds binnen handbereik
 
-OptimCE wordt nu vergezeld van een volledige **gebruikersgids** op [guide.optimce.be](https://guide.optimce.be). De gids is ook bereikbaar via de hoofdnavigatie van deze website en via de navigatiebalk in de app, zodat hulp altijd één klik verwijderd is. De gids behandelt installatie, configuratie en het dagelijkse beheer van een gemeenschap.
+OptimCE wordt nu vergezeld van een volledige **gebruikersgids** op [guide.optimce.be](https://guide.optimce.be). De gids is ook bereikbaar via de hoofdnavigatie van deze website en via de navigatiebalk in de app, zodat hulp altijd één klik verwijderd is. De gids richt zich op het gebruik van de app: het onboarden van nieuwe leden, het uitvoeren van dagelijkse handelingen en het optimaal benutten van OptimCE.
 
 ## Ontdek open deelacties
 

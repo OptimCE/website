@@ -18,7 +18,7 @@ This release brings a series of stability improvements and fixes reported by the
 
 ## A user guide always within reach
 
-OptimCE now ships with a complete **user guide** at [guide.optimce.be](https://guide.optimce.be). It is also accessible directly from the main navigation of this website and from the navbar inside the app, so help is always one click away. The guide covers installation, configuration and day-to-day community management.
+OptimCE now ships with a complete **user guide** at [guide.optimce.be](https://guide.optimce.be). It is also accessible directly from the main navigation of this website and from the navbar inside the app, so help is always one click away. The guide focuses on how to use the app — onboarding new members, running everyday operations and getting the most out of OptimCE.
 
 ## Discover open sharing operations
 

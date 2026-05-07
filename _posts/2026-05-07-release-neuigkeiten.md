@@ -18,7 +18,7 @@ Diese Version bringt zahlreiche Stabilitätsverbesserungen und Korrekturen aus d
 
 ## Ein Benutzerhandbuch stets griffbereit
 
-OptimCE wird nun mit einem vollständigen **Benutzerhandbuch** unter [guide.optimce.be](https://guide.optimce.be) ausgeliefert. Es ist außerdem über die Hauptnavigation dieser Website und über die Navigationsleiste in der App erreichbar, damit Hilfe immer nur einen Klick entfernt ist. Das Handbuch behandelt Installation, Konfiguration sowie die tägliche Verwaltung einer Gemeinschaft.
+OptimCE wird nun mit einem vollständigen **Benutzerhandbuch** unter [guide.optimce.be](https://guide.optimce.be) ausgeliefert. Es ist außerdem über die Hauptnavigation dieser Website und über die Navigationsleiste in der App erreichbar, damit Hilfe immer nur einen Klick entfernt ist. Das Handbuch konzentriert sich auf die Nutzung der App: das Onboarding neuer Mitglieder, den laufenden Betrieb und die optimale tägliche Verwaltung Ihrer Gemeinschaft.
 
 ## Offene Teilungsoperationen entdecken
 

@@ -17,7 +17,7 @@ Cette version apporte une série d'améliorations de stabilité et de correctifs
 
 ## Un guide utilisateur toujours à portée de main
 
-OptimCE est désormais accompagné d'un **guide utilisateur** complet sur [guide.optimce.be](https://guide.optimce.be). Il est également accessible depuis la navigation principale de ce site ainsi que depuis la barre de navigation de l'application, pour que l'aide soit toujours à un clic. Le guide couvre l'installation, la configuration et la gestion quotidienne d'une communauté.
+OptimCE est désormais accompagné d'un **guide utilisateur** complet sur [guide.optimce.be](https://guide.optimce.be). Il est également accessible depuis la navigation principale de ce site ainsi que depuis la barre de navigation de l'application, pour que l'aide soit toujours à un clic. Le guide se concentre sur l'utilisation de l'application : l'intégration de nouveaux membres, le pilotage des opérations courantes et l'exploitation au quotidien de votre communauté.
 
 ## Découvrez les opérations de partage ouvertes
 
