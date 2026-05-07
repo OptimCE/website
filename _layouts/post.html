@@ -4,19 +4,19 @@ layout: default
 {% assign lang = page.lang | default: site.lang %}
 {% assign t = site.data.i18n[lang] %}
 {% assign current_lang = site.languages | where: "code", lang | first %}
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="post">
   <header class="post__header section">
     <div class="container container--narrow">
       <a href="{{ current_lang.blog_path | relative_url }}" class="post__back">
         &larr; {{ t.blog.back_to_blog }}
       </a>
-      <h1 class="post__title" itemprop="name headline">{{ page.title }}</h1>
+      <h1 class="post__title">{{ page.title }}</h1>
       <p class="post__meta">
-        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        <time datetime="{{ page.date | date_to_xmlschema }}">
           {{ t.blog.published_on }} {{ page.date | date: "%e %B %Y" }}
         </time>
         {% if page.author %}
-          &middot; {{ t.blog.by_author }} <span itemprop="author">{{ page.author }}</span>
+          &middot; {{ t.blog.by_author }} <span>{{ page.author }}</span>
         {% endif %}
       </p>
       {% if page.ref %}
@@ -35,7 +35,7 @@ layout: default
       {% endif %}
     </div>
   </header>
-  <div class="post__content section" itemprop="articleBody">
+  <div class="post__content section">
     <div class="container container--narrow">
       {{ content }}
     </div>

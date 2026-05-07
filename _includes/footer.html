@@ -26,9 +26,12 @@
       <!-- Newsletter -->
       <div>
         <h3 class="site-footer__heading">{{ t.footer.newsletter_title }}</h3>
-        <form class="footer-newsletter" action="#" method="post">
-          <input type="email" class="footer-newsletter__input" placeholder="{{ t.newsletter.placeholder }}" aria-label="{{ t.newsletter.placeholder }}" required>
+        <form class="footer-newsletter" action="https://optimce.us2.list-manage.com/subscribe/post?u=ec69a7b73ebed4adf61b82581&amp;id=1dcb0effa8&amp;f_id=00375ae1f0" method="post" target="_blank">
+          <input type="email" name="EMAIL" class="footer-newsletter__input" placeholder="{{ t.newsletter.placeholder }}" aria-label="{{ t.newsletter.placeholder }}" required>
           <button type="submit" class="footer-newsletter__btn">{{ t.newsletter.button }}</button>
+          <div aria-hidden="true" style="position: absolute; left: -5000px;">
+            <input type="text" name="b_ec69a7b73ebed4adf61b82581_1dcb0effa8" tabindex="-1" value="">
+          </div>
         </form>
         <p style="font-size: var(--text-sm); color: var(--color-gray-600);">{{ t.newsletter.privacy }}</p>
       </div>

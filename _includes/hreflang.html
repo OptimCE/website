@@ -1,0 +1,20 @@
+{%- comment -%}
+  Emits <link rel="alternate" hreflang="..."> for every translation of this page,
+  including a self-referencing tag, plus x-default pointing at the FR version.
+  Skipped if page has no `ref` (e.g. 404, feed.xml).
+{%- endcomment -%}
+{%- if page.ref -%}
+  {%- assign translation_pages = site.pages | where: "ref", page.ref -%}
+  {%- assign translation_posts = site.posts | where: "ref", page.ref -%}
+  {%- assign translations = translation_pages | concat: translation_posts -%}
+  {%- for t in translations -%}
+    {%- if t.lang -%}
+<link rel="alternate" hreflang="{{ t.lang }}" href="{{ t.url | absolute_url }}" />
+    {%- endif -%}
+  {%- endfor -%}
+  {%- for t in translations -%}
+    {%- if t.lang == 'fr' -%}
+<link rel="alternate" hreflang="x-default" href="{{ t.url | absolute_url }}" />
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}

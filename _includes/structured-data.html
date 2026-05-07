@@ -1,0 +1,84 @@
+{%- comment -%}
+  Emits JSON-LD: Organization on every page; SoftwareApplication + WebSite on
+  homepages (page.ref == 'home'); Article on blog posts. Complements (does not
+  conflict with) the WebSite/WebPage schema auto-emitted by jekyll-seo-tag.
+{%- endcomment -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "OptimCE",
+  "url": {{ '/' | absolute_url | jsonify }},
+  "logo": {{ '/assets/images/logo.svg' | absolute_url | jsonify }},
+  "description": "OptimCE is an open-source platform for managing energy communities and renewable energy communities. The project originated from LOCOMOTRICE, a Walloon research initiative (2023-2026) co-led by Université de Liège (BEMS lab) and CECOTEPE in partnership with citizen energy cooperatives.",
+  "sameAs": [
+    "https://github.com/optimce"
+  ]
+}
+</script>
+{%- if page.ref == 'home' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "OptimCE",
+  "url": {{ '/' | absolute_url | jsonify }},
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Web",
+  "description": {{ page.description | default: site.description | jsonify }},
+  "inLanguage": ["fr", "en", "nl", "de"],
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "EUR"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "OptimCE",
+    "url": {{ '/' | absolute_url | jsonify }}
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "OptimCE",
+  "url": {{ '/' | absolute_url | jsonify }},
+  "inLanguage": "{{ page.lang | default: site.lang }}",
+  "publisher": {
+    "@type": "Organization",
+    "name": "OptimCE"
+  }
+}
+</script>
+{%- endif -%}
+{%- if page.layout == 'post' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ page.title | jsonify }},
+  "description": {{ page.excerpt | strip_html | normalize_whitespace | truncate: 200 | jsonify }},
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+  "author": {
+    "@type": "Person",
+    "name": {{ page.author | default: site.author.name | jsonify }}
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "OptimCE",
+    "logo": {
+      "@type": "ImageObject",
+      "url": {{ '/assets/images/logo.svg' | absolute_url | jsonify }}
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": {{ page.url | absolute_url | jsonify }}
+  },
+  "inLanguage": "{{ page.lang | default: site.lang }}"
+}
+</script>
+{%- endif -%}

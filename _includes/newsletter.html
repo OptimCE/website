@@ -4,9 +4,12 @@
   <div class="container">
     <h2 class="newsletter-section__title">{{ t.newsletter.title }}</h2>
     <p class="newsletter-section__subtitle">{{ t.newsletter.subtitle }}</p>
-    <form class="newsletter-form" action="#" method="post">
-      <input type="email" class="newsletter-form__input" placeholder="{{ t.newsletter.placeholder }}" aria-label="{{ t.newsletter.placeholder }}" required>
+    <form class="newsletter-form" action="https://optimce.us2.list-manage.com/subscribe/post?u=ec69a7b73ebed4adf61b82581&amp;id=1dcb0effa8&amp;f_id=00375ae1f0" method="post" target="_blank">
+      <input type="email" name="EMAIL" class="newsletter-form__input" placeholder="{{ t.newsletter.placeholder }}" aria-label="{{ t.newsletter.placeholder }}" required>
       <button type="submit" class="btn btn-white">{{ t.newsletter.button }}</button>
+      <div aria-hidden="true" style="position: absolute; left: -5000px;">
+        <input type="text" name="b_ec69a7b73ebed4adf61b82581_1dcb0effa8" tabindex="-1" value="">
+      </div>
     </form>
     <p class="newsletter-form__privacy">{{ t.newsletter.privacy }}</p>
   </div>
