@@ -11,6 +11,7 @@ nav:
   get_started: "Démarrer"
   github: "GitHub"
   links: "Liens"
+  guide: "Guide utilisateur"
 
 # Hero Section
 hero:

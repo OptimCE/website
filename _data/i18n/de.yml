@@ -11,6 +11,7 @@ nav:
   get_started: "Loslegen"
   github: "GitHub"
   links: "Links"
+  guide: "Benutzerhandbuch"
 
 # Hero Section
 hero:
@@ -49,7 +50,7 @@ features:
     - icon: "puzzle"
       title: "Erweiterbare Module"
       description: >-
-        Ereignisgesteuerte Integration (SQS) zum Anschluss von
+        Ereignisgesteuerte Integration (NATS) zum Anschluss von
         Drittanbieter-Tools wie einem Energiemanagementsystem.
     - icon: "open-source"
       title: "Open Source"
@@ -134,7 +135,7 @@ about:
     - label: "Analytik-Backend"
       text: "FastAPI (Python), für Datenverarbeitung und Optimierung"
     - label: "Ereignisgesteuerte Architektur"
-      text: "Integration über SQS zum Anschluss externer Module (z.B. Energiemanagementsystem)"
+      text: "Integration über NATS zum Anschluss externer Module (z.B. Energiemanagementsystem)"
     - label: "Multi-Tenant"
       text: "eine einzige Instanz kann mehrere Energiegemeinschaften bedienen"
   contribute_title: "Beitragen"
