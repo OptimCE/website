@@ -22,10 +22,10 @@ Operationally, an energy community is the **legal layer**. Inside it, one or mor
 
 Energy communities were born from the EU *Clean Energy Package*, which bundles two key directives:
 
-- **Directive 2018/2001** (RED II), which frames **renewable** energy communities;
-- **Directive 2019/944**, which creates **citizen** energy communities under the internal electricity market.
+- **[Directive 2018/2001](https://eur-lex.europa.eu/eli/dir/2018/2001/oj)** (RED II), which frames **renewable** energy communities;
+- **[Directive 2019/944](https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32019L0944)**, which creates **citizen** energy communities under the internal electricity market.
 
-More recently, **Directive 2023/2413** raised Belgium's renewable target to **21.7%** by 2030 (up from the original 20.4% in the National Energy and Climate Plan). In 2024, Belgium reached **14.21%**, slightly down from 2023 according to the [federal economy department](https://economie.fgov.be/fr/themes/energie/suivi-des-objectifs-europeens/part-des-sources-denergie). Hitting the target will require **decentralising** production and **valorising renewable electricity locally** — exactly what energy communities enable.
+More recently, **[Directive 2023/2413](https://www.stradalex.eu/en/se_src_publ_leg_eur_jo/toc/leg_eur_jo_3_20231031/doc/ojeu_202302413)** raised Belgium's renewable target to **21.7%** by 2030 (up from the original 20.4% in the National Energy and Climate Plan). In 2024, Belgium reached **14.21%**, slightly down from 2023 according to the [federal economy department](https://economie.fgov.be/fr/themes/energie/suivi-des-objectifs-europeens/part-des-sources-denergie). Hitting the target will require **decentralising** production and **valorising renewable electricity locally** — exactly what energy communities enable.
 
 ## Three types: CER, CEC, CEL
 
@@ -124,6 +124,36 @@ Through the **smart meters** rolled out by the DSOs, which transmit data every *
 
 ## Want to create your own energy community?
 
-> **Coming soon — How to create your own energy community in Belgium**
+**In Wallonia**, the framework has been stable since 2022 and the procedure is fully documented. We've written a dedicated step-by-step guide:
+
+> **[How to create an energy community in Wallonia: a step-by-step guide](/en/news/2026/05/11/create-energy-community-wallonia/)**
 >
-> We're preparing a step-by-step guide covering the legal structure, member onboarding, technical configuration with your DSO, and the registration process. Stay tuned.
+> Choosing between CER and CEC, framing the project, notifying the CWaPE, receiving the acknowledgement, and launching the sharing with ORES, RESA or AIEG.
+
+> **Coming soon — Brussels and Flanders**
+>
+> The procedures on the **BRUGEL / Sibelga** (Brussels) and **VREG / Fluvius** (Flanders) sides will be covered in dedicated guides. Stay tuned.
+
+## Want to join an energy community?
+
+**In Wallonia**, hundreds of sharing operations are actively looking for new members. You don't have to create your own community to benefit from sharing — a practical guide walks you through joining an existing operation in a few weeks.
+
+> **[How to join an energy community in Wallonia: a practical guide](/en/news/2026/05/11/join-energy-community-wallonia/)**
+>
+> Who can join, where to find an open operation (OptimCE registry, SPW facilitator, Énergie commune), step-by-step enrolment and points to check before you sign.
+
+> **Coming soon — Brussels and Flanders**
+>
+> Joining procedures in **Brussels** (BRUGEL / Sibelga) and **Flanders** (VREG / Fluvius) will be covered in dedicated guides. Stay tuned.
+
+## Sources
+
+- [CWaPE — Energy communities and energy sharing](https://www.cwape.be/secteur/communautes-partage-energie) — Walloon regulator: legal framework and guidance.
+- [CWaPE — Decrees on energy communities](https://www.cwape.be/node/6043) — Walloon legislation and 2025 evaluation report.
+- [CWaPE — CER vs. CEC comparison](https://www.cwape.be/node/6044) — detailed differences between the two models.
+- [environnement.brussels — Energy sharing and communities](https://environnement.brussels/citoyen/agir-pour-lenvironnement/devenir-eco-responsable/partage-et-communautes-denergie) — Brussels framework and sharing types.
+- [ORES — Energy communities](https://www.ores.be/particulier/communautes-denergie) — perspective of the Walloon DSO.
+- [Federal Public Service Economy — Share of renewable energy sources](https://economie.fgov.be/fr/themes/energie/suivi-des-objectifs-europeens/part-des-sources-denergie) — 2024 figures and 2030 targets.
+- [VREG](https://www.vreg.be/) — Flemish energy regulator.
+- [Sun-Job](https://www.sun-job.be/about-us) — Belgian solar installer.
+- EU Directives [2018/2001](https://eur-lex.europa.eu/eli/dir/2018/2001/oj) (RED II), [2019/944](https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32019L0944) and [2023/2413](https://www.stradalex.eu/en/se_src_publ_leg_eur_jo/toc/leg_eur_jo_3_20231031/doc/ojeu_202302413) — *Clean Energy Package*.

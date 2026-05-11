@@ -22,10 +22,10 @@ Operativ ist eine Energiegemeinschaft die **rechtliche Ebene**. Innerhalb dieser
 
 Energiegemeinschaften sind aus dem europäischen *Clean Energy Package* hervorgegangen, das zwei zentrale Richtlinien bündelt:
 
-- Die **Richtlinie 2018/2001** (RED II), die **erneuerbare** Energiegemeinschaften regelt;
-- Die **Richtlinie 2019/944**, die **Bürgerenergiegemeinschaften** im Rahmen des Elektrizitätsbinnenmarkts schafft.
+- Die **[Richtlinie 2018/2001](https://eur-lex.europa.eu/eli/dir/2018/2001/oj)** (RED II), die **erneuerbare** Energiegemeinschaften regelt;
+- Die **[Richtlinie 2019/944](https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32019L0944)**, die **Bürgerenergiegemeinschaften** im Rahmen des Elektrizitätsbinnenmarkts schafft.
 
-Jüngst hat die **Richtlinie 2023/2413** das belgische Ziel für erneuerbare Energien auf **21,7 %** bis 2030 angehoben (gegenüber den ursprünglichen 20,4 % im Nationalen Energie- und Klimaplan). 2024 lag Belgien bei **14,21 %**, leicht unter dem Wert von 2023, laut dem [FÖD Wirtschaft](https://economie.fgov.be/fr/themes/energie/suivi-des-objectifs-europeens/part-des-sources-denergie). Das Ziel zu erreichen erfordert eine **Dezentralisierung** der Erzeugung und eine bessere **lokale Verwertung** des erneuerbaren Stroms — genau das, was Energiegemeinschaften ermöglichen.
+Jüngst hat die **[Richtlinie 2023/2413](https://www.stradalex.eu/en/se_src_publ_leg_eur_jo/toc/leg_eur_jo_3_20231031/doc/ojeu_202302413)** das belgische Ziel für erneuerbare Energien auf **21,7 %** bis 2030 angehoben (gegenüber den ursprünglichen 20,4 % im Nationalen Energie- und Klimaplan). 2024 lag Belgien bei **14,21 %**, leicht unter dem Wert von 2023, laut dem [FÖD Wirtschaft](https://economie.fgov.be/fr/themes/energie/suivi-des-objectifs-europeens/part-des-sources-denergie). Das Ziel zu erreichen erfordert eine **Dezentralisierung** der Erzeugung und eine bessere **lokale Verwertung** des erneuerbaren Stroms — genau das, was Energiegemeinschaften ermöglichen.
 
 ## Drei Typen: CER, CEC, CEL
 
@@ -124,6 +124,36 @@ Flandern verfügt über einen gleichwertigen Rahmen unter Aufsicht des **VREG**,
 
 ## Möchten Sie Ihre eigene Energiegemeinschaft gründen?
 
-> **Demnächst — Wie Sie Ihre eigene Energiegemeinschaft in Belgien gründen**
+**In der Wallonie** ist der Rahmen seit 2022 stabil und das Verfahren vollständig dokumentiert. Wir haben einen eigenen Schritt-für-Schritt-Leitfaden verfasst:
+
+> **[Eine Energiegemeinschaft in der Wallonie gründen: Schritt-für-Schritt-Leitfaden](/de/aktuelles/2026/05/11/energiegemeinschaft-gruenden-wallonien/)**
 >
-> Wir bereiten einen Schritt-für-Schritt-Leitfaden vor, der die Rechtsstruktur, das Onboarding der Mitglieder, die technische Konfiguration mit Ihrem VNB und das Registrierungsverfahren behandelt. Bleiben Sie dran.
+> Wahl zwischen CER und CEC, Projektstrukturierung, Meldung bei der CWaPE, Empfangsbestätigung und Start der Teilung mit ORES, RESA oder AIEG.
+
+> **Demnächst — Brüssel und Flandern**
+>
+> Die Verfahren auf Seite von **BRUGEL / Sibelga** (Brüssel) und **VREG / Fluvius** (Flandern) werden in eigenen Leitfäden behandelt. Bleiben Sie dran.
+
+## Möchten Sie einer Energiegemeinschaft beitreten?
+
+**In der Wallonie** suchen Hunderte von Teilungsoperationen aktiv neue Mitglieder. Sie müssen keine eigene Gemeinschaft gründen, um von der Teilung zu profitieren — ein praktischer Leitfaden führt Sie Schritt für Schritt zum Beitritt zu einer bestehenden Operation in wenigen Wochen.
+
+> **[Einer Energiegemeinschaft in der Wallonie beitreten: Leitfaden](/de/aktuelles/2026/05/11/energiegemeinschaft-beitreten-wallonien/)**
+>
+> Wer beitreten kann, wo eine offene Operation finden (OptimCE-Register, SPW-Facilitator, Énergie commune), Beitrittsschritte und Punkte zur Beachtung vor der Unterzeichnung.
+
+> **Demnächst — Brüssel und Flandern**
+>
+> Die Modalitäten für den Beitritt in **Brüssel** (BRUGEL / Sibelga) und in **Flandern** (VREG / Fluvius) werden in eigenen Leitfäden behandelt. Bleiben Sie dran.
+
+## Quellen
+
+- [CWaPE — Energiegemeinschaften und Energieteilung](https://www.cwape.be/secteur/communautes-partage-energie) — wallonische Regulierungsbehörde: Rechtsrahmen und Leitfäden.
+- [CWaPE — Dekrete zu Energiegemeinschaften](https://www.cwape.be/node/6043) — wallonische Gesetzgebung und Evaluierungsbericht 2025.
+- [CWaPE — Vergleich CER und CEC](https://www.cwape.be/node/6044) — detaillierte Unterschiede zwischen beiden Modellen.
+- [Umwelt Brüssel — Energieteilung und Energiegemeinschaften](https://environnement.brussels/citoyen/agir-pour-lenvironnement/devenir-eco-responsable/partage-et-communautes-denergie) — Brüsseler Rahmen und Teilungsarten.
+- [ORES — Energiegemeinschaften](https://www.ores.be/particulier/communautes-denergie) — Perspektive des wallonischen VNB.
+- [FÖD Wirtschaft — Anteil erneuerbarer Energiequellen](https://economie.fgov.be/fr/themes/energie/suivi-des-objectifs-europeens/part-des-sources-denergie) — Daten 2024 und Ziele 2030.
+- [VREG](https://www.vreg.be/) — flämische Energieregulierungsbehörde.
+- [Sun-Job](https://www.sun-job.be/about-us) — belgischer Photovoltaik-Installateur.
+- EU-Richtlinien [2018/2001](https://eur-lex.europa.eu/eli/dir/2018/2001/oj) (RED II), [2019/944](https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32019L0944) und [2023/2413](https://www.stradalex.eu/en/se_src_publ_leg_eur_jo/toc/leg_eur_jo_3_20231031/doc/ojeu_202302413) — *Clean Energy Package*.

@@ -21,10 +21,10 @@ Sur le plan opérationnel, une communauté d'énergie est une **structure juridi
 
 Les communautés d'énergie sont nées du *Clean Energy Package* européen, qui regroupe deux directives clés :
 
-- La **directive 2018/2001** (RED II), qui encadre les communautés d'énergie **renouvelable** ;
-- La **directive 2019/944**, qui crée les communautés d'énergie **citoyenne** dans le cadre du marché intérieur de l'électricité.
+- La **[directive 2018/2001](https://eur-lex.europa.eu/eli/dir/2018/2001/oj)** (RED II), qui encadre les communautés d'énergie **renouvelable** ;
+- La **[directive 2019/944](https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32019L0944)**, qui crée les communautés d'énergie **citoyenne** dans le cadre du marché intérieur de l'électricité.
 
-Plus récemment, la **directive 2023/2413** a relevé l'objectif belge de part d'énergie renouvelable à **21,7 %** d'ici 2030 (contre 20,4 % dans le Plan national énergie-climat initial). En 2024, la Belgique en était à **14,21 %**, en léger recul par rapport à 2023 selon le [SPF Économie](https://economie.fgov.be/fr/themes/energie/suivi-des-objectifs-europeens/part-des-sources-denergie). Atteindre la cible imposera de **décentraliser** la production et de mieux **valoriser localement** l'électricité renouvelable — exactement ce que permettent les communautés d'énergie.
+Plus récemment, la **[directive 2023/2413](https://www.stradalex.eu/en/se_src_publ_leg_eur_jo/toc/leg_eur_jo_3_20231031/doc/ojeu_202302413)** a relevé l'objectif belge de part d'énergie renouvelable à **21,7 %** d'ici 2030 (contre 20,4 % dans le Plan national énergie-climat initial). En 2024, la Belgique en était à **14,21 %**, en léger recul par rapport à 2023 selon le [SPF Économie](https://economie.fgov.be/fr/themes/energie/suivi-des-objectifs-europeens/part-des-sources-denergie). Atteindre la cible imposera de **décentraliser** la production et de mieux **valoriser localement** l'électricité renouvelable — exactement ce que permettent les communautés d'énergie.
 
 ## Les trois types : CER, CEC, CEL
 
@@ -123,6 +123,36 @@ Via les **compteurs communicants** (smart meters) déployés par les GRD, qui tr
 
 ## Vous voulez créer votre propre communauté d'énergie ?
 
-> **Bientôt — Comment créer votre propre communauté d'énergie en Belgique**
+**En Wallonie**, le cadre est stabilisé depuis 2022 et la procédure est entièrement documentée. Nous avons rédigé un guide pas à pas dédié :
+
+> **[Créer une communauté d'énergie en Wallonie : guide étape par étape](/actualites/2026/05/11/creer-communaute-energie-wallonie/)**
 >
-> Nous préparons un guide pas à pas couvrant la structure juridique, l'intégration des membres, la configuration technique avec votre GRD et les démarches d'enregistrement. Restez à l'écoute.
+> Choix entre CER et CEC, cadrage du projet, notification à la CWaPE, accusé de réception et démarrage du partage avec ORES, RESA ou AIEG.
+
+> **Bientôt — Bruxelles et Flandre**
+>
+> Les procédures côté **BRUGEL / Sibelga** (Bruxelles) et **VREG / Fluvius** (Flandre) feront l'objet de guides dédiés. Restez à l'écoute.
+
+## Vous voulez rejoindre une communauté d'énergie ?
+
+**En Wallonie**, des centaines d'opérations de partage cherchent activement de nouveaux membres. Pas besoin de créer votre propre communauté pour profiter du partage : un guide pratique détaille comment rejoindre une opération existante en quelques semaines.
+
+> **[Rejoindre une communauté d'énergie en Wallonie : guide pratique](/actualites/2026/05/11/rejoindre-communaute-energie-wallonie/)**
+>
+> Qui peut adhérer, où trouver une opération ouverte (registre OptimCE, facilitateur SPW, Énergie commune), démarches pas à pas et points de vigilance avant de signer.
+
+> **Bientôt — Bruxelles et Flandre**
+>
+> Les modalités pour rejoindre une communauté à **Bruxelles** (BRUGEL / Sibelga) et en **Flandre** (VREG / Fluvius) feront l'objet de guides dédiés. Restez à l'écoute.
+
+## Sources
+
+- [CWaPE — Communautés et partage d'énergie](https://www.cwape.be/secteur/communautes-partage-energie) — régulateur wallon : cadre légal et guides.
+- [CWaPE — Décrets sur les communautés d'énergie](https://www.cwape.be/node/6043) — législation wallonne et rapport d'évaluation 2025.
+- [CWaPE — Comparaison CER et CEC](https://www.cwape.be/node/6044) — différences détaillées entre les deux modèles.
+- [Bruxelles Environnement — Partage et communautés d'énergie](https://environnement.brussels/citoyen/agir-pour-lenvironnement/devenir-eco-responsable/partage-et-communautes-denergie) — cadre bruxellois et types de partage.
+- [ORES — Communautés d'énergie](https://www.ores.be/particulier/communautes-denergie) — perspective du gestionnaire de réseau wallon.
+- [SPF Économie — Part des sources d'énergie renouvelables](https://economie.fgov.be/fr/themes/energie/suivi-des-objectifs-europeens/part-des-sources-denergie) — statistiques 2024 et objectifs 2030.
+- [VREG](https://www.vreg.be/) — régulateur flamand de l'énergie.
+- [Sun-Job](https://www.sun-job.be/about-us) — installateur photovoltaïque belge.
+- Directives européennes [2018/2001](https://eur-lex.europa.eu/eli/dir/2018/2001/oj) (RED II), [2019/944](https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32019L0944) et [2023/2413](https://www.stradalex.eu/en/se_src_publ_leg_eur_jo/toc/leg_eur_jo_3_20231031/doc/ojeu_202302413) — *Clean Energy Package*.

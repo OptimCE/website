@@ -22,10 +22,10 @@ Operationeel is een energiegemeenschap de **juridische laag**. Daarbinnen voeren
 
 Energiegemeenschappen zijn ontstaan uit het Europese *Clean Energy Package*, dat twee centrale richtlijnen bundelt:
 
-- **Richtlijn 2018/2001** (RED II), die **hernieuwbare** energiegemeenschappen omkadert;
-- **Richtlijn 2019/944**, die **burgerenergiegemeenschappen** creëert binnen de interne elektriciteitsmarkt.
+- **[Richtlijn 2018/2001](https://eur-lex.europa.eu/eli/dir/2018/2001/oj)** (RED II), die **hernieuwbare** energiegemeenschappen omkadert;
+- **[Richtlijn 2019/944](https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32019L0944)**, die **burgerenergiegemeenschappen** creëert binnen de interne elektriciteitsmarkt.
 
-Recenter heeft **richtlijn 2023/2413** de Belgische doelstelling voor hernieuwbare energie opgetrokken tot **21,7 %** tegen 2030 (tegenover de oorspronkelijke 20,4 % uit het Nationaal Energie- en Klimaatplan). In 2024 stond België op **14,21 %**, een lichte daling tegenover 2023 volgens [FOD Economie](https://economie.fgov.be/fr/themes/energie/suivi-des-objectifs-europeens/part-des-sources-denergie). Het doel halen vereist het **decentraliseren** van de productie en het beter **lokaal valoriseren** van hernieuwbare elektriciteit — net wat energiegemeenschappen mogelijk maken.
+Recenter heeft **[richtlijn 2023/2413](https://www.stradalex.eu/en/se_src_publ_leg_eur_jo/toc/leg_eur_jo_3_20231031/doc/ojeu_202302413)** de Belgische doelstelling voor hernieuwbare energie opgetrokken tot **21,7 %** tegen 2030 (tegenover de oorspronkelijke 20,4 % uit het Nationaal Energie- en Klimaatplan). In 2024 stond België op **14,21 %**, een lichte daling tegenover 2023 volgens [FOD Economie](https://economie.fgov.be/fr/themes/energie/suivi-des-objectifs-europeens/part-des-sources-denergie). Het doel halen vereist het **decentraliseren** van de productie en het beter **lokaal valoriseren** van hernieuwbare elektriciteit — net wat energiegemeenschappen mogelijk maken.
 
 ## De drie types: CER, CEC, CEL
 
@@ -124,6 +124,36 @@ Via de **slimme meters** (smart meters) die door de DNB's worden uitgerold en de
 
 ## Wilt u uw eigen energiegemeenschap opstarten?
 
-> **Binnenkort — Hoe u uw eigen energiegemeenschap in België opstart**
+**In Wallonië** is het kader stabiel sinds 2022 en is de procedure volledig gedocumenteerd. We schreven een specifieke stap-voor-stap-gids:
+
+> **[Een energiegemeenschap oprichten in Wallonië: stap-voor-stap-gids](/nl/nieuws/2026/05/11/energiegemeenschap-oprichten-wallonie/)**
 >
-> We bereiden een stappenplan voor over de juridische structuur, het onboarden van leden, de technische configuratie met uw DNB en de registratieformaliteiten. Blijf op de hoogte.
+> Keuze tussen CER en CEC, uitwerken van het project, melding bij de CWaPE, ontvangstbevestiging en opstart van het delen met ORES, RESA of AIEG.
+
+> **Binnenkort — Brussel en Vlaanderen**
+>
+> De procedures aan de zijde van **BRUGEL / Sibelga** (Brussel) en **VREG / Fluvius** (Vlaanderen) komen aan bod in toegewijde gidsen. Blijf op de hoogte.
+
+## Wilt u toetreden tot een energiegemeenschap?
+
+**In Wallonië** zoeken honderden deelacties actief naar nieuwe leden. U hoeft geen eigen gemeenschap op te richten om van het delen te profiteren — een praktische gids leidt u stap voor stap naar de toetreding tot een bestaande deelactie in enkele weken.
+
+> **[Toetreden tot een energiegemeenschap in Wallonië: praktische gids](/nl/nieuws/2026/05/11/energiegemeenschap-aansluiten-wallonie/)**
+>
+> Wie kan toetreden, waar een open deelactie te vinden (OptimCE-register, SPW-facilitator, Énergie commune), stap-voor-stap-procedure en aandachtspunten vóór ondertekening.
+
+> **Binnenkort — Brussel en Vlaanderen**
+>
+> De modaliteiten om toe te treden in **Brussel** (BRUGEL / Sibelga) en in **Vlaanderen** (VREG / Fluvius) komen aan bod in toegewijde gidsen. Blijf op de hoogte.
+
+## Bronnen
+
+- [CWaPE — Energiegemeenschappen en energiedelen](https://www.cwape.be/secteur/communautes-partage-energie) — Waalse regulator: wettelijk kader en richtsnoeren.
+- [CWaPE — Decreten over energiegemeenschappen](https://www.cwape.be/node/6043) — Waalse wetgeving en evaluatierapport 2025.
+- [CWaPE — Vergelijking CER en CEC](https://www.cwape.be/node/6044) — gedetailleerde verschillen tussen de twee modellen.
+- [Leefmilieu Brussel — Energiedelen en -gemeenschappen](https://environnement.brussels/citoyen/agir-pour-lenvironnement/devenir-eco-responsable/partage-et-communautes-denergie) — Brussels kader en types van deelacties.
+- [ORES — Energiegemeenschappen](https://www.ores.be/particulier/communautes-denergie) — perspectief van de Waalse DNB.
+- [FOD Economie — Aandeel hernieuwbare energiebronnen](https://economie.fgov.be/fr/themes/energie/suivi-des-objectifs-europeens/part-des-sources-denergie) — cijfers 2024 en doelstellingen 2030.
+- [VREG](https://www.vreg.be/) — Vlaamse energieregulator.
+- [Sun-Job](https://www.sun-job.be/about-us) — Belgische installateur van zonnepanelen.
+- Europese richtlijnen [2018/2001](https://eur-lex.europa.eu/eli/dir/2018/2001/oj) (RED II), [2019/944](https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32019L0944) en [2023/2413](https://www.stradalex.eu/en/se_src_publ_leg_eur_jo/toc/leg_eur_jo_3_20231031/doc/ojeu_202302413) — *Clean Energy Package*.
