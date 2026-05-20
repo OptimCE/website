@@ -100,7 +100,7 @@ Particulieren, kmo's en lokale overheden kunnen deelnemen. Deelname is open en v
 
 ### Hoe wordt mijn korting berekend?
 
-De DNB analyseert uw 15-minuten­registraties, past de **verdeelsleutel** toe die binnen de gemeenschap is afgesproken, en geeft uw leverancier door hoeveel gedeelde energie aan u werd toegewezen. Dat deel wordt gefactureerd aan de prijs die binnen de gemeenschap is onderhandeld, doorgaans lager dan het markttarief.
+De DNB analyseert uw 15-minuten­registraties, past de **verdeelsleutel** toe die binnen de gemeenschap is afgesproken, en geeft uw leverancier door hoeveel gedeelde energie aan u werd toegewezen. Dat deel wordt gefactureerd aan de prijs die binnen de gemeenschap is onderhandeld, doorgaans lager dan het markttarief. Voor het detail van de types sleutels die in elk gewest worden aanvaard, zie onze gids [« Verdeelsleutel in België: Wallonië, Brussel en Vlaanderen vergeleken »](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/).
 
 ### Is er een geografische beperking?
 

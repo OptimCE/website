@@ -56,7 +56,7 @@ This is the longest step, but it's also the one that determines the community's 
 1. **Who produces?** Identify the producer(s) (existing rooftop PV, new project, cogeneration…) and their delivery point (EAN).
 2. **Who consumes?** List the future consuming members, their estimated annual consumption and their EANs.
 3. **Where?** Map the locations to verify the proximity criterion (CER) or confirm it is not required (CEC).
-4. **How is the energy allocated?** Sketch the allocation key (static: fixed percentages; dynamic: proportional to real-time consumption).
+4. **How is the energy allocated?** Sketch the allocation key (static: fixed percentages; dynamic: proportional to real-time consumption). For a detailed overview of the keys accepted by CWaPE and their Brussels and Flanders counterparts, see our article [“Allocation key in Belgium: Wallonia, Brussels and Flanders compared”](/en/news/2026/05/19/allocation-key-belgium/).
 
 ### Choose a legal structure
 

@@ -100,7 +100,7 @@ Privatpersonen, KMU und lokale Behörden können teilnehmen. Die Teilnahme ist o
 
 ### Wie wird mein Rabatt berechnet?
 
-Der VNB analysiert Ihre 15-Minuten-Daten, wendet den von der Gemeinschaft festgelegten **Verteilungsschlüssel** an und teilt Ihrem Lieferanten mit, wie viel geteilte Energie Ihnen zugewiesen wurde. Dieser Anteil wird zum innerhalb der Gemeinschaft ausgehandelten Tarif abgerechnet, in der Regel unter dem Marktpreis.
+Der VNB analysiert Ihre 15-Minuten-Daten, wendet den von der Gemeinschaft festgelegten **Verteilungsschlüssel** an und teilt Ihrem Lieferanten mit, wie viel geteilte Energie Ihnen zugewiesen wurde. Dieser Anteil wird zum innerhalb der Gemeinschaft ausgehandelten Tarif abgerechnet, in der Regel unter dem Marktpreis. Für die Details der in jeder Region akzeptierten Schlüsseltypen siehe unseren Leitfaden [„Verteilungsschlüssel in Belgien: Wallonie, Brüssel und Flandern im Vergleich“](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/).
 
 ### Gibt es eine geografische Beschränkung?
 

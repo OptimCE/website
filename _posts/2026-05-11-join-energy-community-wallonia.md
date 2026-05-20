@@ -158,7 +158,7 @@ The implications differ. **CER**: renewable sources only, geographic proximity r
 
 ### Allocation key — static or dynamic?
 
-A **static** key gives each member a fixed percentage of the sharing (simple, predictable). A **dynamic** key allocates pro rata to real-time consumption at 15-minute granularity (fairer, but variable month to month). Ask **how the key is revised**: annually, at each general assembly, whenever a new member joins?
+A **static** key gives each member a fixed percentage of the sharing (simple, predictable). A **dynamic** key allocates pro rata to real-time consumption at 15-minute granularity (fairer, but variable month to month). Ask **how the key is revised**: annually, at each general assembly, whenever a new member joins? For the detail of the three standard keys validated by CWaPE and the comparison with Brussels and Flanders, see our guide [“Allocation key in Belgium: Wallonia, Brussels and Flanders compared”](/en/news/2026/05/19/allocation-key-belgium/).
 
 ### Internal price — how is it set?
 

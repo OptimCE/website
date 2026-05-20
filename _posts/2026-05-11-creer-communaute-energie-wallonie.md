@@ -55,7 +55,7 @@ C'est l'étape la plus longue, mais aussi celle qui détermine la solidité de l
 1. **Qui produit ?** Identifier le ou les producteurs (toiture PV existante, projet à construire, cogénération…) et leur point de fourniture (EAN).
 2. **Qui consomme ?** Lister les futurs membres consommateurs, leur consommation annuelle estimée et leurs EAN.
 3. **Où ?** Cartographier les emplacements pour vérifier le critère de proximité (CER) ou confirmer qu'il n'est pas requis (CEC).
-4. **Comment se répartit l'énergie ?** Esquisser la clé de répartition (statique : pourcentages fixes ; dynamique : proportionnelle à la consommation en temps réel).
+4. **Comment se répartit l'énergie ?** Esquisser la clé de répartition (statique : pourcentages fixes ; dynamique : proportionnelle à la consommation en temps réel). Pour un panorama détaillé des clés reconnues par la CWaPE et leurs équivalents bruxellois et flamands, voyez notre article [« Clé de répartition en Belgique : Wallonie, Bruxelles et Flandre comparées »](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/).
 
 ### Choisir une structure juridique
 

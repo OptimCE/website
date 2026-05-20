@@ -56,7 +56,7 @@ Dit is de langste stap, maar ook degene die de soliditeit van de gemeenschap bep
 1. **Wie produceert?** Identificeer de producent(en) (bestaande dak-PV, nieuw project, WKK…) en hun leveringspunt (EAN).
 2. **Wie verbruikt?** Lijst de toekomstige verbruikende leden op, hun geschatte jaarverbruik en hun EAN's.
 3. **Waar?** Breng de locaties in kaart om het nabijheidscriterium (CER) te verifiëren of te bevestigen dat het niet vereist is (CEC).
-4. **Hoe wordt de energie verdeeld?** Schets de verdeelsleutel (statisch: vaste percentages; dynamisch: evenredig met het verbruik in real time).
+4. **Hoe wordt de energie verdeeld?** Schets de verdeelsleutel (statisch: vaste percentages; dynamisch: evenredig met het verbruik in real time). Voor een gedetailleerd overzicht van de door CWaPE aanvaarde sleutels en hun Brusselse en Vlaamse tegenhangers, zie ons artikel [« Verdeelsleutel in België: Wallonië, Brussel en Vlaanderen vergeleken »](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/).
 
 ### Een juridische vorm kiezen
 

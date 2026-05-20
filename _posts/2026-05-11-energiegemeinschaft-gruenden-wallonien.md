@@ -56,7 +56,7 @@ Dies ist der längste Schritt, aber auch derjenige, der die Belastbarkeit der Ge
 1. **Wer erzeugt?** Identifizieren Sie die Erzeuger (bestehende Dach-PV, neues Projekt, KWK…) und ihren Lieferpunkt (EAN).
 2. **Wer verbraucht?** Listen Sie die zukünftigen verbrauchenden Mitglieder, ihren geschätzten Jahresverbrauch und ihre EANs auf.
 3. **Wo?** Kartieren Sie die Standorte, um das Nähe-Kriterium (CER) zu prüfen oder zu bestätigen, dass es nicht erforderlich ist (CEC).
-4. **Wie wird die Energie verteilt?** Skizzieren Sie den Verteilungsschlüssel (statisch: feste Prozentsätze; dynamisch: proportional zum Echtzeitverbrauch).
+4. **Wie wird die Energie verteilt?** Skizzieren Sie den Verteilungsschlüssel (statisch: feste Prozentsätze; dynamisch: proportional zum Echtzeitverbrauch). Für einen detaillierten Überblick über die von der CWaPE akzeptierten Schlüssel und ihre Brüsseler und flämischen Entsprechungen siehe unseren Artikel [„Verteilungsschlüssel in Belgien: Wallonie, Brüssel und Flandern im Vergleich“](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/).
 
 ### Eine Rechtsform wählen
 

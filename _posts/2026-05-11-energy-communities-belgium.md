@@ -100,7 +100,7 @@ Individuals, SMEs and local authorities can take part. Participation is open and
 
 ### How is my discount calculated?
 
-The DSO analyses your 15-minute readings, applies the **allocation key** defined by the community, and tells your supplier how much shared energy was attributed to you. That share is billed at the rate negotiated within the community, typically below the market rate.
+The DSO analyses your 15-minute readings, applies the **allocation key** defined by the community, and tells your supplier how much shared energy was attributed to you. That share is billed at the rate negotiated within the community, typically below the market rate. For the detail of the key types accepted in each region, see our guide [“Allocation key in Belgium: Wallonia, Brussels and Flanders compared”](/en/news/2026/05/19/allocation-key-belgium/).
 
 ### Is there a geographic limit?
 

@@ -158,7 +158,7 @@ De gevolgen verschillen. **CER**: alleen hernieuwbare bronnen, geografische nabi
 
 ### Verdeelsleutel — statisch of dynamisch?
 
-Een **statische** sleutel kent elk lid een vast percentage van het delen toe (eenvoudig, voorspelbaar). Een **dynamische** sleutel verdeelt evenredig met het reële verbruik om de 15 minuten (rechtvaardiger, maar variabel van maand tot maand). Vraag **hoe de sleutel wordt herzien**: jaarlijks, bij elke algemene vergadering, bij elke aankomst van een nieuw lid?
+Een **statische** sleutel kent elk lid een vast percentage van het delen toe (eenvoudig, voorspelbaar). Een **dynamische** sleutel verdeelt evenredig met het reële verbruik om de 15 minuten (rechtvaardiger, maar variabel van maand tot maand). Vraag **hoe de sleutel wordt herzien**: jaarlijks, bij elke algemene vergadering, bij elke aankomst van een nieuw lid? Voor het detail van de drie standaardsleutels gevalideerd door CWaPE en de vergelijking met Brussel en Vlaanderen, zie onze gids [« Verdeelsleutel in België: Wallonië, Brussel en Vlaanderen vergeleken »](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/).
 
 ### Interne prijs — hoe wordt hij onderhandeld?
 

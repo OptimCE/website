@@ -158,7 +158,7 @@ Die Auswirkungen unterscheiden sich. **CER**: ausschließlich erneuerbare Quelle
 
 ### Verteilungsschlüssel — statisch oder dynamisch?
 
-Ein **statischer** Schlüssel weist jedem Mitglied einen festen Prozentsatz der Teilung zu (einfach, vorhersehbar). Ein **dynamischer** Schlüssel verteilt anteilig zum tatsächlichen 15-Minuten-Verbrauch (gerechter, aber von Monat zu Monat schwankend). Fragen Sie, **wie der Schlüssel revidiert wird**: jährlich, bei jeder Hauptversammlung, bei jedem neuen Mitglied?
+Ein **statischer** Schlüssel weist jedem Mitglied einen festen Prozentsatz der Teilung zu (einfach, vorhersehbar). Ein **dynamischer** Schlüssel verteilt anteilig zum tatsächlichen 15-Minuten-Verbrauch (gerechter, aber von Monat zu Monat schwankend). Fragen Sie, **wie der Schlüssel revidiert wird**: jährlich, bei jeder Hauptversammlung, bei jedem neuen Mitglied? Für die Details der drei von der CWaPE validierten Standardschlüssel und den Vergleich mit Brüssel und Flandern siehe unseren Leitfaden [„Verteilungsschlüssel in Belgien: Wallonie, Brüssel und Flandern im Vergleich“](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/).
 
 ### Innenpreis — wie wird er ausgehandelt?
 

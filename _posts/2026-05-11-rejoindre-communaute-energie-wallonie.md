@@ -157,7 +157,7 @@ Les implications diffèrent. **CER** : sources renouvelables uniquement, proximi
 
 ### Clé de répartition — statique ou dynamique ?
 
-Une clé **statique** attribue à chaque membre un pourcentage fixe du partage (simple, prévisible). Une clé **dynamique** répartit au prorata de la consommation réelle au pas de 15 minutes (plus juste, mais variable d'un mois à l'autre). Demandez **comment la clé est révisée** : annuellement, à chaque assemblée générale, à chaque arrivée d'un nouveau membre ?
+Une clé **statique** attribue à chaque membre un pourcentage fixe du partage (simple, prévisible). Une clé **dynamique** répartit au prorata de la consommation réelle au pas de 15 minutes (plus juste, mais variable d'un mois à l'autre). Demandez **comment la clé est révisée** : annuellement, à chaque assemblée générale, à chaque arrivée d'un nouveau membre ? Pour le détail des trois clés standards validées par la CWaPE et la comparaison avec Bruxelles et la Flandre, voyez notre guide [« Clé de répartition en Belgique : Wallonie, Bruxelles et Flandre comparées »](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/).
 
 ### Prix interne — comment est-il négocié ?
 

@@ -99,7 +99,7 @@ Les particuliers, les PME et les autorités locales peuvent y participer. La par
 
 ### Comment ma réduction est-elle calculée ?
 
-Le GRD analyse vos relevés au pas de 15 minutes, applique la **clé de répartition** définie par la communauté, et transmet à votre fournisseur la quantité d'énergie partagée à votre profit. Cette part est facturée au tarif négocié dans la communauté, généralement inférieur au tarif marché.
+Le GRD analyse vos relevés au pas de 15 minutes, applique la **clé de répartition** définie par la communauté, et transmet à votre fournisseur la quantité d'énergie partagée à votre profit. Cette part est facturée au tarif négocié dans la communauté, généralement inférieur au tarif marché. Pour le détail des types de clés acceptées dans chaque région, voyez notre guide [« Clé de répartition en Belgique : Wallonie, Bruxelles et Flandre comparées »](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/).
 
 ### Y a-t-il une limite géographique ?
 
