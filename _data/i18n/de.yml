@@ -12,6 +12,7 @@ nav:
   github: "GitHub"
   links: "Links"
   guide: "Benutzerhandbuch"
+  privacy: "Datenschutz"
 
 # Hero Section
 hero:
@@ -76,6 +77,34 @@ why:
         Schnelle Installation. Mehrsprachige Oberfläche (FR, EN, NL, DE)
         und skalierbare Architektur.
 
+# Commitment
+commitment:
+  title: "Kostenlos, offen — und dafür gebaut, es zu bleiben"
+  subtitle: >-
+    OptimCE befindet sich in der Alpha-Phase und ist Teil eines laufenden Forschungsprojekts.
+    Das sind unsere Zusagen, heute und langfristig.
+  cards:
+    - icon: "rocket"
+      label: "Heute"
+      title: "Während der Alpha kostenlos"
+      description: >-
+        Die gehostete SaaS unter app.optimce.be ist während der Alpha-Phase kostenlos nutzbar.
+        Wie bei vielen Open-Source-Projekten kann die gehostete Version später auf bezahlte
+        Tarife umstellen — Sie werden frühzeitig informiert. Self-Hosting bleibt in jedem Fall kostenlos.
+    - icon: "code"
+      label: "Für immer"
+      title: "Open Source, immer"
+      description: >-
+        Der gesamte Quellcode wird unter Apache 2.0 veröffentlicht und bleibt offen.
+        Prüfen, forken, beitragen — kein proprietärer Kern, kein Wortbruch.
+    - icon: "server"
+      label: "Für immer"
+      title: "Self-Hosting immer kostenlos"
+      description: >-
+        Betreiben Sie OptimCE auf Ihrer eigenen Infrastruktur ohne jede Einschränkung.
+        Der Open-Source-Kern bleibt vollständig — keine bezahlten Stufen, keine gesperrten Funktionen.
+        Bezahlter Support oder Services können separat existieren, aber niemals als Sperre für den Open-Source-Kern selbst.
+
 # For Developers
 developers:
   title: "Für Entwickler"
@@ -106,6 +135,23 @@ blog:
   back_to_blog: "Zurück zu Aktuelles"
   older_posts: "Ältere Beiträge"
   newer_posts: "Neuere Beiträge"
+  updated_on: "Aktualisiert am"
+  filter_label: "Nach Tag filtern"
+  sort_label: "Sortieren nach"
+  all_tags: "Alle"
+  no_results: "Keine Artikel entsprechen diesem Filter."
+  sort:
+    newest: "Neueste zuerst"
+    oldest: "Älteste zuerst"
+    updated: "Kürzlich aktualisiert"
+  tags:
+    app: "OptimCE-App"
+    administrative: "Verwaltung"
+    allocation-key: "Verteilungsschlüssel"
+    community: "Energiegemeinschaft"
+    announcement: "Ankündigung"
+    news: "Neuigkeiten"
+    guide: "Anleitung"
 
 # About
 about:

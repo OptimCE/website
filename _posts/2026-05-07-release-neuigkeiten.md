@@ -4,7 +4,7 @@ title: "Neue OptimCE-Version: Stabilität, Benutzerhandbuch und öffentliche Ene
 date: 2026-05-07 10:00:00 +0200
 author: "OptimCE-Team"
 excerpt: "Eine neue OptimCE-Version ist verfügbar — mit Fehlerbehebungen, einem brandneuen Benutzerhandbuch und einem öffentlichen Register zur Entdeckung offener Energieteilungsoperationen."
-categories: [ankuendigungen]
+tags: [app, announcement, news]
 lang: de
 ref: release-may-2026
 permalink: /de/aktuelles/2026/05/07/release-neuigkeiten/

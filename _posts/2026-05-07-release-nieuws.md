@@ -4,7 +4,7 @@ title: "Nieuwe OptimCE-release: stabiliteit, gebruikersgids en publieke deelacti
 date: 2026-05-07 10:00:00 +0200
 author: "OptimCE-team"
 excerpt: "Een nieuwe OptimCE-release is beschikbaar, met bugfixes, een gloednieuwe gebruikersgids en een publiek register om open energiedeelacties te ontdekken."
-categories: [aankondigingen]
+tags: [app, announcement, news]
 lang: nl
 ref: release-may-2026
 permalink: /nl/nieuws/2026/05/07/release-nieuws/

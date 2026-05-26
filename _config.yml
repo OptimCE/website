@@ -16,21 +16,25 @@ languages:
     blog_path: "/actualites/"
     about_path: "/a-propos/"
     features_anchor: "#fonctionnalites"
+    privacy_path: "/confidentialite/"
   - code: en
     prefix: "/en"
     blog_path: "/en/news/"
     about_path: "/en/about/"
     features_anchor: "#features"
+    privacy_path: "/en/privacy/"
   - code: de
     prefix: "/de"
     blog_path: "/de/aktuelles/"
     about_path: "/de/about/"
     features_anchor: "#funktionen"
+    privacy_path: "/de/datenschutz/"
   - code: nl
     prefix: "/nl"
     blog_path: "/nl/nieuws/"
     about_path: "/nl/about/"
     features_anchor: "#functies"
+    privacy_path: "/nl/privacy/"
 
 # Author
 author:

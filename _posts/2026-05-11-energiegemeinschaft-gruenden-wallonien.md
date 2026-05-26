@@ -4,7 +4,7 @@ title: "Eine Energiegemeinschaft in der Wallonie gründen: Schritt-für-Schritt-
 date: 2026-05-11 14:00:00 +0200
 author: "OptimCE-Team"
 excerpt: "Wie man eine Energiegemeinschaft (CER oder CEC) in der Wallonie gründet: Modellwahl, Rechtsform, Meldung bei der CWaPE, Empfangsbestätigung und Start der Energieteilung mit ORES, RESA oder AIEG."
-categories: [artikel]
+tags: [community, administrative, guide]
 lang: de
 ref: create-energy-community-wallonia
 permalink: /de/aktuelles/2026/05/11/energiegemeinschaft-gruenden-wallonien/

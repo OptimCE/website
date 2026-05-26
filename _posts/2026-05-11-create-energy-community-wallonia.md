@@ -4,7 +4,7 @@ title: "How to create an energy community in Wallonia: a step-by-step guide"
 date: 2026-05-11 14:00:00 +0200
 author: "OptimCE Team"
 excerpt: "How to set up an energy community (CER or CEC) in Wallonia: choosing the model, legal structure, CWaPE notification, acknowledgement of receipt, and launching the energy sharing with ORES, RESA or AIEG."
-categories: [articles]
+tags: [community, administrative, guide]
 lang: en
 ref: create-energy-community-wallonia
 permalink: /en/news/2026/05/11/create-energy-community-wallonia/

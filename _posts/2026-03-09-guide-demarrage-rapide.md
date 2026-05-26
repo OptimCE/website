@@ -4,7 +4,7 @@ title: "Guide de démarrage rapide avec OptimCE"
 date: 2026-03-09 14:00:00 +0100
 author: "Équipe OptimCE"
 excerpt: "Découvrez comment installer et configurer OptimCE en quelques étapes pour commencer à gérer votre communauté d'énergie."
-categories: [tutoriels]
+tags: [app, guide]
 lang: fr
 ref: quick-start-guide
 ---

@@ -12,6 +12,7 @@ nav:
   github: "GitHub"
   links: "Links"
   guide: "Gebruikershandleiding"
+  privacy: "Privacy"
 
 # Hero Section
 hero:
@@ -76,6 +77,35 @@ why:
         Snelle installatie. Meertalige interface (FR, EN, NL, DE)
         en schaalbare architectuur.
 
+# Commitment
+commitment:
+  title: "Gratis, open, en gebouwd om dat te blijven"
+  subtitle: >-
+    OptimCE bevindt zich in de alpha-fase en maakt deel uit van een lopend onderzoeksproject.
+    Dit zijn onze toezeggingen, vandaag en op lange termijn.
+  cards:
+    - icon: "rocket"
+      label: "Vandaag"
+      title: "Gratis tijdens de alpha"
+      description: >-
+        De gehoste SaaS op app.optimce.be is gratis te gebruiken tijdens de alpha-fase.
+        Zoals bij veel open source projecten, kan de gehoste versie later overstappen
+        op betaalde plannen — u wordt ruim van tevoren op de hoogte gesteld.
+        Self-hosting blijft hoe dan ook gratis.
+    - icon: "code"
+      label: "Voor altijd"
+      title: "Altijd open source"
+      description: >-
+        De volledige broncode is uitgebracht onder Apache 2.0 en blijft open.
+        Controleer, fork, draag bij — geen propriëtaire kern, geen ommezwaai.
+    - icon: "server"
+      label: "Voor altijd"
+      title: "Self-hosting altijd gratis"
+      description: >-
+        Draai OptimCE op uw eigen infrastructuur zonder enige beperking.
+        De open source kern blijft volledig — geen betaalde niveaus, geen functionaliteiten op slot.
+        Betaalde ondersteuning of diensten kunnen er los van bestaan, maar nooit als slot op de open source zelf.
+
 # For Developers
 developers:
   title: "Voor ontwikkelaars"
@@ -106,6 +136,23 @@ blog:
   back_to_blog: "Terug naar nieuws"
   older_posts: "Oudere berichten"
   newer_posts: "Nieuwere berichten"
+  updated_on: "Bijgewerkt op"
+  filter_label: "Filteren op tag"
+  sort_label: "Sorteren op"
+  all_tags: "Alles"
+  no_results: "Geen artikelen voldoen aan dit filter."
+  sort:
+    newest: "Nieuwste eerst"
+    oldest: "Oudste eerst"
+    updated: "Recent bijgewerkt"
+  tags:
+    app: "OptimCE-app"
+    administrative: "Administratief"
+    allocation-key: "Verdeelsleutel"
+    community: "Energiegemeenschap"
+    announcement: "Aankondiging"
+    news: "Nieuws"
+    guide: "Gids"
 
 # About
 about:

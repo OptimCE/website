@@ -4,7 +4,7 @@ title: "Verdeelsleutel in België: Wallonië, Brussel en Vlaanderen vergeleken"
 date: 2026-05-19 10:00:00 +0200
 author: "OptimCE-team"
 excerpt: "Verdeelsleutel in een energiegemeenschap — types aanvaard door CWaPE, BRUGEL en VREG, verschillen tussen Wallonië, Brussel en Vlaanderen en praktische keuze­tips."
-categories: [artikelen]
+tags: [allocation-key, administrative]
 lang: nl
 ref: allocation-key-belgium
 permalink: /nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/
@@ -146,7 +146,7 @@ Dat is precies wat **OptimCE** aanbiedt in de kern van de applicatie. De **modul
 - De **volledige geschiedenis** van toegepaste sleutels te volgen — nuttig voor bijlages, herrekeningen bij betwisting en regulator­rapportering.
 - De **acceptatiestatus** van elk lid voor een nieuwe sleutel te traceren: wie heeft de bijlage ondertekend, wie heeft nog niet gevalideerd, wie heeft geweigerd.
 
-Een **module voor automatische generatie** is in ontwikkeling: hij stelt kandidaat-sleutels voor op basis van **reële productie- en verbruiksdata** van de leden, om u te helpen kiezen tussen een eenvoudige vaste sleutel en een geoptimaliseerde dynamische sleutel — zonder handmatige berekening.
+De **module voor automatische generatie** is nu beschikbaar: op basis van de **reële productie- en verbruiksdata** van de leden stelt hij geoptimaliseerde kandidaat-sleutels voor — via een **brute force** op de regionale standaardsleutels en via **LOGAAS**, een aanpak met genetische algoritmes ontwikkeld door **CeCoTePe** in het kader van het onderzoeksproject **Locomotrice**. Zie onze specifieke gids: [„Automatische generatie van verdeelsleutels met OptimCE"](/nl/nieuws/2026/05/26/automatische-verdeelsleutel-generatie/).
 
 > ### Beheer uw verdeelsleutels met OptimCE
 >
@@ -188,9 +188,13 @@ De sleutel wordt **herberekend** om het nieuwe lid te integreren. Bij een **egal
 
 Drie regulatoren (CWaPE, BRUGEL, VREG), drie referentie-DNB's (ORES/RESA/AIEG, Sibelga, Fluvius), drie terminologieën (« sleutel », « methode », « verdeelsleutel ») — maar één gemeenschappelijke mechanica per kwartier, afhankelijk van de slimme meters, en georganiseerd rond twee grote families: de **vaste** sleutels (egalitair of gewogen) en de **dynamische / geoptimaliseerde** sleutels (prorata, hybride, optimaal).
 
-De keuze van een sleutel is geen technische kwestie: het is een politieke governance­keuze die de waarden en de beperkingen van de leden moet weerspiegelen. En omdat geen enkele sleutel in steen gebeiteld staat, hebt u een tool nodig om hem te configureren, te historiseren en correct te laten evolueren: dat is precies wat **OptimCE** vandaag aanbiedt en morgen zal uitbreiden met de automatische generatie van sleutels op basis van reële gemeenschapsdata.
+De keuze van een sleutel is geen technische kwestie: het is een politieke governance­keuze die de waarden en de beperkingen van de leden moet weerspiegelen. En omdat geen enkele sleutel in steen gebeiteld staat, hebt u een tool nodig om hem te configureren, te historiseren, correct te laten evolueren — en nu ook **automatisch te genereren uit reële gemeenschapsdata**: dat is precies wat **OptimCE** vandaag aanbiedt.
 
 Lees meer in onze andere gidsen:
+
+> **[Automatische generatie van verdeelsleutels met OptimCE](/nl/nieuws/2026/05/26/automatische-verdeelsleutel-generatie/)**
+>
+> Het datagedreven vervolg — hoe brute force en LOGAAS de beste verdeelsleutel vinden op basis van de reële productie- en verbruiksdata van een gemeenschap.
 
 > **[Energiegemeenschappen in België: CER, CEC en CEL uitgelegd](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/)**
 >

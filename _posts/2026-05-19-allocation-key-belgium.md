@@ -4,7 +4,7 @@ title: "Allocation key in Belgium: Wallonia, Brussels and Flanders compared"
 date: 2026-05-19 10:00:00 +0200
 author: "OptimCE Team"
 excerpt: "Allocation key in an energy community — types accepted by CWaPE, BRUGEL and VREG, regional differences across Wallonia, Brussels and Flanders, and practical guidance to choose one."
-categories: [articles]
+tags: [allocation-key, administrative]
 lang: en
 ref: allocation-key-belgium
 permalink: /en/news/2026/05/19/allocation-key-belgium/
@@ -146,7 +146,7 @@ That is precisely what **OptimCE** tools at the core of the application. The **A
 - **Track the full history** of keys applied over time — useful for amendments, recomputations in case of dispute, and regulator reporting.
 - **Track the acceptance status** of each member for a new key: who signed the amendment, who hasn't validated yet, who declined.
 
-An **automatic generation module** is in development: it will propose candidate keys based on the **actual production and consumption data** of the members, helping you choose between a simple fixed key and an optimised dynamic key — without manual calculation.
+The **automatic generation module** is now live: from the **actual production and consumption data** of the members, it proposes optimised candidate keys — through a **brute force** scan over the regional standard keys and through **LOGAAS**, a genetic-algorithm approach developed by **CeCoTePe** during the **Locomotrice** research project. See our dedicated guide: ["Automatic allocation key generation: how OptimCE finds the optimal key"](/en/news/2026/05/26/automatic-allocation-key-generation/).
 
 > ### Manage your allocation keys with OptimCE
 >
@@ -188,9 +188,13 @@ The key is **recomputed** to include the new member. With an **egalitarian fixed
 
 Three regulators (CWaPE, BRUGEL, VREG), three reference DSOs (ORES/RESA/AIEG, Sibelga, Fluvius), three vocabularies (“key”, “method”, “verdeelsleutel”) — but a shared mechanic at the quarter-hour, dependent on smart meters, and organised around two big families: the **fixed** keys (egalitarian or weighted) and the **dynamic / optimised** keys (prorata, hybrid, optimal).
 
-Choosing a key is not a technical question: it's a governance choice that should reflect the values and constraints of the members. And because no key is set in stone, you need a tool to configure it, historise it and evolve it cleanly: that's exactly what **OptimCE** provides today, and will extend tomorrow with automatic key generation from real community data.
+Choosing a key is not a technical question: it's a governance choice that should reflect the values and constraints of the members. And because no key is set in stone, you need a tool to configure it, historise it, evolve it cleanly — and now to **generate it automatically from real community data**: that's exactly what **OptimCE** provides.
 
 To go further, see our companion guides:
+
+> **[Automatic allocation key generation: how OptimCE finds the optimal key](/en/news/2026/05/26/automatic-allocation-key-generation/)**
+>
+> The data-driven follow-up — how brute force and LOGAAS find the best allocation key from a community's real production and consumption data.
 
 > **[Energy communities in Belgium: CER, CEC and CEL explained](/en/news/2026/05/11/energy-communities-belgium/)**
 >

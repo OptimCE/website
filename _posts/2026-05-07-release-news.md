@@ -4,7 +4,7 @@ title: "New OptimCE release: stability, user guide and public sharing operations
 date: 2026-05-07 10:00:00 +0200
 author: "OptimCE Team"
 excerpt: "A new OptimCE release is out, with bug fixes, a brand-new user guide and a public registry to discover open energy-sharing operations."
-categories: [announcements]
+tags: [app, announcement, news]
 lang: en
 ref: release-may-2026
 permalink: /en/news/2026/05/07/release-news/

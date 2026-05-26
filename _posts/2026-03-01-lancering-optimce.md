@@ -4,7 +4,7 @@ title: "Lancering van OptimCE: het open source platform voor energiegemeenschapp
 date: 2026-03-01 10:00:00 +0100
 author: "OptimCE-team"
 excerpt: "Wij presenteren met trots OptimCE, een open source platform voor het beheer van hernieuwbare-energiegemeenschappen."
-categories: [aankondigingen]
+tags: [app, announcement]
 lang: nl
 ref: launch-optimce
 permalink: /nl/nieuws/2026/03/01/lancering-optimce/

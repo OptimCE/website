@@ -4,7 +4,7 @@ title: "Snelstartgids voor OptimCE"
 date: 2026-03-09 14:00:00 +0100
 author: "OptimCE-team"
 excerpt: "Ontdek hoe u OptimCE in een paar stappen installeert en configureert om uw energiegemeenschap te beheren."
-categories: [tutorials]
+tags: [app, guide]
 lang: nl
 ref: quick-start-guide
 permalink: /nl/nieuws/2026/03/09/snelstartgids/

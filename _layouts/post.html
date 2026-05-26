@@ -19,6 +19,21 @@ layout: default
           &middot; {{ t.blog.by_author }} <span>{{ page.author }}</span>
         {% endif %}
       </p>
+      {% if page.last_modified_at %}
+        <p class="post__meta post__meta--updated">
+          <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">
+            {{ t.blog.updated_on }} {{ page.last_modified_at | date: "%e %B %Y" }}
+          </time>
+        </p>
+      {% endif %}
+      {% if page.tags.size > 0 %}
+        <div class="post__tags">
+          {% for tag in page.tags %}
+            {% assign tag_label = t.blog.tags[tag] | default: tag %}
+            <a href="{{ current_lang.blog_path | relative_url }}?tag={{ tag }}" class="post__tag" data-tag="{{ tag }}">{{ tag_label }}</a>
+          {% endfor %}
+        </div>
+      {% endif %}
       {% if page.ref %}
         {% assign translations = site.posts | where: "ref", page.ref %}
         {% if translations.size > 1 %}

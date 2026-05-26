@@ -2,9 +2,10 @@
 layout: post
 title: "Launching OptimCE: the open source platform for energy communities"
 date: 2026-03-01 10:00:00 +0100
+last_modified_at: 2026-05-30 10:00:00 +0200
 author: "OptimCE Team"
 excerpt: "We are proud to present OptimCE, an open source platform dedicated to managing renewable energy communities."
-categories: [announcements]
+tags: [app, announcement]
 lang: en
 ref: launch-optimce
 permalink: /en/news/2026/03/01/launch-optimce/

@@ -4,7 +4,7 @@ title: "Schnellstartanleitung für OptimCE"
 date: 2026-03-09 14:00:00 +0100
 author: "OptimCE-Team"
 excerpt: "Erfahren Sie, wie Sie OptimCE in wenigen Schritten installieren und konfigurieren, um Ihre Energiegemeinschaft zu verwalten."
-categories: [tutorials]
+tags: [app, guide]
 lang: de
 ref: quick-start-guide
 permalink: /de/aktuelles/2026/03/09/schnellstartanleitung/

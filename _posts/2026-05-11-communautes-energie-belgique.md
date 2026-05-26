@@ -4,7 +4,7 @@ title: "Communautés d'énergie en Belgique : CER, CEC, CEL expliqués"
 date: 2026-05-11 10:00:00 +0200
 author: "Équipe OptimCE"
 excerpt: "Comprendre les communautés d'énergie en Belgique : différences entre CER, CEC et CEL, partage d'énergie, acteurs (CWaPE, GRD), avantages et FAQ."
-categories: [articles]
+tags: [community, administrative]
 lang: fr
 ref: energy-communities-belgium
 ---

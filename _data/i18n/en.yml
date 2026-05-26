@@ -12,6 +12,7 @@ nav:
   github: "GitHub"
   links: "Links"
   guide: "User Guide"
+  privacy: "Privacy"
 
 # Hero Section
 hero:
@@ -76,6 +77,34 @@ why:
         Quick installation. Multilingual interface (FR, EN, NL, DE)
         and scalable architecture.
 
+# Commitment
+commitment:
+  title: "Free, open, and built to stay that way"
+  subtitle: >-
+    OptimCE is in alpha and part of an active research project.
+    Here is what we commit to, today and long-term.
+  cards:
+    - icon: "rocket"
+      label: "Today"
+      title: "Free during alpha"
+      description: >-
+        The hosted SaaS at app.optimce.be is free to use while we are in alpha.
+        Like many open source projects, the hosted version may move to paid plans
+        later — if so, you will know well in advance. Self-hosting stays free regardless.
+    - icon: "code"
+      label: "Forever"
+      title: "Open source, always"
+      description: >-
+        The full source code is released under Apache 2.0 and will stay open.
+        Audit it, fork it, contribute — no proprietary core, no rug pull.
+    - icon: "server"
+      label: "Forever"
+      title: "Self-hosting always free"
+      description: >-
+        Run OptimCE on your own infrastructure with zero restrictions.
+        The open source core stays fully featured — no paid tiers, no feature gating.
+        We may offer paid support or services on top, but never as a gate on the OSS itself.
+
 # For Developers
 developers:
   title: "For developers"
@@ -106,6 +135,23 @@ blog:
   back_to_blog: "Back to news"
   older_posts: "Older posts"
   newer_posts: "Newer posts"
+  updated_on: "Updated on"
+  filter_label: "Filter by tag"
+  sort_label: "Sort by"
+  all_tags: "All"
+  no_results: "No articles match this filter."
+  sort:
+    newest: "Newest first"
+    oldest: "Oldest first"
+    updated: "Recently updated"
+  tags:
+    app: "OptimCE app"
+    administrative: "Administrative"
+    allocation-key: "Allocation key"
+    community: "Energy community"
+    announcement: "Announcement"
+    news: "News"
+    guide: "Guide"
 
 # About
 about:

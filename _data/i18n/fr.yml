@@ -12,6 +12,7 @@ nav:
   github: "GitHub"
   links: "Liens"
   guide: "Guide utilisateur"
+  privacy: "Confidentialité"
 
 # Hero Section
 hero:
@@ -76,6 +77,35 @@ why:
         Installation rapide. Interface multilingue (FR, EN, NL, DE)
         et architecture prête pour la montée en charge.
 
+# Commitment
+commitment:
+  title: "Libre, ouvert, et conçu pour le rester"
+  subtitle: >-
+    OptimCE est en alpha et s'inscrit dans un projet de recherche en cours.
+    Voici nos engagements, aujourd'hui et sur le long terme.
+  cards:
+    - icon: "rocket"
+      label: "Aujourd'hui"
+      title: "Gratuit pendant l'alpha"
+      description: >-
+        Le SaaS hébergé sur app.optimce.be est gratuit pendant toute la phase alpha.
+        Comme pour beaucoup de projets open source, la version hébergée pourrait passer
+        à des offres payantes plus tard — vous serez prévenu bien à l'avance.
+        L'auto-hébergement reste gratuit dans tous les cas.
+    - icon: "code"
+      label: "Pour toujours"
+      title: "Open source, sans condition"
+      description: >-
+        L'intégralité du code source est publiée sous licence Apache 2.0 et le restera.
+        Auditez-le, forkez-le, contribuez — aucun cœur propriétaire, aucun retournement de veste.
+    - icon: "server"
+      label: "Pour toujours"
+      title: "Auto-hébergement toujours gratuit"
+      description: >-
+        Faites tourner OptimCE sur votre propre infrastructure sans aucune restriction.
+        Le cœur open source reste complet — pas de paliers payants, pas de fonctionnalités bridées.
+        Du support ou des services payants peuvent exister par ailleurs, mais jamais en verrou sur l'open source lui-même.
+
 # For Developers
 developers:
   title: "Pour les développeurs"
@@ -106,6 +136,23 @@ blog:
   back_to_blog: "Retour aux actualités"
   older_posts: "Articles précédents"
   newer_posts: "Articles suivants"
+  updated_on: "Mis à jour le"
+  filter_label: "Filtrer par tag"
+  sort_label: "Trier par"
+  all_tags: "Tous"
+  no_results: "Aucun article ne correspond à ce filtre."
+  sort:
+    newest: "Plus récent d'abord"
+    oldest: "Plus ancien d'abord"
+    updated: "Récemment mis à jour"
+  tags:
+    app: "Application OptimCE"
+    administrative: "Administratif"
+    allocation-key: "Clé de répartition"
+    community: "Communauté d'énergie"
+    announcement: "Annonce"
+    news: "Nouveautés"
+    guide: "Guide"
 
 # About
 about:

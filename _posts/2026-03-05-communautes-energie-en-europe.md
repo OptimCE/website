@@ -4,7 +4,7 @@ title: "Les communautés d'énergie en Europe : cadre réglementaire et enjeux"
 date: 2026-03-05 09:00:00 +0100
 author: "Équipe OptimCE"
 excerpt: "Tour d'horizon du cadre européen des communautés d'énergie renouvelable et des communautés énergétiques citoyennes."
-categories: [articles]
+tags: [community, guide]
 lang: fr
 ref: energy-communities-europe
 ---

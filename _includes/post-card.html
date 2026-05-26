@@ -1,7 +1,13 @@
 {% assign lang = page.lang | default: site.lang %}
 {% assign t = site.data.i18n[lang] %}
+{% assign current_lang = site.languages | where: "code", lang | first %}
 {% assign post = include.post %}
-<article class="post-card">
+{% assign post_date_ts = post.date | date: '%s' %}
+{% assign post_updated_ts = post.last_modified_at | default: post.date | date: '%s' %}
+<article class="post-card"
+  data-tags="{{ post.tags | join: ',' }}"
+  data-date="{{ post_date_ts }}"
+  data-updated="{{ post_updated_ts }}">
   <time class="post-card__date" datetime="{{ post.date | date_to_xmlschema }}">
     {{ post.date | date: "%e %B %Y" }}
   </time>
@@ -9,6 +15,14 @@
     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
   </h3>
   <p class="post-card__excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+  {% if post.tags.size > 0 %}
+    <div class="post-card__tags">
+      {% for tag in post.tags %}
+        {% assign tag_label = t.blog.tags[tag] | default: tag %}
+        <a href="{{ current_lang.blog_path | relative_url }}?tag={{ tag }}" class="post-card__tag" data-tag="{{ tag }}">{{ tag_label }}</a>
+      {% endfor %}
+    </div>
+  {% endif %}
   {% if post.ref %}
     {% assign translations = site.posts | where: "ref", post.ref %}
     {% if translations.size > 1 %}

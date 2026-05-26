@@ -4,7 +4,7 @@ title: "Verteilungsschlüssel in Belgien: Wallonie, Brüssel und Flandern im Ver
 date: 2026-05-19 10:00:00 +0200
 author: "OptimCE-Team"
 excerpt: "Verteilungsschlüssel in einer Energiegemeinschaft — von CWaPE, BRUGEL und VREG akzeptierte Typen, Unterschiede zwischen Wallonie, Brüssel und Flandern und praktische Wahlhilfen."
-categories: [artikel]
+tags: [allocation-key, administrative]
 lang: de
 ref: allocation-key-belgium
 permalink: /de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/
@@ -146,7 +146,7 @@ Genau das bietet **OptimCE** im Kern der Anwendung. Das **Modul „Verteilungssc
 - Die **vollständige Historie** der über die Zeit angewandten Schlüssel zu verfolgen — nützlich für Nachträge, Nachberechnungen im Streitfall und die Berichterstattung an die Regulierungsbehörde.
 - Den **Annahmestatus** jedes Mitglieds für einen neuen Schlüssel zu verfolgen: wer den Nachtrag unterzeichnet hat, wer noch nicht validiert hat, wer abgelehnt hat.
 
-Ein **Modul zur automatischen Generierung** befindet sich in Entwicklung: Es wird Kandidatenschlüssel auf Basis der **realen Erzeugungs- und Verbrauchsdaten** der Mitglieder vorschlagen, um Ihnen die Wahl zwischen einem einfachen festen Schlüssel und einem optimierten dynamischen Schlüssel zu erleichtern — ohne manuelle Berechnung.
+Das **Modul zur automatischen Generierung** ist jetzt verfügbar: Auf Basis der **realen Erzeugungs- und Verbrauchsdaten** der Mitglieder schlägt es optimierte Kandidatenschlüssel vor — über einen **Brute-Force**-Scan der regionalen Standardschlüssel und über **LOGAAS**, einen genetischen Algorithmus-Ansatz, entwickelt von **CeCoTePe** im Rahmen des Forschungsprojekts **Locomotrice**. Siehe unseren speziellen Leitfaden: [„Automatische Generierung von Verteilungsschlüsseln mit OptimCE"](/de/aktuelles/2026/05/26/automatische-verteilungsschluessel-generierung/).
 
 > ### Verwalten Sie Ihre Verteilungsschlüssel mit OptimCE
 >
@@ -188,9 +188,13 @@ Der Schlüssel wird **neu berechnet**, um das neue Mitglied zu integrieren. Bei 
 
 Drei Regulierungsbehörden (CWaPE, BRUGEL, VREG), drei Referenz-VNB (ORES/RESA/AIEG, Sibelga, Fluvius), drei Vokabulare („Schlüssel“, „Methode“, „verdeelsleutel“) — aber eine gemeinsame Mechanik im Viertelstundentakt, abhängig von Smart Metern und organisiert um zwei große Familien: die **festen** Schlüssel (egalitär oder gewichtet) und die **dynamischen / optimierten** Schlüssel (prorata, hybrid, optimal).
 
-Die Wahl eines Schlüssels ist keine technische Frage: Sie ist eine politische Governance-Entscheidung, die die Werte und Beschränkungen der Mitglieder widerspiegeln muss. Und weil kein Schlüssel in Stein gemeißelt ist, brauchen Sie ein Tool, um ihn zu konfigurieren, zu historisieren und sauber weiterzuentwickeln: genau das bietet **OptimCE** heute und wird es morgen mit der automatischen Generierung von Schlüsseln auf Basis realer Gemeinschaftsdaten erweitern.
+Die Wahl eines Schlüssels ist keine technische Frage: Sie ist eine politische Governance-Entscheidung, die die Werte und Beschränkungen der Mitglieder widerspiegeln muss. Und weil kein Schlüssel in Stein gemeißelt ist, brauchen Sie ein Tool, um ihn zu konfigurieren, zu historisieren, sauber weiterzuentwickeln — und nun auch **automatisch aus realen Gemeinschaftsdaten zu generieren**: genau das bietet **OptimCE** heute.
 
 Mehr in unseren begleitenden Leitfäden:
+
+> **[Automatische Generierung von Verteilungsschlüsseln mit OptimCE](/de/aktuelles/2026/05/26/automatische-verteilungsschluessel-generierung/)**
+>
+> Die datengetriebene Fortsetzung — wie Brute-Force und LOGAAS den besten Verteilungsschlüssel auf Basis der realen Erzeugungs- und Verbrauchsdaten einer Gemeinschaft finden.
 
 > **[Energiegemeinschaften in Belgien: CER, CEC und CEL erklärt](/de/aktuelles/2026/05/11/energiegemeinschaften-belgien/)**
 >

@@ -4,7 +4,7 @@ title: "Energy communities in Belgium: CER, CEC and CEL explained"
 date: 2026-05-11 10:00:00 +0200
 author: "OptimCE Team"
 excerpt: "Understand energy communities in Belgium — differences between renewable, citizen and local energy communities, how energy sharing works, key actors and benefits."
-categories: [articles]
+tags: [community, administrative]
 lang: en
 ref: energy-communities-belgium
 permalink: /en/news/2026/05/11/energy-communities-belgium/

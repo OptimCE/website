@@ -4,7 +4,7 @@ title: "Energiegemeenschappen in Europa: regelgevend kader en uitdagingen"
 date: 2026-03-05 09:00:00 +0100
 author: "OptimCE-team"
 excerpt: "Een overzicht van het Europese kader voor hernieuwbare-energiegemeenschappen en burgerenergiegemeenschappen."
-categories: [artikelen]
+tags: [community, guide]
 lang: nl
 ref: energy-communities-europe
 permalink: /nl/nieuws/2026/03/05/energiegemeenschappen-europa/

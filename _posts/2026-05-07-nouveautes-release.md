@@ -4,7 +4,7 @@ title: "Nouvelle version d'OptimCE : stabilité, guide utilisateur et opération
 date: 2026-05-07 10:00:00 +0200
 author: "Équipe OptimCE"
 excerpt: "Une nouvelle version d'OptimCE est disponible, avec des corrections de bugs, un nouveau guide utilisateur et un registre public pour découvrir les opérations de partage ouvertes."
-categories: [annonces]
+tags: [app, announcement, news]
 lang: fr
 ref: release-may-2026
 ---

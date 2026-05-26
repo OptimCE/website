@@ -4,7 +4,7 @@ title: "How to join an energy community in Wallonia: a practical guide"
 date: 2026-05-11 16:00:00 +0200
 author: "OptimCE Team"
 excerpt: "How to join an energy community in Wallonia: eligibility, where to find an open sharing operation (OptimCE registry, SPW facilitator, Énergie commune), steps to enrol and points to check before you sign."
-categories: [articles]
+tags: [community, administrative, guide]
 lang: en
 ref: join-energy-community-wallonia
 permalink: /en/news/2026/05/11/join-energy-community-wallonia/

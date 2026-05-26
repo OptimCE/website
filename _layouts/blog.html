@@ -4,13 +4,35 @@ layout: default
 {% assign lang = page.lang | default: site.lang %}
 {% assign t = site.data.i18n[lang] %}
 {% assign posts = site.posts | where: "lang", lang %}
+{% assign tag_slugs = "app,administrative,allocation-key,community,announcement,news,guide" | split: "," %}
 <section class="section">
   <div class="container">
     <div class="section__header">
       <h1 class="section__title">{{ t.blog.title }}</h1>
       <p class="section__subtitle">{{ t.blog.subtitle }}</p>
     </div>
-    <div class="grid grid--3col">
+    <div class="blog-toolbar" data-blog-toolbar>
+      <div class="blog-toolbar__group">
+        <span class="blog-toolbar__label">{{ t.blog.filter_label }}</span>
+        <div class="blog-toolbar__pills" role="group" aria-label="{{ t.blog.filter_label }}">
+          <button type="button" class="blog-toolbar__pill blog-toolbar__pill--active" data-tag="" aria-pressed="true">{{ t.blog.all_tags }}</button>
+          {% for slug in tag_slugs %}
+            {% assign label = t.blog.tags[slug] | default: slug %}
+            <button type="button" class="blog-toolbar__pill" data-tag="{{ slug }}" aria-pressed="false">{{ label }}</button>
+          {% endfor %}
+        </div>
+      </div>
+      <div class="blog-toolbar__group blog-toolbar__group--sort">
+        <label class="blog-toolbar__label" for="blog-sort">{{ t.blog.sort_label }}</label>
+        <select id="blog-sort" class="blog-toolbar__sort" data-blog-sort>
+          <option value="newest">{{ t.blog.sort.newest }}</option>
+          <option value="oldest">{{ t.blog.sort.oldest }}</option>
+          <option value="updated">{{ t.blog.sort.updated }}</option>
+        </select>
+      </div>
+    </div>
+    <p class="blog-toolbar__empty" data-blog-empty hidden>{{ t.blog.no_results }}</p>
+    <div class="grid grid--3col" data-blog-grid>
       {% for post in posts %}
         {% include post-card.html post=post %}
       {% endfor %}

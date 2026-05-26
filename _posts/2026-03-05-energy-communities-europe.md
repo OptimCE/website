@@ -4,7 +4,7 @@ title: "Energy communities in Europe: regulatory framework and challenges"
 date: 2026-03-05 09:00:00 +0100
 author: "OptimCE Team"
 excerpt: "An overview of the European framework for renewable energy communities and citizen energy communities."
-categories: [articles]
+tags: [community, guide]
 lang: en
 ref: energy-communities-europe
 permalink: /en/news/2026/03/05/energy-communities-europe/

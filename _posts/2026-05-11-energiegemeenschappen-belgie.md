@@ -4,7 +4,7 @@ title: "Energiegemeenschappen in België: CER, CEC en CEL uitgelegd"
 date: 2026-05-11 10:00:00 +0200
 author: "OptimCE-team"
 excerpt: "Begrijp energiegemeenschappen in België — verschillen tussen hernieuwbare, burger- en lokale energiegemeenschap, energiedelen, betrokken actoren en voordelen."
-categories: [artikelen]
+tags: [community, administrative]
 lang: nl
 ref: energy-communities-belgium
 permalink: /nl/nieuws/2026/05/11/energiegemeenschappen-belgie/

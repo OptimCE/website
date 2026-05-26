@@ -4,7 +4,7 @@ title: "Einer Energiegemeinschaft in der Wallonie beitreten: Leitfaden"
 date: 2026-05-11 16:00:00 +0200
 author: "OptimCE-Team"
 excerpt: "Wie man einer Energiegemeinschaft in der Wallonie beitritt: Voraussetzungen, wo eine offene Teilungsoperation finden (OptimCE-Register, SPW-Facilitator, Énergie commune), Schritte und Punkte zur Beachtung vor der Unterzeichnung."
-categories: [artikel]
+tags: [community, administrative, guide]
 lang: de
 ref: join-energy-community-wallonia
 permalink: /de/aktuelles/2026/05/11/energiegemeinschaft-beitreten-wallonien/

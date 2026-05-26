@@ -4,7 +4,7 @@ title: "Energiegemeinschaften in Europa: Rechtsrahmen und Herausforderungen"
 date: 2026-03-05 09:00:00 +0100
 author: "OptimCE-Team"
 excerpt: "Ein Überblick über den europäischen Rahmen für Erneuerbare-Energien-Gemeinschaften und Bürgerenergiegemeinschaften."
-categories: [artikel]
+tags: [community, guide]
 lang: de
 ref: energy-communities-europe
 permalink: /de/aktuelles/2026/03/05/energiegemeinschaften-europa/

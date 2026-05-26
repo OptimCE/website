@@ -4,7 +4,7 @@ title: "Toetreden tot een energiegemeenschap in Wallonië: praktische gids"
 date: 2026-05-11 16:00:00 +0200
 author: "OptimCE-team"
 excerpt: "Hoe toetreden tot een energiegemeenschap in Wallonië: voorwaarden, waar een open deelactie vinden (OptimCE-register, SPW-facilitator, Énergie commune), stappen en aandachtspunten vóór ondertekening."
-categories: [artikelen]
+tags: [community, administrative, guide]
 lang: nl
 ref: join-energy-community-wallonia
 permalink: /nl/nieuws/2026/05/11/energiegemeenschap-aansluiten-wallonie/

@@ -4,7 +4,7 @@ title: "Energiegemeinschaften in Belgien: CER, CEC und CEL erklärt"
 date: 2026-05-11 10:00:00 +0200
 author: "OptimCE-Team"
 excerpt: "Energiegemeinschaften in Belgien verstehen — Unterschiede zwischen erneuerbarer, Bürger- und lokaler Energiegemeinschaft, Energieteilung, Akteure und Vorteile."
-categories: [artikel]
+tags: [community, administrative]
 lang: de
 ref: energy-communities-belgium
 permalink: /de/aktuelles/2026/05/11/energiegemeinschaften-belgien/

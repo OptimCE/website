@@ -4,7 +4,7 @@ title: "Een energiegemeenschap oprichten in Wallonië: stap-voor-stap-gids"
 date: 2026-05-11 14:00:00 +0200
 author: "OptimCE-team"
 excerpt: "Hoe je een energiegemeenschap (CER of CEC) opricht in Wallonië: keuze van het model, juridische structuur, melding bij CWaPE, ontvangstbevestiging en opstart van het delen met ORES, RESA of AIEG."
-categories: [artikelen]
+tags: [community, administrative, guide]
 lang: nl
 ref: create-energy-community-wallonia
 permalink: /nl/nieuws/2026/05/11/energiegemeenschap-oprichten-wallonie/

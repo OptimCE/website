@@ -4,7 +4,7 @@ title: "Clé de répartition en Belgique : Wallonie, Bruxelles, Flandre"
 date: 2026-05-19 10:00:00 +0200
 author: "Équipe OptimCE"
 excerpt: "Clé de répartition d'une communauté d'énergie : types CWaPE, BRUGEL, VREG, différences Wallonie / Bruxelles / Flandre et conseils pour choisir."
-categories: [articles]
+tags: [allocation-key, administrative]
 lang: fr
 ref: allocation-key-belgium
 ---
@@ -145,7 +145,7 @@ C'est précisément ce qu'**OptimCE** outille au cœur de l'application. Le **mo
 - **Suivre l'historique** complet des clés appliquées au fil du temps — utile pour les avenants, les recalculs en cas de litige et le rapportage régulateur.
 - **Tracer le statut d'acceptation** de chaque membre face à une nouvelle clé : qui a signé l'avenant, qui n'a pas encore validé, qui a refusé.
 
-Un **module de génération automatique** est en cours de développement : il proposera des clés candidates à partir des **données réelles de production et de consommation** des membres, pour vous aider à arbitrer entre une clé fixe simple et une clé dynamique optimisée — sans calcul manuel.
+Le **module de génération automatique** est désormais disponible : à partir des **données réelles de production et de consommation** des membres, il propose des clés candidates optimisées — via un **brute force** sur les clés standards régionales et via **LOGAAS**, une approche par algorithme génétique développée par **CeCoTePe** dans le cadre du projet de recherche **Locomotrice**. Voir notre guide dédié : [« Générer automatiquement une clé de répartition optimale avec OptimCE »](/actualites/2026/05/26/generer-cle-repartition-optimale-optimce/).
 
 > ### Pilotez vos clés de répartition avec OptimCE
 >
@@ -187,9 +187,13 @@ La clé est **recalculée** pour intégrer le nouveau membre. Avec une **clé fi
 
 Trois régulateurs (CWaPE, BRUGEL, VREG), trois gestionnaires de réseau de référence (ORES/RESA/AIEG, Sibelga, Fluvius), trois vocabulaires (« clé », « méthode », « verdeelsleutel ») — mais une mécanique commune au quart d'heure, dépendante des compteurs communicants, et organisée autour de deux grandes familles : les clés **fixes** (égalitaires ou pondérées) et les clés **dynamiques / optimisées** (prorata, hybride, optimale).
 
-Le choix d'une clé n'est pas une question technique : c'est un choix politique de gouvernance, qui doit refléter les valeurs et les contraintes des membres. Et parce qu'aucune clé n'est figée, il faut un outil pour la configurer, l'historiser et la faire évoluer proprement : c'est exactement ce qu'**OptimCE** propose, dès aujourd'hui, et étendra demain avec la génération automatique de clés à partir des données réelles de la communauté.
+Le choix d'une clé n'est pas une question technique : c'est un choix politique de gouvernance, qui doit refléter les valeurs et les contraintes des membres. Et parce qu'aucune clé n'est figée, il faut un outil pour la configurer, l'historiser, la faire évoluer proprement — et désormais la **générer automatiquement à partir des données réelles** de la communauté : c'est exactement ce qu'**OptimCE** propose aujourd'hui.
 
 Pour aller plus loin, consultez nos guides :
+
+> **[Générer automatiquement une clé de répartition optimale avec OptimCE](/actualites/2026/05/26/generer-cle-repartition-optimale-optimce/)**
+>
+> Le prolongement pratique — comment le brute force et LOGAAS trouvent la meilleure clé de répartition à partir des données réelles de production et de consommation d'une communauté.
 
 > **[Communautés d'énergie en Belgique : CER, CEC, CEL expliqués](/actualites/2026/05/11/communautes-energie-belgique/)**
 >
