@@ -1,0 +1,11 @@
+{%- comment -%}
+Renders a date as "day month year" with a localized month name.
+Params:
+  date — a date value (e.g. page.date, post.date)
+  lang — the language code (e.g. "fr", "en", "nl", "de"); falls back to site.lang
+{%- endcomment -%}
+{%- assign ld_lang = include.lang | default: site.lang -%}
+{%- assign ld_t = site.data.i18n[ld_lang] -%}
+{%- assign ld_month_index = include.date | date: "%-m" | minus: 1 -%}
+{%- assign ld_month = ld_t.months[ld_month_index] -%}
+{{- include.date | date: "%-d" }} {{ ld_month }} {{ include.date | date: "%Y" -}}

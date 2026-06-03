@@ -221,3 +221,18 @@ a11y:
   menu_open: "Ouvrir le menu"
   menu_close: "Fermer le menu"
   language_select: "Choisir la langue"
+
+# Month names (for localized dates, January → December)
+months:
+  - "janvier"
+  - "février"
+  - "mars"
+  - "avril"
+  - "mai"
+  - "juin"
+  - "juillet"
+  - "août"
+  - "septembre"
+  - "octobre"
+  - "novembre"
+  - "décembre"

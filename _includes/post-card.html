@@ -9,7 +9,7 @@
   data-date="{{ post_date_ts }}"
   data-updated="{{ post_updated_ts }}">
   <time class="post-card__date" datetime="{{ post.date | date_to_xmlschema }}">
-    {{ post.date | date: "%e %B %Y" }}
+    {% include localized-date.html date=post.date lang=lang %}
   </time>
   <h3 class="post-card__title">
     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>

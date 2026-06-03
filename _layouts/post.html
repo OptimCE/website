@@ -13,7 +13,7 @@ layout: default
       <h1 class="post__title">{{ page.title }}</h1>
       <p class="post__meta">
         <time datetime="{{ page.date | date_to_xmlschema }}">
-          {{ t.blog.published_on }} {{ page.date | date: "%e %B %Y" }}
+          {{ t.blog.published_on }} {% include localized-date.html date=page.date lang=lang %}
         </time>
         {% if page.author %}
           &middot; {{ t.blog.by_author }} <span>{{ page.author }}</span>
@@ -22,7 +22,7 @@ layout: default
       {% if page.last_modified_at %}
         <p class="post__meta post__meta--updated">
           <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">
-            {{ t.blog.updated_on }} {{ page.last_modified_at | date: "%e %B %Y" }}
+            {{ t.blog.updated_on }} {% include localized-date.html date=page.last_modified_at lang=lang %}
           </time>
         </p>
       {% endif %}

@@ -220,3 +220,18 @@ a11y:
   menu_open: "Open menu"
   menu_close: "Close menu"
   language_select: "Choose language"
+
+# Month names (for localized dates, January → December)
+months:
+  - "January"
+  - "February"
+  - "March"
+  - "April"
+  - "May"
+  - "June"
+  - "July"
+  - "August"
+  - "September"
+  - "October"
+  - "November"
+  - "December"
