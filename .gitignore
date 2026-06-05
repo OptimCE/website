@@ -5,3 +5,5 @@ _site
 vendor
 .bundle
 .claude
+__pycache__/
+*.pyc

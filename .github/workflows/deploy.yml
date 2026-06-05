@@ -28,6 +28,12 @@ jobs:
         env:
           JEKYLL_ENV: production
       - uses: actions/upload-pages-artifact@v3
+      - name: Upload sitemap for IndexNow
+        uses: actions/upload-artifact@v4
+        with:
+          name: sitemap
+          path: _site/sitemap.xml
+          retention-days: 1
 
   deploy:
     needs: build
@@ -37,3 +43,40 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/deploy-pages@v4
+
+  indexnow:
+    needs: deploy            # runs only AFTER the site is live -> no 404s for crawlers
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write        # job-level override: needed to commit the state file
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Download sitemap built in this run
+        uses: actions/download-artifact@v4
+        with:
+          name: sitemap       # extracts ./sitemap.xml
+      - name: Submit changed URLs to IndexNow
+        id: indexnow
+        continue-on-error: true   # never fail the run on IndexNow errors; log still shown
+        env:
+          INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
+        run: |
+          python scripts/indexnow_submit.py \
+            --sitemap sitemap.xml \
+            --host www.optimce.be
+      - name: Commit updated IndexNow state
+        if: always()
+        run: |
+          if [ -n "$(git status --porcelain .indexnow/submitted.json)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add .indexnow/submitted.json
+            git commit -m "chore: update IndexNow state [skip ci]"
+            git pull --rebase --autostash origin main
+            git push
+          else
+            echo "No IndexNow state change to commit."
+          fi
