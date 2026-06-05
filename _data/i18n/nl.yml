@@ -160,18 +160,39 @@ about:
   subtitle: "Onze missie en onze visie"
   mission_title: "Onze missie"
   mission_text: >-
-    OptimCE is een open source platform ontworpen om het beheer van
-    energiegemeenschappen en hernieuwbare-energiegemeenschappen te vereenvoudigen.
-    Ons doel is een toegankelijk, transparant en performant hulpmiddel te bieden
-    waarmee gemeenschappen hun leden, meters
-    en energiedelingsoperaties efficiënt kunnen beheren.
+    OptimCE helpt energiegemeenschappen hun leden, meters en energiedeling te
+    beheren zonder te verdrinken in administratieve complexiteit.
+    Onze missie is om het beheer van een energiegemeenschap zo eenvoudig en
+    toegankelijk mogelijk te maken, via een open source platform dat transparant
+    en performant is — of u het nu zelf host of het beheer aan ons overlaat.
   why_title: "Waarom OptimCE?"
   why_text: >-
     Energiegemeenschappen spelen een groeiende rol in de Europese energietransitie.
     Toch zijn de beschikbare beheertools vaak propriëtair, duur of niet aangepast
     aan de specifieke behoeften van deze structuren.
-    OptimCE beantwoordt deze behoefte met een vrije en gratis oplossing,
-    specifiek ontworpen voor de Europese regelgevingscontext.
+    OptimCE beantwoordt deze behoefte met een open oplossing, specifiek ontworpen
+    voor de Europese regelgevingscontext — zonder leveranciersafhankelijkheid en
+    zonder verborgen kosten.
+  offering_title: "Twee manieren om OptimCE te gebruiken"
+  offering_intro: >-
+    Of u nu een technisch team bent of een kant-en-klare oplossing verkiest,
+    OptimCE past zich aan uw situatie aan.
+  selfhost_badge: "Open source"
+  selfhost_title: "Zelf gehost"
+  selfhost_text: >-
+    Implementeer OptimCE op uw eigen infrastructuur, gratis en zonder beperking,
+    onder de Apache 2.0-licentie. U behoudt volledige controle over uw gegevens,
+    maar zorgt zelf voor hosting, updates en beschikbaarheid — er wordt geen
+    servicegarantie (SLA) geboden.
+  selfhost_cta: "Bekijk op GitHub"
+  cloud_badge: "Alpha — gratis"
+  cloud_title: "OptimCE Cloud"
+  cloud_text: >-
+    De gehoste, beheerde versie, klaar voor gebruik: geen installatie, geen
+    onderhoud. OptimCE Cloud bevindt zich momenteel in alpha en is volledig gratis
+    — probeer het nu. Een betaald aanbod komt eraan naarmate het product rijpt;
+    alpha-gebruikers worden ruim op tijd op de hoogte gebracht.
+  cloud_cta: "Nu starten"
   architecture_title: "Technische architectuur"
   architecture_intro: "OptimCE is gebouwd op een moderne, modulaire architectuur:"
   architecture_items:

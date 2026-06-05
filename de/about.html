@@ -5,7 +5,7 @@ subtitle: "Unsere Mission und unsere Vision"
 lang: de
 ref: about
 permalink: /de/about/
-last_modified_at: 2026-05-07
+last_modified_at: 2026-06-05
 ---
 
 {% assign lang = page.lang | default: site.lang %}
@@ -18,6 +18,25 @@ last_modified_at: 2026-05-07
 <h2>{{ t.about.why_title }}</h2>
 
 <p>{{ t.about.why_text }}</p>
+
+<h2>{{ t.about.offering_title }}</h2>
+
+<p>{{ t.about.offering_intro }}</p>
+
+<div class="grid grid--2col">
+  <div class="commitment-card">
+    <span class="commitment-card__label">{{ t.about.selfhost_badge }}</span>
+    <h3 class="commitment-card__title">{{ t.about.selfhost_title }}</h3>
+    <p class="commitment-card__description">{{ t.about.selfhost_text }}</p>
+    <a href="https://github.com/optimce" class="btn btn-outline mt-4" target="_blank" rel="noopener">{{ t.about.selfhost_cta }}</a>
+  </div>
+  <div class="commitment-card">
+    <span class="commitment-card__label">{{ t.about.cloud_badge }}</span>
+    <h3 class="commitment-card__title">{{ t.about.cloud_title }}</h3>
+    <p class="commitment-card__description">{{ t.about.cloud_text }}</p>
+    <a href="https://app.optimce.be" class="btn btn-primary mt-4" target="_blank" rel="noopener">{{ t.about.cloud_cta }}</a>
+  </div>
+</div>
 
 <h2>{{ t.about.architecture_title }}</h2>
 

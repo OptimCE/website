@@ -160,18 +160,38 @@ about:
   subtitle: "Notre mission et notre vision"
   mission_title: "Notre mission"
   mission_text: >-
-    OptimCE est une plateforme open source conçue pour simplifier la gestion
-    des communautés d'énergie et des communautés d'énergie renouvelable.
-    Notre objectif est de fournir un outil accessible, transparent et performant
-    qui permet aux communautés de gérer efficacement leurs membres, leurs compteurs
-    et leurs opérations de partage d'énergie.
+    OptimCE aide les communautés d'énergie à gérer leurs membres, leurs compteurs
+    et leur partage d'énergie sans se noyer dans la complexité administrative.
+    Notre mission : rendre la gestion d'une communauté d'énergie aussi simple et
+    accessible que possible, grâce à une plateforme open source, transparente et
+    performante — que vous l'hébergiez vous-même ou que vous nous laissiez nous en occuper.
   why_title: "Pourquoi OptimCE ?"
   why_text: >-
     Les communautés d'énergie jouent un rôle croissant dans la transition
     énergétique européenne. Pourtant, les outils de gestion disponibles sont
     souvent propriétaires, coûteux ou inadaptés aux spécificités de ces structures.
-    OptimCE répond à ce besoin en offrant une solution libre et gratuite, conçue
-    spécifiquement pour le contexte réglementaire européen.
+    OptimCE répond à ce besoin avec une solution ouverte, conçue spécifiquement
+    pour le contexte réglementaire européen — sans verrouillage fournisseur ni coûts cachés.
+  offering_title: "Deux façons d'utiliser OptimCE"
+  offering_intro: >-
+    Que vous soyez une équipe technique ou que vous préfériez une solution clé en
+    main, OptimCE s'adapte à votre situation.
+  selfhost_badge: "Open source"
+  selfhost_title: "Auto-hébergé"
+  selfhost_text: >-
+    Déployez OptimCE sur votre propre infrastructure, gratuitement et sans
+    restriction, sous licence Apache 2.0. Vous gardez la maîtrise totale de vos
+    données, mais vous assurez vous-même l'hébergement, les mises à jour et la
+    disponibilité — aucune garantie de service (SLA) n'est fournie.
+  selfhost_cta: "Voir sur GitHub"
+  cloud_badge: "Alpha — gratuit"
+  cloud_title: "OptimCE Cloud"
+  cloud_text: >-
+    La version hébergée et gérée, prête à l'emploi : aucune installation, aucune
+    maintenance. OptimCE Cloud est actuellement en alpha et entièrement gratuit —
+    profitez-en dès maintenant. Une offre payante verra le jour à mesure que le
+    produit mûrit ; les utilisateurs de l'alpha seront prévenus bien à l'avance.
+  cloud_cta: "Démarrer maintenant"
   architecture_title: "Architecture technique"
   architecture_intro: "OptimCE repose sur une architecture moderne et modulaire :"
   architecture_items:

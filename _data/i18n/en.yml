@@ -159,18 +159,38 @@ about:
   subtitle: "Our mission and our vision"
   mission_title: "Our mission"
   mission_text: >-
-    OptimCE is an open source platform designed to simplify the management
-    of energy communities and renewable energy communities.
-    Our goal is to provide an accessible, transparent and efficient tool
-    that enables communities to effectively manage their members, meters
-    and energy sharing operations.
+    OptimCE helps energy communities manage their members, meters and energy
+    sharing without drowning in administrative complexity.
+    Our mission is to make running an energy community as simple and accessible
+    as possible, through an open source platform that is transparent and
+    efficient — whether you host it yourself or let us take care of it for you.
   why_title: "Why OptimCE?"
   why_text: >-
     Energy communities play a growing role in the European energy transition.
     Yet the available management tools are often proprietary, expensive or
     unsuited to the specific needs of these structures.
-    OptimCE addresses this need by offering a free and open solution,
-    designed specifically for the European regulatory context.
+    OptimCE addresses this need with an open solution, designed specifically
+    for the European regulatory context — with no vendor lock-in and no hidden costs.
+  offering_title: "Two ways to use OptimCE"
+  offering_intro: >-
+    Whether you are a technical team or prefer a ready-to-use solution,
+    OptimCE adapts to your situation.
+  selfhost_badge: "Open source"
+  selfhost_title: "Self-hosted"
+  selfhost_text: >-
+    Deploy OptimCE on your own infrastructure, for free and without restriction,
+    under the Apache 2.0 licence. You keep full control of your data, but you take
+    care of hosting, updates and availability yourself — no service-level
+    agreement (SLA) is provided.
+  selfhost_cta: "View on GitHub"
+  cloud_badge: "Alpha — free"
+  cloud_title: "OptimCE Cloud"
+  cloud_text: >-
+    The hosted, managed version, ready to use: no installation, no maintenance.
+    OptimCE Cloud is currently in alpha and completely free — try it now.
+    A paid plan will arrive as the product matures; alpha users will be notified
+    well in advance.
+  cloud_cta: "Start now"
   architecture_title: "Technical architecture"
   architecture_intro: "OptimCE is built on a modern, modular architecture:"
   architecture_items:
