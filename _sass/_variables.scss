@@ -41,8 +41,8 @@
   --color-surface:       var(--color-white);
 
   // Typography
-  --font-body:    'Source Sans 3', -apple-system, BlinkMacSystemFont, sans-serif;
-  --font-heading: 'Plus Jakarta Sans', var(--font-body);
+  --font-body:    'Source Sans 3', 'Source Sans 3 Fallback', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-heading: 'Plus Jakarta Sans', 'Plus Jakarta Sans Fallback', var(--font-body);
   --font-mono:    'JetBrains Mono', 'Fira Code', monospace;
 
   --text-sm:  0.875rem;

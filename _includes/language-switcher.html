@@ -2,7 +2,7 @@
 {% assign t = site.data.i18n[lang] %}
 {% assign ref = page.ref %}
 <div class="lang-switcher">
-  <button class="lang-switcher__trigger" aria-label="{{ t.a11y.language_select }}">
+  <button class="lang-switcher__trigger" aria-label="{{ lang | upcase }} — {{ t.a11y.language_select }}">
     {{ lang | upcase }}
     <svg viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M3 5l3 3 3-3"/></svg>
   </button>

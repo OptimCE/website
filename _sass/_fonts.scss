@@ -1,0 +1,68 @@
+// ============================================
+// SELF-HOSTED FONTS
+// Served from /assets/fonts/ (latin + latin-ext woff2 subsets).
+// Each web font is paired with a metrics-matched fallback @font-face
+// (Arial with size-adjust / ascent-override / descent-override) so the
+// fallback occupies the same space as the web font and the swap causes
+// no layout shift (CLS). Override values are computed from the actual
+// font metrics relative to Arial.
+// ============================================
+
+// --- Source Sans 3 (body) ---
+@font-face {
+  font-family: 'Source Sans 3';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/assets/fonts/source-sans-3-400.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Source Sans 3';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('/assets/fonts/source-sans-3-600.woff2') format('woff2');
+}
+
+// --- Plus Jakarta Sans (headings) ---
+@font-face {
+  font-family: 'Plus Jakarta Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/assets/fonts/plus-jakarta-sans-500.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Plus Jakarta Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('/assets/fonts/plus-jakarta-sans-600.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Plus Jakarta Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/assets/fonts/plus-jakarta-sans-700.woff2') format('woff2');
+}
+
+// --- Metrics-matched fallbacks (no-CLS swap) ---
+// Body fallback tuned to Source Sans 3 (weight 400).
+@font-face {
+  font-family: 'Source Sans 3 Fallback';
+  src: local('Arial');
+  size-adjust: 109.42%;
+  ascent-override: 93.58%;
+  descent-override: 36.56%;
+  line-gap-override: 0%;
+}
+// Heading fallback tuned to Plus Jakarta Sans (weight 700, the heading weight).
+@font-face {
+  font-family: 'Plus Jakarta Sans Fallback';
+  src: local('Arial');
+  size-adjust: 138.19%;
+  ascent-override: 75.11%;
+  descent-override: 16.06%;
+  line-gap-override: 0%;
+}

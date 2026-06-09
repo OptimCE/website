@@ -4,12 +4,10 @@
   {% seo %}
   {% include hreflang.html %}
   {% include structured-data.html %}
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="preload" as="font" type="font/woff2" href="{{ '/assets/fonts/source-sans-3-400.woff2' | relative_url }}" crossorigin>
+  <link rel="preload" as="font" type="font/woff2" href="{{ '/assets/fonts/plus-jakarta-sans-700.woff2' | relative_url }}" crossorigin>
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
   <link rel="icon" type="image/svg+xml" href="{{ '/assets/images/logo.svg' | relative_url }}">
-  <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/ec69a7b73ebed4adf61b82581/bac0b359baa648e26f1288a63.js");</script>
   <script defer src="https://cloud.umami.is/script.js" data-website-id="fbdc87e9-b8de-4ce6-81ed-946097789914"></script>
   {% feed_meta %}
 </head>

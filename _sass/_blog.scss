@@ -280,6 +280,12 @@
 .post__content {
   padding-top: 0;
 
+  // Underline in-article links so they're distinguishable from body text
+  // without relying on color alone (WCAG link-in-text-block).
+  a {
+    text-decoration: underline;
+  }
+
   h2 {
     margin-top: var(--space-10);
     margin-bottom: var(--space-4);
