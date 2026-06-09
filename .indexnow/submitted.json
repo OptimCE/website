@@ -13,6 +13,7 @@
   "https://www.optimce.be/actualites/2026/05/25/generer-cle-repartition-optimale-optimce/": "2026-05-25T22:00:00+00:00",
   "https://www.optimce.be/actualites/2026/06/03/communaute-energie-reduire-facture-electricite/": "2026-06-03T08:00:00+00:00",
   "https://www.optimce.be/actualites/2026/06/05/autoconsommation-energie-belgique/": "2026-06-05T08:00:00+00:00",
+  "https://www.optimce.be/actualites/2026/06/09/simuler-cle-repartition-optimce/": "2026-06-09T08:00:00+00:00",
   "https://www.optimce.be/confidentialite/": "2026-05-25T00:00:00+00:00",
   "https://www.optimce.be/de/": "2026-05-07T00:00:00+00:00",
   "https://www.optimce.be/de/about/": "2026-06-05T00:00:00+00:00",
@@ -28,6 +29,7 @@
   "https://www.optimce.be/de/aktuelles/2026/05/26/automatische-verteilungsschluessel-generierung/": "2026-05-25T22:00:00+00:00",
   "https://www.optimce.be/de/aktuelles/2026/06/03/energiegemeinschaft-stromrechnung-senken/": "2026-06-03T08:00:00+00:00",
   "https://www.optimce.be/de/aktuelles/2026/06/05/eigenverbrauch-energie-belgien/": "2026-06-05T08:00:00+00:00",
+  "https://www.optimce.be/de/aktuelles/2026/06/09/verteilungsschluessel-simulieren-optimce/": "2026-06-09T08:00:00+00:00",
   "https://www.optimce.be/de/datenschutz/": "2026-05-25T00:00:00+00:00",
   "https://www.optimce.be/en/": "2026-05-07T00:00:00+00:00",
   "https://www.optimce.be/en/about/": "2026-06-05T00:00:00+00:00",
@@ -43,6 +45,7 @@
   "https://www.optimce.be/en/news/2026/05/26/automatic-allocation-key-generation/": "2026-05-25T22:00:00+00:00",
   "https://www.optimce.be/en/news/2026/06/03/energy-community-reduce-electricity-bill/": "2026-06-03T08:00:00+00:00",
   "https://www.optimce.be/en/news/2026/06/05/energy-self-consumption-belgium/": "2026-06-05T08:00:00+00:00",
+  "https://www.optimce.be/en/news/2026/06/09/simulate-allocation-key-optimce/": "2026-06-09T08:00:00+00:00",
   "https://www.optimce.be/en/privacy/": "2026-05-25T00:00:00+00:00",
   "https://www.optimce.be/nl/": "2026-05-07T00:00:00+00:00",
   "https://www.optimce.be/nl/about/": "2026-06-05T00:00:00+00:00",
@@ -58,5 +61,6 @@
   "https://www.optimce.be/nl/nieuws/2026/05/26/automatische-verdeelsleutel-generatie/": "2026-05-25T22:00:00+00:00",
   "https://www.optimce.be/nl/nieuws/2026/06/03/energiegemeenschap-elektriciteitsfactuur-verlagen/": "2026-06-03T08:00:00+00:00",
   "https://www.optimce.be/nl/nieuws/2026/06/05/zelfverbruik-energie-belgie/": "2026-06-05T08:00:00+00:00",
+  "https://www.optimce.be/nl/nieuws/2026/06/09/verdeelsleutel-simuleren-optimce/": "2026-06-09T08:00:00+00:00",
   "https://www.optimce.be/nl/privacy/": "2026-05-25T00:00:00+00:00"
 }
