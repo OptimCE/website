@@ -170,4 +170,169 @@
     syncControls();
     render();
   }
+
+  // --- Glossary filter (category) + search ---
+  var gToolbar = document.querySelector('[data-glossary-toolbar]');
+  var gGrid = document.querySelector('[data-glossary-grid]');
+  if (gToolbar && gGrid) {
+    var gPills = gToolbar.querySelectorAll('.blog-toolbar__pill');
+    var gSearch = gToolbar.querySelector('[data-glossary-search]');
+    var gEmpty = document.querySelector('[data-glossary-empty]');
+    var gCount = document.querySelector('[data-glossary-count]');
+    var gCards = Array.prototype.slice.call(gGrid.querySelectorAll('.glossary-card'));
+
+    var gCategory = '';
+    var gQuery = '';
+
+    // Lowercase + strip diacritics so "repartition" matches "répartition".
+    function gNorm(s) {
+      return (s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+    }
+
+    // Alphabetical order (per-language) regardless of authoring order.
+    gCards.sort(function (a, b) {
+      return (a.getAttribute('data-term') || '').localeCompare(b.getAttribute('data-term') || '');
+    });
+    gCards.forEach(function (card) { gGrid.appendChild(card); });
+
+    function gReadUrl() {
+      var params = new URLSearchParams(window.location.search);
+      var cat = params.get('cat');
+      if (cat) gCategory = cat;
+      var q = params.get('q');
+      if (q) gQuery = q;
+    }
+
+    function gWriteUrl() {
+      var params = new URLSearchParams(window.location.search);
+      if (gCategory) { params.set('cat', gCategory); } else { params.delete('cat'); }
+      if (gQuery) { params.set('q', gQuery); } else { params.delete('q'); }
+      var qs = params.toString();
+      var newUrl = window.location.pathname + (qs ? '?' + qs : '') + window.location.hash;
+      window.history.replaceState(null, '', newUrl);
+    }
+
+    function gSync() {
+      gPills.forEach(function (btn) {
+        var slug = btn.getAttribute('data-category');
+        var isActive = slug === '' ? gCategory === '' : gCategory === slug;
+        btn.classList.toggle('blog-toolbar__pill--active', isActive);
+        btn.setAttribute('aria-pressed', isActive ? 'true' : 'false');
+      });
+      if (gSearch) gSearch.value = gQuery;
+    }
+
+    function gRender() {
+      var nq = gNorm(gQuery.trim());
+      var visible = 0;
+      gCards.forEach(function (card) {
+        var catOk = gCategory === '' || card.getAttribute('data-category') === gCategory;
+        var searchOk = nq === '' || gNorm(card.getAttribute('data-search')).indexOf(nq) !== -1;
+        var match = catOk && searchOk;
+        card.hidden = !match;
+        if (match) visible++;
+      });
+      if (gEmpty) gEmpty.hidden = visible > 0;
+      if (gCount) {
+        var label = gCount.getAttribute('data-count-label') || '';
+        gCount.textContent = visible + (label ? ' ' + label : '');
+      }
+    }
+
+    gPills.forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        var slug = btn.getAttribute('data-category');
+        if (slug === '' || gCategory === slug) {
+          gCategory = '';
+        } else {
+          gCategory = slug;
+        }
+        gSync();
+        gRender();
+        gWriteUrl();
+      });
+    });
+
+    if (gSearch) {
+      gSearch.addEventListener('input', function () {
+        gQuery = gSearch.value;
+        gRender();
+        gWriteUrl();
+      });
+    }
+
+    gReadUrl();
+    gSync();
+    gRender();
+  }
+
+  // --- Newsletter AJAX (Mailchimp JSONP, no backend) ---
+  var newsletterForms = document.querySelectorAll('[data-newsletter-form]');
+  if (newsletterForms.length) {
+    var nlCallbackCount = 0;
+
+    newsletterForms.forEach(function (form) {
+      var status = form.parentNode.querySelector('[data-newsletter-status]');
+      var emailInput = form.querySelector('input[type="email"]');
+
+      function showStatus(message, isSuccess) {
+        if (!status) return;
+        status.textContent = message;
+        status.classList.remove('is-success', 'is-error');
+        status.classList.add(isSuccess ? 'is-success' : 'is-error');
+        status.hidden = false;
+      }
+
+      form.addEventListener('submit', function (e) {
+        // Let the browser's native validation handle empty/invalid emails.
+        if (typeof form.reportValidity === 'function' && !form.reportValidity()) {
+          return;
+        }
+        e.preventDefault();
+
+        // Build the JSONP URL: Mailchimp's classic endpoint has no CORS, so we
+        // swap /post? for /post-json? and hand it a callback name via &c=.
+        var callbackName = 'mcCallback_' + (nlCallbackCount++);
+        var action = form.getAttribute('action').replace('/post?', '/post-json?');
+        var params = [];
+        Array.prototype.forEach.call(form.querySelectorAll('input[name]'), function (input) {
+          params.push(encodeURIComponent(input.name) + '=' + encodeURIComponent(input.value));
+        });
+        params.push('c=' + callbackName);
+        var url = action + '&' + params.join('&');
+
+        var script = document.createElement('script');
+        var msgSuccess = form.getAttribute('data-msg-success');
+        var msgError = form.getAttribute('data-msg-error');
+
+        function cleanup() {
+          delete window[callbackName];
+          if (script.parentNode) script.parentNode.removeChild(script);
+          form.classList.remove('is-loading');
+        }
+
+        window[callbackName] = function (response) {
+          cleanup();
+          if (response && response.result === 'success') {
+            showStatus(msgSuccess, true);
+            if (emailInput) emailInput.value = '';
+          } else {
+            // Mailchimp's raw msg (e.g. "already subscribed") can be actionable.
+            var detail = response && response.msg ? response.msg.replace(/^\d+\s*-\s*/, '') : '';
+            showStatus(detail ? msgError + ' (' + detail + ')' : msgError, false);
+          }
+        };
+
+        // If the JSONP request never resolves (blocked/offline), surface the error.
+        script.onerror = function () {
+          cleanup();
+          showStatus(msgError, false);
+        };
+
+        form.classList.add('is-loading');
+        script.src = url;
+        document.body.appendChild(script);
+      });
+    });
+  }
 })();

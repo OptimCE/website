@@ -8,6 +8,7 @@ nav:
   features: "Functies"
   blog: "Nieuws"
   about: "Over ons"
+  glossary: "Woordenlijst"
   get_started: "Beginnen"
   github: "GitHub"
   links: "Links"
@@ -114,16 +115,24 @@ developers:
     Angular frontend, Node.js/TypeScript en FastAPI backend,
     gebeurtenisgestuurde architectuur. Draag bij op GitHub of integreer
     OptimCE in uw eigen tools via de REST API.
-  tech_stack: "Angular · Node.js · TypeScript · FastAPI · PostgreSQL"
   cta: "Bijdragen op GitHub"
 
 # Newsletter
 newsletter:
-  title: "Blijf op de hoogte"
-  subtitle: "Ontvang het laatste nieuws en updates van OptimCE."
+  eyebrow: "Nieuwsbrief"
+  title: "Wees als eerste op de hoogte"
+  subtitle: >-
+    Nieuwe functies, vroege toegang tot de alpha en projectupdates —
+    rechtstreeks in uw inbox. Gratis, geen spam.
+  benefits:
+    - "Nieuwe functies zodra ze er zijn"
+    - "Vroege toegang tot wat we bouwen"
+    - "Project- en onderzoeksupdates"
   placeholder: "Uw e-mailadres"
-  button: "Inschrijven"
+  button: "Schrijf me in"
   privacy: "Wij respecteren uw privacy. U kunt zich op elk moment uitschrijven."
+  success: "Bedankt! Controleer uw inbox om uw inschrijving te bevestigen."
+  error: "Oeps, er ging iets mis. Probeer het opnieuw."
 
 # Blog
 blog:
@@ -153,6 +162,40 @@ blog:
     announcement: "Aankondiging"
     news: "Nieuws"
     guide: "Gids"
+
+# Glossary
+glossary:
+  title: "Woordenlijst"
+  subtitle: "Kernbegrippen van energiegemeenschappen en energiedeling"
+  intro: >-
+    Een kennisbank van de begrippen die in OptimCE en in de sector van de
+    energiegemeenschappen worden gebruikt. Filter op categorie of zoek een
+    specifieke term.
+  search_label: "Zoeken"
+  search_placeholder: "Zoek een term of afkorting…"
+  filter_label: "Filteren op categorie"
+  all_categories: "Alle"
+  no_results: "Geen term komt overeen met uw zoekopdracht."
+  count_label: "termen"
+  alias_label: "Ook genoemd:"
+  source_label: "Bron:"
+  categories:
+    autoconsommation: "Zelfverbruik"
+    calcul: "Berekening"
+    facturation: "Facturatie"
+    gouvernance: "Bestuur"
+    juridique: "Juridisch"
+    kpi: "KPI"
+    marche: "Markt"
+    mesure: "Meting"
+    modele: "Model"
+    partage: "Delen"
+    production: "Productie"
+    reglementaire: "Regelgeving"
+    regulateur: "Regulator"
+    reseau: "Net"
+    technique: "Technisch"
+    territoire: "Gebied"
 
 # About
 about:
@@ -193,19 +236,28 @@ about:
     — probeer het nu. Een betaald aanbod komt eraan naarmate het product rijpt;
     alpha-gebruikers worden ruim op tijd op de hoogte gebracht.
   cloud_cta: "Nu starten"
-  architecture_title: "Technische architectuur"
-  architecture_intro: "OptimCE is gebouwd op een moderne, modulaire architectuur:"
-  architecture_items:
-    - label: "Frontend"
-      text: "Angular, voor een responsieve en meertalige gebruikersinterface (FR, EN, NL, DE)"
-    - label: "Hoofd-backend"
-      text: "Node.js met TypeScript, voor het beheer van leden, meters en verdeelsleutels"
-    - label: "Analytische backend"
-      text: "FastAPI (Python), voor gegevensverwerking en optimalisatie"
-    - label: "Gebeurtenisgestuurde architectuur"
-      text: "integratie via SQS om externe modules aan te sluiten (bijv. energiebeheersysteem)"
-    - label: "Multi-tenant"
-      text: "één instantie kan meerdere energiegemeenschappen bedienen"
+  origin_title: "Ontstaan uit een onderzoeksproject"
+  origin_text: >-
+    OptimCE is voortgekomen uit Locomotrice, een Waals onderzoeksproject (2023–2026)
+    gefinancierd door het Win2Wal-programma van het Waalse Gewest. Onder leiding van de
+    Universiteit Luik (BEMS-laboratorium) en het onderzoekscentrum CECOTEPE, in
+    samenwerking met burgerenergiecoöperaties, wil Locomotrice open source software
+    ontwikkelen voor het beheer van energiegemeenschappen, samen ontworpen met de mensen
+    op het terrein.
+  origin_text2: >-
+    Die academische en coöperatieve oorsprong vormt OptimCE: een tool die is afgestemd op
+    de werkelijke behoeften van energiegemeenschappen, getest in de praktijk en open van opzet.
+  origin_facts:
+    - label: "Programma"
+      text: "Win2Wal — Waals Gewest"
+    - label: "Leiding"
+      text: "Universiteit Luik — BEMS-laboratorium"
+    - label: "Onderzoekspartner"
+      text: "CECOTEPE"
+    - label: "Praktijkpartners"
+      text: "burgerenergiecoöperaties"
+    - label: "Periode"
+      text: "2023–2026"
   contribute_title: "Bijdragen"
   contribute_text: >-
     OptimCE is een open source project en bijdragen zijn welkom.

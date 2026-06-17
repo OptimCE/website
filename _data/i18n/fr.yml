@@ -8,6 +8,7 @@ nav:
   features: "Fonctionnalités"
   blog: "Actualités"
   about: "À propos"
+  glossary: "Glossaire"
   get_started: "Démarrer"
   github: "GitHub"
   links: "Liens"
@@ -114,16 +115,24 @@ developers:
     Frontend Angular, backend Node.js/TypeScript et FastAPI,
     architecture événementielle. Contribuez sur GitHub ou intégrez
     OptimCE dans vos propres outils via l'API REST.
-  tech_stack: "Angular · Node.js · TypeScript · FastAPI · PostgreSQL"
   cta: "Contribuer sur GitHub"
 
 # Newsletter
 newsletter:
-  title: "Restez informé"
-  subtitle: "Recevez les dernières actualités et mises à jour d'OptimCE."
+  eyebrow: "Newsletter"
+  title: "Soyez les premiers informés"
+  subtitle: >-
+    Nouvelles fonctionnalités, accès anticipé à l'alpha et avancées du projet —
+    directement dans votre boîte mail. Gratuit, sans spam.
+  benefits:
+    - "Les nouveautés dès leur sortie"
+    - "Un accès anticipé aux nouvelles fonctionnalités"
+    - "Les avancées du projet et de la recherche"
   placeholder: "Votre adresse e-mail"
-  button: "S'inscrire"
+  button: "Je m'inscris"
   privacy: "Nous respectons votre vie privée. Désabonnement à tout moment."
+  success: "Merci ! Consultez votre boîte mail pour confirmer votre inscription."
+  error: "Oups, l'inscription a échoué. Veuillez réessayer."
 
 # Blog
 blog:
@@ -153,6 +162,40 @@ blog:
     announcement: "Annonce"
     news: "Nouveautés"
     guide: "Guide"
+
+# Glossary
+glossary:
+  title: "Glossaire"
+  subtitle: "Les termes clés des communautés d'énergie et du partage d'énergie"
+  intro: >-
+    Une base de connaissances des notions utilisées dans OptimCE et dans le
+    secteur des communautés d'énergie. Filtrez par catégorie ou recherchez un
+    terme précis.
+  search_label: "Rechercher"
+  search_placeholder: "Rechercher un terme, un sigle…"
+  filter_label: "Filtrer par catégorie"
+  all_categories: "Toutes"
+  no_results: "Aucun terme ne correspond à votre recherche."
+  count_label: "termes"
+  alias_label: "Aussi appelé :"
+  source_label: "Source :"
+  categories:
+    autoconsommation: "Autoconsommation"
+    calcul: "Calcul"
+    facturation: "Facturation"
+    gouvernance: "Gouvernance"
+    juridique: "Juridique"
+    kpi: "Indicateur (KPI)"
+    marche: "Marché"
+    mesure: "Mesure"
+    modele: "Modèle"
+    partage: "Partage"
+    production: "Production"
+    reglementaire: "Réglementaire"
+    regulateur: "Régulateur"
+    reseau: "Réseau"
+    technique: "Technique"
+    territoire: "Territoire"
 
 # About
 about:
@@ -192,19 +235,27 @@ about:
     profitez-en dès maintenant. Une offre payante verra le jour à mesure que le
     produit mûrit ; les utilisateurs de l'alpha seront prévenus bien à l'avance.
   cloud_cta: "Démarrer maintenant"
-  architecture_title: "Architecture technique"
-  architecture_intro: "OptimCE repose sur une architecture moderne et modulaire :"
-  architecture_items:
-    - label: "Frontend"
-      text: "Angular, pour une interface utilisateur réactive et multilingue (FR, EN, NL, DE)"
-    - label: "Backend principal"
-      text: "Node.js avec TypeScript, assurant la gestion des membres, des compteurs et des clés de répartition"
-    - label: "Backend analytique"
-      text: "FastAPI (Python), pour les traitements de données et l'optimisation"
-    - label: "Architecture événementielle"
-      text: "intégration via NATS pour brancher des modules externes (ex. : système de gestion d'énergie)"
-    - label: "Multi-tenant"
-      text: "une seule instance peut servir plusieurs communautés d'énergie"
+  origin_title: "Né d'un projet de recherche"
+  origin_text: >-
+    OptimCE est né de Locomotrice, un projet de recherche wallon (2023–2026) financé
+    par le programme Win2Wal de la Région wallonne. Porté par l'Université de Liège
+    (laboratoire BEMS) et le centre de recherche CECOTEPE, en collaboration avec des
+    coopératives citoyennes d'énergie, Locomotrice vise à développer un logiciel open
+    source de gestion des communautés d'énergie, co-construit avec les acteurs de terrain.
+  origin_text2: >-
+    Cette origine académique et citoyenne façonne OptimCE : un outil pensé pour les
+    besoins réels des communautés d'énergie, validé sur le terrain et ouvert par conception.
+  origin_facts:
+    - label: "Programme"
+      text: "Win2Wal — Région wallonne"
+    - label: "Porteur"
+      text: "Université de Liège — laboratoire BEMS"
+    - label: "Partenaire recherche"
+      text: "CECOTEPE"
+    - label: "Terrain"
+      text: "coopératives citoyennes d'énergie"
+    - label: "Période"
+      text: "2023–2026"
   contribute_title: "Contribuer"
   contribute_text: >-
     OptimCE est un projet open source et les contributions sont les bienvenues.

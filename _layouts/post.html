@@ -52,7 +52,7 @@ layout: default
   </header>
   <div class="post__content section">
     <div class="container container--narrow">
-      {{ content }}
+      {{ content | glossary_autolink: lang }}
     </div>
   </div>
 </article>

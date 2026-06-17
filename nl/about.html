@@ -2,10 +2,11 @@
 layout: page
 title: "Over OptimCE"
 subtitle: "Onze missie en onze visie"
+description: "OptimCE is een open source platform voor het beheer van energiegemeenschappen, voortgekomen uit het Waalse onderzoeksproject Locomotrice (Win2Wal, Universiteit Luik)."
 lang: nl
 ref: about
 permalink: /nl/about/
-last_modified_at: 2026-06-05
+last_modified_at: 2026-06-16
 ---
 
 {% assign lang = page.lang | default: site.lang %}
@@ -18,6 +19,18 @@ last_modified_at: 2026-06-05
 <h2>{{ t.about.why_title }}</h2>
 
 <p>{{ t.about.why_text }}</p>
+
+<h2>{{ t.about.origin_title }}</h2>
+
+<p>{{ t.about.origin_text }}</p>
+
+<p>{{ t.about.origin_text2 }}</p>
+
+<ul>
+  {% for item in t.about.origin_facts %}
+  <li><strong>{{ item.label }}</strong>: {{ item.text }}</li>
+  {% endfor %}
+</ul>
 
 <h2>{{ t.about.offering_title }}</h2>
 
@@ -37,16 +50,6 @@ last_modified_at: 2026-06-05
     <a href="https://app.optimce.be" class="btn btn-primary mt-4" target="_blank" rel="noopener">{{ t.about.cloud_cta }}</a>
   </div>
 </div>
-
-<h2>{{ t.about.architecture_title }}</h2>
-
-<p>{{ t.about.architecture_intro }}</p>
-
-<ul>
-  {% for item in t.about.architecture_items %}
-  <li><strong>{{ item.label }}</strong>: {{ item.text }}</li>
-  {% endfor %}
-</ul>
 
 <h2>{{ t.about.contribute_title }}</h2>
 

@@ -1,0 +1,27 @@
+{%- comment -%}
+  Renders one glossary term card.
+  Params: term (a _data/glossary.yml entry), lang (locale code).
+  data-* attributes drive the client-side filter/search/sort in main.js.
+{%- endcomment -%}
+{%- assign lang = include.lang -%}
+{%- assign t = site.data.i18n[lang] -%}
+{%- assign term = include.term -%}
+{%- assign name = term.terme[lang] | default: term.terme.fr -%}
+{%- assign definition = term.definition[lang] | default: term.definition.fr -%}
+{%- assign aliases_list = term.alias[lang] -%}
+{%- assign category_label = t.glossary.categories[term.categorie] | default: term.categorie -%}
+{%- assign aliases_str = aliases_list | join: ", " -%}
+{%- capture search_index -%}{{ name }} {{ aliases_str }} {{ definition }} {{ category_label }} {{ term.tags | join: " " }}{%- endcapture -%}
+<article class="glossary-card" id="{{ term.slug }}" data-term="{{ name | downcase }}" data-category="{{ term.categorie }}" data-search="{{ search_index | strip_newlines | downcase | strip }}">
+  <div class="glossary-card__head">
+    <h2 class="glossary-card__term"><dfn>{{ name }}</dfn></h2>
+    <span class="glossary-card__category">{{ category_label }}</span>
+  </div>
+  <p class="glossary-card__definition">{{ definition }}</p>
+  {%- if aliases_str != "" %}
+  <p class="glossary-card__aliases"><span class="glossary-card__aliases-label">{{ t.glossary.alias_label }}</span> {{ aliases_str }}</p>
+  {%- endif %}
+  {%- if term.source_url and term.source_url != "" %}
+  <a class="glossary-card__source" href="{{ term.source_url }}" target="_blank" rel="noopener">{{ t.glossary.source_label }} {{ term.source_nom }}</a>
+  {%- endif %}
+</article>

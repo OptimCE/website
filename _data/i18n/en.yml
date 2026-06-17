@@ -8,6 +8,7 @@ nav:
   features: "Features"
   blog: "News"
   about: "About"
+  glossary: "Glossary"
   get_started: "Get Started"
   github: "GitHub"
   links: "Links"
@@ -113,16 +114,24 @@ developers:
     Angular frontend, Node.js/TypeScript and FastAPI backend,
     event-driven architecture. Contribute on GitHub or integrate
     OptimCE into your own tools via the REST API.
-  tech_stack: "Angular · Node.js · TypeScript · FastAPI · PostgreSQL"
   cta: "Contribute on GitHub"
 
 # Newsletter
 newsletter:
-  title: "Stay informed"
-  subtitle: "Receive the latest news and updates from OptimCE."
+  eyebrow: "Newsletter"
+  title: "Be the first to know"
+  subtitle: >-
+    New features, early access to the alpha, and project milestones —
+    straight to your inbox. Free, no spam.
+  benefits:
+    - "New features as soon as they ship"
+    - "Early access to what we're building"
+    - "Project and research updates"
   placeholder: "Your email address"
-  button: "Subscribe"
+  button: "Sign me up"
   privacy: "We respect your privacy. Unsubscribe at any time."
+  success: "Thanks! Check your inbox to confirm your subscription."
+  error: "Oops, something went wrong. Please try again."
 
 # Blog
 blog:
@@ -152,6 +161,39 @@ blog:
     announcement: "Announcement"
     news: "News"
     guide: "Guide"
+
+# Glossary
+glossary:
+  title: "Glossary"
+  subtitle: "Key terms of energy communities and energy sharing"
+  intro: >-
+    A knowledge base of the concepts used in OptimCE and across the
+    energy-community sector. Filter by category or search for a specific term.
+  search_label: "Search"
+  search_placeholder: "Search a term or acronym…"
+  filter_label: "Filter by category"
+  all_categories: "All"
+  no_results: "No term matches your search."
+  count_label: "terms"
+  alias_label: "Also known as:"
+  source_label: "Source:"
+  categories:
+    autoconsommation: "Self-consumption"
+    calcul: "Calculation"
+    facturation: "Billing"
+    gouvernance: "Governance"
+    juridique: "Legal"
+    kpi: "KPI"
+    marche: "Market"
+    mesure: "Metering"
+    modele: "Model"
+    partage: "Sharing"
+    production: "Generation"
+    reglementaire: "Regulatory"
+    regulateur: "Regulator"
+    reseau: "Grid"
+    technique: "Technical"
+    territoire: "Territory"
 
 # About
 about:
@@ -191,19 +233,27 @@ about:
     A paid plan will arrive as the product matures; alpha users will be notified
     well in advance.
   cloud_cta: "Start now"
-  architecture_title: "Technical architecture"
-  architecture_intro: "OptimCE is built on a modern, modular architecture:"
-  architecture_items:
-    - label: "Frontend"
-      text: "Angular, for a responsive and multilingual user interface (FR, EN, NL, DE)"
-    - label: "Main backend"
-      text: "Node.js with TypeScript, handling member, meter and allocation key management"
-    - label: "Analytics backend"
-      text: "FastAPI (Python), for data processing and optimisation"
-    - label: "Event-driven architecture"
-      text: "integration via SQS to connect external modules (e.g. energy management system)"
-    - label: "Multi-tenant"
-      text: "a single instance can serve multiple energy communities"
+  origin_title: "Born from a research project"
+  origin_text: >-
+    OptimCE grew out of Locomotrice, a Walloon research project (2023–2026) funded by the
+    Win2Wal programme of the Walloon Region. Led by the University of Liège (BEMS laboratory)
+    and the CECOTEPE research centre, in partnership with citizen energy cooperatives,
+    Locomotrice set out to build open source software for managing energy communities,
+    co-designed with the people who run them.
+  origin_text2: >-
+    That academic and community origin shapes OptimCE: a tool built around the real needs of
+    energy communities, validated in the field and open by design.
+  origin_facts:
+    - label: "Programme"
+      text: "Win2Wal — Walloon Region"
+    - label: "Lead"
+      text: "University of Liège — BEMS laboratory"
+    - label: "Research partner"
+      text: "CECOTEPE"
+    - label: "Field partners"
+      text: "citizen energy cooperatives"
+    - label: "Period"
+      text: "2023–2026"
   contribute_title: "Contribute"
   contribute_text: >-
     OptimCE is an open source project and contributions are welcome.

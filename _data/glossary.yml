@@ -1,0 +1,961 @@
+# ==================================================================
+# OptimCE — Glossaire / Glossary / Glossar / Woordenlijst
+# ------------------------------------------------------------------
+# Single multilingual source of truth for the glossary page.
+# Shared metadata (slug, categorie, tags, source) is defined once;
+# `terme`, `definition` and `alias` are nested per locale (fr/en/de/nl).
+#
+# - `categorie` and `tags` are lowercase, accent-free slugs.
+# - `categorie` drives the filter pills (labels: i18n glossary.categories).
+# - `tags` only enrich the client-side search index.
+# - Authored in French alphabetical order (no-JS fallback); the page
+#   re-sorts alphabetically per language at runtime.
+#
+# NOTE: EN/DE/NL are draft translations and should be reviewed by a
+# native/domain speaker before publishing (esp. NL/DE Belgian terms).
+# ==================================================================
+
+- slug: asbl
+  categorie: juridique
+  tags: [belgique, association, gouvernance]
+  source_nom: ORES
+  source_url: "https://www.ores.be/particulier/communautes-denergie"
+  terme:
+    fr: "ASBL"
+    en: "ASBL"
+    de: "ASBL"
+    nl: "vzw"
+  definition:
+    fr: "Association sans but lucratif, forme juridique fréquente pour des projets d'énergie partagée."
+    en: "Non-profit association (Belgian 'ASBL'), a common legal form for shared-energy projects."
+    de: "Vereinigung ohne Erwerbszweck (belgische 'ASBL'), eine häufige Rechtsform für Energieteilungsprojekte."
+    nl: "Vereniging zonder winstoogmerk (vzw), een veelgebruikte rechtsvorm voor energiedelingsprojecten."
+  alias:
+    fr: ["association sans but lucratif"]
+    en: ["non-profit association"]
+    de: ["Vereinigung ohne Erwerbszweck"]
+    nl: ["vereniging zonder winstoogmerk", "ASBL"]
+
+- slug: autoconsommation
+  categorie: autoconsommation
+  tags: [production, consommation, local]
+  source_nom: "Ministère de la Transition écologique"
+  source_url: "https://www.ecologie.gouv.fr/politiques-publiques/systemes-dautoconsommation"
+  terme:
+    fr: "Autoconsommation"
+    en: "Self-consumption"
+    de: "Eigenverbrauch"
+    nl: "Zelfverbruik"
+  definition:
+    fr: "Fait de consommer sa propre production d'électricité."
+    en: "Consuming the electricity that you generate yourself."
+    de: "Verbrauch des selbst erzeugten Stroms."
+    nl: "Het verbruiken van de zelf opgewekte elektriciteit."
+  alias:
+    fr: []
+    en: ["self consumption"]
+    de: []
+    nl: []
+
+- slug: autoconsommation-collective
+  categorie: autoconsommation
+  tags: [collectif, partage, batiment]
+  source_nom: CWaPE
+  source_url: "https://www.cwape.be/documents/download/2979"
+  terme:
+    fr: "Autoconsommation collective"
+    en: "Collective self-consumption"
+    de: "Kollektiver Eigenverbrauch"
+    nl: "Collectief zelfverbruik"
+  definition:
+    fr: "Autoconsommation réalisée à plusieurs, généralement dans un cadre partagé."
+    en: "Self-consumption carried out by several participants, usually within a shared setting."
+    de: "Eigenverbrauch durch mehrere Teilnehmer, in der Regel in einem gemeinsamen Rahmen."
+    nl: "Zelfverbruik dat door meerdere deelnemers samen wordt gerealiseerd, doorgaans in een gedeeld kader."
+  alias:
+    fr: []
+    en: []
+    de: []
+    nl: []
+
+- slug: autorisation
+  categorie: reglementaire
+  tags: [conformite, regulateur, belgique]
+  source_nom: CWaPE
+  source_url: "https://www.cwape.be/secteur/communautes-partage-energie"
+  terme:
+    fr: "Autorisation"
+    en: "Authorisation"
+    de: "Genehmigung"
+    nl: "Toelating"
+  definition:
+    fr: "Validation ou permission requise pour certaines activités ou structures."
+    en: "The approval or permission required for certain activities or structures."
+    de: "Erforderliche Genehmigung oder Erlaubnis für bestimmte Tätigkeiten oder Strukturen."
+    nl: "Vereiste goedkeuring of toestemming voor bepaalde activiteiten of structuren."
+  alias:
+    fr: []
+    en: ["authorization"]
+    de: []
+    nl: []
+
+- slug: brugel
+  categorie: regulateur
+  tags: [bruxelles, regulation, belgique]
+  source_nom: BRUGEL
+  source_url: "https://brugel.brussels/"
+  terme:
+    fr: "BRUGEL"
+    en: "BRUGEL"
+    de: "BRUGEL"
+    nl: "BRUGEL"
+  definition:
+    fr: "Régulateur bruxellois de l'électricité et du gaz."
+    en: "The Brussels regulator for electricity and gas."
+    de: "Brüsseler Regulierungsbehörde für Strom und Gas."
+    nl: "Brusselse regulator voor elektriciteit en gas."
+  alias:
+    fr: []
+    en: []
+    de: []
+    nl: []
+
+- slug: ce
+  categorie: modele
+  tags: [communaute, abreviation, generique]
+  source_nom: CWaPE
+  source_url: "https://www.cwape.be/secteur/communautes-partage-energie"
+  terme:
+    fr: "CE"
+    en: "CE"
+    de: "CE"
+    nl: "CE"
+  definition:
+    fr: "Abréviation générique de communauté d'énergie."
+    en: "Generic abbreviation for energy community."
+    de: "Allgemeine Abkürzung für Energiegemeinschaft."
+    nl: "Algemene afkorting voor energiegemeenschap."
+  alias:
+    fr: ["communauté d'énergie"]
+    en: ["energy community"]
+    de: ["Energiegemeinschaft"]
+    nl: ["energiegemeenschap"]
+
+- slug: cec
+  categorie: modele
+  tags: [communaute, citoyenne, belgique]
+  source_nom: ORES
+  source_url: "https://www.ores.be/particulier/communautes-denergie"
+  terme:
+    fr: "CEC"
+    en: "CEC"
+    de: "CEC"
+    nl: "CEC"
+  definition:
+    fr: "Communauté d'énergie citoyenne."
+    en: "Citizen energy community (CEC)."
+    de: "Bürgerenergiegemeinschaft."
+    nl: "Burgerenergiegemeenschap."
+  alias:
+    fr: ["communauté d'énergie citoyenne"]
+    en: ["citizen energy community"]
+    de: ["Bürgerenergiegemeinschaft"]
+    nl: ["burgerenergiegemeenschap"]
+
+- slug: cel
+  categorie: modele
+  tags: [communaute, locale, bruxelles]
+  source_nom: "Bruxelles Environnement"
+  source_url: "https://environnement.brussels/media/12676/download?inline"
+  terme:
+    fr: "CEL"
+    en: "CEL"
+    de: "CEL"
+    nl: "CEL"
+  definition:
+    fr: "Communauté d'énergie locale, utilisée dans le contexte bruxellois."
+    en: "Local energy community, a term used in the Brussels context."
+    de: "Lokale Energiegemeinschaft, im Brüsseler Kontext verwendet."
+    nl: "Lokale energiegemeenschap, gebruikt in de Brusselse context."
+  alias:
+    fr: ["communauté d'énergie locale"]
+    en: ["local energy community"]
+    de: ["lokale Energiegemeinschaft"]
+    nl: ["lokale energiegemeenschap"]
+
+- slug: cer
+  categorie: modele
+  tags: [communaute, renouvelable, belgique]
+  source_nom: ORES
+  source_url: "https://www.ores.be/particulier/communautes-denergie"
+  terme:
+    fr: "CER"
+    en: "CER"
+    de: "CER"
+    nl: "CER"
+  definition:
+    fr: "Communauté d'énergie renouvelable."
+    en: "Renewable energy community (REC)."
+    de: "Erneuerbare-Energie-Gemeinschaft."
+    nl: "Hernieuwbare-energiegemeenschap."
+  alias:
+    fr: ["communauté d'énergie renouvelable"]
+    en: ["renewable energy community", "REC"]
+    de: ["Erneuerbare-Energie-Gemeinschaft"]
+    nl: ["hernieuwbare-energiegemeenschap"]
+
+- slug: clef-de-repartition
+  categorie: calcul
+  tags: [partage, gouvernance, repartition]
+  source_nom: CWaPE
+  source_url: "https://www.cwape.be/node/6092"
+  terme:
+    fr: "Clef de répartition"
+    en: "Allocation key"
+    de: "Aufteilungsschlüssel"
+    nl: "Verdeelsleutel"
+  definition:
+    fr: "Règle qui détermine comment l'énergie partagée est répartie entre participants."
+    en: "Rule that determines how shared energy is distributed among participants."
+    de: "Regel, die festlegt, wie die geteilte Energie unter den Teilnehmern aufgeteilt wird."
+    nl: "Regel die bepaalt hoe de gedeelde energie onder de deelnemers wordt verdeeld."
+  alias:
+    fr: ["clé de répartition", "clef de repartition"]
+    en: ["repartition key", "distribution key"]
+    de: ["Verteilschlüssel"]
+    nl: ["verdeelsleutel"]
+
+- slug: communaute
+  categorie: gouvernance
+  tags: [communaute, membres, partage]
+  source_nom: ORES
+  source_url: "https://www.ores.be/particulier/communautes-denergie"
+  terme:
+    fr: "Communauté"
+    en: "Community"
+    de: "Gemeinschaft"
+    nl: "Gemeenschap"
+  definition:
+    fr: "Entité qui regroupe des membres pour produire, consommer, stocker ou partager de l'énergie."
+    en: "An entity that brings members together to produce, consume, store or share energy."
+    de: "Einheit, die Mitglieder zusammenbringt, um Energie zu erzeugen, zu verbrauchen, zu speichern oder zu teilen."
+    nl: "Entiteit die leden samenbrengt om energie te produceren, te verbruiken, op te slaan of te delen."
+  alias:
+    fr: ["communauté d'énergie"]
+    en: ["energy community"]
+    de: ["Energiegemeinschaft"]
+    nl: ["energiegemeenschap"]
+
+- slug: compteur-communicant
+  categorie: mesure
+  tags: [compteur, data, releve]
+  source_nom: CWaPE
+  source_url: "https://www.cwape.be/secteur/communautes-partage-energie"
+  terme:
+    fr: "Compteur communicant"
+    en: "Smart meter"
+    de: "Intelligenter Zähler"
+    nl: "Communicerende meter"
+  definition:
+    fr: "Compteur capable de relever et transmettre des données de consommation."
+    en: "A meter able to read and transmit consumption data."
+    de: "Zähler, der Verbrauchsdaten erfassen und übermitteln kann."
+    nl: "Meter die verbruiksgegevens kan uitlezen en doorsturen."
+  alias:
+    fr: ["compteur intelligent"]
+    en: ["communicating meter"]
+    de: ["Smart Meter"]
+    nl: ["slimme meter", "digitale meter"]
+
+- slug: cooperative
+  categorie: juridique
+  tags: [belgique, structure, gouvernance]
+  source_nom: ORES
+  source_url: "https://www.ores.be/particulier/communautes-denergie"
+  terme:
+    fr: "Coopérative"
+    en: "Cooperative"
+    de: "Genossenschaft"
+    nl: "Coöperatie"
+  definition:
+    fr: "Structure coopérative souvent utilisée pour porter des projets énergétiques locaux."
+    en: "A cooperative structure often used to run local energy projects."
+    de: "Genossenschaftliche Struktur, die häufig für lokale Energieprojekte genutzt wird."
+    nl: "Coöperatieve structuur die vaak wordt gebruikt om lokale energieprojecten te dragen."
+  alias:
+    fr: ["coop"]
+    en: ["co-op"]
+    de: ["Koop"]
+    nl: ["coöp"]
+
+- slug: cwape
+  categorie: regulateur
+  tags: [wallonie, regulation, belgique]
+  source_nom: CWaPE
+  source_url: "https://www.cwape.be/"
+  terme:
+    fr: "CWaPE"
+    en: "CWaPE"
+    de: "CWaPE"
+    nl: "CWaPE"
+  definition:
+    fr: "Commission wallonne pour l'Énergie, régulateur wallon du marché de l'énergie."
+    en: "Walloon Energy Commission, the Walloon energy-market regulator."
+    de: "Wallonische Energiekommission, Regulierungsbehörde für den wallonischen Energiemarkt."
+    nl: "Waalse Energiecommissie, regulator van de Waalse energiemarkt."
+  alias:
+    fr: ["Commission wallonne pour l'Énergie"]
+    en: ["Walloon Energy Commission"]
+    de: ["Wallonische Energiekommission"]
+    nl: ["Waalse Energiecommissie"]
+
+- slug: energie-locale
+  categorie: territoire
+  tags: [local, communaute, proximite]
+  source_nom: "Bruxelles Environnement"
+  source_url: "https://environnement.brussels/media/12676/download?inline"
+  terme:
+    fr: "Énergie locale"
+    en: "Local energy"
+    de: "Lokale Energie"
+    nl: "Lokale energie"
+  definition:
+    fr: "Énergie produite et consommée à l'échelle d'un territoire proche."
+    en: "Energy produced and consumed within a nearby area."
+    de: "Energie, die im Umkreis eines nahen Gebiets erzeugt und verbraucht wird."
+    nl: "Energie die op de schaal van een nabijgelegen gebied wordt geproduceerd en verbruikt."
+  alias:
+    fr: []
+    en: []
+    de: []
+    nl: []
+
+- slug: energie-renouvelable
+  categorie: production
+  tags: [renouvelable, cer, production]
+  source_nom: ORES
+  source_url: "https://www.ores.be/particulier/communautes-denergie"
+  terme:
+    fr: "Énergie renouvelable"
+    en: "Renewable energy"
+    de: "Erneuerbare Energie"
+    nl: "Hernieuwbare energie"
+  definition:
+    fr: "Énergie issue de sources renouvelables comme le solaire, l'éolien ou l'hydraulique."
+    en: "Energy from renewable sources such as solar, wind or hydropower."
+    de: "Energie aus erneuerbaren Quellen wie Solar-, Wind- oder Wasserkraft."
+    nl: "Energie uit hernieuwbare bronnen zoals zonne-, wind- of waterkracht."
+  alias:
+    fr: ["énergie verte"]
+    en: ["green energy"]
+    de: ["grüne Energie"]
+    nl: ["groene energie"]
+
+- slug: facturation
+  categorie: facturation
+  tags: [paiement, contrat, finance]
+  source_nom: CWaPE
+  source_url: "https://www.cwape.be/secteur/communautes-partage-energie"
+  terme:
+    fr: "Facturation"
+    en: "Billing"
+    de: "Abrechnung"
+    nl: "Facturatie"
+  definition:
+    fr: "Processus de calcul et d'émission des montants dus pour l'énergie et les frais associés."
+    en: "The process of calculating and issuing the amounts due for energy and related charges."
+    de: "Prozess der Berechnung und Ausstellung der für Energie und zugehörige Kosten fälligen Beträge."
+    nl: "Het proces van het berekenen en uitreiken van de verschuldigde bedragen voor energie en bijhorende kosten."
+  alias:
+    fr: []
+    en: ["invoicing"]
+    de: []
+    nl: []
+
+- slug: flexibilite
+  categorie: reseau
+  tags: [pilotage, stockage, reseau]
+  source_nom: Brugel
+  source_url: "https://brugel.brussels/publication/document/brochures/2023/fr/Guide_Autorisation_communautes_energie.pdf"
+  terme:
+    fr: "Flexibilité"
+    en: "Flexibility"
+    de: "Flexibilität"
+    nl: "Flexibiliteit"
+  definition:
+    fr: "Capacité à adapter production, consommation ou stockage selon les besoins du réseau."
+    en: "The ability to adjust generation, consumption or storage according to the grid's needs."
+    de: "Fähigkeit, Erzeugung, Verbrauch oder Speicherung an die Bedürfnisse des Netzes anzupassen."
+    nl: "Het vermogen om productie, verbruik of opslag aan te passen aan de behoeften van het net."
+  alias:
+    fr: []
+    en: []
+    de: []
+    nl: []
+
+- slug: fluvius
+  categorie: reseau
+  tags: [flandre, grd, reseau]
+  source_nom: Fluvius
+  source_url: "https://www.fluvius.be/"
+  terme:
+    fr: "Fluvius"
+    en: "Fluvius"
+    de: "Fluvius"
+    nl: "Fluvius"
+  definition:
+    fr: "Gestionnaire de réseau de distribution en Flandre."
+    en: "Distribution system operator in Flanders."
+    de: "Verteilernetzbetreiber in Flandern."
+    nl: "Distributienetbeheerder in Vlaanderen."
+  alias:
+    fr: []
+    en: []
+    de: []
+    nl: []
+
+- slug: fournisseur
+  categorie: marche
+  tags: [contrat, vente, energie]
+  source_nom: Coretec
+  source_url: "https://coretec.be/lexique/"
+  terme:
+    fr: "Fournisseur"
+    en: "Supplier"
+    de: "Lieferant"
+    nl: "Leverancier"
+  definition:
+    fr: "Entreprise qui vend l'énergie au client final."
+    en: "A company that sells energy to the end customer."
+    de: "Unternehmen, das Energie an den Endkunden verkauft."
+    nl: "Onderneming die energie verkoopt aan de eindklant."
+  alias:
+    fr: ["fournisseur d'énergie"]
+    en: ["energy supplier"]
+    de: ["Energielieferant"]
+    nl: ["energieleverancier"]
+
+- slug: gouvernance
+  categorie: gouvernance
+  tags: [organisation, regles, communaute]
+  source_nom: OptimCE
+  source_url: "https://www.optimce.be/en/about/"
+  terme:
+    fr: "Gouvernance"
+    en: "Governance"
+    de: "Governance"
+    nl: "Bestuur"
+  definition:
+    fr: "Organisation de la prise de décision et des règles internes de la communauté."
+    en: "How decision-making and the community's internal rules are organised."
+    de: "Organisation der Entscheidungsfindung und der internen Regeln der Gemeinschaft."
+    nl: "De organisatie van de besluitvorming en de interne regels van de gemeenschap."
+  alias:
+    fr: []
+    en: []
+    de: []
+    nl: ["governance"]
+
+- slug: grd
+  categorie: reseau
+  tags: [acteur, distribution, belgique]
+  source_nom: Coretec
+  source_url: "https://coretec.be/lexique/"
+  terme:
+    fr: "GRD"
+    en: "GRD"
+    de: "GRD"
+    nl: "GRD"
+  definition:
+    fr: "Gestionnaire du réseau de distribution."
+    en: "Distribution system operator (DSO)."
+    de: "Verteilernetzbetreiber (VNB)."
+    nl: "Distributienetbeheerder (DNB)."
+  alias:
+    fr: ["gestionnaire de réseau de distribution"]
+    en: ["distribution system operator", "DSO"]
+    de: ["Verteilernetzbetreiber", "VNB"]
+    nl: ["distributienetbeheerder", "DNB"]
+
+- slug: grt
+  categorie: reseau
+  tags: [acteur, transport, belgique]
+  source_nom: Coretec
+  source_url: "https://coretec.be/lexique/"
+  terme:
+    fr: "GRT"
+    en: "GRT"
+    de: "GRT"
+    nl: "GRT"
+  definition:
+    fr: "Gestionnaire du réseau de transport."
+    en: "Transmission system operator (TSO)."
+    de: "Übertragungsnetzbetreiber (ÜNB)."
+    nl: "Transmissienetbeheerder (TNB)."
+  alias:
+    fr: ["gestionnaire de réseau de transport"]
+    en: ["transmission system operator", "TSO"]
+    de: ["Übertragungsnetzbetreiber", "ÜNB"]
+    nl: ["transmissienetbeheerder", "TNB"]
+
+- slug: injection
+  categorie: reseau
+  tags: [production, reseau, surplus]
+  source_nom: ORES
+  source_url: "https://www.ores.be/faq/partage-denergie/"
+  terme:
+    fr: "Injection"
+    en: "Injection"
+    de: "Einspeisung"
+    nl: "Injectie"
+  definition:
+    fr: "Énergie renvoyée vers le réseau après consommation locale."
+    en: "Energy fed back into the grid after local consumption."
+    de: "Energie, die nach dem lokalen Verbrauch ins Netz zurückgespeist wird."
+    nl: "Energie die na lokaal verbruik terug op het net wordt gezet."
+  alias:
+    fr: []
+    en: ["grid injection"]
+    de: ["Netzeinspeisung"]
+    nl: ["teruglevering"]
+
+- slug: iteration
+  categorie: technique
+  tags: [algorithme, calcul, optimisation]
+  source_nom: OptimCE
+  source_url: "https://www.optimce.be/en/about/"
+  terme:
+    fr: "Itération"
+    en: "Iteration"
+    de: "Iteration"
+    nl: "Iteratie"
+  definition:
+    fr: "Cycle de recalcul de la répartition ou du partage dans un algorithme."
+    en: "A cycle of recalculating the allocation or sharing within an algorithm."
+    de: "Zyklus der Neuberechnung der Aufteilung oder Verteilung in einem Algorithmus."
+    nl: "Cyclus waarin de verdeling of het delen in een algoritme opnieuw wordt berekend."
+  alias:
+    fr: []
+    en: []
+    de: []
+    nl: []
+
+- slug: membre
+  categorie: gouvernance
+  tags: [membres, participation, communaute]
+  source_nom: ORES
+  source_url: "https://www.ores.be/particulier/communautes-denergie"
+  terme:
+    fr: "Membre"
+    en: "Member"
+    de: "Mitglied"
+    nl: "Lid"
+  definition:
+    fr: "Personne ou entité participante à une communauté d'énergie."
+    en: "A person or entity taking part in an energy community."
+    de: "Person oder Einheit, die an einer Energiegemeinschaft teilnimmt."
+    nl: "Persoon of entiteit die deelneemt aan een energiegemeenschap."
+  alias:
+    fr: ["participant"]
+    en: ["participant"]
+    de: ["Teilnehmer"]
+    nl: ["deelnemer"]
+
+- slug: notification
+  categorie: reglementaire
+  tags: [conformite, declaration, belgique]
+  source_nom: CWaPE
+  source_url: "https://www.cwape.be/secteur/communautes-partage-energie"
+  terme:
+    fr: "Notification"
+    en: "Notification"
+    de: "Meldung"
+    nl: "Kennisgeving"
+  definition:
+    fr: "Déclaration préalable requise dans certains cadres réglementaires."
+    en: "A prior declaration required under certain regulatory frameworks."
+    de: "Vorherige Anzeige, die in bestimmten regulatorischen Rahmen erforderlich ist."
+    nl: "Voorafgaande aangifte die in bepaalde regelgevende kaders vereist is."
+  alias:
+    fr: []
+    en: []
+    de: []
+    nl: []
+
+- slug: partage-d-energie
+  categorie: partage
+  tags: [partage, communaute, collectif]
+  source_nom: CWaPE
+  source_url: "https://www.cwape.be/node/6092"
+  terme:
+    fr: "Partage d'énergie"
+    en: "Energy sharing"
+    de: "Energieteilung"
+    nl: "Energiedeling"
+  definition:
+    fr: "Répartition d'électricité entre participants d'une communauté ou d'un même bâtiment."
+    en: "Distribution of electricity among the participants of a community or a single building."
+    de: "Aufteilung von Strom unter den Teilnehmern einer Gemeinschaft oder eines Gebäudes."
+    nl: "Verdeling van elektriciteit onder de deelnemers van een gemeenschap of eenzelfde gebouw."
+  alias:
+    fr: []
+    en: []
+    de: []
+    nl: []
+
+- slug: partage-d-operation
+  categorie: technique
+  tags: [partage, operation, processus]
+  source_nom: CWaPE
+  source_url: "https://www.cwape.be/node/6092"
+  terme:
+    fr: "Partage d'opération"
+    en: "Sharing operation"
+    de: "Aufteilungsvorgang"
+    nl: "Deelverrichting"
+  definition:
+    fr: "Opération par laquelle l'énergie est répartie entre les participants d'un même partage."
+    en: "The operation by which energy is distributed among the participants of a given sharing scheme."
+    de: "Vorgang, durch den Energie unter den Teilnehmern einer Aufteilung verteilt wird."
+    nl: "Verrichting waarbij energie wordt verdeeld onder de deelnemers van eenzelfde deling."
+  alias:
+    fr: ["partage d'opération"]
+    en: []
+    de: []
+    nl: []
+
+- slug: participant
+  categorie: gouvernance
+  tags: [membres, partage, communaute]
+  source_nom: CWaPE
+  source_url: "https://www.cwape.be/node/6092"
+  terme:
+    fr: "Participant"
+    en: "Participant"
+    de: "Teilnehmer"
+    nl: "Deelnemer"
+  definition:
+    fr: "Personne ou entité qui prend part au partage d'énergie."
+    en: "A person or entity taking part in energy sharing."
+    de: "Person oder Einheit, die an der Energieteilung teilnimmt."
+    nl: "Persoon of entiteit die deelneemt aan de energiedeling."
+  alias:
+    fr: ["membre"]
+    en: ["member"]
+    de: ["Mitglied"]
+    nl: ["lid"]
+
+- slug: personne-morale
+  categorie: juridique
+  tags: [structure, droit, communaute]
+  source_nom: "Bruxelles Environnement"
+  source_url: "https://environnement.brussels/media/12676/download?inline"
+  terme:
+    fr: "Personne morale"
+    en: "Legal entity"
+    de: "Juristische Person"
+    nl: "Rechtspersoon"
+  definition:
+    fr: "Entité juridique pouvant porter une communauté d'énergie."
+    en: "A legal entity that can host an energy community."
+    de: "Rechtssubjekt, das eine Energiegemeinschaft tragen kann."
+    nl: "Juridische entiteit die een energiegemeenschap kan dragen."
+  alias:
+    fr: []
+    en: ["legal person"]
+    de: []
+    nl: []
+
+- slug: point-de-fourniture
+  categorie: reseau
+  tags: [contrat, point, livraison]
+  source_nom: Coretec
+  source_url: "https://coretec.be/lexique/"
+  terme:
+    fr: "Point de fourniture"
+    en: "Supply point"
+    de: "Lieferstelle"
+    nl: "Leveringspunt"
+  definition:
+    fr: "Point contractuel de livraison de l'énergie à un client."
+    en: "The contractual point at which energy is delivered to a customer."
+    de: "Vertraglicher Punkt der Energielieferung an einen Kunden."
+    nl: "Contractueel punt waarop energie aan een klant wordt geleverd."
+  alias:
+    fr: []
+    en: []
+    de: []
+    nl: []
+
+- slug: quart-d-heure
+  categorie: mesure
+  tags: [data, mesure, calcul]
+  source_nom: CWaPE
+  source_url: "https://www.cwape.be/node/6092"
+  terme:
+    fr: "Quart d'heure"
+    en: "Quarter-hour"
+    de: "Viertelstunde"
+    nl: "Kwartier"
+  definition:
+    fr: "Unité de mesure de 15 minutes utilisée dans le calcul du partage."
+    en: "A 15-minute measurement interval used to calculate energy sharing."
+    de: "15-Minuten-Messintervall, das zur Berechnung der Aufteilung verwendet wird."
+    nl: "Meetinterval van 15 minuten dat wordt gebruikt om de deling te berekenen."
+  alias:
+    fr: ["quart horaire"]
+    en: ["quarter-hourly", "15-minute interval"]
+    de: ["Viertelstundenwert"]
+    nl: ["kwartierwaarde"]
+
+- slug: sibelga
+  categorie: reseau
+  tags: [bruxelles, grd, reseau]
+  source_nom: Sibelga
+  source_url: "https://www.sibelga.be/"
+  terme:
+    fr: "Sibelga"
+    en: "Sibelga"
+    de: "Sibelga"
+    nl: "Sibelga"
+  definition:
+    fr: "Gestionnaire du réseau de distribution pour Bruxelles."
+    en: "Distribution system operator for Brussels."
+    de: "Verteilernetzbetreiber für Brüssel."
+    nl: "Distributienetbeheerder voor Brussel."
+  alias:
+    fr: []
+    en: []
+    de: []
+    nl: []
+
+- slug: stockage
+  categorie: production
+  tags: [batterie, flexibilite, energie]
+  source_nom: OptimCE
+  source_url: "https://www.optimce.be/en/about/"
+  terme:
+    fr: "Stockage"
+    en: "Storage"
+    de: "Speicherung"
+    nl: "Opslag"
+  definition:
+    fr: "Conservation temporaire de l'énergie, souvent via batterie."
+    en: "Temporary storage of energy, often using a battery."
+    de: "Vorübergehende Speicherung von Energie, häufig mittels Batterie."
+    nl: "Tijdelijke opslag van energie, vaak via een batterij."
+  alias:
+    fr: ["batterie"]
+    en: ["battery"]
+    de: ["Batterie", "Speicher"]
+    nl: ["batterij"]
+
+- slug: surplus
+  categorie: autoconsommation
+  tags: [production, injection, vente]
+  source_nom: "Ministère de la Transition écologique"
+  source_url: "https://www.ecologie.gouv.fr/politiques-publiques/systemes-dautoconsommation"
+  terme:
+    fr: "Surplus"
+    en: "Surplus"
+    de: "Überschuss"
+    nl: "Overschot"
+  definition:
+    fr: "Électricité produite mais non consommée sur place, pouvant être injectée ou vendue."
+    en: "Electricity that is generated but not consumed on site, which can be injected into the grid or sold."
+    de: "Strom, der erzeugt, aber nicht vor Ort verbraucht wird und ins Netz eingespeist oder verkauft werden kann."
+    nl: "Elektriciteit die wordt opgewekt maar niet ter plaatse verbruikt, en die kan worden geïnjecteerd of verkocht."
+  alias:
+    fr: ["surplus de production"]
+    en: ["production surplus"]
+    de: ["Produktionsüberschuss"]
+    nl: ["productieoverschot"]
+
+- slug: surplus-injecte
+  categorie: autoconsommation
+  tags: [surplus, injection, reseau]
+  source_nom: Service-public
+  source_url: "https://www.service-public.gouv.fr/particuliers/actualites/A18205"
+  terme:
+    fr: "Surplus injecté"
+    en: "Injected surplus"
+    de: "Eingespeister Überschuss"
+    nl: "Geïnjecteerd overschot"
+  definition:
+    fr: "Part du surplus envoyée au réseau après consommation locale."
+    en: "The portion of the surplus sent to the grid after local consumption."
+    de: "Teil des Überschusses, der nach dem lokalen Verbrauch ins Netz eingespeist wird."
+    nl: "Deel van het overschot dat na lokaal verbruik op het net wordt gezet."
+  alias:
+    fr: []
+    en: []
+    de: []
+    nl: []
+
+- slug: tarif-reseau
+  categorie: facturation
+  tags: [reseau, cout, tarif]
+  source_nom: CWaPE
+  source_url: "https://www.cwape.be/documents/download/2979"
+  terme:
+    fr: "Tarif réseau"
+    en: "Grid tariff"
+    de: "Netztarif"
+    nl: "Nettarief"
+  definition:
+    fr: "Part des coûts liés à l'utilisation du réseau électrique."
+    en: "The share of costs related to using the electricity grid."
+    de: "Anteil der Kosten für die Nutzung des Stromnetzes."
+    nl: "Deel van de kosten verbonden aan het gebruik van het elektriciteitsnet."
+  alias:
+    fr: ["tarif de réseau"]
+    en: ["network tariff"]
+    de: ["Netzentgelt"]
+    nl: ["distributietarief"]
+
+- slug: tarif-social
+  categorie: facturation
+  tags: [aide, facture, belgique]
+  source_nom: "SPF Economie"
+  source_url: "https://economie.fgov.be/fr/themes/energie/energie-sociale/tarif-social-pour-lenergie"
+  terme:
+    fr: "Tarif social"
+    en: "Social tariff"
+    de: "Sozialtarif"
+    nl: "Sociaal tarief"
+  definition:
+    fr: "Tarif avantageux pour l'électricité, le gaz ou la chaleur pour certains ayants droit."
+    en: "A reduced tariff for electricity, gas or heat available to certain eligible households."
+    de: "Vergünstigter Tarif für Strom, Gas oder Wärme für bestimmte Anspruchsberechtigte."
+    nl: "Voordelig tarief voor elektriciteit, gas of warmte voor bepaalde rechthebbenden."
+  alias:
+    fr: []
+    en: []
+    de: []
+    nl: []
+
+- slug: taux-d-autoconsommation
+  categorie: autoconsommation
+  tags: [kpi, production, consommation]
+  source_nom: "Ministère de la Transition écologique"
+  source_url: "https://www.ecologie.gouv.fr/politiques-publiques/systemes-dautoconsommation"
+  terme:
+    fr: "Taux d'autoconsommation"
+    en: "Self-consumption rate"
+    de: "Eigenverbrauchsquote"
+    nl: "Zelfverbruiksgraad"
+  definition:
+    fr: "Part de la production consommée directement sur place."
+    en: "Share of generation that is consumed directly on site."
+    de: "Anteil der Erzeugung, der direkt vor Ort verbraucht wird."
+    nl: "Aandeel van de productie dat rechtstreeks ter plaatse wordt verbruikt."
+  alias:
+    fr: []
+    en: []
+    de: []
+    nl: []
+
+- slug: taux-de-partage
+  categorie: kpi
+  tags: [partage, performance, calcul]
+  source_nom: OptimCE
+  source_url: "https://www.optimce.be/en/about/"
+  terme:
+    fr: "Taux de partage"
+    en: "Sharing rate"
+    de: "Aufteilungsquote"
+    nl: "Deelgraad"
+  definition:
+    fr: "Part de l'énergie produite qui est effectivement partagée entre participants."
+    en: "Share of the generated energy that is actually shared among participants."
+    de: "Anteil der erzeugten Energie, der tatsächlich unter den Teilnehmern geteilt wird."
+    nl: "Aandeel van de opgewekte energie dat daadwerkelijk onder de deelnemers wordt gedeeld."
+  alias:
+    fr: []
+    en: []
+    de: []
+    nl: []
+
+- slug: taxes
+  categorie: facturation
+  tags: [fiscalite, facture, belgique]
+  source_nom: CWaPE
+  source_url: "https://www.cwape.be/documents/download/2979"
+  terme:
+    fr: "Taxes"
+    en: "Taxes"
+    de: "Steuern und Abgaben"
+    nl: "Heffingen"
+  definition:
+    fr: "Prélèvements fiscaux appliqués sur la facture d'énergie selon le cadre local."
+    en: "Tax levies applied to the energy bill according to the local framework."
+    de: "Steuerliche Abgaben, die je nach lokalem Rahmen auf die Energierechnung erhoben werden."
+    nl: "Fiscale heffingen die volgens het lokale kader op de energiefactuur worden toegepast."
+  alias:
+    fr: ["taxes et prélèvements"]
+    en: ["levies"]
+    de: ["Abgaben"]
+    nl: ["belastingen", "taksen"]
+
+- slug: va
+  categorie: calcul
+  tags: [repartition, partage, kpi, technique]
+  source_nom: OptimCE
+  source_url: "https://www.optimce.be/en/about/"
+  terme:
+    fr: "VA"
+    en: "VA"
+    de: "VA"
+    nl: "VA"
+  definition:
+    fr: "Valeur allouée : part de la production attribuée à un participant, exprimée soit en valeur absolue soit en pourcentage selon la clé de répartition."
+    en: "Allocated value: the share of generation assigned to a participant, expressed either as an absolute value or as a percentage depending on the allocation key."
+    de: "Zugewiesener Wert: der einem Teilnehmer zugeteilte Erzeugungsanteil, je nach Aufteilungsschlüssel als absoluter Wert oder als Prozentsatz ausgedrückt."
+    nl: "Toegewezen waarde: het aan een deelnemer toegekende productieaandeel, uitgedrukt als absolute waarde of als percentage afhankelijk van de verdeelsleutel."
+  alias:
+    fr: ["valeur allouée"]
+    en: ["allocated value"]
+    de: ["zugewiesener Wert"]
+    nl: ["toegewezen waarde"]
+
+- slug: vap
+  categorie: calcul
+  tags: [repartition, partage, pourcentage, technique]
+  source_nom: OptimCE
+  source_url: "https://www.optimce.be/en/about/"
+  terme:
+    fr: "VAP"
+    en: "VAP"
+    de: "VAP"
+    nl: "VAP"
+  definition:
+    fr: "Valeur allouée en pourcentage : part de la production allouée exprimée en pourcentage de la clé de répartition."
+    en: "Allocated value as a percentage: the allocated share of generation expressed as a percentage of the allocation key."
+    de: "Zugewiesener Wert in Prozent: der zugeteilte Erzeugungsanteil, ausgedrückt als Prozentsatz des Aufteilungsschlüssels."
+    nl: "Toegewezen waarde in percentage: het toegewezen productieaandeel uitgedrukt als percentage van de verdeelsleutel."
+  alias:
+    fr: ["valeur allouée pourcentage"]
+    en: ["allocated value percentage"]
+    de: ["zugewiesener Wert in Prozent"]
+    nl: ["toegewezen waarde percentage"]
+
+- slug: vreg
+  categorie: regulateur
+  tags: [flandre, regulation, belgique]
+  source_nom: VREG
+  source_url: "https://www.vreg.be/"
+  terme:
+    fr: "VREG"
+    en: "VREG"
+    de: "VREG"
+    nl: "VREG"
+  definition:
+    fr: "Régulateur flamand du marché de l'énergie."
+    en: "The Flemish energy-market regulator."
+    de: "Flämische Regulierungsbehörde für den Energiemarkt."
+    nl: "Vlaamse regulator van de energiemarkt."
+  alias:
+    fr: []
+    en: []
+    de: []
+    nl: []

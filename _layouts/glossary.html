@@ -1,0 +1,43 @@
+---
+layout: default
+---
+{% assign lang = page.lang | default: site.lang %}
+{% assign t = site.data.i18n[lang] %}
+{% assign terms = site.data.glossary %}
+{% assign categories = terms | map: "categorie" | uniq | sort %}
+<section class="section">
+  <div class="container">
+    <div class="section__header">
+      <h1 class="section__title">{{ t.glossary.title }}</h1>
+      <p class="section__subtitle">{{ t.glossary.subtitle }}</p>
+      {% if t.glossary.intro %}<p class="glossary-intro">{{ t.glossary.intro }}</p>{% endif %}
+    </div>
+
+    <div class="glossary-toolbar" data-glossary-toolbar>
+      <div class="glossary-toolbar__search">
+        <label class="blog-toolbar__label" for="glossary-search">{{ t.glossary.search_label }}</label>
+        <input type="search" id="glossary-search" class="glossary-search" data-glossary-search
+               placeholder="{{ t.glossary.search_placeholder }}" autocomplete="off" spellcheck="false">
+      </div>
+      <div class="blog-toolbar__group glossary-toolbar__filters">
+        <span class="blog-toolbar__label">{{ t.glossary.filter_label }}</span>
+        <div class="blog-toolbar__pills" role="group" aria-label="{{ t.glossary.filter_label }}">
+          <button type="button" class="blog-toolbar__pill blog-toolbar__pill--active" data-category="" aria-pressed="true">{{ t.glossary.all_categories }}</button>
+          {% for cat in categories %}
+            {% assign label = t.glossary.categories[cat] | default: cat %}
+            <button type="button" class="blog-toolbar__pill" data-category="{{ cat }}" aria-pressed="false">{{ label }}</button>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+
+    <p class="glossary-count" data-glossary-count data-count-label="{{ t.glossary.count_label }}" aria-live="polite"></p>
+    <p class="blog-toolbar__empty" data-glossary-empty hidden>{{ t.glossary.no_results }}</p>
+
+    <div class="glossary-grid" data-glossary-grid>
+      {% for term in terms %}
+        {% include glossary-card.html term=term lang=lang %}
+      {% endfor %}
+    </div>
+  </div>
+</section>

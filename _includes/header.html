@@ -14,6 +14,7 @@
         <li><a href="{{ lang_prefix | append: '/' | relative_url }}" {% if page.url == '/' or page.url == lang_prefix | append: '/' %}aria-current="page"{% endif %}>{{ t.nav.home }}</a></li>
         <li><a href="{{ lang_prefix | append: '/' | relative_url }}{{ current_lang.features_anchor }}">{{ t.nav.features }}</a></li>
         <li><a href="{{ current_lang.blog_path | relative_url }}" {% if page.url contains '/actualites' or page.url contains '/news' or page.url contains '/aktuelles' or page.url contains '/nieuws' %}aria-current="page"{% endif %}>{{ t.nav.blog }}</a></li>
+        <li><a href="{{ current_lang.glossary_path | relative_url }}" {% if page.url contains '/glossaire' or page.url contains '/glossary' or page.url contains '/glossar' or page.url contains '/woordenlijst' %}aria-current="page"{% endif %}>{{ t.nav.glossary }}</a></li>
         <li><a href="{{ current_lang.about_path | relative_url }}" {% if page.url contains '/a-propos' or page.url contains '/about' %}aria-current="page"{% endif %}>{{ t.nav.about }}</a></li>
         <li><a href="https://guide.optimce.be" target="_blank" rel="noopener">{{ t.nav.guide }}</a></li>
       </ul>
@@ -41,6 +42,7 @@
         <li><a href="{{ lang_prefix | append: '/' | relative_url }}" {% if page.url == '/' or page.url == lang_prefix | append: '/' %}aria-current="page"{% endif %}>{{ t.nav.home }}</a></li>
         <li><a href="{{ lang_prefix | append: '/' | relative_url }}{{ current_lang.features_anchor }}">{{ t.nav.features }}</a></li>
         <li><a href="{{ current_lang.blog_path | relative_url }}" {% if page.url contains '/actualites' or page.url contains '/news' or page.url contains '/aktuelles' or page.url contains '/nieuws' %}aria-current="page"{% endif %}>{{ t.nav.blog }}</a></li>
+        <li><a href="{{ current_lang.glossary_path | relative_url }}" {% if page.url contains '/glossaire' or page.url contains '/glossary' or page.url contains '/glossar' or page.url contains '/woordenlijst' %}aria-current="page"{% endif %}>{{ t.nav.glossary }}</a></li>
         <li><a href="{{ current_lang.about_path | relative_url }}" {% if page.url contains '/a-propos' or page.url contains '/about' %}aria-current="page"{% endif %}>{{ t.nav.about }}</a></li>
         <li><a href="https://guide.optimce.be" target="_blank" rel="noopener">{{ t.nav.guide }}</a></li>
       </ul>

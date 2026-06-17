@@ -122,9 +122,53 @@
 
 // Newsletter CTA
 .newsletter-section {
+  position: relative;
+  overflow: hidden;
   background: linear-gradient(135deg, var(--color-green-700) 0%, var(--color-green-500) 100%);
   color: var(--color-text-inverse);
   text-align: center;
+
+  // Subtle decorative highlights, mirrors the hero overlay pattern.
+  &::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-image:
+      radial-gradient(circle at 15% 20%, rgba(255, 255, 255, 0.10) 0%, transparent 45%),
+      radial-gradient(circle at 85% 90%, rgba(255, 255, 255, 0.08) 0%, transparent 40%);
+    pointer-events: none;
+  }
+
+  .container {
+    position: relative;
+    z-index: 1;
+  }
+}
+
+.newsletter-card {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: var(--space-10) var(--space-8);
+  background-color: rgba(255, 255, 255, 0.07);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-lg);
+  backdrop-filter: blur(2px);
+
+  @media (max-width: $bp-sm) {
+    padding: var(--space-8) var(--space-5);
+  }
+}
+
+.newsletter-card__eyebrow {
+  display: inline-block;
+  font-family: var(--font-mono);
+  font-size: var(--text-sm);
+  font-weight: var(--weight-semibold);
+  color: rgba(255, 255, 255, 0.85);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: var(--space-3);
 }
 
 .newsletter-section__title {
@@ -134,7 +178,39 @@
 
 .newsletter-section__subtitle {
   color: rgba(255, 255, 255, 0.9);
-  margin-bottom: var(--space-8);
+  margin-bottom: var(--space-6);
+}
+
+.newsletter-benefits {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--space-3) var(--space-5);
+  list-style: none;
+  margin: 0 0 var(--space-8);
+  padding: 0;
+
+  @media (max-width: $bp-sm) {
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    max-width: 280px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.newsletter-benefits__item {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  font-size: var(--text-sm);
+  color: rgba(255, 255, 255, 0.92);
+}
+
+.newsletter-benefits__check {
+  flex-shrink: 0;
+  color: var(--color-green-200);
 }
 
 .newsletter-form {
@@ -146,6 +222,36 @@
   @media (max-width: $bp-sm) {
     flex-direction: column;
   }
+
+  &.is-loading button {
+    opacity: 0.7;
+    pointer-events: none;
+  }
+}
+
+// Inline submission feedback (shared by home + footer forms).
+.newsletter-form__status,
+.footer-newsletter__status {
+  font-size: var(--text-sm);
+  border-radius: var(--radius-md);
+  padding: var(--space-3) var(--space-4);
+  margin-top: var(--space-4);
+
+  &.is-success {
+    background-color: var(--color-green-50);
+    color: var(--color-green-800);
+  }
+
+  &.is-error {
+    background-color: rgba(255, 255, 255, 0.95);
+    color: #b3261e;
+  }
+}
+
+.newsletter-form__status {
+  max-width: 480px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .newsletter-form__input {

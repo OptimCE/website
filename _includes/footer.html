@@ -18,6 +18,7 @@
           <li><a href="{{ lang_prefix | append: '/' | relative_url }}">{{ t.nav.home }}</a></li>
           <li><a href="{{ lang_prefix | append: '/' | relative_url }}{{ current_lang.features_anchor }}">{{ t.nav.features }}</a></li>
           <li><a href="{{ current_lang.blog_path | relative_url }}">{{ t.nav.blog }}</a></li>
+          <li><a href="{{ current_lang.glossary_path | relative_url }}">{{ t.nav.glossary }}</a></li>
           <li><a href="{{ current_lang.about_path | relative_url }}">{{ t.nav.about }}</a></li>
           <li><a href="https://guide.optimce.be" target="_blank" rel="noopener">{{ t.nav.guide }}</a></li>
           <li><a href="{{ current_lang.privacy_path | relative_url }}">{{ t.nav.privacy }}</a></li>
@@ -27,13 +28,14 @@
       <!-- Newsletter -->
       <div>
         <h3 class="site-footer__heading">{{ t.footer.newsletter_title }}</h3>
-        <form class="footer-newsletter" action="https://optimce.us2.list-manage.com/subscribe/post?u=ec69a7b73ebed4adf61b82581&amp;id=1dcb0effa8&amp;f_id=00375ae1f0" method="post" target="_blank">
+        <form class="footer-newsletter" data-newsletter-form data-msg-success="{{ t.newsletter.success }}" data-msg-error="{{ t.newsletter.error }}" action="https://optimce.us2.list-manage.com/subscribe/post?u=ec69a7b73ebed4adf61b82581&amp;id=1dcb0effa8&amp;f_id=00375ae1f0" method="post" target="_blank">
           <input type="email" name="EMAIL" class="footer-newsletter__input" placeholder="{{ t.newsletter.placeholder }}" aria-label="{{ t.newsletter.placeholder }}" required>
           <button type="submit" class="footer-newsletter__btn">{{ t.newsletter.button }}</button>
           <div aria-hidden="true" style="position: absolute; left: -5000px;">
             <input type="text" name="b_ec69a7b73ebed4adf61b82581_1dcb0effa8" tabindex="-1" value="">
           </div>
         </form>
+        <p class="footer-newsletter__status" data-newsletter-status role="status" aria-live="polite" hidden></p>
         <p style="font-size: var(--text-sm); color: var(--color-gray-300);">{{ t.newsletter.privacy }}</p>
       </div>
 

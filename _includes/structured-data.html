@@ -11,6 +11,12 @@
   "url": {{ '/' | absolute_url | jsonify }},
   "logo": {{ '/assets/images/logo.svg' | absolute_url | jsonify }},
   "description": "OptimCE is an open-source platform for managing energy communities and renewable energy communities. The project originated from LOCOMOTRICE, a Walloon research initiative (2023-2026) co-led by Université de Liège (BEMS lab) and CECOTEPE in partnership with citizen energy cooperatives.",
+  "foundingDate": "2023",
+  "funder": {
+    "@type": "Organization",
+    "name": "Service public de Wallonie — programme Win2Wal",
+    "url": "https://recherche.wallonie.be/"
+  },
   "sameAs": [
     "https://github.com/optimce"
   ]
@@ -49,6 +55,23 @@
   "publisher": {
     "@type": "Organization",
     "name": "OptimCE"
+  }
+}
+</script>
+{%- endif -%}
+{%- if page.ref == 'about' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "AboutPage",
+  "url": {{ page.url | absolute_url | jsonify }},
+  "inLanguage": "{{ page.lang | default: site.lang }}",
+  "name": {{ page.title | jsonify }},
+  "description": {{ page.description | default: site.description | jsonify }},
+  "mainEntity": {
+    "@type": "Organization",
+    "name": "OptimCE",
+    "url": {{ '/' | absolute_url | jsonify }}
   }
 }
 </script>
@@ -97,6 +120,29 @@
         "@type": "Answer",
         "text": {{ item.a | jsonify }}
       }
+    }{%- unless forloop.last %},{%- endunless %}
+    {%- endfor %}
+  ]
+}
+</script>
+{%- endif -%}
+{%- if page.ref == 'glossary' %}
+{%- assign gloss_lang = page.lang | default: site.lang -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTermSet",
+  "name": {{ page.title | default: site.title | jsonify }},
+  "url": {{ page.url | absolute_url | jsonify }},
+  "inLanguage": "{{ gloss_lang }}",
+  "hasDefinedTerm": [
+    {%- for term in site.data.glossary %}
+    {
+      "@type": "DefinedTerm",
+      "name": {{ term.terme[gloss_lang] | default: term.terme.fr | jsonify }},
+      "description": {{ term.definition[gloss_lang] | default: term.definition.fr | jsonify }},
+      "url": {{ page.url | append: '#' | append: term.slug | absolute_url | jsonify }},
+      "inDefinedTermSet": {{ page.url | absolute_url | jsonify }}
     }{%- unless forloop.last %},{%- endunless %}
     {%- endfor %}
   ]
