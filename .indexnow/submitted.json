@@ -1,6 +1,6 @@
 {
   "https://www.optimce.be/": "2026-05-07T00:00:00+00:00",
-  "https://www.optimce.be/a-propos/": "2026-06-05T00:00:00+00:00",
+  "https://www.optimce.be/a-propos/": "2026-06-16T00:00:00+00:00",
   "https://www.optimce.be/actualites/": "2026-05-07T00:00:00+00:00",
   "https://www.optimce.be/actualites/2026/03/01/lancement-optimce/": "2026-03-01T09:00:00+00:00",
   "https://www.optimce.be/actualites/2026/03/05/communautes-energie-en-europe/": "2026-03-05T08:00:00+00:00",
@@ -16,7 +16,7 @@
   "https://www.optimce.be/actualites/2026/06/09/simuler-cle-repartition-optimce/": "2026-06-09T08:00:00+00:00",
   "https://www.optimce.be/confidentialite/": "2026-05-25T00:00:00+00:00",
   "https://www.optimce.be/de/": "2026-05-07T00:00:00+00:00",
-  "https://www.optimce.be/de/about/": "2026-06-05T00:00:00+00:00",
+  "https://www.optimce.be/de/about/": "2026-06-16T00:00:00+00:00",
   "https://www.optimce.be/de/aktuelles/": "2026-05-07T00:00:00+00:00",
   "https://www.optimce.be/de/aktuelles/2026/03/01/start-optimce/": "2026-03-01T09:00:00+00:00",
   "https://www.optimce.be/de/aktuelles/2026/03/05/energiegemeinschaften-europa/": "2026-03-05T08:00:00+00:00",
@@ -31,8 +31,10 @@
   "https://www.optimce.be/de/aktuelles/2026/06/05/eigenverbrauch-energie-belgien/": "2026-06-05T08:00:00+00:00",
   "https://www.optimce.be/de/aktuelles/2026/06/09/verteilungsschluessel-simulieren-optimce/": "2026-06-09T08:00:00+00:00",
   "https://www.optimce.be/de/datenschutz/": "2026-05-25T00:00:00+00:00",
+  "https://www.optimce.be/de/glossar/": "2026-06-16T00:00:00+00:00",
   "https://www.optimce.be/en/": "2026-05-07T00:00:00+00:00",
-  "https://www.optimce.be/en/about/": "2026-06-05T00:00:00+00:00",
+  "https://www.optimce.be/en/about/": "2026-06-16T00:00:00+00:00",
+  "https://www.optimce.be/en/glossary/": "2026-06-16T00:00:00+00:00",
   "https://www.optimce.be/en/news/": "2026-05-07T00:00:00+00:00",
   "https://www.optimce.be/en/news/2026/03/01/launch-optimce/": "2026-05-30T08:00:00+00:00",
   "https://www.optimce.be/en/news/2026/03/05/energy-communities-europe/": "2026-03-05T08:00:00+00:00",
@@ -47,8 +49,9 @@
   "https://www.optimce.be/en/news/2026/06/05/energy-self-consumption-belgium/": "2026-06-05T08:00:00+00:00",
   "https://www.optimce.be/en/news/2026/06/09/simulate-allocation-key-optimce/": "2026-06-09T08:00:00+00:00",
   "https://www.optimce.be/en/privacy/": "2026-05-25T00:00:00+00:00",
+  "https://www.optimce.be/glossaire/": "2026-06-16T00:00:00+00:00",
   "https://www.optimce.be/nl/": "2026-05-07T00:00:00+00:00",
-  "https://www.optimce.be/nl/about/": "2026-06-05T00:00:00+00:00",
+  "https://www.optimce.be/nl/about/": "2026-06-16T00:00:00+00:00",
   "https://www.optimce.be/nl/nieuws/": "2026-05-07T00:00:00+00:00",
   "https://www.optimce.be/nl/nieuws/2026/03/01/lancering-optimce/": "2026-03-01T09:00:00+00:00",
   "https://www.optimce.be/nl/nieuws/2026/03/05/energiegemeenschappen-europa/": "2026-03-05T08:00:00+00:00",
@@ -62,5 +65,6 @@
   "https://www.optimce.be/nl/nieuws/2026/06/03/energiegemeenschap-elektriciteitsfactuur-verlagen/": "2026-06-03T08:00:00+00:00",
   "https://www.optimce.be/nl/nieuws/2026/06/05/zelfverbruik-energie-belgie/": "2026-06-05T08:00:00+00:00",
   "https://www.optimce.be/nl/nieuws/2026/06/09/verdeelsleutel-simuleren-optimce/": "2026-06-09T08:00:00+00:00",
-  "https://www.optimce.be/nl/privacy/": "2026-05-25T00:00:00+00:00"
+  "https://www.optimce.be/nl/privacy/": "2026-05-25T00:00:00+00:00",
+  "https://www.optimce.be/nl/woordenlijst/": "2026-06-16T00:00:00+00:00"
 }
