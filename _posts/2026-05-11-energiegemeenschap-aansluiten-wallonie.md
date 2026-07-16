@@ -7,6 +7,7 @@ excerpt: "Hoe toetreden tot een energiegemeenschap in Wallonië: voorwaarden, wa
 tags: [community, administrative, guide]
 lang: nl
 ref: join-energy-community-wallonia
+last_modified_at: 2026-07-16 10:00:00 +0200
 permalink: /nl/nieuws/2026/05/11/energiegemeenschap-aansluiten-wallonie/
 ---
 
@@ -146,7 +147,7 @@ De doorlooptijd tussen ondertekening en eerste gedeelde kWh is doorgaans **4 tot
 
 Eenmaal operationeel leest de DNB je meter elke 15 minuten af, past hij de verdeelsleutel toe en bezorgt hij de gedeelde volumes aan je leverancier. Op je factuur wordt dat aandeel gewaardeerd tegen de interne prijs van de gemeenschap; het saldo — de **residuele energie** — blijft door je leverancier gefactureerd tegen het standaardtarief.
 
-De gemeenschap bezorgt meestal een gedetailleerde **driemaandelijkse afrekening**: gedeelde kWh, gerealiseerde besparing, evolutie van de volumes. Dat is je beste opvolgingsinstrument.
+De gemeenschap bezorgt meestal een gedetailleerde **driemaandelijkse afrekening**: gedeelde kWh, gerealiseerde besparing, evolutie van de volumes. Dat is je beste opvolgingsinstrument. Gemeenschappen die met OptimCE werken, kunnen die [afrekeningen en facturen voortaan automatisch genereren](/nl/nieuws/2026/07/16/facturatie-energiegemeenschap-optimce/).
 
 ## Aandachtspunten vóór ondertekening
 

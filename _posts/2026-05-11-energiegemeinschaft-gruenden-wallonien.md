@@ -7,6 +7,7 @@ excerpt: "Wie man eine Energiegemeinschaft (CER oder CEC) in der Wallonie gründ
 tags: [community, administrative, guide]
 lang: de
 ref: create-energy-community-wallonia
+last_modified_at: 2026-07-16 10:00:00 +0200
 permalink: /de/aktuelles/2026/05/11/energiegemeinschaft-gruenden-wallonien/
 ---
 
@@ -156,7 +157,7 @@ Hinzu kommen die laufenden Pflichten:
 - **Interne Governance**: Versammlungen, Entscheidungen zum Verteilungsschlüssel, Onboarding neuer Erzeuger;
 - **Laufende Koordination mit dem VNB** für technische Fragen (Zählertausch, EAN-Ergänzung, Behandlung von Abweichungen).
 
-In dieser Betriebsphase wird ein **Verwaltungswerkzeug** unverzichtbar: Dutzende EANs verfolgen, Schlüssel bei jedem Zu- und Abgang neu berechnen, den CWaPE-Bericht erstellen — all das von Hand wird schnell unhaltbar. Genau das automatisiert **OptimCE**.
+In dieser Betriebsphase wird ein **Verwaltungswerkzeug** unverzichtbar: Dutzende EANs verfolgen, Schlüssel bei jedem Zu- und Abgang neu berechnen, den CWaPE-Bericht erstellen — all das von Hand wird schnell unhaltbar. Genau das automatisiert **OptimCE** — seit Juli 2026 einschließlich der [internen Abrechnung der Mitglieder](/de/aktuelles/2026/07/16/energiegemeinschaft-abrechnung-optimce/), deren erste Version einsatzbereit ist.
 
 ## Wie lange? Wie viel kostet es?
 
@@ -167,7 +168,7 @@ In dieser Betriebsphase wird ein **Verwaltungswerkzeug** unverzichtbar: Dutzende
 - **Rechtsgründung**: ASBL- oder Genossenschaftsstatuten, Notarkosten für Genossenschaften (einige Hundert bis einige Tausend Euro).
 - **Begleitung**: Anwalt, Energieberater, Ingenieurbüro bei komplexer Konfiguration.
 - **Buchhaltung**: Als juristische Person führt die Gemeinschaft Bücher (für VoGs oft vereinfacht).
-- **Verwaltungstool**: spezialisierte Plattform für Verteilungsschlüssel, Berichterstattung und interne Abrechnung.
+- **Verwaltungstool**: spezialisierte Plattform für Verteilungsschlüssel, Berichterstattung und interne Abrechnung (inzwischen in OptimCE integriert).
 - **Netznutzungsentgelte**: Vom VNB nach den geltenden regulierten Tarifen abgerechnet (bei der CWaPE einsehbar).
 
 Für die Meldung selbst ist **keine spezifische Verwaltungsgebühr** an die CWaPE zu entrichten.

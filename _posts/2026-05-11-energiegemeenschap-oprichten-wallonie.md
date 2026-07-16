@@ -7,6 +7,7 @@ excerpt: "Hoe je een energiegemeenschap (CER of CEC) opricht in Wallonië: keuze
 tags: [community, administrative, guide]
 lang: nl
 ref: create-energy-community-wallonia
+last_modified_at: 2026-07-16 10:00:00 +0200
 permalink: /nl/nieuws/2026/05/11/energiegemeenschap-oprichten-wallonie/
 ---
 
@@ -156,7 +157,7 @@ Daarbij komen de lopende verplichtingen:
 - **Interne governance**: vergaderingen, beslissingen over de verdeelsleutel, onboarding van nieuwe producenten;
 - **Voortdurende afstemming met de DNB** voor technische vragen (vervanging van meter, toevoegen van een EAN, behandelen van afwijkingen).
 
-In deze uitbatingsfase wordt een **beheertool** onmisbaar: tientallen EAN's opvolgen, sleutels herrekenen bij elke aansluiting en vertrek, het CWaPE-rapport opstellen — alles met de hand wordt al snel onhoudbaar. Precies wat **OptimCE** automatiseert.
+In deze uitbatingsfase wordt een **beheertool** onmisbaar: tientallen EAN's opvolgen, sleutels herrekenen bij elke aansluiting en vertrek, het CWaPE-rapport opstellen — alles met de hand wordt al snel onhoudbaar. Precies wat **OptimCE** automatiseert — sinds juli 2026 ook de [interne facturatie van de leden](/nl/nieuws/2026/07/16/facturatie-energiegemeenschap-optimce/), waarvan een eerste versie operationeel is.
 
 ## Hoe lang? Hoeveel kost het?
 
@@ -167,7 +168,7 @@ In deze uitbatingsfase wordt een **beheertool** onmisbaar: tientallen EAN's opvo
 - **Juridische oprichting**: statuten van vzw of coöperatie, notariskosten voor coöperaties (enkele honderden tot enkele duizenden euro).
 - **Begeleiding**: jurist, energieadviseur, studiebureau bij een complexe configuratie.
 - **Boekhouding**: als rechtspersoon voert de gemeenschap een boekhouding (vaak vereenvoudigd voor vzw's).
-- **Beheertool**: specifiek platform voor verdeelsleutels, rapportage en interne facturatie.
+- **Beheertool**: specifiek platform voor verdeelsleutels, rapportage en interne facturatie (voortaan ingebouwd in OptimCE).
 - **Netwerkkosten**: door de DNB aangerekend volgens de geldende gereguleerde tarieven (te raadplegen bij de CWaPE).
 
 Voor de melding zelf is **geen specifieke administratieve vergoeding** aan de CWaPE verschuldigd.

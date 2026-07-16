@@ -7,6 +7,7 @@ excerpt: "Verdeelsleutel in een energiegemeenschap — types aanvaard door CWaPE
 tags: [allocation-key, administrative]
 lang: nl
 ref: allocation-key-belgium
+last_modified_at: 2026-07-16 10:00:00 +0200
 permalink: /nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/
 ---
 
@@ -68,6 +69,8 @@ Het standaardvoorbeeld van [Sibelga](https://www.sibelga.be/fr/raccordements-com
 ### Wijziging en facturatie
 
 De methode kan **op elk moment worden gewijzigd** op verzoek van het enige contactpunt van de deelactie. Datzelfde enige contactpunt neemt ook de **interne facturatie** aan de leden voor zijn rekening op basis van de maandelijkse data die Sibelga aanlevert — Sibelga arbitreert niet, hij rekent en bezorgt.
+
+Die interne facturatie hoeft voortaan niet meer met de hand te gebeuren: OptimCE biedt nu een [eerste werkende versie van zijn facturatiemodule](/nl/nieuws/2026/07/16/facturatie-energiegemeenschap-optimce/), die de facturen van de leden genereert op basis van de verdelingsdata — eerst voor het Waalse kader, de andere gewesten volgen.
 
 Voor de economische context en de tariefimpact in Brussel zie de [analyse van Renouvelle over de kosten en voordelen van elektriciteitsdelen in Brussel](https://www.renouvelle.be/fr/quels-couts-avantages-sur-le-partage-delectricite-et-les-communautes-denergie-a-bruxelles/) en de [studie 2024 over het potentieel van de Brusselse energiegemeenschappen](https://document.environnement.brussels/opac_css/elecfile/RAP_2024_CommunautesEnergie.pdf).
 

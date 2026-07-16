@@ -7,6 +7,7 @@ excerpt: "How to set up an energy community (CER or CEC) in Wallonia: choosing t
 tags: [community, administrative, guide]
 lang: en
 ref: create-energy-community-wallonia
+last_modified_at: 2026-07-16 10:00:00 +0200
 permalink: /en/news/2026/05/11/create-energy-community-wallonia/
 ---
 
@@ -156,7 +157,7 @@ To which are added the ongoing obligations:
 - **Internal governance**: assemblies, allocation-key decisions, onboarding new producers;
 - **Continuous coordination with the DSO** for technical questions (meter replacement, EAN addition, discrepancy handling).
 
-It's in this operational phase that a **management tool** becomes essential: tracking dozens of EANs, recomputing keys as members come and go, producing the CWaPE report — all this by hand quickly becomes unmanageable. Precisely what **OptimCE** automates.
+It's in this operational phase that a **management tool** becomes essential: tracking dozens of EANs, recomputing keys as members come and go, producing the CWaPE report — all this by hand quickly becomes unmanageable. Precisely what **OptimCE** automates — including, since July 2026, [members' internal billing](/en/news/2026/07/16/energy-community-billing-optimce/), with a first working version.
 
 ## How long? How much does it cost?
 
@@ -167,7 +168,7 @@ It's in this operational phase that a **management tool** becomes essential: tra
 - **Legal incorporation**: ASBL or cooperative statutes, notarial fees for cooperatives (a few hundred to a few thousand euros).
 - **Advisory support**: lawyer, energy consultant, engineering firm if the configuration is complex.
 - **Accounting**: as a legal entity, the community keeps accounts (often simplified for ASBLs).
-- **Management tool**: dedicated platform for allocation keys, reporting and internal billing.
+- **Management tool**: dedicated platform for allocation keys, reporting and internal billing (now built into OptimCE).
 - **Grid operating fees**: charged by the DSO according to the regulated tariffs in force (consultable from the CWaPE).
 
 No **specific administrative fee** is owed to the CWaPE for the notification itself.

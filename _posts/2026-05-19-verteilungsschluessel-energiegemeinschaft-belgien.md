@@ -7,6 +7,7 @@ excerpt: "Verteilungsschlüssel in einer Energiegemeinschaft — von CWaPE, BRUG
 tags: [allocation-key, administrative]
 lang: de
 ref: allocation-key-belgium
+last_modified_at: 2026-07-16 10:00:00 +0200
 permalink: /de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/
 ---
 
@@ -68,6 +69,8 @@ Das Standardbeispiel von [Sibelga](https://www.sibelga.be/fr/raccordements-compt
 ### Änderung und Abrechnung
 
 Die Methode kann **jederzeit geändert** werden auf Antrag der einzigen Kontaktstelle der Operation. Dieselbe einzige Kontaktstelle übernimmt auch die **interne Abrechnung** an die Mitglieder anhand der monatlichen Daten, die Sibelga liefert — Sibelga schlichtet nicht, sondern rechnet und übermittelt.
+
+Diese interne Abrechnung muss nun nicht mehr von Hand erfolgen: OptimCE bietet jetzt eine [erste funktionsfähige Version seines Abrechnungsmoduls](/de/aktuelles/2026/07/16/energiegemeinschaft-abrechnung-optimce/), das die Rechnungen der Mitglieder aus den Verteilungsdaten erzeugt — zunächst für den wallonischen Rahmen, weitere Regionen folgen.
 
 Für den wirtschaftlichen Kontext und die Tarifwirkung in Brüssel siehe die [Analyse von Renouvelle zu Kosten und Nutzen der Stromteilung in Brüssel](https://www.renouvelle.be/fr/quels-couts-avantages-sur-le-partage-delectricite-et-les-communautes-denergie-a-bruxelles/) und die [Studie 2024 über das Potenzial der Brüsseler Energiegemeinschaften](https://document.environnement.brussels/opac_css/elecfile/RAP_2024_CommunautesEnergie.pdf).
 

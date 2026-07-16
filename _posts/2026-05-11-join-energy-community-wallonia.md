@@ -7,6 +7,7 @@ excerpt: "How to join an energy community in Wallonia: eligibility, where to fin
 tags: [community, administrative, guide]
 lang: en
 ref: join-energy-community-wallonia
+last_modified_at: 2026-07-16 10:00:00 +0200
 permalink: /en/news/2026/05/11/join-energy-community-wallonia/
 ---
 
@@ -146,7 +147,7 @@ The delay between signature and first shared kWh is typically **4 to 8 weeks**. 
 
 Once live, the DSO reads your meter every 15 minutes, applies the allocation key and transmits the shared volume to your supplier. On your bill, that share is valued at the community's internal price; the remainder — the **residual energy** — is still billed at the standard rate by your supplier.
 
-The community generally provides a detailed **quarterly statement**: shared kWh, savings achieved, evolution of volumes. It's your best tracking tool.
+The community generally provides a detailed **quarterly statement**: shared kWh, savings achieved, evolution of volumes. It's your best tracking tool. Communities managed with OptimCE can now [generate these statements and invoices automatically](/en/news/2026/07/16/energy-community-billing-optimce/).
 
 ## Points to check before you sign
 

@@ -7,6 +7,7 @@ excerpt: "Allocation key in an energy community — types accepted by CWaPE, BRU
 tags: [allocation-key, administrative]
 lang: en
 ref: allocation-key-belgium
+last_modified_at: 2026-07-16 10:00:00 +0200
 permalink: /en/news/2026/05/19/allocation-key-belgium/
 ---
 
@@ -68,6 +69,8 @@ The textbook example from [Sibelga](https://www.sibelga.be/fr/raccordements-comp
 ### Modifying and billing
 
 The method can be **changed at any time** at the request of the operation's single point of contact. That same single point of contact also handles **internal billing** to members based on monthly data provided by Sibelga — Sibelga does not arbitrate, it computes and forwards.
+
+That internal billing, precisely, no longer has to be done by hand: OptimCE now offers a [first working version of its billing module](/en/news/2026/07/16/energy-community-billing-optimce/), which generates member invoices from the settlement data — starting with the Walloon framework, other regions to follow.
 
 For the economic context and tariff impact in Brussels, see [Renouvelle's analysis of costs and benefits of electricity sharing in Brussels](https://www.renouvelle.be/fr/quels-couts-avantages-sur-le-partage-delectricite-et-les-communautes-denergie-a-bruxelles/) and the [2024 study on the potential of Brussels energy communities](https://document.environnement.brussels/opac_css/elecfile/RAP_2024_CommunautesEnergie.pdf).
 

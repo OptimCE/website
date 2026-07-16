@@ -7,6 +7,7 @@ excerpt: "Clé de répartition d'une communauté d'énergie : types CWaPE, BRUGE
 tags: [allocation-key, administrative]
 lang: fr
 ref: allocation-key-belgium
+last_modified_at: 2026-07-16 10:00:00 +0200
 ---
 
 La **clé de répartition** est le rouage discret qui transforme une production locale d'électricité en avantage tangible pour chaque membre d'une communauté d'énergie. Elle décide, quart d'heure par quart d'heure, *qui reçoit combien* d'énergie partagée. Et c'est précisément là que la Belgique se complique : la Wallonie, Bruxelles et la Flandre n'ont pas adopté la même grille de clés standards, n'utilisent pas le même vocabulaire, et n'imposent pas les mêmes règles de validation.
@@ -67,6 +68,8 @@ L'exemple type donné par [Sibelga](https://www.sibelga.be/fr/raccordements-comp
 ### Modification et facturation
 
 La méthode peut être **modifiée à tout moment** sur demande du point de contact unique de l'opération. C'est aussi ce point de contact unique qui prend en charge la **facturation interne** aux membres à partir des données mensuelles fournies par Sibelga — Sibelga n'arbitre pas, il calcule et transmet.
+
+Cette facturation interne, justement, ne doit plus se faire à la main : OptimCE propose désormais une [première version opérationnelle de son module de facturation](/actualites/2026/07/16/facturation-communaute-energie-optimce/), qui génère les factures des membres à partir des données de répartition — d'abord pour le cadre wallon, les autres régions suivront.
 
 Pour le contexte économique et l'impact tarifaire à Bruxelles, voyez l'analyse de [Renouvelle sur les coûts-avantages du partage d'électricité à Bruxelles](https://www.renouvelle.be/fr/quels-couts-avantages-sur-le-partage-delectricite-et-les-communautes-denergie-a-bruxelles/) et l'[étude 2024 sur le potentiel des communautés d'énergie bruxelloises](https://document.environnement.brussels/opac_css/elecfile/RAP_2024_CommunautesEnergie.pdf).
 

@@ -7,6 +7,7 @@ excerpt: "Comment créer une communauté d'énergie (CER ou CEC) en Wallonie : c
 tags: [community, administrative, guide]
 lang: fr
 ref: create-energy-community-wallonia
+last_modified_at: 2026-07-16 10:00:00 +0200
 ---
 
 La Wallonie est, à ce jour, la région belge où les communautés d'énergie se déploient le plus rapidement. Cadre légal stabilisé depuis 2022, formulaire-type publié par la CWaPE, gestionnaires de réseau outillés : tous les ingrédients sont réunis pour qu'un groupe de citoyens, une commune, une école ou un parc d'entreprises lance son propre partage d'énergie. Ce guide décrit, pas à pas, **la procédure complète** : du choix du type de communauté à la mise en service du partage avec votre gestionnaire de réseau de distribution (GRD). Si vous n'êtes pas encore familier avec la notion même de communauté d'énergie, commencez par notre article [« Communautés d'énergie en Belgique : CER, CEC, CEL expliqués »](/actualites/2026/05/11/communautes-energie-belgique/) — il pose le vocabulaire repris ici.
@@ -155,7 +156,7 @@ Une fois la communauté en marche, les obligations ne disparaissent pas. La CWaP
 - **Gouvernance interne** : assemblées, décisions de la clé de répartition, intégration de nouveaux producteurs ;
 - **Coordination continue avec le GRD** pour les questions techniques (remplacement de compteur, ajout d'un EAN, traitement d'écarts).
 
-C'est dans cette phase d'exploitation qu'un **outil de gestion** devient indispensable : suivre des dizaines d'EAN, recalculer les clés au fil des arrivées et départs, produire le rapport CWaPE — tout cela à la main devient vite intenable. C'est précisément ce qu'**OptimCE** automatise.
+C'est dans cette phase d'exploitation qu'un **outil de gestion** devient indispensable : suivre des dizaines d'EAN, recalculer les clés au fil des arrivées et départs, produire le rapport CWaPE — tout cela à la main devient vite intenable. C'est précisément ce qu'**OptimCE** automatise — y compris, depuis juillet 2026, la [facturation interne des membres](/actualites/2026/07/16/facturation-communaute-energie-optimce/), dont une première version est opérationnelle.
 
 ## Combien de temps ? Combien ça coûte ?
 
@@ -166,7 +167,7 @@ C'est dans cette phase d'exploitation qu'un **outil de gestion** devient indispe
 - **Constitution juridique** : statuts d'ASBL ou de coopérative, frais notariaux pour les coopératives (quelques centaines à quelques milliers d'euros).
 - **Accompagnement** : juriste, conseiller énergie, bureau d'études si la configuration est complexe.
 - **Comptabilité** : la communauté étant une personne morale, elle tient une comptabilité (souvent simplifiée pour les ASBL).
-- **Outil de gestion** : plateforme dédiée pour les clés de répartition, le reporting et la facturation interne.
+- **Outil de gestion** : plateforme dédiée pour les clés de répartition, le reporting et la facturation interne (désormais intégrée à OptimCE).
 - **Frais d'exploitation du réseau** : facturés par le GRD selon les tarifs régulés en vigueur (consultables auprès de la CWaPE).
 
 Aucun **frais administratif spécifique** n'est dû à la CWaPE pour la notification elle-même.

@@ -7,6 +7,7 @@ excerpt: "Wie man einer Energiegemeinschaft in der Wallonie beitritt: Voraussetz
 tags: [community, administrative, guide]
 lang: de
 ref: join-energy-community-wallonia
+last_modified_at: 2026-07-16 10:00:00 +0200
 permalink: /de/aktuelles/2026/05/11/energiegemeinschaft-beitreten-wallonien/
 ---
 
@@ -146,7 +147,7 @@ Die Dauer zwischen Unterzeichnung und erster geteilter kWh beträgt typischerwei
 
 Sobald aktiv, liest der VNB Ihren Zähler alle 15 Minuten aus, wendet den Verteilungsschlüssel an und übermittelt die geteilten Volumina an Ihren Lieferanten. Auf Ihrer Rechnung wird dieser Anteil zum internen Preis der Gemeinschaft bewertet; der Rest — die **Restenergie** — wird weiter zum Standardtarif von Ihrem Lieferanten in Rechnung gestellt.
 
-Die Gemeinschaft stellt in der Regel eine detaillierte **vierteljährliche Abrechnung** zur Verfügung: geteilte kWh, erzielte Einsparung, Entwicklung der Volumina. Das ist Ihr bestes Werkzeug zur Nachverfolgung.
+Die Gemeinschaft stellt in der Regel eine detaillierte **vierteljährliche Abrechnung** zur Verfügung: geteilte kWh, erzielte Einsparung, Entwicklung der Volumina. Das ist Ihr bestes Werkzeug zur Nachverfolgung. Gemeinschaften, die mit OptimCE verwaltet werden, können diese [Abrechnungen und Rechnungen jetzt automatisch erstellen](/de/aktuelles/2026/07/16/energiegemeinschaft-abrechnung-optimce/).
 
 ## Punkte zur Beachtung vor der Unterschrift
 

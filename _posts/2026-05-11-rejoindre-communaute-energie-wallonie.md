@@ -7,6 +7,7 @@ excerpt: "Comment rejoindre une communauté d'énergie en Wallonie : éligibilit
 tags: [community, administrative, guide]
 lang: fr
 ref: join-energy-community-wallonia
+last_modified_at: 2026-07-16 10:00:00 +0200
 ---
 
 En Wallonie, les communautés d'énergie ne sont plus une expérimentation marginale : des centaines d'opérations de partage sont actives ou en cours de notification. Le cadre légal est stabilisé, les gestionnaires de réseau (ORES, RESA, AIEG) sont rodés, et la majorité des compteurs sont déjà communicants. Reste un obstacle bien concret pour la plupart des citoyens, PME et autorités locales : **comment trouver une communauté qui accepte de nouveaux membres**, et **quoi vérifier avant de signer**.
@@ -145,7 +146,7 @@ Le délai entre la signature et le premier kWh partagé est typiquement de **4 �
 
 À partir du démarrage, le GRD relève votre compteur au pas de 15 minutes, applique la clé de répartition et transmet à votre fournisseur la quantité d'énergie partagée à votre bénéfice. Sur votre facture, cette part est valorisée au tarif interne de la communauté ; le solde — l'**énergie résiduelle** — reste facturé au tarif standard par votre fournisseur.
 
-La communauté fournit généralement un **décompte trimestriel** détaillé : kWh partagés, économies réalisées, évolution des volumes. C'est votre meilleur outil de suivi.
+La communauté fournit généralement un **décompte trimestriel** détaillé : kWh partagés, économies réalisées, évolution des volumes. C'est votre meilleur outil de suivi. Les communautés gérées avec OptimCE peuvent désormais [générer ces décomptes et factures automatiquement](/actualites/2026/07/16/facturation-communaute-energie-optimce/).
 
 ## Points de vigilance avant de signer
 
