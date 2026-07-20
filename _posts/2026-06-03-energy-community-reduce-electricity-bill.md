@@ -7,6 +7,7 @@ excerpt: "Joining an energy community lets you pay less for electricity at a mor
 tags: [community]
 lang: en
 ref: reduce-electricity-bill
+last_modified_at: 2026-07-20 10:00:00 +0200
 permalink: /en/news/2026/06/03/energy-community-reduce-electricity-bill/
 ---
 
@@ -22,11 +23,11 @@ We don't cover the types (CER, CEC, CEL) or the legal framework here — that's 
 
 The reduction doesn't come from a single magic discount, but from several levers that stack up.
 
-**1. A negotiated local price, below market.** Energy shared within the community is billed at a rate agreed among members, generally lower than the standard supply tariff. According to [Climact](https://climact.com/en/energy-efficiency-is-a-key-concern-for-belgian-businesses-and-local-authorities/), the price difference for a consumer participating in an energy community is estimated at **around 10 to 15%** — and that price is "less volatile and more predictable."
+**1. A negotiated local price, below market.** Energy shared within the community is billed at a rate agreed among members, generally lower than the standard supply tariff. Documented Belgian cases put this internal price between **6 and 14 c€/kWh** — 6 c€/kWh in the Walloon simulations by [Renouvelle](https://www.renouvelle.be/fr/exemples-calculs-de-rentabilite-economique-dun-partage-delectricite-en-wallonie/), 14 c€/kWh for the Brussels community Énergie Solidaire du Balai ([Guide Bâtiment Durable](https://guidebatimentdurable.brussels/partage-delectricite-sein-dune-communaute-denergie-energie-solidaire-balai/partage-delectricite)) — against an energy component of around 14 c€/kWh from a supplier. The gap depends entirely on the rules the community sets itself: we detail how it is built in [“Electricity price in an energy community: how to set the internal transfer price”](/en/news/2026/07/20/energy-community-electricity-price/).
 
 **2. A more stable, predictable price.** This is often the most underrated benefit. As [Énergie Commune](https://www.energiecommune.be) points out, the driver of sharing is "first of all the economic interest of the consumer": part of their consumption becomes cheaper, but above all **prices stabilise**, shielding the household from market shocks — including low-income households.
 
-**3. Reduced grid fees on the shared energy.** In several configurations, the shared share of energy benefits from more favourable grid-tariff treatment. The exact terms depend on the region and on where participants are located (see the table below).
+**3. Sometimes reduced grid fees — but less often than people think.** Favourable tariff treatment does exist, but it depends on the **proximity** of the participants, not on being in a community. In Wallonia, CWaPE is explicit: the 80% reduction on the proportional terms applies only to sharing within the **same building**, and "there is no tariff reduction for sharing within an energy community" ([CWaPE](https://www.cwape.be/node/6062)). Brussels is the only region offering a genuine graduated preferential regime (see the table below).
 
 **4. You keep your supplier.** No contract change is needed: your supplier keeps billing only the **residual energy** — the portion not covered by sharing. This point is detailed in the [FAQ of our reference guide](/en/news/2026/05/11/energy-communities-belgium/).
 
@@ -61,7 +62,7 @@ The savings mechanisms exist in all three regions, but the actors and some terms
 |---|---|---|---|
 | Regulator | CWaPE | BRUGEL | VREG |
 | Distribution system operator (DSO) | ORES, RESA, AIEG | Sibelga | Fluvius |
-| Grid tariff on shared energy | Reduced, per CWaPE terms | Varies by participant location | Per VREG terms |
+| Grid tariff on shared energy | No reduction in a community; −80% on the proportional terms within the same building | Graduated reduction by proximity: 100% within the same building, 50% on the same LV substation, none beyond | No reduction |
 | Extra income for the producer | Green certificates | Green certificates (≈ first 10 years) | Specific support — see VREG |
 | Smart meter required | Yes | Yes | Yes |
 | Allocation key | CWaPE standard families | Fixed / pro rata / hybrid (BRUGEL) | Vaste / relatieve / optimale (VREG) |
@@ -82,7 +83,7 @@ Sharing benefits all members, but some profiles get more out of it:
 
 ### How much can I save?
 
-The order of magnitude often cited is **10 to 15%** on the shared share of energy ([Climact](https://climact.com/en/energy-efficiency-is-a-key-concern-for-belgian-businesses-and-local-authorities/)), at a more stable price. The real amount depends on the volume shared, your profile and your community's terms. Regulators don't publish a "guaranteed" percentage: think of the saving as recurring and combined with better predictability.
+The saving applies to the **energy component** of your bill, which accounts for about **38%** of the Belgian total ([CREG](https://www.creg.be/fr/professionnels/fonctionnement-et-monitoring-du-marche/tableau-de-bord), June 2026) — not to the whole bill. Documented Belgian cases put the internal price between 6 and 14 c€/kWh, against an energy component of around 14 c€/kWh from a supplier. The real amount depends on the volume shared, your profile and your community's terms. Regulators don't publish a "guaranteed" percentage: think of the saving as recurring and combined with better predictability.
 
 ### Do I need to buy solar panels?
 
@@ -127,7 +128,10 @@ The simplest way to cut your bill is to **join an existing sharing operation** �
 
 ## Sources
 
-- [Climact — Energy efficiency is a key concern for Belgian businesses and local authorities](https://climact.com/en/energy-efficiency-is-a-key-concern-for-belgian-businesses-and-local-authorities/) — price difference ≈ 10–15% and greater stability for members.
+- [CWaPE — Grid fees on shared electricity](https://www.cwape.be/node/6062) — tariffs due on shared kWh; the 80% reduction is limited to sharing within a building.
+- [CREG — Monthly electricity and natural gas dashboard](https://www.creg.be/fr/professionnels/fonctionnement-et-monitoring-du-marche/tableau-de-bord) — weight of the energy component in the Belgian bill.
+- [Guide Bâtiment Durable — Énergie Solidaire du Balai](https://guidebatimentdurable.brussels/partage-delectricite-sein-dune-communaute-denergie-energie-solidaire-balai/partage-delectricite) — full price structure of a Brussels community.
+- [Renouvelle — Examples of profitability calculations for electricity sharing in Wallonia](https://www.renouvelle.be/fr/exemples-calculs-de-rentabilite-economique-dun-partage-delectricite-en-wallonie/) — internal prices in practice and the impact of supplier fees.
 - [Énergie Commune — Electricity sharing (Interreg Europe good practice)](https://www.interregeurope.eu/sites/default/files/good_practices/8.%20EnergieCommune_EC_BM_Sharing_Interreg_Ghent.pdf) — worked example, the economic driver of sharing, Belgian solar context.
 - [Sibelga — Energy sharing in Brussels](https://www.sibelga.be/en/connections-meters/renewable-energy/energy-sharing) — how it works in practice and grid tariffs by location.
 - [Sibelga — Green certificates](https://www.sibelga.be/en/connections-meters/renewable-energy/solar-panels/green-certificates) — extra income for Brussels producers.

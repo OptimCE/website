@@ -7,7 +7,7 @@ excerpt: "Verdeelsleutel in een energiegemeenschap — types aanvaard door CWaPE
 tags: [allocation-key, administrative]
 lang: nl
 ref: allocation-key-belgium
-last_modified_at: 2026-07-16 10:00:00 +0200
+last_modified_at: 2026-07-20 10:00:00 +0200
 permalink: /nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/
 ---
 
@@ -129,6 +129,8 @@ Een woonwijk met vergelijkbare profielen (~3.500 kWh/jaar per gezin) werkt zeer 
 ### 4. Hoeveel flexibiliteit om de sleutel te laten evolueren?
 
 De **drie gewesten staan de wijziging** van een sleutel na de opstart toe. In Wallonië nemen de bijlage bij de overeenkomst en de stap met de DNB enkele weken in beslag; in Brussel en Vlaanderen wordt de wijziging door het enige contactpunt gemeld aan de netbeheerder. Vermijd te rigide sleutels bij de start: voorzie meteen een jaarlijkse herziening op de algemene vergadering.
+
+De sleutel bepaalt **hoeveel kWh** elk lid krijgt; hij zegt niets over **hoeveel euro** die waard zijn. Die tweede beslissing — de prijs van de gedeelde energie — wordt apart genomen, in dezelfde overeenkomst: zie [« Prijs van elektriciteit in een energiegemeenschap: de interne overdrachtsprijs bepalen »](/nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/).
 
 ### Vier typische praktijkgevallen
 

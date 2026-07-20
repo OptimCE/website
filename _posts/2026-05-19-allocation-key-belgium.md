@@ -7,7 +7,7 @@ excerpt: "Allocation key in an energy community — types accepted by CWaPE, BRU
 tags: [allocation-key, administrative]
 lang: en
 ref: allocation-key-belgium
-last_modified_at: 2026-07-16 10:00:00 +0200
+last_modified_at: 2026-07-20 10:00:00 +0200
 permalink: /en/news/2026/05/19/allocation-key-belgium/
 ---
 
@@ -129,6 +129,8 @@ A residential neighbourhood with similar profiles (~3,500 kWh/year each) works v
 ### 4. How much flexibility to evolve the key?
 
 The **three regions allow modifying** a key after launch. In Wallonia, the amendment to the agreement plus the DSO step takes a few weeks; in Brussels and Flanders, the modification is announced by the single point of contact to the DSO. Avoid keys that are too rigid at launch: plan from the start an annual review at the general assembly.
+
+The key decides **how many kWh** each member receives; it says nothing about **how many euros** they are worth. That second decision — the price applied to the shared energy — is taken separately, in the same agreement: see ["Electricity price in an energy community: how to set the internal transfer price"](/en/news/2026/07/20/energy-community-electricity-price/).
 
 ### Four typical practical cases
 

@@ -7,6 +7,7 @@ excerpt: "Comprendre les communautés d'énergie en Belgique : différences entr
 tags: [community, administrative]
 lang: fr
 ref: energy-communities-belgium
+last_modified_at: 2026-07-20 10:00:00 +0200
 ---
 
 Les communautés d'énergie sont au cœur de la transition énergétique en Belgique. Encadrées par l'Union européenne et déclinées par chaque région — Wallonie, Bruxelles, Flandre — elles permettent à des citoyens, des entreprises et des autorités locales de produire, partager et consommer leur propre énergie. Cet article passe en revue les trois formes officielles (CER, CEC, CEL), explique comment fonctionne le partage d'énergie, présente les acteurs clés et résume les bénéfices financiers et écologiques.
@@ -74,7 +75,7 @@ Point essentiel à comprendre : le partage d'énergie est **administratif, pas p
 ## Les acteurs impliqués
 
 - **Les gestionnaires de réseau (GRD)** — ORES, RESA, AIEG en Wallonie ; Sibelga à Bruxelles ; Fluvius en Flandre — exploitent les compteurs, valident les participants et calculent les répartitions. Voir par exemple la page dédiée d'[ORES](https://www.ores.be/particulier/communautes-denergie).
-- **Les régulateurs régionaux** — la [CWaPE](https://www.cwape.be/secteur/communautes-partage-energie) en Wallonie, [BRUGEL](https://environnement.brussels/citoyen/agir-pour-lenvironnement/devenir-eco-responsable/partage-et-communautes-denergie) à Bruxelles, le [VREG](https://www.vreg.be/) en Flandre — fixent les règles, supervisent les tarifs et publient des guides à destination des communautés.
+- **Les régulateurs régionaux** — la [CWaPE](https://www.cwape.be/secteur/communautes-partage-energie) en Wallonie, [BRUGEL](https://environnement.brussels/citoyen/agir-pour-lenvironnement/devenir-eco-responsable/partage-et-communautes-denergie) à Bruxelles, le [Vlaamse Nutsregulator (ex-VREG)](https://www.vlaamsenutsregulator.be) en Flandre — fixent les règles, supervisent les tarifs et publient des guides à destination des communautés.
 - **Les fournisseurs d'énergie** continuent de facturer l'**énergie résiduelle**, c'est-à-dire la part de la consommation non couverte par le partage interne.
 - **Les membres** sont à la fois des prosommateurs (équipés en photovoltaïque par exemple), des consommateurs, des PME ou des autorités locales.
 - **Le gestionnaire de communauté** est l'entité qui pilote la communauté au quotidien : intégration de nouveaux membres, configuration des clés de répartition, reporting au GRD. C'est précisément ce rôle qu'**OptimCE** simplifie : consultez le [guide utilisateur](https://guide.optimce.be) et la liste publique des [opérations de partage ouvertes](/actualites/2026/05/07/nouveautes-release/).
@@ -153,6 +154,6 @@ Via les **compteurs communicants** (smart meters) déployés par les GRD, qui tr
 - [Bruxelles Environnement — Partage et communautés d'énergie](https://environnement.brussels/citoyen/agir-pour-lenvironnement/devenir-eco-responsable/partage-et-communautes-denergie) — cadre bruxellois et types de partage.
 - [ORES — Communautés d'énergie](https://www.ores.be/particulier/communautes-denergie) — perspective du gestionnaire de réseau wallon.
 - [SPF Économie — Part des sources d'énergie renouvelables](https://economie.fgov.be/fr/themes/energie/suivi-des-objectifs-europeens/part-des-sources-denergie) — statistiques 2024 et objectifs 2030.
-- [VREG](https://www.vreg.be/) — régulateur flamand de l'énergie.
+- [Vlaamse Nutsregulator (ex-VREG)](https://www.vlaamsenutsregulator.be) — régulateur flamand de l'énergie.
 - [Sun-Job](https://www.sun-job.be/about-us) — installateur photovoltaïque belge.
 - Directives européennes [2018/2001](https://eur-lex.europa.eu/eli/dir/2018/2001/oj) (RED II), [2019/944](https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32019L0944) et [2023/2413](https://www.stradalex.eu/en/se_src_publ_leg_eur_jo/toc/leg_eur_jo_3_20231031/doc/ojeu_202302413) — *Clean Energy Package*.

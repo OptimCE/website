@@ -7,6 +7,7 @@ excerpt: "Der Beitritt zu einer Energiegemeinschaft senkt Ihren Strompreis und m
 tags: [community]
 lang: de
 ref: reduce-electricity-bill
+last_modified_at: 2026-07-20 10:00:00 +0200
 permalink: /de/aktuelles/2026/06/03/energiegemeinschaft-stromrechnung-senken/
 ---
 
@@ -22,11 +23,11 @@ Wir behandeln hier weder die Typen (CER, CEC, CEL) noch den Rechtsrahmen — all
 
 Die Senkung kommt nicht von einem einzigen magischen Rabatt, sondern von mehreren Hebeln, die sich summieren.
 
-**1. Ein ausgehandelter lokaler Preis, unter dem Markt.** Die in der Gemeinschaft geteilte Energie wird zu einem zwischen den Mitgliedern vereinbarten Tarif abgerechnet, in der Regel niedriger als der Standard-Liefertarif. Laut [Climact](https://climact.com/en/energy-efficiency-is-a-key-concern-for-belgian-businesses-and-local-authorities/) wird der Preisunterschied für einen Verbraucher in einer Energiegemeinschaft auf **etwa 10 bis 15 %** geschätzt — und dieser Preis ist „weniger volatil und besser vorhersehbar“.
+**1. Ein ausgehandelter lokaler Preis, unter dem Markt.** Die in der Gemeinschaft geteilte Energie wird zu einem zwischen den Mitgliedern vereinbarten Tarif abgerechnet, in der Regel niedriger als der Standard-Liefertarif. Dokumentierte belgische Fälle verorten diesen internen Preis zwischen **6 und 14 c€/kWh** — 6 c€/kWh in den wallonischen Simulationen von [Renouvelle](https://www.renouvelle.be/fr/exemples-calculs-de-rentabilite-economique-dun-partage-delectricite-en-wallonie/), 14 c€/kWh bei der Brüsseler Gemeinschaft Énergie Solidaire du Balai ([Guide Bâtiment Durable](https://guidebatimentdurable.brussels/partage-delectricite-sein-dune-communaute-denergie-energie-solidaire-balai/partage-delectricite)) — gegenüber einer Energiekomponente von rund 14 c€/kWh bei einem Lieferanten. Der Abstand hängt vollständig von den Regeln ab, die sich die Gemeinschaft gibt: Wie er zustande kommt, erläutern wir in [„Strompreis in der Energiegemeinschaft: So legen Sie den internen Verrechnungspreis fest“](/de/aktuelles/2026/07/20/strompreis-energiegemeinschaft/).
 
 **2. Ein stabilerer, vorhersehbarerer Preis.** Das ist oft der am meisten unterschätzte Vorteil. Wie [Énergie Commune](https://www.energiecommune.be) betont, ist der Antrieb des Teilens „in erster Linie das wirtschaftliche Interesse des Verbrauchers“: Ein Teil seines Verbrauchs wird günstiger, vor allem aber **stabilisieren sich die Preise**, was den Haushalt vor Marktschocks schützt — auch einkommensschwache Haushalte.
 
-**3. Reduzierte Netzentgelte auf der geteilten Energie.** In mehreren Konfigurationen profitiert der geteilte Anteil der Energie von einer günstigeren Netztarif-Behandlung. Die genauen Bedingungen hängen von der Region und vom Standort der Teilnehmer ab (siehe Tabelle unten).
+**3. Manchmal reduzierte Netzentgelte — aber seltener, als man denkt.** Die günstige Tarifbehandlung gibt es, doch sie hängt von der **Nähe** der Teilnehmer ab, nicht davon, in einer Gemeinschaft zu sein. In der Wallonie ist die CWaPE eindeutig: Die Reduzierung von 80 % auf die proportionalen Bestandteile gilt nur für das Teilen innerhalb **desselben Gebäudes**, und „es gibt keine Tarifermäßigung für das Teilen innerhalb einer Energiegemeinschaft“ ([CWaPE](https://www.cwape.be/node/6062)). Brüssel ist die einzige Region, die eine echte, gestaffelte Vorzugsregelung bietet (siehe Tabelle unten).
 
 **4. Sie behalten Ihren Lieferanten.** Kein Vertragswechsel nötig: Ihr Lieferant rechnet nur noch die **Restenergie** ab — den Anteil, der nicht durch das Teilen gedeckt ist. Dieser Punkt wird in der [FAQ unseres Referenzleitfadens](/de/aktuelles/2026/05/11/energiegemeinschaften-belgien/) erläutert.
 
@@ -61,7 +62,7 @@ Die Sparmechanismen bestehen in allen drei Regionen, doch die Akteure und einige
 |---|---|---|---|
 | Regulierungsbehörde | CWaPE | BRUGEL | VREG |
 | Verteilnetzbetreiber (VNB) | ORES, RESA, AIEG | Sibelga | Fluvius |
-| Netzentgelt auf geteilter Energie | Reduziert, nach CWaPE-Bedingungen | Variabel je nach Standort der Teilnehmer | Nach VREG-Bedingungen |
+| Netzentgelt auf geteilter Energie | Keine Ermäßigung in der Gemeinschaft; −80 % auf die proportionalen Bestandteile im selben Gebäude | Gestaffelte Ermäßigung je nach Nähe: 100 % im selben Gebäude, 50 % an derselben NS-Kabine, keine darüber hinaus | Keine Ermäßigung |
 | Zusätzliches Einkommen für den Erzeuger | Grünstromzertifikate | Grünstromzertifikate (≈ erste 10 Jahre) | Spezifische Förderung — siehe VREG |
 | Intelligenter Zähler erforderlich | Ja | Ja | Ja |
 | Verteilungsschlüssel | Standardfamilien CWaPE | Fest / anteilig / hybrid (BRUGEL) | Vaste / relatieve / optimale (VREG) |
@@ -82,7 +83,7 @@ Das Teilen kommt allen Mitgliedern zugute, doch manche Profile holen mehr heraus
 
 ### Wie viel kann ich sparen?
 
-Die oft genannte Größenordnung liegt bei **10 bis 15 %** auf dem geteilten Anteil der Energie ([Climact](https://climact.com/en/energy-efficiency-is-a-key-concern-for-belgian-businesses-and-local-authorities/)), zu einem stabileren Preis. Der reale Betrag hängt vom geteilten Volumen, Ihrem Profil und den Bedingungen Ihrer Gemeinschaft ab. Die Regulierungsbehörden veröffentlichen keinen „garantierten“ Prozentsatz: Betrachten Sie die Ersparnis als wiederkehrend und mit besserer Vorhersehbarkeit kombiniert.
+Die Ersparnis betrifft die **Energiekomponente** Ihrer Rechnung, die in Belgien rund **38 %** des Gesamtbetrags ausmacht ([CREG](https://www.creg.be/fr/professionnels/fonctionnement-et-monitoring-du-marche/tableau-de-bord), Juni 2026) — nicht die gesamte Rechnung. Dokumentierte belgische Fälle verorten den internen Preis zwischen 6 und 14 c€/kWh, gegenüber einer Energiekomponente von rund 14 c€/kWh bei einem Lieferanten. Der reale Betrag hängt vom geteilten Volumen, Ihrem Profil und den Bedingungen Ihrer Gemeinschaft ab. Die Regulierungsbehörden veröffentlichen keinen „garantierten“ Prozentsatz: Betrachten Sie die Ersparnis als wiederkehrend und mit besserer Vorhersehbarkeit kombiniert.
 
 ### Muss ich Solarpanels kaufen?
 
@@ -127,7 +128,10 @@ Der einfachste Weg, Ihre Rechnung zu senken, ist der **Beitritt zu einer bestehe
 
 ## Quellen
 
-- [Climact — Energieeffizienz ist ein zentrales Anliegen für belgische Unternehmen und lokale Behörden](https://climact.com/en/energy-efficiency-is-a-key-concern-for-belgian-businesses-and-local-authorities/) — Preisunterschied ≈ 10–15 % und größere Stabilität für die Mitglieder.
+- [CWaPE — Netzentgelte auf geteiltem Strom](https://www.cwape.be/node/6062) — auf geteilte kWh fällige Tarife; Reduzierung von 80 % beschränkt auf das Teilen im Gebäude.
+- [CREG — Monatliches Dashboard Strom und Erdgas](https://www.creg.be/fr/professionnels/fonctionnement-et-monitoring-du-marche/tableau-de-bord) — Gewicht der Energiekomponente in der belgischen Rechnung.
+- [Guide Bâtiment Durable — Énergie Solidaire du Balai](https://guidebatimentdurable.brussels/partage-delectricite-sein-dune-communaute-denergie-energie-solidaire-balai/partage-delectricite) — vollständige Preisstruktur einer Brüsseler Gemeinschaft.
+- [Renouvelle — Beispiele für Rentabilitätsberechnungen einer Stromteilung in der Wallonie](https://www.renouvelle.be/fr/exemples-calculs-de-rentabilite-economique-dun-partage-delectricite-en-wallonie/) — praktizierte interne Preise und Auswirkung der Lieferantengebühren.
 - [Énergie Commune — Strom teilen (bewährte Praxis Interreg Europe)](https://www.interregeurope.eu/sites/default/files/good_practices/8.%20EnergieCommune_EC_BM_Sharing_Interreg_Ghent.pdf) — Rechenbeispiel, wirtschaftlicher Antrieb des Teilens, belgischer Solarkontext.
 - [Sibelga — Energie teilen in Brüssel](https://www.sibelga.be/en/connections-meters/renewable-energy/energy-sharing) — wie es in der Praxis funktioniert und Netzentgelte je nach Standort.
 - [Sibelga — Grünstromzertifikate](https://www.sibelga.be/en/connections-meters/renewable-energy/solar-panels/green-certificates) — Zusatzeinkommen für Brüsseler Erzeuger.

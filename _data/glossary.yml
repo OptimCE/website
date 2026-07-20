@@ -267,6 +267,27 @@
     de: ["Smart Meter"]
     nl: ["slimme meter", "digitale meter"]
 
+- slug: convention-de-partage
+  categorie: juridique
+  tags: [contrat, partage, gouvernance]
+  source_nom: CWaPE
+  source_url: "https://www.cwape.be/node/6064"
+  terme:
+    fr: "Convention de partage"
+    en: "Sharing agreement"
+    de: "Teilungsvereinbarung"
+    nl: "Deelovereenkomst"
+  definition:
+    fr: "Contrat entre les participants d'un partage d'énergie fixant leurs droits et obligations, dont la clé de répartition et le prix de l'électricité partagée."
+    en: "Contract between the participants in an energy-sharing scheme setting out their rights and obligations, including the allocation key and the price of the shared electricity."
+    de: "Vertrag zwischen den Teilnehmern einer Energieteilung, der ihre Rechte und Pflichten festlegt, einschließlich Verteilungsschlüssel und Preis der geteilten Elektrizität."
+    nl: "Overeenkomst tussen de deelnemers aan energiedelen die hun rechten en plichten vastlegt, met inbegrip van de verdeelsleutel en de prijs van de gedeelde elektriciteit."
+  alias:
+    fr: ["convention de partage d'énergie", "contrat de partage"]
+    en: ["energy sharing agreement"]
+    de: ["Vereinbarung über Energieteilung"]
+    nl: ["overeenkomst energiedelen"]
+
 - slug: cooperative
   categorie: juridique
   tags: [belgique, structure, gouvernance]
@@ -687,6 +708,27 @@
     de: []
     nl: []
 
+- slug: prix-de-cession-interne
+  categorie: facturation
+  tags: [prix, partage, contrat]
+  source_nom: CWaPE
+  source_url: "https://www.cwape.be/node/6063"
+  terme:
+    fr: "Prix de cession interne"
+    en: "Internal transfer price"
+    de: "Interner Verrechnungspreis"
+    nl: "Interne overdrachtsprijs"
+  definition:
+    fr: "Prix au kWh auquel l'électricité partagée est cédée entre membres d'une communauté d'énergie ; il ne porte que sur la composante énergie, hors frais de réseau et taxes."
+    en: "Price per kWh at which shared electricity is transferred between members of an energy community; it covers the energy component only, excluding network fees and taxes."
+    de: "Preis pro kWh, zu dem geteilte Elektrizität zwischen Mitgliedern einer Energiegemeinschaft abgegeben wird; er betrifft nur die Energiekomponente, ohne Netzentgelte und Steuern."
+    nl: "Prijs per kWh waartegen gedeelde elektriciteit tussen leden van een energiegemeenschap wordt overgedragen; hij betreft alleen de energiecomponent, exclusief netkosten en taksen."
+  alias:
+    fr: ["prix de l'électricité partagée", "prix interne", "prix de l'énergie partagée"]
+    en: ["internal price", "shared energy price"]
+    de: ["interner Preis", "Preis der geteilten Energie"]
+    nl: ["interne prijs", "prijs van de gedeelde energie"]
+
 - slug: quart-d-heure
   categorie: mesure
   tags: [data, mesure, calcul]
@@ -791,6 +833,27 @@
     en: []
     de: []
     nl: []
+
+- slug: tarif-injection
+  categorie: facturation
+  tags: [injection, prix, surplus]
+  source_nom: Test-Achats
+  source_url: "https://www.test-achats.be/maison-energie/energie-renouvelable/news/cout-energie-solaire-injectee"
+  terme:
+    fr: "Tarif d'injection"
+    en: "Injection tariff"
+    de: "Einspeisetarif"
+    nl: "Injectietarief"
+  definition:
+    fr: "Prix au kWh payé par un fournisseur pour l'électricité injectée sur le réseau ; non régulé en Belgique, il sert de plancher au prix de cession interne."
+    en: "Price per kWh paid by a supplier for electricity injected into the grid; unregulated in Belgium, it acts as the floor for the internal transfer price."
+    de: "Preis pro kWh, den ein Lieferant für ins Netz eingespeiste Elektrizität zahlt; in Belgien nicht reguliert, bildet er die Untergrenze für den internen Verrechnungspreis."
+    nl: "Prijs per kWh die een leverancier betaalt voor elektriciteit die op het net wordt geïnjecteerd; niet gereguleerd in België en de ondergrens voor de interne overdrachtsprijs."
+  alias:
+    fr: ["prix de rachat", "tarif de rachat"]
+    en: ["buyback tariff", "feed-in tariff"]
+    de: ["Rückkauftarif"]
+    nl: ["terugkooptarief", "terugleveringstarief"]
 
 - slug: tarif-reseau
   categorie: facturation
@@ -942,20 +1005,20 @@
 - slug: vreg
   categorie: regulateur
   tags: [flandre, regulation, belgique]
-  source_nom: VREG
-  source_url: "https://www.vreg.be/"
+  source_nom: "Vlaamse Nutsregulator"
+  source_url: "https://www.vlaamsenutsregulator.be"
   terme:
     fr: "VREG"
     en: "VREG"
     de: "VREG"
     nl: "VREG"
   definition:
-    fr: "Régulateur flamand du marché de l'énergie."
-    en: "The Flemish energy-market regulator."
-    de: "Flämische Regulierungsbehörde für den Energiemarkt."
-    nl: "Vlaamse regulator van de energiemarkt."
+    fr: "Régulateur flamand du marché de l'énergie, devenu « Vlaamse Nutsregulator » le 1er janvier 2025."
+    en: "The Flemish energy-market regulator, renamed 'Vlaamse Nutsregulator' on 1 January 2025."
+    de: "Flämische Regulierungsbehörde für den Energiemarkt, seit dem 1. Januar 2025 „Vlaamse Nutsregulator“."
+    nl: "Vlaamse regulator van de energiemarkt, sinds 1 januari 2025 'Vlaamse Nutsregulator'."
   alias:
-    fr: []
-    en: []
-    de: []
-    nl: []
+    fr: ["Vlaamse Nutsregulator"]
+    en: ["Vlaamse Nutsregulator"]
+    de: ["Vlaamse Nutsregulator"]
+    nl: ["Vlaamse Nutsregulator"]

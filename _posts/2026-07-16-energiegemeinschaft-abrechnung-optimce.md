@@ -7,6 +7,7 @@ excerpt: "Neue OptimCE-Funktion: Erstellen Sie die Rechnungen Ihrer Energiegemei
 tags: [administrative, app, news]
 lang: de
 ref: optimce-billing
+last_modified_at: 2026-07-20 10:00:00 +0200
 permalink: /de/aktuelles/2026/07/16/energiegemeinschaft-abrechnung-optimce/
 faq:
   - q: "Woher stammen die Daten für die Abrechnung?"
@@ -48,7 +49,7 @@ Bei zehn Mitgliedern ist das mühsam, bei fünfzig unhaltbar. Und es geht um meh
 Das Modul ist in den Rest der Plattform integriert und folgt einem Ablauf in vier Schritten.
 
 1. **Die Daten sind schon da.** Die Abrechnung stützt sich auf die offiziellen Verteilungsdaten, die bereits in OptimCE importiert sind: verbrauchte geteilte Energie und geteilte Einspeisung, pro EAN und pro Periode. Nichts neu eingeben, nichts exportieren — die Abrechnung liest dieselben Volumina wie Ihre Dashboards.
-2. **Sie definieren Ihre Preise.** Zwei Preise, in €/kWh, frei von der Gemeinschaft festgelegt: der **Verkaufspreis** der geteilten Energie an die Verbraucher und der **Rückkaufpreis**, der den Erzeugern für ihre Einspeisung gezahlt wird. Jeder Preis kann global, pro Kundensegment (Haushalte, Gewerbe, Industrie) oder für eine einzelne EAN gelten — die spezifischste Regel gewinnt — und trägt einen Gültigkeitszeitraum.
+2. **Sie definieren Ihre Preise.** Zwei Preise, in €/kWh, frei von der Gemeinschaft festgelegt: der **Verkaufspreis** der geteilten Energie an die Verbraucher und der **Rückkaufpreis**, der den Erzeugern für ihre Einspeisung gezahlt wird. Jeder Preis kann global, pro Kundensegment (Haushalte, Gewerbe, Industrie) oder für eine einzelne EAN gelten — die spezifischste Regel gewinnt — und trägt einen Gültigkeitszeitraum. Welche Beträge Sie eintragen, ist eine andere Frage: Unser Leitfaden [„Strompreis in der Energiegemeinschaft: So legen Sie den internen Verrechnungspreis fest"](/de/aktuelles/2026/07/20/strompreis-energiegemeinschaft/) erläutert die vertretbare Bandbreite und fünf Berechnungsmethoden.
 3. **Sie starten einen Abrechnungslauf.** Sie wählen die Periode — monatlich, vierteljährlich, ganz nach Bedarf — und OptimCE prüft vor der Berechnung, dass alles in Ordnung ist: Verbrauchsdaten vorhanden, Bankverbindung und rechtlicher Name der Gemeinschaft, anwendbarer Tarif, keine Duplikate in den Daten. Dann **friert es einen Schnappschuss** der Verteilung ein: Die Beträge werden auf eingefrorenen, nachvollziehbaren Volumina berechnet.
 4. **Sie prüfen, dann stellen Sie aus.** Der Lauf erzeugt einen **Entwurf pro Mitglied**, als PDF mit „Proforma"-Wasserzeichen herunterladbar. Sie kontrollieren, dann stellen Sie aus: Die Rechnung erhält ihre gesetzliche Nummer, ihre strukturierte Mitteilung und ihr Fälligkeitsdatum.
 

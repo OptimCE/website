@@ -7,6 +7,7 @@ excerpt: "Understand energy communities in Belgium — differences between renew
 tags: [community, administrative]
 lang: en
 ref: energy-communities-belgium
+last_modified_at: 2026-07-20 10:00:00 +0200
 permalink: /en/news/2026/05/11/energy-communities-belgium/
 ---
 
@@ -75,7 +76,7 @@ Crucial point to grasp: energy sharing is **administrative, not physical**. Elec
 ## The actors involved
 
 - **DSOs** — ORES, RESA, AIEG in Wallonia; Sibelga in Brussels; Fluvius in Flanders — operate meters, validate participants and compute allocations. See for example the dedicated [ORES page](https://www.ores.be/particulier/communautes-denergie).
-- **Regional regulators** — [CWaPE](https://www.cwape.be/secteur/communautes-partage-energie) in Wallonia, [BRUGEL](https://environnement.brussels/citoyen/agir-pour-lenvironnement/devenir-eco-responsable/partage-et-communautes-denergie) in Brussels, [VREG](https://www.vreg.be/) in Flanders — set rules, supervise tariffs and publish guidance for communities.
+- **Regional regulators** — [CWaPE](https://www.cwape.be/secteur/communautes-partage-energie) in Wallonia, [BRUGEL](https://environnement.brussels/citoyen/agir-pour-lenvironnement/devenir-eco-responsable/partage-et-communautes-denergie) in Brussels, [Vlaamse Nutsregulator (ex-VREG)](https://www.vlaamsenutsregulator.be) in Flanders — set rules, supervise tariffs and publish guidance for communities.
 - **Energy suppliers** continue to bill **residual energy**, i.e. the share of consumption not covered by the community's internal sharing.
 - **Members** are prosumers (e.g. equipped with PV), pure consumers, SMEs or local authorities.
 - **The community manager** is the entity that runs the community day to day: onboarding new members, configuring allocation keys, reporting to the DSO. This is exactly the role that **OptimCE** simplifies — see the [user guide](https://guide.optimce.be) and the public registry of [open sharing operations](/en/news/2026/05/07/release-news/).
@@ -154,6 +155,6 @@ Through the **smart meters** rolled out by the DSOs, which transmit data every *
 - [environnement.brussels — Energy sharing and communities](https://environnement.brussels/citoyen/agir-pour-lenvironnement/devenir-eco-responsable/partage-et-communautes-denergie) — Brussels framework and sharing types.
 - [ORES — Energy communities](https://www.ores.be/particulier/communautes-denergie) — perspective of the Walloon DSO.
 - [Federal Public Service Economy — Share of renewable energy sources](https://economie.fgov.be/fr/themes/energie/suivi-des-objectifs-europeens/part-des-sources-denergie) — 2024 figures and 2030 targets.
-- [VREG](https://www.vreg.be/) — Flemish energy regulator.
+- [Vlaamse Nutsregulator (ex-VREG)](https://www.vlaamsenutsregulator.be) — Flemish energy regulator.
 - [Sun-Job](https://www.sun-job.be/about-us) — Belgian solar installer.
 - EU Directives [2018/2001](https://eur-lex.europa.eu/eli/dir/2018/2001/oj) (RED II), [2019/944](https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32019L0944) and [2023/2413](https://www.stradalex.eu/en/se_src_publ_leg_eur_jo/toc/leg_eur_jo_3_20231031/doc/ojeu_202302413) — *Clean Energy Package*.

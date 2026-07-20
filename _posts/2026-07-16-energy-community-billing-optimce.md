@@ -7,6 +7,7 @@ excerpt: "New OptimCE feature: automatically generate your energy community's in
 tags: [administrative, app, news]
 lang: en
 ref: optimce-billing
+last_modified_at: 2026-07-20 10:00:00 +0200
 permalink: /en/news/2026/07/16/energy-community-billing-optimce/
 faq:
   - q: "Where does the billing data come from?"
@@ -48,7 +49,7 @@ With ten members it's tedious; with fifty, unmanageable. And the stakes go beyon
 The module is integrated with the rest of the platform and follows a four-step flow.
 
 1. **The data is already there.** Billing relies on the official settlement data already imported into OptimCE: shared energy consumed and shared injection, per EAN and per period. Nothing to re-enter, nothing to export — billing reads the same volumes as your dashboards.
-2. **You define your prices.** Two prices, in €/kWh, freely set by the community: the **selling price** of shared energy to consumers and the **buyback price** paid to producers for their injection. Each price can apply globally, per customer segment (residential, professional, industrial) or to a single EAN — the most specific rule wins — and carries a validity period.
+2. **You define your prices.** Two prices, in €/kWh, freely set by the community: the **selling price** of shared energy to consumers and the **buyback price** paid to producers for their injection. Each price can apply globally, per customer segment (residential, professional, industrial) or to a single EAN — the most specific rule wins — and carries a validity period. Deciding which amounts to enter is another matter: our guide ["Electricity price in an energy community: how to set the internal transfer price"](/en/news/2026/07/20/energy-community-electricity-price/) walks through the defensible range and five calculation methods.
 3. **You launch a billing run.** You choose the period — monthly, quarterly, whatever suits you — and OptimCE checks that everything is in order before computing: consumption data present, the community's bank details and legal name, an applicable tariff, no duplicates in the data. Then it **freezes a snapshot** of the settlement: amounts are computed on frozen, traceable volumes.
 4. **You review, then you issue.** The run produces a **draft per member**, downloadable as a PDF with a "proforma" watermark. You check, then you issue: the invoice then receives its legal number, its structured payment reference and its due date.
 

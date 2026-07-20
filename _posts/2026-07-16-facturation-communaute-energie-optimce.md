@@ -7,6 +7,7 @@ excerpt: "Nouvelle fonctionnalité OptimCE : générez automatiquement les factu
 tags: [administrative, app, news]
 lang: fr
 ref: optimce-billing
+last_modified_at: 2026-07-20 10:00:00 +0200
 faq:
   - q: "D'où viennent les données utilisées pour facturer ?"
     a: "Des données de répartition officielles transmises par le gestionnaire de réseau et déjà importées dans OptimCE : énergie partagée consommée et injection partagée, par EAN et par période. Au lancement d'un cycle de facturation, OptimCE fige un instantané de ces volumes : les montants sont calculés sur des données gelées et traçables."
@@ -47,7 +48,7 @@ Concrètement, cette charge retombe sur le gestionnaire de la communauté. Pour 
 Le module s'intègre au reste de la plateforme et suit un parcours en quatre étapes.
 
 1. **Les données sont déjà là.** La facturation s'appuie sur les données de répartition officielles déjà importées dans OptimCE : énergie partagée consommée et injection partagée, par EAN et par période. Rien à ressaisir, rien à exporter — la facturation lit les mêmes volumes que vos tableaux de bord.
-2. **Vous définissez vos prix.** Deux prix, en €/kWh, librement fixés par la communauté : le **prix de vente** de l'énergie partagée aux consommateurs et le **prix de rachat** de l'injection versé aux producteurs. Chaque prix peut s'appliquer globalement, par segment de clientèle (résidentiel, professionnel, industriel) ou à un EAN précis — la règle la plus spécifique l'emporte — et porte une période de validité.
+2. **Vous définissez vos prix.** Deux prix, en €/kWh, librement fixés par la communauté : le **prix de vente** de l'énergie partagée aux consommateurs et le **prix de rachat** de l'injection versé aux producteurs. Chaque prix peut s'appliquer globalement, par segment de clientèle (résidentiel, professionnel, industriel) ou à un EAN précis — la règle la plus spécifique l'emporte — et porte une période de validité. Reste à décider quels montants inscrire : notre guide [« Prix de l'électricité en communauté d'énergie : comment fixer le prix de cession interne »](/actualites/2026/07/20/prix-electricite-communaute-energie/) détaille la fourchette défendable et cinq méthodes de calcul.
 3. **Vous lancez un cycle de facturation.** Vous choisissez la période — mensuelle, trimestrielle, à votre convenance — et OptimCE vérifie que tout est en ordre avant de calculer : données de consommation présentes, coordonnées bancaires et dénomination légale de la communauté, tarif applicable, absence de doublon dans les données. Puis il **fige un instantané** de la répartition : les montants sont calculés sur des volumes gelés, traçables.
 4. **Vous relisez, puis vous émettez.** Le cycle produit un **brouillon par membre**, téléchargeable en PDF avec filigrane « proforma ». Vous vérifiez, puis vous émettez : la facture reçoit alors son numéro légal, sa communication structurée et sa date d'échéance.
 

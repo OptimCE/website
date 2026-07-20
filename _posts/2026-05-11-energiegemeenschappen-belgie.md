@@ -7,6 +7,7 @@ excerpt: "Begrijp energiegemeenschappen in België — verschillen tussen hernie
 tags: [community, administrative]
 lang: nl
 ref: energy-communities-belgium
+last_modified_at: 2026-07-20 10:00:00 +0200
 permalink: /nl/nieuws/2026/05/11/energiegemeenschappen-belgie/
 ---
 
@@ -75,7 +76,7 @@ Belangrijk om te begrijpen: energiedelen is **administratief, niet fysiek**. De 
 ## Betrokken actoren
 
 - **De distributienetbeheerders (DNB)** — ORES, RESA, AIEG in Wallonië; Sibelga in Brussel; Fluvius in Vlaanderen — beheren de meters, valideren deelnemers en berekenen de toewijzingen. Zie bijvoorbeeld de [pagina van ORES](https://www.ores.be/particulier/communautes-denergie).
-- **De gewestelijke regulatoren** — [CWaPE](https://www.cwape.be/secteur/communautes-partage-energie) in Wallonië, [BRUGEL](https://environnement.brussels/citoyen/agir-pour-lenvironnement/devenir-eco-responsable/partage-et-communautes-denergie) in Brussel, [VREG](https://www.vreg.be/) in Vlaanderen — bepalen de regels, houden toezicht op de tarieven en publiceren richtlijnen voor gemeenschappen.
+- **De gewestelijke regulatoren** — [CWaPE](https://www.cwape.be/secteur/communautes-partage-energie) in Wallonië, [BRUGEL](https://environnement.brussels/citoyen/agir-pour-lenvironnement/devenir-eco-responsable/partage-et-communautes-denergie) in Brussel, [Vlaamse Nutsregulator (ex-VREG)](https://www.vlaamsenutsregulator.be) in Vlaanderen — bepalen de regels, houden toezicht op de tarieven en publiceren richtlijnen voor gemeenschappen.
 - **De energieleveranciers** blijven de **resterende energie** factureren, dat wil zeggen het deel van het verbruik dat niet door interne deling werd gedekt.
 - **De leden** zijn zowel prosumenten (bv. uitgerust met zonnepanelen) als zuivere verbruikers, kmo's of lokale overheden.
 - **De community manager** is de entiteit die de gemeenschap dagelijks aanstuurt: nieuwe leden onboarden, verdeelsleutels configureren, rapporteren aan de DNB. Dit is precies de rol die **OptimCE** vereenvoudigt — bekijk de [gebruikersgids](https://guide.optimce.be) en het publieke register van [open deelacties](/nl/nieuws/2026/05/07/release-nieuws/).
@@ -154,6 +155,6 @@ Via de **slimme meters** (smart meters) die door de DNB's worden uitgerold en de
 - [Leefmilieu Brussel — Energiedelen en -gemeenschappen](https://environnement.brussels/citoyen/agir-pour-lenvironnement/devenir-eco-responsable/partage-et-communautes-denergie) — Brussels kader en types van deelacties.
 - [ORES — Energiegemeenschappen](https://www.ores.be/particulier/communautes-denergie) — perspectief van de Waalse DNB.
 - [FOD Economie — Aandeel hernieuwbare energiebronnen](https://economie.fgov.be/fr/themes/energie/suivi-des-objectifs-europeens/part-des-sources-denergie) — cijfers 2024 en doelstellingen 2030.
-- [VREG](https://www.vreg.be/) — Vlaamse energieregulator.
+- [Vlaamse Nutsregulator (ex-VREG)](https://www.vlaamsenutsregulator.be) — Vlaamse energieregulator.
 - [Sun-Job](https://www.sun-job.be/about-us) — Belgische installateur van zonnepanelen.
 - Europese richtlijnen [2018/2001](https://eur-lex.europa.eu/eli/dir/2018/2001/oj) (RED II), [2019/944](https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32019L0944) en [2023/2413](https://www.stradalex.eu/en/se_src_publ_leg_eur_jo/toc/leg_eur_jo_3_20231031/doc/ojeu_202302413) — *Clean Energy Package*.

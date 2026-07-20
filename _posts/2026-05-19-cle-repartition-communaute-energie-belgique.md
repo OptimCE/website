@@ -7,7 +7,7 @@ excerpt: "Clé de répartition d'une communauté d'énergie : types CWaPE, BRUGE
 tags: [allocation-key, administrative]
 lang: fr
 ref: allocation-key-belgium
-last_modified_at: 2026-07-16 10:00:00 +0200
+last_modified_at: 2026-07-20 10:00:00 +0200
 ---
 
 La **clé de répartition** est le rouage discret qui transforme une production locale d'électricité en avantage tangible pour chaque membre d'une communauté d'énergie. Elle décide, quart d'heure par quart d'heure, *qui reçoit combien* d'énergie partagée. Et c'est précisément là que la Belgique se complique : la Wallonie, Bruxelles et la Flandre n'ont pas adopté la même grille de clés standards, n'utilisent pas le même vocabulaire, et n'imposent pas les mêmes règles de validation.
@@ -128,6 +128,8 @@ Les clés **fixes** offrent une lecture immédiate : « j'ai droit à X % du par
 ### 4. Quelle souplesse pour faire évoluer la clé ?
 
 Les **trois régions autorisent la modification** d'une clé après le démarrage. En Wallonie, l'avenant à la convention + le passage par le GRD prennent quelques semaines ; à Bruxelles et en Flandre, la modification est annoncée par le point de contact unique au gestionnaire de réseau. Évitez les clés trop rigides au lancement : prévoyez d'emblée une revue annuelle en assemblée générale.
+
+La clé décide **combien de kWh** reviennent à chaque membre ; elle ne dit rien de **combien d'euros** ils valent. Cette seconde décision — le prix appliqué à l'énergie partagée — se prend séparément, dans la même convention : voir [« Prix de l'électricité en communauté d'énergie : comment fixer le prix de cession interne »](/actualites/2026/07/20/prix-electricite-communaute-energie/).
 
 ### Quatre cas pratiques typiques
 

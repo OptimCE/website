@@ -7,7 +7,7 @@ excerpt: "Verteilungsschlüssel in einer Energiegemeinschaft — von CWaPE, BRUG
 tags: [allocation-key, administrative]
 lang: de
 ref: allocation-key-belgium
-last_modified_at: 2026-07-16 10:00:00 +0200
+last_modified_at: 2026-07-20 10:00:00 +0200
 permalink: /de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/
 ---
 
@@ -129,6 +129,8 @@ Ein Wohnviertel mit ähnlichen Profilen (~3.500 kWh/Jahr pro Haushalt) funktioni
 ### 4. Wie viel Flexibilität, um den Schlüssel weiterzuentwickeln?
 
 Die **drei Regionen erlauben die Änderung** eines Schlüssels nach dem Start. In der Wallonie nehmen der Nachtrag zur Vereinbarung und der Schritt mit dem VNB einige Wochen in Anspruch; in Brüssel und Flandern wird die Änderung durch die einzige Kontaktstelle dem Netzbetreiber mitgeteilt. Vermeiden Sie zu starre Schlüssel beim Start: planen Sie von Anfang an eine jährliche Überprüfung in der Hauptversammlung.
+
+Der Schlüssel entscheidet, **wie viele kWh** jedes Mitglied erhält; er sagt nichts darüber, **wie viele Euro** sie wert sind. Diese zweite Entscheidung — der Preis der geteilten Energie — wird gesondert getroffen, in derselben Vereinbarung: siehe [„Strompreis in der Energiegemeinschaft: den internen Verrechnungspreis festlegen"](/de/aktuelles/2026/07/20/strompreis-energiegemeinschaft/).
 
 ### Vier typische Praxisfälle
 

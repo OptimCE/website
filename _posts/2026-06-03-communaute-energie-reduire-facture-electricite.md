@@ -7,6 +7,7 @@ excerpt: "Rejoindre une communauté d'énergie permet de payer son électricité
 tags: [community]
 lang: fr
 ref: reduce-electricity-bill
+last_modified_at: 2026-07-20 10:00:00 +0200
 ---
 
 Depuis 2022, les factures d'électricité belges ont connu des hausses brutales et imprévisibles. Face à cette volatilité, les communautés d'énergie offrent un levier concret et durable : payer son électricité **moins cher** et à un **prix plus stable**, sans changer de fournisseur ni installer le moindre panneau solaire. Cet article explique précisément comment ce gain se construit, jusqu'où il peut aller, ce qui change d'une région à l'autre, et qui en profite le plus.
@@ -21,11 +22,11 @@ Nous ne détaillons pas ici les types (CER, CEC, CEL) ni le cadre légal : tout 
 
 La réduction ne vient pas d'un seul rabais magique, mais de plusieurs leviers qui se cumulent.
 
-**1. Un prix local négocié, sous le prix du marché.** L'énergie partagée au sein de la communauté est facturée à un tarif fixé entre membres, généralement inférieur au tarif de fourniture standard. Selon [Climact](https://climact.com/en/energy-efficiency-is-a-key-concern-for-belgian-businesses-and-local-authorities/), l'écart de prix pour un consommateur participant à une communauté d'énergie est estimé à **environ 10 à 15 %** — et ce prix est « moins volatil et plus prévisible ».
+**1. Un prix local négocié, sous le prix du marché.** L'énergie partagée au sein de la communauté est facturée à un tarif fixé entre membres, généralement inférieur au tarif de fourniture standard. Les cas belges documentés situent ce prix interne entre **6 et 14 c€/kWh** — 6 c€/kWh dans les simulations wallonnes de [Renouvelle](https://www.renouvelle.be/fr/exemples-calculs-de-rentabilite-economique-dun-partage-delectricite-en-wallonie/), 14 c€/kWh pour la communauté bruxelloise Énergie Solidaire du Balai ([Guide Bâtiment Durable](https://guidebatimentdurable.brussels/partage-delectricite-sein-dune-communaute-denergie-energie-solidaire-balai/partage-delectricite)) — face à une composante énergie de l'ordre de 14 c€/kWh chez un fournisseur. L'écart dépend entièrement des règles que la communauté se donne : nous détaillons comment il se construit dans [« Prix de l'électricité en communauté d'énergie : comment fixer le prix de cession interne »](/actualites/2026/07/20/prix-electricite-communaute-energie/).
 
 **2. Un prix plus stable et prévisible.** C'est souvent l'avantage le plus sous-estimé. Comme le souligne [Énergie Commune](https://www.energiecommune.be), le moteur du partage est « avant tout l'intérêt économique du consommateur » : une partie de sa consommation devient moins chère, mais surtout **les prix se stabilisent**, ce qui protège le ménage des chocs de marché — y compris les ménages à bas revenus.
 
-**3. Des frais de réseau réduits sur l'énergie partagée.** Dans plusieurs configurations, la part d'énergie partagée bénéficie d'un traitement tarifaire de réseau plus favorable. Les modalités exactes dépendent de la région et de la localisation des participants (voir le tableau plus bas).
+**3. Des frais de réseau parfois réduits — mais moins souvent qu'on ne le croit.** Le traitement tarifaire favorable existe, mais il dépend de la **proximité** des participants, pas du fait d'être en communauté. En Wallonie, la CWaPE est explicite : la réduction de 80 % sur les termes proportionnels ne vaut que pour le partage au sein d'un **même bâtiment**, et « il n'existe pas de réduction tarifaire pour le partage au sein d'une communauté d'énergie » ([CWaPE](https://www.cwape.be/node/6062)). Bruxelles est la seule région à offrir un vrai régime préférentiel gradué (voir le tableau plus bas).
 
 **4. Vous gardez votre fournisseur.** Aucun changement de contrat n'est nécessaire : votre fournisseur continue de facturer uniquement l'**énergie résiduelle**, c'est-à-dire la part non couverte par le partage. Ce point est détaillé dans la [FAQ de notre guide de référence](/actualites/2026/05/11/communautes-energie-belgique/).
 
@@ -60,7 +61,7 @@ Les mécanismes d'économie existent dans les trois régions, mais les acteurs e
 |---|---|---|---|
 | Régulateur | CWaPE | BRUGEL | VREG |
 | Gestionnaire de réseau (GRD) | ORES, RESA, AIEG | Sibelga | Fluvius |
-| Tarif réseau sur l'énergie partagée | Réduit, selon modalités CWaPE | Variable selon la localisation des participants | Selon modalités VREG |
+| Tarif réseau sur l'énergie partagée | Aucune réduction en communauté ; −80 % sur les termes proportionnels en même bâtiment | Réduction graduée selon la proximité : 100 % en même bâtiment, 50 % en même cabine BT, aucune au-delà | Aucune réduction |
 | Revenu complémentaire pour le producteur | Certificats verts | Certificats verts (≈ 10 premières années) | Soutien spécifique — voir VREG |
 | Compteur communicant requis | Oui | Oui | Oui |
 | Clé de répartition | Familles standards CWaPE | Fixe / prorata / hybride (BRUGEL) | Vaste / relatieve / optimale (VREG) |
@@ -81,7 +82,7 @@ Le partage profite à tous les membres, mais certains profils en tirent davantag
 
 ### Combien puis-je économiser ?
 
-L'ordre de grandeur souvent cité est de **10 à 15 %** sur la part d'énergie partagée ([Climact](https://climact.com/en/energy-efficiency-is-a-key-concern-for-belgian-businesses-and-local-authorities/)), avec un prix plus stable. Le montant réel dépend du volume partagé, de votre profil et des conditions de votre communauté. Les régulateurs ne publient pas de pourcentage « garanti » : voyez l'économie comme récurrente et combinée à une meilleure prévisibilité.
+L'économie porte sur la **composante énergie** de votre facture, qui pèse environ **38 %** du total en Belgique ([CREG](https://www.creg.be/fr/professionnels/fonctionnement-et-monitoring-du-marche/tableau-de-bord), juin 2026) — pas sur la facture entière. Les cas belges documentés situent le prix interne entre 6 et 14 c€/kWh, contre une composante énergie d'environ 14 c€/kWh chez un fournisseur. Le montant réel dépend du volume partagé, de votre profil et des conditions de votre communauté. Les régulateurs ne publient pas de pourcentage « garanti » : voyez l'économie comme récurrente et combinée à une meilleure prévisibilité.
 
 ### Dois-je acheter des panneaux solaires ?
 
@@ -126,7 +127,10 @@ La façon la plus simple de réduire votre facture est de **rejoindre une opéra
 
 ## Sources
 
-- [Climact — L'efficacité énergétique, une priorité pour les entreprises et autorités locales belges](https://climact.com/en/energy-efficiency-is-a-key-concern-for-belgian-businesses-and-local-authorities/) — écart de prix ≈ 10–15 % et stabilité accrue pour les membres.
+- [CWaPE — Frais de réseau sur l'électricité partagée](https://www.cwape.be/node/6062) — tarifs dus sur les kWh partagés ; réduction de 80 % limitée au partage en immeuble.
+- [CREG — Tableau de bord mensuel électricité et gaz naturel](https://www.creg.be/fr/professionnels/fonctionnement-et-monitoring-du-marche/tableau-de-bord) — poids de la composante énergie dans la facture belge.
+- [Guide Bâtiment Durable — Énergie Solidaire du Balai](https://guidebatimentdurable.brussels/partage-delectricite-sein-dune-communaute-denergie-energie-solidaire-balai/partage-delectricite) — structure de prix complète d'une communauté bruxelloise.
+- [Renouvelle — Exemples de calculs de rentabilité d'un partage d'électricité en Wallonie](https://www.renouvelle.be/fr/exemples-calculs-de-rentabilite-economique-dun-partage-delectricite-en-wallonie/) — prix internes pratiqués et impact des frais fournisseurs.
 - [Énergie Commune — Partage d'électricité (bonne pratique Interreg Europe)](https://www.interregeurope.eu/sites/default/files/good_practices/8.%20EnergieCommune_EC_BM_Sharing_Interreg_Ghent.pdf) — exemple chiffré, moteur économique du partage, contexte solaire belge.
 - [Sibelga — Partage d'énergie à Bruxelles](https://www.sibelga.be/en/connections-meters/renewable-energy/energy-sharing) — fonctionnement pratique et tarifs réseau selon la localisation.
 - [Sibelga — Certificats verts](https://www.sibelga.be/en/connections-meters/renewable-energy/solar-panels/green-certificates) — revenu complémentaire pour les producteurs bruxellois.

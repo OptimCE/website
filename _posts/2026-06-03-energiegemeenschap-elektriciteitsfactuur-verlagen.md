@@ -7,6 +7,7 @@ excerpt: "Door toe te treden tot een energiegemeenschap betaal je minder voor el
 tags: [community]
 lang: nl
 ref: reduce-electricity-bill
+last_modified_at: 2026-07-20 10:00:00 +0200
 permalink: /nl/nieuws/2026/06/03/energiegemeenschap-elektriciteitsfactuur-verlagen/
 ---
 
@@ -22,11 +23,11 @@ We behandelen hier niet de types (CER, CEC, CEL) of het wettelijke kader — dat
 
 De besparing komt niet van één magische korting, maar van meerdere hefbomen die elkaar versterken.
 
-**1. Een onderhandelde lokale prijs, onder de markt.** De binnen de gemeenschap gedeelde energie wordt gefactureerd tegen een tarief dat tussen de leden is afgesproken, doorgaans lager dan het standaardleveringstarief. Volgens [Climact](https://climact.com/en/energy-efficiency-is-a-key-concern-for-belgian-businesses-and-local-authorities/) wordt het prijsverschil voor een consument in een energiegemeenschap geschat op **ongeveer 10 tot 15%** — en die prijs is "minder volatiel en beter voorspelbaar".
+**1. Een onderhandelde lokale prijs, onder de markt.** De binnen de gemeenschap gedeelde energie wordt gefactureerd tegen een tarief dat tussen de leden is afgesproken, doorgaans lager dan het standaardleveringstarief. Gedocumenteerde Belgische gevallen situeren die interne prijs tussen **6 en 14 c€/kWh** — 6 c€/kWh in de Waalse simulaties van [Renouvelle](https://www.renouvelle.be/fr/exemples-calculs-de-rentabilite-economique-dun-partage-delectricite-en-wallonie/), 14 c€/kWh voor de Brusselse gemeenschap Énergie Solidaire du Balai ([Guide Bâtiment Durable](https://guidebatimentdurable.brussels/partage-delectricite-sein-dune-communaute-denergie-energie-solidaire-balai/partage-delectricite)) — tegenover een energiecomponent van ongeveer 14 c€/kWh bij een leverancier. Het verschil hangt volledig af van de regels die de gemeenschap zichzelf oplegt: hoe het tot stand komt, lichten we toe in [“Prijs van elektriciteit in een energiegemeenschap: de interne overdrachtsprijs bepalen”](/nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/).
 
 **2. Een stabielere, voorspelbaardere prijs.** Dit is vaak het meest onderschatte voordeel. Zoals [Énergie Commune](https://www.energiecommune.be) benadrukt, is de drijfveer van het delen "in de eerste plaats het economische belang van de consument": een deel van zijn verbruik wordt goedkoper, maar vooral **stabiliseren de prijzen**, wat het huishouden beschermt tegen marktschokken — ook huishoudens met een laag inkomen.
 
-**3. Lagere nettarieven op de gedeelde energie.** In verschillende configuraties geniet het gedeelde deel van de energie een gunstigere tariefbehandeling op het net. De precieze voorwaarden hangen af van de regio en van de locatie van de deelnemers (zie de tabel hieronder).
+**3. Soms lagere nettarieven — maar minder vaak dan men denkt.** De gunstige tariefbehandeling bestaat, maar ze hangt af van de **nabijheid** van de deelnemers, niet van het feit dat je in een gemeenschap zit. In Wallonië is de CWaPE duidelijk: de vermindering van 80% op de proportionele termen geldt enkel voor het delen binnen **hetzelfde gebouw**, en "er bestaat geen tariefvermindering voor het delen binnen een energiegemeenschap" ([CWaPE](https://www.cwape.be/node/6062)). Brussel is de enige regio die een echt gradueel voorkeursregime biedt (zie de tabel hieronder).
 
 **4. Je behoudt je leverancier.** Geen contractwijziging nodig: je leverancier factureert enkel nog de **residuele energie** — het deel dat niet door het delen wordt gedekt. Dit punt wordt toegelicht in de [FAQ van onze referentiegids](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/).
 
@@ -61,7 +62,7 @@ De besparingsmechanismen bestaan in alle drie de regio's, maar de actoren en som
 |---|---|---|---|
 | Regulator | CWaPE | BRUGEL | VREG |
 | Distributienetbeheerder (DNB) | ORES, RESA, AIEG | Sibelga | Fluvius |
-| Nettarief op gedeelde energie | Verlaagd, volgens CWaPE-voorwaarden | Variabel naargelang de locatie van de deelnemers | Volgens VREG-voorwaarden |
+| Nettarief op gedeelde energie | Geen vermindering in gemeenschap; −80% op de proportionele termen in hetzelfde gebouw | Graduele vermindering naargelang de nabijheid: 100% in hetzelfde gebouw, 50% op dezelfde LS-cabine, geen daarbuiten | Geen vermindering |
 | Bijkomend inkomen voor de producent | Groenestroomcertificaten | Groenestroomcertificaten (≈ eerste 10 jaar) | Specifieke steun — zie VREG |
 | Slimme meter vereist | Ja | Ja | Ja |
 | Verdeelsleutel | Standaardfamilies CWaPE | Vast / pro rata / hybride (BRUGEL) | Vaste / relatieve / optimale (VREG) |
@@ -82,7 +83,7 @@ Het delen komt alle leden ten goede, maar sommige profielen halen er meer uit:
 
 ### Hoeveel kan ik besparen?
 
-De vaak genoemde grootteorde is **10 tot 15%** op het gedeelde deel van de energie ([Climact](https://climact.com/en/energy-efficiency-is-a-key-concern-for-belgian-businesses-and-local-authorities/)), tegen een stabielere prijs. Het reële bedrag hangt af van het gedeelde volume, je profiel en de voorwaarden van je gemeenschap. Regulatoren publiceren geen "gegarandeerd" percentage: zie de besparing als terugkerend en gecombineerd met een betere voorspelbaarheid.
+De besparing slaat op de **energiecomponent** van je factuur, die in België ongeveer **38%** van het totaal weegt ([CREG](https://www.creg.be/fr/professionnels/fonctionnement-et-monitoring-du-marche/tableau-de-bord), juni 2026) — niet op de hele factuur. Gedocumenteerde Belgische gevallen situeren de interne prijs tussen 6 en 14 c€/kWh, tegenover een energiecomponent van ongeveer 14 c€/kWh bij een leverancier. Het reële bedrag hangt af van het gedeelde volume, je profiel en de voorwaarden van je gemeenschap. Regulatoren publiceren geen "gegarandeerd" percentage: zie de besparing als terugkerend en gecombineerd met een betere voorspelbaarheid.
 
 ### Moet ik zonnepanelen kopen?
 
@@ -127,7 +128,10 @@ De eenvoudigste manier om je factuur te verlagen, is **toetreden tot een bestaan
 
 ## Bronnen
 
-- [Climact — Energie-efficiëntie is een prioriteit voor Belgische bedrijven en lokale overheden](https://climact.com/en/energy-efficiency-is-a-key-concern-for-belgian-businesses-and-local-authorities/) — prijsverschil ≈ 10–15% en grotere stabiliteit voor de leden.
+- [CWaPE — Nettarieven op gedeelde elektriciteit](https://www.cwape.be/node/6062) — tarieven verschuldigd op gedeelde kWh; vermindering van 80% beperkt tot het delen binnen een gebouw.
+- [CREG — Maandelijks dashboard elektriciteit en aardgas](https://www.creg.be/fr/professionnels/fonctionnement-et-monitoring-du-marche/tableau-de-bord) — gewicht van de energiecomponent in de Belgische factuur.
+- [Guide Bâtiment Durable — Énergie Solidaire du Balai](https://guidebatimentdurable.brussels/partage-delectricite-sein-dune-communaute-denergie-energie-solidaire-balai/partage-delectricite) — volledige prijsstructuur van een Brusselse gemeenschap.
+- [Renouvelle — Voorbeelden van rendabiliteitsberekeningen van een elektriciteitsdeling in Wallonië](https://www.renouvelle.be/fr/exemples-calculs-de-rentabilite-economique-dun-partage-delectricite-en-wallonie/) — toegepaste interne prijzen en impact van de leverancierskosten.
 - [Énergie Commune — Elektriciteit delen (goede praktijk Interreg Europe)](https://www.interregeurope.eu/sites/default/files/good_practices/8.%20EnergieCommune_EC_BM_Sharing_Interreg_Ghent.pdf) — rekenvoorbeeld, de economische drijfveer van het delen, Belgische zonnecontext.
 - [Sibelga — Energie delen in Brussel](https://www.sibelga.be/en/connections-meters/renewable-energy/energy-sharing) — hoe het in de praktijk werkt en nettarieven naargelang de locatie.
 - [Sibelga — Groenestroomcertificaten](https://www.sibelga.be/en/connections-meters/renewable-energy/solar-panels/green-certificates) — bijkomend inkomen voor Brusselse producenten.

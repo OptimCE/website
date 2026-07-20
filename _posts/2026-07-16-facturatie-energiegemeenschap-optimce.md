@@ -7,6 +7,7 @@ excerpt: "Nieuwe OptimCE-functie: genereer automatisch de facturen van uw energi
 tags: [administrative, app, news]
 lang: nl
 ref: optimce-billing
+last_modified_at: 2026-07-20 10:00:00 +0200
 permalink: /nl/nieuws/2026/07/16/facturatie-energiegemeenschap-optimce/
 faq:
   - q: "Waar komen de gegevens voor de facturatie vandaan?"
@@ -48,7 +49,7 @@ Met tien leden is dat vervelend; met vijftig onhoudbaar. En de inzet gaat verder
 De module is geïntegreerd met de rest van het platform en volgt een traject in vier stappen.
 
 1. **De data zijn er al.** De facturatie steunt op de officiële verdelingsdata die al in OptimCE geïmporteerd zijn: verbruikte gedeelde energie en gedeelde injectie, per EAN en per periode. Niets opnieuw invoeren, niets exporteren — de facturatie leest dezelfde volumes als uw dashboards.
-2. **U definieert uw prijzen.** Twee prijzen, in €/kWh, vrij bepaald door de gemeenschap: de **verkoopprijs** van de gedeelde energie aan de verbruikers en de **terugkoopprijs** die aan de producenten wordt betaald voor hun injectie. Elke prijs kan globaal gelden, per klantsegment (residentieel, professioneel, industrieel) of voor één specifieke EAN — de meest specifieke regel wint — en draagt een geldigheidsperiode.
+2. **U definieert uw prijzen.** Twee prijzen, in €/kWh, vrij bepaald door de gemeenschap: de **verkoopprijs** van de gedeelde energie aan de verbruikers en de **terugkoopprijs** die aan de producenten wordt betaald voor hun injectie. Elke prijs kan globaal gelden, per klantsegment (residentieel, professioneel, industrieel) of voor één specifieke EAN — de meest specifieke regel wint — en draagt een geldigheidsperiode. Welke bedragen u invult, is een andere vraag: onze gids [« Prijs van elektriciteit in een energiegemeenschap: de interne overdrachtsprijs bepalen »](/nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/) beschrijft de verdedigbare marge en vijf rekenmethodes.
 3. **U start een facturatiecyclus.** U kiest de periode — maandelijks, driemaandelijks, zoals het u past — en OptimCE controleert vóór de berekening of alles in orde is: verbruiksdata aanwezig, bankgegevens en officiële naam van de gemeenschap, toepasselijk tarief, geen dubbels in de data. Daarna **bevriest het een momentopname** van de verdeling: de bedragen worden berekend op bevroren, traceerbare volumes.
 4. **U leest na, dan reikt u uit.** De cyclus produceert een **ontwerp per lid**, te downloaden als pdf met watermerk „proforma". U controleert, dan reikt u uit: de factuur krijgt haar wettelijk nummer, haar gestructureerde mededeling en haar vervaldatum.
 

@@ -7,6 +7,7 @@ excerpt: "Energiegemeinschaften in Belgien verstehen — Unterschiede zwischen e
 tags: [community, administrative]
 lang: de
 ref: energy-communities-belgium
+last_modified_at: 2026-07-20 10:00:00 +0200
 permalink: /de/aktuelles/2026/05/11/energiegemeinschaften-belgien/
 ---
 
@@ -75,7 +76,7 @@ Wichtig zu verstehen: Energieteilung ist **administrativ, nicht physisch**. Die 
 ## Die beteiligten Akteure
 
 - **Die Verteilnetzbetreiber (VNB)** — ORES, RESA, AIEG in der Wallonie; Sibelga in Brüssel; Fluvius in Flandern — betreiben die Zähler, validieren die Teilnehmer und berechnen die Zuteilungen. Siehe zum Beispiel die [Seite von ORES](https://www.ores.be/particulier/communautes-denergie).
-- **Die regionalen Regulierungsbehörden** — [CWaPE](https://www.cwape.be/secteur/communautes-partage-energie) in der Wallonie, [BRUGEL](https://environnement.brussels/citoyen/agir-pour-lenvironnement/devenir-eco-responsable/partage-et-communautes-denergie) in Brüssel, [VREG](https://www.vreg.be/) in Flandern — legen die Regeln fest, überwachen die Tarife und veröffentlichen Leitfäden für Gemeinschaften.
+- **Die regionalen Regulierungsbehörden** — [CWaPE](https://www.cwape.be/secteur/communautes-partage-energie) in der Wallonie, [BRUGEL](https://environnement.brussels/citoyen/agir-pour-lenvironnement/devenir-eco-responsable/partage-et-communautes-denergie) in Brüssel, [Vlaamse Nutsregulator (ex-VREG)](https://www.vlaamsenutsregulator.be) in Flandern — legen die Regeln fest, überwachen die Tarife und veröffentlichen Leitfäden für Gemeinschaften.
 - **Die Energielieferanten** stellen weiterhin die **Restenergie** in Rechnung, also den Anteil des Verbrauchs, der nicht durch die interne Teilung gedeckt ist.
 - **Die Mitglieder** sind sowohl Prosumer (z. B. mit Photovoltaikanlage) als auch reine Verbraucher, KMU oder lokale Behörden.
 - **Der Community Manager** ist die Einheit, die die Gemeinschaft im Tagesgeschäft führt: Onboarding neuer Mitglieder, Konfiguration der Verteilungsschlüssel, Reporting an den VNB. Genau diese Rolle vereinfacht **OptimCE** — siehe das [Benutzerhandbuch](https://guide.optimce.be) und das öffentliche Register der [offenen Teilungsoperationen](/de/aktuelles/2026/05/07/release-neuigkeiten/).
@@ -154,6 +155,6 @@ Flandern verfügt über einen gleichwertigen Rahmen unter Aufsicht des **VREG**,
 - [Umwelt Brüssel — Energieteilung und Energiegemeinschaften](https://environnement.brussels/citoyen/agir-pour-lenvironnement/devenir-eco-responsable/partage-et-communautes-denergie) — Brüsseler Rahmen und Teilungsarten.
 - [ORES — Energiegemeinschaften](https://www.ores.be/particulier/communautes-denergie) — Perspektive des wallonischen VNB.
 - [FÖD Wirtschaft — Anteil erneuerbarer Energiequellen](https://economie.fgov.be/fr/themes/energie/suivi-des-objectifs-europeens/part-des-sources-denergie) — Daten 2024 und Ziele 2030.
-- [VREG](https://www.vreg.be/) — flämische Energieregulierungsbehörde.
+- [Vlaamse Nutsregulator (ex-VREG)](https://www.vlaamsenutsregulator.be) — flämische Energieregulierungsbehörde.
 - [Sun-Job](https://www.sun-job.be/about-us) — belgischer Photovoltaik-Installateur.
 - EU-Richtlinien [2018/2001](https://eur-lex.europa.eu/eli/dir/2018/2001/oj) (RED II), [2019/944](https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32019L0944) und [2023/2413](https://www.stradalex.eu/en/se_src_publ_leg_eur_jo/toc/leg_eur_jo_3_20231031/doc/ojeu_202302413) — *Clean Energy Package*.
