@@ -8,6 +8,7 @@ tags: [community, administrative, guide]
 lang: nl
 ref: internal-price-shared-energy
 permalink: /nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/
+last_modified_at: 2026-07-23 10:00:00 +0200
 faq:
   - q: "Wie bepaalt de prijs van de gedeelde elektriciteit in een energiegemeenschap?"
     a: "In Wallonië en Brussel: de deelnemers zelf. De CWaPE schrijft dat „de prijs van de gedeelde elektriciteit vrij wordt bepaald tussen de deelnemers aan het delen, in de overeenkomst die hun rechten en plichten vastlegt”. Geen enkele Belgische regulator publiceert een plafond of een rekenmethode. In Vlaanderen stelt de vraag zich anders: energiedelen binnen een energiegemeenschap moet kosteloos gebeuren."
@@ -54,7 +55,7 @@ Twee praktische gevolgen:
 
 ### Wat de vertegenwoordiger bovenop de prijs factureert
 
-Bij de afgesproken prijs komen, op de factuur van de gemeenschap zelf, „de btw, de accijnzen en de openbaredienstverplichting tot inlevering van groenestroomcertificaten” ([CWaPE](https://www.cwape.be/node/6063)). Twee preciseringen waarover veel projecten struikelen:
+Bij de afgesproken prijs komen, op de factuur van de gemeenschap zelf, „de btw, de accijnzen en de openbaredienstverplichting tot inlevering van groenestroomcertificaten” ([CWaPE](https://www.cwape.be/node/6063)). Wie deze factuur opstelt en welke vermeldingen ze moet dragen, is het onderwerp van onze gids [„Gedeelde elektriciteit factureren in België”](/nl/nieuws/2026/07/23/gedeelde-elektriciteit-factureren-belgie/). Twee preciseringen waarover veel projecten struikelen:
 
 - **De btw is niet uniform.** Het verlaagde tarief van **6 % geldt voor de levering van elektriciteit aan een particuliere klant**, tegenover **21 % voor een professionele klant**: een gemeenschap met gemengde leden moet er dus op rekenen tegen twee tarieven te factureren. Onder 25.000 € omzet excl. btw per jaar kan de [vrijstellingsregeling voor kleine ondernemingen](https://finances.belgium.be/fr/entreprises/tva/assujettissement-tva/regime-franchise-taxe) van toepassing zijn. Geen enkele circulaire behandelt het energiedelen specifiek: laat uw situatie door uw boekhouder valideren vóór de eerste factuur.
 - **De federale bijdrage bestaat niet meer.** Ze werd op 31 december 2021 afgeschaft en opgeslorpt door de bijzondere accijns ([CREG](https://www.creg.be/fr/a-z-index/cotisation-federale)). Veel documenten die nog circuleren, vermelden ze nog altijd: neem ze niet op in uw simulaties.

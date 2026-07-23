@@ -15,6 +15,27 @@
 # native/domain speaker before publishing (esp. NL/DE Belgian terms).
 # ==================================================================
 
+- slug: accises
+  categorie: facturation
+  tags: [fiscalite, facture, belgique]
+  source_nom: CREG
+  source_url: "https://www.creg.be/fr/consommateurs/le-marche-de-lenergie/comment-est-compose-le-prix-de-lenergie"
+  terme:
+    fr: "Accises"
+    en: "Excise duties"
+    de: "Akzisen"
+    nl: "Accijnzen"
+  definition:
+    fr: "Droits d'accise dus sur l'électricité ; sur les kWh partagés, ils figurent sur la facture émise par le représentant du partage."
+    en: "Excise duties due on electricity; on shared kWh, they appear on the invoice issued by the sharing representative."
+    de: "Auf Elektrizität geschuldete Akzisen; auf den geteilten kWh erscheinen sie auf der vom Vertreter der Energieteilung ausgestellten Rechnung."
+    nl: "Op elektriciteit verschuldigde accijnzen; op de gedeelde kWh verschijnen ze op de door de vertegenwoordiger van het energiedelen uitgereikte factuur."
+  alias:
+    fr: ["droit d'accise", "droits d'accise"]
+    en: ["excise duty", "excise"]
+    de: ["Akzise", "Verbrauchsteuer"]
+    nl: ["accijns"]
+
 - slug: asbl
   categorie: juridique
   tags: [belgique, association, gouvernance]
@@ -203,6 +224,27 @@
     en: ["renewable energy community", "REC"]
     de: ["Erneuerbare-Energie-Gemeinschaft"]
     nl: ["hernieuwbare-energiegemeenschap"]
+
+- slug: certificat-vert
+  categorie: facturation
+  tags: [soutien, production, obligation]
+  source_nom: CWaPE
+  source_url: "https://www.cwape.be/node/6063"
+  terme:
+    fr: "Certificat vert"
+    en: "Green certificate"
+    de: "Grünes Zertifikat"
+    nl: "Groenestroomcertificaat"
+  definition:
+    fr: "Mécanisme de soutien à l'électricité renouvelable ; sur l'énergie partagée, l'obligation de restitution des quotas (OSP) est répercutée sur la facture du représentant du partage."
+    en: "Support mechanism for renewable electricity; on shared energy, the obligation to surrender quotas (PSO) is passed on to the sharing representative's invoice."
+    de: "Fördermechanismus für erneuerbaren Strom; bei geteilter Energie wird die Verpflichtung zur Rückgabe der Quoten (ÖDV) auf die Rechnung des Vertreters der Energieteilung weitergegeben."
+    nl: "Steunmechanisme voor hernieuwbare elektriciteit; bij gedeelde energie wordt de verplichting tot inlevering van de quota (ODV) doorgerekend op de factuur van de vertegenwoordiger van het energiedelen."
+  alias:
+    fr: ["certificats verts", "OSP certificats verts", "quotas de certificats verts"]
+    en: ["green certificates", "green-certificate quota"]
+    de: ["grüne Zertifikate", "Quoten grüner Zertifikate"]
+    nl: ["groenestroomcertificaten", "quota groenestroomcertificaten"]
 
 - slug: clef-de-repartition
   categorie: calcul
@@ -750,6 +792,27 @@
     de: ["Viertelstundenwert"]
     nl: ["kwartierwaarde"]
 
+- slug: representant-du-partage
+  categorie: partage
+  tags: [partage, facturation, acteur]
+  source_nom: CWaPE
+  source_url: "https://www.cwape.be/node/6059"
+  terme:
+    fr: "Représentant du partage"
+    en: "Sharing representative"
+    de: "Vertreter der Energieteilung"
+    nl: "Vertegenwoordiger van het energiedelen"
+  definition:
+    fr: "Personne ou structure désignée dans la convention pour organiser le partage et facturer l'énergie partagée aux participants, sur base des données du gestionnaire de réseau."
+    en: "Person or entity designated in the agreement to organise the sharing and invoice the shared energy to participants, based on the grid operator's data."
+    de: "Person oder Struktur, die in der Vereinbarung benannt wird, um die Teilung zu organisieren und den Teilnehmern die geteilte Energie auf der Grundlage der Daten des Netzbetreibers in Rechnung zu stellen."
+    nl: "Persoon of structuur die in de overeenkomst wordt aangeduid om het delen te organiseren en de gedeelde energie aan de deelnemers te factureren, op basis van de gegevens van de netbeheerder."
+  alias:
+    fr: ["représentant du partage d'énergie", "représentant de partage"]
+    en: ["energy sharing representative"]
+    de: ["Teilungsvertreter"]
+    nl: ["deelvertegenwoordiger"]
+
 - slug: sibelga
   categorie: reseau
   tags: [bruxelles, grd, reseau]
@@ -959,6 +1022,27 @@
     en: ["levies"]
     de: ["Abgaben"]
     nl: ["belastingen", "taksen"]
+
+- slug: tva
+  categorie: facturation
+  tags: [fiscalite, facture, belgique]
+  source_nom: "SPF Finances"
+  source_url: "https://finances.belgium.be/fr/entreprises/tva"
+  terme:
+    fr: "TVA"
+    en: "VAT"
+    de: "MwSt."
+    nl: "Btw"
+  definition:
+    fr: "Taxe sur la valeur ajoutée : 6 % pour un client particulier, 21 % pour un client professionnel ; due sur l'énergie partagée facturée par le représentant du partage."
+    en: "Value-added tax: 6% for a residential customer, 21% for a professional customer; due on the shared energy invoiced by the sharing representative."
+    de: "Mehrwertsteuer: 6 % für einen privaten Kunden, 21 % für einen gewerblichen Kunden; geschuldet auf die vom Vertreter der Energieteilung fakturierte geteilte Energie."
+    nl: "Belasting over de toegevoegde waarde: 6 % voor een particuliere klant, 21 % voor een professionele klant; verschuldigd op de door de vertegenwoordiger van het energiedelen gefactureerde gedeelde energie."
+  alias:
+    fr: ["taxe sur la valeur ajoutée"]
+    en: ["value-added tax", "value added tax"]
+    de: ["Mehrwertsteuer", "MWST"]
+    nl: ["belasting over de toegevoegde waarde", "BTW"]
 
 - slug: va
   categorie: calcul

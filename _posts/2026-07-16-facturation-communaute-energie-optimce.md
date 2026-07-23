@@ -7,7 +7,7 @@ excerpt: "Nouvelle fonctionnalité OptimCE : générez automatiquement les factu
 tags: [administrative, app, news]
 lang: fr
 ref: optimce-billing
-last_modified_at: 2026-07-20 10:00:00 +0200
+last_modified_at: 2026-07-23 10:00:00 +0200
 faq:
   - q: "D'où viennent les données utilisées pour facturer ?"
     a: "Des données de répartition officielles transmises par le gestionnaire de réseau et déjà importées dans OptimCE : énergie partagée consommée et injection partagée, par EAN et par période. Au lancement d'un cycle de facturation, OptimCE fige un instantané de ces volumes : les montants sont calculés sur des données gelées et traçables."
@@ -37,7 +37,7 @@ Concrètement, cette charge retombe sur le gestionnaire de la communauté. Pour 
 
 - **reprendre les volumes exacts** par point de raccordement (EAN) ;
 - **appliquer le bon prix** à chaque profil, sans erreur de calcul ni d'arrondi ;
-- **produire un document en règle** : TVA, mentions obligatoires, numérotation continue ;
+- **produire un document en règle** : [TVA, mentions obligatoires](/actualites/2026/07/23/facturer-electricite-partagee-belgique/), numérotation continue ;
 - **joindre une communication de paiement** et réconcilier les virements reçus ;
 - **répondre aux questions** des membres sur leur décompte.
 

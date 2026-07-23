@@ -7,7 +7,7 @@ excerpt: "Neue OptimCE-Funktion: Erstellen Sie die Rechnungen Ihrer Energiegemei
 tags: [administrative, app, news]
 lang: de
 ref: optimce-billing
-last_modified_at: 2026-07-20 10:00:00 +0200
+last_modified_at: 2026-07-23 10:00:00 +0200
 permalink: /de/aktuelles/2026/07/16/energiegemeinschaft-abrechnung-optimce/
 faq:
   - q: "Woher stammen die Daten für die Abrechnung?"
@@ -38,7 +38,7 @@ Konkret lastet diese Aufgabe auf der Verwaltung der Gemeinschaft. Für jede Peri
 
 - **die exakten Volumina** pro Anschlusspunkt (EAN) zu übernehmen;
 - **den richtigen Preis** auf jedes Profil anzuwenden, ohne Rechen- oder Rundungsfehler;
-- **ein konformes Dokument** zu erstellen: Mehrwertsteuer, Pflichtangaben, fortlaufende Nummerierung;
+- **ein konformes Dokument** zu erstellen: [Mehrwertsteuer, Pflichtangaben](/de/aktuelles/2026/07/23/geteilten-strom-abrechnen-belgien/), fortlaufende Nummerierung;
 - **eine Zahlungsreferenz** beizufügen und die eingehenden Überweisungen abzugleichen;
 - **die Fragen der Mitglieder** zu ihrer Abrechnung zu beantworten.
 

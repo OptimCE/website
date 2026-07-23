@@ -7,7 +7,7 @@ excerpt: "New OptimCE feature: automatically generate your energy community's in
 tags: [administrative, app, news]
 lang: en
 ref: optimce-billing
-last_modified_at: 2026-07-20 10:00:00 +0200
+last_modified_at: 2026-07-23 10:00:00 +0200
 permalink: /en/news/2026/07/16/energy-community-billing-optimce/
 faq:
   - q: "Where does the billing data come from?"
@@ -38,7 +38,7 @@ In practice, that burden falls on the community manager. For every period, you h
 
 - **retrieve the exact volumes** per connection point (EAN);
 - **apply the right price** to each profile, without calculation or rounding errors;
-- **produce a compliant document**: VAT, mandatory mentions, sequential numbering;
+- **produce a compliant document**: [VAT, mandatory mentions](/en/news/2026/07/23/who-invoices-shared-electricity-belgium/), sequential numbering;
 - **attach a payment reference** and reconcile incoming transfers;
 - **answer members' questions** about their statement.
 

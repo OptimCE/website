@@ -7,7 +7,7 @@ excerpt: "Nieuwe OptimCE-functie: genereer automatisch de facturen van uw energi
 tags: [administrative, app, news]
 lang: nl
 ref: optimce-billing
-last_modified_at: 2026-07-20 10:00:00 +0200
+last_modified_at: 2026-07-23 10:00:00 +0200
 permalink: /nl/nieuws/2026/07/16/facturatie-energiegemeenschap-optimce/
 faq:
   - q: "Waar komen de gegevens voor de facturatie vandaan?"
@@ -38,7 +38,7 @@ Concreet komt die last op de schouders van de beheerder van de gemeenschap terec
 
 - **de exacte volumes** per aansluitingspunt (EAN) overnemen;
 - **de juiste prijs** op elk profiel toepassen, zonder reken- of afrondingsfouten;
-- **een conform document** opstellen: btw, verplichte vermeldingen, doorlopende nummering;
+- **een conform document** opstellen: [btw, verplichte vermeldingen](/nl/nieuws/2026/07/23/gedeelde-elektriciteit-factureren-belgie/), doorlopende nummering;
 - **een betalingsreferentie** toevoegen en de binnenkomende overschrijvingen afpunten;
 - **de vragen van de leden** over hun afrekening beantwoorden.
 

@@ -7,6 +7,7 @@ excerpt: "Quel prix au kWh appliquer à l'électricité partagée entre membres 
 tags: [community, administrative, guide]
 lang: fr
 ref: internal-price-shared-energy
+last_modified_at: 2026-07-23 10:00:00 +0200
 faq:
   - q: "Qui fixe le prix de l'électricité partagée dans une communauté d'énergie ?"
     a: "En Wallonie et à Bruxelles, les participants eux-mêmes. La CWaPE écrit que « le prix de l'électricité partagée est déterminé librement entre les participants au partage, dans la convention déterminant leurs droits et obligations ». Aucun régulateur belge ne publie de plafond ni de méthode de calcul. En Flandre, la question ne se pose pas de la même façon : le partage au sein d'une communauté d'énergie doit être gratuit."
@@ -53,7 +54,7 @@ Deux conséquences pratiques :
 
 ### Ce que le représentant facture en plus du prix
 
-Au prix convenu s'ajoutent, sur la facture de la communauté elle-même, « la TVA, les accises et l'obligation de service public de restitution des quotas de certificats verts » ([CWaPE](https://www.cwape.be/node/6063)). Deux précisions qui font trébucher beaucoup de projets :
+Au prix convenu s'ajoutent, sur la facture de la communauté elle-même, « la TVA, les accises et l'obligation de service public de restitution des quotas de certificats verts » ([CWaPE](https://www.cwape.be/node/6063)). Qui émet cette facture et quelles mentions elle doit porter font l'objet de notre guide [« Facturer l'électricité partagée en Belgique »](/actualites/2026/07/23/facturer-electricite-partagee-belgique/). Deux précisions qui font trébucher beaucoup de projets :
 
 - **La TVA n'est pas uniforme.** Le taux réduit de **6 % vise la fourniture d'électricité à un client particulier**, contre **21 % pour un client professionnel** : une communauté aux membres mixtes doit donc s'attendre à facturer à deux taux. En dessous de 25 000 € de chiffre d'affaires hors TVA par an, le [régime de franchise des petites entreprises](https://finances.belgium.be/fr/entreprises/tva/assujettissement-tva/regime-franchise-taxe) peut s'appliquer. Aucune circulaire ne traite spécifiquement du partage d'énergie : faites valider votre situation par votre comptable avant la première facture.
 - **La cotisation fédérale n'existe plus.** Elle a été supprimée au 31 décembre 2021 et absorbée dans le droit d'accise spécial ([CREG](https://www.creg.be/fr/a-z-index/cotisation-federale)). Beaucoup de documents en circulation la mentionnent encore : ne la reprenez pas dans vos simulations.

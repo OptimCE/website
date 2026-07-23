@@ -8,6 +8,7 @@ tags: [community, administrative, guide]
 lang: de
 ref: internal-price-shared-energy
 permalink: /de/aktuelles/2026/07/20/strompreis-energiegemeinschaft/
+last_modified_at: 2026-07-23 10:00:00 +0200
 faq:
   - q: "Wer legt den Preis der geteilten Elektrizität in einer Energiegemeinschaft fest?"
     a: "In der Wallonie und in Brüssel die Teilnehmer selbst. Die CWaPE schreibt, dass „der Preis der geteilten Elektrizität zwischen den Teilnehmern des Teilens frei bestimmt wird, in der Vereinbarung, die ihre Rechte und Pflichten festlegt“. Kein belgischer Regulator veröffentlicht eine Obergrenze oder eine Berechnungsmethode. In Flandern stellt sich die Frage nicht in derselben Weise: Das Teilen innerhalb einer Energiegemeinschaft muss unentgeltlich sein."
@@ -54,7 +55,7 @@ Zwei praktische Folgen:
 
 ### Was der Vertreter zusätzlich zum Preis in Rechnung stellt
 
-Zum vereinbarten Preis kommen auf der Rechnung der Gemeinschaft selbst „die Mehrwertsteuer, die Akzisen und die gemeinwirtschaftliche Verpflichtung zur Rückgabe der Quoten an grünen Zertifikaten“ hinzu ([CWaPE](https://www.cwape.be/node/6063)). Zwei Präzisierungen, über die viele Projekte stolpern:
+Zum vereinbarten Preis kommen auf der Rechnung der Gemeinschaft selbst „die Mehrwertsteuer, die Akzisen und die gemeinwirtschaftliche Verpflichtung zur Rückgabe der Quoten an grünen Zertifikaten“ hinzu ([CWaPE](https://www.cwape.be/node/6063)). Wer diese Rechnung ausstellt und welche Angaben sie tragen muss, ist Gegenstand unseres Leitfadens [„Geteilte Elektrizität in Belgien abrechnen“](/de/aktuelles/2026/07/23/geteilten-strom-abrechnen-belgien/). Zwei Präzisierungen, über die viele Projekte stolpern:
 
 - **Die Mehrwertsteuer ist nicht einheitlich.** Der ermäßigte Satz von **6 % gilt für die Lieferung von Elektrizität an einen Privatkunden**, gegenüber **21 % für einen gewerblichen Kunden**: Eine Gemeinschaft mit gemischter Mitgliedschaft muss also damit rechnen, zu zwei Sätzen zu fakturieren. Unter 25.000 € Jahresumsatz exkl. MwSt. kann die [Kleinunternehmerregelung](https://finances.belgium.be/fr/entreprises/tva/assujettissement-tva/regime-franchise-taxe) greifen. Kein Rundschreiben behandelt die Energieteilung ausdrücklich: Lassen Sie Ihre Situation vor der ersten Rechnung von Ihrem Buchhalter bestätigen.
 - **Den Bundesbeitrag gibt es nicht mehr.** Er wurde zum 31. Dezember 2021 abgeschafft und in die Sonderakzise überführt ([CREG](https://www.creg.be/fr/a-z-index/cotisation-federale)). Viele kursierende Dokumente erwähnen ihn noch: Übernehmen Sie ihn nicht in Ihre Simulationen.
