@@ -7,11 +7,11 @@ excerpt: "Door toe te treden tot een energiegemeenschap betaal je minder voor el
 tags: [community]
 lang: nl
 ref: reduce-electricity-bill
-last_modified_at: 2026-07-20 10:00:00 +0200
+last_modified_at: 2026-07-25 10:00:00 +0200
 permalink: /nl/nieuws/2026/06/03/energiegemeenschap-elektriciteitsfactuur-verlagen/
 ---
 
-Sinds 2022 zijn de Belgische elektriciteitsfacturen scherp en onvoorspelbaar gestegen. Tegen die volatiliteit bieden energiegemeenschappen een concrete, duurzame hefboom: **goedkoper** elektriciteit kopen tegen een **stabielere prijs**, zonder van leverancier te veranderen of ook maar één zonnepaneel te installeren. Dit artikel legt precies uit hoe die besparing tot stand komt, hoe ver ze kan gaan, wat per regio verschilt en wie er het meest van profiteert.
+Sinds 2022 zijn de Belgische elektriciteitsfacturen scherp en onvoorspelbaar gestegen. Tegen die volatiliteit bieden energiegemeenschappen een concrete, duurzame hefboom: **goedkoper** elektriciteit kopen tegen een **stabielere prijs**, zonder van leverancier te veranderen of ook maar één zonnepaneel te installeren. Dit artikel legt precies uit hoe die besparing tot stand komt, hoe ver ze kan gaan, wat per regio verschilt en wie er het meest van profiteert. En als de eerste vraag is *waarom* de factuur hoog blijft terwijl de energieprijzen zijn gezakt, begin dan bij onze opsplitsing [„Elektriciteitsfactuur in België: waarom die hoog blijft ondanks dalende prijzen”](/nl/nieuws/2026/07/25/waarom-elektriciteitsfactuur-hoog-blijft-belgie/): die becijfert blok per blok waarop energiedeling inwerkt — en waarop niet.
 
 ## Wat is een energiegemeenschap? (kort)
 

@@ -7,6 +7,7 @@ excerpt: "Understanding self-consumption in Belgium: definition, the self-consum
 tags: [community]
 lang: en
 ref: self-consumption-belgium
+last_modified_at: 2026-07-25 10:00:00 +0200
 permalink: /en/news/2026/06/05/energy-self-consumption-belgium/
 faq:
   - q: "What is the self-consumption rate?"
@@ -37,7 +38,7 @@ Self-consumption means **consuming the electricity you produce** — typically v
 
 ## Why is self-consumption worthwhile?
 
-- **Cutting your bill.** Every self-consumed kWh is a kWh you don't buy from your supplier. Because the purchase price is far higher than the injection value of the surplus, self-consumption is the most direct way to make an installation pay off. For the worked figures on the bill side, see [“How an energy community reduces your electricity bill”](/en/news/2026/06/03/energy-community-reduce-electricity-bill/).
+- **Cutting your bill.** Every self-consumed kWh is a kWh you don't buy from your supplier. Because the purchase price is far higher than the injection value of the surplus, self-consumption is the most direct way to make an installation pay off. For the worked figures on the bill side, see [“How an energy community reduces your electricity bill”](/en/news/2026/06/03/energy-community-reduce-electricity-bill/). And to understand why that bill stays high even as energy prices fall, our breakdown [“Electricity bills in Belgium: why yours stays high”](/en/news/2026/07/25/why-electricity-bill-still-high-belgium/) quantifies all four blocks — energy, network, taxes and supplier margin.
 - **Putting local production to use instead of wasting it.** At peak production hours, the local grid experiences **overvoltage** that forces some PV systems to shut down. Consuming that energy locally avoids the waste.
 - **Stabilising your energy cost.** Self-consumption and local sharing make part of your supply independent from market shocks, and therefore more predictable.
 - **Relieving the grid.** Consuming production as close as possible to where it's injected reduces line losses and pressure on the transmission grid.

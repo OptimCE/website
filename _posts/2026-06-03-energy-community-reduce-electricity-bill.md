@@ -7,11 +7,11 @@ excerpt: "Joining an energy community lets you pay less for electricity at a mor
 tags: [community]
 lang: en
 ref: reduce-electricity-bill
-last_modified_at: 2026-07-20 10:00:00 +0200
+last_modified_at: 2026-07-25 10:00:00 +0200
 permalink: /en/news/2026/06/03/energy-community-reduce-electricity-bill/
 ---
 
-Since 2022, Belgian electricity bills have seen sharp, unpredictable increases. Against that volatility, energy communities offer a concrete, lasting lever: paying **less** for your electricity at a **more stable price**, without changing supplier or installing a single solar panel. This article explains exactly how those savings build up, how far they can go, what differs from region to region, and who benefits most.
+Since 2022, Belgian electricity bills have seen sharp, unpredictable increases. Against that volatility, energy communities offer a concrete, lasting lever: paying **less** for your electricity at a **more stable price**, without changing supplier or installing a single solar panel. This article explains exactly how those savings build up, how far they can go, what differs from region to region, and who benefits most. And if your first question is *why* your bill stays high even though energy prices have fallen, start with our breakdown ["Electricity bills in Belgium: why yours stays high despite falling prices"](/en/news/2026/07/25/why-electricity-bill-still-high-belgium/): it quantifies, block by block, what sharing acts on — and what it does not.
 
 ## What is an energy community? (in brief)
 

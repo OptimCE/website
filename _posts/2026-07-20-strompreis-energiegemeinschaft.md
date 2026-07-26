@@ -8,7 +8,7 @@ tags: [community, administrative, guide]
 lang: de
 ref: internal-price-shared-energy
 permalink: /de/aktuelles/2026/07/20/strompreis-energiegemeinschaft/
-last_modified_at: 2026-07-23 10:00:00 +0200
+last_modified_at: 2026-07-25 10:00:00 +0200
 faq:
   - q: "Wer legt den Preis der geteilten Elektrizität in einer Energiegemeinschaft fest?"
     a: "In der Wallonie und in Brüssel die Teilnehmer selbst. Die CWaPE schreibt, dass „der Preis der geteilten Elektrizität zwischen den Teilnehmern des Teilens frei bestimmt wird, in der Vereinbarung, die ihre Rechte und Pflichten festlegt“. Kein belgischer Regulator veröffentlicht eine Obergrenze oder eine Berechnungsmethode. In Flandern stellt sich die Frage nicht in derselben Weise: Das Teilen innerhalb einer Energiegemeinschaft muss unentgeltlich sein."
@@ -62,7 +62,7 @@ Zum vereinbarten Preis kommen auf der Rechnung der Gemeinschaft selbst „die Me
 
 ## Die Netzentgelte sinken fast nie
 
-Die Vorstellung, eine Energiegemeinschaft profitiere von ermäßigten Netztarifen, ist weit verbreitet. Vor allem aber ist sie **im häufigsten Fall falsch**. Die Einzelheiten nach Region:
+Die Vorstellung, eine Energiegemeinschaft profitiere von ermäßigten Netztarifen, ist weit verbreitet. Vor allem aber ist sie **im häufigsten Fall falsch**. Wir nehmen an anderer Stelle Block für Block auseinander, [warum eine belgische Stromrechnung trotz sinkender Preise hoch bleibt](/de/aktuelles/2026/07/25/warum-stromrechnung-hoch-bleibt-belgien/) — Netzkosten, Steuern und Lieferantenmarge inbegriffen. Die Einzelheiten nach Region:
 
 | Region | Ermäßigung der Netzentgelte auf geteilte kWh |
 |---|---|

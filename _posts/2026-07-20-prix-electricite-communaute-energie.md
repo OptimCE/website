@@ -7,7 +7,7 @@ excerpt: "Quel prix au kWh appliquer à l'électricité partagée entre membres 
 tags: [community, administrative, guide]
 lang: fr
 ref: internal-price-shared-energy
-last_modified_at: 2026-07-23 10:00:00 +0200
+last_modified_at: 2026-07-25 10:00:00 +0200
 faq:
   - q: "Qui fixe le prix de l'électricité partagée dans une communauté d'énergie ?"
     a: "En Wallonie et à Bruxelles, les participants eux-mêmes. La CWaPE écrit que « le prix de l'électricité partagée est déterminé librement entre les participants au partage, dans la convention déterminant leurs droits et obligations ». Aucun régulateur belge ne publie de plafond ni de méthode de calcul. En Flandre, la question ne se pose pas de la même façon : le partage au sein d'une communauté d'énergie doit être gratuit."
@@ -61,7 +61,7 @@ Au prix convenu s'ajoutent, sur la facture de la communauté elle-même, « la T
 
 ## Les frais de réseau ne baissent presque jamais
 
-L'idée qu'une communauté d'énergie bénéficie de tarifs de réseau réduits est très répandue. Elle est surtout **fausse dans le cas le plus courant**. Le détail par région :
+L'idée qu'une communauté d'énergie bénéficie de tarifs de réseau réduits est très répandue. Elle est surtout **fausse dans le cas le plus courant**. Nous décortiquons par ailleurs, bloc par bloc, [pourquoi une facture d'électricité belge reste élevée malgré la baisse des prix](/actualites/2026/07/25/pourquoi-facture-electricite-reste-elevee-belgique/) — coûts de réseau, taxes et marge fournisseur compris. Le détail par région :
 
 | Région | Réduction des tarifs réseau sur les kWh partagés |
 |---|---|

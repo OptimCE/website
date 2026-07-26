@@ -7,6 +7,7 @@ excerpt: "Eigenverbrauch in Belgien verstehen: Definition, Eigenverbrauchsquote 
 tags: [community]
 lang: de
 ref: self-consumption-belgium
+last_modified_at: 2026-07-25 10:00:00 +0200
 permalink: /de/aktuelles/2026/06/05/eigenverbrauch-energie-belgien/
 faq:
   - q: "Was ist die Eigenverbrauchsquote?"
@@ -37,7 +38,7 @@ Eigenverbrauch bedeutet, den **selbst erzeugten Strom** — typischerweise über
 
 ## Warum lohnt sich der Eigenverbrauch?
 
-- **Die Rechnung senken.** Jede selbst verbrauchte kWh ist eine kWh, die Sie nicht bei Ihrem Lieferanten kaufen. Da der Einkaufspreis weit über dem Einspeisewert des Überschusses liegt, ist der Eigenverbrauch der direkteste Weg, eine Anlage rentabel zu machen. Die konkreten Zahlen zur Rechnung finden Sie in [„Wie eine Energiegemeinschaft Ihre Stromrechnung senkt“](/de/aktuelles/2026/06/03/energiegemeinschaft-stromrechnung-senken/).
+- **Die Rechnung senken.** Jede selbst verbrauchte kWh ist eine kWh, die Sie nicht bei Ihrem Lieferanten kaufen. Da der Einkaufspreis weit über dem Einspeisewert des Überschusses liegt, ist der Eigenverbrauch der direkteste Weg, eine Anlage rentabel zu machen. Die konkreten Zahlen zur Rechnung finden Sie in [„Wie eine Energiegemeinschaft Ihre Stromrechnung senkt“](/de/aktuelles/2026/06/03/energiegemeinschaft-stromrechnung-senken/). Und um zu verstehen, warum diese Rechnung trotz sinkender Energiepreise hoch bleibt, beziffert unsere Aufschlüsselung [„Stromrechnung in Belgien: warum sie hoch bleibt“](/de/aktuelles/2026/07/25/warum-stromrechnung-hoch-bleibt-belgien/) alle vier Blöcke — Energie, Netz, Steuern und Lieferantenmarge.
 - **Lokale Produktion verwerten statt verschwenden.** In Spitzenproduktionszeiten kommt es im lokalen Netz zu **Überspannung**, die manche PV-Anlagen zum Abschalten zwingt. Diese Energie lokal zu verbrauchen, vermeidet die Verschwendung.
 - **Die Energiekosten stabilisieren.** Eigenverbrauch und lokales Teilen machen einen Teil Ihrer Versorgung unabhängig von Marktschocks und damit besser planbar.
 - **Das Netz entlasten.** Die Produktion möglichst nah am Einspeisepunkt zu verbrauchen, senkt Leitungsverluste und den Druck auf das Übertragungsnetz.

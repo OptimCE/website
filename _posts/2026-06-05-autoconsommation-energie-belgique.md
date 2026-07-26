@@ -7,6 +7,7 @@ excerpt: "Comprendre l'autoconsommation en Belgique : définition, taux d'autoco
 tags: [community]
 lang: fr
 ref: self-consumption-belgium
+last_modified_at: 2026-07-25 10:00:00 +0200
 faq:
   - q: "Qu'est-ce que le taux d'autoconsommation ?"
     a: "C'est la part de votre production solaire que vous consommez vous-même, au lieu de l'injecter sur le réseau. Un taux de 30 % signifie que vous consommez directement 30 % de ce que vos panneaux produisent ; le reste est injecté. Plus le taux est élevé, plus vous valorisez votre production."
@@ -36,7 +37,7 @@ L'autoconsommation consiste à **consommer l'électricité que l'on produit** �
 
 ## Pourquoi l'autoconsommation est-elle intéressante ?
 
-- **Réduire sa facture.** Chaque kWh autoconsommé est un kWh que vous n'achetez pas à votre fournisseur. Comme le prix d'achat est nettement supérieur à la valeur d'injection du surplus, l'autoconsommation est le moyen le plus direct de rentabiliser une installation. Pour le détail chiffré côté facture, voyez [« Comment une communauté d'énergie réduit votre facture d'électricité »](/actualites/2026/06/03/communaute-energie-reduire-facture-electricite/).
+- **Réduire sa facture.** Chaque kWh autoconsommé est un kWh que vous n'achetez pas à votre fournisseur. Comme le prix d'achat est nettement supérieur à la valeur d'injection du surplus, l'autoconsommation est le moyen le plus direct de rentabiliser une installation. Pour le détail chiffré côté facture, voyez [« Comment une communauté d'énergie réduit votre facture d'électricité »](/actualites/2026/06/03/communaute-energie-reduire-facture-electricite/). Et pour comprendre pourquoi cette facture reste élevée malgré la baisse des prix de l'énergie, notre décomposition [« Facture d'électricité en Belgique : pourquoi elle reste élevée »](/actualites/2026/07/25/pourquoi-facture-electricite-reste-elevee-belgique/) chiffre les quatre blocs — énergie, réseau, taxes et marge fournisseur.
 - **Valoriser une production locale aujourd'hui gaspillée.** Aux heures de forte production, le réseau local connaît des **surtensions** qui forcent l'arrêt de certaines installations photovoltaïques. Consommer cette énergie localement évite ce gaspillage.
 - **Stabiliser le coût de l'énergie.** L'autoconsommation et le partage local rendent une partie de votre approvisionnement indépendante des chocs de marché, donc plus prévisible.
 - **Soulager le réseau.** Consommer la production au plus près de l'endroit où elle est injectée réduit les pertes en ligne et la pression sur le réseau de transport.

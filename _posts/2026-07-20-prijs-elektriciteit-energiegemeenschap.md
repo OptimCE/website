@@ -8,7 +8,7 @@ tags: [community, administrative, guide]
 lang: nl
 ref: internal-price-shared-energy
 permalink: /nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/
-last_modified_at: 2026-07-23 10:00:00 +0200
+last_modified_at: 2026-07-25 10:00:00 +0200
 faq:
   - q: "Wie bepaalt de prijs van de gedeelde elektriciteit in een energiegemeenschap?"
     a: "In Wallonië en Brussel: de deelnemers zelf. De CWaPE schrijft dat „de prijs van de gedeelde elektriciteit vrij wordt bepaald tussen de deelnemers aan het delen, in de overeenkomst die hun rechten en plichten vastlegt”. Geen enkele Belgische regulator publiceert een plafond of een rekenmethode. In Vlaanderen stelt de vraag zich anders: energiedelen binnen een energiegemeenschap moet kosteloos gebeuren."
@@ -62,7 +62,7 @@ Bij de afgesproken prijs komen, op de factuur van de gemeenschap zelf, „de btw
 
 ## De netkosten dalen bijna nooit
 
-Het idee dat een energiegemeenschap van verlaagde nettarieven geniet, is wijdverspreid. Het is vooral **onjuist in het meest voorkomende geval**. Het detail per gewest:
+Het idee dat een energiegemeenschap van verlaagde nettarieven geniet, is wijdverspreid. Het is vooral **onjuist in het meest voorkomende geval**. We ontleden elders, blok per blok, [waarom een Belgische elektriciteitsfactuur hoog blijft ondanks dalende prijzen](/nl/nieuws/2026/07/25/waarom-elektriciteitsfactuur-hoog-blijft-belgie/) — nettarieven, taksen en leveranciersmarge inbegrepen. Het detail per gewest:
 
 | Gewest | Verlaging van de nettarieven op de gedeelde kWh |
 |---|---|

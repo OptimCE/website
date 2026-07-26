@@ -7,6 +7,7 @@ excerpt: "Zelfverbruik in België begrijpen: definitie, zelfverbruiksgraad en ho
 tags: [community]
 lang: nl
 ref: self-consumption-belgium
+last_modified_at: 2026-07-25 10:00:00 +0200
 permalink: /nl/nieuws/2026/06/05/zelfverbruik-energie-belgie/
 faq:
   - q: "Wat is de zelfverbruiksgraad?"
@@ -37,7 +38,7 @@ Zelfverbruik betekent de **elektriciteit die je zelf opwekt** — doorgaans via 
 
 ## Waarom is zelfverbruik interessant?
 
-- **Je factuur verlagen.** Elke zelf verbruikte kWh is een kWh die je niet bij je leverancier koopt. Omdat de aankoopprijs veel hoger ligt dan de injectiewaarde van het overschot, is zelfverbruik de meest directe manier om een installatie rendabel te maken. Voor de becijferde details aan de factuurzijde, zie [„Hoe een energiegemeenschap je elektriciteitsfactuur verlaagt“](/nl/nieuws/2026/06/03/energiegemeenschap-elektriciteitsfactuur-verlagen/).
+- **Je factuur verlagen.** Elke zelf verbruikte kWh is een kWh die je niet bij je leverancier koopt. Omdat de aankoopprijs veel hoger ligt dan de injectiewaarde van het overschot, is zelfverbruik de meest directe manier om een installatie rendabel te maken. Voor de becijferde details aan de factuurzijde, zie [„Hoe een energiegemeenschap je elektriciteitsfactuur verlaagt“](/nl/nieuws/2026/06/03/energiegemeenschap-elektriciteitsfactuur-verlagen/). En om te begrijpen waarom die factuur hoog blijft terwijl de energieprijzen dalen, becijfert onze opsplitsing [„Elektriciteitsfactuur in België: waarom die hoog blijft”](/nl/nieuws/2026/07/25/waarom-elektriciteitsfactuur-hoog-blijft-belgie/) alle vier de blokken — energie, net, taksen en leveranciersmarge.
 - **Lokale productie valoriseren in plaats van verspillen.** Op piekmomenten kent het lokale net **overspanning** die sommige PV-installaties doet uitschakelen. Die energie lokaal verbruiken voorkomt de verspilling.
 - **De energiekost stabiliseren.** Zelfverbruik en lokaal delen maken een deel van je bevoorrading onafhankelijk van marktschokken, en dus beter voorspelbaar.
 - **Het net ontlasten.** Productie zo dicht mogelijk bij het injectiepunt verbruiken vermindert lijnverliezen en de druk op het transportnet.

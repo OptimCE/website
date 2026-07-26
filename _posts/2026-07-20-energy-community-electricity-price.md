@@ -8,7 +8,7 @@ tags: [community, administrative, guide]
 lang: en
 ref: internal-price-shared-energy
 permalink: /en/news/2026/07/20/energy-community-electricity-price/
-last_modified_at: 2026-07-23 10:00:00 +0200
+last_modified_at: 2026-07-25 10:00:00 +0200
 faq:
   - q: "Who sets the price of shared electricity in an energy community?"
     a: "In Wallonia and Brussels, the participants themselves. CWaPE writes that the price of shared electricity is freely determined between the participants in the sharing arrangement, in the agreement setting out their rights and obligations. No Belgian regulator publishes a cap or a calculation method. In Flanders, the question does not arise in the same way: sharing within an energy community must be free of charge."
@@ -62,7 +62,7 @@ On the community's own invoice, the agreed price is joined by "VAT, excise dutie
 
 ## Grid fees almost never go down
 
-The idea that an energy community enjoys reduced network charges is widespread. It is above all **wrong in the most common case**. Region by region:
+The idea that an energy community enjoys reduced network charges is widespread. It is above all **wrong in the most common case**. We also take apart, block by block, [why a Belgian electricity bill stays high despite falling prices](/en/news/2026/07/25/why-electricity-bill-still-high-belgium/) — network costs, taxes and supplier margin included. Region by region:
 
 | Region | Reduction in network charges on shared kWh |
 |---|---|

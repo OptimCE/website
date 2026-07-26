@@ -288,6 +288,27 @@
     de: ["Energiegemeinschaft"]
     nl: ["energiegemeenschap"]
 
+- slug: composante-energie
+  categorie: facturation
+  tags: [facture, prix, marche]
+  source_nom: CREG
+  source_url: "https://www.creg.be/fr/consommateurs/le-marche-de-lenergie/comment-est-compose-le-prix-de-lenergie"
+  terme:
+    fr: "Composante énergie"
+    en: "Energy component"
+    de: "Energiekomponente"
+    nl: "Energiecomponent"
+  definition:
+    fr: "Part de la facture correspondant au prix du kWh fixé par le fournisseur, soit environ 40 % du total ; seule composante soumise à la concurrence, et seule sur laquelle le partage d'énergie agit."
+    en: "The share of the bill corresponding to the price per kWh set by the supplier, around 40 % of the total; the only competitive component, and the only one energy sharing acts on."
+    de: "Der Anteil der Rechnung, der dem vom Lieferanten festgelegten Preis pro kWh entspricht, rund 40 % der Gesamtsumme; die einzige dem Wettbewerb ausgesetzte Komponente und die einzige, auf die die Energieteilung wirkt."
+    nl: "Het deel van de factuur dat overeenstemt met de door de leverancier vastgelegde prijs per kWh, ongeveer 40 % van het totaal; de enige component die aan concurrentie onderworpen is en de enige waarop energiedeling inwerkt."
+  alias:
+    fr: ["composante énergie pure", "composante de l'énergie"]
+    en: ["pure energy component"]
+    de: ["reine Energiekomponente"]
+    nl: ["pure energiecomponent"]
+
 - slug: compteur-communicant
   categorie: mesure
   tags: [compteur, data, releve]
@@ -960,6 +981,48 @@
     de: []
     nl: []
 
+- slug: tarification-dynamique
+  categorie: marche
+  tags: [prix, contrat, flexibilite]
+  source_nom: CREG
+  source_url: "https://www.creg.be/fr/consommateurs/le-marche-de-lenergie"
+  terme:
+    fr: "Tarification dynamique"
+    en: "Dynamic pricing"
+    de: "Dynamische Tarifierung"
+    nl: "Dynamische tarifering"
+  definition:
+    fr: "Contrat dont le prix de l'électricité suit les prix horaires du marché de gros : avantageux pour qui déplace réellement ses consommations, plus risqué sinon. Requiert un compteur communicant."
+    en: "A contract whose electricity price follows hourly wholesale market prices: advantageous for anyone who genuinely shifts consumption, riskier otherwise. Requires a smart meter."
+    de: "Vertrag, dessen Strompreis den Stundenpreisen des Großhandelsmarktes folgt: vorteilhaft für jene, die ihren Verbrauch wirklich verschieben, andernfalls riskanter. Erfordert einen intelligenten Zähler."
+    nl: "Contract waarvan de elektriciteitsprijs de uurprijzen van de groothandelsmarkt volgt: voordelig voor wie zijn verbruik echt verschuift, anders risicovoller. Vereist een communicerende meter."
+  alias:
+    fr: ["tarif dynamique", "contrat dynamique"]
+    en: ["dynamic tariff", "dynamic contract"]
+    de: ["dynamischer Tarif", "dynamischer Vertrag"]
+    nl: ["dynamisch tarief", "dynamisch contract"]
+
+- slug: tarification-incitative
+  categorie: reseau
+  tags: [tarif, reseau, wallonie, flexibilite]
+  source_nom: CWaPE
+  source_url: "https://www.cwape.be/documents-recents/communique-de-presse-tarifs-periodiques-de-distribution-delectricite-dores-resa"
+  terme:
+    fr: "Tarification incitative"
+    en: "Incentive network pricing"
+    de: "Anreiztarifierung"
+    nl: "Incentiverende tarifering"
+  definition:
+    fr: "Structure de tarif de réseau wallonne disponible dès 2026, qui module le terme proportionnel selon des bandes horaires (ECO, MEDIUM, PIC) pour décourager les pointes de consommation. Optionnelle, réversible, réservée aux compteurs communicants — commercialisée par ORES sous le nom de tarif Impact."
+    en: "The Walloon network tariff structure available from 2026, which varies the proportional term across time bands (ECO, MEDIUM, PIC) to discourage consumption peaks. Optional, reversible, restricted to smart meters — marketed by ORES as the Impact tariff."
+    de: "Die ab 2026 verfügbare wallonische Netztarifstruktur, die den proportionalen Term nach Zeitbändern (ECO, MEDIUM, PIC) staffelt, um Verbrauchsspitzen zu vermeiden. Optional, umkehrbar, intelligenten Zählern vorbehalten — von ORES als Impact-Tarif vermarktet."
+    nl: "Waalse nettariefstructuur die vanaf 2026 beschikbaar is en de proportionele term moduleert volgens uurblokken (ECO, MEDIUM, PIC) om verbruikspieken te ontraden. Optioneel, omkeerbaar, voorbehouden aan digitale meters — door ORES gecommercialiseerd als Impact-tarief."
+  alias:
+    fr: ["tarif Impact", "tarif incitatif"]
+    en: ["Impact tariff"]
+    de: ["Impact-Tarif"]
+    nl: ["Impact-tarief"]
+
 - slug: taux-d-autoconsommation
   categorie: autoconsommation
   tags: [kpi, production, consommation]
@@ -1022,6 +1085,27 @@
     en: ["levies"]
     de: ["Abgaben"]
     nl: ["belastingen", "taksen"]
+
+- slug: terme-capacitaire
+  categorie: reseau
+  tags: [tarif, reseau, puissance, pointe]
+  source_nom: Fluvius
+  source_url: "https://www.fluvius.be/nl/factuur-en-tarieven/capaciteitstarief"
+  terme:
+    fr: "Terme capacitaire"
+    en: "Capacity term"
+    de: "Kapazitätsterm"
+    nl: "Capaciteitstarief"
+  definition:
+    fr: "Part du tarif de réseau calculée sur la puissance appelée plutôt que sur les kWh consommés. En Flandre, il se base sur la pointe la plus élevée d'un quart d'heure du mois, avec un plancher de 2,5 kW ; à Bruxelles, il est lié à la puissance de raccordement."
+    en: "The part of the network tariff calculated on the power drawn rather than on the kWh consumed. In Flanders it is based on the highest quarter-hour peak of the month, with a 2.5 kW floor; in Brussels it is tied to connection capacity."
+    de: "Der Teil des Netztarifs, der auf die abgerufene Leistung statt auf die verbrauchten kWh berechnet wird. In Flandern beruht er auf der höchsten Viertelstundenspitze des Monats, mit einer Untergrenze von 2,5 kW; in Brüssel ist er an die Anschlussleistung gekoppelt."
+    nl: "Het deel van het nettarief dat wordt berekend op het gevraagde vermogen in plaats van op de verbruikte kWh. In Vlaanderen vertrekt het van de hoogste kwartierpiek van de maand, met een ondergrens van 2,5 kW; in Brussel is het gekoppeld aan het aansluitvermogen."
+  alias:
+    fr: ["tarif capacitaire", "terme de puissance"]
+    en: ["capacity tariff", "power term"]
+    de: ["Kapazitätstarif", "Leistungsterm"]
+    nl: ["capaciteitsterm", "vermogensterm"]
 
 - slug: tva
   categorie: facturation
