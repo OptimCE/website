@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Clé de répartition en Belgique : Wallonie, Bruxelles, Flandre"
+title: "Clé de répartition en Belgique : les 3 régions"
 date: 2026-05-19 10:00:00 +0200
 author: "Équipe OptimCE"
 excerpt: "Clé de répartition d'une communauté d'énergie : types CWaPE, BRUGEL, VREG, différences Wallonie / Bruxelles / Flandre et conseils pour choisir."
+description: "Types de clés reconnues par la CWaPE, BRUGEL et le VREG, ce qui change entre Wallonie, Bruxelles et Flandre, et comment choisir la vôtre."
 tags: [allocation-key, administrative]
 lang: fr
 ref: allocation-key-belgium
@@ -12,7 +13,12 @@ last_modified_at: 2026-07-20 10:00:00 +0200
 
 La **clé de répartition** est le rouage discret qui transforme une production locale d'électricité en avantage tangible pour chaque membre d'une communauté d'énergie. Elle décide, quart d'heure par quart d'heure, *qui reçoit combien* d'énergie partagée. Et c'est précisément là que la Belgique se complique : la Wallonie, Bruxelles et la Flandre n'ont pas adopté la même grille de clés standards, n'utilisent pas le même vocabulaire, et n'imposent pas les mêmes règles de validation.
 
-Cet article fait le tour des trois cadres régionaux — **CWaPE / ORES / RESA / AIEG** en Wallonie, **BRUGEL / Sibelga** à Bruxelles, **VREG / Fluvius** en Flandre — pour comparer ce qui est réellement permis dans chaque région et aider les gestionnaires de communauté à choisir une clé qui tienne dans le temps. Si vous découvrez la notion même de communauté d'énergie, commencez par notre article [« Communautés d'énergie en Belgique : CER, CEC, CEL expliqués »](/actualites/2026/05/11/communautes-energie-belgique/) — il pose le vocabulaire repris ici.
+Cet article fait le tour des trois cadres régionaux — **CWaPE / ORES / RESA / AIEG** en Wallonie, **BRUGEL / Sibelga** à Bruxelles, **VREG / Fluvius** en Flandre — pour comparer ce qui est réellement permis dans chaque région et aider les gestionnaires de communauté à choisir une clé qui tienne dans le temps. Si vous découvrez la notion même de communauté d'énergie, commencez par notre article [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/actualites/2026/05/11/communautes-energie-belgique/) — il pose le vocabulaire repris ici.
+
+<img src="/assets/images/diagrams/allocation-key-flow-fr.svg"
+     alt="Schéma en cinq étapes : données au quart d'heure, génération ou simulation, clé candidate, validation par les membres, transmission au gestionnaire de réseau."
+     width="800" height="330" loading="lazy" decoding="async"
+     style="width:100%;height:auto">
 
 ## Clé de répartition : rappel rapide
 
@@ -49,7 +55,7 @@ La communauté peut **proposer une clé alternative**, mais elle doit alors êtr
 
 C'est possible. Le **représentant de la communauté** introduit la demande auprès du GRD, les membres signent un **avenant à la convention de partage**, et le changement prend effet à la date convenue avec le gestionnaire de réseau. La page [ORES — Le partage d'énergie en pratique](https://www.ores.be/professionnel/en-pratique) détaille les modalités opérationnelles côté gestionnaire.
 
-Pour la procédure complète de création et la place de la clé dans la notification CWaPE, voyez notre guide [« Créer une communauté d'énergie en Wallonie : guide étape par étape »](/actualites/2026/05/11/creer-communaute-energie-wallonie/).
+Pour la procédure complète de création et la place de la clé dans la notification CWaPE, voyez notre guide [« Créer une communauté d'énergie en Wallonie »](/actualites/2026/05/11/creer-communaute-energie-wallonie/).
 
 ## Le cadre bruxellois : méthodes fixe, prorata et hybride
 
@@ -129,7 +135,7 @@ Les clés **fixes** offrent une lecture immédiate : « j'ai droit à X % du par
 
 Les **trois régions autorisent la modification** d'une clé après le démarrage. En Wallonie, l'avenant à la convention + le passage par le GRD prennent quelques semaines ; à Bruxelles et en Flandre, la modification est annoncée par le point de contact unique au gestionnaire de réseau. Évitez les clés trop rigides au lancement : prévoyez d'emblée une revue annuelle en assemblée générale.
 
-La clé décide **combien de kWh** reviennent à chaque membre ; elle ne dit rien de **combien d'euros** ils valent. Cette seconde décision — le prix appliqué à l'énergie partagée — se prend séparément, dans la même convention : voir [« Prix de l'électricité en communauté d'énergie : comment fixer le prix de cession interne »](/actualites/2026/07/20/prix-electricite-communaute-energie/).
+La clé décide **combien de kWh** reviennent à chaque membre ; elle ne dit rien de **combien d'euros** ils valent. Cette seconde décision — le prix appliqué à l'énergie partagée — se prend séparément, dans la même convention : voir [« Prix de cession interne en communauté d'énergie »](/actualites/2026/07/20/prix-electricite-communaute-energie/).
 
 ### Quatre cas pratiques typiques
 
@@ -150,7 +156,7 @@ C'est précisément ce qu'**OptimCE** outille au cœur de l'application. Le **mo
 - **Suivre l'historique** complet des clés appliquées au fil du temps — utile pour les avenants, les recalculs en cas de litige et le rapportage régulateur.
 - **Tracer le statut d'acceptation** de chaque membre face à une nouvelle clé : qui a signé l'avenant, qui n'a pas encore validé, qui a refusé.
 
-Le **module de génération automatique** est désormais disponible : à partir des **données réelles de production et de consommation** des membres, il propose des clés candidates optimisées — via un **brute force** sur les clés standards régionales et via **LOGAAS**, une approche par algorithme génétique développée par **CeCoTePe** dans le cadre du projet de recherche **Locomotrice**. Voir notre guide dédié : [« Générer automatiquement une clé de répartition optimale avec OptimCE »](/actualites/2026/05/26/generer-cle-repartition-optimale-optimce/).
+Le **module de génération automatique** est désormais disponible : à partir des **données réelles de production et de consommation** des membres, il propose des clés candidates optimisées — via un **brute force** sur les clés standards régionales et via **LOGAAS**, une approche par algorithme génétique développée par **CeCoTePe** dans le cadre du projet de recherche **Locomotrice**. Voir notre guide dédié : [« Générer une clé de répartition optimale »](/actualites/2026/05/26/generer-cle-repartition-optimale-optimce/).
 
 > ### Pilotez vos clés de répartition avec OptimCE
 >
@@ -196,19 +202,19 @@ Le choix d'une clé n'est pas une question technique : c'est un choix politique 
 
 Pour aller plus loin, consultez nos guides :
 
-> **[Générer automatiquement une clé de répartition optimale avec OptimCE](/actualites/2026/05/26/generer-cle-repartition-optimale-optimce/)**
+> **[Générer une clé de répartition optimale](/actualites/2026/05/26/generer-cle-repartition-optimale-optimce/)**
 >
 > Le prolongement pratique — comment le brute force et LOGAAS trouvent la meilleure clé de répartition à partir des données réelles de production et de consommation d'une communauté.
 
-> **[Communautés d'énergie en Belgique : CER, CEC, CEL expliqués](/actualites/2026/05/11/communautes-energie-belgique/)**
+> **[Communautés d'énergie en Belgique : CER, CEC, CEL](/actualites/2026/05/11/communautes-energie-belgique/)**
 >
 > Le panorama complet des formes juridiques, des directives européennes et du fonctionnement opérationnel du partage d'énergie en Belgique.
 
-> **[Créer une communauté d'énergie en Wallonie : guide étape par étape](/actualites/2026/05/11/creer-communaute-energie-wallonie/)**
+> **[Créer une communauté d'énergie en Wallonie](/actualites/2026/05/11/creer-communaute-energie-wallonie/)**
 >
 > Choix entre CER et CEC, cadrage du projet, notification à la CWaPE, accusé de réception et démarrage du partage avec ORES, RESA ou AIEG — dont la place de la clé de répartition dans le dossier.
 
-> **[Rejoindre une communauté d'énergie en Wallonie : guide pratique](/actualites/2026/05/11/rejoindre-communaute-energie-wallonie/)**
+> **[Rejoindre une communauté d'énergie en Wallonie](/actualites/2026/05/11/rejoindre-communaute-energie-wallonie/)**
 >
 > Où trouver une opération ouverte, démarches d'adhésion, points de vigilance avant de signer la convention de partage.
 

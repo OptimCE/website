@@ -28,7 +28,7 @@
   definition:
     fr: "Droits d'accise dus sur l'électricité ; sur les kWh partagés, ils figurent sur la facture émise par le représentant du partage."
     en: "Excise duties due on electricity; on shared kWh, they appear on the invoice issued by the sharing representative."
-    de: "Auf Elektrizität geschuldete Akzisen; auf den geteilten kWh erscheinen sie auf der vom Vertreter der Energieteilung ausgestellten Rechnung."
+    de: "Auf Strom geschuldete Akzisen; auf den geteilten kWh erscheinen sie auf der vom Vertreter der Energieteilung ausgestellten Rechnung."
     nl: "Op elektriciteit verschuldigde accijnzen; op de gedeelde kWh verschijnen ze op de door de vertegenwoordiger van het energiedelen uitgereikte factuur."
   alias:
     fr: ["droit d'accise", "droits d'accise"]
@@ -68,10 +68,10 @@
     de: "Eigenverbrauch"
     nl: "Zelfverbruik"
   definition:
-    fr: "Fait de consommer sa propre production d'électricité."
-    en: "Consuming the electricity that you generate yourself."
-    de: "Verbrauch des selbst erzeugten Stroms."
-    nl: "Het verbruiken van de zelf opgewekte elektriciteit."
+    fr: "Fait de consommer sa propre production d'électricité au lieu de l'injecter sur le réseau. C'est le poste le plus rentable d'une installation, puisque le kWh autoconsommé évite l'achat au prix de détail complet."
+    en: "Consuming your own electricity generation instead of feeding it into the grid. It is the most profitable use of an installation, since a self-consumed kWh avoids buying one at the full retail price."
+    de: "Der Verbrauch des selbst erzeugten Stroms, statt ihn ins Netz einzuspeisen. Das ist der rentabelste Posten einer Anlage, denn eine selbst verbrauchte kWh erspart den Einkauf zum vollen Endkundenpreis."
+    nl: "Het verbruiken van je eigen elektriciteitsproductie in plaats van ze op het net te injecteren. Dat is de rendabelste post van een installatie: een zelf verbruikte kWh vermijdt aankoop tegen de volle detailhandelsprijs."
   alias:
     fr: []
     en: ["self consumption"]
@@ -89,10 +89,10 @@
     de: "Kollektiver Eigenverbrauch"
     nl: "Collectief zelfverbruik"
   definition:
-    fr: "Autoconsommation réalisée à plusieurs, généralement dans un cadre partagé."
-    en: "Self-consumption carried out by several participants, usually within a shared setting."
-    de: "Eigenverbrauch durch mehrere Teilnehmer, in der Regel in einem gemeinsamen Rahmen."
-    nl: "Zelfverbruik dat door meerdere deelnemers samen wordt gerealiseerd, doorgaans in een gedeeld kader."
+    fr: "Autoconsommation réalisée à plusieurs, au sein d'un même bâtiment ou d'un périmètre défini. Elle relève d'un cadre réglementaire distinct de l'autoconsommation individuelle et suppose une clé de répartition entre participants."
+    en: "Self-consumption carried out by several parties, within one building or a defined perimeter. It falls under a regulatory framework distinct from individual self-consumption and requires an allocation key between participants."
+    de: "Eigenverbrauch durch mehrere Beteiligte, innerhalb eines Gebäudes oder eines definierten Umkreises. Er unterliegt einem eigenen Regelwerk und setzt einen Aufteilungsschlüssel zwischen den Teilnehmern voraus."
+    nl: "Zelfverbruik met meerdere partijen, binnen één gebouw of een afgebakende perimeter. Het valt onder een eigen regelgevend kader en vereist een verdeelsleutel tussen de deelnemers."
   alias:
     fr: []
     en: []
@@ -110,10 +110,10 @@
     de: "Genehmigung"
     nl: "Toelating"
   definition:
-    fr: "Validation ou permission requise pour certaines activités ou structures."
-    en: "The approval or permission required for certain activities or structures."
-    de: "Erforderliche Genehmigung oder Erlaubnis für bestimmte Tätigkeiten oder Strukturen."
-    nl: "Vereiste goedkeuring of toestemming voor bepaalde activiteiten of structuren."
+    fr: "Accord préalable du régulateur requis lorsqu'une communauté sort du cadre standard, notamment pour une clé de répartition qui n'appartient pas aux familles reconnues dans sa région."
+    en: "Prior approval from the regulator, required when a community steps outside the standard framework — in particular for an allocation key that does not belong to the families recognised in its region."
+    de: "Vorherige Genehmigung des Regulators, erforderlich wenn eine Gemeinschaft den Standardrahmen verlässt — insbesondere für einen Aufteilungsschlüssel außerhalb der in ihrer Region anerkannten Familien."
+    nl: "Voorafgaande goedkeuring van de regulator, vereist wanneer een gemeenschap buiten het standaardkader treedt — met name voor een verdeelsleutel die niet tot de in haar gewest erkende families behoort."
   alias:
     fr: []
     en: ["authorization"]
@@ -131,10 +131,10 @@
     de: "BRUGEL"
     nl: "BRUGEL"
   definition:
-    fr: "Régulateur bruxellois de l'électricité et du gaz."
-    en: "The Brussels regulator for electricity and gas."
-    de: "Brüsseler Regulierungsbehörde für Strom und Gas."
-    nl: "Brusselse regulator voor elektriciteit en gas."
+    fr: "Régulateur bruxellois des marchés de l'électricité et du gaz. Il définit les méthodes de répartition admises en Région de Bruxelles-Capitale et supervise les communautés d'énergie qui y opèrent."
+    en: "The Brussels regulator for the electricity and gas markets. It defines the allocation methods permitted in the Brussels-Capital Region and supervises the energy communities operating there."
+    de: "Brüsseler Regulierungsbehörde für die Strom- und Gasmärkte. Sie legt die in der Region Brüssel-Hauptstadt zulässigen Aufteilungsmethoden fest und beaufsichtigt die dort tätigen Energiegemeinschaften."
+    nl: "De Brusselse regulator voor de elektriciteits- en gasmarkt. Hij bepaalt welke verdeelmethodes in het Brussels Hoofdstedelijk Gewest zijn toegelaten en houdt toezicht op de energiegemeenschappen die er actief zijn."
   alias:
     fr: []
     en: []
@@ -152,10 +152,10 @@
     de: "CE"
     nl: "CE"
   definition:
-    fr: "Abréviation générique de communauté d'énergie."
-    en: "Generic abbreviation for energy community."
-    de: "Allgemeine Abkürzung für Energiegemeinschaft."
-    nl: "Algemene afkorting voor energiegemeenschap."
+    fr: "Abréviation générique de communauté d'énergie, qui recouvre les différents statuts juridiques existants — CER, CEC ou CEL selon la directive européenne d'origine et la région belge concernée."
+    en: "Generic abbreviation for energy community, covering the different legal statuses that exist — REC, CEC or LEC, depending on the originating European directive and the Belgian region concerned."
+    de: "Allgemeine Abkürzung für Energiegemeinschaft; sie umfasst die verschiedenen bestehenden Rechtsformen — EEG, BEG oder LEG, je nach zugrunde liegender europäischer Richtlinie und betroffener belgischer Region."
+    nl: "Algemene afkorting voor energiegemeenschap, die de verschillende bestaande rechtsvormen dekt — HEG, BEG of LEG, naargelang de onderliggende Europese richtlijn en het betrokken Belgische gewest."
   alias:
     fr: ["communauté d'énergie"]
     en: ["energy community"]
@@ -173,10 +173,10 @@
     de: "CEC"
     nl: "CEC"
   definition:
-    fr: "Communauté d'énergie citoyenne."
-    en: "Citizen energy community (CEC)."
-    de: "Bürgerenergiegemeinschaft."
-    nl: "Burgerenergiegemeenschap."
+    fr: "Communauté d'énergie citoyenne, au sens de la directive européenne sur le marché intérieur de l'électricité. Neutre sur le plan technologique mais limitée à l'électricité, elle n'impose aucun critère de proximité géographique."
+    en: "Citizen energy community, as defined by the European internal electricity market directive. Technology-neutral but limited to electricity, it imposes no geographic proximity requirement on its members."
+    de: "Bürgerenergiegemeinschaft im Sinne der europäischen Strombinnenmarktrichtlinie. Technologieneutral, aber auf Strom beschränkt — ein geografisches Näheerfordernis besteht für ihre Mitglieder nicht."
+    nl: "Burgerenergiegemeenschap in de zin van de Europese elektriciteitsmarktrichtlijn. Technologieneutraal maar beperkt tot elektriciteit, en zonder geografisch nabijheidsvereiste voor haar leden."
   alias:
     fr: ["communauté d'énergie citoyenne"]
     en: ["citizen energy community"]
@@ -194,10 +194,10 @@
     de: "CEL"
     nl: "CEL"
   definition:
-    fr: "Communauté d'énergie locale, utilisée dans le contexte bruxellois."
-    en: "Local energy community, a term used in the Brussels context."
-    de: "Lokale Energiegemeinschaft, im Brüsseler Kontext verwendet."
-    nl: "Lokale energiegemeenschap, gebruikt in de Brusselse context."
+    fr: "Communauté d'énergie locale, statut propre au cadre bruxellois. Elle permet le partage d'électricité entre participants situés dans un périmètre local défini par la réglementation régionale, sous le contrôle de BRUGEL."
+    en: "Local energy community, a status specific to the Brussels framework. It allows electricity sharing between participants inside a local perimeter set by regional rules, under BRUGEL's supervision."
+    de: "Lokale Energiegemeinschaft, ein Status des Brüsseler Rahmens. Sie erlaubt die Stromteilung zwischen Teilnehmern innerhalb eines regional festgelegten lokalen Umkreises, unter Aufsicht von BRUGEL."
+    nl: "Lokale energiegemeenschap, een statuut eigen aan het Brusselse kader. Ze laat elektriciteitsdeling toe tussen deelnemers binnen een gewestelijk bepaalde lokale perimeter, onder toezicht van BRUGEL."
   alias:
     fr: ["communauté d'énergie locale"]
     en: ["local energy community"]
@@ -215,10 +215,10 @@
     de: "CER"
     nl: "CER"
   definition:
-    fr: "Communauté d'énergie renouvelable."
-    en: "Renewable energy community (REC)."
-    de: "Erneuerbare-Energie-Gemeinschaft."
-    nl: "Hernieuwbare-energiegemeenschap."
+    fr: "Communauté d'énergie renouvelable, au sens de la directive européenne RED II. Elle ne porte que sur l'énergie renouvelable et ses membres doivent se situer à proximité des installations de production détenues par la communauté."
+    en: "Renewable energy community, as defined by the European RED II directive. It covers renewable energy only, and its members must be located in proximity to the generation assets the community owns."
+    de: "Erneuerbare-Energien-Gemeinschaft im Sinne der europäischen Richtlinie RED II. Sie betrifft ausschließlich erneuerbare Energie, und ihre Mitglieder müssen sich in der Nähe der gemeinschaftseigenen Erzeugungsanlagen befinden."
+    nl: "Hernieuwbare-energiegemeenschap in de zin van de Europese richtlijn RED II. Ze betreft uitsluitend hernieuwbare energie en haar leden moeten zich in de nabijheid van de eigen productie-installaties bevinden."
   alias:
     fr: ["communauté d'énergie renouvelable"]
     en: ["renewable energy community", "REC"]
@@ -257,14 +257,18 @@
     de: "Aufteilungsschlüssel"
     nl: "Verdeelsleutel"
   definition:
-    fr: "Règle qui détermine comment l'énergie partagée est répartie entre participants."
-    en: "Rule that determines how shared energy is distributed among participants."
-    de: "Regel, die festlegt, wie die geteilte Energie unter den Teilnehmern aufgeteilt wird."
-    nl: "Regel die bepaalt hoe de gedeelde energie onder de deelnemers wordt verdeeld."
+    fr: "Règle qui détermine comment l'énergie partagée est répartie entre participants, appliquée au quart d'heure sur les relevés réels. Chaque région belge reconnaît ses propres familles de clés standards."
+    en: "The rule determining how shared energy is split between participants, applied quarter-hour by quarter-hour to actual meter readings. Each Belgian region recognises its own families of standard keys."
+    de: "Regel, die festlegt, wie die geteilte Energie unter den Teilnehmern aufgeteilt wird — viertelstundengenau auf Basis der realen Messwerte. Jede belgische Region erkennt eigene Familien von Standardschlüsseln an."
+    nl: "Regel die bepaalt hoe de gedeelde energie onder de deelnemers wordt verdeeld, kwartier per kwartier toegepast op de echte meterstanden. Elk Belgisch gewest erkent zijn eigen families van standaardsleutels."
   alias:
     fr: ["clé de répartition", "clef de repartition"]
     en: ["repartition key", "distribution key"]
-    de: ["Verteilschlüssel"]
+    # Canonical term is "Aufteilungsschlüssel" (see `terme.de`) — the wording in
+    # Austrian law (ElWOG 2010 §16e) and on energiegemeinschaften.gv.at. The two
+    # aliases are the variants Belgian and German DSOs also use; they stay here
+    # so the autolink filter still matches them wherever they survive in text.
+    de: ["Verteilungsschlüssel", "Verteilschlüssel"]
     nl: ["verdeelsleutel"]
 
 - slug: communaute
@@ -320,10 +324,10 @@
     de: "Intelligenter Zähler"
     nl: "Communicerende meter"
   definition:
-    fr: "Compteur capable de relever et transmettre des données de consommation."
-    en: "A meter able to read and transmit consumption data."
-    de: "Zähler, der Verbrauchsdaten erfassen und übermitteln kann."
-    nl: "Meter die verbruiksgegevens kan uitlezen en doorsturen."
+    fr: "Compteur capable de relever et transmettre la consommation au quart d'heure. Il est la condition technique du partage d'énergie : sans données à ce pas de temps, aucune clé de répartition ne peut être appliquée."
+    en: "A meter able to record and transmit consumption in quarter-hourly steps. It is the technical precondition for energy sharing: without data at that granularity, no allocation key can be applied."
+    de: "Zähler, der den Verbrauch viertelstündlich erfassen und übermitteln kann. Er ist die technische Voraussetzung der Energieteilung: Ohne Daten in diesem Zeitraster lässt sich kein Aufteilungsschlüssel anwenden."
+    nl: "Meter die het verbruik per kwartier kan registreren en doorsturen. Hij is de technische voorwaarde voor energiedelen: zonder data op dat tijdsinterval kan geen enkele verdeelsleutel worden toegepast."
   alias:
     fr: ["compteur intelligent"]
     en: ["communicating meter"]
@@ -343,7 +347,7 @@
   definition:
     fr: "Contrat entre les participants d'un partage d'énergie fixant leurs droits et obligations, dont la clé de répartition et le prix de l'électricité partagée."
     en: "Contract between the participants in an energy-sharing scheme setting out their rights and obligations, including the allocation key and the price of the shared electricity."
-    de: "Vertrag zwischen den Teilnehmern einer Energieteilung, der ihre Rechte und Pflichten festlegt, einschließlich Verteilungsschlüssel und Preis der geteilten Elektrizität."
+    de: "Vertrag zwischen den Teilnehmern einer Energieteilung, der ihre Rechte und Pflichten festlegt, einschließlich Aufteilungsschlüssel und Preis des geteilten Stroms."
     nl: "Overeenkomst tussen de deelnemers aan energiedelen die hun rechten en plichten vastlegt, met inbegrip van de verdeelsleutel en de prijs van de gedeelde elektriciteit."
   alias:
     fr: ["convention de partage d'énergie", "contrat de partage"]
@@ -362,10 +366,10 @@
     de: "Genossenschaft"
     nl: "Coöperatie"
   definition:
-    fr: "Structure coopérative souvent utilisée pour porter des projets énergétiques locaux."
-    en: "A cooperative structure often used to run local energy projects."
-    de: "Genossenschaftliche Struktur, die häufig für lokale Energieprojekte genutzt wird."
-    nl: "Coöperatieve structuur die vaak wordt gebruikt om lokale energieprojecten te dragen."
+    fr: "Structure à capital variable et gouvernance démocratique, souvent retenue pour porter une communauté d'énergie. Le principe « une personne, une voix » répond directement à l'exigence européenne de contrôle effectif par les membres."
+    en: "A structure with variable capital and democratic governance, often chosen to host an energy community. The \"one person, one vote\" principle answers the European requirement of effective control by members."
+    de: "Struktur mit veränderlichem Kapital und demokratischer Governance, häufig als Träger einer Energiegemeinschaft gewählt. Das Prinzip „eine Person, eine Stimme\" erfüllt unmittelbar die europäische Anforderung der tatsächlichen Mitgliederkontrolle."
+    nl: "Structuur met veranderlijk kapitaal en democratisch bestuur, vaak gekozen om een energiegemeenschap te dragen. Het principe „één persoon, één stem\" beantwoordt rechtstreeks aan de Europese eis van daadwerkelijke zeggenschap door de leden."
   alias:
     fr: ["coop"]
     en: ["co-op"]
@@ -383,10 +387,10 @@
     de: "CWaPE"
     nl: "CWaPE"
   definition:
-    fr: "Commission wallonne pour l'Énergie, régulateur wallon du marché de l'énergie."
-    en: "Walloon Energy Commission, the Walloon energy-market regulator."
-    de: "Wallonische Energiekommission, Regulierungsbehörde für den wallonischen Energiemarkt."
-    nl: "Waalse Energiecommissie, regulator van de Waalse energiemarkt."
+    fr: "Commission wallonne pour l'énergie, régulateur du marché wallon. Elle définit les familles de clés de répartition standards, reçoit la notification des communautés d'énergie et autorise les clés non standards."
+    en: "The Walloon energy regulator. It defines the families of standard allocation keys, receives the notification of energy communities, and authorises non-standard keys."
+    de: "Wallonische Energieregulierungsbehörde. Sie definiert die Familien der Standard-Aufteilungsschlüssel, nimmt die Meldung von Energiegemeinschaften entgegen und genehmigt nicht standardisierte Schlüssel."
+    nl: "De Waalse energieregulator. Hij bepaalt de families van standaardverdeelsleutels, ontvangt de melding van energiegemeenschappen en verleent vergunning voor niet-standaardsleutels."
   alias:
     fr: ["Commission wallonne pour l'Énergie"]
     en: ["Walloon Energy Commission"]
@@ -404,10 +408,10 @@
     de: "Lokale Energie"
     nl: "Lokale energie"
   definition:
-    fr: "Énergie produite et consommée à l'échelle d'un territoire proche."
-    en: "Energy produced and consumed within a nearby area."
-    de: "Energie, die im Umkreis eines nahen Gebiets erzeugt und verbraucht wird."
-    nl: "Energie die op de schaal van een nabijgelegen gebied wordt geproduceerd en verbruikt."
+    fr: "Énergie produite et consommée à l'échelle d'un territoire proche, sans transiter par le réseau de transport. La proximité est un critère juridique pour les communautés d'énergie renouvelable, pas seulement une intention."
+    en: "Energy produced and consumed within a nearby area, without passing through the transmission grid. Proximity is a legal criterion for renewable energy communities, not merely an intention."
+    de: "Energie, die im nahen Umfeld erzeugt und verbraucht wird, ohne das Übertragungsnetz zu durchlaufen. Nähe ist für Erneuerbare-Energien-Gemeinschaften ein Rechtskriterium, nicht bloß eine Absicht."
+    nl: "Energie die op korte afstand wordt geproduceerd en verbruikt, zonder via het transmissienet te passeren. Nabijheid is voor hernieuwbare-energiegemeenschappen een juridisch criterium, niet louter een intentie."
   alias:
     fr: []
     en: []
@@ -488,10 +492,10 @@
     de: "Fluvius"
     nl: "Fluvius"
   definition:
-    fr: "Gestionnaire de réseau de distribution en Flandre."
-    en: "Distribution system operator in Flanders."
-    de: "Verteilernetzbetreiber in Flandern."
-    nl: "Distributienetbeheerder in Vlaanderen."
+    fr: "Gestionnaire du réseau de distribution pour l'ensemble de la Flandre. Il fournit les données de comptage au quart d'heure et applique les verdeelsleutels reconnus par le régulateur flamand VREG."
+    en: "The distribution system operator for the whole of Flanders. It supplies the quarter-hourly metering data and applies the allocation keys recognised by the Flemish regulator VREG."
+    de: "Verteilnetzbetreiber für ganz Flandern. Er liefert die viertelstündlichen Messdaten und wendet die vom flämischen Regulator VREG anerkannten Aufteilungsschlüssel an."
+    nl: "Distributienetbeheerder voor heel Vlaanderen. Hij levert de kwartierwaarden en past de verdeelsleutels toe die door de Vlaamse regulator VREG erkend zijn."
   alias:
     fr: []
     en: []
@@ -509,10 +513,10 @@
     de: "Lieferant"
     nl: "Leverancier"
   definition:
-    fr: "Entreprise qui vend l'énergie au client final."
-    en: "A company that sells energy to the end customer."
-    de: "Unternehmen, das Energie an den Endkunden verkauft."
-    nl: "Onderneming die energie verkoopt aan de eindklant."
+    fr: "Entreprise qui vend l'énergie au client final et lui facture sa consommation résiduelle. Dans un partage d'énergie, sa facture coexiste avec celle émise par le représentant du partage."
+    en: "The company that sells energy to the final customer and bills their residual consumption. In an energy-sharing setup, its invoice coexists with the one issued by the sharing representative."
+    de: "Unternehmen, das dem Endkunden Energie verkauft und dessen Restverbrauch abrechnet. Bei der Energieteilung besteht seine Rechnung neben derjenigen des Vertreters der Teilungsoperation."
+    nl: "Bedrijf dat energie verkoopt aan de eindafnemer en zijn restverbruik factureert. Bij energiedelen bestaat zijn factuur naast die van de vertegenwoordiger van de deelactie."
   alias:
     fr: ["fournisseur d'énergie"]
     en: ["energy supplier"]
@@ -523,7 +527,7 @@
   categorie: gouvernance
   tags: [organisation, regles, communaute]
   source_nom: OptimCE
-  source_url: "https://www.optimce.be/en/about/"
+  source_ref: about
   terme:
     fr: "Gouvernance"
     en: "Governance"
@@ -551,10 +555,10 @@
     de: "GRD"
     nl: "GRD"
   definition:
-    fr: "Gestionnaire du réseau de distribution."
-    en: "Distribution system operator (DSO)."
-    de: "Verteilernetzbetreiber (VNB)."
-    nl: "Distributienetbeheerder (DNB)."
+    fr: "Gestionnaire du réseau de distribution : l'entreprise responsable du réseau basse et moyenne tension jusqu'au compteur. C'est lui qui relève les données au quart d'heure et applique la clé de répartition."
+    en: "Distribution system operator: the company responsible for the low- and medium-voltage grid up to the meter. It collects the quarter-hourly data and applies the allocation key."
+    de: "Verteilnetzbetreiber: das Unternehmen, das für das Nieder- und Mittelspannungsnetz bis zum Zähler zuständig ist. Er erhebt die viertelstündlichen Messwerte und wendet den Aufteilungsschlüssel an."
+    nl: "Distributienetbeheerder: het bedrijf dat verantwoordelijk is voor het laag- en middenspanningsnet tot aan de meter. Hij leest de kwartierwaarden uit en past de verdeelsleutel toe."
   alias:
     fr: ["gestionnaire de réseau de distribution"]
     en: ["distribution system operator", "DSO"]
@@ -572,10 +576,10 @@
     de: "GRT"
     nl: "GRT"
   definition:
-    fr: "Gestionnaire du réseau de transport."
-    en: "Transmission system operator (TSO)."
-    de: "Übertragungsnetzbetreiber (ÜNB)."
-    nl: "Transmissienetbeheerder (TNB)."
+    fr: "Gestionnaire du réseau de transport : l'entreprise responsable du réseau haute tension qui achemine l'électricité jusqu'aux réseaux de distribution. En Belgique, ce rôle est assuré par Elia."
+    en: "Transmission system operator: the company responsible for the high-voltage grid that carries electricity to the distribution networks. In Belgium this role is held by Elia."
+    de: "Übertragungsnetzbetreiber: das Unternehmen, das für das Hochspannungsnetz zuständig ist, welches den Strom zu den Verteilnetzen transportiert. In Belgien nimmt Elia diese Rolle wahr."
+    nl: "Transmissienetbeheerder: het bedrijf dat instaat voor het hoogspanningsnet dat elektriciteit naar de distributienetten brengt. In België wordt die rol vervuld door Elia."
   alias:
     fr: ["gestionnaire de réseau de transport"]
     en: ["transmission system operator", "TSO"]
@@ -593,10 +597,10 @@
     de: "Einspeisung"
     nl: "Injectie"
   definition:
-    fr: "Énergie renvoyée vers le réseau après consommation locale."
-    en: "Energy fed back into the grid after local consumption."
-    de: "Energie, die nach dem lokalen Verbrauch ins Netz zurückgespeist wird."
-    nl: "Energie die na lokaal verbruik terug op het net wordt gezet."
+    fr: "Énergie renvoyée vers le réseau lorsque la production locale dépasse la consommation instantanée. Elle est rémunérée au tarif d'injection, généralement bien inférieur au prix de détail de l'électricité."
+    en: "Energy sent back to the grid when local generation exceeds instantaneous consumption. It is paid at the injection tariff, generally far below the retail price of electricity."
+    de: "Energie, die ins Netz zurückgespeist wird, wenn die lokale Erzeugung den momentanen Verbrauch übersteigt. Sie wird zum Einspeisetarif vergütet, der in der Regel deutlich unter dem Endkundenpreis liegt."
+    nl: "Energie die naar het net wordt teruggestuurd wanneer de lokale productie het momentane verbruik overtreft. Ze wordt vergoed tegen het injectietarief, doorgaans ver onder de detailhandelsprijs."
   alias:
     fr: []
     en: ["grid injection"]
@@ -607,7 +611,7 @@
   categorie: technique
   tags: [algorithme, calcul, optimisation]
   source_nom: OptimCE
-  source_url: "https://www.optimce.be/en/about/"
+  source_ref: about
   terme:
     fr: "Itération"
     en: "Iteration"
@@ -635,10 +639,10 @@
     de: "Mitglied"
     nl: "Lid"
   definition:
-    fr: "Personne ou entité participante à une communauté d'énergie."
-    en: "A person or entity taking part in an energy community."
-    de: "Person oder Einheit, die an einer Energiegemeinschaft teilnimmt."
-    nl: "Persoon of entiteit die deelneemt aan een energiegemeenschap."
+    fr: "Personne ou entité qui adhère à une communauté d'énergie et participe à sa gouvernance. Les directives européennes réservent le contrôle effectif aux personnes physiques, autorités locales et petites entreprises."
+    en: "A person or entity that joins an energy community and takes part in its governance. The European directives reserve effective control to natural persons, local authorities and small enterprises."
+    de: "Person oder Einrichtung, die einer Energiegemeinschaft beitritt und an ihrer Governance teilnimmt. Die europäischen Richtlinien behalten die tatsächliche Kontrolle natürlichen Personen, lokalen Behörden und Kleinunternehmen vor."
+    nl: "Persoon of entiteit die toetreedt tot een energiegemeenschap en deelneemt aan haar bestuur. De Europese richtlijnen behouden de daadwerkelijke zeggenschap voor aan natuurlijke personen, lokale overheden en kleine ondernemingen."
   alias:
     fr: ["participant"]
     en: ["participant"]
@@ -656,10 +660,10 @@
     de: "Meldung"
     nl: "Kennisgeving"
   definition:
-    fr: "Déclaration préalable requise dans certains cadres réglementaires."
-    en: "A prior declaration required under certain regulatory frameworks."
-    de: "Vorherige Anzeige, die in bestimmten regulatorischen Rahmen erforderlich ist."
-    nl: "Voorafgaande aangifte die in bepaalde regelgevende kaders vereist is."
+    fr: "Déclaration préalable adressée au régulateur avant le démarrage d'une opération de partage. En Wallonie, la CWaPE en accuse réception, ce qui conditionne le lancement effectif du partage avec le GRD."
+    en: "Prior declaration filed with the regulator before a sharing operation starts. In Wallonia, CWaPE acknowledges receipt, and that acknowledgement conditions the actual launch of sharing with the grid operator."
+    de: "Vorherige Meldung an den Regulator vor dem Start einer Teilungsoperation. In der Wallonie bestätigt die CWaPE den Eingang; diese Bestätigung ist Voraussetzung für den tatsächlichen Start der Teilung mit dem Netzbetreiber."
+    nl: "Voorafgaande melding aan de regulator vóór de start van een deelactie. In Wallonië bevestigt de CWaPE de ontvangst, en die bevestiging is voorwaarde voor de effectieve start van het delen met de netbeheerder."
   alias:
     fr: []
     en: []
@@ -677,10 +681,10 @@
     de: "Energieteilung"
     nl: "Energiedeling"
   definition:
-    fr: "Répartition d'électricité entre participants d'une communauté ou d'un même bâtiment."
-    en: "Distribution of electricity among the participants of a community or a single building."
-    de: "Aufteilung von Strom unter den Teilnehmern einer Gemeinschaft oder eines Gebäudes."
-    nl: "Verdeling van elektriciteit onder de deelnemers van een gemeenschap of eenzelfde gebouw."
+    fr: "Répartition de l'électricité produite localement entre les participants d'une communauté ou d'un même bâtiment. C'est une opération administrative et tarifaire : les électrons continuent de circuler normalement sur le réseau."
+    en: "Splitting locally generated electricity between the participants of a community or a single building. It is an administrative and tariff operation: the electrons keep flowing across the grid exactly as before."
+    de: "Aufteilung des lokal erzeugten Stroms unter den Teilnehmern einer Gemeinschaft oder eines Gebäudes. Es handelt sich um einen administrativen und tariflichen Vorgang: Die Elektronen fließen weiterhin normal über das Netz."
+    nl: "Verdeling van lokaal opgewekte elektriciteit onder de deelnemers van een gemeenschap of één gebouw. Het is een administratieve en tarifaire operatie: de elektronen blijven gewoon over het net stromen."
   alias:
     fr: []
     en: []
@@ -719,10 +723,10 @@
     de: "Teilnehmer"
     nl: "Deelnemer"
   definition:
-    fr: "Personne ou entité qui prend part au partage d'énergie."
-    en: "A person or entity taking part in energy sharing."
-    de: "Person oder Einheit, die an der Energieteilung teilnimmt."
-    nl: "Persoon of entiteit die deelneemt aan de energiedeling."
+    fr: "Personne ou entité dont le point de fourniture est inclus dans une opération de partage. Être participant ne suppose pas nécessairement d'être membre de la structure juridique qui porte la communauté."
+    en: "A person or entity whose supply point is included in a sharing operation. Being a participant does not necessarily mean being a member of the legal structure behind the community."
+    de: "Person oder Einrichtung, deren Lieferstelle in eine Teilungsoperation einbezogen ist. Teilnehmer zu sein bedeutet nicht zwingend, Mitglied der tragenden Rechtsperson der Gemeinschaft zu sein."
+    nl: "Persoon of entiteit van wie het leveringspunt in een deelactie is opgenomen. Deelnemer zijn betekent niet noodzakelijk lid zijn van de rechtspersoon die de gemeenschap draagt."
   alias:
     fr: ["membre"]
     en: ["member"]
@@ -740,10 +744,10 @@
     de: "Juristische Person"
     nl: "Rechtspersoon"
   definition:
-    fr: "Entité juridique pouvant porter une communauté d'énergie."
-    en: "A legal entity that can host an energy community."
-    de: "Rechtssubjekt, das eine Energiegemeinschaft tragen kann."
-    nl: "Juridische entiteit die een energiegemeenschap kan dragen."
+    fr: "Entité juridique constituée, obligatoire pour porter une communauté d'énergie : les directives européennes l'exigent explicitement. En pratique, ASBL et coopérative sont les formes les plus courantes en Belgique."
+    en: "A constituted legal entity, mandatory to host an energy community: the European directives require it explicitly. In practice, the non-profit association and the cooperative are the commonest forms in Belgium."
+    de: "Gegründete Rechtsperson, zwingend erforderlich für eine Energiegemeinschaft — die europäischen Richtlinien verlangen dies ausdrücklich. In der Praxis sind Verein und Genossenschaft die häufigsten Formen in Belgien."
+    nl: "Opgerichte rechtspersoon, verplicht om een energiegemeenschap te dragen: de Europese richtlijnen eisen dat uitdrukkelijk. In de praktijk zijn de vzw en de coöperatie de meest voorkomende vormen in België."
   alias:
     fr: []
     en: ["legal person"]
@@ -761,10 +765,10 @@
     de: "Lieferstelle"
     nl: "Leveringspunt"
   definition:
-    fr: "Point contractuel de livraison de l'énergie à un client."
-    en: "The contractual point at which energy is delivered to a customer."
-    de: "Vertraglicher Punkt der Energielieferung an einen Kunden."
-    nl: "Contractueel punt waarop energie aan een klant wordt geleverd."
+    fr: "Point contractuel de livraison de l'énergie, identifié par un code EAN unique. C'est l'unité de base d'une opération de partage : la clé de répartition s'applique par point de fourniture, pas par personne."
+    en: "The contractual delivery point for energy, identified by a unique EAN code. It is the base unit of a sharing operation: the allocation key applies per supply point, not per person."
+    de: "Vertraglicher Lieferpunkt für Energie, identifiziert durch einen eindeutigen EAN-Code. Er ist die Grundeinheit einer Teilungsoperation: Der Aufteilungsschlüssel gilt je Lieferstelle, nicht je Person."
+    nl: "Contractueel leveringspunt voor energie, geïdentificeerd door een unieke EAN-code. Het is de basiseenheid van een deelactie: de verdeelsleutel geldt per leveringspunt, niet per persoon."
   alias:
     fr: []
     en: []
@@ -784,7 +788,7 @@
   definition:
     fr: "Prix au kWh auquel l'électricité partagée est cédée entre membres d'une communauté d'énergie ; il ne porte que sur la composante énergie, hors frais de réseau et taxes."
     en: "Price per kWh at which shared electricity is transferred between members of an energy community; it covers the energy component only, excluding network fees and taxes."
-    de: "Preis pro kWh, zu dem geteilte Elektrizität zwischen Mitgliedern einer Energiegemeinschaft abgegeben wird; er betrifft nur die Energiekomponente, ohne Netzentgelte und Steuern."
+    de: "Preis pro kWh, zu dem geteilter Strom zwischen Mitgliedern einer Energiegemeinschaft abgegeben wird; er betrifft nur die Energiekomponente, ohne Netzentgelte und Steuern."
     nl: "Prijs per kWh waartegen gedeelde elektriciteit tussen leden van een energiegemeenschap wordt overgedragen; hij betreft alleen de energiecomponent, exclusief netkosten en taksen."
   alias:
     fr: ["prix de l'électricité partagée", "prix interne", "prix de l'énergie partagée"]
@@ -845,10 +849,10 @@
     de: "Sibelga"
     nl: "Sibelga"
   definition:
-    fr: "Gestionnaire du réseau de distribution pour Bruxelles."
-    en: "Distribution system operator for Brussels."
-    de: "Verteilernetzbetreiber für Brüssel."
-    nl: "Distributienetbeheerder voor Brussel."
+    fr: "Gestionnaire du réseau de distribution d'électricité et de gaz pour les dix-neuf communes bruxelloises. Il relève les compteurs et applique les méthodes de répartition validées par BRUGEL."
+    en: "The electricity and gas distribution operator for the nineteen Brussels municipalities. It reads the meters and applies the allocation methods approved by BRUGEL."
+    de: "Verteilnetzbetreiber für Strom und Gas in den neunzehn Brüsseler Gemeinden. Er liest die Zähler aus und wendet die von BRUGEL genehmigten Aufteilungsmethoden an."
+    nl: "Distributienetbeheerder voor elektriciteit en gas in de negentien Brusselse gemeenten. Hij leest de meters uit en past de door BRUGEL goedgekeurde verdeelmethodes toe."
   alias:
     fr: []
     en: []
@@ -859,17 +863,17 @@
   categorie: production
   tags: [batterie, flexibilite, energie]
   source_nom: OptimCE
-  source_url: "https://www.optimce.be/en/about/"
+  source_ref: about
   terme:
     fr: "Stockage"
     en: "Storage"
     de: "Speicherung"
     nl: "Opslag"
   definition:
-    fr: "Conservation temporaire de l'énergie, souvent via batterie."
-    en: "Temporary storage of energy, often using a battery."
-    de: "Vorübergehende Speicherung von Energie, häufig mittels Batterie."
-    nl: "Tijdelijke opslag van energie, vaak via een batterij."
+    fr: "Conservation temporaire de l'énergie, le plus souvent par batterie, pour la restituer à un autre moment. Il augmente le taux d'autoconsommation en décalant la consommation vers les heures de production."
+    en: "Temporarily holding energy, most often in a battery, to release it later. It raises the self-consumption rate by shifting consumption towards the hours when generation happens."
+    de: "Zeitweiliges Speichern von Energie, meist per Batterie, um sie später wieder abzugeben. Es erhöht die Eigenverbrauchsquote, indem der Verbrauch in die Erzeugungsstunden verschoben wird."
+    nl: "Tijdelijk bewaren van energie, meestal in een batterij, om ze later vrij te geven. Het verhoogt de zelfverbruiksgraad door verbruik te verschuiven naar de productie-uren."
   alias:
     fr: ["batterie"]
     en: ["battery"]
@@ -908,10 +912,10 @@
     de: "Eingespeister Überschuss"
     nl: "Geïnjecteerd overschot"
   definition:
-    fr: "Part du surplus envoyée au réseau après consommation locale."
-    en: "The portion of the surplus sent to the grid after local consumption."
-    de: "Teil des Überschusses, der nach dem lokalen Verbrauch ins Netz eingespeist wird."
-    nl: "Deel van het overschot dat na lokaal verbruik op het net wordt gezet."
+    fr: "Part du surplus de production effectivement envoyée au réseau après consommation locale et partage. Le réduire est l'objectif direct d'une bonne clé de répartition, car il est valorisé bien moins cher."
+    en: "The portion of surplus generation actually sent to the grid after local consumption and sharing. Reducing it is the direct aim of a good allocation key, since it earns far less than a consumed kWh."
+    de: "Der Teil des Erzeugungsüberschusses, der nach lokalem Verbrauch und Teilung tatsächlich ins Netz geht. Ihn zu senken ist das direkte Ziel eines guten Aufteilungsschlüssels, denn er wird deutlich schlechter vergütet."
+    nl: "Het deel van het productieoverschot dat na lokaal verbruik en delen effectief naar het net gaat. Het verlagen ervan is het rechtstreekse doel van een goede verdeelsleutel, want het levert veel minder op."
   alias:
     fr: []
     en: []
@@ -931,7 +935,7 @@
   definition:
     fr: "Prix au kWh payé par un fournisseur pour l'électricité injectée sur le réseau ; non régulé en Belgique, il sert de plancher au prix de cession interne."
     en: "Price per kWh paid by a supplier for electricity injected into the grid; unregulated in Belgium, it acts as the floor for the internal transfer price."
-    de: "Preis pro kWh, den ein Lieferant für ins Netz eingespeiste Elektrizität zahlt; in Belgien nicht reguliert, bildet er die Untergrenze für den internen Verrechnungspreis."
+    de: "Preis pro kWh, den ein Lieferant für den ins Netz eingespeisten Strom zahlt; in Belgien nicht reguliert, bildet er die Untergrenze für den internen Verrechnungspreis."
     nl: "Prijs per kWh die een leverancier betaalt voor elektriciteit die op het net wordt geïnjecteerd; niet gereguleerd in België en de ondergrens voor de interne overdrachtsprijs."
   alias:
     fr: ["prix de rachat", "tarif de rachat"]
@@ -950,10 +954,10 @@
     de: "Netztarif"
     nl: "Nettarief"
   definition:
-    fr: "Part des coûts liés à l'utilisation du réseau électrique."
-    en: "The share of costs related to using the electricity grid."
-    de: "Anteil der Kosten für die Nutzung des Stromnetzes."
-    nl: "Deel van de kosten verbonden aan het gebruik van het elektriciteitsnet."
+    fr: "Part de la facture couvrant l'utilisation des réseaux de transport et de distribution. Ces coûts restent dus sur l'électricité partagée : le partage agit sur la composante énergie, pas sur le réseau."
+    en: "The share of the bill covering use of the transmission and distribution grids. These costs remain payable on shared electricity: sharing acts on the energy component, not on the network component."
+    de: "Der Rechnungsanteil für die Nutzung der Übertragungs- und Verteilnetze. Diese Kosten bleiben auf geteiltem Strom geschuldet: Die Teilung wirkt auf die Energiekomponente, nicht auf das Netz."
+    nl: "Het deel van de factuur voor het gebruik van het transmissie- en distributienet. Die kosten blijven verschuldigd op gedeelde elektriciteit: delen werkt op de energiecomponent, niet op het net."
   alias:
     fr: ["tarif de réseau"]
     en: ["network tariff"]
@@ -1034,10 +1038,10 @@
     de: "Eigenverbrauchsquote"
     nl: "Zelfverbruiksgraad"
   definition:
-    fr: "Part de la production consommée directement sur place."
-    en: "Share of generation that is consumed directly on site."
-    de: "Anteil der Erzeugung, der direkt vor Ort verbraucht wird."
-    nl: "Aandeel van de productie dat rechtstreeks ter plaatse wordt verbruikt."
+    fr: "Part de la production locale consommée directement sur place plutôt qu'injectée sur le réseau. Exprimé en pourcentage, c'est l'indicateur qui mesure la performance économique d'une installation ou d'une clé de répartition."
+    en: "Share of local generation consumed on site rather than fed into the grid. Expressed as a percentage, it is the indicator that measures the economic performance of an installation or an allocation key."
+    de: "Anteil der lokalen Erzeugung, der direkt vor Ort verbraucht statt ins Netz eingespeist wird. In Prozent ausgedrückt misst diese Kennzahl die wirtschaftliche Leistung einer Anlage oder eines Aufteilungsschlüssels."
+    nl: "Aandeel van de lokale productie dat ter plaatse wordt verbruikt in plaats van op het net geïnjecteerd. Uitgedrukt in procent meet deze indicator de economische prestatie van een installatie of verdeelsleutel."
   alias:
     fr: []
     en: []
@@ -1048,17 +1052,17 @@
   categorie: kpi
   tags: [partage, performance, calcul]
   source_nom: OptimCE
-  source_url: "https://www.optimce.be/en/about/"
+  source_ref: about
   terme:
     fr: "Taux de partage"
     en: "Sharing rate"
     de: "Aufteilungsquote"
     nl: "Deelgraad"
   definition:
-    fr: "Part de l'énergie produite qui est effectivement partagée entre participants."
-    en: "Share of the generated energy that is actually shared among participants."
-    de: "Anteil der erzeugten Energie, der tatsächlich unter den Teilnehmern geteilt wird."
-    nl: "Aandeel van de opgewekte energie dat daadwerkelijk onder de deelnemers wordt gedeeld."
+    fr: "Part de l'énergie produite qui est effectivement partagée entre participants plutôt qu'injectée sur le réseau. Avec le taux d'autoconsommation, c'est l'indicateur qui permet de comparer deux clés de répartition."
+    en: "The share of generated energy actually distributed between participants rather than fed into the grid. Together with the self-consumption rate, it is the indicator used to compare two allocation keys."
+    de: "Anteil der erzeugten Energie, der tatsächlich unter den Teilnehmern geteilt statt ins Netz eingespeist wird. Zusammen mit der Eigenverbrauchsquote ist dies die Kennzahl zum Vergleich zweier Aufteilungsschlüssel."
+    nl: "Aandeel van de opgewekte energie dat effectief onder de deelnemers wordt verdeeld in plaats van op het net geïnjecteerd. Samen met de zelfverbruiksgraad is dit de indicator om twee verdeelsleutels te vergelijken."
   alias:
     fr: []
     en: []
@@ -1132,7 +1136,7 @@
   categorie: calcul
   tags: [repartition, partage, kpi, technique]
   source_nom: OptimCE
-  source_url: "https://www.optimce.be/en/about/"
+  source_ref: about
   terme:
     fr: "VA"
     en: "VA"
@@ -1153,7 +1157,7 @@
   categorie: calcul
   tags: [repartition, partage, pourcentage, technique]
   source_nom: OptimCE
-  source_url: "https://www.optimce.be/en/about/"
+  source_ref: about
   terme:
     fr: "VAP"
     en: "VAP"

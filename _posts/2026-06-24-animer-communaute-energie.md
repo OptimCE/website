@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Animer une communauté d'énergie : communication, sondages et gouvernance participative"
+title: "Animer une communauté d'énergie au quotidien"
 date: 2026-06-24 10:00:00 +0200
 author: "Équipe OptimCE"
 excerpt: "Une communauté d'énergie est d'abord un projet social. Voici comment informer, engager et faire décider vos membres — tableau d'actualités, sondages et bonnes pratiques de gouvernance participative."
+description: "Tableau d'actualités, sondages et gouvernance participative : comment informer vos membres et les faire décider ensemble, sans les perdre."
 tags: [community, app]
 lang: fr
 ref: engage-energy-community
@@ -72,7 +73,7 @@ Les cas d'usage ne manquent pas :
 - **Fixer la date** d'une assemblée ou d'un événement.
 - **Arbitrer un investissement** (ajout de panneaux, batterie partagée, borne de recharge).
 - **Choisir un prestataire** ou une option de gestion.
-- **Faire évoluer la clé de répartition.** C'est sans doute l'usage le plus structurant : la clé détermine quelle part de production locale revient à chaque membre, et donc l'économie de chacun. La soumettre au vote, plutôt que de l'imposer, change tout. Pour comprendre les enjeux d'une clé, voyez notre article [« Clé de répartition en Belgique : Wallonie, Bruxelles et Flandre comparées »](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/).
+- **Faire évoluer la clé de répartition.** C'est sans doute l'usage le plus structurant : la clé détermine quelle part de production locale revient à chaque membre, et donc l'économie de chacun. La soumettre au vote, plutôt que de l'imposer, change tout. Pour comprendre les enjeux d'une clé, voyez notre article [« Clé de répartition en Belgique : les 3 régions »](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/).
 
 La date de clôture rend le processus limpide : chacun sait jusqu'à quand voter, et la décision est datée. Reste une question essentielle, souvent négligée : **qui voit les résultats, et quand ?**
 
@@ -131,15 +132,15 @@ Ce n'est pas obligatoire, mais un tableau d'actualités et des sondages intégr�
 
 L'animation d'une communauté commence par sa création — ou par le fait d'en rejoindre une et d'y prendre part activement.
 
-> **[Communautés d'énergie en Belgique : CER, CEC, CEL expliqués](/actualites/2026/05/11/communautes-energie-belgique/)**
+> **[Communautés d'énergie en Belgique : CER, CEC, CEL](/actualites/2026/05/11/communautes-energie-belgique/)**
 >
 > Le guide de référence pour comprendre les types de communautés, les acteurs et le cadre légal.
 
-> **[Créer une communauté d'énergie en Wallonie : guide étape par étape](/actualites/2026/05/11/creer-communaute-energie-wallonie/)**
+> **[Créer une communauté d'énergie en Wallonie](/actualites/2026/05/11/creer-communaute-energie-wallonie/)**
 >
 > Du choix du type de communauté jusqu'au démarrage du partage avec votre gestionnaire de réseau.
 
-> **[Rejoindre une communauté d'énergie en Wallonie : guide pratique](/actualites/2026/05/11/rejoindre-communaute-energie-wallonie/)**
+> **[Rejoindre une communauté d'énergie en Wallonie](/actualites/2026/05/11/rejoindre-communaute-energie-wallonie/)**
 >
 > Qui peut adhérer, où trouver une opération ouverte et les démarches pas à pas.
 

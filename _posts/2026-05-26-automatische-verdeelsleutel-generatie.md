@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Automatische generatie van verdeelsleutels met OptimCE"
+title: "Verdeelsleutel automatisch genereren"
 date: 2026-05-26 00:00:00 +0200
 author: "OptimCE-team"
 excerpt: "De module voor automatische verdeelsleutel-generatie van OptimCE is live. Hij stelt geoptimaliseerde verdeelsleutels voor op basis van de reële productie- en verbruiksdata van de gemeenschap, met twee algoritmes — brute force op standaardsleutels en LOGAAS, een onderzoeksresultaat van CeCoTePe uit het Locomotrice-project."
+description: "Twee algoritmes — brute force op standaardsleutels en LOGAAS — stellen een geoptimaliseerde sleutel voor op basis van uw echte data."
 tags: [allocation-key, app, guide]
 lang: nl
 ref: optimce-allocation-key-generator
@@ -14,7 +15,12 @@ De **verdeelsleutel** kiezen die het meest haalt uit de lokale productie van een
 
 De **module voor automatische generatie van verdeelsleutels** van OptimCE is nu beschikbaar om die beslissing uit het buikgevoel te halen. Geef hem een CSV met de reële productie- en verbruiksdata van de gemeenschap, en hij geeft een kandidaat-sleutel terug met een verwachte collectieve zelfverbruiksgraad — berekend op uw eigen data, niet op een handboekvoorbeeld. Vandaag worden twee **onafhankelijke** algoritmes uitgeleverd, die allebei dezelfde CSV verwerken: een **brute force** die de regionaal goedgekeurde standaardsleutels afzoekt, en **LOGAAS**, een hybride aanpak met lineaire optimalisatie en genetisch algoritme, ontwikkeld door [**CeCoTePe**](https://cecotepe.be/) voor het **Locomotrice**-project. Later kunnen meer algoritmes worden toegevoegd.
 
-Als u het regelgevend landschap nog in kaart brengt — wat CWaPE, BRUGEL en VREG als geldige sleutel aanvaarden — begin dan met ons referentieartikel [„Verdeelsleutel in België: Wallonië, Brussel en Vlaanderen vergeleken"](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/).
+Als u het regelgevend landschap nog in kaart brengt — wat CWaPE, BRUGEL en VREG als geldige sleutel aanvaarden — begin dan met ons referentieartikel [“Verdeelsleutel in België: de 3 regio's”](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/).
+
+<img src="/assets/images/diagrams/allocation-key-flow-nl.svg"
+     alt="Schema in vijf stappen: kwartierwaarden, generatie of simulatie, kandidaatsleutel, validatie door de leden, doorgifte aan de netbeheerder."
+     width="800" height="330" loading="lazy" decoding="async"
+     style="width:100%;height:auto">
 
 ## Waarom een verdeelsleutel datagedreven hoort te zijn
 
@@ -61,7 +67,7 @@ De beperking is de catalogus zelf. Als de profielen van een gemeenschap atypisch
 
 ## Algoritme 2 — LOGAAS
 
-**LOGAAS** staat voor *Linear Optimization with Genetic Algorithm with Atypical Speciation*. Het is het resultaat van onderzoek van [CeCoTePe](https://cecotepe.be/) voor het Locomotrice-project, formeel beschreven in de preprint *Paque, E. & Hiard, S. (2025), „LOGAAS: A hybrid algorithmic approach to ex-post electricity allocation for energy communities"*.
+**LOGAAS** staat voor *Linear Optimization with Genetic Algorithm with Atypical Speciation*. Het is het resultaat van onderzoek van [CeCoTePe](https://cecotepe.be/) voor het Locomotrice-project, formeel beschreven in de preprint *Paque, E. & Hiard, S. (2025), “LOGAAS: A hybrid algorithmic approach to ex-post electricity allocation for energy communities”*.
 
 Waar brute force begrensd is door de standaardcatalogus, doorzoekt LOGAAS een **bredere ruimte van kandidaat-sleutels** — inclusief niet-standaard combinaties — door **lineaire optimalisatie** (vindt de beste ex-post allocatie voor één iteratie) te combineren met een **genetisch algoritme** met **atypische soortvorming** (vindt de beste combinatie van percentages over de maximaal drie toegestane iteraties en behoudt daarbij de diversiteit van de populatie). Praktisch betekent dat: hij kan extra prestaties uit cases halen waar de standaardfamilies niet zuiver bij de profielen passen — sterk heterogene ledengroepen, seizoensgebonden industriële verbruikers samen met gezinnen, of grote overschotsproducenten die anders het grootste deel van hun productie naar het openbaar net zouden terugsturen.
 
@@ -136,7 +142,7 @@ De module voor automatische generatie maakt van de verdeelsleutelkeuze een datag
 
 Om verder te gaan, lees onze begeleidende gidsen:
 
-> **[Verdeelsleutel in België: Wallonië, Brussel en Vlaanderen vergeleken](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/)**
+> **[Verdeelsleutel in België: de 3 regio's](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/)**
 >
 > De regulatoire primer — wat CWaPE, BRUGEL en VREG aanvaarden, de drie regionale vocabulaires en hoe u een sleutelfamilie kiest voordat u OptimCE erbinnen laat optimaliseren.
 

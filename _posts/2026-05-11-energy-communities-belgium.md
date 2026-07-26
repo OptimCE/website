@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Energy communities in Belgium: CER, CEC and CEL explained"
+title: "Energy communities in Belgium: CER, CEC, CEL"
 date: 2026-05-11 10:00:00 +0200
 author: "OptimCE Team"
 excerpt: "Understand energy communities in Belgium — differences between renewable, citizen and local energy communities, how energy sharing works, key actors and benefits."
+description: "CER, CEC and CEL: what sets them apart, how energy sharing works, the role of the regulator and the DSO, and what you actually gain."
 tags: [community, administrative]
 lang: en
 ref: energy-communities-belgium
@@ -12,6 +13,11 @@ permalink: /en/news/2026/05/11/energy-communities-belgium/
 ---
 
 Energy communities are at the heart of Belgium's energy transition. Framed by the European Union and adapted by each region — Wallonia, Brussels, Flanders — they let citizens, businesses and local authorities produce, share and consume their own energy. This article walks through the three official forms (CER, CEC, CEL), explains how energy sharing actually works, introduces the key actors, and summarises the financial and ecological benefits.
+
+<img src="/assets/images/diagrams/community-types-en.svg"
+     alt="Comparison of the three energy community statuses — REC, CEC and LEC — with their proximity and scope constraints."
+     width="800" height="450" loading="lazy" decoding="async"
+     style="width:100%;height:auto">
 
 ## What is an energy community?
 
@@ -79,7 +85,7 @@ Crucial point to grasp: energy sharing is **administrative, not physical**. Elec
 - **Regional regulators** — [CWaPE](https://www.cwape.be/secteur/communautes-partage-energie) in Wallonia, [BRUGEL](https://environnement.brussels/citoyen/agir-pour-lenvironnement/devenir-eco-responsable/partage-et-communautes-denergie) in Brussels, [Vlaamse Nutsregulator (ex-VREG)](https://www.vlaamsenutsregulator.be) in Flanders — set rules, supervise tariffs and publish guidance for communities.
 - **Energy suppliers** continue to bill **residual energy**, i.e. the share of consumption not covered by the community's internal sharing.
 - **Members** are prosumers (e.g. equipped with PV), pure consumers, SMEs or local authorities.
-- **The community manager** is the entity that runs the community day to day: onboarding new members, configuring allocation keys, reporting to the DSO. This is exactly the role that **OptimCE** simplifies — see the [user guide](https://guide.optimce.be) and the public registry of [open sharing operations](/en/news/2026/05/07/release-news/).
+- **The community manager** is the entity that runs the community day to day: onboarding new members, configuring allocation keys, reporting to the DSO. This is exactly the role that **OptimCE** simplifies — see the [user guide](https://guide.optimce.be) and the public registry of [open sharing operations](https://app.optimce.be).
 
 ## Benefits — financial and ecological
 
@@ -101,7 +107,7 @@ Individuals, SMEs and local authorities can take part. Participation is open and
 
 ### How is my discount calculated?
 
-The DSO analyses your 15-minute readings, applies the **allocation key** defined by the community, and tells your supplier how much shared energy was attributed to you. That share is billed at the rate negotiated within the community, typically below the market rate. For the detail of the key types accepted in each region, see our guide [“Allocation key in Belgium: Wallonia, Brussels and Flanders compared”](/en/news/2026/05/19/allocation-key-belgium/).
+The DSO analyses your 15-minute readings, applies the **allocation key** defined by the community, and tells your supplier how much shared energy was attributed to you. That share is billed at the rate negotiated within the community, typically below the market rate. For the detail of the key types accepted in each region, see our guide [“Allocation key in Belgium: the 3 regions”](/en/news/2026/05/19/allocation-key-belgium/).
 
 ### Is there a geographic limit?
 
@@ -127,7 +133,7 @@ Through the **smart meters** rolled out by the DSOs, which transmit data every *
 
 **In Wallonia**, the framework has been stable since 2022 and the procedure is fully documented. We've written a dedicated step-by-step guide:
 
-> **[How to create an energy community in Wallonia: a step-by-step guide](/en/news/2026/05/11/create-energy-community-wallonia/)**
+> **[Create an energy community in Wallonia](/en/news/2026/05/11/create-energy-community-wallonia/)**
 >
 > Choosing between CER and CEC, framing the project, notifying the CWaPE, receiving the acknowledgement, and launching the sharing with ORES, RESA or AIEG.
 
@@ -139,7 +145,7 @@ Through the **smart meters** rolled out by the DSOs, which transmit data every *
 
 **In Wallonia**, hundreds of sharing operations are actively looking for new members. You don't have to create your own community to benefit from sharing — a practical guide walks you through joining an existing operation in a few weeks.
 
-> **[How to join an energy community in Wallonia: a practical guide](/en/news/2026/05/11/join-energy-community-wallonia/)**
+> **[Join an energy community in Wallonia](/en/news/2026/05/11/join-energy-community-wallonia/)**
 >
 > Who can join, where to find an open operation (OptimCE registry, SPW facilitator, Énergie commune), step-by-step enrolment and points to check before you sign.
 

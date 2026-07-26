@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Prijs van elektriciteit in een energiegemeenschap: de interne overdrachtsprijs bepalen"
+title: "Interne overdrachtsprijs in een gemeenschap"
 date: 2026-07-20 10:00:00 +0200
 author: "OptimCE-team"
-excerpt: "Welke prijs per kWh voor de elektriciteit die tussen leden gedeeld wordt? Wat de interne prijs echt dekt, de verdedigbare vork tussen injectietarief en energiecomponent, vijf rekenmethodes, een doorgerekend Belgisch praktijkgeval en de regels in Wallonië, Brussel en Vlaanderen."
+excerpt: "Welke prijs per kWh voor de elektriciteit die tussen leden gedeeld wordt? Wat de interne prijs echt dekt, de verdedigbare bandbreedte tussen injectietarief en energiecomponent, vijf rekenmethodes, een doorgerekend Belgisch praktijkgeval en de regels in Wallonië, Brussel en Vlaanderen."
+description: "Wat de interne prijs dekt, de verdedigbare bandbreedte tussen injectietarief en energiecomponent, en vijf manieren om hem te berekenen."
 tags: [community, administrative, guide]
 lang: nl
 ref: internal-price-shared-energy
@@ -11,7 +12,7 @@ permalink: /nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/
 last_modified_at: 2026-07-25 10:00:00 +0200
 faq:
   - q: "Wie bepaalt de prijs van de gedeelde elektriciteit in een energiegemeenschap?"
-    a: "In Wallonië en Brussel: de deelnemers zelf. De CWaPE schrijft dat „de prijs van de gedeelde elektriciteit vrij wordt bepaald tussen de deelnemers aan het delen, in de overeenkomst die hun rechten en plichten vastlegt”. Geen enkele Belgische regulator publiceert een plafond of een rekenmethode. In Vlaanderen stelt de vraag zich anders: energiedelen binnen een energiegemeenschap moet kosteloos gebeuren."
+    a: "In Wallonië en Brussel: de deelnemers zelf. De CWaPE schrijft dat “de prijs van de gedeelde elektriciteit vrij wordt bepaald tussen de deelnemers aan het delen, in de overeenkomst die hun rechten en plichten vastlegt”. Geen enkele Belgische regulator publiceert een plafond of een rekenmethode. In Vlaanderen stelt de vraag zich anders: energiedelen binnen een energiegemeenschap moet kosteloos gebeuren."
   - q: "Vervangt de interne prijs mijn elektriciteitsfactuur?"
     a: "Nee. Hij vervangt alleen de energiecomponent, goed voor ongeveer 38 % van een Belgische residentiële factuur volgens de CREG-boordtabel van juni 2026. De netkosten, de accijnzen, de gewestelijke toeslagen en de btw blijven verschuldigd op de gedeelde kWh, en de energie die het delen niet dekt, wordt nog altijd door uw gewone leverancier gefactureerd."
   - q: "Tussen welke waarden is een interne overdrachtsprijs verdedigbaar?"
@@ -19,7 +20,7 @@ faq:
   - q: "Mag elektriciteit gratis gedeeld worden?"
     a: "Ja in Wallonië en Brussel, waar de prijs een contractuele parameter is die nul mag zijn. In Vlaanderen is het zelfs verplicht binnen een energiegemeenschap: de Vlaamse Nutsregulator geeft aan dat u er energie enkel zonder tegenprestatie kunt delen, en dat verkoop via andere regelingen verloopt."
   - q: "Is een leveringsvergunning nodig om de gedeelde energie aan de leden te verkopen?"
-    a: "Nee, binnen de perimeter van het delen. In Wallonië preciseert de SPW dat de gedeelde elektriciteit niet als een leveringsverrichting wordt beschouwd. In Brussel bepaalt de ordonnantie uitdrukkelijk dat de gemeenschap „niet onderworpen is aan de verplichtingen die op de leveranciers rusten voor de elektriciteit die binnen haar wordt gedeeld”. De vrijstelling stopt bij de kring van deelnemers: daarbuiten verkopen valt onder het vergunningsregime."
+    a: "Nee, binnen de perimeter van het delen. In Wallonië preciseert de SPW dat de gedeelde elektriciteit niet als een leveringsverrichting wordt beschouwd. In Brussel bepaalt de ordonnantie uitdrukkelijk dat de gemeenschap “niet onderworpen is aan de verplichtingen die op de leveranciers rusten voor de elektriciteit die binnen haar wordt gedeeld”. De vrijstelling stopt bij de kring van deelnemers: daarbuiten verkopen valt onder het vergunningsregime."
   - q: "Welke btw geldt op gedeelde elektriciteit?"
     a: "6 % voor particuliere leden en 21 % voor professionele leden: een gemeenschap met gemengde leden factureert dus tegen twee tarieven. Onder 25.000 € omzet excl. btw per jaar kan de vrijstellingsregeling voor kleine ondernemingen gelden. Laat uw situatie nakijken bij de FOD Financiën of bij uw boekhouder."
   - q: "Hoe vaak moet de prijs herzien worden?"
@@ -30,7 +31,7 @@ Een eigenaar van zonnepanelen verkoopt zijn overschot vandaag tussen **0,94 en 4
 
 Blijft de vraag die elke projectdrager uiteindelijk stelt, vaak te laat: **welke prijs schrijft u in de overeenkomst?** Geen enkele Belgische regulator publiceert een antwoord. Noch de CWaPE, noch BRUGEL, noch de Vlaamse Nutsregulator verspreidt een rekenmethode of een referentietarief. Dit artikel vult die leemte: wat de interne prijs werkelijk dekt, tussen welke grenzen hij moet vallen, vijf methodes om hem op te bouwen, een volledig doorgerekend Belgisch praktijkgeval, en wat het kader in elk gewest toelaat.
 
-Is de mechaniek van het delen u nog vreemd, begin dan bij ons referentieartikel [„Verdeelsleutel in België: Wallonië, Brussel, Vlaanderen”](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/): de sleutel bepaalt *hoeveel kWh* elk lid krijgt, de prijs bepaalt *hoeveel euro*.
+Is de mechaniek van het delen u nog vreemd, begin dan bij ons referentieartikel [“Verdeelsleutel in België: de 3 regio's”](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/): de sleutel bepaalt *hoeveel kWh* elk lid krijgt, de prijs bepaalt *hoeveel euro*.
 
 ## De interne overdrachtsprijs vervangt maar een derde van de factuur
 
@@ -46,7 +47,7 @@ Een Belgische elektriciteitsfactuur valt uiteen in vier blokken. Dit is hun werk
 | Btw | 5,7 % | 5,7 % | 5,7 % | 5,7 % |
 | **Totale prijs** | **36,94 c€/kWh** | 35,31 | 39,04 | 38,64 |
 
-De interne overdrachtsprijs concurreert alleen met de **eerste regel**: ongeveer **14 c€/kWh** in absolute waarde. Al de rest blijft doorlopen op de gedeelde kWh, want die kWh lopen wel degelijk over het openbare net. De CWaPE formuleert het zonder omwegen: „aangezien de elektriciteit via het net wordt getransporteerd, zijn alle netkosten (transmissie en distributie) en de daarmee verbonden taksen en toeslagen verschuldigd op de gedeelde elektriciteit” ([CWaPE](https://www.cwape.be/node/6062)).
+De interne overdrachtsprijs concurreert alleen met de **eerste regel**: ongeveer **14 c€/kWh** in absolute waarde. Al de rest blijft doorlopen op de gedeelde kWh, want die kWh lopen wel degelijk over het openbare net. De CWaPE formuleert het zonder omwegen: “aangezien de elektriciteit via het net wordt getransporteerd, zijn alle netkosten (transmissie en distributie) en de daarmee verbonden taksen en toeslagen verschuldigd op de gedeelde elektriciteit” ([CWaPE](https://www.cwape.be/node/6062)).
 
 Twee praktische gevolgen:
 
@@ -55,7 +56,7 @@ Twee praktische gevolgen:
 
 ### Wat de vertegenwoordiger bovenop de prijs factureert
 
-Bij de afgesproken prijs komen, op de factuur van de gemeenschap zelf, „de btw, de accijnzen en de openbaredienstverplichting tot inlevering van groenestroomcertificaten” ([CWaPE](https://www.cwape.be/node/6063)). Wie deze factuur opstelt en welke vermeldingen ze moet dragen, is het onderwerp van onze gids [„Gedeelde elektriciteit factureren in België”](/nl/nieuws/2026/07/23/gedeelde-elektriciteit-factureren-belgie/). Twee preciseringen waarover veel projecten struikelen:
+Bij de afgesproken prijs komen, op de factuur van de gemeenschap zelf, “de btw, de accijnzen en de openbaredienstverplichting tot inlevering van groenestroomcertificaten” ([CWaPE](https://www.cwape.be/node/6063)). Wie deze factuur opstelt en welke vermeldingen ze moet dragen, is het onderwerp van onze gids [“Gedeelde elektriciteit factureren in België”](/nl/nieuws/2026/07/23/gedeelde-elektriciteit-factureren-belgie/). Twee preciseringen waarover veel projecten struikelen:
 
 - **De btw is niet uniform.** Het verlaagde tarief van **6 % geldt voor de levering van elektriciteit aan een particuliere klant**, tegenover **21 % voor een professionele klant**: een gemeenschap met gemengde leden moet er dus op rekenen tegen twee tarieven te factureren. Onder 25.000 € omzet excl. btw per jaar kan de [vrijstellingsregeling voor kleine ondernemingen](https://finances.belgium.be/fr/entreprises/tva/assujettissement-tva/regime-franchise-taxe) van toepassing zijn. Geen enkele circulaire behandelt het energiedelen specifiek: laat uw situatie door uw boekhouder valideren vóór de eerste factuur.
 - **De federale bijdrage bestaat niet meer.** Ze werd op 31 december 2021 afgeschaft en opgeslorpt door de bijzondere accijns ([CREG](https://www.creg.be/fr/a-z-index/cotisation-federale)). Veel documenten die nog circuleren, vermelden ze nog altijd: neem ze niet op in uw simulaties.
@@ -66,9 +67,9 @@ Het idee dat een energiegemeenschap van verlaagde nettarieven geniet, is wijdver
 
 | Gewest | Verlaging van de nettarieven op de gedeelde kWh |
 |---|---|
-| **Wallonië** | 80 % op de proportionele termen, **uitsluitend binnen eenzelfde gebouw**. Voor een energiegemeenschap: geen enkele verlaging. De CWaPE schrijft het zwart op wit — „er bestaat geen tariefkorting voor het delen binnen een energiegemeenschap”. |
+| **Wallonië** | 80 % op de proportionele termen, **uitsluitend binnen eenzelfde gebouw**. Voor een energiegemeenschap: geen enkele verlaging. De CWaPE schrijft het zwart op wit — “er bestaat geen tariefkorting voor het delen binnen een energiegemeenschap”. |
 | **Brussel** | Het enige echte gunstregime. Naargelang de nabijheid van de deelnemers: type A (zelfde gebouw) → proportionele tarieven **verlaagd tot 0 €**; type B (zelfde laagspanningscabine) → **gehalveerd**; types C en D → ongewijzigd. Bevestigd tot minstens 2027 door de tariefmethodologie 2025-2029 van BRUGEL. |
-| **Vlaanderen** | Geen. „Energiedelen en persoon-aan-persoonverkoop hebben enkel een effect op de energiecomponent van de elektriciteitsfactuur, maar niet op de netkosten, heffingen en taksen” (Fluvius). Ook het capaciteitstarief, dat op de gemeten piek van de digitale meter steunt, wordt niet verlicht. |
+| **Vlaanderen** | Geen. “Energiedelen en persoon-aan-persoonverkoop hebben enkel een effect op de energiecomponent van de elektriciteitsfactuur, maar niet op de netkosten, heffingen en taksen” (Fluvius). Ook het capaciteitstarief, dat op de gemeten piek van de digitale meter steunt, wordt niet verlicht. |
 
 Reken daar nog een post bij die bijna niemand ziet aankomen: **uw leverancier mag kosten aanrekenen voor uw deelname aan het delen**. De CWaPE bevestigt dat niets dat verbiedt ([CWaPE](https://www.cwape.be/node/6060)), en de vastgestelde bedragen lopen van nul tot ongeveer 150 € per jaar en per toegangspunt. Op een kleine hoeveelheid gedeelde energie wissen die kosten de winst zonder meer uit — het is de belangrijkste stille moordenaar van de rendabiliteit van een project.
 
@@ -79,23 +80,23 @@ Dit is het punt dat de meeste gidsen onvermeld laten, en het is beslissend: **in
 | | Wallonië | Brussel | Vlaanderen |
 |---|---|---|---|
 | **Prijs binnen een gemeenschap** | Vrij | Vrij | **Verboden — het delen moet kosteloos zijn** |
-| Wat het kader zegt | „De prijs van de gedeelde elektriciteit wordt vrij bepaald tussen de deelnemers aan het delen” (CWaPE) | Geen plafond of referentieprijs in de ordonnantie; verplichting van „billijke, transparante en niet-discriminerende” regels | „In een energiegemeenschap kan je enkel energie delen. Energie verkopen in een energiegemeenschap is niet mogelijk.” (Vlaamse Nutsregulator) |
+| Wat het kader zegt | “De prijs van de gedeelde elektriciteit wordt vrij bepaald tussen de deelnemers aan het delen” (CWaPE) | Geen plafond of referentieprijs in de ordonnantie; verplichting van “billijke, transparante en niet-discriminerende” regels | “In een energiegemeenschap kan u enkel energie delen. Energie verkopen in een energiegemeenschap is niet mogelijk.” (Vlaamse Nutsregulator) |
 | Officiële modelovereenkomst | Geen voor de overeenkomst tussen deelnemers | Ja, gepubliceerd door Leefmilieu Brussel | Model gepubliceerd voor de persoon-aan-persoonverkoop |
-| Leveringsvergunning | Niet vereist: „de gedeelde elektriciteit wordt niet beschouwd als een leveringsverrichting” (SPW Energie) | Nee: de gemeenschap „is niet onderworpen aan de verplichtingen die op de leveranciers rusten voor de elektriciteit die binnen haar wordt gedeeld” | Niet van toepassing op het delen; de verkoop binnen een gebouw is uitdrukkelijk vrijgesteld |
+| Leveringsvergunning | Niet vereist: “de gedeelde elektriciteit wordt niet beschouwd als een leveringsverrichting” (SPW Energie) | Nee: de gemeenschap “is niet onderworpen aan de verplichtingen die op de leveranciers rusten voor de elektriciteit die binnen haar wordt gedeeld” | Niet van toepassing op het delen; de verkoop binnen een gebouw is uitdrukkelijk vrijgesteld |
 
 ### Wallonië: volledige vrijheid, en een blanco blad
 
-De prijs is vrij, en de overeenkomst tussen deelnemers moet „de verdeelsleutel, de kostprijs van de gedeelde elektriciteit” bevatten — maar **er bestaat geen enkel modeldocument** ([CWaPE](https://www.cwape.be/node/6064)). U vertrekt van een blanco blad. Nog dit: de Waalse persoon-aan-persoonverkoop is **nog niet operationeel**, bij gebrek aan uitvoeringsbesluit ([CWaPE](https://www.cwape.be/node/6080)). De enige wegen om een prijs toe te passen zijn dus het delen binnen eenzelfde gebouw en het delen binnen een toegelaten gemeenschap.
+De prijs is vrij, en de overeenkomst tussen deelnemers moet “de verdeelsleutel, de kostprijs van de gedeelde elektriciteit” bevatten — maar **er bestaat geen enkel modeldocument** ([CWaPE](https://www.cwape.be/node/6064)). U vertrekt van een blanco blad. Nog dit: de Waalse persoon-aan-persoonverkoop is **nog niet operationeel**, bij gebrek aan uitvoeringsbesluit ([CWaPE](https://www.cwape.be/node/6080)). De enige wegen om een prijs toe te passen zijn dus het delen binnen eenzelfde gebouw en het delen binnen een toegelaten gemeenschap.
 
 ### Brussel: de vorm omkaderd, het bedrag vrij
 
-De Brusselse ordonnantie bevat **noch het woord „prijs” noch het woord „redelijk”** in haar hoofdstuk over energiegemeenschappen. Wat ze wel oplegt, is een procedurele omkadering: de overeenkomst moet „de billijke, transparante en niet-discriminerende regels voor het delen” vastleggen, opgesteld zijn „in duidelijke en begrijpelijke taal” en mag geen „discriminatie tussen deelnemers” creëren. Het niveau van de prijs blijft volledig onderhandeld — de officiële modelovereenkomst bevat trouwens een in te vullen veld: *„De verkoopprijs van de gedeelde elektriciteit wordt vastgesteld op ….. c€/kWh excl. btw”*.
+De Brusselse ordonnantie bevat **noch het woord “prijs” noch het woord “redelijk”** in haar hoofdstuk over energiegemeenschappen. Wat ze wel oplegt, is een procedurele omkadering: de overeenkomst moet “de billijke, transparante en niet-discriminerende regels voor het delen” vastleggen, opgesteld zijn “in duidelijke en begrijpelijke taal” en mag geen “discriminatie tussen deelnemers” creëren. Het niveau van de prijs blijft volledig onderhandeld — de officiële modelovereenkomst bevat trouwens een in te vullen veld: *“De verkoopprijs van de gedeelde elektriciteit wordt vastgesteld op ….. c€/kWh excl. btw”*.
 
 De hulp bij het rekenwerk komt niet van de regulator maar van **Leefmilieu Brussel**, dat een economische simulatietool en een gratis facilitator ter beschikking stelt.
 
 ### Vlaanderen: kosteloos per definitie
 
-*Energiedelen* is in het Vlaamse **Energiedecreet** gedefinieerd als het **„kosteloos”** toewijzen van zelf geproduceerde energie. De regulator is categoriek: „In een energiegemeenschap kan je enkel energie delen. Energie verkopen in een energiegemeenschap is niet mogelijk.” Een prijs blijft mogelijk, maar via andere deuren: de **persoon-aan-persoonverkoop** — „Je bepaalt zelf de prijs en regelt de eventuele betaling onderling.” — en de verkoop binnen een gebouw door de **vereniging van mede-eigenaars (VME)**. Let op de valkuil: de meervoudige persoon-aan-persoonverkoop loopt van *meerdere verkopers naar één koper* — ze laat een gemeenschap dus niet toe al haar leden te factureren.
+*Energiedelen* is in het Vlaamse **Energiedecreet** gedefinieerd als het **“kosteloos”** toewijzen van zelf geproduceerde energie. De regulator is categoriek: “In een energiegemeenschap kan u enkel energie delen. Energie verkopen in een energiegemeenschap is niet mogelijk.” Een prijs blijft mogelijk, maar via andere deuren: de **persoon-aan-persoonverkoop** — “U bepaalt zelf de prijs en regelt de eventuele betaling onderling.” — en de verkoop binnen een gebouw door de **vereniging van mede-eigenaars (VME)**. Let op de valkuil: de meervoudige persoon-aan-persoonverkoop loopt van *meerdere verkopers naar één koper* — ze laat een gemeenschap dus niet toe al haar leden te factureren.
 
 **Duidelijk gezegd: een Vlaams project dat zijn producenten wil vergoeden, moet een andere juridische constructie kiezen dan de energiegemeenschap.** Dat ontdekt u beter vóór de oprichting dan tegenover de regulator.
 
@@ -116,7 +117,7 @@ Geen enkele is *dé* juiste. Ze beantwoorden aan verschillende prioriteiten.
 
 ### 1. De vaste prijs, gestemd op de algemene vergadering
 
-Eén getal, één stemming, één herzieningsdatum. Veruit het meest verspreid, en het is de praktijk van de Brusselse gemeenschap Énergie Solidaire du Balai, waarvan de prijs „elk jaar op de algemene vergadering wordt herzien”.
+Eén getal, één stemming, één herzieningsdatum. Veruit het meest verspreid, en het is de praktijk van de Brusselse gemeenschap Énergie Solidaire du Balai, waarvan de prijs “elk jaar op de algemene vergadering wordt herzien”.
 
 *Voor wie:* alle gemeenschappen die van start gaan. *Risico:* de prijs drijft weg van de markt als de herziening vergeten wordt.
 
@@ -169,12 +170,12 @@ Drie lessen, waarvan één die de bron opneemt met een eerlijkheid die men vaker
 
 1. **De producentenprijs (6 c€) ligt duidelijk boven het injectietarief** (1 tot 5 c€): delen blijft interessanter dan injecteren. Dezelfde grootteorde vindt u terug bij [Renouvelle](https://www.renouvelle.be/fr/exemples-calculs-de-rentabilite-economique-dun-partage-delectricite-en-wallonie/), dat een interne deelprijs van 6 c€/kWh documenteert en een collectief injectiecontract aan 3 c€/kWh, tien jaar gegarandeerd.
 2. **De marge van 8 c€/kWh is geen winst**: ze financiert de werking van de gemeenschap — administratie, facturatie, verzekering, tools.
-3. **De leden, schrijft de bron, „doen geen grote besparingen”.** Ze betalen een stabiele prijs, licht onder de markt, en sluiten zich in de eerste plaats aan voor het project. Iets anders beloven, is vertrekkers voorbereiden.
+3. **De leden, schrijft de bron, “doen geen grote besparingen”.** Ze betalen een stabiele prijs, licht onder de markt, en sluiten zich in de eerste plaats aan voor het project. Iets anders beloven, is vertrekkers voorbereiden.
 
 ## De fouten die een gemeenschap breken
 
 - **De werkingsmarge vergeten.** Een prijs die tot op de cent op de productiekost is afgestemd, laat niets over voor boekhouding, verzekering of platform. De gemeenschap leeft één jaar en roept dan dringend bijdragen op.
-- **De prijs vastzetten zonder herzieningsdatum.** De Belgische groothandelsprijzen schommelden in het eerste halfjaar van 2026 alleen al tussen 78,94 en 112,13 €/MWh. Een prijs die „voor eens en altijd” wordt vastgelegd, benadeelt uiteindelijk iemand.
+- **De prijs vastzetten zonder herzieningsdatum.** De Belgische groothandelsprijzen schommelden in het eerste halfjaar van 2026 alleen al tussen 78,94 en 112,13 €/MWh. Een prijs die “voor eens en altijd” wordt vastgelegd, benadeelt uiteindelijk iemand.
 - **Een besparing op de factuur aankondigen in plaats van op de energiecomponent.** Het lid rekent na, vindt het niet terug, en het vertrouwen stort in.
 - **De bijkomende kosten van de leverancier negeren.** Tot 150 €/jaar en per toegangspunt: op 500 gedeelde kWh overtreft dat de winst.
 - **Vergeten dat de prosument de jaarlijkse compensatie verliest** door deel te nemen aan het delen ([CWaPE](https://www.cwape.be/node/6075)), en dat het sociaal tarief niet geldt voor de gedeelde volumes. Die twee effecten horen thuis in de simulatie, niet in de ontdekking achteraf.
@@ -185,10 +186,10 @@ Drie lessen, waarvan één die de bron opneemt met een eerlijkheid die men vaker
 Een interne overdrachtsprijs is geen beslissing, het is een proces. Drie gewoontes volstaan:
 
 - **Een jaarlijkse herziening op de agenda van de algemene vergadering**, telkens met een vergelijkingspunt: het injectietarief van het moment, de gemiddelde energiecomponent, het resultaat van het afgelopen boekjaar.
-- **Een geschreven regel in plaats van een getal.** „De producentenprijs wordt vastgelegd op het dubbele van het vastgestelde gemiddelde injectietarief, geplafonneerd op de helft van de energiecomponent” verdedigt zich beter dan een „6 c€” zonder verhaal — en werkt zichzelf bij.
+- **Een geschreven regel in plaats van een getal.** “De producentenprijs wordt vastgelegd op het dubbele van het vastgestelde gemiddelde injectietarief, geplafonneerd op de helft van de energiecomponent” verdedigt zich beter dan een “6 c€” zonder verhaal — en werkt zichzelf bij.
 - **Een bewaarde historiek.** Wanneer een lid een factuur van vorig jaar betwist, moet u kunnen tonen welke prijs op die datum gold, en op beslissing van welke vergadering.
 
-Die transparantie-eis is niet cosmetisch: in Brussel staat ze uitdrukkelijk in de tekst — de regels moeten „billijk, transparant en niet-discriminerend” zijn en opgesteld „in duidelijke en begrijpelijke taal”. Niets legt daarentegen een **identieke** prijs voor iedereen op: de verplichting slaat op de *regels*, niet op de uniformiteit van de bedragen. Een differentiatie tussen objectieve categorieën — investerende leden, gezinnen, ondernemingen — blijft verdedigbaar als ze geschreven, gemotiveerd en uniform toegepast is. Twijfelt u over een gedifferentieerde tariefstructuur, laat ze dan valideren door de gewestelijke facilitator vóór u ze invoert.
+Die transparantie-eis is niet cosmetisch: in Brussel staat ze uitdrukkelijk in de tekst — de regels moeten “billijk, transparant en niet-discriminerend” zijn en opgesteld “in duidelijke en begrijpelijke taal”. Niets legt daarentegen een **identieke** prijs voor iedereen op: de verplichting slaat op de *regels*, niet op de uniformiteit van de bedragen. Een differentiatie tussen objectieve categorieën — investerende leden, gezinnen, ondernemingen — blijft verdedigbaar als ze geschreven, gemotiveerd en uniform toegepast is. Twijfelt u over een gedifferentieerde tariefstructuur, laat ze dan valideren door de gewestelijke facilitator vóór u ze invoert.
 
 ## Uw prijs toepassen in OptimCE
 
@@ -216,7 +217,7 @@ Blijft nakijken of uw gewest wel toelaat wat u zich voorstelt: volledige vrijhei
 
 ### Wie bepaalt de prijs van de gedeelde elektriciteit in een energiegemeenschap?
 
-In **Wallonië en Brussel: de deelnemers zelf**. De CWaPE schrijft dat „de prijs van de gedeelde elektriciteit vrij wordt bepaald tussen de deelnemers aan het delen, in de overeenkomst die hun rechten en plichten vastlegt”. Geen enkele Belgische regulator publiceert een plafond of een rekenmethode. In **Vlaanderen** stelt de vraag zich anders: energiedelen binnen een energiegemeenschap moet kosteloos gebeuren.
+In **Wallonië en Brussel: de deelnemers zelf**. De CWaPE schrijft dat “de prijs van de gedeelde elektriciteit vrij wordt bepaald tussen de deelnemers aan het delen, in de overeenkomst die hun rechten en plichten vastlegt”. Geen enkele Belgische regulator publiceert een plafond of een rekenmethode. In **Vlaanderen** stelt de vraag zich anders: energiedelen binnen een energiegemeenschap moet kosteloos gebeuren.
 
 ### Vervangt de interne prijs mijn elektriciteitsfactuur?
 
@@ -232,7 +233,7 @@ Ja in Wallonië en Brussel, waar de prijs een contractuele parameter is die nul 
 
 ### Is een leveringsvergunning nodig om de gedeelde energie aan de leden te verkopen?
 
-Nee, **binnen de perimeter van het delen**. In Wallonië preciseert de SPW dat de gedeelde elektriciteit niet als een leveringsverrichting wordt beschouwd. In Brussel bepaalt de ordonnantie uitdrukkelijk dat de gemeenschap „niet onderworpen is aan de verplichtingen die op de leveranciers rusten voor de elektriciteit die binnen haar wordt gedeeld”. De vrijstelling stopt bij de kring van deelnemers: daarbuiten verkopen valt onder het vergunningsregime.
+Nee, **binnen de perimeter van het delen**. In Wallonië preciseert de SPW dat de gedeelde elektriciteit niet als een leveringsverrichting wordt beschouwd. In Brussel bepaalt de ordonnantie uitdrukkelijk dat de gemeenschap “niet onderworpen is aan de verplichtingen die op de leveranciers rusten voor de elektriciteit die binnen haar wordt gedeeld”. De vrijstelling stopt bij de kring van deelnemers: daarbuiten verkopen valt onder het vergunningsregime.
 
 ### Welke btw geldt op gedeelde elektriciteit?
 

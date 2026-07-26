@@ -2,6 +2,7 @@
 {% assign t = site.data.i18n[lang] %}
 {% assign current_lang = site.languages | where: "code", lang | first %}
 {% assign post = include.post %}
+{% assign heading_level = include.heading_level | default: 3 %}
 {% assign post_date_ts = post.date | date: '%s' %}
 {% assign post_updated_ts = post.last_modified_at | default: post.date | date: '%s' %}
 <article class="post-card"
@@ -11,9 +12,9 @@
   <time class="post-card__date" datetime="{{ post.date | date_to_xmlschema }}">
     {% include localized-date.html date=post.date lang=lang %}
   </time>
-  <h3 class="post-card__title">
+  <h{{ heading_level }} class="post-card__title">
     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-  </h3>
+  </h{{ heading_level }}>
   <p class="post-card__excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
   {% if post.tags.size > 0 %}
     <div class="post-card__tags">
@@ -26,16 +27,37 @@
   {% if post.ref %}
     {% assign translations = site.posts | where: "ref", post.ref %}
     {% if translations.size > 1 %}
-    <div class="post-card__langs">
-      {% for translation in translations %}
-        <a href="{{ translation.url | relative_url }}" class="post-card__lang-badge{% if translation.lang == post.lang %} post-card__lang-badge--active{% endif %}">
-          {{ translation.lang | upcase }}
+    {%- comment -%}
+      Without aria-label these are two-character links ("FR", "EN", ...). On the
+      blog index that is 17 cards x 4 badges = 68 of them, which makes a screen
+      reader's link list unusable.
+    {%- endcomment -%}
+    {%- comment -%}
+      Looping site.languages keeps the badge order identical on every card;
+      `translations` alone comes back in collection order, which varies per ref.
+    {%- endcomment -%}
+    <div class="post-card__langs" role="group" aria-label="{{ t.a11y.available_languages }}">
+      {% for l in site.languages %}
+        {% assign translation = translations | where: "lang", l.code | first %}
+        {% if translation %}
+        <a href="{{ translation.url | relative_url }}"
+           lang="{{ l.code }}"
+           hreflang="{{ l.code }}"
+           aria-label="{{ t.languages[l.code] }}"
+           class="post-card__lang-badge{% if l.code == post.lang %} post-card__lang-badge--active{% endif %}">
+          {{ l.code | upcase }}
         </a>
+        {% endif %}
       {% endfor %}
     </div>
     {% endif %}
   {% endif %}
-  <a href="{{ post.url | relative_url }}" class="post-card__link">
+  {%- comment -%}
+    Same href as the title link above, with a non-descriptive name. Kept for the
+    visual affordance and still crawlable, but removed from the tab order and the
+    accessibility tree so it is not announced as a second "Read more" link.
+  {%- endcomment -%}
+  <a href="{{ post.url | relative_url }}" class="post-card__link" tabindex="-1" aria-hidden="true">
     {{ t.blog.read_more }} &rarr;
   </a>
 </article>

@@ -10,6 +10,7 @@ layout: default
     <div class="section__header">
       <h1 class="section__title">{{ t.blog.title }}</h1>
       <p class="section__subtitle">{{ t.blog.subtitle }}</p>
+      {{ content }}
     </div>
     <div class="blog-toolbar" data-blog-toolbar>
       <div class="blog-toolbar__group">
@@ -34,7 +35,12 @@ layout: default
     <p class="blog-toolbar__empty" data-blog-empty hidden>{{ t.blog.no_results }}</p>
     <div class="grid grid--3col" data-blog-grid>
       {% for post in posts %}
-        {% include post-card.html post=post %}
+        {%- comment -%}
+          heading_level=2: this page's H1 is the section title above, so the cards
+          are the first subsection. On the homepage the same include sits under an
+          H2 section header and correctly keeps its default H3.
+        {%- endcomment -%}
+        {% include post-card.html post=post heading_level=2 %}
       {% endfor %}
     </div>
   </div>

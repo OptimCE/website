@@ -1,24 +1,30 @@
 ---
 layout: post
-title: "Automatische Generierung von Verteilungsschlüsseln mit OptimCE"
+title: "Aufteilungsschlüssel automatisch generieren"
 date: 2026-05-26 00:00:00 +0200
 author: "OptimCE-Team"
-excerpt: "Das automatische Generierungsmodul von OptimCE ist live. Es schlägt optimierte Verteilungsschlüssel auf Basis der realen Erzeugungs- und Verbrauchsdaten einer Gemeinschaft vor — mit zwei Algorithmen: Brute-Force auf Standardschlüsseln und LOGAAS, einem Forschungsergebnis von CeCoTePe aus dem Locomotrice-Projekt."
+excerpt: "Das automatische Generierungsmodul von OptimCE ist live. Es schlägt optimierte Aufteilungsschlüssel auf Basis der realen Erzeugungs- und Verbrauchsdaten einer Gemeinschaft vor — mit zwei Algorithmen: Brute-Force auf Standardschlüsseln und LOGAAS, einem Forschungsergebnis von CeCoTePe aus dem Locomotrice-Projekt."
+description: "Zwei Algorithmen — Brute-Force über alle Standardschlüssel und LOGAAS — schlagen einen optimierten Schlüssel aus Ihren realen Daten vor."
 tags: [allocation-key, app, guide]
 lang: de
 ref: optimce-allocation-key-generator
 permalink: /de/aktuelles/2026/05/26/automatische-verteilungsschluessel-generierung/
 ---
 
-Den **Verteilungsschlüssel** zu wählen, der das Beste aus der lokalen Erzeugung einer Gemeinschaft herausholt, ist schwieriger, als es scheint. Das Vokabular gibt der Regulator vor, die Standardschlüssel sind in einem Dokument von CWaPE oder Fluvius aufgelistet — und doch hängt die *richtige* Wahl von etwas ab, das keiner dieser Texte verraten kann: den realen Viertelstundenprofilen Ihrer Mitglieder. Ein Wohnviertel mit einer einzigen Schule verhält sich völlig anders als ein Gewerbepark mit Grundlast, und derselbe Schlüssel kann in einer Gemeinschaft 70 % der verfügbaren Erzeugung wiedergewinnen und in einer anderen kaum 50 %.
+Den **Aufteilungsschlüssel** zu wählen, der das Beste aus der lokalen Erzeugung einer Gemeinschaft herausholt, ist schwieriger, als es scheint. Das Vokabular gibt der Regulator vor, die Standardschlüssel sind in einem Dokument von CWaPE oder Fluvius aufgelistet — und doch hängt die *richtige* Wahl von etwas ab, das keiner dieser Texte verraten kann: den realen Viertelstundenprofilen Ihrer Mitglieder. Ein Wohnviertel mit einer einzigen Schule verhält sich völlig anders als ein Gewerbepark mit Grundlast, und derselbe Schlüssel kann in einer Gemeinschaft 70 % der verfügbaren Erzeugung wiedergewinnen und in einer anderen kaum 50 %.
 
-Das **automatische Generierungsmodul für Verteilungsschlüssel** von OptimCE ist nun verfügbar, um diese Entscheidung aus dem Bauchgefühl-Bereich herauszuholen. Geben Sie ihm eine CSV mit den realen Erzeugungs- und Verbrauchsdaten der Gemeinschaft, und es liefert einen Kandidatenschlüssel mit der erwarteten kollektiven Eigenverbrauchsrate — berechnet auf Ihren eigenen Daten, nicht auf einem Lehrbuchbeispiel. Heute werden zwei **unabhängige** Algorithmen ausgeliefert, die beide dieselbe CSV verarbeiten: ein **Brute-Force-Scan** über die regional zugelassenen Standardschlüssel und **LOGAAS**, ein hybrider Ansatz aus linearer Optimierung und genetischem Algorithmus, entwickelt von [**CeCoTePe**](https://cecotepe.be/) für das **Locomotrice**-Projekt. Weitere Algorithmen können später ergänzt werden.
+Das **automatische Generierungsmodul für Aufteilungsschlüssel** von OptimCE ist nun verfügbar, um diese Entscheidung aus dem Bauchgefühl-Bereich herauszuholen. Geben Sie ihm eine CSV mit den realen Erzeugungs- und Verbrauchsdaten der Gemeinschaft, und es liefert einen Kandidatenschlüssel mit der erwarteten kollektiven Eigenverbrauchsrate — berechnet auf Ihren eigenen Daten, nicht auf einem Lehrbuchbeispiel. Heute werden zwei **unabhängige** Algorithmen ausgeliefert, die beide dieselbe CSV verarbeiten: ein **Brute-Force-Scan** über die regional zugelassenen Standardschlüssel und **LOGAAS**, ein hybrider Ansatz aus linearer Optimierung und genetischem Algorithmus, entwickelt von [**CeCoTePe**](https://cecotepe.be/) für das **Locomotrice**-Projekt. Weitere Algorithmen können später ergänzt werden.
 
-Wenn Sie sich noch im regulatorischen Umfeld orientieren — was CWaPE, BRUGEL und VREG als gültigen Schlüssel akzeptieren — beginnen Sie mit unserem Referenzartikel [„Verteilungsschlüssel in Belgien: Wallonie, Brüssel und Flandern im Vergleich"](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/).
+Wenn Sie sich noch im regulatorischen Umfeld orientieren — was CWaPE, BRUGEL und VREG als gültigen Schlüssel akzeptieren — beginnen Sie mit unserem Referenzartikel [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/).
 
-## Warum ein Verteilungsschlüssel datengetrieben sein sollte
+<img src="/assets/images/diagrams/allocation-key-flow-de.svg"
+     alt="Fünfstufiges Schema: Viertelstundendaten, Generierung oder Simulation, Kandidatenschlüssel, Freigabe durch die Mitglieder, Übermittlung an den Netzbetreiber."
+     width="800" height="330" loading="lazy" decoding="async"
+     style="width:100%;height:auto">
 
-Die belgischen Rahmenwerke sind sich in einem Punkt einig: Der Verteilungsschlüssel wird **viertelstündlich** auf die realen Messwerte intelligenter Zähler angewendet. Seine Leistung — die **kollektive Eigenverbrauchsrate**, der **Anteil der eingespeisten Energie, der tatsächlich von Mitgliedern verbraucht wird** — hängt vollständig davon ab, wie das Profil jedes Mitglieds mit der Erzeugungskurve übereinstimmt.
+## Warum ein Aufteilungsschlüssel datengetrieben sein sollte
+
+Die belgischen Rahmenwerke sind sich in einem Punkt einig: Der Aufteilungsschlüssel wird **viertelstündlich** auf die realen Messwerte intelligenter Zähler angewendet. Seine Leistung — die **kollektive Eigenverbrauchsrate**, der **Anteil der eingespeisten Energie, der tatsächlich von Mitgliedern verbraucht wird** — hängt vollständig davon ab, wie das Profil jedes Mitglieds mit der Erzeugungskurve übereinstimmt.
 
 Mehrere Muster erklären, warum die manuelle Wahl häufiger unterperformt, als man denkt:
 
@@ -30,13 +36,13 @@ Die manuelle Auswahl unterschätzt deshalb häufig die verfügbare Erzeugung. Si
 
 ## Was das OptimCE-Modul leistet
 
-Das Modul ist Teil des bestehenden **Verteilungsschlüssel-Moduls** im Open-Source-Kern von OptimCE. Der Ablauf ist einfach:
+Das Modul ist Teil des bestehenden **Aufteilungsschlüssel-Moduls** im Open-Source-Kern von OptimCE. Der Ablauf ist einfach:
 
 1. **Eingaben** — 15-Minuten-Verbrauchsdaten je Mitglied, 15-Minuten-Erzeugungsdaten je Erzeuger, Teilnehmerliste der Sharing-Operation und Region (Wallonie / Brüssel / Flandern), damit der Algorithmus die jeweils zulässigen Standardfamilien respektiert.
 2. **Algorithmus auswählen** — Brute-Force oder LOGAAS.
 3. **Ausführen** — das Modul simuliert den gewählten Algorithmus auf den realen Daten und liefert einen **Kandidatenschlüssel** mit der **erwarteten kollektiven Eigenverbrauchsrate**, dem **Anteil geteilter Energie pro Mitglied** und der **Verteilung der Restinjektion**.
 4. **Prüfen** — der Gemeinschaftsmanager kann Kandidaten vergleichen, Prozentsätze anpassen und validieren.
-5. **Anwenden** — der validierte Schlüssel fließt als neuer Nachtrag in das Verteilungsschlüssel-Modul, mit vollständiger Historie und Mitgliederakzeptanz-Status.
+5. **Anwenden** — der validierte Schlüssel fließt als neuer Nachtrag in das Aufteilungsschlüssel-Modul, mit vollständiger Historie und Mitgliederakzeptanz-Status.
 
 Das Modul übermittelt einen neuen Schlüssel **nicht** eigenständig an den Verteilnetzbetreiber. Es erzeugt einen Vorschlag; der bestehende Workflow — Nachtrag, Unterschriften, Übermittlung — bleibt bestehen, einschließlich der Regulatorgenehmigung für Nicht-Standardschlüssel in der Wallonie.
 
@@ -61,11 +67,11 @@ Seine Grenze ist der Katalog selbst. Sind die Profile einer Gemeinschaft atypisc
 
 ## Algorithmus 2 — LOGAAS
 
-**LOGAAS** steht für *Linear Optimization with Genetic Algorithm with Atypical Speciation*. Er ist das Ergebnis von Forschungsarbeiten von [CeCoTePe](https://cecotepe.be/) für das Locomotrice-Projekt und ist formal beschrieben im Preprint *Paque, E. & Hiard, S. (2025), „LOGAAS: A hybrid algorithmic approach to ex-post electricity allocation for energy communities"*.
+**LOGAAS** steht für *Linear Optimization with Genetic Algorithm with Atypical Speciation*. Er ist das Ergebnis von Forschungsarbeiten von [CeCoTePe](https://cecotepe.be/) für das Locomotrice-Projekt und ist formal beschrieben im Preprint *Paque, E. & Hiard, S. (2025), „LOGAAS: A hybrid algorithmic approach to ex-post electricity allocation for energy communities“*.
 
 Während Brute-Force durch den Standardkatalog begrenzt ist, durchsucht LOGAAS einen **breiteren Raum von Kandidatenschlüsseln** — einschließlich Nicht-Standard-Kombinationen — indem er **lineare Optimierung** (findet die beste Ex-Post-Allokation für eine gegebene Iteration) mit einem **genetischen Algorithmus** mit **atypischer Speziation** (findet die beste Kombination von Prozentsätzen über die bis zu drei zulässigen Iterationen und erhält dabei die Populationsdiversität) kombiniert. Praktisch heißt das: Er kann zusätzliche Performance gewinnen, wenn die Standardfamilien nicht sauber auf die Profile passen — sehr heterogene Mitgliedergruppen, saisonale Industrieverbraucher zusammen mit Haushalten oder große Überschusserzeuger, die sonst den Großteil ihrer Erzeugung ins öffentliche Netz zurückspeisen würden.
 
-LOGAAS gibt einen **Nicht-Standard-Kandidatenschlüssel** aus. In der Wallonie bedeutet das, dass die Gemeinschaft den **CWaPE-Genehmigungsweg** durchlaufen muss, bevor der Verteilnetzbetreiber den Schlüssel anwenden kann — siehe den [Artikel über Verteilungsschlüssel in Belgien](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/) für das Verfahren. In Brüssel und Flandern ist der Spielraum für Nicht-Standardschlüssel enger; die LOGAAS-Ausgabe dient dort meist als **Performance-Referenz** — wie sähe das bestmögliche Ergebnis aus? — gegen die der gewählte Standardschlüssel verglichen wird.
+LOGAAS gibt einen **Nicht-Standard-Kandidatenschlüssel** aus. In der Wallonie bedeutet das, dass die Gemeinschaft den **CWaPE-Genehmigungsweg** durchlaufen muss, bevor der Verteilnetzbetreiber den Schlüssel anwenden kann — siehe den [Artikel über Aufteilungsschlüssel in Belgien](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/) für das Verfahren. In Brüssel und Flandern ist der Spielraum für Nicht-Standardschlüssel enger; die LOGAAS-Ausgabe dient dort meist als **Performance-Referenz** — wie sähe das bestmögliche Ergebnis aus? — gegen die der gewählte Standardschlüssel verglichen wird.
 
 Verwenden Sie LOGAAS, wenn das Brute-Force-Ergebnis nah dran, aber nicht ausreichend ist, wenn die Projektwirtschaftlichkeit von den letzten Prozentpunkten der kollektiven Eigenverbrauchsrate abhängt oder wenn Sie eine quantifizierte obere Schranke für eine Investitionsentscheidung benötigen.
 
@@ -86,7 +92,7 @@ Die beiden Algorithmen sind **zwei unabhängige Wege**, einen Schlüssel aus der
 
 Das Modul ist heute in der OptimCE-Anwendung verfügbar:
 
-1. Öffnen Sie das **Verteilungsschlüssel-Modul** für die Sharing-Operation, die Sie optimieren möchten.
+1. Öffnen Sie das **Aufteilungsschlüssel-Modul** für die Sharing-Operation, die Sie optimieren möchten.
 2. Klicken Sie auf **Schlüssel generieren**. Laden Sie eine CSV mit den Viertelstunden-Verbrauchsdaten (pro Mitglied) und -Erzeugungsdaten (pro Erzeuger) hoch.
 3. Wählen Sie einen Algorithmus — Brute-Force oder LOGAAS. Beide laufen unabhängig auf derselben CSV; Sie können die Ergebnisse nebeneinanderlegen.
 4. Starten Sie. Prüfen Sie den Kandidatenschlüssel, seine erwartete kollektive Eigenverbrauchsrate und die Tabelle der Anteile je Mitglied.
@@ -98,13 +104,13 @@ Die gesamte Schleife — vom Daten-Upload bis zum Nachtrag — lebt in OptimCE. 
 
 Das Modul ist um eine plugbare Algorithmusschnittstelle herum gebaut, sodass neue Ansätze hinzugefügt werden können, ohne den Kern anzufassen. Plausible nächste Schritte: **Mehrzieloptimierung** (kollektive Eigenverbrauchsrate vs. Fairness je Mitglied), **fairnessbeschränkte Varianten** (Begrenzung der Lücke zwischen am besten und am schlechtesten bedienten Mitgliedern) und **szenarienbasierte Simulation** (Test eines Schlüssels gegen erwartete Mitgliederfluktuation oder Erzeugungswachstum). Jede Erweiterung wird bei Auslieferung angekündigt.
 
-> ### Erzeugen Sie Ihren Verteilungsschlüssel mit OptimCE
+> ### Erzeugen Sie Ihren Aufteilungsschlüssel mit OptimCE
 >
 > Eine Open-Source-Plattform für belgische Energiegemeinschaften: datengetriebene Schlüsselgenerierung, Historie der Sharing-Operationen, Tracking der Mitgliederakzeptanz und Vorbereitung des Regulator-Reportings — alles in einer Anwendung.
 >
 > **[Auf app.optimce.be starten →](https://app.optimce.be)**
 
-## FAQ — Automatische Generierung von Verteilungsschlüsseln
+## FAQ — Automatische Generierung von Aufteilungsschlüsseln
 
 ### Welche Daten benötigt das Modul?
 
@@ -132,17 +138,17 @@ Ein guter Rhythmus ist **jährlich**, idealerweise vor der ordentlichen Generalv
 
 ## Wesentliche Erkenntnisse
 
-Das automatische Generierungsmodul verwandelt die Wahl des Verteilungsschlüssels von einer Lehrbuchaufgabe in eine datengetriebene Entscheidung. **Brute-Force** findet den besten Standardschlüssel für die realen Profile der Gemeinschaft — schnell, erklärbar, regulator-konform. **LOGAAS** geht darüber hinaus, wenn die Projektwirtschaftlichkeit jeden Prozentpunkt braucht. Zusammen geben sie Gemeinschaftsmanagern ein Werkzeug, ihre Schlüsselwahl vor der Generalversammlung, dem Verteilnetzbetreiber und dem Regulator zu verteidigen — mit Zahlen aus den eigenen Daten der Gemeinschaft.
+Das automatische Generierungsmodul verwandelt die Wahl des Aufteilungsschlüssels von einer Lehrbuchaufgabe in eine datengetriebene Entscheidung. **Brute-Force** findet den besten Standardschlüssel für die realen Profile der Gemeinschaft — schnell, erklärbar, regulator-konform. **LOGAAS** geht darüber hinaus, wenn die Projektwirtschaftlichkeit jeden Prozentpunkt braucht. Zusammen geben sie Gemeinschaftsmanagern ein Werkzeug, ihre Schlüsselwahl vor der Generalversammlung, dem Verteilnetzbetreiber und dem Regulator zu verteidigen — mit Zahlen aus den eigenen Daten der Gemeinschaft.
 
 Um weiter zu gehen, lesen Sie unsere begleitenden Leitfäden:
 
-> **[Verteilungsschlüssel in Belgien: Wallonie, Brüssel und Flandern im Vergleich](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/)**
+> **[Aufteilungsschlüssel in Belgien: 3 Regionen](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/)**
 >
 > Der regulatorische Primer — was CWaPE, BRUGEL und VREG akzeptieren, die drei regionalen Vokabulare und wie man eine Schlüsselfamilie wählt, bevor OptimCE darin optimiert.
 
 > **[Wie man eine Energiegemeinschaft in Wallonien gründet: Schritt-für-Schritt-Leitfaden](/de/aktuelles/2026/05/11/energiegemeinschaft-gruenden-wallonien/)**
 >
-> Das Projekt rahmen, zwischen CER und CEC wählen, die CWaPE benachrichtigen und das Sharing starten — und wo der Verteilungsschlüssel in die Akte passt.
+> Das Projekt rahmen, zwischen CER und CEC wählen, die CWaPE benachrichtigen und das Sharing starten — und wo der Aufteilungsschlüssel in die Akte passt.
 
 > **[Wie man einer Energiegemeinschaft in Wallonien beitritt: praktischer Leitfaden](/de/aktuelles/2026/05/11/energiegemeinschaft-beitreten-wallonien/)**
 >
@@ -152,6 +158,6 @@ Um weiter zu gehen, lesen Sie unsere begleitenden Leitfäden:
 
 - Paque, E. & Hiard, S. (2025). *LOGAAS: A hybrid algorithmic approach to ex-post electricity allocation for energy communities*. CeCoTePe-Preprint — formale Beschreibung des Algorithmus, der Zielfunktion und der Simulationsergebnisse auf synthetischen Energiegemeinschaftsdaten.
 - [CeCoTePe](https://cecotepe.be/) — Forschungszentrum hinter dem LOGAAS-Algorithmus, Partner im Locomotrice-Projekt.
-- [CWaPE — Liste der Standard-Verteilungsschlüssel](https://www.cwape.be/publications/document/5382) — Vorschlag CD-23d27-CWaPE-0928 vom 27. April 2023, kanonische Liste der wallonischen Standardschlüssel.
+- [CWaPE — Liste der Standard-Aufteilungsschlüssel](https://www.cwape.be/publications/document/5382) — Vorschlag CD-23d27-CWaPE-0928 vom 27. April 2023, kanonische Liste der wallonischen Standardschlüssel.
 - [Sibelga — Verteilungsmethoden für das Energy-Sharing](https://www.sibelga.be/fr/raccordements-compteurs/energie-renouvelable/partage-energie/methodes-de-repartition) — feste, prorata und hybride Methoden in Brüssel.
 - [Fluvius — Protocol energiedelen, persoon-aan-persoonverkoop](https://www.fluvius.be/sites/fluvius/files/2024-07/protocol-energiedelen-p2p-verkoop-in-gebouwen-v3-2.pdf) — flämisches technisches Protokoll (v3.x, Juli 2024).

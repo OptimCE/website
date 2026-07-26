@@ -4,6 +4,7 @@ title: "Verdeelsleutel simuleren: test uw scenario's"
 date: 2026-06-09 10:00:00 +0200
 author: "OptimCE-team"
 excerpt: "Nieuwe OptimCE-functie: simuleer een verdeelsleutel op uw data en meet zelfverbruik, surplus, zelfvoorziening en deelgraad voor uw gemeenschap."
+description: "Simuleer een sleutel op uw eigen data en meet zelfverbruik, surplus, zelfvoorziening en deelgraad voordat u hem vastlegt."
 tags: [allocation-key, app, news]
 lang: nl
 ref: optimce-allocation-key-simulation
@@ -27,7 +28,7 @@ Een **verdeelsleutel** kiezen betekent kwartier per kwartier beslissen wie welk 
 
 Het idee is eenvoudig: u importeert een dataset, u kiest een sleutel, en de simulatie speelt elke tijdstap door die sleutel om u het **zelfverbruik**, het **surplus**, de **zelfvoorzieningsgraad** en de **deelgraad** terug te geven — globaal, per tijdstap en per iteratie. U test een scenario zonder het toe te passen, zonder risico, en u beslist op basis van cijfers in plaats van buikgevoel.
 
-Is het begrip verdeelsleutel nieuw voor u, begin dan met ons referentieartikel ["Verdeelsleutel in België: Wallonië, Brussel en Vlaanderen vergeleken"](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/) — het zet het vocabulaire uiteen dat hier wordt gebruikt.
+Is het begrip verdeelsleutel nieuw voor u, begin dan met ons referentieartikel [“Verdeelsleutel in België: de 3 regio's”](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/) — het zet het vocabulaire uiteen dat hier wordt gebruikt.
 
 ## Waarom een verdeelsleutel simuleren?
 
@@ -35,7 +36,7 @@ Een verdeelsleutel is niet neutraal: afhankelijk van de verbruiks- en productiep
 
 Het probleem is dat **op buikgevoel beslissen riskant is**. Productiecurves van zonne-energie en verbruiksprofielen kruisen elkaar op niet-triviale wijze op de 15-minutenstap; met het blote oog is het onmogelijk te voorspellen of sleutel A het over een volledig jaar van sleutel B wint. En de inzet is concreet: elk punt zelfverbruik dat u wint, is surplus dat niet langer tegen een lage prijs wordt geïnjecteerd, dus meer waarde die in de gemeenschap blijft.
 
-Simuleren betekent net **die beslissing uit het buikgevoel halen**. U meet het reële effect van een sleutel op de indicatoren die ertoe doen — zelfverbruik, surplus, zelfvoorziening, deelgraad — voordat u zich tot iets verbindt. Om te begrijpen waarom die indicatoren centraal staan in de waarde van een gemeenschap, zie ons artikel ["Zelfverbruik van energie in België"](/nl/nieuws/2026/06/05/zelfverbruik-energie-belgie/).
+Simuleren betekent net **die beslissing uit het buikgevoel halen**. U meet het reële effect van een sleutel op de indicatoren die ertoe doen — zelfverbruik, surplus, zelfvoorziening, deelgraad — voordat u zich tot iets verbindt. Om te begrijpen waarom die indicatoren centraal staan in de waarde van een gemeenschap, zie ons artikel [“Zelfverbruik van energie in België”](/nl/nieuws/2026/06/05/zelfverbruik-energie-belgie/).
 
 ## Wat de simulatie mogelijk maakt
 
@@ -118,13 +119,13 @@ Het zijn twee complementaire toepassingen, geen concurrenten:
 | Uitvoer | De KPI's van de geteste sleutel | Eén (of meer) geoptimaliseerde kandidaat-sleutel(s) |
 | Typisch gebruik | Scenario's vergelijken, begrijpen, verantwoorden | Een goed startpunt vinden |
 
-In de praktijk genereert u om een solide kandidaat te vinden en simuleert u vervolgens om zijn gedrag te begrijpen, varianten te vergelijken en hem te verdedigen. Voor de details van de algoritmes, zie ["Automatische generatie van verdeelsleutels met OptimCE"](/nl/nieuws/2026/05/26/automatische-verdeelsleutel-generatie/).
+In de praktijk genereert u om een solide kandidaat te vinden en simuleert u vervolgens om zijn gedrag te begrijpen, varianten te vergelijken en hem te verdedigen. Voor de details van de algoritmes, zie [“Verdeelsleutel automatisch genereren”](/nl/nieuws/2026/05/26/automatische-verdeelsleutel-generatie/).
 
 ## Energiegemeenschappen in België, in het kort
 
 Een **energiegemeenschap** brengt producenten en verbruikers samen die lokaal hernieuwbare productie delen. Het delen is administratief: digitale meters worden afgelezen op een **15-minutenstap**, en de **distributienetbeheerder (DNB)** past de gekozen verdeelsleutel toe om elk lid een aandeel van de geïnjecteerde energie toe te wijzen. België erkent verschillende vormen — HEG, BEG en, in Brussel, LEG — onder toezicht van de regionale regulatoren ([Brugel](https://energysharing.brugel.brussels) in Brussel, met [Sibelga](https://www.sibelga.be/nl/aansluitingen-meters/hernieuwbare-energie/energie-delen) als netbeheerder).
 
-In dit landschap is de verdeelsleutel de centrale parameter van de prestatie van een gemeenschap — en de simulatie beantwoordt een reële behoefte: **het delen van energie structureren en begrijpen** voordat men zich ertoe verbindt. Voor het volledige overzicht van de juridische vormen, zie ["Energiegemeenschappen in België: CER, CEC en CEL uitgelegd"](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/).
+In dit landschap is de verdeelsleutel de centrale parameter van de prestatie van een gemeenschap — en de simulatie beantwoordt een reële behoefte: **het delen van energie structureren en begrijpen** voordat men zich ertoe verbindt. Voor het volledige overzicht van de juridische vormen, zie [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/).
 
 ## Conclusie
 

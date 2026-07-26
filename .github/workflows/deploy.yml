@@ -19,6 +19,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # scripts/check_seo.py reads git log for glossary freshness
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.4'
@@ -27,6 +29,13 @@ jobs:
       - run: bundle exec jekyll build --baseurl ""
         env:
           JEKYLL_ENV: production
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: SEO guards
+        # Malformed JSON-LD, an over-long <title> and a cross-language link all
+        # produce a green build and a successful deploy. Nothing else catches them.
+        run: python scripts/check_seo.py --site _site
       - name: Minify JavaScript
         run: npx --yes terser _site/assets/js/main.js -o _site/assets/js/main.js -c -m
       - uses: actions/upload-pages-artifact@v3

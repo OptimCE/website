@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Invoicing shared electricity in Belgium: who bills what, VAT and obligations"
+title: "Invoicing shared electricity in Belgium"
 date: 2026-07-23 10:00:00 +0200
 author: "OptimCE Team"
 excerpt: "In energy sharing, two invoices coexist: your supplier's and the sharing representative's. Who issues what, which VAT rate applies (6 or 21%), how to handle excise duties and green certificates, and which mentions are mandatory."
+description: "Two invoices coexist in energy sharing. Who issues what, which VAT rate applies, and which mentions are legally mandatory."
 tags: [community, administrative, guide]
 lang: en
 ref: invoice-shared-electricity
@@ -25,7 +26,12 @@ faq:
 
 An energy community shares kWh — but it also produces invoices. And that is where the confusion begins: every quarter, a sharing participant receives not one but **two invoices**. One from their usual supplier, one from the community. No one has explained which covers what, nor why network fees always appear on the first even though they are consuming "local" electricity.
 
-This article sorts out the roles. Who has the right — and the obligation — to issue the invoice for shared energy? What must it contain? Which VAT applies, and how do excise duties and green certificates fit in? If instead you are after *what price* to set per kWh, our guide ["Electricity price in an energy community"](/en/news/2026/07/20/energy-community-electricity-price/) answers that in detail; and if the allocation key is still unfamiliar, start with our reference article ["Allocation key in Belgium: Wallonia, Brussels and Flanders compared"](/en/news/2026/05/19/allocation-key-belgium/). Here, a single question: **who invoices what?**
+This article sorts out the roles. Who has the right — and the obligation — to issue the invoice for shared energy? What must it contain? Which VAT applies, and how do excise duties and green certificates fit in? If instead you are after *what price* to set per kWh, our guide [“Internal transfer price in an energy community”](/en/news/2026/07/20/energy-community-electricity-price/) answers that in detail; and if the allocation key is still unfamiliar, start with our reference article [“Allocation key in Belgium: the 3 regions”](/en/news/2026/05/19/allocation-key-belgium/). Here, a single question: **who invoices what?**
+
+<img src="/assets/images/diagrams/two-invoices-en.svg"
+     alt="Two cards side by side: the supplier invoice and the sharing representative's invoice, with what each one contains."
+     width="800" height="400" loading="lazy" decoding="async"
+     style="width:100%;height:auto">
 
 ## Two invoices, not one: sharing does not replace your supplier
 

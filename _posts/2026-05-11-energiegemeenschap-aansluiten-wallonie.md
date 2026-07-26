@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Toetreden tot een energiegemeenschap in Wallonië: praktische gids"
+title: "Toetreden tot een energiegemeenschap in Wallonië"
 date: 2026-05-11 16:00:00 +0200
 author: "OptimCE-team"
 excerpt: "Hoe toetreden tot een energiegemeenschap in Wallonië: voorwaarden, waar een open deelactie vinden (OptimCE-register, SPW-facilitator, Énergie commune), stappen en aandachtspunten vóór ondertekening."
+description: "Voorwaarden, waar u een open deelactie vindt, de stappen om toe te treden en wat u moet nakijken vóór u tekent."
 tags: [community, administrative, guide]
 lang: nl
 ref: join-energy-community-wallonia
@@ -11,11 +12,11 @@ last_modified_at: 2026-07-16 10:00:00 +0200
 permalink: /nl/nieuws/2026/05/11/energiegemeenschap-aansluiten-wallonie/
 ---
 
-In Wallonië zijn energiegemeenschappen geen marginaal experiment meer: honderden deelacties zijn actief of in voorbereiding op melding. Het wettelijke kader is stabiel, de distributienetbeheerders (ORES, RESA, AIEG) zijn voorbereid, en het merendeel van de meters is al digitaal. Voor de meeste burgers, kmo's en lokale overheden blijft één concrete drempel: **hoe vind je een gemeenschap die nieuwe leden aanvaardt**, en **wat moet je controleren vóór je tekent**?
+In Wallonië zijn energiegemeenschappen geen marginaal experiment meer: honderden deelacties zijn actief of in voorbereiding op melding. Het wettelijke kader is stabiel, de distributienetbeheerders (ORES, RESA, AIEG) zijn voorbereid, en het merendeel van de meters is al digitaal. Voor de meeste burgers, kmo's en lokale overheden blijft één concrete drempel: **hoe vindt u een gemeenschap die nieuwe leden aanvaardt**, en **wat moet u controleren vóór u tekent**?
 
-Deze gids is bedoeld voor dat publiek. Niet voor projectleiders die een gemeenschap willen oprichten — daarvoor verwijzen we naar onze [stap-voor-stap-oprichtingsgids](/nl/nieuws/2026/05/11/energiegemeenschap-oprichten-wallonie/) — noch voor wie het concept nog moet ontdekken — begin in dat geval met [„Energiegemeenschappen in België: CER, CEC en CEL uitgelegd"](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/). Hij richt zich tot iedereen die **wil toetreden tot een bestaande deelactie** en wil weten hoe dat precies in zijn werk gaat.
+Deze gids is bedoeld voor dat publiek. Niet voor projectleiders die een gemeenschap willen oprichten — daarvoor verwijzen we naar onze [stap-voor-stap-oprichtingsgids](/nl/nieuws/2026/05/11/energiegemeenschap-oprichten-wallonie/) — noch voor wie het concept nog moet ontdekken — begin in dat geval met [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/). Hij richt zich tot iedereen die **wil toetreden tot een bestaande deelactie** en wil weten hoe dat precies in zijn werk gaat.
 
-Aan het einde van dit artikel weet je **wie kan aansluiten**, **waar een open deelactie te vinden**, **welke stappen** je doorloopt tussen het eerste contact en de eerste gedeelde kilowattuur, en **welke punten je moet nakijken** in de overeenkomst vóór je tekent.
+Aan het einde van dit artikel weet u **wie kan aansluiten**, **waar een open deelactie te vinden**, **welke stappen** u doorloopt tussen het eerste contact en de eerste gedeelde kilowattuur, en **welke punten u moet nakijken** in de overeenkomst vóór u tekent.
 
 ## Overzicht: toetreden vs. oprichten
 
@@ -28,7 +29,7 @@ Toetreden tot een bestaande gemeenschap is een veel korter traject dan er een op
 | Investering | Bijdrage of aandeel (€10 tot €500 naargelang de structuur) | Beginkapitaal, notariskosten, begeleiding |
 | Doelpubliek | Burgers, huurders, kmo's, gemeenten op zoek naar delen | Collectieven, gemeenten, producenten als projectdragers |
 
-Spreekt de rechterkolom je meer aan, dan is de oprichtingsgids voor jou. Anders blijf je hier.
+Spreekt de rechterkolom u meer aan, dan is de oprichtingsgids voor u. Anders blijft u hier.
 
 ## Wie kan toetreden tot een energiegemeenschap in Wallonië?
 
@@ -40,13 +41,13 @@ Het Waalse kader, vastgelegd in het decreet van 5 mei 2022 en verduidelijkt door
 | Particuliere huurder | Ja | Idem; verwittig de eigenaar bij meerjarige verbintenis |
 | Zelfstandige / kmo | Ja | Energie mag niet de hoofdactiviteit zijn |
 | Grote onderneming | In de regel niet | Voorbehouden aan kmo's, particulieren en lokale overheden |
-| Gemeente, school, intercommunale | Ja | Geen voorwaarde „energie geen hoofdactiviteit" |
+| Gemeente, school, intercommunale | Ja | Geen voorwaarde “energie geen hoofdactiviteit” |
 | Lokale vzw (geen overheid) | Ja | Gelijkgesteld met een verbruiker |
 | Speler uit de energiesector | In de regel niet | Hoofdactiviteit onverenigbaar |
 
 ### Particulieren — huurders zowel als eigenaars
 
-Elke particulier kan toetreden, of hij nu eigenaar of huurder is. Het delen volgt het **EAN van het leveringspunt**, niet de eigendomsakte: je statuut speelt geen rol zolang de meter op jouw naam staat. Ben je huurder en gaat de overeenkomst verder dan je huurperiode, dan is het goede praktijk — geen wettelijke verplichting — om de eigenaar te informeren.
+Elke particulier kan toetreden, of hij nu eigenaar of huurder is. Het delen volgt het **EAN van het leveringspunt**, niet de eigendomsakte: uw statuut speelt geen rol zolang de meter op uw naam staat. Bent u huurder en gaat de overeenkomst verder dan uw huurperiode, dan is het goede praktijk — geen wettelijke verplichting — om de eigenaar te informeren.
 
 ### Kmo's en zelfstandigen
 
@@ -54,17 +55,17 @@ Kmo's en zelfstandigen kunnen toetreden tot een CER of CEC, **op voorwaarde dat 
 
 ### Lokale overheden en instellingen
 
-Gemeenten, intercommunales, gemeentescholen en OCMW's mogen allemaal deelnemen en genieten een bijzonder regime — de voorwaarde „energie geen hoofdactiviteit" **geldt niet voor hen**. Voor de officiële context en de rol van de Waalse facilitator, zie de referentiepagina van [SPW Énergie](https://energie.wallonie.be) over energiegemeenschappen en energiedelen.
+Gemeenten, intercommunales, gemeentescholen en OCMW's mogen allemaal deelnemen en genieten een bijzonder regime — de voorwaarde “energie geen hoofdactiviteit” **geldt niet voor hen**. Voor de officiële context en de rol van de Waalse facilitator, zie de referentiepagina van [SPW Énergie](https://energie.wallonie.be) over energiegemeenschappen en energiedelen.
 
 ### De technische voorwaarden
 
-Voor je kunt toetreden, moeten op je leveringspunt drie technische voorwaarden vervuld zijn:
+Voor u kunt toetreden, moeten op uw leveringspunt drie technische voorwaarden vervuld zijn:
 
-- **Digitale meter**: verplicht. Heb je er nog geen, dan plaatst de DNB (ORES, RESA of AIEG) hem **gratis**, doorgaans binnen 60 dagen. Zie de [gids energiedelen van AIEG](https://www.aieg.be/le-partage-denergie) voor de technische details aan netzijde.
-- **Identificeerbaar EAN**: je leveringspuntnummer, 18 cijfers beginnend met `541449...`. Het staat op elke elektriciteitsfactuur, in de rubriek „technische gegevens" of „leveringspunt".
-- **Geografisch bereik**: vereist voor een **CER** (je moet binnen de nabijheidsperimeter van de producenten liggen), niet vereist voor een **CEC**. Voor de herinnering CER vs CEC, zie de [vergelijkingstabel in ons moederartikel](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/).
+- **Digitale meter**: verplicht. Hebt u er nog geen, dan plaatst de DNB (ORES, RESA of AIEG) hem **gratis**, doorgaans binnen 60 dagen. Zie de [gids energiedelen van AIEG](https://www.aieg.be/le-partage-denergie) voor de technische details aan netzijde.
+- **Identificeerbaar EAN**: uw leveringspuntnummer, 18 cijfers beginnend met `541449...`. Het staat op elke elektriciteitsfactuur, in de rubriek “technische gegevens” of “leveringspunt”.
+- **Geografisch bereik**: vereist voor een **CER** (u moet binnen de nabijheidsperimeter van de producenten liggen), niet vereist voor een **CEC**. Voor de herinnering CER vs CEC, zie de [vergelijkingstabel in ons moederartikel](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/).
 
-## Waar vind je een energiegemeenschap in Wallonië?
+## Waar vindt u een energiegemeenschap in Wallonië?
 
 Dat is vandaag de moeilijkste vraag in Wallonië. Meerdere kanalen bestaan naast elkaar, van het meest actionneerbare tot het meest verspreide. Hier is een eerlijke rangschikking.
 
@@ -79,17 +80,17 @@ Dat is vandaag de moeilijkste vraag in Wallonië. Meerdere kanalen bestaan naast
 
 ### Het openbare register van OptimCE
 
-OptimCE biedt een **[openbaar register van deelacties](/nl/nieuws/2026/05/07/release-nieuws/)** dat in de applicatie is geïntegreerd. Elke gemeenschapsbeheerder kan ervoor kiezen om zijn deelactie te publiceren; iedereen kan vervolgens de lijst doorbladeren, filteren per gemeente, de deelacties identificeren die **openstaan voor nieuwe leden** en rechtstreeks contact opnemen met de beheerder.
+OptimCE biedt een **[openbaar register van deelacties](https://app.optimce.be)** dat in de applicatie is geïntegreerd. Elke gemeenschapsbeheerder kan ervoor kiezen om zijn deelactie te publiceren; iedereen kan vervolgens de lijst doorbladeren, filteren per gemeente, de deelacties identificeren die **openstaan voor nieuwe leden** en rechtstreeks contact opnemen met de beheerder.
 
 Vandaag is het het **enige interregionale register dat vrij raadpleegbaar is zonder voorafgaande stap**: de andere kanalen veronderstellen ofwel een eerste contact met een facilitator, ofwel kennis van een lokaal project. Het is ook het snelste kanaal voor een eerste algemeen overzicht.
 
 ### De SPW-facilitator Energiegemeenschappen
 
-De Service public de Wallonie heeft een **facilitator Energiegemeenschappen** aangesteld die zowel projectleiders als toekomstige leden begeleidt. De facilitator kan je helpen actieve initiatieven in je gemeente te identificeren, de perimeter van een CER te verifiëren vóór je contact opneemt, of je naar een relevante coöperatie te oriënteren. De contactgegevens staan op de pagina [Communautés d'énergie et partage d'énergie](https://energie.wallonie.be) van SPW Énergie.
+De Service public de Wallonie heeft een **facilitator Energiegemeenschappen** aangesteld die zowel projectleiders als toekomstige leden begeleidt. De facilitator kan u helpen actieve initiatieven in uw gemeente te identificeren, de perimeter van een CER te verifiëren vóór uw contact opneemt, of u naar een relevante coöperatie te oriënteren. De contactgegevens staan op de pagina [Communautés d'énergie et partage d'énergie](https://energie.wallonie.be) van SPW Énergie.
 
 ### Het matchingformulier van Énergie commune
 
-De vereniging [Énergie commune](https://energiecommune.be) stelt een **contactformulier** ter beschikking om je te oriënteren naar een energiegemeenschap in Wallonië. De daar gerepertorieerde gemeenschappen hebben doorgaans een burger- en coöperatief profiel — een goed startpunt als je criteria gedeeld bestuur en verenigingsverankering omvatten.
+De vereniging [Énergie commune](https://energiecommune.be) stelt een **contactformulier** ter beschikking om u te oriënteren naar een energiegemeenschap in Wallonië. De daar gerepertorieerde gemeenschappen hebben doorgaans een burger- en coöperatief profiel — een goed startpunt als uw criteria gedeeld bestuur en verenigingsverankering omvatten.
 
 ### Lokale intercommunales en coöperaties
 
@@ -101,31 +102,31 @@ ORES, RESA en AIEG publiceren informatie over de actieve gemeenschappen op hun g
 
 ### Gemeente, lokale pers, mond-tot-mond
 
-Vooral in landelijke gebieden ontstaan veel gemeenschappen rond een gemeentelijk initiatief, een artikel in de regionale pers of een gesprek in de buurt. Heeft je gemeente een actief verenigingsleven, dan is de gemeentelijke energieambtenaar vaak op de hoogte van opkomende projecten.
+Vooral in landelijke gebieden ontstaan veel gemeenschappen rond een gemeentelijk initiatief, een artikel in de regionale pers of een gesprek in de buurt. Heeft uw gemeente een actief verenigingsleven, dan is de gemeentelijke energieambtenaar vaak op de hoogte van opkomende projecten.
 
 ## De stappen om toe te treden — één voor één
 
-Eens een gemeenschap geïdentificeerd, verloopt de toetreding meestal in zes stappen. Het tempo hangt af van de beheerder en je situatie, maar reken op **6 tot 12 weken** tussen het eerste contact en de eerste gedeelde kilowattuur.
+Eens een gemeenschap geïdentificeerd, verloopt de toetreding meestal in zes stappen. Het tempo hangt af van de beheerder en uw situatie, maar reken op **6 tot 12 weken** tussen het eerste contact en de eerste gedeelde kilowattuur.
 
 ### Stap 1 — Contact opnemen met de beheerder
 
-De meeste gemeenschappen beschikken over een contactformulier of e-mailadres. Vaak wordt een **collectieve informatiesessie** georganiseerd — fysiek of online — waarop het project, de producenten, de voorziene verdeelsleutel en de overeenkomst worden voorgesteld. Dat is hét moment om al je vragen te stellen.
+De meeste gemeenschappen beschikken over een contactformulier of e-mailadres. Vaak wordt een **collectieve informatiesessie** georganiseerd — fysiek of online — waarop het project, de producenten, de voorziene verdeelsleutel en de overeenkomst worden voorgesteld. Dat is hét moment om al u vragen te stellen.
 
-Wat je meebrengt naar dat eerste contact: je laatste elektriciteitsfactuur (of minstens je EAN-nummer), je statuut (particulier, kmo, lokale overheid) en een schatting van je jaarverbruik in kWh.
+Wat u meebrengt naar dat eerste contact: uw laatste elektriciteitsfactuur (of minstens uw EAN-nummer), uw statuut (particulier, kmo, lokale overheid) en een schatting van uw jaarverbruik in kWh.
 
 ### Stap 2 — Controle van de toelaatbaarheid
 
 De beheerder verifieert enkele elementen:
 
-- Je **EAN** is wel aangesloten op de bevoegde DNB (ORES/RESA/AIEG naargelang de gemeente).
-- Je leveringspunt ligt binnen de **perimeter** van de gemeenschap (essentieel voor een CER; niet van toepassing voor een CEC).
-- Je **meter** is digitaal. Zo niet, dan plant de DNB een gratis vervanging.
+- Uw **EAN** is wel aangesloten op de bevoegde DNB (ORES/RESA/AIEG naargelang de gemeente).
+- Uw leveringspunt ligt binnen de **perimeter** van de gemeenschap (essentieel voor een CER; niet van toepassing voor een CEC).
+- Uw **meter** is digitaal. Zo niet, dan plant de DNB een gratis vervanging.
 
-Om je EAN terug te vinden, kijk je naar de rubriek „leveringspunt" of „technische gegevens" op je factuur — 18 cijfers beginnend met `541449`. Je kunt het ook raadplegen op het portaal van je DNB.
+Om uw EAN terug te vinden, kijkt u naar de rubriek “leveringspunt” of “technische gegevens” op uw factuur — 18 cijfers beginnend met `541449`. U kunt het ook raadplegen op het portaal van uw DNB.
 
 ### Stap 3 — De deelovereenkomst lezen en ondertekenen
 
-De **deelovereenkomst** is het interne contract dat alle leden bindt: zij legt de interne prijs, de verdeelsleutel, de governance, de toetredings- en uittredingsvoorwaarden en de geschillenregeling vast. In deze fase *stel je hem niet op* — je **treedt toe tot een bestaande tekst**. Lees hem zorgvuldig en vraag de gemeenschap om elke onduidelijke clausule toe te lichten.
+De **deelovereenkomst** is het interne contract dat alle leden bindt: zij legt de interne prijs, de verdeelsleutel, de governance, de toetredings- en uittredingsvoorwaarden en de geschillenregeling vast. In deze fase *stelt u hem niet op* — u **treedt toe tot een bestaande tekst**. Lees hem zorgvuldig en vraag de gemeenschap om elke onduidelijke clausule toe te lichten.
 
 Voor een volledige beschrijving van wat er in een deelovereenkomst staat, zie het [overeenkomstige hoofdstuk in onze oprichtingsgids](/nl/nieuws/2026/05/11/energiegemeenschap-oprichten-wallonie/); we herhalen het detail hier niet.
 
@@ -139,19 +140,19 @@ Naargelang de juridische structuur van de gemeenschap variëren de formaliteiten
 
 ### Stap 5 — Communicatie aan de DNB en opstart
 
-Goed nieuws voor jou: in deze fase **hoef je niets te doen**. De beheerder van de gemeenschap geeft je EAN door aan de DNB (ORES, RESA of AIEG), die je op een afgesproken datum aan de deelactie toevoegt. Geen verandering van leverancier, geen opzegging, geen nieuw contract aan energiezijde.
+Goed nieuws voor u: in deze fase **hoeft u niets te doen**. De beheerder van de gemeenschap geeft uw EAN door aan de DNB (ORES, RESA of AIEG), die u op een afgesproken datum aan de deelactie toevoegt. Geen verandering van leverancier, geen opzegging, geen nieuw contract aan energiezijde.
 
-De doorlooptijd tussen ondertekening en eerste gedeelde kWh is doorgaans **4 tot 8 weken**. De beperkende factor is de DNB-planning, eventueel verlengd door de plaatsing van een digitale meter als je er nog geen had.
+De doorlooptijd tussen ondertekening en eerste gedeelde kWh is doorgaans **4 tot 8 weken**. De beperkende factor is de DNB-planning, eventueel verlengd door de plaatsing van een digitale meter als u er nog geen had.
 
 ### Stap 6 — Eerste afrekening en opvolging
 
-Eenmaal operationeel leest de DNB je meter elke 15 minuten af, past hij de verdeelsleutel toe en bezorgt hij de gedeelde volumes aan je leverancier. Op je factuur wordt dat aandeel gewaardeerd tegen de interne prijs van de gemeenschap; het saldo — de **residuele energie** — blijft door je leverancier gefactureerd tegen het standaardtarief.
+Eenmaal operationeel leest de DNB uw meter elke 15 minuten af, past hij de verdeelsleutel toe en bezorgt hij de gedeelde volumes aan uw leverancier. Op uw factuur wordt dat aandeel gewaardeerd tegen de interne prijs van de gemeenschap; het saldo — de **residuele energie** — blijft door uw leverancier gefactureerd tegen het standaardtarief.
 
-De gemeenschap bezorgt meestal een gedetailleerde **driemaandelijkse afrekening**: gedeelde kWh, gerealiseerde besparing, evolutie van de volumes. Dat is je beste opvolgingsinstrument. Gemeenschappen die met OptimCE werken, kunnen die [afrekeningen en facturen voortaan automatisch genereren](/nl/nieuws/2026/07/16/facturatie-energiegemeenschap-optimce/).
+De gemeenschap bezorgt meestal een gedetailleerde **driemaandelijkse afrekening**: gedeelde kWh, gerealiseerde besparing, evolutie van de volumes. Dat is uw beste opvolgingsinstrument. Gemeenschappen die met OptimCE werken, kunnen die [afrekeningen en facturen voortaan automatisch genereren](/nl/nieuws/2026/07/16/facturatie-energiegemeenschap-optimce/).
 
 ## Aandachtspunten vóór ondertekening
 
-Toetreden betekent dat je tekent en — in sommige gevallen — je vermogen engageert (coöperatieve aandelen). Neem vóór je tekent de tijd om met de beheerder de volgende negen punten af te toetsen.
+Toetreden betekent dat u tekent en — in sommige gevallen — uw vermogen engageert (coöperatieve aandelen). Neem vóór u tekent de tijd om met de beheerder de volgende negen punten af te toetsen.
 
 ### Type gemeenschap — CER of CEC?
 
@@ -159,7 +160,7 @@ De gevolgen verschillen. **CER**: alleen hernieuwbare bronnen, geografische nabi
 
 ### Verdeelsleutel — statisch of dynamisch?
 
-Een **statische** sleutel kent elk lid een vast percentage van het delen toe (eenvoudig, voorspelbaar). Een **dynamische** sleutel verdeelt evenredig met het reële verbruik om de 15 minuten (rechtvaardiger, maar variabel van maand tot maand). Vraag **hoe de sleutel wordt herzien**: jaarlijks, bij elke algemene vergadering, bij elke aankomst van een nieuw lid? Voor het detail van de drie standaardsleutels gevalideerd door CWaPE en de vergelijking met Brussel en Vlaanderen, zie onze gids [« Verdeelsleutel in België: Wallonië, Brussel en Vlaanderen vergeleken »](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/).
+Een **statische** sleutel kent elk lid een vast percentage van het delen toe (eenvoudig, voorspelbaar). Een **dynamische** sleutel verdeelt evenredig met het reële verbruik om de 15 minuten (rechtvaardiger, maar variabel van maand tot maand). Vraag **hoe de sleutel wordt herzien**: jaarlijks, bij elke algemene vergadering, bij elke aankomst van een nieuw lid? Voor het detail van de drie standaardsleutels gevalideerd door CWaPE en de vergelijking met Brussel en Vlaanderen, zie onze gids [“Verdeelsleutel in België: de 3 regio's”](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/).
 
 ### Interne prijs — hoe wordt hij onderhandeld?
 
@@ -167,23 +168,23 @@ De **interne prijs** ligt typisch tussen €0,12 en €0,20/kWh, tegenover €0,
 
 ### Financiële verbintenissen — bijdrage, aandelen, kosten
 
-Onderscheid duidelijk drie posten: **bijdrage** (recurrent, bescheiden), **coöperatieve aandelen** (kapitaal terugvorderbaar bij vertrek) en eventuele **administratiekosten** (soms in percentage geheven op de gerealiseerde besparing). Vraag een duidelijk overzicht vóór je tekent.
+Onderscheid duidelijk drie posten: **bijdrage** (recurrent, bescheiden), **coöperatieve aandelen** (kapitaal terugvorderbaar bij vertrek) en eventuele **administratiekosten** (soms in percentage geheven op de gerealiseerde besparing). Vraag een duidelijk overzicht vóór u tekent.
 
 ### Uittredingsvoorwaarden
 
-Wat is de **opzeggingstermijn** om de gemeenschap te verlaten? Vaak 1 tot 3 maanden. Hoelang duurt het om je **aandelen terug te krijgen** in een coöperatie? Soms tot 12 maanden volgens de statuten. Je elektriciteitsleverancier neemt automatisch het volledige verbruik weer over; je hoeft niets te doen aan leveranciersszijde.
+Wat is de **opzeggingstermijn** om de gemeenschap te verlaten? Vaak 1 tot 3 maanden. Hoelang duurt het om uw **aandelen terug te krijgen** in een coöperatie? Soms tot 12 maanden volgens de statuten. Uw elektriciteitsleverancier neemt automatisch het volledige verbruik weer over; u hoeft niets te doen aan leveranciersszijde.
 
 ### Governance en transparantie
 
-Waalse coöperaties werken in de regel volgens **„één lid = één stem"**, ongeacht het aantal aandelen. Controleer de **frequentie van de algemene vergaderingen**, de toegang tot de jaarrekeningen en de manier waarop de resultaten van het delen worden gecommuniceerd (driemaandelijkse afrekening, online dashboard, enz.).
+Waalse coöperaties werken in de regel volgens **“één lid = één stem”**, ongeacht het aantal aandelen. Controleer de **frequentie van de algemene vergaderingen**, de toegang tot de jaarrekeningen en de manier waarop de resultaten van het delen worden gecommuniceerd (driemaandelijkse afrekening, online dashboard, enz.).
 
 ### Digitale meter en privacy
 
-De digitale meter wordt gratis door de DNB geplaatst als je er nog geen hebt. De **verbruiksgegevens** om de 15 minuten worden **uitsluitend gebruikt voor de berekening van het delen**; je kunt ze op elk moment raadplegen op het portaal van je DNB.
+De digitale meter wordt gratis door de DNB geplaatst als u er nog geen hebt. De **verbruiksgegevens** om de 15 minuten worden **uitsluitend gebruikt voor de berekening van het delen**; u kunt ze op elk moment raadplegen op het portaal van uw DNB.
 
 ### Residuele energie en totale kost
 
-Het delen dekt **nooit 100 %** van je verbruik. De reële **dekkingsgraad** ligt meestal tussen 30 en 60 %, naargelang de configuratie (verhouding tussen productie van de gemeenschap en totaal verbruik van haar leden). De rest — de residuele energie — wordt verder gefactureerd tegen het standaardtarief door je leverancier. De reële besparing hangt af van dat evenwicht.
+Het delen dekt **nooit 100 %** van uw verbruik. De reële **dekkingsgraad** ligt meestal tussen 30 en 60 %, naargelang de configuratie (verhouding tussen productie van de gemeenschap en totaal verbruik van haar leden). De rest — de residuele energie — wordt verder gefactureerd tegen het standaardtarief door uw leverancier. De reële besparing hangt af van dat evenwicht.
 
 ### Productieoverschot
 
@@ -197,47 +198,47 @@ Het hangt af van de structuur. Een **vzw** vraagt doorgaans een bijdrage van €
 
 ### Moet ik in zonnepanelen investeren om toe te treden?
 
-Neen. Je kunt **uitsluitend verbruiker** zijn. De materiële investering (dak-PV, WKK…) wordt gedragen door de producenten van de gemeenschap of door de gemeenschap zelf via de coöperatie. Toetreden verplicht je tot geen enkele installatie bij jou thuis.
+Neen. U kunt **uitsluitend verbruiker** zijn. De materiële investering (dak-PV, WKK…) wordt gedragen door de producenten van de gemeenschap of door de gemeenschap zelf via de coöperatie. Toetreden verplicht u tot geen enkele installatie bij u thuis.
 
 ### Hoeveel kan ik besparen?
 
-De besparing hangt af van de dekkingsgraad (30 tot 60 %) en van het verschil tussen de interne prijs en het markttarief. Voor een gemiddeld gezin in Wallonië bedraagt de typische orde van grootte **€50 tot €200 per jaar**. Geen specifieke garantie: vraag de gemeenschap om een raming op basis van jouw jaarverbruik.
+De besparing hangt af van de dekkingsgraad (30 tot 60 %) en van het verschil tussen de interne prijs en het markttarief. Voor een gemiddeld gezin in Wallonië bedraagt de typische orde van grootte **€50 tot €200 per jaar**. Geen specifieke garantie: vraag de gemeenschap om een raming op basis van uw jaarverbruik.
 
 ### Wat gebeurt er als ik tijdens mijn lidmaatschap verhuis?
 
-Het delen is gekoppeld aan je **EAN**. Verlaat je de perimeter (bij een CER) of verander je van DNB, dan verlaat je automatisch de deelactie. De in de overeenkomst voorziene opzeggingstermijn geldt voor de administratieve formaliteiten; het fysieke deelmechanisme zelf stopt zodra je EAN niet meer actief is op het leveringspunt.
+Het delen is gekoppeld aan uw **EAN**. Verlaat u de perimeter (bij een CER) of verandert u van DNB, dan verlaat u automatisch de deelactie. De in de overeenkomst voorziene opzeggingstermijn geldt voor de administratieve formaliteiten; het fysieke deelmechanisme zelf stopt zodra uw EAN niet meer actief is op het leveringspunt.
 
 ### Kan ik tegelijk lid zijn van meerdere gemeenschappen?
 
-In theorie ja, maar **één EAN kan slechts aan één deelactie tegelijk deelnemen**. Heb je meerdere leveringspunten (hoofdverblijf + tweede verblijf, bijvoorbeeld), dan kan elk gekoppeld worden aan een andere deelactie.
+In theorie ja, maar **één EAN kan slechts aan één deelactie tegelijk deelnemen**. Hebt u meerdere leveringspunten (hoofdverblijf + tweede verblijf, bijvoorbeeld), dan kan elk gekoppeld worden aan een andere deelactie.
 
 ### Hoelang duurt de toetreding van eerste contact tot eerste gedeelde kWh?
 
-Gemiddeld **6 tot 12 weken**. De beperkende factor is de DNB-planning voor de integratie van je EAN in de operatie, eventueel verlengd door de plaatsing van een digitale meter.
+Gemiddeld **6 tot 12 weken**. De beperkende factor is de DNB-planning voor de integratie van uw EAN in de operatie, eventueel verlengd door de plaatsing van een digitale meter.
 
 ### Moet ik eigenaar zijn om te kunnen toetreden?
 
-Neen. Het delen volgt het EAN van het leveringspunt, niet het juridische statuut. **Huurders zowel als eigenaars zijn welkom**. Goede praktijk: verwittig de eigenaar als de overeenkomst verbintenissen omvat die verder reiken dan je huurperiode.
+Neen. Het delen volgt het EAN van het leveringspunt, niet het juridische statuut. **Huurders zowel als eigenaars zijn welkom**. Goede praktijk: verwittig de eigenaar als de overeenkomst verbintenissen omvat die verder reiken dan uw huurperiode.
 
 ### Kan mijn leverancier mijn deelname weigeren of bestraffen?
 
-Neen. Het energiedelen is een **recht dat door het Waalse decreet wordt erkend**. Je leverancier wordt door de DNB *geïnformeerd* over de in jouw voordeel gedeelde volumes; hij heeft op die basis geen toestemmingsbevoegdheid en geen sanctiemogelijkheid.
+Neen. Het energiedelen is een **recht dat door het Waalse decreet wordt erkend**. Uw leverancier wordt door de DNB *geïnformeerd* over de in uw voordeel gedeelde volumes; hij heeft op die basis geen toestemmingsbevoegdheid en geen sanctiemogelijkheid.
 
 ## Een gemeenschap vinden nu
 
 Drie kanalen om de stap te zetten:
 
-- Doorblader het [openbare register van deelacties](/nl/nieuws/2026/05/07/release-nieuws/) van OptimCE om open deelacties bij jou in de buurt te ontdekken.
+- Doorblader het [openbare register van deelacties](https://app.optimce.be) van OptimCE om open deelacties bij u in de buurt te ontdekken.
 - Neem contact op met de **facilitator Energiegemeenschappen** van [SPW Énergie](https://energie.wallonie.be) voor persoonlijke begeleiding.
-- Vul het **matchingformulier** in van [Énergie commune](https://energiecommune.be) als je oriëntatie eerder coöperatief en burgerlijk is.
+- Vul het **matchingformulier** in van [Énergie commune](https://energiecommune.be) als uw oriëntatie eerder coöperatief en burgerlijk is.
 
-## Wil je liever oprichten dan toetreden?
+## Wilt u liever oprichten dan toetreden?
 
-> **[Een energiegemeenschap oprichten in Wallonië: stap-voor-stap-gids](/nl/nieuws/2026/05/11/energiegemeenschap-oprichten-wallonie/)**
+> **[Energiegemeenschap oprichten in Wallonië](/nl/nieuws/2026/05/11/energiegemeenschap-oprichten-wallonie/)**
 >
 > Keuze tussen CER en CEC, projectstructurering, melding aan de CWaPE, ontvangstbevestiging en opstart van het delen met ORES, RESA of AIEG.
 
-Voor de algemene context — wat is een energiegemeenschap, wat zijn de Europese grondslagen — zie het artikel [„Energiegemeenschappen in België: CER, CEC en CEL uitgelegd"](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/).
+Voor de algemene context — wat is een energiegemeenschap, wat zijn de Europese grondslagen — zie het artikel [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/).
 
 ## Bronnen
 

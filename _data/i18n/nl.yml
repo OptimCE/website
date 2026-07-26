@@ -294,6 +294,23 @@ a11y:
   menu_open: "Menu openen"
   menu_close: "Menu sluiten"
   language_select: "Taal kiezen"
+  nav_main: "Hoofdnavigatie"
+  nav_mobile: "Mobiel menu"
+  translations: "Vertalingen van dit artikel"
+  breadcrumb: "Kruimelpad"
+  available_languages: "Beschikbare talen"
+
+# Open Graph / social sharing
+og:
+  image_alt: "OptimCE — opensource-platform voor energiegemeenschappen"
+
+# Organization description used in the JSON-LD entity graph
+org:
+  description: >-
+    OptimCE is een opensource-beheerplatform voor energiegemeenschappen. Het
+    project komt voort uit LOCOMOTRICE, een Waals onderzoeksinitiatief
+    (2023-2026) onder gezamenlijke leiding van de Universiteit van Luik
+    (BEMS-lab) en CECOTEPE, in samenwerking met burgerenergiecoöperaties.
 
 # Month names (for localized dates, January → December)
 months:

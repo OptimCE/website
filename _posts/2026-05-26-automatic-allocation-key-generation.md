@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Automatic allocation key generation: how OptimCE finds the optimal key"
+title: "Automatic allocation key generation"
 date: 2026-05-26 00:00:00 +0200
 author: "OptimCE Team"
 excerpt: "OptimCE's automatic generation module is now live. It proposes optimised allocation keys from a community's real production and consumption data, with two algorithms — brute force on standard keys and LOGAAS, a CeCoTePe research output from the Locomotrice project."
+description: "Two algorithms — brute force over standard keys and LOGAAS — that propose an optimised key from your community's real data."
 tags: [allocation-key, app, guide]
 lang: en
 ref: optimce-allocation-key-generator
@@ -14,7 +15,12 @@ Picking the **allocation key** that gets the most out of a community's local pro
 
 OptimCE's **automatic allocation key generation module** is now live to take that decision out of gut-feel territory. Feed it a CSV of the community's real production and consumption data, and it returns a candidate key with an expected collective self-consumption rate — computed on your own data, not on a textbook example. Two **independent** algorithms ship today, both consuming the same CSV input: a **brute force** scan over the regionally validated standard keys, and **LOGAAS**, a hybrid linear-optimisation / genetic-algorithm approach developed by [**CeCoTePe**](https://cecotepe.be/) for the **Locomotrice** project. More algorithms can be added later.
 
-If you are still mapping the regional landscape — what CWaPE, BRUGEL and VREG accept as a valid key — start with our reference article ["Allocation key in Belgium: Wallonia, Brussels and Flanders compared"](/en/news/2026/05/19/allocation-key-belgium/).
+If you are still mapping the regional landscape — what CWaPE, BRUGEL and VREG accept as a valid key — start with our reference article [“Allocation key in Belgium: the 3 regions”](/en/news/2026/05/19/allocation-key-belgium/).
+
+<img src="/assets/images/diagrams/allocation-key-flow-en.svg"
+     alt="Five-step diagram: quarter-hourly data, generation or simulation, candidate key, member validation, submission to the grid operator."
+     width="800" height="330" loading="lazy" decoding="async"
+     style="width:100%;height:auto">
 
 ## Why an allocation key deserves to be data-driven
 
@@ -136,15 +142,15 @@ The automatic generation module turns the allocation-key choice from a textbook 
 
 To go further, see our companion guides:
 
-> **[Allocation key in Belgium: Wallonia, Brussels and Flanders compared](/en/news/2026/05/19/allocation-key-belgium/)**
+> **[Allocation key in Belgium: the 3 regions](/en/news/2026/05/19/allocation-key-belgium/)**
 >
 > The regulatory primer — what CWaPE, BRUGEL and VREG accept, the three regional vocabularies, and how to pick a key family before letting OptimCE optimise inside it.
 
-> **[How to create an energy community in Wallonia: a step-by-step guide](/en/news/2026/05/11/create-energy-community-wallonia/)**
+> **[Create an energy community in Wallonia](/en/news/2026/05/11/create-energy-community-wallonia/)**
 >
 > Framing the project, choosing between CER and CEC, notifying CWaPE, and launching the sharing — where the allocation key fits in the file.
 
-> **[How to join an energy community in Wallonia: a practical guide](/en/news/2026/05/11/join-energy-community-wallonia/)**
+> **[Join an energy community in Wallonia](/en/news/2026/05/11/join-energy-community-wallonia/)**
 >
 > Where to find an open operation, enrolment steps and what to check before signing the sharing agreement.
 

@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Elektriciteitsfactuur in België: waarom die hoog blijft ondanks dalende prijzen"
+title: "Waarom uw elektriciteitsfactuur hoog blijft"
 date: 2026-07-25 10:00:00 +0200
 author: "OptimCE-team"
 excerpt: "De energieprijs is sinds 2022 sterk gedaald en de accijnzen zakken op 1 augustus 2026. Toch beweegt uw factuur nauwelijks. Een opsplitsing in euro's van de vier blokken — energie, nettarieven, taksen, leveranciersmarge — de stijgingen van 2026 per gewest, en de posten waarop u nog greep hebt."
+description: "Energie is maar 40 % van de factuur. De vier blokken uitgesplitst, de stijgingen van 2026 per gewest, en waar u nog greep op hebt."
 tags: [community, administrative, guide]
 lang: nl
 ref: why-electricity-bill-stays-high
@@ -31,6 +32,11 @@ Dat is geen illusie en geen anomalie: het is rekenkunde. De energieprijs weegt *
 
 Dit artikel ontleedt de vier blokken van uw factuur **in euro's, niet alleen in percentages**: wat elk blok betaalt, wie het vastlegt, hoe het in 2026 evolueert in de drie gewesten, en welke u nog kunt beïnvloeden. We eindigen met de vraag die veel lezers van deze blog zich stellen: op welke van die blokken werkt energiedelen *echt* in?
 
+<img src="/assets/images/diagrams/bill-breakdown-nl.svg"
+     alt="Gestapelde staafgrafiek: energie is 38,5 % van de factuur, nettarieven 29,7 %, taksen 26,1 % en btw 5,7 %."
+     width="800" height="450" loading="lazy" decoding="async"
+     style="width:100%;height:auto">
+
 ## Uw factuur is geen energiefactuur: vier blokken, waarvan er één een prijs is
 
 De CREG onderscheidt vier componenten in de prijs die een consument betaalt: de **energie**, de **netkosten**, de **taksen en heffingen**, en de **btw** ([CREG](https://www.creg.be/fr/consommateurs/le-marche-de-lenergie/comment-est-compose-le-prix-de-lenergie)). Slechts één daarvan is een marktprijs, vrij vastgelegd en te onderhandelen. De drie andere zijn gereguleerde of bij wet bepaalde bedragen, identiek ongeacht uw leverancier.
@@ -51,13 +57,13 @@ Drie onmiddellijke gevolgen, en zij verklaren het grootste deel van het onbehage
 
 - **Een daling van de energie wordt met factor tweeënhalf gedempt.** Zakt de prijs van de commodity met 20 %, dan zakt uw factuur maar met ongeveer 8 %. Op 1.293 € is dat een honderdtal euro — merkbaar, maar ver van wat krantenkoppen suggereren.
 - **De btw versterkt de stijgingen van de andere blokken.** Aan 6 % komt die bovenop de energie, het net en de meeste toeslagen. Elke verhoging van het nettarief wordt onderweg dus nog met 6 % opgetrokken. Twee opmerkelijke uitzonderingen: de Waalse aansluitingsvergoeding en de Vlaamse bijdrage aan het energiefonds zijn vrijgesteld (CREG).
-- **Het gewicht van het net verschilt sterk per plaats.** In Wallonië klimt het naar 32,7 % van de factuur, tegenover 24,6 % in Brussel (CREG, juni 2026, uitgewerkt in onze gids [„Prijs van elektriciteit in een energiegemeenschap”](/nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/)). Dezelfde ingreep levert dus niet hetzelfde resultaat van het ene gewest tot het andere.
+- **Het gewicht van het net verschilt sterk per plaats.** In Wallonië klimt het naar 32,7 % van de factuur, tegenover 24,6 % in Brussel (CREG, juni 2026, uitgewerkt in onze gids [“Interne overdrachtsprijs in energiegemeenschap”](/nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/)). Dezelfde ingreep levert dus niet hetzelfde resultaat van het ene gewest tot het andere.
 
 ## De netkosten stijgen wanneer uw kWh dalen
 
 Dit is het meest tegenintuïtieve mechanisme van de Belgische factuur, en het meest structurele. Een netbeheerder verkoopt geen elektriciteit: hij exploiteert infrastructuur met grotendeels vaste kosten, en de regulator kent hem een **toegelaten inkomen** toe voor de tariefperiode. Dat inkomen wordt vervolgens verdeeld over de kWh die effectief worden afgenomen.
 
-Wanneer het gefactureerde verbruik daalt — omdat gezinnen zonnepanelen plaatsen, isoleren of gewoon beter verbruiken — wordt hetzelfde inkomen over minder kWh gespreid. Het eenheidstarief stijgt. Voeg daar de netversterking bij die nodig is voor „de nieuwe vormen van energieverbruik (fotovoltaïsche panelen, warmtepompen, enz.)” ([Renouvelle](https://www.renouvelle.be/fr/facture-energie-hausse-des-tarifs-de-distribution-et-transport/), januari 2025), de uitrol van digitale meters en de stijgende transmissiekosten die aan Elia worden betaald, en u krijgt een opwaarts traject dat de dalende energieprijs niet compenseert.
+Wanneer het gefactureerde verbruik daalt — omdat gezinnen zonnepanelen plaatsen, isoleren of gewoon beter verbruiken — wordt hetzelfde inkomen over minder kWh gespreid. Het eenheidstarief stijgt. Voeg daar de netversterking bij die nodig is voor “de nieuwe vormen van energieverbruik (fotovoltaïsche panelen, warmtepompen, enz.)” ([Renouvelle](https://www.renouvelle.be/fr/facture-energie-hausse-des-tarifs-de-distribution-et-transport/), januari 2025), de uitrol van digitale meters en de stijgende transmissiekosten die aan Elia worden betaald, en u krijgt een opwaarts traject dat de dalende energieprijs niet compenseert.
 
 Dit is de stand van zaken voor 2026, gewest per gewest.
 
@@ -116,7 +122,7 @@ Vandaag bedraagt de accijns op elektriciteit **50,33 €/MWh**, wat neerkomt op 
 
 Een punt van eerlijkheid: **de gepubliceerde trajecten stemmen niet overeen van bron tot bron** voor de bedragen jaar per jaar, afhankelijk van of ze de totale accijns betreffen of alleen de bijzondere accijns nadat de energiebijdrage erin is opgenomen. We vermelden hier dus enkel de trap van augustus 2026 en de richting van de daling. Voor een bedrag waarop u zich kunt beroepen, verwijzen we naar de tarieven die de [FOD Financiën](https://finances.belgium.be/nl/douane_accijnzen) publiceert.
 
-Wat wél vaststaat, is de grootteorde voor een gezin: ongeveer **40 € besparing per jaar tegen 2029**, en tot **110 €** voor een gezin met een warmtepomp en een elektrische wagen — maar **40 tot 80 € meer per jaar op gas vanaf 2026** (Engie, februari 2026). Econoom Philippe Defeyt vat het onomwonden samen: bedragen zo klein dat ze „verloren gaan in de andere schommelingen” (RTBF, juni 2026). Zet dat naast de 25 € stijging van de Brusselse netkosten of de 4 tot 8 % in Wallonië, en de rekening is snel gemaakt.
+Wat wél vaststaat, is de grootteorde voor een gezin: ongeveer **40 € besparing per jaar tegen 2029**, en tot **110 €** voor een gezin met een warmtepomp en een elektrische wagen — maar **40 tot 80 € meer per jaar op gas vanaf 2026** (Engie, februari 2026). Econoom Philippe Defeyt vat het onomwonden samen: bedragen zo klein dat ze “verloren gaan in de andere schommelingen” (RTBF, juni 2026). Zet dat naast de 25 € stijging van de Brusselse netkosten of de 4 tot 8 % in Wallonië, en de rekening is snel gemaakt.
 
 Tot slot twee spooklijnen die u moet kunnen herkennen:
 
@@ -133,7 +139,7 @@ Laten we duidelijk zijn: **er bestaat geen publiek margecijfer per leverancier.*
 
 Wat wél **observeerbaar** is, volstaat ruimschoots om te handelen:
 
-- **Het verschil tussen aanbiedingen.** Voor een typisch gezin van 3.500 kWh kan het verschil tussen het goedkoopste en het duurste aanbod „meer dan 200 € per jaar” bedragen, met jaarfacturen die volgens de leverancier van ongeveer 1.000 € tot 1.350 € lopen (I am Beezy, mei 2026). Het is de enige hefboom van de factuur met onmiddellijk effect, zonder werken en zonder gewoonteverandering.
+- **Het verschil tussen aanbiedingen.** Voor een typisch gezin van 3.500 kWh kan het verschil tussen het goedkoopste en het duurste aanbod “meer dan 200 € per jaar” bedragen, met jaarfacturen die volgens de leverancier van ongeveer 1.000 € tot 1.350 € lopen (I am Beezy, mei 2026). Het is de enige hefboom van de factuur met onmiddellijk effect, zonder werken en zonder gewoonteverandering.
 - **De risicopremie van vaste contracten.** In april 2026 sprong de energiecomponent van vaste contracten in één maand **16,40 %** hoger, en het verschil in risicopremie tussen vaste en variabele producten liep op tot **50 %** voor elektriciteit (CREG, april 2026). Een vast contract koopt voorspelbaarheid, en die voorspelbaarheid heeft een uitdrukkelijke prijs.
 
 Vandaar drie formules en drie manieren om het risico te verdelen. Het **vaste** contract beschermt u tegen volatiliteit en laat u die bescherming betalen. Het **variabele** indexeert de prijs op marktparameters: gemiddeld goedkoper, meer blootgesteld. De **dynamische tarifering**, gekoppeld aan de uurprijzen van de markt, trekt de logica door — ze kan zeer voordelig zijn voor wie zijn verbruik echt verschuift, en duur voor de anderen. Ze combineert vanzelf met de nieuwe Waalse uurblokken: dezelfde uren zijn dalstonden aan de netzijde en vaak goedkoop aan de marktzijde.
@@ -144,13 +150,13 @@ De conclusie is wat ondankbaar, maar ze houdt steek: **jaarlijks uw contract ver
 
 Zo komen we bij de vraag die de lezers van deze blog bezighoudt. Als energie maar 40 % van de factuur is, wat kan energiedelen dan werkelijk?
 
-**Energiedelen werkt op het energieblok — precies datgene waarop leveranciers concurreren — en vrijwel alleen daarop.** De CWaPE laat geen ruimte voor interpretatie: omdat de elektriciteit over het net loopt, zijn alle netkosten (transmissie en distributie), samen met de bijbehorende taksen en toeslagen, verschuldigd op gedeelde elektriciteit, en „er bestaat geen tariefverlaging voor het delen binnen een energiegemeenschap” ([CWaPE](https://www.cwape.be/node/6062)). Gedeelde elektronen reizen over het openbare net: energiedelen verandert *wie u de energie verkoopt*, niet *waarlangs ze passeert*.
+**Energiedelen werkt op het energieblok — precies datgene waarop leveranciers concurreren — en vrijwel alleen daarop.** De CWaPE laat geen ruimte voor interpretatie: omdat de elektriciteit over het net loopt, zijn alle netkosten (transmissie en distributie), samen met de bijbehorende taksen en toeslagen, verschuldigd op gedeelde elektriciteit, en “er bestaat geen tariefverlaging voor het delen binnen een energiegemeenschap” ([CWaPE](https://www.cwape.be/node/6062)). Gedeelde elektronen reizen over het openbare net: energiedelen verandert *wie u de energie verkoopt*, niet *waarlangs ze passeert*.
 
 **De uitzondering hangt af van nabijheid, niet van statuut.** Sinds 1 januari 2025 geldt een verlaging van **80 % op de proportionele termen** van het nettarief voor het delen **binnen hetzelfde gebouw** — een configuratie die geen rechtspersoon vereist, enkel een overeenkomst die aan de netbeheerder wordt gemeld ([CWaPE](https://www.cwape.be/node/6090)). Delen tussen verschillende gebouwen, peer-to-peer of in gemeenschap, is uitdrukkelijk uitgesloten ([Renouvelle](https://www.renouvelle.be/fr/la-cwape-pose-les-jalons-de-la-tarification-future-de-lelectricite-tout-en-donnant-un-solide-coup-de-pouce-au-partage-delectricite-renouvelable-au-sein-du-meme-batiment/)). Brussel is ruimer en gradueert het voordeel volgens de nabijheid van de deelnemers; Vlaanderen kent geen enkele verlaging toe. Met andere woorden: **een appartementsgebouw met een zonnedak zit in de beste positie van België** — collectief zelfverbruik op gebouwniveau, en het nettarief speelt daarop in.
 
 En één post die vrijwel geen enkele simulatie voorziet: **uw leverancier mag kosten aanrekenen voor uw deelname aan het delen.** Niets verbiedt dat, en de vastgestelde bedragen lopen op tot ongeveer 150 € per jaar en per leveringspunt. Op kleine gedeelde volumes vagen die kosten de winst weg — het was voor Test-Aankoop de reden om energiedelen in Wallonië en Vlaanderen niet langer aan te bevelen (beoordeling van mei 2024, opnieuw te controleren vóór elke beslissing).
 
-Wat koopt energiedelen dan werkelijk? Een **lagere en vooral stabielere** prijs op een deel van het energieblok, zonder van leverancier te veranderen of panelen te plaatsen. De spaarmechanismen, met cijfers, staan in [„Hoe een energiegemeenschap uw elektriciteitsfactuur verlaagt”](/nl/nieuws/2026/06/03/energiegemeenschap-elektriciteitsfactuur-verlagen/); hoe u de interne prijs vastlegt, in [„Prijs van elektriciteit in een energiegemeenschap”](/nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/); en de keuze tussen individueel zelfverbruik, collectief zelfverbruik en een energiegemeenschap, in [„Zelfverbruik van energie in België”](/nl/nieuws/2026/06/05/zelfverbruik-energie-belgie/). Zit u nog bij de volumes eerder dan bij de euro's, dan legt ons referentieartikel [„Verdeelsleutel in België: Wallonië, Brussel, Vlaanderen”](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/) uit hoe wordt bepaald welk deel van de lokale productie u toekomt.
+Wat koopt energiedelen dan werkelijk? Een **lagere en vooral stabielere** prijs op een deel van het energieblok, zonder van leverancier te veranderen of panelen te plaatsen. De spaarmechanismen, met cijfers, staan in [“Elektriciteitsfactuur verlagen met energiedelen”](/nl/nieuws/2026/06/03/energiegemeenschap-elektriciteitsfactuur-verlagen/); hoe u de interne prijs vastlegt, in [“Interne overdrachtsprijs in energiegemeenschap”](/nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/); en de keuze tussen individueel zelfverbruik, collectief zelfverbruik en een energiegemeenschap, in [“Zelfverbruik van energie in België”](/nl/nieuws/2026/06/05/zelfverbruik-energie-belgie/). Zit u nog bij de volumes eerder dan bij de euro's, dan legt ons referentieartikel [“Verdeelsleutel in België: de 3 regio's”](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/) uit hoe wordt bepaald welk deel van de lokale productie u toekomt.
 
 ## Wat u moet onthouden
 
@@ -195,7 +201,7 @@ Ja. De programmawet die de Kamer op 29 mei 2026 goedkeurde, verlaagt de accijns 
 
 ### Verlaagt energiedelen de nettarieven en de taksen?
 
-Als algemene regel **niet**. De CWaPE is expliciet: alle netkosten, samen met de taksen en toeslagen die daarop betrekking hebben, blijven verschuldigd op gedeelde elektriciteit, en „er bestaat geen tariefverlaging voor het delen binnen een energiegemeenschap”. Energiedelen werkt op het **energieblok**, precies datgene waarop leveranciers met elkaar concurreren. De uitzondering hangt af van nabijheid, niet van statuut: in Wallonië geldt een verlaging van 80 % op de proportionele termen van het nettarief voor het delen **binnen hetzelfde gebouw**; in Brussel is de regeling gradueel volgens de nabijheid van de deelnemers.
+Als algemene regel **niet**. De CWaPE is expliciet: alle netkosten, samen met de taksen en toeslagen die daarop betrekking hebben, blijven verschuldigd op gedeelde elektriciteit, en “er bestaat geen tariefverlaging voor het delen binnen een energiegemeenschap”. Energiedelen werkt op het **energieblok**, precies datgene waarop leveranciers met elkaar concurreren. De uitzondering hangt af van nabijheid, niet van statuut: in Wallonië geldt een verlaging van 80 % op de proportionele termen van het nettarief voor het delen **binnen hetzelfde gebouw**; in Brussel is de regeling gradueel volgens de nabijheid van de deelnemers.
 
 ## Bronnen
 

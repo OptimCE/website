@@ -1,8 +1,14 @@
 ---
 layout: home
-title: "OptimCE — La plateforme open source pour les communautés d'énergie"
-description: "OptimCE simplifie la gestion des membres, des compteurs et du partage d'énergie au sein de votre communauté d'énergie renouvelable."
+title: "Plateforme open source pour communautés d'énergie"
+description: "Gérez les membres, compteurs, clés de répartition et le partage d'énergie de votre communauté avec une plateforme open source."
 lang: fr
 ref: home
 last_modified_at: 2026-05-07
+# jekyll-seo-tag emits a WebSite node for "/" only (its HOMEPAGE_OR_ABOUT_REGEX
+# matches the bare root). That would duplicate the WebSite in our own @graph, so
+# demote its node to WebPage. The /en/, /de/ and /nl/ homepages do not match the
+# regex and already get WebPage.
+seo:
+  type: "WebPage"
 ---

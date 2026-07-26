@@ -1,16 +1,18 @@
 ---
 layout: post
-title: "Neue OptimCE-Version: Stabilität, Benutzerhandbuch und öffentliche Energieteilungsoperationen"
+title: "Version Mai 2026: Register und Handbuch"
 date: 2026-05-07 10:00:00 +0200
+last_modified_at: 2026-07-26 10:00:00 +0200
 author: "OptimCE-Team"
 excerpt: "Eine neue OptimCE-Version ist verfügbar — mit Fehlerbehebungen, einem brandneuen Benutzerhandbuch und einem öffentlichen Register zur Entdeckung offener Energieteilungsoperationen."
+description: "Fehlerbehebungen, ein neues Benutzerhandbuch und ein öffentliches Register offener Teilungsoperationen in der Anwendung."
 tags: [app, announcement, news]
 lang: de
 ref: release-may-2026
 permalink: /de/aktuelles/2026/05/07/release-neuigkeiten/
 ---
 
-Eine neue Version von OptimCE ist verfügbar. Sie konzentriert sich auf drei Schwerpunkte: die Plattform zuverlässiger zu machen, neuen Nutzerinnen und Nutzern den Einstieg zu erleichtern und die Zusammenarbeit zwischen Energiegemeinschaften zu fördern.
+Die Version **Mai 2026** von OptimCE ist verfügbar. Sie konzentriert sich auf drei Schwerpunkte: die Plattform zuverlässiger zu machen, neuen Nutzerinnen und Nutzern den Einstieg zu erleichtern und die Zusammenarbeit zwischen Energiegemeinschaften zu fördern.
 
 ## Stabilität und Fehlerbehebungen
 
@@ -24,4 +26,8 @@ OptimCE wird nun mit einem vollständigen **Benutzerhandbuch** unter [guide.opti
 
 Die App enthält nun ein **öffentliches Register der Teilungsoperationen**. Jede verantwortliche Person einer Gemeinschaft kann ihre Operation dort veröffentlichen, und alle — Bürgerinnen und Bürger, Unternehmen, künftige Mitglieder — können die Liste durchsuchen, um in ihrer Nähe eine Operation zu finden, die für neue Mitglieder offen ist. Wir hoffen, dass dies mehr Menschen den Zugang zu einer Energiegemeinschaft erleichtert und bestehenden Gemeinschaften mehr Sichtbarkeit verschafft.
 
-Wie immer freuen wir uns über Feedback und Beiträge in unserem GitHub-Repository.
+Das Register ist direkt in der Anwendung erreichbar: **[offene Teilungsoperationen durchsuchen](https://app.optimce.be)**.
+
+Wenn Sie einer bestehenden Gemeinschaft beitreten möchten, beschreibt unser Leitfaden [„Energiegemeinschaft in der Wallonie beitreten“](/de/aktuelles/2026/05/11/energiegemeinschaft-beitreten-wallonien/) die Voraussetzungen und die Punkte, die Sie vor der Unterschrift prüfen sollten.
+
+Wie immer freuen wir uns über Feedback und Beiträge in [unserem GitHub-Repository](https://github.com/optimce).

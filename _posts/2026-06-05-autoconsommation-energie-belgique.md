@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Autoconsommation d'énergie en Belgique : individuelle, collective et communautés d'énergie"
+title: "Autoconsommation collective en Belgique"
 date: 2026-06-05 10:00:00 +0200
 author: "Équipe OptimCE"
 excerpt: "Comprendre l'autoconsommation en Belgique : définition, taux d'autoconsommation et comment l'augmenter, autoconsommation collective et lien avec les communautés d'énergie, différences Wallonie / Bruxelles / Flandre, qui en profite et FAQ."
+description: "Taux d'autoconsommation et comment l'augmenter, autoconsommation collective, lien avec les communautés d'énergie et écarts régionaux."
 tags: [community]
 lang: fr
 ref: self-consumption-belgium
@@ -33,11 +34,11 @@ L'autoconsommation consiste à **consommer l'électricité que l'on produit** �
 
 **L'autoconsommation collective.** Lorsqu'une installation (ou plusieurs) alimente **plusieurs participants** — les habitants d'un immeuble, des voisins d'un quartier, des entreprises d'un même site — on parle d'autoconsommation collective. Le partage est **administratif, pas physique** : les électrons circulent toujours sur le réseau public, mais le gestionnaire de réseau de distribution (GRD) réattribue, **toutes les 15 minutes**, une part de la production locale à chaque participant selon une **clé de répartition**. En Belgique, cette autoconsommation collective s'organise au sein d'une **communauté d'énergie** ou d'une opération de partage (voir plus bas).
 
-> Pour le cadre légal complet (CER, CEC, CEL) et le fonctionnement détaillé du partage, voyez notre guide de référence [« Communautés d'énergie en Belgique : CER, CEC, CEL expliqués »](/actualites/2026/05/11/communautes-energie-belgique/).
+> Pour le cadre légal complet (CER, CEC, CEL) et le fonctionnement détaillé du partage, voyez notre guide de référence [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/actualites/2026/05/11/communautes-energie-belgique/).
 
 ## Pourquoi l'autoconsommation est-elle intéressante ?
 
-- **Réduire sa facture.** Chaque kWh autoconsommé est un kWh que vous n'achetez pas à votre fournisseur. Comme le prix d'achat est nettement supérieur à la valeur d'injection du surplus, l'autoconsommation est le moyen le plus direct de rentabiliser une installation. Pour le détail chiffré côté facture, voyez [« Comment une communauté d'énergie réduit votre facture d'électricité »](/actualites/2026/06/03/communaute-energie-reduire-facture-electricite/). Et pour comprendre pourquoi cette facture reste élevée malgré la baisse des prix de l'énergie, notre décomposition [« Facture d'électricité en Belgique : pourquoi elle reste élevée »](/actualites/2026/07/25/pourquoi-facture-electricite-reste-elevee-belgique/) chiffre les quatre blocs — énergie, réseau, taxes et marge fournisseur.
+- **Réduire sa facture.** Chaque kWh autoconsommé est un kWh que vous n'achetez pas à votre fournisseur. Comme le prix d'achat est nettement supérieur à la valeur d'injection du surplus, l'autoconsommation est le moyen le plus direct de rentabiliser une installation. Pour le détail chiffré côté facture, voyez [« Réduire sa facture d'électricité en communauté »](/actualites/2026/06/03/communaute-energie-reduire-facture-electricite/). Et pour comprendre pourquoi cette facture reste élevée malgré la baisse des prix de l'énergie, notre décomposition [« Facture d'électricité : pourquoi elle reste élevée »](/actualites/2026/07/25/pourquoi-facture-electricite-reste-elevee-belgique/) chiffre les quatre blocs — énergie, réseau, taxes et marge fournisseur.
 - **Valoriser une production locale aujourd'hui gaspillée.** Aux heures de forte production, le réseau local connaît des **surtensions** qui forcent l'arrêt de certaines installations photovoltaïques. Consommer cette énergie localement évite ce gaspillage.
 - **Stabiliser le coût de l'énergie.** L'autoconsommation et le partage local rendent une partie de votre approvisionnement indépendante des chocs de marché, donc plus prévisible.
 - **Soulager le réseau.** Consommer la production au plus près de l'endroit où elle est injectée réduit les pertes en ligne et la pression sur le réseau de transport.
@@ -61,7 +62,7 @@ L'autoconsommation collective ne se fait pas « à la main » entre voisins : el
 - L'**opération de partage** est l'unité opérationnelle qui matérialise l'autoconsommation collective : intra-immeuble, à l'échelle d'un quartier, ou entre sites.
 - Le **GRD** mesure les compteurs communicants au pas de **15 minutes**, applique la **clé de répartition** choisie par la communauté, puis transmet aux fournisseurs la quantité partagée pour ajuster la facturation.
 
-Le choix de la clé de répartition détermine quelle part de la production chaque membre reçoit à chaque quart d'heure, et donc l'impact réel de l'autoconsommation collective sur chaque facture. Nous détaillons les clés acceptées dans chaque région dans [« Clé de répartition en Belgique : Wallonie, Bruxelles et Flandre comparées »](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/).
+Le choix de la clé de répartition détermine quelle part de la production chaque membre reçoit à chaque quart d'heure, et donc l'impact réel de l'autoconsommation collective sur chaque facture. Nous détaillons les clés acceptées dans chaque région dans [« Clé de répartition en Belgique : les 3 régions »](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/).
 
 ## Wallonie, Bruxelles, Flandre : ce qui change
 
@@ -125,11 +126,11 @@ Le cadre existe dans les trois régions mais avec des modalités différentes : 
 
 La façon la plus simple de passer de l'autoconsommation individuelle au partage est de **rejoindre une opération existante** — ou d'en créer une.
 
-> **[Rejoindre une communauté d'énergie en Wallonie : guide pratique](/actualites/2026/05/11/rejoindre-communaute-energie-wallonie/)**
+> **[Rejoindre une communauté d'énergie en Wallonie](/actualites/2026/05/11/rejoindre-communaute-energie-wallonie/)**
 >
 > Qui peut adhérer, où trouver une opération ouverte et les démarches pas à pas.
 
-> **[Créer une communauté d'énergie en Wallonie : guide étape par étape](/actualites/2026/05/11/creer-communaute-energie-wallonie/)**
+> **[Créer une communauté d'énergie en Wallonie](/actualites/2026/05/11/creer-communaute-energie-wallonie/)**
 >
 > Du choix du type de communauté jusqu'au démarrage du partage avec votre GRD.
 

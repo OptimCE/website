@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Eine Energiegemeinschaft in der Wallonie gründen: Schritt-für-Schritt-Leitfaden"
+title: "Energiegemeinschaft in der Wallonie gründen"
 date: 2026-05-11 14:00:00 +0200
 author: "OptimCE-Team"
 excerpt: "Wie man eine Energiegemeinschaft (CER oder CEC) in der Wallonie gründet: Modellwahl, Rechtsform, Meldung bei der CWaPE, Empfangsbestätigung und Start der Energieteilung mit ORES, RESA oder AIEG."
+description: "CER- oder CEC-Modell, Rechtsform, Meldung bei der CWaPE und Start der Energieteilung mit ORES, RESA oder AIEG: die konkreten Schritte."
 tags: [community, administrative, guide]
 lang: de
 ref: create-energy-community-wallonia
@@ -11,7 +12,7 @@ last_modified_at: 2026-07-16 10:00:00 +0200
 permalink: /de/aktuelles/2026/05/11/energiegemeinschaft-gruenden-wallonien/
 ---
 
-Die Wallonie ist derzeit die belgische Region, in der sich Energiegemeinschaften am schnellsten entwickeln. Der gesetzliche Rahmen ist seit 2022 stabil, die Regulierungsbehörde CWaPE stellt ein Standard-Meldeformular zur Verfügung, und die Verteilnetzbetreiber (VNB) sind technisch vorbereitet: Alle Voraussetzungen sind erfüllt, damit eine Bürgergruppe, eine Gemeinde, eine Schule oder ein Gewerbepark eigene Energieteilung in Gang setzen kann. Dieser Leitfaden beschreibt **das vollständige Verfahren** Schritt für Schritt: vom Typ der Gemeinschaft bis zur Inbetriebnahme mit Ihrem Netzbetreiber. Sind Sie mit dem Begriff selbst noch nicht vertraut, beginnen Sie mit unserem Artikel [„Energiegemeinschaften in Belgien: CER, CEC und CEL erklärt"](/de/aktuelles/2026/05/11/energiegemeinschaften-belgien/) — er legt das hier verwendete Vokabular fest.
+Die Wallonie ist derzeit die belgische Region, in der sich Energiegemeinschaften am schnellsten entwickeln. Der gesetzliche Rahmen ist seit 2022 stabil, die Regulierungsbehörde CWaPE stellt ein Standard-Meldeformular zur Verfügung, und die Verteilnetzbetreiber (VNB) sind technisch vorbereitet: Alle Voraussetzungen sind erfüllt, damit eine Bürgergruppe, eine Gemeinde, eine Schule oder ein Gewerbepark eigene Energieteilung in Gang setzen kann. Dieser Leitfaden beschreibt **das vollständige Verfahren** Schritt für Schritt: vom Typ der Gemeinschaft bis zur Inbetriebnahme mit Ihrem Netzbetreiber. Sind Sie mit dem Begriff selbst noch nicht vertraut, beginnen Sie mit unserem Artikel [„Energiegemeinschaften in Belgien: CER, CEC, CEL“](/de/aktuelles/2026/05/11/energiegemeinschaften-belgien/) — er legt das hier verwendete Vokabular fest.
 
 Der Leitfaden richtet sich an zwei typische Profile: ein **Kollektiv, das bei null beginnt** (Bürger, Stadtteil-VoG, Gemeinde), und einen **bereits ausgestatteten Erzeuger** (Dach-PV, Kraft-Wärme-Kopplung), der seinen Überschuss an Nachbarn oder nahegelegene Unternehmen weitergeben möchte. Das Verfahren ist dasselbe; was sich unterscheidet, ist die vorgelagerte Strukturierungsarbeit.
 
@@ -57,7 +58,7 @@ Dies ist der längste Schritt, aber auch derjenige, der die Belastbarkeit der Ge
 1. **Wer erzeugt?** Identifizieren Sie die Erzeuger (bestehende Dach-PV, neues Projekt, KWK…) und ihren Lieferpunkt (EAN).
 2. **Wer verbraucht?** Listen Sie die zukünftigen verbrauchenden Mitglieder, ihren geschätzten Jahresverbrauch und ihre EANs auf.
 3. **Wo?** Kartieren Sie die Standorte, um das Nähe-Kriterium (CER) zu prüfen oder zu bestätigen, dass es nicht erforderlich ist (CEC).
-4. **Wie wird die Energie verteilt?** Skizzieren Sie den Verteilungsschlüssel (statisch: feste Prozentsätze; dynamisch: proportional zum Echtzeitverbrauch). Für einen detaillierten Überblick über die von der CWaPE akzeptierten Schlüssel und ihre Brüsseler und flämischen Entsprechungen siehe unseren Artikel [„Verteilungsschlüssel in Belgien: Wallonie, Brüssel und Flandern im Vergleich“](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/).
+4. **Wie wird die Energie verteilt?** Skizzieren Sie den Aufteilungsschlüssel (statisch: feste Prozentsätze; dynamisch: proportional zum Echtzeitverbrauch). Für einen detaillierten Überblick über die von der CWaPE akzeptierten Schlüssel und ihre Brüsseler und flämischen Entsprechungen siehe unseren Artikel [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/).
 
 ### Eine Rechtsform wählen
 
@@ -66,17 +67,17 @@ Eine Energiegemeinschaft ist **zwingend eine juristische Person**. In der Wallon
 - **Die VoG (Vereinigung ohne Gewinnerzielungsabsicht / ASBL)** — geeignet für Bürgerprojekte, Schulen, Gemeinden; flexible Governance, kein Mindestkapital.
 - **Die Genossenschaft (SCRL/SC)** — geeignet, wenn die Investition (Module, Netzanschluss) von den Mitgliedern getragen wird; ermöglicht eine Vergütung der Anteile.
 
-Seltener kann eine Stiftung oder ein Interkommunale-Verband die Gemeinschaft tragen. Die Wahl hängt davon ab, **wer investiert, wer entscheidet und wie Vorteile an die Mitglieder zurückfließen**. Der Leitfaden [„Wie eine Energiegemeinschaft in der Wallonie aufgesetzt wird"](https://energieplus-lesite.be/webinaire/comment-mettre-en-place-une-communaute-denergie-en-wallonie/) von Énergie+ erläutert die Abwägungen.
+Seltener kann eine Stiftung oder ein Interkommunale-Verband die Gemeinschaft tragen. Die Wahl hängt davon ab, **wer investiert, wer entscheidet und wie Vorteile an die Mitglieder zurückfließen**. Der Leitfaden [„Wie eine Energiegemeinschaft in der Wallonie aufgesetzt wird“](https://energieplus-lesite.be/webinaire/comment-mettre-en-place-une-communaute-denergie-en-wallonie/) von Énergie+ erläutert die Abwägungen.
 
 ### Den Vertreter benennen
 
 Die Gemeinschaft muss einen **einzigen Vertreter** benennen — oft *Manager* oder *Administrator* genannt — der Ansprechpartner für CWaPE und VNB ist. Seine Rolle: die Meldung einreichen, Vereinbarungen unterzeichnen, Mitgliedsaktualisierungen und den Jahresbericht übermitteln. In kleinen Gemeinschaften wird diese Rolle ehrenamtlich von einem Mitglied wahrgenommen; in größeren Projekten wird sie an einen professionellen **Gemeinschaftsmanager** übertragen (genau die Rolle, für die **OptimCE** Werkzeuge bereitstellt).
 
-Am Ende dieses Schritts haben Sie: Statuten, eine Mitgliederliste mit EANs, einen designierten Vertreter und einen Entwurf des Verteilungsschlüssels. Sie sind bereit zu melden.
+Am Ende dieses Schritts haben Sie: Statuten, eine Mitgliederliste mit EANs, einen designierten Vertreter und einen Entwurf des Aufteilungsschlüssels. Sie sind bereit zu melden.
 
 ## Schritt 3 — Die Meldung bei der CWaPE einreichen
 
-In der Wallonie ist die **vorherige Meldung an die CWaPE verpflichtend**: Keine Teilungsaktivität darf beginnen, solange die Gemeinschaft nicht ordnungsgemäß gemeldet ist. Das Verfahren ist auf der Seite [„Welches Verfahren ist zur Gründung einer Energiegemeinschaft zu befolgen?"](https://www.cwape.be/node/6052) der Regulierungsbehörde beschrieben.
+In der Wallonie ist die **vorherige Meldung an die CWaPE verpflichtend**: Keine Teilungsaktivität darf beginnen, solange die Gemeinschaft nicht ordnungsgemäß gemeldet ist. Das Verfahren ist auf der Seite [„Welches Verfahren ist zur Gründung einer Energiegemeinschaft zu befolgen?“](https://www.cwape.be/node/6052) der Regulierungsbehörde beschrieben.
 
 ### Das Standardformular
 
@@ -85,7 +86,7 @@ Die CWaPE stellt ein **Standardformular** zur Strukturierung der Meldung bereit.
 - Die **Rechtsidentität** der Gemeinschaft: Form, Bezeichnung, Sitz, ZUO-Nummer (BCE), Statuten.
 - Den **benannten Vertreter** und seine Kontaktdaten.
 - Die **Liste der Gründungsmitglieder** (Privatpersonen, KMU, Gebietskörperschaften) mit ihren EANs.
-- Die **vorgesehene Teilungskonfiguration**: Gemeinschaftstyp (CER/CEC), Umfang, geteilte Energiequelle, Verteilungsschlüssel.
+- Die **vorgesehene Teilungskonfiguration**: Gemeinschaftstyp (CER/CEC), Umfang, geteilte Energiequelle, Aufteilungsschlüssel.
 - Den **betroffenen Netzbetreiber** (ORES, RESA oder AIEG) und die zugehörigen Lieferpunkte.
 
 ### Wo und wie einreichen
@@ -108,7 +109,7 @@ Nutzen Sie dieses Zeitfenster, um parallel an Schritt 5 zu arbeiten (Kontaktaufn
 
 ## Schritt 5 — Die Teilung mit dem Verteilnetzbetreiber starten
 
-Sobald die Empfangsbestätigung vorliegt, wird die Teilung zu einem **technischen Vorgang** unter Führung des VNB. Die Seiten [ORES — „Eine Energiegemeinschaft starten (CER/CEC)"](https://www.ores.be/particulier/demarrer-partage-cer-cec) und [AIEG — „Die Energieteilung"](https://www.aieg.be/le-partage-denergie) beschreiben die Mechanik auf Betreiberseite.
+Sobald die Empfangsbestätigung vorliegt, wird die Teilung zu einem **technischen Vorgang** unter Führung des VNB. Die Seiten [ORES — „Eine Energiegemeinschaft starten (CER/CEC)“](https://www.ores.be/particulier/demarrer-partage-cer-cec) und [AIEG — „Die Energieteilung“](https://www.aieg.be/le-partage-denergie) beschreiben die Mechanik auf Betreiberseite.
 
 ### Den zuständigen VNB identifizieren
 
@@ -125,7 +126,7 @@ Zuständig ist der VNB, der das **Netz betreibt, an das Ihre Zähler angeschloss
 Sie übermitteln dem VNB:
 
 - Die **vollständige Liste der EANs** (Erzeugung und Verbrauch), die an der Teilung teilnehmen;
-- Den gewählten **Verteilungsschlüssel** (statisch oder dynamisch);
+- Den gewählten **Aufteilungsschlüssel** (statisch oder dynamisch);
 - Die zwischen den Mitgliedern unterzeichnete **Teilungsvereinbarung** (siehe unten);
 - Die **Empfangsbestätigung der CWaPE**.
 
@@ -142,19 +143,19 @@ Die Teilung beruht auf **intelligenten Zählern** (Smart Meter), die die Messwer
 Sobald die Konfiguration technisch validiert ist, aktiviert der VNB die Teilung zu einem einvernehmlich vereinbarten Datum. Ab diesem Zeitpunkt:
 
 1. Liest er die Zähler alle 15 Minuten aus.
-2. Wendet er den Verteilungsschlüssel an, um die geteilte Energie jedem Mitglied zuzuweisen.
+2. Wendet er den Aufteilungsschlüssel an, um die geteilte Energie jedem Mitglied zuzuweisen.
 3. Übermittelt er die geteilten Volumina an die **Energielieferanten** der Mitglieder zur Anpassung der Rechnung.
 
-Die Elektronen fließen weiterhin normal über das Netz: Die Teilung ist **administrativ und tariflich**, nicht physisch. Beispiele für bereits aktive Konfigurationen finden Sie in unserer Liste der [offenen Teilungsoperationen](/actualites/2026/05/07/nouveautes-release/).
+Die Elektronen fließen weiterhin normal über das Netz: Die Teilung ist **administrativ und tariflich**, nicht physisch. Beispiele für bereits aktive Konfigurationen finden Sie in unserer Liste der [offenen Teilungsoperationen](https://app.optimce.be).
 
 ## Schritt 6 — Betreiben, lenken und berichten
 
-Sobald die Gemeinschaft läuft, verschwinden die Pflichten nicht. Die CWaPE verlangt eine **jährliche Berichterstattung** über die Tätigkeit der Gemeinschaft: Mitglieder, erzeugte Energie, geteilte Energie, Entwicklung des Verteilungsschlüssels (siehe die [CWaPE-Referenzseite](https://www.cwape.be/node/158)).
+Sobald die Gemeinschaft läuft, verschwinden die Pflichten nicht. Die CWaPE verlangt eine **jährliche Berichterstattung** über die Tätigkeit der Gemeinschaft: Mitglieder, erzeugte Energie, geteilte Energie, Entwicklung des Aufteilungsschlüssels (siehe die [CWaPE-Referenzseite](https://www.cwape.be/node/158)).
 
 Hinzu kommen die laufenden Pflichten:
 
 - **Aktualisierungen der Meldung** bei jedem Mitgliederwechsel oder bei materiellen Konfigurationsänderungen;
-- **Interne Governance**: Versammlungen, Entscheidungen zum Verteilungsschlüssel, Onboarding neuer Erzeuger;
+- **Interne Governance**: Versammlungen, Entscheidungen zum Aufteilungsschlüssel, Onboarding neuer Erzeuger;
 - **Laufende Koordination mit dem VNB** für technische Fragen (Zählertausch, EAN-Ergänzung, Behandlung von Abweichungen).
 
 In dieser Betriebsphase wird ein **Verwaltungswerkzeug** unverzichtbar: Dutzende EANs verfolgen, Schlüssel bei jedem Zu- und Abgang neu berechnen, den CWaPE-Bericht erstellen — all das von Hand wird schnell unhaltbar. Genau das automatisiert **OptimCE** — seit Juli 2026 einschließlich der [internen Abrechnung der Mitglieder](/de/aktuelles/2026/07/16/energiegemeinschaft-abrechnung-optimce/), deren erste Version einsatzbereit ist.
@@ -168,7 +169,7 @@ In dieser Betriebsphase wird ein **Verwaltungswerkzeug** unverzichtbar: Dutzende
 - **Rechtsgründung**: ASBL- oder Genossenschaftsstatuten, Notarkosten für Genossenschaften (einige Hundert bis einige Tausend Euro).
 - **Begleitung**: Anwalt, Energieberater, Ingenieurbüro bei komplexer Konfiguration.
 - **Buchhaltung**: Als juristische Person führt die Gemeinschaft Bücher (für VoGs oft vereinfacht).
-- **Verwaltungstool**: spezialisierte Plattform für Verteilungsschlüssel, Berichterstattung und interne Abrechnung (inzwischen in OptimCE integriert).
+- **Verwaltungstool**: spezialisierte Plattform für Aufteilungsschlüssel, Berichterstattung und interne Abrechnung (inzwischen in OptimCE integriert).
 - **Netznutzungsentgelte**: Vom VNB nach den geltenden regulierten Tarifen abgerechnet (bei der CWaPE einsehbar).
 
 Für die Meldung selbst ist **keine spezifische Verwaltungsgebühr** an die CWaPE zu entrichten.
@@ -185,7 +186,7 @@ Das wallonische Dekret legt keinen numerischen Schwellenwert fest, aber eine Gem
 
 ### Kann die CWaPE eine Meldung ablehnen?
 
-Die CWaPE „genehmigt" keine Gemeinschaft: Sie **bestätigt den Empfang** einer konformen Meldung. Sie kann Ergänzungen anfordern oder Nichtkonformitäten melden (Umfang, Mitgliedertypen, Energiequelle bei einer CER); in diesem Fall läuft die 10-Werktage-Frist erst ab Eingang der konformen Fassung.
+Die CWaPE „genehmigt“ keine Gemeinschaft: Sie **bestätigt den Empfang** einer konformen Meldung. Sie kann Ergänzungen anfordern oder Nichtkonformitäten melden (Umfang, Mitgliedertypen, Energiequelle bei einer CER); in diesem Fall läuft die 10-Werktage-Frist erst ab Eingang der konformen Fassung.
 
 ### Was unterscheidet das von kollektivem Eigenverbrauch in einem Gebäude?
 
@@ -211,15 +212,15 @@ Ja. **Gebietskörperschaften** (Gemeinden, Gemeindeschulen, Interkommunalen) und
 
 Falls eine Gemeinschaft von Grund auf zu gründen Ihnen zu aufwändig erscheint, ist der **Beitritt zu einer bestehenden Operation** deutlich schneller — typischerweise 6 bis 12 Wochen zwischen Erstkontakt und erster geteilter Kilowattstunde. Sehen Sie unseren praktischen Leitfaden:
 
-> **[Einer Energiegemeinschaft in der Wallonie beitreten: Leitfaden](/de/aktuelles/2026/05/11/energiegemeinschaft-beitreten-wallonien/)**
+> **[Energiegemeinschaft in der Wallonie beitreten](/de/aktuelles/2026/05/11/energiegemeinschaft-beitreten-wallonien/)**
 >
 > Wer beitreten kann, wo eine offene Operation finden (OptimCE-Register, SPW-Facilitator, Énergie commune), Beitrittsschritte und Punkte zur Beachtung vor der Unterzeichnung.
 
 ## Wie OptimCE helfen kann
 
-Sobald die Gemeinschaft gemeldet und betriebsbereit ist, beginnt die Arbeit: Mitglieder einbinden, Verteilungsschlüssel konfigurieren, geteilte Volumina im 15-Minuten-Takt verfolgen, den jährlichen CWaPE-Bericht erstellen. **OptimCE** ist eine genau dafür gedachte Open-Source-Plattform: Sie automatisiert das tägliche Management von Energiegemeinschaften und arbeitet mit den wallonischen VNB zusammen.
+Sobald die Gemeinschaft gemeldet und betriebsbereit ist, beginnt die Arbeit: Mitglieder einbinden, Aufteilungsschlüssel konfigurieren, geteilte Volumina im 15-Minuten-Takt verfolgen, den jährlichen CWaPE-Bericht erstellen. **OptimCE** ist eine genau dafür gedachte Open-Source-Plattform: Sie automatisiert das tägliche Management von Energiegemeinschaften und arbeitet mit den wallonischen VNB zusammen.
 
-Zum Einstieg oder zum Funktionsvergleich konsultieren Sie das [OptimCE-Benutzerhandbuch](https://guide.optimce.be) sowie die öffentliche Liste der bereits über die Plattform verwalteten [offenen Teilungsoperationen](/actualites/2026/05/07/nouveautes-release/).
+Zum Einstieg oder zum Funktionsvergleich konsultieren Sie das [OptimCE-Benutzerhandbuch](https://guide.optimce.be) sowie die öffentliche Liste der bereits über die Plattform verwalteten [offenen Teilungsoperationen](https://app.optimce.be).
 
 ## Quellen
 

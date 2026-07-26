@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Stromrechnung in Belgien: warum sie trotz sinkender Preise hoch bleibt"
+title: "Warum die Stromrechnung in Belgien hoch bleibt"
 date: 2026-07-25 10:00:00 +0200
 author: "OptimCE-Team"
 excerpt: "Der Energiepreis ist seit 2022 stark gefallen, und die Akzisen sinken am 1. August 2026. Dennoch bewegt sich Ihre Rechnung kaum. Eine Aufschlüsselung der vier Blöcke in Euro — Energie, Netzkosten, Steuern, Lieferantenmarge — die Erhöhungen 2026 je Region und die Posten, auf die Sie noch Einfluss haben."
+description: "Energie macht nur 40 % der Rechnung aus. Die vier Blöcke aufgeschlüsselt, die Erhöhungen 2026 je Region und Ihre Stellschrauben."
 tags: [community, administrative, guide]
 lang: de
 ref: why-electricity-bill-stays-high
@@ -20,7 +21,7 @@ faq:
   - q: "Wie erkenne ich, ob ich zu viel für meinen Strom bezahle?"
     a: "Vergleichen Sie Ihr Angebot. Es ist der einzige wirklich wettbewerbliche Block der Rechnung, und der Abstand zwischen dem günstigsten und dem teuersten Angebot übersteigt 200 Euro pro Jahr bei einem typischen Haushalt mit 3.500 kWh. Prüfen Sie danach Ihre Netztarifformel — Einfachtarif, Zweifachtarif oder Anreiztarifierung — und den Zeitpunkt Ihres Verbrauchs, denn in Wallonien verändern die neuen Zeitfenster von 2026 und der Impact-Tarif die Rechnung für große verschiebbare Verbraucher."
   - q: "Senkt die Energieteilung die Netzkosten und die Steuern?"
-    a: "In der Regel nicht. Die CWaPE ist eindeutig: alle Netzkosten sowie die darauf bezogenen Steuern und Zuschläge bleiben auf geteilte Elektrizität geschuldet, und es gibt keine Tarifreduzierung für die Teilung innerhalb einer Energiegemeinschaft. Die Energieteilung wirkt auf den Energieblock, also genau auf den Teil, um den die Lieferanten konkurrieren. Die Ausnahme hängt von der Nähe ab, nicht vom Status: in Wallonien gilt eine Reduzierung von 80 % auf die proportionalen Terme des Netztarifs für die Teilung innerhalb desselben Gebäudes; in Brüssel ist die Regelung nach der Nähe der Teilnehmer abgestuft."
+    a: "In der Regel nicht. Die CWaPE ist eindeutig: alle Netzkosten sowie die darauf bezogenen Steuern und Zuschläge bleiben auf geteilten Strom geschuldet, und es gibt keine Tarifreduzierung für die Teilung innerhalb einer Energiegemeinschaft. Die Energieteilung wirkt auf den Energieblock, also genau auf den Teil, um den die Lieferanten konkurrieren. Die Ausnahme hängt von der Nähe ab, nicht vom Status: in Wallonien gilt eine Reduzierung von 80 % auf die proportionalen Terme des Netztarifs für die Teilung innerhalb desselben Gebäudes; in Brüssel ist die Regelung nach der Nähe der Teilnehmer abgestuft."
 ---
 
 Seit dem Höchststand im Herbst 2022 ist der Endkundenpreis für Strom in Belgien von rund 0,45–0,60 €/kWh auf eine Spanne von 0,28–0,35 €/kWh zurückgefallen ([Selectra](https://selectra.be/fr/energie/tarifs/evolution), Stand Mai 2026). 2025 erreichten Strom und Gas sogar ihren niedrigsten Stand seit vier Jahren ([Mega](https://www.mega.be/fr/blog/actualites/bilan-prix-electricite-belgique/), April 2026). Und am 1. August 2026 folgt die Akzise auf Strom: von 50,33 auf 46 €/MWh, mit einem absteigenden Pfad bis 2029 ([RTBF](https://www.rtbf.be/article/gaz-mazout-electricite-combien-la-reforme-des-accises-sur-l-energie-va-t-elle-vous-couter-testez-notre-calculateur-11737675), Juni 2026).
@@ -30,6 +31,11 @@ Drei gute Nachrichten. Und dennoch bewegt sich die Rechnung kaum.
 Das ist weder eine Täuschung noch eine Anomalie: es ist Arithmetik. Der Energiepreis wiegt **nur etwa 40 % Ihrer Stromrechnung** — die CREG schreibt es unmissverständlich ([CREG](https://www.creg.be/fr/actualites/prix-de-lenergie-pour-les-menages-constatations-avril-2026), April 2026). Die übrigen 60 % sind regulierte Netzkosten, Steuern, Akzisen und Mehrwertsteuer, und sie folgen Logiken, die nichts mit dem Energiemarkt zu tun haben. Einige davon steigen 2026 genau dann, wenn der Energiepreis sinkt.
 
 Dieser Artikel nimmt die vier Blöcke Ihrer Rechnung auseinander — **in Euro, nicht nur in Prozent**: was jeder Block bezahlt, wer ihn festlegt, wie er sich 2026 in den drei Regionen entwickelt und welche Sie noch beeinflussen können. Zum Schluss die Frage, die viele Leser dieses Blogs beschäftigt: auf welche dieser Blöcke wirkt die Energieteilung *tatsächlich*?
+
+<img src="/assets/images/diagrams/bill-breakdown-de.svg"
+     alt="Gestapeltes Balkendiagramm: Energie macht 38,5 % der Rechnung aus, Netzkosten 29,7 %, Steuern 26,1 % und MwSt. 5,7 %."
+     width="800" height="450" loading="lazy" decoding="async"
+     style="width:100%;height:auto">
 
 ## Ihre Rechnung ist keine Energierechnung: vier Blöcke, von denen nur einer ein Preis ist
 
@@ -51,7 +57,7 @@ Drei unmittelbare Folgen, und sie erklären den größten Teil des Unbehagens:
 
 - **Ein Rückgang bei der Energie wird um den Faktor zweieinhalb gedämpft.** Fällt der Preis der Commodity um 20 %, sinkt Ihre Rechnung nur um etwa 8 %. Bei 1.293 € sind das rund hundert Euro — sichtbar, aber weit entfernt von dem, was Schlagzeilen suggerieren.
 - **Die Mehrwertsteuer verstärkt die Erhöhungen der anderen Blöcke.** Mit 6 % kommt sie auf Energie, Netz und die meisten Zuschläge obendrauf. Jede Erhöhung des Netztarifs wird unterwegs also noch um 6 % angehoben. Zwei bemerkenswerte Ausnahmen: die wallonische Anschlussabgabe und der flämische Energiefondsbeitrag sind davon befreit (CREG).
-- **Das Gewicht des Netzes verändert sich stark je nach Ort.** In Wallonien klettert es auf 32,7 % der Rechnung, gegenüber 24,6 % in Brüssel (CREG, Juni 2026, ausgeführt in unserem Leitfaden [„Strompreis in einer Energiegemeinschaft“](/de/aktuelles/2026/07/20/strompreis-energiegemeinschaft/)). Dieselbe Maßnahme bewirkt also von Region zu Region nicht dasselbe.
+- **Das Gewicht des Netzes verändert sich stark je nach Ort.** In Wallonien klettert es auf 32,7 % der Rechnung, gegenüber 24,6 % in Brüssel (CREG, Juni 2026, ausgeführt in unserem Leitfaden [„Interner Verrechnungspreis für geteilten Strom“](/de/aktuelles/2026/07/20/strompreis-energiegemeinschaft/)). Dieselbe Maßnahme bewirkt also von Region zu Region nicht dasselbe.
 
 ## Die Netzkosten steigen, wenn Ihre kWh sinken
 
@@ -112,7 +118,7 @@ Das ist auch der Sinn der Tarifreform, die die CWaPE seit ihrer Methodologie 202
 
 Der dritte Block — etwa ein Viertel der Rechnung — ist der undurchsichtigste, und 2026 bringt ihm die meistbeachtete Änderung des Jahres.
 
-Heute beträgt die Akzise auf Strom **50,33 €/MWh**, was rund **166 € pro Jahr** für einen Haushalt mit 3.500 kWh ergibt, bei einer durchschnittlichen Rechnung von 1.200 € (Test-Achats, Februar 2026). Das am **29. Mai 2026** von der Kammer angenommene Programmgesetz organisiert eine Verlagerung der Akzisen von der Elektrizität hin zu fossilen Brennstoffen: am **1. August 2026** sinkt die Akzise auf Strom auf **46 €/MWh** und fällt weiter bis 2029, während jene auf Gas und Heizöl steigen (RTBF, Juni 2026). Dieselbe Reform **schafft den Energiebeitrag ab** ([Inforgazelec](https://www.inforgazelec.be/fr/reforme-accise-cotisation-energie/), Juni 2026).
+Heute beträgt die Akzise auf Strom **50,33 €/MWh**, was rund **166 € pro Jahr** für einen Haushalt mit 3.500 kWh ergibt, bei einer durchschnittlichen Rechnung von 1.200 € (Test-Achats, Februar 2026). Das am **29. Mai 2026** von der Kammer angenommene Programmgesetz organisiert eine Verlagerung der Akzisen vom Strom hin zu fossilen Brennstoffen: am **1. August 2026** sinkt die Akzise auf Strom auf **46 €/MWh** und fällt weiter bis 2029, während jene auf Gas und Heizöl steigen (RTBF, Juni 2026). Dieselbe Reform **schafft den Energiebeitrag ab** ([Inforgazelec](https://www.inforgazelec.be/fr/reforme-accise-cotisation-energie/), Juni 2026).
 
 Eine Anmerkung der Redlichkeit: **die veröffentlichten Pfade stimmen von Quelle zu Quelle nicht überein**, was die Beträge Jahr für Jahr betrifft — je nachdem, ob sie die Gesamtakzise oder allein die besondere Akzise betreffen, nachdem der Energiebeitrag darin aufgegangen ist. Wir nennen hier daher nur die Stufe vom August 2026 und die Richtung des Gefälles. Für einen belastbaren Betrag halten Sie sich an die vom [FÖD Finanzen](https://finances.belgium.be/de/zoll_akzisen) veröffentlichten Tarife.
 
@@ -144,13 +150,13 @@ Der Schluss ist etwas undankbar, aber er hält: **die Angebote einmal im Jahr zu
 
 Damit kommen wir zu der Frage, die die Leser dieses Blogs beschäftigt. Wenn die Energie nur 40 % der Rechnung ausmacht, was kann die Energieteilung dann wirklich?
 
-**Die Energieteilung wirkt auf den Energieblock — genau jenen, um den die Lieferanten konkurrieren — und fast nur auf ihn.** Die CWaPE lässt keinen Raum für Interpretation: da die Elektrizität über das Netz läuft, sind alle Netzkosten (Übertragung und Verteilung) sowie die damit verbundenen Steuern und Zuschläge auf geteilte Elektrizität geschuldet, und „es gibt keine Tarifreduzierung für die Teilung innerhalb einer Energiegemeinschaft“ ([CWaPE](https://www.cwape.be/node/6062)). Geteilte Elektronen reisen über das öffentliche Netz: die Energieteilung ändert, *wer Ihnen die Energie verkauft*, nicht *wo sie durchfließt*.
+**Die Energieteilung wirkt auf den Energieblock — genau jenen, um den die Lieferanten konkurrieren — und fast nur auf ihn.** Die CWaPE lässt keinen Raum für Interpretation: da der Strom über das Netz läuft, sind alle Netzkosten (Übertragung und Verteilung) sowie die damit verbundenen Steuern und Zuschläge auf geteilten Strom geschuldet, und „es gibt keine Tarifreduzierung für die Teilung innerhalb einer Energiegemeinschaft“ ([CWaPE](https://www.cwape.be/node/6062)). Geteilte Elektronen reisen über das öffentliche Netz: die Energieteilung ändert, *wer Ihnen die Energie verkauft*, nicht *wo sie durchfließt*.
 
 **Die Ausnahme hängt von der Nähe ab, nicht vom Status.** Seit dem 1. Januar 2025 gilt eine Reduzierung von **80 % auf die proportionalen Terme** des Netztarifs für die Teilung **innerhalb desselben Gebäudes** — eine Konstellation, die keine juristische Person erfordert, sondern nur eine dem Netzbetreiber gemeldete Vereinbarung ([CWaPE](https://www.cwape.be/node/6090)). Die Teilung zwischen verschiedenen Gebäuden, Peer-to-Peer oder in einer Gemeinschaft, ist ausdrücklich ausgeschlossen ([Renouvelle](https://www.renouvelle.be/fr/la-cwape-pose-les-jalons-de-la-tarification-future-de-lelectricite-tout-en-donnant-un-solide-coup-de-pouce-au-partage-delectricite-renouvelable-au-sein-du-meme-batiment/)). Brüssel ist großzügiger und staffelt den Vorteil nach der Nähe der Teilnehmer; Flandern gewährt keinerlei Reduzierung. Anders gesagt: **ein Mehrfamilienhaus mit Solardach befindet sich in der besten Position Belgiens** — kollektiver Eigenverbrauch auf Gebäudeebene, und der Netztarif reagiert darauf.
 
 Und ein Posten, den fast keine Simulation vorwegnimmt: **Ihr Lieferant darf Kosten für Ihre Teilnahme an der Teilung berechnen.** Nichts verbietet es, und die festgestellten Beträge reichen bis zu rund 150 € pro Jahr und Lieferstelle. Bei kleinen geteilten Mengen zehren diese Kosten den Gewinn vollständig auf — für Test-Achats war es der Grund, die Energieteilung in Wallonien und Flandern nicht mehr zu empfehlen (Bewertung vom Mai 2024, vor jeder Entscheidung erneut zu prüfen).
 
-Was kauft die Energieteilung also wirklich? Einen **niedrigeren und vor allem stabileren** Preis auf einen Teil des Energieblocks, ohne Lieferantenwechsel und ohne Panelinstallation. Die Sparmechanismen, mit Zahlen, sind dargelegt in [„Wie eine Energiegemeinschaft Ihre Stromrechnung senkt“](/de/aktuelles/2026/06/03/energiegemeinschaft-stromrechnung-senken/); wie der interne Preis festgelegt wird, in [„Strompreis in einer Energiegemeinschaft“](/de/aktuelles/2026/07/20/strompreis-energiegemeinschaft/); und die Wahl zwischen individuellem Eigenverbrauch, kollektivem Eigenverbrauch und Energiegemeinschaft in [„Eigenverbrauch von Energie in Belgien“](/de/aktuelles/2026/06/05/eigenverbrauch-energie-belgien/). Wenn Sie noch bei den Mengen und nicht bei den Euro stehen, erklärt unser Referenzartikel [„Verteilungsschlüssel in Belgien: Wallonien, Brüssel, Flandern“](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/), wie bestimmt wird, welcher Anteil der lokalen Produktion Ihnen zufällt.
+Was kauft die Energieteilung also wirklich? Einen **niedrigeren und vor allem stabileren** Preis auf einen Teil des Energieblocks, ohne Lieferantenwechsel und ohne Panelinstallation. Die Sparmechanismen, mit Zahlen, sind dargelegt in [„Stromrechnung senken mit Energiegemeinschaft“](/de/aktuelles/2026/06/03/energiegemeinschaft-stromrechnung-senken/); wie der interne Preis festgelegt wird, in [„Interner Verrechnungspreis für geteilten Strom“](/de/aktuelles/2026/07/20/strompreis-energiegemeinschaft/); und die Wahl zwischen individuellem Eigenverbrauch, kollektivem Eigenverbrauch und Energiegemeinschaft in [„Eigenverbrauch von Energie in Belgien“](/de/aktuelles/2026/06/05/eigenverbrauch-energie-belgien/). Wenn Sie noch bei den Mengen und nicht bei den Euro stehen, erklärt unser Referenzartikel [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/), wie bestimmt wird, welcher Anteil der lokalen Produktion Ihnen zufällt.
 
 ## Was Sie mitnehmen sollten
 
@@ -167,7 +173,7 @@ Was Sie nicht erwarten sollten: dass der Rückgang der Großhandelspreise oder d
 
 > ### Verwalten Sie Ihre Energieteilung mit OptimCE
 >
-> Open-Source-Plattform für belgische Energiegemeinschaften: Mitglieder, Zähler, Verteilungsschlüssel und Teilungsoperationen an einem Ort — bis zur Erzeugung von Rechnungen, Gutschriften und Abrechnungen als PDF aus Ihren offiziellen Verteilungsdaten.
+> Open-Source-Plattform für belgische Energiegemeinschaften: Mitglieder, Zähler, Aufteilungsschlüssel und Teilungsoperationen an einem Ort — bis zur Erzeugung von Rechnungen, Gutschriften und Abrechnungen als PDF aus Ihren offiziellen Verteilungsdaten.
 >
 > **[Auf app.optimce.be starten →](https://app.optimce.be)**
 
@@ -195,7 +201,7 @@ Ja. Das am 29. Mai 2026 von der Kammer angenommene Programmgesetz senkt die Akzi
 
 ### Senkt die Energieteilung die Netzkosten und die Steuern?
 
-In der Regel **nicht**. Die CWaPE ist eindeutig: alle Netzkosten sowie die darauf bezogenen Steuern und Zuschläge bleiben auf geteilte Elektrizität geschuldet, und „es gibt keine Tarifreduzierung für die Teilung innerhalb einer Energiegemeinschaft“. Die Energieteilung wirkt auf den **Energieblock**, also genau auf den Teil, um den die Lieferanten konkurrieren. Die Ausnahme hängt von der Nähe ab, nicht vom Status: in Wallonien gilt eine Reduzierung von 80 % auf die proportionalen Terme des Netztarifs für die Teilung **innerhalb desselben Gebäudes**; in Brüssel ist die Regelung nach der Nähe der Teilnehmer abgestuft.
+In der Regel **nicht**. Die CWaPE ist eindeutig: alle Netzkosten sowie die darauf bezogenen Steuern und Zuschläge bleiben auf geteilten Strom geschuldet, und „es gibt keine Tarifreduzierung für die Teilung innerhalb einer Energiegemeinschaft“. Die Energieteilung wirkt auf den **Energieblock**, also genau auf den Teil, um den die Lieferanten konkurrieren. Die Ausnahme hängt von der Nähe ab, nicht vom Status: in Wallonien gilt eine Reduzierung von 80 % auf die proportionalen Terme des Netztarifs für die Teilung **innerhalb desselben Gebäudes**; in Brüssel ist die Regelung nach der Nähe der Teilnehmer abgestuft.
 
 ## Quellen
 
@@ -203,10 +209,10 @@ In der Regel **nicht**. Die CWaPE ist eindeutig: alle Netzkosten sowie die darau
 - [CREG — Energiepreise für Haushalte, Feststellungen April 2026](https://www.creg.be/fr/actualites/prix-de-lenergie-pour-les-menages-constatations-avril-2026) — die Energiekomponente entspricht rund 40 % der Rechnung; +16,40 % bei festen Verträgen in einem Monat; Risikoprämie fest gegen variabel bis zu 50 %.
 - [CREG — Monatsdashboard](https://www.creg.be/fr/professionnels/fonctionnement-et-monitoring-du-marche/tableau-de-bord) — Anteile je Komponente und All-in-Preis je Region (hier verwendete Ausgabe: Juni 2026).
 - [CREG — Bundesbeitrag](https://www.creg.be/fr/a-z-index/cotisation-federale) — Abschaffung zum 31. Dezember 2021 und Überführung in die besondere Akzise.
-- [CWaPE — Periodische Verteilnetztarife Elektrizität 2026-2029 (ORES, RESA, AIEG, AIESH)](https://www.cwape.be/documents-recents/communique-de-presse-tarifs-periodiques-de-distribution-delectricite-dores-resa) — Genehmigung vom 26. Juni 2025, neue Zeitfenster des Zweifachtarifs und Inkrafttreten des Impact-Tarifs.
-- [CWaPE — Sind Netzkosten bei der Energieteilung geschuldet?](https://www.cwape.be/node/6062) — Netzkosten, Steuern und Zuschläge auf geteilte Elektrizität geschuldet; Reduzierung von 80 % auf dasselbe Gebäude begrenzt; keine Reduzierung innerhalb einer Energiegemeinschaft.
+- [CWaPE — Periodische Verteilnetztarife Strom 2026-2029 (ORES, RESA, AIEG, AIESH)](https://www.cwape.be/documents-recents/communique-de-presse-tarifs-periodiques-de-distribution-delectricite-dores-resa) — Genehmigung vom 26. Juni 2025, neue Zeitfenster des Zweifachtarifs und Inkrafttreten des Impact-Tarifs.
+- [CWaPE — Sind Netzkosten bei der Energieteilung geschuldet?](https://www.cwape.be/node/6062) — Netzkosten, Steuern und Zuschläge auf geteilten Strom geschuldet; Reduzierung von 80 % auf dasselbe Gebäude begrenzt; keine Reduzierung innerhalb einer Energiegemeinschaft.
 - [CWaPE — Teilung innerhalb desselben Gebäudes oder innerhalb einer Gemeinschaft?](https://www.cwape.be/node/6090) — Perimeter, Rechtsform, tarifliche Behandlung und Verfahren für jede Konstellation.
-- [Test-Achats — Anreiztarifierung für Elektrizität in Wallonien](https://www.test-achats.be/maison-energie/gaz-electricite-mazout-pellets/dossier/tarification-incitative-electricite) — +8 % Verteilnetztarife 2026, neue Zeitfenster, Bänder ECO/MEDIUM/PIC und der bezifferte Fall des Warmwasserspeichers (November 2025).
+- [Test-Achats — Anreiztarifierung für Strom in Wallonien](https://www.test-achats.be/maison-energie/gaz-electricite-mazout-pellets/dossier/tarification-incitative-electricite) — +8 % Verteilnetztarife 2026, neue Zeitfenster, Bänder ECO/MEDIUM/PIC und der bezifferte Fall des Warmwasserspeichers (November 2025).
 - [Test-Achats — Die Folgen der Akzisenreform](https://www.test-achats.be/maison-energie/gaz-electricite-mazout-pellets/news/belgique-reforme-accises-consequences-facture-energie) — Akzise von 50,33 €/MWh, also 166 € pro Jahr bei 3.500 kWh, bei einer durchschnittlichen Rechnung von 1.200 € (Februar 2026).
 - [RTBF — Was wird Sie die Akzisenreform kosten?](https://www.rtbf.be/article/gaz-mazout-electricite-combien-la-reforme-des-accises-sur-l-energie-va-t-elle-vous-couter-testez-notre-calculateur-11737675) — Abstimmung in der Kammer am 29. Mai 2026, Inkrafttreten am 1. August 2026, Übergang auf 46 €/MWh und Pfad bis 2029 (Juni 2026).
 - [Inforgazelec — Reform der besonderen Akzise und Abschaffung des Energiebeitrags](https://www.inforgazelec.be/fr/reforme-accise-cotisation-energie/) — Abschaffung des Energiebeitrags im August 2026 und ein abweichender Pfad für die besondere Akzise (Juni 2026).

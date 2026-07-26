@@ -5,13 +5,20 @@ description: >-
   OptimCE est une plateforme open source de gestion pour les communautés
   d'énergie et les communautés d'énergie renouvelable. Gestion des membres,
   compteurs, clés de répartition et opérations de partage.
-baseurl: "/"
+baseurl: ""
 url: "https://www.optimce.be"
 lang: "fr"
+# Pin the build timezone. Without it, Jekyll uses the runner's TZ (UTC on CI),
+# which shifts any post dated between 00:00 and 02:00 +0200 back a calendar day
+# and silently changes its permalink.
+timezone: "Europe/Brussels"
 
 # Supported languages
+# `locale` is the Open Graph territory code; jekyll-seo-tag reads it from
+# page.locale, which _plugins/i18n_metadata.rb sets from these values.
 languages:
   - code: fr
+    locale: "fr_BE"
     prefix: ""
     blog_path: "/actualites/"
     about_path: "/a-propos/"
@@ -19,6 +26,7 @@ languages:
     privacy_path: "/confidentialite/"
     glossary_path: "/glossaire/"
   - code: en
+    locale: "en_GB"
     prefix: "/en"
     blog_path: "/en/news/"
     about_path: "/en/about/"
@@ -26,6 +34,7 @@ languages:
     privacy_path: "/en/privacy/"
     glossary_path: "/en/glossary/"
   - code: de
+    locale: "de_DE"
     prefix: "/de"
     blog_path: "/de/aktuelles/"
     about_path: "/de/about/"
@@ -33,6 +42,7 @@ languages:
     privacy_path: "/de/datenschutz/"
     glossary_path: "/de/glossar/"
   - code: nl
+    locale: "nl_BE"
     prefix: "/nl"
     blog_path: "/nl/nieuws/"
     about_path: "/nl/about/"
@@ -41,19 +51,29 @@ languages:
     glossary_path: "/nl/woordenlijst/"
 
 # Author
+# `type: Organization` — "OptimCE" is a project team, not a person, and
+# jekyll-seo-tag uses this for the JSON-LD author/publisher node.
 author:
-  name: "Équipe OptimCE"
+  name: "OptimCE"
+  type: "Organization"
+  url: "https://www.optimce.be/"
+
+# Raster logo for structured data (Google's image guidance prefers it over SVG).
+logo: /assets/images/logo-512.png
 
 # Social / Repository
 github_username: "optimce"
 repository: "optimce/website"
 
-twitter:
-  card: summary_large_image
+# No `twitter:` block on purpose. Setting it without a `username` makes
+# jekyll-seo-tag emit `<meta name="twitter:site" content="@">` and derive
+# twitter:creator from the author name. The template still defaults
+# twitter:card to summary_large_image on its own.
 
 # Build Settings
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
 
@@ -75,6 +95,11 @@ defaults:
     values:
       layout: "post"
       lang: "fr"
+      # Demote jekyll-seo-tag's node from BlogPosting to WebPage so it stops
+      # competing with the Article entity in _includes/structured-data.html.
+      # The gem's JSON-LD block cannot be suppressed, but its type is overridable.
+      seo:
+        type: "WebPage"
   - scope:
       path: ""
       type: "pages"
@@ -98,5 +123,6 @@ exclude:
   - Gemfile.lock
   - node_modules
   - vendor
+  - scripts
   - README.md
   - LICENSE

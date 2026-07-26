@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Energiegemeinschaften in Belgien: CER, CEC und CEL erklärt"
+title: "Energiegemeinschaften in Belgien: CER, CEC, CEL"
 date: 2026-05-11 10:00:00 +0200
 author: "OptimCE-Team"
 excerpt: "Energiegemeinschaften in Belgien verstehen — Unterschiede zwischen erneuerbarer, Bürger- und lokaler Energiegemeinschaft, Energieteilung, Akteure und Vorteile."
+description: "CER, CEC und CEL: die Unterschiede, wie Energieteilung funktioniert, die Rolle von Regulator und Netzbetreiber und Ihr konkreter Nutzen."
 tags: [community, administrative]
 lang: de
 ref: energy-communities-belgium
@@ -12,6 +13,11 @@ permalink: /de/aktuelles/2026/05/11/energiegemeinschaften-belgien/
 ---
 
 Energiegemeinschaften stehen im Zentrum der belgischen Energiewende. Von der Europäischen Union vorgegeben und von jeder Region — Wallonie, Brüssel, Flandern — eigenständig umgesetzt, ermöglichen sie es Bürgerinnen und Bürgern, Unternehmen und lokalen Behörden, ihre eigene Energie zu erzeugen, zu teilen und zu verbrauchen. Dieser Artikel stellt die drei offiziellen Formen (CER, CEC, CEL) vor, erläutert, wie Energieteilung tatsächlich funktioniert, präsentiert die wichtigsten Akteure und fasst die finanziellen und ökologischen Vorteile zusammen.
+
+<img src="/assets/images/diagrams/community-types-de.svg"
+     alt="Vergleich der drei Status von Energiegemeinschaften — EEG, BEG und LEG — mit ihren Anforderungen an Nähe und Umfang."
+     width="800" height="450" loading="lazy" decoding="async"
+     style="width:100%;height:auto">
 
 ## Was ist eine Energiegemeinschaft?
 
@@ -79,7 +85,7 @@ Wichtig zu verstehen: Energieteilung ist **administrativ, nicht physisch**. Die 
 - **Die regionalen Regulierungsbehörden** — [CWaPE](https://www.cwape.be/secteur/communautes-partage-energie) in der Wallonie, [BRUGEL](https://environnement.brussels/citoyen/agir-pour-lenvironnement/devenir-eco-responsable/partage-et-communautes-denergie) in Brüssel, [Vlaamse Nutsregulator (ex-VREG)](https://www.vlaamsenutsregulator.be) in Flandern — legen die Regeln fest, überwachen die Tarife und veröffentlichen Leitfäden für Gemeinschaften.
 - **Die Energielieferanten** stellen weiterhin die **Restenergie** in Rechnung, also den Anteil des Verbrauchs, der nicht durch die interne Teilung gedeckt ist.
 - **Die Mitglieder** sind sowohl Prosumer (z. B. mit Photovoltaikanlage) als auch reine Verbraucher, KMU oder lokale Behörden.
-- **Der Community Manager** ist die Einheit, die die Gemeinschaft im Tagesgeschäft führt: Onboarding neuer Mitglieder, Konfiguration der Verteilungsschlüssel, Reporting an den VNB. Genau diese Rolle vereinfacht **OptimCE** — siehe das [Benutzerhandbuch](https://guide.optimce.be) und das öffentliche Register der [offenen Teilungsoperationen](/de/aktuelles/2026/05/07/release-neuigkeiten/).
+- **Der Community Manager** ist die Einheit, die die Gemeinschaft im Tagesgeschäft führt: Onboarding neuer Mitglieder, Konfiguration der Aufteilungsschlüssel, Reporting an den VNB. Genau diese Rolle vereinfacht **OptimCE** — siehe das [Benutzerhandbuch](https://guide.optimce.be) und das öffentliche Register der [offenen Teilungsoperationen](https://app.optimce.be).
 
 ## Vorteile — finanziell und ökologisch
 
@@ -101,7 +107,7 @@ Privatpersonen, KMU und lokale Behörden können teilnehmen. Die Teilnahme ist o
 
 ### Wie wird mein Rabatt berechnet?
 
-Der VNB analysiert Ihre 15-Minuten-Daten, wendet den von der Gemeinschaft festgelegten **Verteilungsschlüssel** an und teilt Ihrem Lieferanten mit, wie viel geteilte Energie Ihnen zugewiesen wurde. Dieser Anteil wird zum innerhalb der Gemeinschaft ausgehandelten Tarif abgerechnet, in der Regel unter dem Marktpreis. Für die Details der in jeder Region akzeptierten Schlüsseltypen siehe unseren Leitfaden [„Verteilungsschlüssel in Belgien: Wallonie, Brüssel und Flandern im Vergleich“](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/).
+Der VNB analysiert Ihre 15-Minuten-Daten, wendet den von der Gemeinschaft festgelegten **Aufteilungsschlüssel** an und teilt Ihrem Lieferanten mit, wie viel geteilte Energie Ihnen zugewiesen wurde. Dieser Anteil wird zum innerhalb der Gemeinschaft ausgehandelten Tarif abgerechnet, in der Regel unter dem Marktpreis. Für die Details der in jeder Region akzeptierten Schlüsseltypen siehe unseren Leitfaden [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/).
 
 ### Gibt es eine geografische Beschränkung?
 
@@ -127,7 +133,7 @@ Flandern verfügt über einen gleichwertigen Rahmen unter Aufsicht des **VREG**,
 
 **In der Wallonie** ist der Rahmen seit 2022 stabil und das Verfahren vollständig dokumentiert. Wir haben einen eigenen Schritt-für-Schritt-Leitfaden verfasst:
 
-> **[Eine Energiegemeinschaft in der Wallonie gründen: Schritt-für-Schritt-Leitfaden](/de/aktuelles/2026/05/11/energiegemeinschaft-gruenden-wallonien/)**
+> **[Energiegemeinschaft in der Wallonie gründen](/de/aktuelles/2026/05/11/energiegemeinschaft-gruenden-wallonien/)**
 >
 > Wahl zwischen CER und CEC, Projektstrukturierung, Meldung bei der CWaPE, Empfangsbestätigung und Start der Teilung mit ORES, RESA oder AIEG.
 
@@ -139,7 +145,7 @@ Flandern verfügt über einen gleichwertigen Rahmen unter Aufsicht des **VREG**,
 
 **In der Wallonie** suchen Hunderte von Teilungsoperationen aktiv neue Mitglieder. Sie müssen keine eigene Gemeinschaft gründen, um von der Teilung zu profitieren — ein praktischer Leitfaden führt Sie Schritt für Schritt zum Beitritt zu einer bestehenden Operation in wenigen Wochen.
 
-> **[Einer Energiegemeinschaft in der Wallonie beitreten: Leitfaden](/de/aktuelles/2026/05/11/energiegemeinschaft-beitreten-wallonien/)**
+> **[Energiegemeinschaft in der Wallonie beitreten](/de/aktuelles/2026/05/11/energiegemeinschaft-beitreten-wallonien/)**
 >
 > Wer beitreten kann, wo eine offene Operation finden (OptimCE-Register, SPW-Facilitator, Énergie commune), Beitrittsschritte und Punkte zur Beachtung vor der Unterzeichnung.
 

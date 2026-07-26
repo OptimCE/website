@@ -21,7 +21,23 @@
   {%- if aliases_str != "" %}
   <p class="glossary-card__aliases"><span class="glossary-card__aliases-label">{{ t.glossary.alias_label }}</span> {{ aliases_str }}</p>
   {%- endif %}
-  {%- if term.source_url and term.source_url != "" %}
-  <a class="glossary-card__source" href="{{ term.source_url }}" target="_blank" rel="noopener">{{ t.glossary.source_label }} {{ term.source_nom }}</a>
+  {%- comment -%}
+    `source_ref` points at one of our own pages by its translation ref, so the
+    link resolves to the reader's own language and stays in the same tab.
+    `source_url` remains for genuinely external sources, which do get
+    target="_blank". Previously six terms hardcoded the English About page URL
+    and opened it in a new tab for every locale.
+  {%- endcomment -%}
+  {%- assign source_href = term.source_url -%}
+  {%- assign source_external = true -%}
+  {%- if term.source_ref and term.source_ref != "" -%}
+    {%- assign source_page = site.pages | where: "ref", term.source_ref | where: "lang", lang | first -%}
+    {%- if source_page -%}
+      {%- assign source_href = source_page.url | relative_url -%}
+      {%- assign source_external = false -%}
+    {%- endif -%}
+  {%- endif %}
+  {%- if source_href and source_href != "" %}
+  <a class="glossary-card__source" href="{{ source_href }}"{% if source_external %} target="_blank" rel="noopener"{% endif %}>{{ t.glossary.source_label }} {{ term.source_nom }}</a>
   {%- endif %}
 </article>

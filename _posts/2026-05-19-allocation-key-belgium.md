@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Allocation key in Belgium: Wallonia, Brussels and Flanders compared"
+title: "Allocation key in Belgium: the 3 regions"
 date: 2026-05-19 10:00:00 +0200
 author: "OptimCE Team"
 excerpt: "Allocation key in an energy community — types accepted by CWaPE, BRUGEL and VREG, regional differences across Wallonia, Brussels and Flanders, and practical guidance to choose one."
+description: "Key types accepted by CWaPE, BRUGEL and VREG, what changes between Wallonia, Brussels and Flanders, and how to choose the right one."
 tags: [allocation-key, administrative]
 lang: en
 ref: allocation-key-belgium
@@ -13,7 +14,12 @@ permalink: /en/news/2026/05/19/allocation-key-belgium/
 
 The **allocation key** is the quiet piece of machinery that turns a local electricity production into a tangible benefit for each member of an energy community. Quarter-hour by quarter-hour, it decides *who gets how much* of the shared energy. And that is precisely where Belgium gets complicated: Wallonia, Brussels and Flanders have not adopted the same grid of standard keys, do not use the same vocabulary, and do not impose the same validation rules.
 
-This article walks through the three regional frameworks — **CWaPE / ORES / RESA / AIEG** in Wallonia, **BRUGEL / Sibelga** in Brussels, **VREG / Fluvius** in Flanders — to compare what is actually allowed in each region and help community managers pick a key that holds over time. If you are new to the very idea of an energy community, start with our article [“Energy communities in Belgium: CER, CEC and CEL explained”](/en/news/2026/05/11/energy-communities-belgium/) — it sets the vocabulary used here.
+This article walks through the three regional frameworks — **CWaPE / ORES / RESA / AIEG** in Wallonia, **BRUGEL / Sibelga** in Brussels, **VREG / Fluvius** in Flanders — to compare what is actually allowed in each region and help community managers pick a key that holds over time. If you are new to the very idea of an energy community, start with our article [“Energy communities in Belgium: CER, CEC, CEL”](/en/news/2026/05/11/energy-communities-belgium/) — it sets the vocabulary used here.
+
+<img src="/assets/images/diagrams/allocation-key-flow-en.svg"
+     alt="Five-step diagram: quarter-hourly data, generation or simulation, candidate key, member validation, submission to the grid operator."
+     width="800" height="330" loading="lazy" decoding="async"
+     style="width:100%;height:auto">
 
 ## Allocation key: a quick refresher
 
@@ -50,7 +56,7 @@ A community can **propose an alternative key**, but it then needs to be **specif
 
 That is possible. The **community representative** submits the request to the DSO, members sign an **amendment to the sharing agreement**, and the change takes effect on a date agreed with the network operator. The [ORES — Energy sharing in practice](https://www.ores.be/professionnel/en-pratique) page details the operational steps on the DSO side.
 
-For the full creation procedure and where the key fits into the CWaPE notification, see our guide [“How to create an energy community in Wallonia: a step-by-step guide”](/en/news/2026/05/11/create-energy-community-wallonia/).
+For the full creation procedure and where the key fits into the CWaPE notification, see our guide [“Create an energy community in Wallonia”](/en/news/2026/05/11/create-energy-community-wallonia/).
 
 ## The Brussels framework: fixed, prorata and hybrid methods
 
@@ -130,7 +136,7 @@ A residential neighbourhood with similar profiles (~3,500 kWh/year each) works v
 
 The **three regions allow modifying** a key after launch. In Wallonia, the amendment to the agreement plus the DSO step takes a few weeks; in Brussels and Flanders, the modification is announced by the single point of contact to the DSO. Avoid keys that are too rigid at launch: plan from the start an annual review at the general assembly.
 
-The key decides **how many kWh** each member receives; it says nothing about **how many euros** they are worth. That second decision — the price applied to the shared energy — is taken separately, in the same agreement: see ["Electricity price in an energy community: how to set the internal transfer price"](/en/news/2026/07/20/energy-community-electricity-price/).
+The key decides **how many kWh** each member receives; it says nothing about **how many euros** they are worth. That second decision — the price applied to the shared energy — is taken separately, in the same agreement: see [“Internal transfer price in an energy community”](/en/news/2026/07/20/energy-community-electricity-price/).
 
 ### Four typical practical cases
 
@@ -151,7 +157,7 @@ That is precisely what **OptimCE** tools at the core of the application. The **A
 - **Track the full history** of keys applied over time — useful for amendments, recomputations in case of dispute, and regulator reporting.
 - **Track the acceptance status** of each member for a new key: who signed the amendment, who hasn't validated yet, who declined.
 
-The **automatic generation module** is now live: from the **actual production and consumption data** of the members, it proposes optimised candidate keys — through a **brute force** scan over the regional standard keys and through **LOGAAS**, a genetic-algorithm approach developed by **CeCoTePe** during the **Locomotrice** research project. See our dedicated guide: ["Automatic allocation key generation: how OptimCE finds the optimal key"](/en/news/2026/05/26/automatic-allocation-key-generation/).
+The **automatic generation module** is now live: from the **actual production and consumption data** of the members, it proposes optimised candidate keys — through a **brute force** scan over the regional standard keys and through **LOGAAS**, a genetic-algorithm approach developed by **CeCoTePe** during the **Locomotrice** research project. See our dedicated guide: [“Automatic allocation key generation”](/en/news/2026/05/26/automatic-allocation-key-generation/).
 
 > ### Manage your allocation keys with OptimCE
 >
@@ -197,19 +203,19 @@ Choosing a key is not a technical question: it's a governance choice that should
 
 To go further, see our companion guides:
 
-> **[Automatic allocation key generation: how OptimCE finds the optimal key](/en/news/2026/05/26/automatic-allocation-key-generation/)**
+> **[Automatic allocation key generation](/en/news/2026/05/26/automatic-allocation-key-generation/)**
 >
 > The data-driven follow-up — how brute force and LOGAAS find the best allocation key from a community's real production and consumption data.
 
-> **[Energy communities in Belgium: CER, CEC and CEL explained](/en/news/2026/05/11/energy-communities-belgium/)**
+> **[Energy communities in Belgium: CER, CEC, CEL](/en/news/2026/05/11/energy-communities-belgium/)**
 >
 > The full panorama of legal forms, European directives and operational mechanics of energy sharing in Belgium.
 
-> **[How to create an energy community in Wallonia: a step-by-step guide](/en/news/2026/05/11/create-energy-community-wallonia/)**
+> **[Create an energy community in Wallonia](/en/news/2026/05/11/create-energy-community-wallonia/)**
 >
 > Choosing between CER and CEC, framing the project, notifying CWaPE, the acknowledgement and launching the sharing with ORES, RESA or AIEG — including where the allocation key fits in the file.
 
-> **[How to join an energy community in Wallonia: a practical guide](/en/news/2026/05/11/join-energy-community-wallonia/)**
+> **[Join an energy community in Wallonia](/en/news/2026/05/11/join-energy-community-wallonia/)**
 >
 > Where to find an open operation, enrolment steps and points to check before signing the sharing agreement.
 

@@ -6,26 +6,61 @@
   var mobileMenu = document.getElementById('mobile-menu');
 
   if (hamburger && mobileMenu) {
+    // Labels come from data-* because this file is not Liquid-processed and so
+    // cannot read the i18n strings directly.
+    var labelOpen = hamburger.getAttribute('data-label-open');
+    var labelClose = hamburger.getAttribute('data-label-close');
+
+    var setMenu = function (open) {
+      hamburger.setAttribute('aria-expanded', String(open));
+      mobileMenu.setAttribute('aria-hidden', String(!open));
+      hamburger.classList.toggle('is-active', open);
+      mobileMenu.classList.toggle('is-open', open);
+      document.body.classList.toggle('menu-open', open);
+      var label = open ? labelClose : labelOpen;
+      if (label) hamburger.setAttribute('aria-label', label);
+    };
+
     hamburger.addEventListener('click', function () {
-      var isOpen = hamburger.getAttribute('aria-expanded') === 'true';
-      hamburger.setAttribute('aria-expanded', String(!isOpen));
-      mobileMenu.setAttribute('aria-hidden', String(isOpen));
-      hamburger.classList.toggle('is-active');
-      mobileMenu.classList.toggle('is-open');
-      document.body.classList.toggle('menu-open');
+      setMenu(hamburger.getAttribute('aria-expanded') !== 'true');
     });
 
     // Close menu when clicking a link
     mobileMenu.querySelectorAll('a').forEach(function (link) {
       link.addEventListener('click', function () {
-        hamburger.setAttribute('aria-expanded', 'false');
-        mobileMenu.setAttribute('aria-hidden', 'true');
-        hamburger.classList.remove('is-active');
-        mobileMenu.classList.remove('is-open');
-        document.body.classList.remove('menu-open');
+        setMenu(false);
       });
     });
   }
+
+  // --- Language switcher (disclosure) ---
+  // The list also opens via CSS :hover/:focus-within; this adds real state so a
+  // screen reader is told whether the menu is open, and Escape closes it.
+  document.querySelectorAll('.lang-switcher').forEach(function (switcher) {
+    var trigger = switcher.querySelector('.lang-switcher__trigger');
+    if (!trigger) return;
+
+    var setOpen = function (open) {
+      trigger.setAttribute('aria-expanded', String(open));
+      switcher.classList.toggle('is-open', open);
+    };
+
+    trigger.addEventListener('click', function (e) {
+      e.stopPropagation();
+      setOpen(trigger.getAttribute('aria-expanded') !== 'true');
+    });
+
+    switcher.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape' || e.key === 'Esc') {
+        setOpen(false);
+        trigger.focus();
+      }
+    });
+
+    document.addEventListener('click', function (e) {
+      if (!switcher.contains(e.target)) setOpen(false);
+    });
+  });
 
   // --- Smooth Scroll for anchor links ---
   document.querySelectorAll('a[href*="#"]').forEach(function (anchor) {

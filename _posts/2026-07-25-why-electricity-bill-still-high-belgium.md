@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Electricity bills in Belgium: why yours stays high despite falling prices"
+title: "Why your electricity bill stays high in Belgium"
 date: 2026-07-25 10:00:00 +0200
 author: "OptimCE Team"
 excerpt: "Energy prices have collapsed since 2022 and excise duties drop on 1 August 2026. Yet your bill barely moves. A euro-by-euro breakdown of the four blocks — energy, network costs, taxes, supplier margin — the 2026 increases per region, and the items you can still act on."
+description: "Energy is only 40% of the bill. A breakdown of the four blocks, the 2026 increases per region, and what you can still act on."
 tags: [community, administrative, guide]
 lang: en
 ref: why-electricity-bill-stays-high
@@ -31,6 +32,11 @@ This is neither an illusion nor an anomaly — it is arithmetic. The price of en
 
 This article takes your bill apart into its four blocks **in euros, not just percentages**: what each one pays for, who sets it, how it moves in 2026 across the three regions, and which ones you can still influence. We will finish with the question many readers of this blog are asking: which of these blocks does energy sharing *actually* touch?
 
+<img src="/assets/images/diagrams/bill-breakdown-en.svg"
+     alt="Stacked bar chart: energy is 38.5% of the bill, network costs 29.7%, taxes 26.1% and VAT 5.7%."
+     width="800" height="450" loading="lazy" decoding="async"
+     style="width:100%;height:auto">
+
 ## Your bill is not an energy bill: four blocks, only one of which is a price
 
 The CREG distinguishes four components in the price paid by a consumer: **energy**, **network costs**, **taxes and levies**, and **VAT** ([CREG](https://www.creg.be/fr/consommateurs/le-marche-de-lenergie/comment-est-compose-le-prix-de-lenergie)). Only one is a market price, freely set and negotiable. The other three are regulated or legislated amounts, identical whoever your supplier is.
@@ -51,7 +57,7 @@ Three immediate consequences, and they explain most of the frustration:
 
 - **A drop in energy is damped by a factor of two and a half.** If the commodity price falls 20 %, your bill falls only about 8 %. On 1,293 €, that is around a hundred euros — visible, but a long way from what the headlines suggest.
 - **VAT amplifies increases in the other blocks.** At 6 %, it applies on top of energy, network and most surcharges. Any rise in the network tariff is therefore marked up by 6 % on the way through. Two notable exceptions: the Walloon connection fee and the Flemish energy fund contribution are exempt (CREG).
-- **The weight of the network changes sharply with location.** In Wallonia it climbs to 32.7 % of the bill, against 24.6 % in Brussels (CREG, June 2026, detailed in our guide ["Electricity price in an energy community"](/en/news/2026/07/20/energy-community-electricity-price/)). The same action does not produce the same effect from one region to the next.
+- **The weight of the network changes sharply with location.** In Wallonia it climbs to 32.7 % of the bill, against 24.6 % in Brussels (CREG, June 2026, detailed in our guide [“Internal transfer price in an energy community”](/en/news/2026/07/20/energy-community-electricity-price/)). The same action does not produce the same effect from one region to the next.
 
 ## Network costs rise as your kWh fall
 
@@ -150,7 +156,7 @@ Which brings us to the question that interests readers of this blog. If energy i
 
 And one item almost no simulation anticipates: **your supplier may charge fees for your participation in the sharing scheme.** Nothing prohibits it, and reported amounts run up to around 150 € per year per supply point. On small shared volumes, those fees wipe out the gain — it was the reason Test-Achats stopped recommending sharing in Wallonia and Flanders (assessment dated May 2024, to be re-checked before any decision).
 
-So what does sharing actually buy? A **lower and, above all, more stable** price on part of the energy block, without changing supplier or installing panels. The saving mechanisms, with figures, are set out in ["How an energy community reduces your electricity bill"](/en/news/2026/06/03/energy-community-reduce-electricity-bill/); how to set the internal price, in ["Electricity price in an energy community"](/en/news/2026/07/20/energy-community-electricity-price/); and the choice between individual self-consumption, collective self-consumption and an energy community, in ["Energy self-consumption in Belgium"](/en/news/2026/06/05/energy-self-consumption-belgium/). If you are still at the stage of volumes rather than euros, our reference article ["Allocation key in Belgium: Wallonia, Brussels, Flanders"](/en/news/2026/05/19/allocation-key-belgium/) explains how the share of local production allotted to you is decided.
+So what does sharing actually buy? A **lower and, above all, more stable** price on part of the energy block, without changing supplier or installing panels. The saving mechanisms, with figures, are set out in [“Reduce your electricity bill: energy communities”](/en/news/2026/06/03/energy-community-reduce-electricity-bill/); how to set the internal price, in [“Internal transfer price in an energy community”](/en/news/2026/07/20/energy-community-electricity-price/); and the choice between individual self-consumption, collective self-consumption and an energy community, in [“Energy self-consumption in Belgium”](/en/news/2026/06/05/energy-self-consumption-belgium/). If you are still at the stage of volumes rather than euros, our reference article [“Allocation key in Belgium: the 3 regions”](/en/news/2026/05/19/allocation-key-belgium/) explains how the share of local production allotted to you is decided.
 
 ## What to take away
 

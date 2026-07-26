@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Rejoindre une communauté d'énergie en Wallonie : guide pratique"
+title: "Rejoindre une communauté d'énergie en Wallonie"
 date: 2026-05-11 16:00:00 +0200
 author: "Équipe OptimCE"
 excerpt: "Comment rejoindre une communauté d'énergie en Wallonie : éligibilité, où trouver une opération de partage ouverte (registre OptimCE, facilitateur SPW, Énergie commune), démarches et points de vigilance avant de signer."
+description: "Conditions d'éligibilité, où trouver une opération de partage ouverte, les démarches et les points à vérifier avant de signer."
 tags: [community, administrative, guide]
 lang: fr
 ref: join-energy-community-wallonia
@@ -12,7 +13,7 @@ last_modified_at: 2026-07-16 10:00:00 +0200
 
 En Wallonie, les communautés d'énergie ne sont plus une expérimentation marginale : des centaines d'opérations de partage sont actives ou en cours de notification. Le cadre légal est stabilisé, les gestionnaires de réseau (ORES, RESA, AIEG) sont rodés, et la majorité des compteurs sont déjà communicants. Reste un obstacle bien concret pour la plupart des citoyens, PME et autorités locales : **comment trouver une communauté qui accepte de nouveaux membres**, et **quoi vérifier avant de signer**.
 
-Ce guide est conçu pour ce public. Pas pour les porteurs de projet qui veulent créer une communauté — pour cela, consultez notre [guide de création étape par étape](/actualites/2026/05/11/creer-communaute-energie-wallonie/) — ni pour ceux qui découvrent encore le concept — voyez d'abord [« Communautés d'énergie en Belgique : CER, CEC, CEL expliqués »](/actualites/2026/05/11/communautes-energie-belgique/). Il s'adresse à toute personne qui souhaite **rejoindre une opération existante** et veut savoir comment s'y prendre.
+Ce guide est conçu pour ce public. Pas pour les porteurs de projet qui veulent créer une communauté — pour cela, consultez notre [guide de création étape par étape](/actualites/2026/05/11/creer-communaute-energie-wallonie/) — ni pour ceux qui découvrent encore le concept — voyez d'abord [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/actualites/2026/05/11/communautes-energie-belgique/). Il s'adresse à toute personne qui souhaite **rejoindre une opération existante** et veut savoir comment s'y prendre.
 
 À la fin de cet article, vous saurez **qui peut adhérer**, **où chercher une opération ouverte**, **quelles démarches enchaîner** entre le premier contact et le premier kilowattheure partagé, et **quels points vérifier** dans la convention avant d'engager votre signature.
 
@@ -78,7 +79,7 @@ C'est la question la plus délicate aujourd'hui en Wallonie. Plusieurs canaux co
 
 ### Le registre public d'OptimCE
 
-OptimCE met à disposition un **[registre public des opérations de partage](/actualites/2026/05/07/nouveautes-release/)** intégré à l'application. Chaque gestionnaire de communauté peut choisir d'y publier son opération ; n'importe qui peut alors parcourir la liste, filtrer par commune, repérer celles qui sont **ouvertes à de nouveaux membres**, et contacter directement le gestionnaire.
+OptimCE met à disposition un **[registre public des opérations de partage](https://app.optimce.be)** intégré à l'application. Chaque gestionnaire de communauté peut choisir d'y publier son opération ; n'importe qui peut alors parcourir la liste, filtrer par commune, repérer celles qui sont **ouvertes à de nouveaux membres**, et contacter directement le gestionnaire.
 
 C'est à ce jour le **seul registre interrégional consultable librement et sans démarche préalable** : les autres canaux supposent soit un contact préalable avec un facilitateur, soit la connaissance d'un projet local. C'est aussi le canal le plus rapide pour une première vue d'ensemble.
 
@@ -158,7 +159,7 @@ Les implications diffèrent. **CER** : sources renouvelables uniquement, proximi
 
 ### Clé de répartition — statique ou dynamique ?
 
-Une clé **statique** attribue à chaque membre un pourcentage fixe du partage (simple, prévisible). Une clé **dynamique** répartit au prorata de la consommation réelle au pas de 15 minutes (plus juste, mais variable d'un mois à l'autre). Demandez **comment la clé est révisée** : annuellement, à chaque assemblée générale, à chaque arrivée d'un nouveau membre ? Pour le détail des trois clés standards validées par la CWaPE et la comparaison avec Bruxelles et la Flandre, voyez notre guide [« Clé de répartition en Belgique : Wallonie, Bruxelles et Flandre comparées »](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/).
+Une clé **statique** attribue à chaque membre un pourcentage fixe du partage (simple, prévisible). Une clé **dynamique** répartit au prorata de la consommation réelle au pas de 15 minutes (plus juste, mais variable d'un mois à l'autre). Demandez **comment la clé est révisée** : annuellement, à chaque assemblée générale, à chaque arrivée d'un nouveau membre ? Pour le détail des trois clés standards validées par la CWaPE et la comparaison avec Bruxelles et la Flandre, voyez notre guide [« Clé de répartition en Belgique : les 3 régions »](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/).
 
 ### Prix interne — comment est-il négocié ?
 
@@ -226,17 +227,17 @@ Non. Le partage d'énergie est un **droit reconnu par le décret wallon**. Votre
 
 Trois canaux pour passer à l'action :
 
-- Parcourez le [registre public des opérations de partage](/actualites/2026/05/07/nouveautes-release/) d'OptimCE pour repérer les opérations ouvertes près de chez vous.
+- Parcourez le [registre public des opérations de partage](https://app.optimce.be) d'OptimCE pour repérer les opérations ouvertes près de chez vous.
 - Contactez le **facilitateur Communautés d'énergie** du [SPW Énergie](https://energie.wallonie.be) pour un accompagnement personnalisé.
 - Remplissez le **formulaire de mise en relation** d'[Énergie commune](https://energiecommune.be) si votre orientation est plutôt coopérative et citoyenne.
 
 ## Vous préférez créer plutôt que rejoindre ?
 
-> **[Créer une communauté d'énergie en Wallonie : guide étape par étape](/actualites/2026/05/11/creer-communaute-energie-wallonie/)**
+> **[Créer une communauté d'énergie en Wallonie](/actualites/2026/05/11/creer-communaute-energie-wallonie/)**
 >
 > Choix entre CER et CEC, cadrage du projet, notification à la CWaPE, accusé de réception et démarrage du partage avec ORES, RESA ou AIEG.
 
-Pour le contexte général — qu'est-ce qu'une communauté d'énergie, quelles sont les bases européennes — voyez l'article [« Communautés d'énergie en Belgique : CER, CEC, CEL expliqués »](/actualites/2026/05/11/communautes-energie-belgique/).
+Pour le contexte général — qu'est-ce qu'une communauté d'énergie, quelles sont les bases européennes — voyez l'article [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/actualites/2026/05/11/communautes-energie-belgique/).
 
 ## Sources
 

@@ -1,16 +1,17 @@
 ---
 layout: post
-title: "Créer une communauté d'énergie en Wallonie : guide étape par étape"
+title: "Créer une communauté d'énergie en Wallonie"
 date: 2026-05-11 14:00:00 +0200
 author: "Équipe OptimCE"
 excerpt: "Comment créer une communauté d'énergie (CER ou CEC) en Wallonie : choix du modèle, structure juridique, notification à la CWaPE, accusé de réception et démarrage du partage avec ORES, RESA ou AIEG."
+description: "Modèle CER ou CEC, structure juridique, notification à la CWaPE et démarrage du partage avec ORES, RESA ou AIEG : les étapes concrètes."
 tags: [community, administrative, guide]
 lang: fr
 ref: create-energy-community-wallonia
 last_modified_at: 2026-07-16 10:00:00 +0200
 ---
 
-La Wallonie est, à ce jour, la région belge où les communautés d'énergie se déploient le plus rapidement. Cadre légal stabilisé depuis 2022, formulaire-type publié par la CWaPE, gestionnaires de réseau outillés : tous les ingrédients sont réunis pour qu'un groupe de citoyens, une commune, une école ou un parc d'entreprises lance son propre partage d'énergie. Ce guide décrit, pas à pas, **la procédure complète** : du choix du type de communauté à la mise en service du partage avec votre gestionnaire de réseau de distribution (GRD). Si vous n'êtes pas encore familier avec la notion même de communauté d'énergie, commencez par notre article [« Communautés d'énergie en Belgique : CER, CEC, CEL expliqués »](/actualites/2026/05/11/communautes-energie-belgique/) — il pose le vocabulaire repris ici.
+La Wallonie est, à ce jour, la région belge où les communautés d'énergie se déploient le plus rapidement. Cadre légal stabilisé depuis 2022, formulaire-type publié par la CWaPE, gestionnaires de réseau outillés : tous les ingrédients sont réunis pour qu'un groupe de citoyens, une commune, une école ou un parc d'entreprises lance son propre partage d'énergie. Ce guide décrit, pas à pas, **la procédure complète** : du choix du type de communauté à la mise en service du partage avec votre gestionnaire de réseau de distribution (GRD). Si vous n'êtes pas encore familier avec la notion même de communauté d'énergie, commencez par notre article [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/actualites/2026/05/11/communautes-energie-belgique/) — il pose le vocabulaire repris ici.
 
 Le guide s'adresse à deux profils typiques : un **collectif qui démarre de zéro** (citoyens, ASBL de quartier, commune) et un **producteur déjà équipé** (toiture photovoltaïque, cogénération) qui veut valoriser son surplus auprès de voisins ou d'entreprises proches. La procédure est la même ; ce qui change, c'est le travail de cadrage en amont.
 
@@ -56,7 +57,7 @@ C'est l'étape la plus longue, mais aussi celle qui détermine la solidité de l
 1. **Qui produit ?** Identifier le ou les producteurs (toiture PV existante, projet à construire, cogénération…) et leur point de fourniture (EAN).
 2. **Qui consomme ?** Lister les futurs membres consommateurs, leur consommation annuelle estimée et leurs EAN.
 3. **Où ?** Cartographier les emplacements pour vérifier le critère de proximité (CER) ou confirmer qu'il n'est pas requis (CEC).
-4. **Comment se répartit l'énergie ?** Esquisser la clé de répartition (statique : pourcentages fixes ; dynamique : proportionnelle à la consommation en temps réel). Pour un panorama détaillé des clés reconnues par la CWaPE et leurs équivalents bruxellois et flamands, voyez notre article [« Clé de répartition en Belgique : Wallonie, Bruxelles et Flandre comparées »](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/).
+4. **Comment se répartit l'énergie ?** Esquisser la clé de répartition (statique : pourcentages fixes ; dynamique : proportionnelle à la consommation en temps réel). Pour un panorama détaillé des clés reconnues par la CWaPE et leurs équivalents bruxellois et flamands, voyez notre article [« Clé de répartition en Belgique : les 3 régions »](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/).
 
 ### Choisir une structure juridique
 
@@ -144,7 +145,7 @@ Une fois la configuration validée techniquement, le GRD active le partage à un
 2. Applique la clé de répartition pour attribuer l'énergie partagée à chaque membre.
 3. Transmet les volumes partagés aux **fournisseurs d'énergie** des membres pour ajustement de la facturation.
 
-Les électrons continuent de circuler normalement sur le réseau : le partage est **administratif et tarifaire**, pas physique. Pour des exemples de configurations déjà actives, voyez notre liste des [opérations de partage ouvertes](/actualites/2026/05/07/nouveautes-release/).
+Les électrons continuent de circuler normalement sur le réseau : le partage est **administratif et tarifaire**, pas physique. Pour des exemples de configurations déjà actives, voyez notre liste des [opérations de partage ouvertes](https://app.optimce.be).
 
 ## Étape 6 — Exploiter, gouverner et rapporter
 
@@ -210,7 +211,7 @@ Oui. Les **autorités locales** (communes, écoles communales, intercommunales) 
 
 Si créer une communauté de A à Z vous semble trop lourd, **rejoindre une opération existante** est beaucoup plus rapide — typiquement 6 à 12 semaines entre le premier contact et le premier kilowattheure partagé. Voyez notre guide pratique :
 
-> **[Rejoindre une communauté d'énergie en Wallonie : guide pratique](/actualites/2026/05/11/rejoindre-communaute-energie-wallonie/)**
+> **[Rejoindre une communauté d'énergie en Wallonie](/actualites/2026/05/11/rejoindre-communaute-energie-wallonie/)**
 >
 > Qui peut adhérer, où trouver une opération ouverte (registre OptimCE, facilitateur SPW, Énergie commune), démarches étape par étape et points de vigilance avant de signer.
 
@@ -218,7 +219,7 @@ Si créer une communauté de A à Z vous semble trop lourd, **rejoindre une opé
 
 Une fois la communauté notifiée et opérationnelle, le travail commence : intégrer les membres, configurer les clés de répartition, suivre les volumes partagés au pas de 15 minutes, produire le rapport annuel CWaPE. **OptimCE** est une plateforme open source pensée exactement pour cela : elle automatise la gestion quotidienne des communautés d'énergie et s'interface avec les GRD wallons.
 
-Pour démarrer ou comparer les fonctionnalités, consultez le [guide utilisateur OptimCE](https://guide.optimce.be) ainsi que la liste publique des [opérations de partage ouvertes](/actualites/2026/05/07/nouveautes-release/) déjà gérées via la plateforme.
+Pour démarrer ou comparer les fonctionnalités, consultez le [guide utilisateur OptimCE](https://guide.optimce.be) ainsi que la liste publique des [opérations de partage ouvertes](https://app.optimce.be) déjà gérées via la plateforme.
 
 ## Sources
 

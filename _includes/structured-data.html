@@ -1,151 +1,204 @@
 {%- comment -%}
-  Emits JSON-LD: Organization on every page; SoftwareApplication + WebSite on
-  homepages (page.ref == 'home'); Article on blog posts. Complements (does not
-  conflict with) the WebSite/WebPage schema auto-emitted by jekyll-seo-tag.
+  Emits ONE @graph per page holding every entity we own, each with an @id so the
+  nodes reference each other instead of repeating anonymous copies.
+
+  jekyll-seo-tag also emits a JSON-LD block and its script tag cannot be
+  suppressed. What it CAN do is take a type override, so _config.yml sets
+  `seo: { type: WebPage }` on posts and on index.html. That demotes its node from
+  BlogPosting/WebSite to a page-level WebPage, so it no longer describes the same
+  entity class as the Article/WebSite nodes below. Its drop keys are a fixed list
+  with no @id and no inLanguage, which is why the graph lives here and not there.
+
+  Nodes:
+    #organization  site-wide constant, referenced by every other node
+    #website       one per language tree (so inLanguage stays truthful)
+    #software      one global product entity, shared @id across all 4 homepages
+    #article       posts
+    #webpage       about / glossary
+    #breadcrumb    everything except the homepages
+    #faq           posts declaring `faq:` front matter
+    #terms         glossary index pages
 {%- endcomment -%}
+{%- assign lang = page.lang | default: site.lang | default: 'fr' -%}
+{%- assign t = site.data.i18n[lang] -%}
+{%- assign cl = site.languages | where: "code", lang | first -%}
+{%- assign site_root = '/' | absolute_url -%}
+{%- capture home_url -%}{{ cl.prefix | append: '/' | absolute_url }}{%- endcapture -%}
+{%- capture page_url -%}{{ page.url | absolute_url }}{%- endcapture -%}
+{%- capture org_id -%}{{ site_root }}#organization{%- endcapture -%}
+{%- capture website_id -%}{{ home_url }}#website{%- endcapture -%}
+{%- capture software_id -%}{{ site_root }}#software{%- endcapture -%}
+{%- capture logo_url -%}{{ '/assets/images/logo-512.png' | absolute_url }}{%- endcapture -%}
+{%- assign org_description = t.org.description | default: site.description -%}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "OptimCE",
-  "url": {{ '/' | absolute_url | jsonify }},
-  "logo": {{ '/assets/images/logo.svg' | absolute_url | jsonify }},
-  "description": "OptimCE is an open-source platform for managing energy communities and renewable energy communities. The project originated from LOCOMOTRICE, a Walloon research initiative (2023-2026) co-led by Université de Liège (BEMS lab) and CECOTEPE in partnership with citizen energy cooperatives.",
-  "foundingDate": "2023",
-  "funder": {
-    "@type": "Organization",
-    "name": "Service public de Wallonie — programme Win2Wal",
-    "url": "https://recherche.wallonie.be/"
-  },
-  "sameAs": [
-    "https://github.com/optimce"
-  ]
-}
-</script>
-{%- if page.ref == 'home' %}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
-  "name": "OptimCE",
-  "url": {{ '/' | absolute_url | jsonify }},
-  "applicationCategory": "BusinessApplication",
-  "operatingSystem": "Web",
-  "description": {{ page.description | default: site.description | jsonify }},
-  "inLanguage": ["fr", "en", "nl", "de"],
-  "offers": {
-    "@type": "Offer",
-    "price": "0",
-    "priceCurrency": "EUR"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "OptimCE",
-    "url": {{ '/' | absolute_url | jsonify }}
-  }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  "name": "OptimCE",
-  "url": {{ '/' | absolute_url | jsonify }},
-  "inLanguage": "{{ page.lang | default: site.lang }}",
-  "publisher": {
-    "@type": "Organization",
-    "name": "OptimCE"
-  }
-}
-</script>
-{%- endif -%}
-{%- if page.ref == 'about' %}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "AboutPage",
-  "url": {{ page.url | absolute_url | jsonify }},
-  "inLanguage": "{{ page.lang | default: site.lang }}",
-  "name": {{ page.title | jsonify }},
-  "description": {{ page.description | default: site.description | jsonify }},
-  "mainEntity": {
-    "@type": "Organization",
-    "name": "OptimCE",
-    "url": {{ '/' | absolute_url | jsonify }}
-  }
-}
-</script>
-{%- endif -%}
-{%- if page.layout == 'post' %}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": {{ page.title | jsonify }},
-  "description": {{ page.excerpt | strip_html | normalize_whitespace | truncate: 200 | jsonify }},
-  "datePublished": "{{ page.date | date_to_xmlschema }}",
-  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
-  "author": {
-    "@type": "Person",
-    "name": {{ page.author | default: site.author.name | jsonify }}
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "OptimCE",
-    "logo": {
-      "@type": "ImageObject",
-      "url": {{ '/assets/images/logo.svg' | absolute_url | jsonify }}
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": {{ org_id | jsonify }},
+      "name": "OptimCE",
+      "url": {{ site_root | jsonify }},
+      "logo": {
+        "@type": "ImageObject",
+        "@id": {{ logo_url | jsonify }},
+        "url": {{ logo_url | jsonify }},
+        "width": 512,
+        "height": 512
+      },
+      "image": { "@id": {{ logo_url | jsonify }} },
+      "description": {{ org_description | strip_newlines | normalize_whitespace | jsonify }},
+      "foundingDate": "2023",
+      "email": "contact@optimce.be",
+      "funder": {
+        "@type": "Organization",
+        "name": "Service public de Wallonie — programme Win2Wal",
+        "url": "https://recherche.wallonie.be/"
+      },
+      "sameAs": [
+        "https://github.com/optimce"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": {{ website_id | jsonify }},
+      "name": "OptimCE",
+      "url": {{ home_url | jsonify }},
+      "inLanguage": {{ lang | jsonify }},
+      "publisher": { "@id": {{ org_id | jsonify }} }
     }
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": {{ page.url | absolute_url | jsonify }}
-  },
-  "inLanguage": "{{ page.lang | default: site.lang }}"
-}
-</script>
-{%- endif -%}
-{%- if page.faq %}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "inLanguage": "{{ page.lang | default: site.lang }}",
-  "mainEntity": [
-    {%- for item in page.faq %}
-    {
-      "@type": "Question",
-      "name": {{ item.q | jsonify }},
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": {{ item.a | jsonify }}
+    {%- if page.ref == 'home' -%}
+    ,{
+      "@type": "SoftwareApplication",
+      "@id": {{ software_id | jsonify }},
+      "name": "OptimCE",
+      "url": {{ site_root | jsonify }},
+      "applicationCategory": "BusinessApplication",
+      "operatingSystem": "Web",
+      "description": {{ page.description | default: site.description | jsonify }},
+      "inLanguage": ["fr", "en", "nl", "de"],
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "EUR"
+      },
+      "publisher": { "@id": {{ org_id | jsonify }} }
+    }
+    {%- endif -%}
+    {%- if page.layout == 'post' -%}
+    ,{
+      "@type": "Article",
+      "@id": {{ page_url | append: '#article' | jsonify }},
+      "headline": {{ page.title | jsonify }},
+      "description": {{ page.description | default: page.excerpt | strip_html | normalize_whitespace | truncate: 300 | jsonify }},
+      "datePublished": {{ page.date | date_to_xmlschema | jsonify }},
+      "dateModified": {{ page.last_modified_at | default: page.date | date_to_xmlschema | jsonify }},
+      "inLanguage": {{ lang | jsonify }},
+      "isPartOf": { "@id": {{ website_id | jsonify }} },
+      "author": { "@id": {{ org_id | jsonify }} },
+      "publisher": { "@id": {{ org_id | jsonify }} },
+      "image": {{ page.image.path | default: '/assets/images/og-image.png' | absolute_url | jsonify }},
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": {{ page_url | jsonify }}
       }
-    }{%- unless forloop.last %},{%- endunless %}
-    {%- endfor %}
+      {%- if page.tags.size > 0 -%}
+      ,"keywords": {{ page.tags | join: ', ' | jsonify }}
+      {%- endif -%}
+    }
+    {%- endif -%}
+    {%- if page.ref == 'about' -%}
+    ,{
+      "@type": "AboutPage",
+      "@id": {{ page_url | append: '#webpage' | jsonify }},
+      "url": {{ page_url | jsonify }},
+      "name": {{ page.title | jsonify }},
+      "description": {{ page.description | default: site.description | jsonify }},
+      "inLanguage": {{ lang | jsonify }},
+      "isPartOf": { "@id": {{ website_id | jsonify }} },
+      "mainEntity": { "@id": {{ org_id | jsonify }} }
+    }
+    {%- endif -%}
+    {%- if page.faq -%}
+    ,{
+      "@type": "FAQPage",
+      "@id": {{ page_url | append: '#faq' | jsonify }},
+      "inLanguage": {{ lang | jsonify }},
+      "isPartOf": { "@id": {{ website_id | jsonify }} },
+      "mainEntity": [
+        {%- for item in page.faq %}
+        {
+          "@type": "Question",
+          "name": {{ item.q | jsonify }},
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": {{ item.a | jsonify }}
+          }
+        }{%- unless forloop.last %},{%- endunless %}
+        {%- endfor %}
+      ]
+    }
+    {%- endif -%}
+    {%- if page.ref == 'glossary' -%}
+    ,{
+      "@type": "DefinedTermSet",
+      "@id": {{ page_url | append: '#terms' | jsonify }},
+      "name": {{ page.title | default: site.title | jsonify }},
+      "url": {{ page_url | jsonify }},
+      "inLanguage": {{ lang | jsonify }},
+      "isPartOf": { "@id": {{ website_id | jsonify }} },
+      "hasDefinedTerm": [
+        {%- for term in site.data.glossary %}
+        {
+          "@type": "DefinedTerm",
+          "@id": {{ page_url | append: '#' | append: term.slug | jsonify }},
+          "name": {{ term.terme[lang] | default: term.terme.fr | jsonify }},
+          "description": {{ term.definition[lang] | default: term.definition.fr | jsonify }},
+          "url": {{ page_url | append: '#' | append: term.slug | jsonify }},
+          "inDefinedTermSet": { "@id": {{ page_url | append: '#terms' | jsonify }} }
+        }{%- unless forloop.last %},{%- endunless %}
+        {%- endfor %}
+      ]
+    }
+    {%- endif -%}
+    {%- comment -%}
+      Breadcrumbs everywhere except the homepage (which IS the first crumb).
+      Post URLs are five segments deep, so this is the only machine-readable
+      signal of where a post sits in the site.
+    {%- endcomment -%}
+    {%- if page.ref != 'home' and page.ref -%}
+    ,{
+      "@type": "BreadcrumbList",
+      "@id": {{ page_url | append: '#breadcrumb' | jsonify }},
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": {{ t.nav.home | jsonify }},
+          "item": {{ home_url | jsonify }}
+        }
+        {%- if page.layout == 'post' -%}
+        ,{
+          "@type": "ListItem",
+          "position": 2,
+          "name": {{ t.nav.blog | jsonify }},
+          "item": {{ cl.blog_path | absolute_url | jsonify }}
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": {{ page.title | jsonify }}
+        }
+        {%- else -%}
+        ,{
+          "@type": "ListItem",
+          "position": 2,
+          "name": {{ page.title | jsonify }}
+        }
+        {%- endif -%}
+      ]
+    }
+    {%- endif -%}
   ]
 }
 </script>
-{%- endif -%}
-{%- if page.ref == 'glossary' %}
-{%- assign gloss_lang = page.lang | default: site.lang -%}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "DefinedTermSet",
-  "name": {{ page.title | default: site.title | jsonify }},
-  "url": {{ page.url | absolute_url | jsonify }},
-  "inLanguage": "{{ gloss_lang }}",
-  "hasDefinedTerm": [
-    {%- for term in site.data.glossary %}
-    {
-      "@type": "DefinedTerm",
-      "name": {{ term.terme[gloss_lang] | default: term.terme.fr | jsonify }},
-      "description": {{ term.definition[gloss_lang] | default: term.definition.fr | jsonify }},
-      "url": {{ page.url | append: '#' | append: term.slug | absolute_url | jsonify }},
-      "inDefinedTermSet": {{ page.url | absolute_url | jsonify }}
-    }{%- unless forloop.last %},{%- endunless %}
-    {%- endfor %}
-  ]
-}
-</script>
-{%- endif -%}

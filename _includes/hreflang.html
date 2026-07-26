@@ -2,19 +2,39 @@
   Emits <link rel="alternate" hreflang="..."> for every translation of this page,
   including a self-referencing tag, plus x-default pointing at the FR version.
   Skipped if page has no `ref` (e.g. 404, feed.xml).
+
+  Iterates site.languages rather than the matched translations directly: a
+  `where: "ref"` lookup returns them in collection order, which differs from one
+  family to the next, so the language order would otherwise be arbitrary on
+  every page. site.languages is the single canonical order (fr, en, de, nl),
+  shared with the translation nav, the card badges and the language switcher.
 {%- endcomment -%}
 {%- if page.ref -%}
   {%- assign translation_pages = site.pages | where: "ref", page.ref -%}
   {%- assign translation_posts = site.posts | where: "ref", page.ref -%}
   {%- assign translations = translation_pages | concat: translation_posts -%}
-  {%- for t in translations -%}
-    {%- if t.lang -%}
-<link rel="alternate" hreflang="{{ t.lang }}" href="{{ t.url | absolute_url }}" />
+  {%- for l in site.languages -%}
+    {%- assign t = translations | where: "lang", l.code | first -%}
+    {%- if t -%}
+<link rel="alternate" hreflang="{{ l.code }}" href="{{ t.url | absolute_url }}" />
     {%- endif -%}
   {%- endfor -%}
-  {%- for t in translations -%}
-    {%- if t.lang == 'fr' -%}
-<link rel="alternate" hreflang="x-default" href="{{ t.url | absolute_url }}" />
+  {%- assign fr_page = translations | where: "lang", "fr" | first -%}
+  {%- if fr_page -%}
+<link rel="alternate" hreflang="x-default" href="{{ fr_page.url | absolute_url }}" />
+  {%- endif -%}
+  {%- comment -%}
+    og:locale:alternate. jekyll-seo-tag never emits this tag, so there is nothing
+    to collide with. og:locale itself comes from page.locale, which
+    _plugins/i18n_metadata.rb sets from site.languages[].locale — same source of
+    truth as the loop below.
+  {%- endcomment -%}
+  {%- for l in site.languages -%}
+    {%- if l.code != page.lang and l.locale -%}
+      {%- assign t = translations | where: "lang", l.code | first -%}
+      {%- if t -%}
+<meta property="og:locale:alternate" content="{{ l.locale }}" />
+      {%- endif -%}
     {%- endif -%}
   {%- endfor -%}
 {%- endif -%}

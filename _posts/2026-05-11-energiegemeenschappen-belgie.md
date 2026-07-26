@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Energiegemeenschappen in België: CER, CEC en CEL uitgelegd"
+title: "Energiegemeenschappen in België: CER, CEC, CEL"
 date: 2026-05-11 10:00:00 +0200
 author: "OptimCE-team"
 excerpt: "Begrijp energiegemeenschappen in België — verschillen tussen hernieuwbare, burger- en lokale energiegemeenschap, energiedelen, betrokken actoren en voordelen."
+description: "CER, CEC en CEL: de verschillen, hoe energiedelen werkt, de rol van de regulator en de netbeheerder, en wat het u concreet oplevert."
 tags: [community, administrative]
 lang: nl
 ref: energy-communities-belgium
@@ -12,6 +13,11 @@ permalink: /nl/nieuws/2026/05/11/energiegemeenschappen-belgie/
 ---
 
 Energiegemeenschappen staan centraal in de Belgische energietransitie. Ze zijn omkaderd door de Europese Unie en uitgewerkt door elk gewest — Wallonië, Brussel, Vlaanderen — en laten burgers, bedrijven en lokale overheden toe om hun eigen energie te produceren, te delen en te verbruiken. Dit artikel overloopt de drie officiële vormen (CER, CEC, CEL), legt uit hoe energiedelen werkt, stelt de belangrijkste actoren voor en vat de financiële en ecologische voordelen samen.
+
+<img src="/assets/images/diagrams/community-types-nl.svg"
+     alt="Vergelijking van de drie statuten van energiegemeenschappen — HEG, BEG en LEG — met hun vereisten inzake nabijheid en omvang."
+     width="800" height="450" loading="lazy" decoding="async"
+     style="width:100%;height:auto">
 
 ## Wat is een energiegemeenschap?
 
@@ -79,7 +85,7 @@ Belangrijk om te begrijpen: energiedelen is **administratief, niet fysiek**. De 
 - **De gewestelijke regulatoren** — [CWaPE](https://www.cwape.be/secteur/communautes-partage-energie) in Wallonië, [BRUGEL](https://environnement.brussels/citoyen/agir-pour-lenvironnement/devenir-eco-responsable/partage-et-communautes-denergie) in Brussel, [Vlaamse Nutsregulator (ex-VREG)](https://www.vlaamsenutsregulator.be) in Vlaanderen — bepalen de regels, houden toezicht op de tarieven en publiceren richtlijnen voor gemeenschappen.
 - **De energieleveranciers** blijven de **resterende energie** factureren, dat wil zeggen het deel van het verbruik dat niet door interne deling werd gedekt.
 - **De leden** zijn zowel prosumenten (bv. uitgerust met zonnepanelen) als zuivere verbruikers, kmo's of lokale overheden.
-- **De community manager** is de entiteit die de gemeenschap dagelijks aanstuurt: nieuwe leden onboarden, verdeelsleutels configureren, rapporteren aan de DNB. Dit is precies de rol die **OptimCE** vereenvoudigt — bekijk de [gebruikersgids](https://guide.optimce.be) en het publieke register van [open deelacties](/nl/nieuws/2026/05/07/release-nieuws/).
+- **De community manager** is de entiteit die de gemeenschap dagelijks aanstuurt: nieuwe leden onboarden, verdeelsleutels configureren, rapporteren aan de DNB. Dit is precies de rol die **OptimCE** vereenvoudigt — bekijk de [gebruikersgids](https://guide.optimce.be) en het publieke register van [open deelacties](https://app.optimce.be).
 
 ## Voordelen — financieel en ecologisch
 
@@ -101,7 +107,7 @@ Particulieren, kmo's en lokale overheden kunnen deelnemen. Deelname is open en v
 
 ### Hoe wordt mijn korting berekend?
 
-De DNB analyseert uw 15-minuten­registraties, past de **verdeelsleutel** toe die binnen de gemeenschap is afgesproken, en geeft uw leverancier door hoeveel gedeelde energie aan u werd toegewezen. Dat deel wordt gefactureerd aan de prijs die binnen de gemeenschap is onderhandeld, doorgaans lager dan het markttarief. Voor het detail van de types sleutels die in elk gewest worden aanvaard, zie onze gids [« Verdeelsleutel in België: Wallonië, Brussel en Vlaanderen vergeleken »](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/).
+De DNB analyseert uw 15-minuten­registraties, past de **verdeelsleutel** toe die binnen de gemeenschap is afgesproken, en geeft uw leverancier door hoeveel gedeelde energie aan u werd toegewezen. Dat deel wordt gefactureerd aan de prijs die binnen de gemeenschap is onderhandeld, doorgaans lager dan het markttarief. Voor het detail van de types sleutels die in elk gewest worden aanvaard, zie onze gids [“Verdeelsleutel in België: de 3 regio's”](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/).
 
 ### Is er een geografische beperking?
 
@@ -127,7 +133,7 @@ Via de **slimme meters** (smart meters) die door de DNB's worden uitgerold en de
 
 **In Wallonië** is het kader stabiel sinds 2022 en is de procedure volledig gedocumenteerd. We schreven een specifieke stap-voor-stap-gids:
 
-> **[Een energiegemeenschap oprichten in Wallonië: stap-voor-stap-gids](/nl/nieuws/2026/05/11/energiegemeenschap-oprichten-wallonie/)**
+> **[Energiegemeenschap oprichten in Wallonië](/nl/nieuws/2026/05/11/energiegemeenschap-oprichten-wallonie/)**
 >
 > Keuze tussen CER en CEC, uitwerken van het project, melding bij de CWaPE, ontvangstbevestiging en opstart van het delen met ORES, RESA of AIEG.
 
@@ -139,7 +145,7 @@ Via de **slimme meters** (smart meters) die door de DNB's worden uitgerold en de
 
 **In Wallonië** zoeken honderden deelacties actief naar nieuwe leden. U hoeft geen eigen gemeenschap op te richten om van het delen te profiteren — een praktische gids leidt u stap voor stap naar de toetreding tot een bestaande deelactie in enkele weken.
 
-> **[Toetreden tot een energiegemeenschap in Wallonië: praktische gids](/nl/nieuws/2026/05/11/energiegemeenschap-aansluiten-wallonie/)**
+> **[Toetreden tot een energiegemeenschap in Wallonië](/nl/nieuws/2026/05/11/energiegemeenschap-aansluiten-wallonie/)**
 >
 > Wie kan toetreden, waar een open deelactie te vinden (OptimCE-register, SPW-facilitator, Énergie commune), stap-voor-stap-procedure en aandachtspunten vóór ondertekening.
 

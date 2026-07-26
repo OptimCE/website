@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "How to join an energy community in Wallonia: a practical guide"
+title: "Join an energy community in Wallonia"
 date: 2026-05-11 16:00:00 +0200
 author: "OptimCE Team"
 excerpt: "How to join an energy community in Wallonia: eligibility, where to find an open sharing operation (OptimCE registry, SPW facilitator, Énergie commune), steps to enrol and points to check before you sign."
+description: "Eligibility conditions, where to find an open sharing operation, the enrolment steps and what to check before you sign."
 tags: [community, administrative, guide]
 lang: en
 ref: join-energy-community-wallonia
@@ -13,7 +14,7 @@ permalink: /en/news/2026/05/11/join-energy-community-wallonia/
 
 In Wallonia, energy communities are no longer a fringe experiment: hundreds of sharing operations are live or in the notification pipeline. The legal framework is stable, the distribution system operators (ORES, RESA, AIEG) are tooled up, and most meters are already smart. One very concrete obstacle remains for most citizens, SMEs and local authorities: **how to find a community willing to take new members**, and **what to check before signing**.
 
-This guide is for that audience. Not for project leaders who want to create a community — for that, see our [step-by-step creation guide](/en/news/2026/05/11/create-energy-community-wallonia/) — nor for those still discovering the concept — start with [«Energy communities in Belgium: CER, CEC and CEL explained»](/en/news/2026/05/11/energy-communities-belgium/). It is for anyone who wants to **join an existing operation** and wants to know exactly how to go about it.
+This guide is for that audience. Not for project leaders who want to create a community — for that, see our [step-by-step creation guide](/en/news/2026/05/11/create-energy-community-wallonia/) — nor for those still discovering the concept — start with [“Energy communities in Belgium: CER, CEC, CEL”](/en/news/2026/05/11/energy-communities-belgium/). It is for anyone who wants to **join an existing operation** and wants to know exactly how to go about it.
 
 By the end of this article, you will know **who can enrol**, **where to look for an open operation**, **what steps to expect** between first contact and the first shared kilowatt-hour, and **what to verify** in the agreement before committing your signature.
 
@@ -40,7 +41,7 @@ The Walloon framework, set by the decree of 5 May 2022 and clarified by the [CWa
 | Individual tenant | Yes | Same; inform landlord if multi-year commitment |
 | Self-employed / SME | Yes | Energy must not be the main activity |
 | Large enterprise | Generally no | Reserved for SMEs, individuals and local authorities |
-| Municipality, school, inter-municipal entity | Yes | No «energy not main activity» constraint |
+| Municipality, school, inter-municipal entity | Yes | No “energy not main activity” constraint |
 | Local non-profit (non-authority) | Yes | Treated as a consumer |
 | Energy-sector actor | Generally no | Main-activity incompatibility |
 
@@ -54,14 +55,14 @@ SMEs and self-employed can join a CER or a CEC, **provided energy is not their m
 
 ### Local authorities and institutions
 
-Municipalities, inter-municipal entities, communal schools and public welfare offices can all participate, and enjoy a specific regime — the «energy not main activity» condition **does not apply to them**. For the official context and the role of the Walloon facilitator, see the [SPW Énergie](https://energie.wallonie.be) reference page on energy communities and energy sharing.
+Municipalities, inter-municipal entities, communal schools and public welfare offices can all participate, and enjoy a specific regime — the “energy not main activity” condition **does not apply to them**. For the official context and the role of the Walloon facilitator, see the [SPW Énergie](https://energie.wallonie.be) reference page on energy communities and energy sharing.
 
 ### Technical conditions
 
 Three technical conditions must be met at your delivery point before you can enrol:
 
 - **Smart meter**: mandatory. If you don't have one yet, your DSO (ORES, RESA or AIEG) installs it **free of charge**, typically within 60 days. See the [AIEG energy-sharing guide](https://www.aieg.be/le-partage-denergie) for the operator-side technical details.
-- **Identifiable EAN**: your delivery-point number, 18 digits starting with `541449...`. It appears on every electricity bill, in the «technical data» or «delivery point» section.
+- **Identifiable EAN**: your delivery-point number, 18 digits starting with `541449...`. It appears on every electricity bill, in the “technical data” or “delivery point” section.
 - **Geographic scope**: required for a **CER** (you must be within the proximity perimeter defined with the producers), not required for a **CEC**. For the CER vs CEC refresher, see the [comparison table in our parent article](/en/news/2026/05/11/energy-communities-belgium/).
 
 ## Where to find an energy community in Wallonia?
@@ -79,7 +80,7 @@ This is the trickiest question in Wallonia today. Several channels coexist, from
 
 ### The OptimCE public registry
 
-OptimCE offers a **[public registry of sharing operations](/en/news/2026/05/07/release-news/)** built into the application. Each community manager can choose to publish their operation; anyone can then browse the list, filter by municipality, identify those **open to new members**, and contact the manager directly.
+OptimCE offers a **[public registry of sharing operations](https://app.optimce.be)** built into the application. Each community manager can choose to publish their operation; anyone can then browse the list, filter by municipality, identify those **open to new members**, and contact the manager directly.
 
 It is currently the **only interregional registry freely browsable without prior contact**: other channels require either reaching out to a facilitator first or already knowing of a local project. It's also the fastest channel for an initial overview.
 
@@ -121,7 +122,7 @@ The community manager verifies a few elements:
 - Your delivery point lies within the community's **perimeter** (essential for a CER; not applicable for a CEC).
 - Your **meter** is smart. If not, the DSO schedules a free replacement.
 
-To find your EAN, look at the «delivery point» or «technical data» section of your bill — 18 digits starting with `541449`. You can also retrieve it from your DSO's online portal.
+To find your EAN, look at the “delivery point” or “technical data” section of your bill — 18 digits starting with `541449`. You can also retrieve it from your DSO's online portal.
 
 ### Step 3 — Read and sign the sharing agreement
 
@@ -159,7 +160,7 @@ The implications differ. **CER**: renewable sources only, geographic proximity r
 
 ### Allocation key — static or dynamic?
 
-A **static** key gives each member a fixed percentage of the sharing (simple, predictable). A **dynamic** key allocates pro rata to real-time consumption at 15-minute granularity (fairer, but variable month to month). Ask **how the key is revised**: annually, at each general assembly, whenever a new member joins? For the detail of the three standard keys validated by CWaPE and the comparison with Brussels and Flanders, see our guide [“Allocation key in Belgium: Wallonia, Brussels and Flanders compared”](/en/news/2026/05/19/allocation-key-belgium/).
+A **static** key gives each member a fixed percentage of the sharing (simple, predictable). A **dynamic** key allocates pro rata to real-time consumption at 15-minute granularity (fairer, but variable month to month). Ask **how the key is revised**: annually, at each general assembly, whenever a new member joins? For the detail of the three standard keys validated by CWaPE and the comparison with Brussels and Flanders, see our guide [“Allocation key in Belgium: the 3 regions”](/en/news/2026/05/19/allocation-key-belgium/).
 
 ### Internal price — how is it set?
 
@@ -175,7 +176,7 @@ What is the **notice period** to leave? Often 1 to 3 months. How long to **recov
 
 ### Governance and transparency
 
-Walloon cooperatives generally run on **«one member, one vote»**, regardless of the number of shares held. Check the **frequency of general assemblies**, access to annual accounts and the way sharing results are communicated (quarterly statement, online dashboard, etc.).
+Walloon cooperatives generally run on **“one member, one vote”**, regardless of the number of shares held. Check the **frequency of general assemblies**, access to annual accounts and the way sharing results are communicated (quarterly statement, online dashboard, etc.).
 
 ### Smart meter and data privacy
 
@@ -227,17 +228,17 @@ No. Energy sharing is a **right recognised by the Walloon decree**. Your supplie
 
 Three channels to take action:
 
-- Browse OptimCE's [public registry of sharing operations](/en/news/2026/05/07/release-news/) to spot operations open near you.
+- Browse OptimCE's [public registry of sharing operations](https://app.optimce.be) to spot operations open near you.
 - Contact the **Energy Community facilitator** at [SPW Énergie](https://energie.wallonie.be) for personal guidance.
 - Fill in the **matchmaking form** at [Énergie commune](https://energiecommune.be) if your orientation is more cooperative and citizen-led.
 
 ## Would you rather create than join?
 
-> **[How to create an energy community in Wallonia: a step-by-step guide](/en/news/2026/05/11/create-energy-community-wallonia/)**
+> **[Create an energy community in Wallonia](/en/news/2026/05/11/create-energy-community-wallonia/)**
 >
 > Choosing between CER and CEC, framing the project, notifying the CWaPE, receiving the acknowledgement and launching the sharing with ORES, RESA or AIEG.
 
-For the broader context — what an energy community is and the European foundations — see the article [«Energy communities in Belgium: CER, CEC and CEL explained»](/en/news/2026/05/11/energy-communities-belgium/).
+For the broader context — what an energy community is and the European foundations — see the article [“Energy communities in Belgium: CER, CEC, CEL”](/en/news/2026/05/11/energy-communities-belgium/).
 
 ## Sources
 

@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Abrechnung in der Energiegemeinschaft: OptimCE erstellt Ihre Rechnungen"
+title: "Abrechnung in der Energiegemeinschaft"
 date: 2026-07-16 10:00:00 +0200
 author: "OptimCE-Team"
 excerpt: "Neue OptimCE-Funktion: Erstellen Sie die Rechnungen Ihrer Energiegemeinschaft automatisch — vom Preis pro kWh bis zum PDF und zur Zahlungsverfolgung."
+description: "Erstellen Sie die Rechnungen Ihrer Energiegemeinschaft — vom Preis pro kWh bis zum PDF und zur Zahlungsverfolgung, ohne Tabellenkalkulation."
 tags: [administrative, app, news]
 lang: de
 ref: optimce-billing
@@ -28,11 +29,11 @@ Eine funktionierende Energiegemeinschaft produziert zwei Dinge: geteilte kWh …
 
 Das Prinzip ist einfach: Sie legen Ihre Preise fest, Sie wählen eine Periode, und OptimCE **erstellt die Rechnungen aller Mitglieder** aus den Verteilungsdaten, die bereits in der Plattform vorliegen — mit PDF, gesetzlicher Nummerierung, strukturierter Mitteilung und Zahlungsverfolgung.
 
-Wenn Ihnen die Mechanik der Verteilung noch unklar ist, beginnen Sie mit unserem Referenzartikel [„Verteilungsschlüssel in Belgien: Wallonie, Brüssel, Flandern"](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/) — die Abrechnung ist ihre direkte Fortsetzung.
+Wenn Ihnen die Mechanik der Verteilung noch unklar ist, beginnen Sie mit unserem Referenzartikel [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/) — die Abrechnung ist ihre direkte Fortsetzung.
 
 ## Warum die interne Abrechnung das kritische Glied ist
 
-Beim Energieteilen berechnet und übermittelt der Netzbetreiber, aber **er fakturiert nicht**: Er wendet den Verteilungsschlüssel Viertelstunde für Viertelstunde an und teilt die Volumina mit. Die Bewertung dieser Volumina — zu welchem Preis der Verbraucher die geteilte Energie bezahlt, zu welchem Preis der Erzeuger für seine Einspeisung vergütet wird — ist Sache der Gemeinschaft selbst.
+Beim Energieteilen berechnet und übermittelt der Netzbetreiber, aber **er fakturiert nicht**: Er wendet den Aufteilungsschlüssel Viertelstunde für Viertelstunde an und teilt die Volumina mit. Die Bewertung dieser Volumina — zu welchem Preis der Verbraucher die geteilte Energie bezahlt, zu welchem Preis der Erzeuger für seine Einspeisung vergütet wird — ist Sache der Gemeinschaft selbst.
 
 Konkret lastet diese Aufgabe auf der Verwaltung der Gemeinschaft. Für jede Periode gilt es:
 
@@ -49,9 +50,9 @@ Bei zehn Mitgliedern ist das mühsam, bei fünfzig unhaltbar. Und es geht um meh
 Das Modul ist in den Rest der Plattform integriert und folgt einem Ablauf in vier Schritten.
 
 1. **Die Daten sind schon da.** Die Abrechnung stützt sich auf die offiziellen Verteilungsdaten, die bereits in OptimCE importiert sind: verbrauchte geteilte Energie und geteilte Einspeisung, pro EAN und pro Periode. Nichts neu eingeben, nichts exportieren — die Abrechnung liest dieselben Volumina wie Ihre Dashboards.
-2. **Sie definieren Ihre Preise.** Zwei Preise, in €/kWh, frei von der Gemeinschaft festgelegt: der **Verkaufspreis** der geteilten Energie an die Verbraucher und der **Rückkaufpreis**, der den Erzeugern für ihre Einspeisung gezahlt wird. Jeder Preis kann global, pro Kundensegment (Haushalte, Gewerbe, Industrie) oder für eine einzelne EAN gelten — die spezifischste Regel gewinnt — und trägt einen Gültigkeitszeitraum. Welche Beträge Sie eintragen, ist eine andere Frage: Unser Leitfaden [„Strompreis in der Energiegemeinschaft: So legen Sie den internen Verrechnungspreis fest"](/de/aktuelles/2026/07/20/strompreis-energiegemeinschaft/) erläutert die vertretbare Bandbreite und fünf Berechnungsmethoden.
+2. **Sie definieren Ihre Preise.** Zwei Preise, in €/kWh, frei von der Gemeinschaft festgelegt: der **Verkaufspreis** der geteilten Energie an die Verbraucher und der **Rückkaufpreis**, der den Erzeugern für ihre Einspeisung gezahlt wird. Jeder Preis kann global, pro Kundensegment (Haushalte, Gewerbe, Industrie) oder für eine einzelne EAN gelten — die spezifischste Regel gewinnt — und trägt einen Gültigkeitszeitraum. Welche Beträge Sie eintragen, ist eine andere Frage: Unser Leitfaden [„Interner Verrechnungspreis für geteilten Strom“](/de/aktuelles/2026/07/20/strompreis-energiegemeinschaft/) erläutert die vertretbare Bandbreite und fünf Berechnungsmethoden.
 3. **Sie starten einen Abrechnungslauf.** Sie wählen die Periode — monatlich, vierteljährlich, ganz nach Bedarf — und OptimCE prüft vor der Berechnung, dass alles in Ordnung ist: Verbrauchsdaten vorhanden, Bankverbindung und rechtlicher Name der Gemeinschaft, anwendbarer Tarif, keine Duplikate in den Daten. Dann **friert es einen Schnappschuss** der Verteilung ein: Die Beträge werden auf eingefrorenen, nachvollziehbaren Volumina berechnet.
-4. **Sie prüfen, dann stellen Sie aus.** Der Lauf erzeugt einen **Entwurf pro Mitglied**, als PDF mit „Proforma"-Wasserzeichen herunterladbar. Sie kontrollieren, dann stellen Sie aus: Die Rechnung erhält ihre gesetzliche Nummer, ihre strukturierte Mitteilung und ihr Fälligkeitsdatum.
+4. **Sie prüfen, dann stellen Sie aus.** Der Lauf erzeugt einen **Entwurf pro Mitglied**, als PDF mit „Proforma“-Wasserzeichen herunterladbar. Sie kontrollieren, dann stellen Sie aus: Die Rechnung erhält ihre gesetzliche Nummer, ihre strukturierte Mitteilung und ihr Fälligkeitsdatum.
 
 Kurz gefasst — das geben Sie vor, das erhalten Sie:
 
@@ -90,7 +91,7 @@ Jede Rechnung folgt einem expliziten Lebenszyklus, auf einen Blick sichtbar:
 | **Bezahlt** | Zahlungen in voller Höhe erfasst |
 | **Überfällig** | Fälligkeit ohne vollständige Zahlung überschritten |
 
-Die Zahlungsverfolgung ist integriert: Sie erfassen jede Überweisung — auch **Teilzahlungen** — und die Rechnung wechselt automatisch auf „bezahlt", sobald der Gesamtbetrag erreicht ist. Rechnungen mit überschrittener Fälligkeit werden als **überfällig** markiert, sodass Sie Erinnerungen gezielt versenden können, ohne Kontoauszüge zu durchforsten.
+Die Zahlungsverfolgung ist integriert: Sie erfassen jede Überweisung — auch **Teilzahlungen** — und die Rechnung wechselt automatisch auf „bezahlt“, sobald der Gesamtbetrag erreicht ist. Rechnungen mit überschrittener Fälligkeit werden als **überfällig** markiert, sodass Sie Erinnerungen gezielt versenden können, ohne Kontoauszüge zu durchforsten.
 
 ## Für die Mitglieder: Transparenz durch das Dokument
 
@@ -108,7 +109,7 @@ Das Modul ist ab sofort auf [app.optimce.be](https://app.optimce.be) verfügbar 
 
 ## Fazit
 
-Mit der Abrechnung schließt OptimCE den Kreis: Datenimport, [Auswahl und Simulation des Verteilungsschlüssels](/de/aktuelles/2026/06/09/verteilungsschluessel-simulieren-optimce/), Teilungsoperationen und jetzt die Rechnungen — der letzte Schritt, der bisher jedes Quartal in eine Tabellenkalkulations-Plackerei verwandelte. Volumina werden zu konformen Dokumenten, Zahlungen sind auf einen Blick nachverfolgbar, und jedes Mitglied sieht klar, was ihm das Teilen bringt.
+Mit der Abrechnung schließt OptimCE den Kreis: Datenimport, [Auswahl und Simulation des Aufteilungsschlüssels](/de/aktuelles/2026/06/09/verteilungsschluessel-simulieren-optimce/), Teilungsoperationen und jetzt die Rechnungen — der letzte Schritt, der bisher jedes Quartal in eine Tabellenkalkulations-Plackerei verwandelte. Volumina werden zu konformen Dokumenten, Zahlungen sind auf einen Blick nachverfolgbar, und jedes Mitglied sieht klar, was ihm das Teilen bringt.
 
 > ### Rechnen Sie Ihre Energiegemeinschaft mit OptimCE ab
 >
@@ -128,7 +129,7 @@ Aus den offiziellen Verteilungsdaten, die der Netzbetreiber übermittelt und die
 
 ### Welche Dokumente erstellt OptimCE?
 
-Drei Dokumente, jedes mit eigener Nummernserie: die **Rechnung** (F-…) für die von einem Mitglied verbrauchte geteilte Energie, die **Gutschrift** (NC-…) zur Korrektur einer ausgestellten Rechnung und die **Vergütungsabrechnung** (DP-…) für die geteilte Einspeisung eines Erzeugers. Alle werden als PDF erzeugt; Entwürfe tragen ein „Proforma"-Wasserzeichen.
+Drei Dokumente, jedes mit eigener Nummernserie: die **Rechnung** (F-…) für die von einem Mitglied verbrauchte geteilte Energie, die **Gutschrift** (NC-…) zur Korrektur einer ausgestellten Rechnung und die **Vergütungsabrechnung** (DP-…) für die geteilte Einspeisung eines Erzeugers. Alle werden als PDF erzeugt; Entwürfe tragen ein „Proforma“-Wasserzeichen.
 
 ### Was deckt die Rechnung einer Energiegemeinschaft ab?
 
@@ -140,7 +141,7 @@ Nicht direkt: Einmal ausgestellt, erhält eine Rechnung eine gesetzliche Nummer 
 
 ### Wie greifen die Mitglieder auf ihre Rechnungen zu?
 
-Jedes Mitglied findet **seine eigenen Rechnungen** in der Anwendung und lädt das PDF herunter, wann es möchte. Auf Verwaltungsseite ist die Zahlungsverfolgung integriert: Sie erfassen Zahlungen — auch Teilzahlungen —, die Rechnung wechselt automatisch auf „bezahlt", und überfällige Rechnungen werden nach dem Fälligkeitsdatum markiert.
+Jedes Mitglied findet **seine eigenen Rechnungen** in der Anwendung und lädt das PDF herunter, wann es möchte. Auf Verwaltungsseite ist die Zahlungsverfolgung integriert: Sie erfassen Zahlungen — auch Teilzahlungen —, die Rechnung wechselt automatisch auf „bezahlt“, und überfällige Rechnungen werden nach dem Fälligkeitsdatum markiert.
 
 ## Quellen
 

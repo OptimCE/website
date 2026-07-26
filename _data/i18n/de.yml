@@ -40,9 +40,9 @@ features:
         Verfolgen Sie die Energiezähler jedes Mitglieds
         und zentralisieren Sie Verbrauchs- und Produktionsdaten.
     - icon: "key"
-      title: "Verteilungsschlüssel"
+      title: "Aufteilungsschlüssel"
       description: >-
-        Konfigurieren Sie Verteilungsschlüssel und Sharing-Operationen,
+        Konfigurieren Sie Aufteilungsschlüssel und Sharing-Operationen,
         um Energie unter den Mitgliedern zu verteilen.
     - icon: "building"
       title: "Multi-Gemeinschaft"
@@ -156,7 +156,7 @@ blog:
   tags:
     app: "OptimCE-App"
     administrative: "Verwaltung"
-    allocation-key: "Verteilungsschlüssel"
+    allocation-key: "Aufteilungsschlüssel"
     community: "Energiegemeinschaft"
     announcement: "Ankündigung"
     news: "Neuigkeiten"
@@ -295,6 +295,24 @@ a11y:
   menu_open: "Menü öffnen"
   menu_close: "Menü schließen"
   language_select: "Sprache wählen"
+  nav_main: "Hauptnavigation"
+  nav_mobile: "Mobiles Menü"
+  translations: "Übersetzungen dieses Artikels"
+  breadcrumb: "Brotkrümelnavigation"
+  available_languages: "Verfügbare Sprachen"
+
+# Open Graph / social sharing
+og:
+  image_alt: "OptimCE — Open-Source-Plattform für Energiegemeinschaften"
+
+# Organization description used in the JSON-LD entity graph
+org:
+  description: >-
+    OptimCE ist eine Open-Source-Verwaltungsplattform für Energiegemeinschaften.
+    Das Projekt entstand aus LOCOMOTRICE, einer wallonischen
+    Forschungsinitiative (2023-2026) unter gemeinsamer Leitung der Universität
+    Lüttich (BEMS-Labor) und des CECOTEPE, in Partnerschaft mit
+    Bürgerenergiegenossenschaften.
 
 # Month names (for localized dates, January → December)
 months:

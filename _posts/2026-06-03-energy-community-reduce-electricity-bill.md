@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "How an energy community reduces your electricity bill"
+title: "Reduce your electricity bill: energy communities"
 date: 2026-06-03 10:00:00 +0200
 author: "OptimCE Team"
 excerpt: "Joining an energy community lets you pay less for electricity at a more stable price. We explain the savings levers, a worked example, the differences between Wallonia, Brussels and Flanders, and who benefits most."
+description: "The real savings levers, a worked example, what differs between Wallonia, Brussels and Flanders, and who benefits the most."
 tags: [community]
 lang: en
 ref: reduce-electricity-bill
@@ -11,19 +12,24 @@ last_modified_at: 2026-07-25 10:00:00 +0200
 permalink: /en/news/2026/06/03/energy-community-reduce-electricity-bill/
 ---
 
-Since 2022, Belgian electricity bills have seen sharp, unpredictable increases. Against that volatility, energy communities offer a concrete, lasting lever: paying **less** for your electricity at a **more stable price**, without changing supplier or installing a single solar panel. This article explains exactly how those savings build up, how far they can go, what differs from region to region, and who benefits most. And if your first question is *why* your bill stays high even though energy prices have fallen, start with our breakdown ["Electricity bills in Belgium: why yours stays high despite falling prices"](/en/news/2026/07/25/why-electricity-bill-still-high-belgium/): it quantifies, block by block, what sharing acts on — and what it does not.
+Since 2022, Belgian electricity bills have seen sharp, unpredictable increases. Against that volatility, energy communities offer a concrete, lasting lever: paying **less** for your electricity at a **more stable price**, without changing supplier or installing a single solar panel. This article explains exactly how those savings build up, how far they can go, what differs from region to region, and who benefits most. And if your first question is *why* your bill stays high even though energy prices have fallen, start with our breakdown [“Why your electricity bill stays high in Belgium”](/en/news/2026/07/25/why-electricity-bill-still-high-belgium/): it quantifies, block by block, what sharing acts on — and what it does not.
+
+<img src="/assets/images/diagrams/bill-breakdown-en.svg"
+     alt="Stacked bar chart: energy is 38.5% of the bill, network costs 29.7%, taxes 26.1% and VAT 5.7%."
+     width="800" height="450" loading="lazy" decoding="async"
+     style="width:100%;height:auto">
 
 ## What is an energy community? (in brief)
 
 An energy community is a structure that lets individuals, SMEs and local authorities **produce, share and consume their own electricity** locally. Sharing is administrative, not physical: electrons still flow over the public grid, but the distribution system operator reallocates a share of local production to each member every 15 minutes.
 
-We don't cover the types (CER, CEC, CEL) or the legal framework here — that's all explained in our reference guide [“Energy communities in Belgium: CER, CEC and CEL explained”](/en/news/2026/05/11/energy-communities-belgium/). This article focuses on the **financial side**.
+We don't cover the types (CER, CEC, CEL) or the legal framework here — that's all explained in our reference guide [“Energy communities in Belgium: CER, CEC, CEL”](/en/news/2026/05/11/energy-communities-belgium/). This article focuses on the **financial side**.
 
 ## How an energy community reduces your bill
 
 The reduction doesn't come from a single magic discount, but from several levers that stack up.
 
-**1. A negotiated local price, below market.** Energy shared within the community is billed at a rate agreed among members, generally lower than the standard supply tariff. Documented Belgian cases put this internal price between **6 and 14 c€/kWh** — 6 c€/kWh in the Walloon simulations by [Renouvelle](https://www.renouvelle.be/fr/exemples-calculs-de-rentabilite-economique-dun-partage-delectricite-en-wallonie/), 14 c€/kWh for the Brussels community Énergie Solidaire du Balai ([Guide Bâtiment Durable](https://guidebatimentdurable.brussels/partage-delectricite-sein-dune-communaute-denergie-energie-solidaire-balai/partage-delectricite)) — against an energy component of around 14 c€/kWh from a supplier. The gap depends entirely on the rules the community sets itself: we detail how it is built in [“Electricity price in an energy community: how to set the internal transfer price”](/en/news/2026/07/20/energy-community-electricity-price/).
+**1. A negotiated local price, below market.** Energy shared within the community is billed at a rate agreed among members, generally lower than the standard supply tariff. Documented Belgian cases put this internal price between **6 and 14 c€/kWh** — 6 c€/kWh in the Walloon simulations by [Renouvelle](https://www.renouvelle.be/fr/exemples-calculs-de-rentabilite-economique-dun-partage-delectricite-en-wallonie/), 14 c€/kWh for the Brussels community Énergie Solidaire du Balai ([Guide Bâtiment Durable](https://guidebatimentdurable.brussels/partage-delectricite-sein-dune-communaute-denergie-energie-solidaire-balai/partage-delectricite)) — against an energy component of around 14 c€/kWh from a supplier. The gap depends entirely on the rules the community sets itself: we detail how it is built in [“Internal transfer price in an energy community”](/en/news/2026/07/20/energy-community-electricity-price/).
 
 **2. A more stable, predictable price.** This is often the most underrated benefit. As [Énergie Commune](https://www.energiecommune.be) points out, the driver of sharing is "first of all the economic interest of the consumer": part of their consumption becomes cheaper, but above all **prices stabilise**, shielding the household from market shocks — including low-income households.
 
@@ -31,7 +37,7 @@ The reduction doesn't come from a single magic discount, but from several levers
 
 **4. You keep your supplier.** No contract change is needed: your supplier keeps billing only the **residual energy** — the portion not covered by sharing. This point is detailed in the [FAQ of our reference guide](/en/news/2026/05/11/energy-communities-belgium/).
 
-**5. A reduction computed via an allocation key.** The exact amount you receive depends on the **allocation key** chosen by the community, which determines what share of local production is assigned to you at each 15-minute interval. We detail the keys accepted in each region in [“Allocation key in Belgium: Wallonia, Brussels and Flanders compared”](/en/news/2026/05/19/allocation-key-belgium/).
+**5. A reduction computed via an allocation key.** The exact amount you receive depends on the **allocation key** chosen by the community, which determines what share of local production is assigned to you at each 15-minute interval. We detail the keys accepted in each region in [“Allocation key in Belgium: the 3 regions”](/en/news/2026/05/19/allocation-key-belgium/).
 
 ### A worked example
 
@@ -67,7 +73,7 @@ The savings mechanisms exist in all three regions, but the actors and some terms
 | Smart meter required | Yes | Yes | Yes |
 | Allocation key | CWaPE standard families | Fixed / pro rata / hybrid (BRUGEL) | Vaste / relatieve / optimale (VREG) |
 
-For the detail of allocation keys and their impact on the shared amount, see our dedicated article: [“Allocation key in Belgium”](/en/news/2026/05/19/allocation-key-belgium/). In Brussels, producers can also earn **extra income from reselling green certificates** during the first years of their installation ([Sibelga](https://www.sibelga.be/en/connections-meters/renewable-energy/solar-panels/green-certificates)).
+For the detail of allocation keys and their impact on the shared amount, see our dedicated article: [“Allocation key in Belgium: the 3 regions”](/en/news/2026/05/19/allocation-key-belgium/). In Brussels, producers can also earn **extra income from reselling green certificates** during the first years of their installation ([Sibelga](https://www.sibelga.be/en/connections-meters/renewable-energy/solar-panels/green-certificates)).
 
 ## Who benefits most?
 
@@ -109,11 +115,11 @@ On top of cutting your bill, you monetise your surplus to other members. In Brus
 
 The simplest way to cut your bill is to **join an existing sharing operation** — or create one.
 
-> **[How to join an energy community in Wallonia: a practical guide](/en/news/2026/05/11/join-energy-community-wallonia/)**
+> **[Join an energy community in Wallonia](/en/news/2026/05/11/join-energy-community-wallonia/)**
 >
 > Who can join, where to find an open operation, and the step-by-step process.
 
-> **[How to create an energy community in Wallonia: a step-by-step guide](/en/news/2026/05/11/create-energy-community-wallonia/)**
+> **[Create an energy community in Wallonia](/en/news/2026/05/11/create-energy-community-wallonia/)**
 >
 > From choosing the community type to launching sharing with your DSO.
 

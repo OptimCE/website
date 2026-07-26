@@ -37,11 +37,19 @@ layout: default
       {% if page.ref %}
         {% assign translations = site.posts | where: "ref", page.ref %}
         {% if translations.size > 1 %}
-        <nav class="post__translations" aria-label="Translations">
-          {% for translation in translations %}
-            {% if translation.lang != lang %}
-              <a href="{{ translation.url | relative_url }}" class="post__translation-link">
-                {{ t.languages[translation.lang] }}
+        {%- comment -%}
+          Looping site.languages, not `translations`: the latter comes back in
+          collection order, which differs per family and made the language order
+          jump around from one article to the next.
+        {%- endcomment -%}
+        <nav class="post__translations" aria-label="{{ t.a11y.translations }}">
+          {% for l in site.languages %}
+            {% assign translation = translations | where: "lang", l.code | first %}
+            {% if translation and l.code != lang %}
+              <a href="{{ translation.url | relative_url }}"
+                 lang="{{ l.code }}" hreflang="{{ l.code }}"
+                 class="post__translation-link">
+                {{ t.languages[l.code] }}
               </a>
             {% endif %}
           {% endfor %}

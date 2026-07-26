@@ -1,16 +1,18 @@
 ---
 layout: post
-title: "New OptimCE release: stability, user guide and public sharing operations"
+title: "May 2026 release: public registry and guide"
 date: 2026-05-07 10:00:00 +0200
+last_modified_at: 2026-07-26 10:00:00 +0200
 author: "OptimCE Team"
 excerpt: "A new OptimCE release is out, with bug fixes, a brand-new user guide and a public registry to discover open energy-sharing operations."
+description: "Bug fixes, a new user guide and a public registry of open sharing operations, now available inside the application."
 tags: [app, announcement, news]
 lang: en
 ref: release-may-2026
 permalink: /en/news/2026/05/07/release-news/
 ---
 
-A new OptimCE release is now available. It focuses on three things: making the platform more reliable, helping new users get up to speed faster, and opening the door to more collaboration between energy communities.
+The **May 2026** release of OptimCE is now available. It focuses on three things: making the platform more reliable, helping new users get up to speed faster, and opening the door to more collaboration between energy communities.
 
 ## Stability and bug fixes
 
@@ -24,4 +26,8 @@ OptimCE now ships with a complete **user guide** at [guide.optimce.be](https://g
 
 The app now includes a **public registry of sharing operations**. Any community manager can choose to publish their operation, and anyone — citizens, businesses, prospective members — can browse the list to find an operation open to new members near them. We hope it will help more people join an energy community and give existing communities better visibility.
 
-As always, feedback and contributions are very welcome on our GitHub repository.
+The registry lives inside the application: **[browse the open sharing operations](https://app.optimce.be)**.
+
+If you are looking to join an existing community, our guide [“Join an energy community in Wallonia”](/en/news/2026/05/11/join-energy-community-wallonia/) sets out the eligibility conditions and what to check before you sign.
+
+As always, feedback and contributions are very welcome on [our GitHub repository](https://github.com/optimce).

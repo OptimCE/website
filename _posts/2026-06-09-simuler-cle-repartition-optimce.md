@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Simuler une clé de répartition : tester vos scénarios"
+title: "Simuler une clé de répartition : scénarios"
 date: 2026-06-09 10:00:00 +0200
 author: "Équipe OptimCE"
 excerpt: "Nouvelle fonctionnalité OptimCE : simulez une clé de répartition sur vos données et mesurez autoconsommation, surplus, autosuffisance et taux de partage."
+description: "Simulez une clé sur vos propres données et mesurez autoconsommation, surplus, autosuffisance et taux de partage avant de la valider."
 tags: [allocation-key, app, news]
 lang: fr
 ref: optimce-allocation-key-simulation
@@ -26,7 +27,7 @@ Choisir une **clé de répartition**, c'est décider quart d'heure par quart d'h
 
 L'idée est simple : vous importez un jeu de données, vous choisissez une clé, et la simulation rejoue chaque pas de temps à travers cette clé pour vous restituer l'**autoconsommation**, le **surplus**, le **taux d'autosuffisance** et le **taux de partage** — en résultats globaux, par pas de temps et par itération. Vous testez un scénario sans l'appliquer, sans risque, et vous décidez sur des chiffres plutôt que sur une intuition.
 
-Si la notion même de clé de répartition est nouvelle pour vous, commencez par notre article de référence [« Clé de répartition en Belgique : Wallonie, Bruxelles, Flandre »](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/) — il pose le vocabulaire repris ici.
+Si la notion même de clé de répartition est nouvelle pour vous, commencez par notre article de référence [« Clé de répartition en Belgique : les 3 régions »](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/) — il pose le vocabulaire repris ici.
 
 ## Pourquoi simuler une clé de répartition ?
 
@@ -34,7 +35,7 @@ Une clé de répartition n'est pas neutre : selon les profils de consommation et
 
 Le problème, c'est qu'**arbitrer à l'intuition est risqué**. Les courbes de production solaire et les profils de consommation se croisent de façon non triviale au pas de 15 minutes ; à l'œil nu, impossible de prédire si la clé A battra la clé B sur une année entière. Et l'enjeu est concret : chaque point d'autoconsommation gagné, c'est du surplus en moins réinjecté à bas prix, donc plus de valeur conservée dans la communauté.
 
-Simuler, c'est précisément **sortir cet arbitrage du domaine de l'intuition**. Vous mesurez l'effet réel d'une clé sur les indicateurs qui comptent — autoconsommation, surplus, autosuffisance, taux de partage — avant d'engager quoi que ce soit. Pour comprendre pourquoi ces indicateurs sont au cœur de la valeur d'une communauté, voyez notre article [« Autoconsommation d'énergie en Belgique »](/actualites/2026/06/05/autoconsommation-energie-belgique/).
+Simuler, c'est précisément **sortir cet arbitrage du domaine de l'intuition**. Vous mesurez l'effet réel d'une clé sur les indicateurs qui comptent — autoconsommation, surplus, autosuffisance, taux de partage — avant d'engager quoi que ce soit. Pour comprendre pourquoi ces indicateurs sont au cœur de la valeur d'une communauté, voyez notre article [« Autoconsommation collective en Belgique »](/actualites/2026/06/05/autoconsommation-energie-belgique/).
 
 ## Ce que permet la simulation
 
@@ -117,13 +118,13 @@ Ce sont deux usages complémentaires, pas concurrents :
 | Sortie | Les KPI de la clé testée | Une (des) clé(s) candidate(s) optimisée(s) |
 | Usage type | Comparer des scénarios, comprendre, justifier | Trouver un bon point de départ |
 
-En pratique, on génère pour trouver un candidat solide, puis on simule pour comprendre son comportement, comparer des variantes et le défendre. Pour le détail des algorithmes, voyez [« Générer automatiquement une clé de répartition optimale avec OptimCE »](/actualites/2026/05/26/generer-cle-repartition-optimale-optimce/).
+En pratique, on génère pour trouver un candidat solide, puis on simule pour comprendre son comportement, comparer des variantes et le défendre. Pour le détail des algorithmes, voyez [« Générer une clé de répartition optimale »](/actualites/2026/05/26/generer-cle-repartition-optimale-optimce/).
 
 ## Les communautés d'énergie en Belgique, en bref
 
 Une **communauté d'énergie** regroupe producteurs et consommateurs qui partagent localement une production renouvelable. Le partage est administratif : les compteurs communicants sont relevés au pas de **15 minutes**, et le **gestionnaire de réseau de distribution (GRD)** applique la clé de répartition choisie pour attribuer à chaque membre une part de l'énergie injectée. La Belgique reconnaît plusieurs formes — CER, CEC et, à Bruxelles, CEL — encadrées par les régulateurs régionaux ([Brugel](https://energysharing.brugel.brussels) à Bruxelles, avec [Sibelga](https://www.sibelga.be/fr/raccordements-compteurs/energie-renouvelable/partage-energie) comme gestionnaire de réseau).
 
-Dans ce paysage, la clé de répartition est le paramètre central de la performance d'une communauté — et la simulation répond à un besoin réel : **structurer et comprendre le partage d'énergie** avant de l'engager. Pour le panorama complet des formes juridiques, voyez [« Communautés d'énergie en Belgique : CER, CEC, CEL expliqués »](/actualites/2026/05/11/communautes-energie-belgique/).
+Dans ce paysage, la clé de répartition est le paramètre central de la performance d'une communauté — et la simulation répond à un besoin réel : **structurer et comprendre le partage d'énergie** avant de l'engager. Pour le panorama complet des formes juridiques, voyez [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/actualites/2026/05/11/communautes-energie-belgique/).
 
 ## Conclusion
 

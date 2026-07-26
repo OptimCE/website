@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "How to create an energy community in Wallonia: a step-by-step guide"
+title: "Create an energy community in Wallonia"
 date: 2026-05-11 14:00:00 +0200
 author: "OptimCE Team"
 excerpt: "How to set up an energy community (CER or CEC) in Wallonia: choosing the model, legal structure, CWaPE notification, acknowledgement of receipt, and launching the energy sharing with ORES, RESA or AIEG."
+description: "CER or CEC model, legal structure, CWaPE notification and launching the sharing with ORES, RESA or AIEG: the concrete steps."
 tags: [community, administrative, guide]
 lang: en
 ref: create-energy-community-wallonia
@@ -11,7 +12,7 @@ last_modified_at: 2026-07-16 10:00:00 +0200
 permalink: /en/news/2026/05/11/create-energy-community-wallonia/
 ---
 
-Wallonia is currently the Belgian region where energy communities are deploying fastest. The legal framework has been stable since 2022, the regulator (CWaPE) publishes a standard notification form, and the distribution system operators (DSOs) are tooled up: every ingredient is in place for a group of citizens, a municipality, a school or an industrial park to launch its own energy sharing. This guide walks through **the complete procedure**: from choosing the type of community to going live with your DSO. If you're not yet familiar with the concept itself, start with our article [«Energy communities in Belgium: CER, CEC and CEL explained»](/en/news/2026/05/11/energy-communities-belgium/) — it sets the vocabulary used here.
+Wallonia is currently the Belgian region where energy communities are deploying fastest. The legal framework has been stable since 2022, the regulator (CWaPE) publishes a standard notification form, and the distribution system operators (DSOs) are tooled up: every ingredient is in place for a group of citizens, a municipality, a school or an industrial park to launch its own energy sharing. This guide walks through **the complete procedure**: from choosing the type of community to going live with your DSO. If you're not yet familiar with the concept itself, start with our article [“Energy communities in Belgium: CER, CEC, CEL”](/en/news/2026/05/11/energy-communities-belgium/) — it sets the vocabulary used here.
 
 The guide targets two typical profiles: a **collective starting from scratch** (citizens, neighbourhood non-profit, municipality) and a **producer already equipped** (rooftop PV, cogeneration) who wants to valorise surplus to nearby neighbours or businesses. The procedure is the same; what differs is the upstream framing work.
 
@@ -57,7 +58,7 @@ This is the longest step, but it's also the one that determines the community's 
 1. **Who produces?** Identify the producer(s) (existing rooftop PV, new project, cogeneration…) and their delivery point (EAN).
 2. **Who consumes?** List the future consuming members, their estimated annual consumption and their EANs.
 3. **Where?** Map the locations to verify the proximity criterion (CER) or confirm it is not required (CEC).
-4. **How is the energy allocated?** Sketch the allocation key (static: fixed percentages; dynamic: proportional to real-time consumption). For a detailed overview of the keys accepted by CWaPE and their Brussels and Flanders counterparts, see our article [“Allocation key in Belgium: Wallonia, Brussels and Flanders compared”](/en/news/2026/05/19/allocation-key-belgium/).
+4. **How is the energy allocated?** Sketch the allocation key (static: fixed percentages; dynamic: proportional to real-time consumption). For a detailed overview of the keys accepted by CWaPE and their Brussels and Flanders counterparts, see our article [“Allocation key in Belgium: the 3 regions”](/en/news/2026/05/19/allocation-key-belgium/).
 
 ### Choose a legal structure
 
@@ -66,7 +67,7 @@ An energy community is **mandatorily a legal entity**. In Wallonia, two forms do
 - **The non-profit association (ASBL)** — fits citizen projects, schools, municipalities; flexible governance, no minimum capital.
 - **The cooperative (SCRL/SC)** — fits when investment (panels, connection) is borne by members; allows shares to be remunerated.
 
-More rarely, a foundation or an inter-municipal entity can host the community. The choice depends on **who invests, who decides and how benefits flow back to members**. The guide [«How to set up an energy community in Wallonia»](https://energieplus-lesite.be/webinaire/comment-mettre-en-place-une-communaute-denergie-en-wallonie/) by Énergie+ details the trade-offs.
+More rarely, a foundation or an inter-municipal entity can host the community. The choice depends on **who invests, who decides and how benefits flow back to members**. The guide [“How to set up an energy community in Wallonia”](https://energieplus-lesite.be/webinaire/comment-mettre-en-place-une-communaute-denergie-en-wallonie/) by Énergie+ details the trade-offs.
 
 ### Appoint the representative
 
@@ -76,7 +77,7 @@ By the end of this step, you have: statutes, a list of members with their EANs, 
 
 ## Step 3 — File the notification with the CWaPE
 
-In Wallonia, **prior notification to the CWaPE is mandatory**: no energy sharing can start until the community has been duly notified. The procedure is described on the [«What is the procedure to create an energy community?»](https://www.cwape.be/node/6052) page of the regulator.
+In Wallonia, **prior notification to the CWaPE is mandatory**: no energy sharing can start until the community has been duly notified. The procedure is described on the [“What is the procedure to create an energy community?”](https://www.cwape.be/node/6052) page of the regulator.
 
 ### The standard form
 
@@ -108,7 +109,7 @@ Use this window to move forward in parallel on step 5 (engaging with the DSO): t
 
 ## Step 5 — Launch the sharing with the distribution system operator
 
-Once the acknowledgement is in hand, sharing becomes a **technical operation** driven by the DSO. The pages [ORES — «Start an energy community (CER/CEC)»](https://www.ores.be/particulier/demarrer-partage-cer-cec) and [AIEG — «Energy sharing»](https://www.aieg.be/le-partage-denergie) describe the mechanics on the operator side.
+Once the acknowledgement is in hand, sharing becomes a **technical operation** driven by the DSO. The pages [ORES — “Start an energy community (CER/CEC)”](https://www.ores.be/particulier/demarrer-partage-cer-cec) and [AIEG — “Energy sharing”](https://www.aieg.be/le-partage-denergie) describe the mechanics on the operator side.
 
 ### Identify the right DSO
 
@@ -145,7 +146,7 @@ Once the configuration is technically validated, the DSO activates the sharing o
 2. Applies the allocation key to assign shared energy to each member.
 3. Transmits the shared volumes to the members' **energy suppliers** for billing adjustment.
 
-Electrons keep flowing on the grid as before: sharing is **administrative and tariff-based**, not physical. For examples of configurations already live, see our list of [open sharing operations](/actualites/2026/05/07/nouveautes-release/).
+Electrons keep flowing on the grid as before: sharing is **administrative and tariff-based**, not physical. For examples of configurations already live, see our list of [open sharing operations](https://app.optimce.be).
 
 ## Step 6 — Operate, govern and report
 
@@ -211,7 +212,7 @@ Yes. **Local authorities** (municipalities, communal schools, inter-municipal en
 
 If creating a community from scratch feels too heavy, **joining an existing operation** is much faster — typically 6 to 12 weeks between first contact and first shared kilowatt-hour. See our practical guide:
 
-> **[How to join an energy community in Wallonia: a practical guide](/en/news/2026/05/11/join-energy-community-wallonia/)**
+> **[Join an energy community in Wallonia](/en/news/2026/05/11/join-energy-community-wallonia/)**
 >
 > Who can join, where to find an open operation (OptimCE registry, SPW facilitator, Énergie commune), step-by-step enrolment and points to check before you sign.
 
@@ -219,7 +220,7 @@ If creating a community from scratch feels too heavy, **joining an existing oper
 
 Once the community is notified and operational, the work begins: onboarding members, configuring allocation keys, tracking shared volumes at 15-minute granularity, producing the annual CWaPE report. **OptimCE** is an open source platform designed precisely for this: it automates the day-to-day management of energy communities and interfaces with the Walloon DSOs.
 
-To get started or to compare features, see the [OptimCE user guide](https://guide.optimce.be) and the public list of [open sharing operations](/actualites/2026/05/07/nouveautes-release/) already managed via the platform.
+To get started or to compare features, see the [OptimCE user guide](https://guide.optimce.be) and the public list of [open sharing operations](https://app.optimce.be) already managed via the platform.
 
 ## Sources
 

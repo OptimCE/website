@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Facturer l'électricité partagée en Belgique : qui facture quoi, TVA et obligations"
+title: "Facturer l'électricité partagée en Belgique"
 date: 2026-07-23 10:00:00 +0200
 author: "Équipe OptimCE"
 excerpt: "Dans un partage d'énergie, deux factures coexistent : celle du fournisseur et celle du représentant du partage. Qui émet quoi, quelle TVA appliquer (6 ou 21 %), comment gérer accises et certificats verts, et quelles mentions sont obligatoires."
+description: "Deux factures coexistent dans un partage d'énergie. Qui émet quoi, quelle TVA s'applique, et quelles mentions sont obligatoires."
 tags: [community, administrative, guide]
 lang: fr
 ref: invoice-shared-electricity
@@ -24,7 +25,12 @@ faq:
 
 Une communauté d'énergie partage des kWh — mais elle produit aussi des factures. Et c'est là que la confusion commence : chaque trimestre, le membre d'un partage reçoit non pas une, mais **deux factures**. L'une de son fournisseur habituel, l'autre de la communauté. Personne ne lui a expliqué laquelle couvre quoi, ni pourquoi les frais de réseau apparaissent toujours sur la première alors qu'il consomme de l'électricité « locale ».
 
-Cet article met de l'ordre dans les rôles. Qui a le droit — et l'obligation — d'émettre la facture de l'énergie partagée ? Que doit-elle contenir ? Quelle TVA s'y applique, et comment accises et certificats verts s'y logent ? Si vous cherchez plutôt *quel prix* inscrire au kWh, notre guide [« Prix de l'électricité en communauté d'énergie »](/actualites/2026/07/20/prix-electricite-communaute-energie/) y répond en détail ; et si la clé de répartition vous est encore étrangère, commencez par notre article de référence [« Clé de répartition en Belgique : Wallonie, Bruxelles, Flandre »](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/). Ici, une seule question : **qui facture quoi ?**
+Cet article met de l'ordre dans les rôles. Qui a le droit — et l'obligation — d'émettre la facture de l'énergie partagée ? Que doit-elle contenir ? Quelle TVA s'y applique, et comment accises et certificats verts s'y logent ? Si vous cherchez plutôt *quel prix* inscrire au kWh, notre guide [« Prix de cession interne en communauté d'énergie »](/actualites/2026/07/20/prix-electricite-communaute-energie/) y répond en détail ; et si la clé de répartition vous est encore étrangère, commencez par notre article de référence [« Clé de répartition en Belgique : les 3 régions »](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/). Ici, une seule question : **qui facture quoi ?**
+
+<img src="/assets/images/diagrams/two-invoices-fr.svg"
+     alt="Deux cartes côte à côte : la facture du fournisseur et la facture du représentant du partage, avec ce que chacune contient."
+     width="800" height="400" loading="lazy" decoding="async"
+     style="width:100%;height:auto">
 
 ## Deux factures, pas une : le partage ne remplace pas votre fournisseur
 

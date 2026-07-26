@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Electricity price in an energy community: how to set the internal transfer price"
+title: "Internal transfer price in an energy community"
 date: 2026-07-20 10:00:00 +0200
 author: "OptimCE Team"
 excerpt: "What price per kWh should apply to the electricity shared between members? What the internal price really covers, the defensible range between injection tariff and energy component, five calculation methods, a costed Belgian case and the rules in Wallonia, Brussels and Flanders."
+description: "What the internal price covers, the defensible range between injection tariff and energy component, and five ways to calculate it."
 tags: [community, administrative, guide]
 lang: en
 ref: internal-price-shared-energy
@@ -30,7 +31,7 @@ A solar panel owner today sells their surplus for between **0.94 and 4.90 c€/k
 
 Which leaves the question every project lead ends up asking, often too late: **what price do you write into the agreement?** No Belgian regulator publishes an answer. Neither CWaPE, nor BRUGEL, nor the Vlaamse Nutsregulator issues a calculation method or a reference tariff. This article fills that gap: what the internal price really covers, the bounds it has to fall between, five methods for building it, a fully costed Belgian case, and what each regional framework allows.
 
-If the mechanics of sharing are still unfamiliar, start with our reference article ["Allocation key in Belgium: Wallonia, Brussels and Flanders compared"](/en/news/2026/05/19/allocation-key-belgium/): the allocation key decides *how many kWh* each member receives, the price decides *how many euros*.
+If the mechanics of sharing are still unfamiliar, start with our reference article [“Allocation key in Belgium: the 3 regions”](/en/news/2026/05/19/allocation-key-belgium/): the allocation key decides *how many kWh* each member receives, the price decides *how many euros*.
 
 ## The internal transfer price replaces only a third of the bill
 
@@ -55,7 +56,7 @@ Two practical consequences:
 
 ### What the representative invoices on top of the price
 
-On the community's own invoice, the agreed price is joined by "VAT, excise duties and the public service obligation to surrender green certificate quotas" ([CWaPE](https://www.cwape.be/node/6063)). Who issues this invoice, and which mentions it must carry, is the subject of our guide ["Invoicing shared electricity in Belgium"](/en/news/2026/07/23/who-invoices-shared-electricity-belgium/). Two details that trip up a lot of projects:
+On the community's own invoice, the agreed price is joined by "VAT, excise duties and the public service obligation to surrender green certificate quotas" ([CWaPE](https://www.cwape.be/node/6063)). Who issues this invoice, and which mentions it must carry, is the subject of our guide [“Invoicing shared electricity in Belgium”](/en/news/2026/07/23/who-invoices-shared-electricity-belgium/). Two details that trip up a lot of projects:
 
 - **VAT is not uniform.** The reduced **6% rate applies to electricity supplied to a residential customer**, against **21% for a business customer**: a community with mixed membership should therefore expect to invoice at two rates. Below €25,000 in annual turnover excluding VAT, the [small business exemption scheme](https://finances.belgium.be/fr/entreprises/tva/assujettissement-tva/regime-franchise-taxe) may apply. No circular deals specifically with energy sharing: have your situation validated by your accountant before the first invoice.
 - **The federal levy no longer exists.** It was abolished on 31 December 2021 and absorbed into the special excise duty ([CREG](https://www.creg.be/fr/a-z-index/cotisation-federale)). Plenty of documents still in circulation mention it: leave it out of your simulations.

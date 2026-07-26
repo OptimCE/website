@@ -266,6 +266,9 @@
   }
 }
 
+// .is-open is set by main.js so the button's aria-expanded state and the visible
+// state agree. The :hover/:focus-within rules remain the no-JS fallback.
+.lang-switcher.is-open .lang-switcher__list,
 .lang-switcher:focus-within .lang-switcher__list,
 .lang-switcher:hover .lang-switcher__list {
   display: block;

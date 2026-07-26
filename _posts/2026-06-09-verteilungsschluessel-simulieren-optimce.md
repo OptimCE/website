@@ -1,17 +1,18 @@
 ---
 layout: post
-title: "Verteilungsschlüssel simulieren: Szenarien testen"
+title: "Aufteilungsschlüssel simulieren: Szenarien testen"
 date: 2026-06-09 10:00:00 +0200
 author: "OptimCE-Team"
-excerpt: "Neue OptimCE-Funktion: Simulieren Sie einen Verteilungsschlüssel auf Ihren Daten und messen Sie Eigenverbrauch, Überschuss, Autarkie und Teilungsgrad."
+excerpt: "Neue OptimCE-Funktion: Simulieren Sie einen Aufteilungsschlüssel auf Ihren Daten und messen Sie Eigenverbrauch, Überschuss, Autarkie und Teilungsgrad."
+description: "Simulieren Sie einen Schlüssel auf Ihren Daten und messen Sie Eigenverbrauch, Überschuss, Autarkie und Teilungsgrad vor der Freigabe."
 tags: [allocation-key, app, news]
 lang: de
 ref: optimce-allocation-key-simulation
 permalink: /de/aktuelles/2026/06/09/verteilungsschluessel-simulieren-optimce/
 faq:
-  - q: "Was bedeutet es, einen Verteilungsschlüssel zu simulieren?"
-    a: "Es bedeutet, reale Erzeugungs- und Verbrauchsdaten durch einen gewählten Verteilungsschlüssel abzuspielen, ohne ihn produktiv anzuwenden, um seine Kennzahlen vorab zu messen: kollektiver Eigenverbrauch, Überschuss, Autarkiegrad und Teilungsgrad. Es ist ein 'Was-wäre-wenn'-Test, bevor Sie entscheiden."
-  - q: "Was ist der Unterschied zwischen Simulieren und Generieren eines Verteilungsschlüssels?"
+  - q: "Was bedeutet es, einen Aufteilungsschlüssel zu simulieren?"
+    a: "Es bedeutet, reale Erzeugungs- und Verbrauchsdaten durch einen gewählten Aufteilungsschlüssel abzuspielen, ohne ihn produktiv anzuwenden, um seine Kennzahlen vorab zu messen: kollektiver Eigenverbrauch, Überschuss, Autarkiegrad und Teilungsgrad. Es ist ein 'Was-wäre-wenn'-Test, bevor Sie entscheiden."
+  - q: "Was ist der Unterschied zwischen Simulieren und Generieren eines Aufteilungsschlüssels?"
     a: "Die automatische Generierung schlägt den besten Schlüssel aus Ihren Daten vor (Brute-Force über Standardschlüssel oder der LOGAAS-Algorithmus). Die Simulation testet einen Schlüssel, den Sie selbst gewählt haben, auf einem gegebenen Datensatz und zeigt dessen Kennzahlen. Beide ergänzen sich: Sie generieren, um einen guten Kandidaten zu finden, und Sie simulieren, um Szenarien zu verstehen und zu vergleichen."
   - q: "Was ist der Unterschied zwischen Eigenverbrauchsquote, Autarkiegrad und Teilungsgrad?"
     a: "Die Eigenverbrauchsquote wird auf der Erzeugungsseite gemessen: der Anteil der lokal erzeugten Energie, der von den Mitgliedern verbraucht wird. Der Autarkiegrad wird auf der Verbrauchsseite gemessen: der Anteil des Mitgliederverbrauchs, der durch lokale Erzeugung gedeckt wird. Der Teilungsgrad zeigt, wie viel der Einspeisung tatsächlich über den Schlüssel an die Mitglieder verteilt wurde."
@@ -19,30 +20,30 @@ faq:
     a: "Viele Schlüssel verteilen Energie in mehreren Runden (Iterationen): Eine erste Runde verteilt nach der Regel, dann wird die nicht verbrauchte Energie in der nächsten Runde umverteilt. Die Simulation zeigt das Ergebnis global, pro Zeitschritt und pro Iteration, sodass Sie sehen, wie das Teilen Runde für Runde voranschreitet."
   - q: "Welche Daten muss ich importieren, um eine Simulation zu starten?"
     a: "Eine CSV-Datei mit dem Verbrauch pro Zeitschritt (oft viertelstündlich) jedes Mitglieds und der Erzeugung jedes Erzeugers der Teilungsoperation. Jede Zeile entspricht einem Zeitschritt. Wenige Wochen Daten liefern bereits ein brauchbares Signal; ein volles Jahr erfasst die Saisonalität besser."
-  - q: "Ändert die Simulation meinen produktiven Verteilungsschlüssel?"
+  - q: "Ändert die Simulation meinen produktiven Aufteilungsschlüssel?"
     a: "Nein. Die Simulation ist eine Berechnung 'außerhalb der Produktion': Sie berührt weder den vom Netzbetreiber angewandten Schlüssel noch Ihre realen Daten. Sie testen so viele Szenarien, wie Sie möchten, ohne jede Auswirkung auf die laufende Teilungsoperation."
 ---
 
-Einen **Verteilungsschlüssel** wählen heißt, Viertelstunde für Viertelstunde zu entscheiden, wer welchen Anteil der lokal erzeugten Energie erhält. Aber woher wissen Sie, *bevor* Sie ihn einführen, ob ein bestimmter Schlüssel den Eigenverbrauch Ihrer Gemeinschaft wirklich verbessert — oder Erzeugung ins Netz abfließen lässt? Die neue Funktion von OptimCE beantwortet genau diese Frage: einen **Verteilungsschlüssel simulieren** auf Ihren eigenen Daten und die Leistungskennzahlen sofort ablesen.
+Einen **Aufteilungsschlüssel** wählen heißt, Viertelstunde für Viertelstunde zu entscheiden, wer welchen Anteil der lokal erzeugten Energie erhält. Aber woher wissen Sie, *bevor* Sie ihn einführen, ob ein bestimmter Schlüssel den Eigenverbrauch Ihrer Gemeinschaft wirklich verbessert — oder Erzeugung ins Netz abfließen lässt? Die neue Funktion von OptimCE beantwortet genau diese Frage: einen **Aufteilungsschlüssel simulieren** auf Ihren eigenen Daten und die Leistungskennzahlen sofort ablesen.
 
 Die Idee ist einfach: Sie importieren einen Datensatz, Sie wählen einen Schlüssel, und die Simulation spielt jeden Zeitschritt durch diesen Schlüssel, um Ihnen **Eigenverbrauch**, **Überschuss**, **Autarkiegrad** und **Teilungsgrad** zurückzugeben — global, pro Zeitschritt und pro Iteration. Sie testen ein Szenario, ohne es anzuwenden, risikofrei, und Sie entscheiden anhand von Zahlen statt aus dem Bauchgefühl.
 
-Ist der Begriff Verteilungsschlüssel neu für Sie, beginnen Sie mit unserem Referenzartikel ["Verteilungsschlüssel in Belgien: Wallonie, Brüssel und Flandern im Vergleich"](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/) — er legt das hier verwendete Vokabular dar.
+Ist der Begriff Aufteilungsschlüssel neu für Sie, beginnen Sie mit unserem Referenzartikel [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/) — er legt das hier verwendete Vokabular dar.
 
-## Warum einen Verteilungsschlüssel simulieren?
+## Warum einen Aufteilungsschlüssel simulieren?
 
-Ein Verteilungsschlüssel ist nicht neutral: Je nach Verbrauchs- und Erzeugungsprofilen der Gemeinschaft kann **derselbe Schlüssel in einem Projekt viel Wert schaffen und in einem anderen zerstören**. Ein fester egalitärer Schlüssel ist perfekt für zehn Haushalte mit ähnlichen Profilen, lässt aber Volumen ungenutzt, sobald ein Großverbraucher — eine Schule, ein KMU, ein öffentliches Gebäude — beitritt. Ein dynamischer Schlüssel hingegen gewinnt diese verlorene Erzeugung zurück, um den Preis eines von Monat zu Monat schwankenden Anteils.
+Ein Aufteilungsschlüssel ist nicht neutral: Je nach Verbrauchs- und Erzeugungsprofilen der Gemeinschaft kann **derselbe Schlüssel in einem Projekt viel Wert schaffen und in einem anderen zerstören**. Ein fester egalitärer Schlüssel ist perfekt für zehn Haushalte mit ähnlichen Profilen, lässt aber Volumen ungenutzt, sobald ein Großverbraucher — eine Schule, ein KMU, ein öffentliches Gebäude — beitritt. Ein dynamischer Schlüssel hingegen gewinnt diese verlorene Erzeugung zurück, um den Preis eines von Monat zu Monat schwankenden Anteils.
 
 Das Problem ist, dass **eine Entscheidung aus dem Bauchgefühl riskant ist**. Solarerzeugungskurven und Verbrauchsprofile kreuzen sich auf der 15-Minuten-Stufe auf nicht-triviale Weise; mit bloßem Auge lässt sich unmöglich vorhersagen, ob Schlüssel A über ein ganzes Jahr Schlüssel B schlägt. Und der Einsatz ist konkret: Jeder gewonnene Punkt Eigenverbrauch ist Überschuss, der nicht mehr zu niedrigem Preis eingespeist wird, also mehr Wert, der in der Gemeinschaft bleibt.
 
-Simulieren bedeutet genau, **diese Entscheidung aus dem Bauchgefühl herauszuholen**. Sie messen die reale Wirkung eines Schlüssels auf die Kennzahlen, die zählen — Eigenverbrauch, Überschuss, Autarkie, Teilungsgrad — bevor Sie sich zu etwas verpflichten. Um zu verstehen, warum diese Kennzahlen für den Wert einer Gemeinschaft zentral sind, siehe unseren Artikel ["Eigenverbrauch von Energie in Belgien"](/de/aktuelles/2026/06/05/eigenverbrauch-energie-belgien/).
+Simulieren bedeutet genau, **diese Entscheidung aus dem Bauchgefühl herauszuholen**. Sie messen die reale Wirkung eines Schlüssels auf die Kennzahlen, die zählen — Eigenverbrauch, Überschuss, Autarkie, Teilungsgrad — bevor Sie sich zu etwas verpflichten. Um zu verstehen, warum diese Kennzahlen für den Wert einer Gemeinschaft zentral sind, siehe unseren Artikel [„Eigenverbrauch von Energie in Belgien“](/de/aktuelles/2026/06/05/eigenverbrauch-energie-belgien/).
 
 ## Was die Simulation ermöglicht
 
-Die Funktion ist in das **Modul „Verteilungsschlüssel"** des Open-Source-Kerns von OptimCE eingebaut. Der Benutzerablauf umfasst nur wenige Schritte:
+Die Funktion ist in das **Modul „Aufteilungsschlüssel“** des Open-Source-Kerns von OptimCE eingebaut. Der Benutzerablauf umfasst nur wenige Schritte:
 
 1. **Importieren Sie eine CSV** mit Verbrauchsdaten pro Zeitschritt (oft viertelstündlich) für jedes Mitglied und Erzeugungsdaten für jeden Erzeuger der Teilungsoperation. Jede Zeile der Datei entspricht einem Zeitschritt.
-2. **Wählen Sie einen Verteilungsschlüssel** zum Testen — einen Standardschlüssel Ihrer Region, einen bestehenden Schlüssel der Gemeinschaft oder ein Szenario, das Sie erkunden möchten.
+2. **Wählen Sie einen Aufteilungsschlüssel** zum Testen — einen Standardschlüssel Ihrer Region, einen bestehenden Schlüssel der Gemeinschaft oder ein Szenario, das Sie erkunden möchten.
 3. **Starten Sie die Simulation.** OptimCE spielt jeden Zeitschritt durch den Schlüssel und seine verschiedenen Iterationen und aggregiert dann die Ergebnisse.
 4. **Lesen Sie die zurückgegebenen Kennzahlen** auf drei Granularitätsebenen: **global** (über den gesamten Zeitraum), **pro Zeitschritt** (Viertelstunde für Viertelstunde) und **pro Iteration** (Runde für Runde der Verteilung).
 
@@ -52,7 +53,7 @@ Hier auf einen Blick, was Sie liefern und was Sie erhalten:
 |---|---|
 | Verbrauch pro Zeitschritt, pro Mitglied | Simulierte kollektive Eigenverbrauchsquote |
 | Erzeugung pro Zeitschritt, pro Erzeuger | Simulierter Überschuss (eingespeiste, nicht geteilte Energie) |
-| Der zu testende Verteilungsschlüssel | Autarkiegrad und Teilungsgrad |
+| Der zu testende Aufteilungsschlüssel | Autarkiegrad und Teilungsgrad |
 | | Detail: global, pro Zeitschritt und pro Iteration |
 
 Das Ergebnis ist keine theoretische Schätzung aus einem Lehrbuchbeispiel: Es wird **auf Ihren eigenen Daten** berechnet. Genau das macht die Simulation für die Entscheidung nützlich.
@@ -75,7 +76,7 @@ Der **Autarkiegrad** wird auf der **Verbrauchsseite** gemessen: der Anteil des M
 
 ### Der Teilungsgrad und die Lesart pro Iteration
 
-Der **Teilungsgrad** zeigt, wie viel der verfügbaren Einspeisung tatsächlich **über den Schlüssel an die Mitglieder verteilt wurde**. Hier kommt die Lesart **pro Iteration** ins Spiel. Viele Schlüssel verteilen über mehrere Runden: Eine erste Runde verteilt die Energie nach der Regel, dann wird die Energie, die ein Mitglied nicht verbraucht hat, **in der nächsten Runde umverteilt** unter denen, die noch Bedarf haben (das ist das Prinzip der „mehrrundigen", relativen oder optimalen Schlüssel). Die Simulation zeigt, wie der Teilungsgrad **bei jeder Iteration voranschreitet**, bis die teilbare Einspeisung erschöpft ist — Sie sehen genau, was die aufeinanderfolgenden Runden hinzufügen.
+Der **Teilungsgrad** zeigt, wie viel der verfügbaren Einspeisung tatsächlich **über den Schlüssel an die Mitglieder verteilt wurde**. Hier kommt die Lesart **pro Iteration** ins Spiel. Viele Schlüssel verteilen über mehrere Runden: Eine erste Runde verteilt die Energie nach der Regel, dann wird die Energie, die ein Mitglied nicht verbraucht hat, **in der nächsten Runde umverteilt** unter denen, die noch Bedarf haben (das ist das Prinzip der „mehrrundigen“, relativen oder optimalen Schlüssel). Die Simulation zeigt, wie der Teilungsgrad **bei jeder Iteration voranschreitet**, bis die teilbare Einspeisung erschöpft ist — Sie sehen genau, was die aufeinanderfolgenden Runden hinzufügen.
 
 Um jede Verwirrung zu vermeiden, fasst diese Tabelle zusammen, wo jede Kennzahl angesiedelt ist:
 
@@ -93,7 +94,7 @@ Die Simulation ist in jeder Phase des Lebens einer Energiegemeinschaft nützlich
 - **Vor dem Start.** Sie vergleichen mehrere Kandidatenschlüssel auf historischen oder geschätzten Daten und wählen denjenigen, der die Projektziele am besten erfüllt — mit Sachkenntnis.
 - **Während der Konzeption.** Sie wägen ausdrücklich zwischen **Fairness** (ein lesbarer, vorhersehbarer Schlüssel für die Mitglieder) und **Gesamtleistung** (ein Schlüssel, der den kollektiven Eigenverbrauch maximiert) ab — mit Zahlen als Beleg.
 - **Im laufenden Betrieb.** Sie messen die Wirkung eines **neuen Datensatzes** oder einer **Profiländerung** (ein Mitglied installiert eine Wärmepumpe, ein anderes einen Ladepunkt) auf die Kennzahlen — ohne etwas im laufenden Betrieb zu zerstören.
-- **Bei der Aktualisierung des Schlüssels.** Wenn ein **Mitglied beitritt oder austritt**, simulieren Sie den neu berechneten Schlüssel, bevor Sie ihn einreichen, um zu prüfen, ob er leistungsfähig bleibt. Unser Artikel über den [Verteilungsschlüssel in Belgien](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/) beschreibt das Verfahren zur Änderung eines Schlüssels nach dem Start, und der [Leitfaden zur Gründung einer Gemeinschaft in Wallonien](/de/aktuelles/2026/05/11/energiegemeinschaft-gruenden-wallonien/) ordnet diesen Schritt in die Regulator-Akte ein.
+- **Bei der Aktualisierung des Schlüssels.** Wenn ein **Mitglied beitritt oder austritt**, simulieren Sie den neu berechneten Schlüssel, bevor Sie ihn einreichen, um zu prüfen, ob er leistungsfähig bleibt. Unser Artikel über den [Aufteilungsschlüssel in Belgien](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/) beschreibt das Verfahren zur Änderung eines Schlüssels nach dem Start, und der [Leitfaden zur Gründung einer Gemeinschaft in Wallonien](/de/aktuelles/2026/05/11/energiegemeinschaft-gruenden-wallonien/) ordnet diesen Schritt in die Regulator-Akte ein.
 
 ## Der Wert für Gemeinschaften
 
@@ -113,24 +114,24 @@ Es sind zwei komplementäre Anwendungen, keine konkurrierenden:
 
 | | Simulation | Automatische Generierung |
 |---|---|---|
-| Gestellte Frage | „Was ergibt *dieser* Schlüssel auf diesen Daten?" | „*Welcher* Schlüssel ist der beste für diese Daten?" |
+| Gestellte Frage | „Was ergibt *dieser* Schlüssel auf diesen Daten?“ | „*Welcher* Schlüssel ist der beste für diese Daten?“ |
 | Eingabe | Ein gewählter Schlüssel + eine CSV | Eine CSV |
 | Ausgabe | Die KPIs des getesteten Schlüssels | Ein (oder mehrere) optimierte(r) Kandidatenschlüssel |
 | Typische Nutzung | Szenarien vergleichen, verstehen, begründen | Einen guten Ausgangspunkt finden |
 
-In der Praxis generieren Sie, um einen soliden Kandidaten zu finden, und simulieren dann, um sein Verhalten zu verstehen, Varianten zu vergleichen und ihn zu verteidigen. Für die Details der Algorithmen siehe ["Automatische Generierung von Verteilungsschlüsseln mit OptimCE"](/de/aktuelles/2026/05/26/automatische-verteilungsschluessel-generierung/).
+In der Praxis generieren Sie, um einen soliden Kandidaten zu finden, und simulieren dann, um sein Verhalten zu verstehen, Varianten zu vergleichen und ihn zu verteidigen. Für die Details der Algorithmen siehe [„Aufteilungsschlüssel automatisch generieren“](/de/aktuelles/2026/05/26/automatische-verteilungsschluessel-generierung/).
 
 ## Energiegemeinschaften in Belgien, kurz gefasst
 
-Eine **Energiegemeinschaft** bringt Erzeuger und Verbraucher zusammen, die lokal erneuerbare Erzeugung teilen. Das Teilen ist administrativ: Intelligente Zähler werden in einer **15-Minuten-Stufe** ausgelesen, und der **Verteilnetzbetreiber (VNB)** wendet den gewählten Verteilungsschlüssel an, um jedem Mitglied einen Anteil der eingespeisten Energie zuzuweisen. Belgien kennt mehrere Formen — EEG, BEG und, in Brüssel, LEG — unter Aufsicht der regionalen Regulatoren ([Brugel](https://energysharing.brugel.brussels) in Brüssel, mit [Sibelga](https://www.sibelga.be/en/connections-meters/renewable-energy/energy-sharing) als Netzbetreiber).
+Eine **Energiegemeinschaft** bringt Erzeuger und Verbraucher zusammen, die lokal erneuerbare Erzeugung teilen. Das Teilen ist administrativ: Intelligente Zähler werden in einer **15-Minuten-Stufe** ausgelesen, und der **Verteilnetzbetreiber (VNB)** wendet den gewählten Aufteilungsschlüssel an, um jedem Mitglied einen Anteil der eingespeisten Energie zuzuweisen. Belgien kennt mehrere Formen — EEG, BEG und, in Brüssel, LEG — unter Aufsicht der regionalen Regulatoren ([Brugel](https://energysharing.brugel.brussels) in Brüssel, mit [Sibelga](https://www.sibelga.be/en/connections-meters/renewable-energy/energy-sharing) als Netzbetreiber).
 
-In dieser Landschaft ist der Verteilungsschlüssel der zentrale Parameter für die Leistung einer Gemeinschaft — und die Simulation deckt einen realen Bedarf: **das Teilen von Energie zu strukturieren und zu verstehen**, bevor man sich dazu verpflichtet. Für den vollständigen Überblick über die Rechtsformen siehe ["Energiegemeinschaften in Belgien: CER, CEC und CEL erklärt"](/de/aktuelles/2026/05/11/energiegemeinschaften-belgien/).
+In dieser Landschaft ist der Aufteilungsschlüssel der zentrale Parameter für die Leistung einer Gemeinschaft — und die Simulation deckt einen realen Bedarf: **das Teilen von Energie zu strukturieren und zu verstehen**, bevor man sich dazu verpflichtet. Für den vollständigen Überblick über die Rechtsformen siehe [„Energiegemeinschaften in Belgien: CER, CEC, CEL“](/de/aktuelles/2026/05/11/energiegemeinschaften-belgien/).
 
 ## Fazit
 
-Die Simulation von Verteilungsschlüsseln bringt eine einfache, aber entscheidende Sache: **die Möglichkeit, vor der Bereitstellung zu testen**. Statt einen Schlüssel aus dem Bauchgefühl zu wählen und seine Wirkungen nachträglich zu entdecken, messen Sie Eigenverbrauch, Überschuss, Autarkie und Teilungsgrad vorab auf Ihren eigenen Daten — global und Runde für Runde. Das bedeutet weniger Risiko, mehr Pädagogik und mit Zahlen untermauerte Governance-Entscheidungen.
+Die Simulation von Aufteilungsschlüsseln bringt eine einfache, aber entscheidende Sache: **die Möglichkeit, vor der Bereitstellung zu testen**. Statt einen Schlüssel aus dem Bauchgefühl zu wählen und seine Wirkungen nachträglich zu entdecken, messen Sie Eigenverbrauch, Überschuss, Autarkie und Teilungsgrad vorab auf Ihren eigenen Daten — global und Runde für Runde. Das bedeutet weniger Risiko, mehr Pädagogik und mit Zahlen untermauerte Governance-Entscheidungen.
 
-> ### Simulieren Sie Ihren Verteilungsschlüssel mit OptimCE
+> ### Simulieren Sie Ihren Aufteilungsschlüssel mit OptimCE
 >
 > Open-Source-Plattform für belgische Energiegemeinschaften: Simulieren Sie einen Schlüssel auf Ihren Daten, vergleichen Sie Szenarien, generieren Sie einen optimalen Schlüssel, führen Sie eine Historie der Teilungsoperationen und bereiten Sie die Berichterstattung an den Regulator vor — alles in einer einzigen Anwendung.
 >
@@ -138,11 +139,11 @@ Die Simulation von Verteilungsschlüsseln bringt eine einfache, aber entscheiden
 
 ## FAQ
 
-### Was bedeutet es, einen Verteilungsschlüssel zu simulieren?
+### Was bedeutet es, einen Aufteilungsschlüssel zu simulieren?
 
-Es bedeutet, reale Erzeugungs- und Verbrauchsdaten durch einen gewählten Verteilungsschlüssel abzuspielen, **ohne ihn produktiv anzuwenden**, um seine Kennzahlen vorab zu messen: kollektiver Eigenverbrauch, Überschuss, Autarkiegrad und Teilungsgrad. Es ist ein „Was-wäre-wenn"-Test, bevor Sie entscheiden.
+Es bedeutet, reale Erzeugungs- und Verbrauchsdaten durch einen gewählten Aufteilungsschlüssel abzuspielen, **ohne ihn produktiv anzuwenden**, um seine Kennzahlen vorab zu messen: kollektiver Eigenverbrauch, Überschuss, Autarkiegrad und Teilungsgrad. Es ist ein „Was-wäre-wenn“-Test, bevor Sie entscheiden.
 
-### Was ist der Unterschied zwischen Simulieren und Generieren eines Verteilungsschlüssels?
+### Was ist der Unterschied zwischen Simulieren und Generieren eines Aufteilungsschlüssels?
 
 Die **automatische Generierung** schlägt den besten Schlüssel aus Ihren Daten vor (Brute-Force über Standardschlüssel oder der LOGAAS-Algorithmus). Die **Simulation** testet einen Schlüssel, den Sie selbst gewählt haben, auf einem gegebenen Datensatz und zeigt dessen Kennzahlen. Beide ergänzen sich: Sie generieren, um einen guten Kandidaten zu finden, und Sie simulieren, um Szenarien zu verstehen und zu vergleichen.
 
@@ -150,7 +151,7 @@ Die **automatische Generierung** schlägt den besten Schlüssel aus Ihren Daten 
 
 Die **Eigenverbrauchsquote** wird auf der Erzeugungsseite gemessen: der Anteil der lokal erzeugten Energie, der von den Mitgliedern verbraucht wird. Der **Autarkiegrad** wird auf der Verbrauchsseite gemessen: der Anteil des Mitgliederverbrauchs, der durch lokale Erzeugung gedeckt wird. Der **Teilungsgrad** zeigt, wie viel der Einspeisung tatsächlich über den Schlüssel an die Mitglieder verteilt wurde.
 
-### Was bedeuten die Ergebnisse „pro Iteration"?
+### Was bedeuten die Ergebnisse „pro Iteration“?
 
 Viele Schlüssel verteilen Energie in mehreren Runden (Iterationen): Eine erste Runde verteilt nach der Regel, dann wird die nicht verbrauchte Energie in der nächsten Runde umverteilt. Die Simulation zeigt das Ergebnis **global**, **pro Zeitschritt** und **pro Iteration**, sodass Sie sehen, wie das Teilen Runde für Runde voranschreitet.
 
@@ -158,9 +159,9 @@ Viele Schlüssel verteilen Energie in mehreren Runden (Iterationen): Eine erste 
 
 Eine **CSV**-Datei mit dem Verbrauch pro Zeitschritt (oft viertelstündlich) jedes Mitglieds und der Erzeugung jedes Erzeugers der Teilungsoperation. Jede Zeile entspricht einem Zeitschritt. Wenige Wochen Daten liefern bereits ein brauchbares Signal; ein volles Jahr erfasst die Saisonalität besser.
 
-### Ändert die Simulation meinen produktiven Verteilungsschlüssel?
+### Ändert die Simulation meinen produktiven Aufteilungsschlüssel?
 
-Nein. Die Simulation ist eine Berechnung „außerhalb der Produktion": Sie berührt weder den vom Netzbetreiber angewandten Schlüssel noch Ihre realen Daten. Sie testen so viele Szenarien, wie Sie möchten, ohne jede Auswirkung auf die laufende Teilungsoperation.
+Nein. Die Simulation ist eine Berechnung „außerhalb der Produktion“: Sie berührt weder den vom Netzbetreiber angewandten Schlüssel noch Ihre realen Daten. Sie testen so viele Szenarien, wie Sie möchten, ohne jede Auswirkung auf die laufende Teilungsoperation.
 
 ## Quellen
 

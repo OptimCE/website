@@ -1,16 +1,61 @@
 ---
 layout: default
+title: "Page introuvable"
+description: "Cette page n'existe pas ou a été déplacée. Retrouvez les actualités, le glossaire et la documentation d'OptimCE depuis la page d'accueil."
 lang: fr
 permalink: /404.html
 sitemap: false
+noindex: true
 ---
+{%- comment -%}
+  GitHub Pages serves ONLY this file for every 404, on every language path. The
+  previous /en/404.html, /de/404.html and /nl/404.html had real permalinks, so
+  they returned HTTP 200 with "not found" content — soft 404s that were never
+  actually served on a dead URL. They are gone; this page localises itself from
+  location.pathname instead.
+
+  One <h1> is rendered and its text is swapped, rather than rendering four and
+  hiding three. The header/footer chrome stays French: it is Liquid-rendered and
+  shipping four navs to toggle is not worth it on a 404.
+{%- endcomment -%}
 {% assign lang = page.lang | default: site.lang %}
 {% assign t = site.data.i18n[lang] %}
+{% capture nf_json %}{
+  {%- for l in site.languages -%}
+  {%- assign lt = site.data.i18n[l.code] -%}
+  "{{ l.code }}": {
+    "title": {{ lt.not_found.title | jsonify }},
+    "message": {{ lt.not_found.message | jsonify }},
+    "back": {{ lt.not_found.back_home | jsonify }},
+    "home": {{ l.prefix | append: '/' | relative_url | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+  {%- endfor -%}
+}{% endcapture %}
 <section class="section text-center" style="min-height: 60vh; display: flex; align-items: center;">
   <div class="container container--narrow">
-    <p style="font-size: var(--text-5xl); font-weight: var(--weight-bold); color: var(--color-primary); margin-bottom: var(--space-4);">404</p>
-    <h1>{{ t.not_found.title }}</h1>
-    <p class="text-muted" style="margin-bottom: var(--space-8);">{{ t.not_found.message }}</p>
-    <a href="{{ '/' | relative_url }}" class="btn btn-primary">{{ t.not_found.back_home }}</a>
+    <p aria-hidden="true" style="font-size: var(--text-5xl); font-weight: var(--weight-bold); color: var(--color-primary); margin-bottom: var(--space-4);">404</p>
+    <h1 data-nf="title">{{ t.not_found.title }}</h1>
+    <p class="text-muted" data-nf="message" style="margin-bottom: var(--space-8);">{{ t.not_found.message }}</p>
+    <a href="{{ '/' | relative_url }}" class="btn btn-primary" data-nf="back">{{ t.not_found.back_home }}</a>
   </div>
 </section>
+<script id="nf-i18n" type="application/json">{{ nf_json | strip_newlines }}</script>
+<script>
+  (function () {
+    var el = document.getElementById('nf-i18n');
+    if (!el) return;
+    var map;
+    try { map = JSON.parse(el.textContent); } catch (e) { return; }
+    var m = location.pathname.match(/^\/(en|de|nl)(\/|$)/);
+    var code = m ? m[1] : 'fr';
+    var s = map[code];
+    if (!s) return;
+    document.documentElement.lang = code;
+    var title = document.querySelector('[data-nf="title"]');
+    var message = document.querySelector('[data-nf="message"]');
+    var back = document.querySelector('[data-nf="back"]');
+    if (title) { title.textContent = s.title; document.title = s.title + ' | OptimCE'; }
+    if (message) message.textContent = s.message;
+    if (back) { back.textContent = s.back; back.setAttribute('href', s.home); }
+  })();
+</script>

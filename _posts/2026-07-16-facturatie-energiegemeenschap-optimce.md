@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Facturatie in een energiegemeenschap: OptimCE genereert uw facturen"
+title: "Facturatie in een energiegemeenschap"
 date: 2026-07-16 10:00:00 +0200
 author: "OptimCE-team"
 excerpt: "Nieuwe OptimCE-functie: genereer automatisch de facturen van uw energiegemeenschap, van de prijs per kWh tot de pdf en de opvolging van de betalingen."
+description: "Genereer de facturen van uw energiegemeenschap, van de prijs per kWh tot de pdf en de opvolging van betalingen, zonder rekenblad."
 tags: [administrative, app, news]
 lang: nl
 ref: optimce-billing
@@ -28,7 +29,7 @@ Een werkende energiegemeenschap produceert twee dingen: gedeelde kWh … en bedr
 
 Het principe is eenvoudig: u legt uw prijzen vast, u kiest een periode, en OptimCE **genereert de facturen van alle leden** op basis van de verdelingsdata die al in het platform zitten — met pdf, wettelijke nummering, gestructureerde mededeling en opvolging van de betalingen.
 
-Is de mechaniek van de verdeling nog onduidelijk voor u, begin dan met ons referentieartikel [„Verdeelsleutel in België: Wallonië, Brussel, Vlaanderen"](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/) — de facturatie is er het rechtstreekse vervolg van.
+Is de mechaniek van de verdeling nog onduidelijk voor u, begin dan met ons referentieartikel [“Verdeelsleutel in België: de 3 regio's”](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/) — de facturatie is er het rechtstreekse vervolg van.
 
 ## Waarom de interne facturatie de kritieke schakel is
 
@@ -49,9 +50,9 @@ Met tien leden is dat vervelend; met vijftig onhoudbaar. En de inzet gaat verder
 De module is geïntegreerd met de rest van het platform en volgt een traject in vier stappen.
 
 1. **De data zijn er al.** De facturatie steunt op de officiële verdelingsdata die al in OptimCE geïmporteerd zijn: verbruikte gedeelde energie en gedeelde injectie, per EAN en per periode. Niets opnieuw invoeren, niets exporteren — de facturatie leest dezelfde volumes als uw dashboards.
-2. **U definieert uw prijzen.** Twee prijzen, in €/kWh, vrij bepaald door de gemeenschap: de **verkoopprijs** van de gedeelde energie aan de verbruikers en de **terugkoopprijs** die aan de producenten wordt betaald voor hun injectie. Elke prijs kan globaal gelden, per klantsegment (residentieel, professioneel, industrieel) of voor één specifieke EAN — de meest specifieke regel wint — en draagt een geldigheidsperiode. Welke bedragen u invult, is een andere vraag: onze gids [« Prijs van elektriciteit in een energiegemeenschap: de interne overdrachtsprijs bepalen »](/nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/) beschrijft de verdedigbare marge en vijf rekenmethodes.
+2. **U definieert uw prijzen.** Twee prijzen, in €/kWh, vrij bepaald door de gemeenschap: de **verkoopprijs** van de gedeelde energie aan de verbruikers en de **terugkoopprijs** die aan de producenten wordt betaald voor hun injectie. Elke prijs kan globaal gelden, per klantsegment (residentieel, professioneel, industrieel) of voor één specifieke EAN — de meest specifieke regel wint — en draagt een geldigheidsperiode. Welke bedragen u invult, is een andere vraag: onze gids [“Interne overdrachtsprijs in energiegemeenschap”](/nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/) beschrijft de verdedigbare marge en vijf rekenmethodes.
 3. **U start een facturatiecyclus.** U kiest de periode — maandelijks, driemaandelijks, zoals het u past — en OptimCE controleert vóór de berekening of alles in orde is: verbruiksdata aanwezig, bankgegevens en officiële naam van de gemeenschap, toepasselijk tarief, geen dubbels in de data. Daarna **bevriest het een momentopname** van de verdeling: de bedragen worden berekend op bevroren, traceerbare volumes.
-4. **U leest na, dan reikt u uit.** De cyclus produceert een **ontwerp per lid**, te downloaden als pdf met watermerk „proforma". U controleert, dan reikt u uit: de factuur krijgt haar wettelijk nummer, haar gestructureerde mededeling en haar vervaldatum.
+4. **U leest na, dan reikt u uit.** De cyclus produceert een **ontwerp per lid**, te downloaden als pdf met watermerk “proforma”. U controleert, dan reikt u uit: de factuur krijgt haar wettelijk nummer, haar gestructureerde mededeling en haar vervaldatum.
 
 Samengevat — dit geeft u op en dit krijgt u:
 
@@ -90,7 +91,7 @@ Elke factuur volgt een expliciete levenscyclus, in één oogopslag zichtbaar:
 | **Betaald** | Betalingen geregistreerd tot het volledige bedrag |
 | **Achterstallig** | Vervaldatum overschreden zonder volledige betaling |
 
-De betalingsopvolging is ingebouwd: u registreert elke overschrijving — ook **gedeeltelijke betalingen** — en de factuur springt automatisch op „betaald" zodra het volledige bedrag bereikt is. Facturen waarvan de vervaldatum verstreken is, worden als **achterstallig** gemarkeerd, zodat u herinneringen gericht kunt versturen zonder rekeninguittreksels uit te pluizen.
+De betalingsopvolging is ingebouwd: u registreert elke overschrijving — ook **gedeeltelijke betalingen** — en de factuur springt automatisch op “betaald” zodra het volledige bedrag bereikt is. Facturen waarvan de vervaldatum verstreken is, worden als **achterstallig** gemarkeerd, zodat u herinneringen gericht kunt versturen zonder rekeninguittreksels uit te pluizen.
 
 ## Aan ledenkant: transparantie via het document
 
@@ -128,7 +129,7 @@ Uit de officiële verdelingsdata die de netbeheerder aanlevert en die **al in Op
 
 ### Welke documenten genereert OptimCE?
 
-Drie documenten, elk met een eigen nummerreeks: de **factuur** (F-…) voor de gedeelde energie die een lid verbruikte, de **creditnota** (NC-…) om een uitgereikte factuur te corrigeren, en de **vergoedingsafrekening** (DP-…) voor de gedeelde injectie van een producent. Alle worden als pdf gegenereerd; ontwerpen dragen een watermerk „proforma".
+Drie documenten, elk met een eigen nummerreeks: de **factuur** (F-…) voor de gedeelde energie die een lid verbruikte, de **creditnota** (NC-…) om een uitgereikte factuur te corrigeren, en de **vergoedingsafrekening** (DP-…) voor de gedeelde injectie van een producent. Alle worden als pdf gegenereerd; ontwerpen dragen een watermerk “proforma”.
 
 ### Wat dekt de factuur van een energiegemeenschap?
 
@@ -140,7 +141,7 @@ Niet rechtstreeks: eenmaal uitgereikt krijgt een factuur een wettelijk nummer in
 
 ### Hoe krijgen de leden toegang tot hun facturen?
 
-Elk lid vindt **zijn eigen facturen** in de applicatie en downloadt de pdf wanneer hij wil. Aan beheerderskant is de betalingsopvolging ingebouwd: u registreert betalingen — ook gedeeltelijke —, de factuur springt automatisch op „betaald" en achterstallige facturen worden na de vervaldatum gemarkeerd.
+Elk lid vindt **zijn eigen facturen** in de applicatie en downloadt de pdf wanneer hij wil. Aan beheerderskant is de betalingsopvolging ingebouwd: u registreert betalingen — ook gedeeltelijke —, de factuur springt automatisch op “betaald” en achterstallige facturen worden na de vervaldatum gemarkeerd.
 
 ## Bronnen
 

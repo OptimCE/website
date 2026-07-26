@@ -11,6 +11,7 @@ layout: default
       <h1 class="section__title">{{ t.glossary.title }}</h1>
       <p class="section__subtitle">{{ t.glossary.subtitle }}</p>
       {% if t.glossary.intro %}<p class="glossary-intro">{{ t.glossary.intro }}</p>{% endif %}
+      {{ content }}
     </div>
 
     <div class="glossary-toolbar" data-glossary-toolbar>

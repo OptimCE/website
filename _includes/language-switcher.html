@@ -1,12 +1,23 @@
 {% assign lang = page.lang | default: site.lang %}
 {% assign t = site.data.i18n[lang] %}
 {% assign ref = page.ref %}
+{%- comment -%}
+  The trigger is a real disclosure button: aria-expanded/aria-haspopup are
+  maintained by main.js. The CSS :hover/:focus-within rules stay as progressive
+  enhancement, so the menu still works with JS disabled.
+  The id must be unique — this include is rendered twice (desktop + mobile menu).
+{%- endcomment -%}
+{% assign switcher_id = 'lang-switcher-list-' | append: include.id | default: 'lang-switcher-list' %}
 <div class="lang-switcher">
-  <button class="lang-switcher__trigger" aria-label="{{ lang | upcase }} — {{ t.a11y.language_select }}">
+  <button type="button" class="lang-switcher__trigger"
+          aria-label="{{ lang | upcase }} — {{ t.a11y.language_select }}"
+          aria-haspopup="true"
+          aria-expanded="false"
+          aria-controls="{{ switcher_id }}">
     {{ lang | upcase }}
     <svg viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M3 5l3 3 3-3"/></svg>
   </button>
-  <ul class="lang-switcher__list">
+  <ul class="lang-switcher__list" id="{{ switcher_id }}">
     {% for l in site.languages %}
       {% assign target_url = l.prefix | append: '/' %}
       {% if ref %}

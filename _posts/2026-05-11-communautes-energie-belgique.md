@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Communautés d'énergie en Belgique : CER, CEC, CEL expliqués"
+title: "Communautés d'énergie en Belgique : CER, CEC, CEL"
 date: 2026-05-11 10:00:00 +0200
 author: "Équipe OptimCE"
 excerpt: "Comprendre les communautés d'énergie en Belgique : différences entre CER, CEC et CEL, partage d'énergie, acteurs (CWaPE, GRD), avantages et FAQ."
+description: "CER, CEC et CEL : ce qui les distingue, comment fonctionne le partage d'énergie, le rôle de la CWaPE et du GRD, et ce que vous y gagnez."
 tags: [community, administrative]
 lang: fr
 ref: energy-communities-belgium
@@ -11,6 +12,11 @@ last_modified_at: 2026-07-20 10:00:00 +0200
 ---
 
 Les communautés d'énergie sont au cœur de la transition énergétique en Belgique. Encadrées par l'Union européenne et déclinées par chaque région — Wallonie, Bruxelles, Flandre — elles permettent à des citoyens, des entreprises et des autorités locales de produire, partager et consommer leur propre énergie. Cet article passe en revue les trois formes officielles (CER, CEC, CEL), explique comment fonctionne le partage d'énergie, présente les acteurs clés et résume les bénéfices financiers et écologiques.
+
+<img src="/assets/images/diagrams/community-types-fr.svg"
+     alt="Comparaison des trois statuts de communauté d'énergie : CER, CEC et CEL, avec leurs contraintes de proximité et de périmètre."
+     width="800" height="450" loading="lazy" decoding="async"
+     style="width:100%;height:auto">
 
 ## Qu'est-ce qu'une communauté d'énergie ?
 
@@ -78,7 +84,7 @@ Point essentiel à comprendre : le partage d'énergie est **administratif, pas p
 - **Les régulateurs régionaux** — la [CWaPE](https://www.cwape.be/secteur/communautes-partage-energie) en Wallonie, [BRUGEL](https://environnement.brussels/citoyen/agir-pour-lenvironnement/devenir-eco-responsable/partage-et-communautes-denergie) à Bruxelles, le [Vlaamse Nutsregulator (ex-VREG)](https://www.vlaamsenutsregulator.be) en Flandre — fixent les règles, supervisent les tarifs et publient des guides à destination des communautés.
 - **Les fournisseurs d'énergie** continuent de facturer l'**énergie résiduelle**, c'est-à-dire la part de la consommation non couverte par le partage interne.
 - **Les membres** sont à la fois des prosommateurs (équipés en photovoltaïque par exemple), des consommateurs, des PME ou des autorités locales.
-- **Le gestionnaire de communauté** est l'entité qui pilote la communauté au quotidien : intégration de nouveaux membres, configuration des clés de répartition, reporting au GRD. C'est précisément ce rôle qu'**OptimCE** simplifie : consultez le [guide utilisateur](https://guide.optimce.be) et la liste publique des [opérations de partage ouvertes](/actualites/2026/05/07/nouveautes-release/).
+- **Le gestionnaire de communauté** est l'entité qui pilote la communauté au quotidien : intégration de nouveaux membres, configuration des clés de répartition, reporting au GRD. C'est précisément ce rôle qu'**OptimCE** simplifie : consultez le [guide utilisateur](https://guide.optimce.be) et la liste publique des [opérations de partage ouvertes](https://app.optimce.be).
 
 ## Bénéfices : financiers et écologiques
 
@@ -100,7 +106,7 @@ Les particuliers, les PME et les autorités locales peuvent y participer. La par
 
 ### Comment ma réduction est-elle calculée ?
 
-Le GRD analyse vos relevés au pas de 15 minutes, applique la **clé de répartition** définie par la communauté, et transmet à votre fournisseur la quantité d'énergie partagée à votre profit. Cette part est facturée au tarif négocié dans la communauté, généralement inférieur au tarif marché. Pour le détail des types de clés acceptées dans chaque région, voyez notre guide [« Clé de répartition en Belgique : Wallonie, Bruxelles et Flandre comparées »](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/).
+Le GRD analyse vos relevés au pas de 15 minutes, applique la **clé de répartition** définie par la communauté, et transmet à votre fournisseur la quantité d'énergie partagée à votre profit. Cette part est facturée au tarif négocié dans la communauté, généralement inférieur au tarif marché. Pour le détail des types de clés acceptées dans chaque région, voyez notre guide [« Clé de répartition en Belgique : les 3 régions »](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/).
 
 ### Y a-t-il une limite géographique ?
 
@@ -126,7 +132,7 @@ Via les **compteurs communicants** (smart meters) déployés par les GRD, qui tr
 
 **En Wallonie**, le cadre est stabilisé depuis 2022 et la procédure est entièrement documentée. Nous avons rédigé un guide pas à pas dédié :
 
-> **[Créer une communauté d'énergie en Wallonie : guide étape par étape](/actualites/2026/05/11/creer-communaute-energie-wallonie/)**
+> **[Créer une communauté d'énergie en Wallonie](/actualites/2026/05/11/creer-communaute-energie-wallonie/)**
 >
 > Choix entre CER et CEC, cadrage du projet, notification à la CWaPE, accusé de réception et démarrage du partage avec ORES, RESA ou AIEG.
 
@@ -138,7 +144,7 @@ Via les **compteurs communicants** (smart meters) déployés par les GRD, qui tr
 
 **En Wallonie**, des centaines d'opérations de partage cherchent activement de nouveaux membres. Pas besoin de créer votre propre communauté pour profiter du partage : un guide pratique détaille comment rejoindre une opération existante en quelques semaines.
 
-> **[Rejoindre une communauté d'énergie en Wallonie : guide pratique](/actualites/2026/05/11/rejoindre-communaute-energie-wallonie/)**
+> **[Rejoindre une communauté d'énergie en Wallonie](/actualites/2026/05/11/rejoindre-communaute-energie-wallonie/)**
 >
 > Qui peut adhérer, où trouver une opération ouverte (registre OptimCE, facilitateur SPW, Énergie commune), démarches pas à pas et points de vigilance avant de signer.
 

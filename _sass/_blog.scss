@@ -329,6 +329,16 @@
     border-collapse: collapse;
     font-size: var(--text-base);
 
+    // Comparison tables have 3-4 columns of prose and push the page wider than
+    // the viewport on a phone, which makes the whole body scroll sideways.
+    // Scroll the table itself instead. Scoped to small screens so the desktop
+    // rendering (a real table filling the column) is untouched.
+    @media (max-width: $bp-md) {
+      display: block;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+    }
+
     th, td {
       padding: var(--space-3) var(--space-4);
       text-align: left;
