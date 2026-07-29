@@ -8,6 +8,7 @@ description: "L'énergie ne pèse que 40 % de la facture. Décomposition des qua
 tags: [community, administrative, guide]
 lang: fr
 ref: why-electricity-bill-stays-high
+last_modified_at: 2026-07-28 10:00:00 +0200
 faq:
   - q: "Pourquoi ma facture d'électricité ne baisse-t-elle pas alors que les prix de l'énergie ont baissé ?"
     a: "Parce que le prix de l'énergie ne représente qu'environ 40 % de votre facture. La CREG le chiffre explicitement : « la composante énergie représente environ 40 % de la facture totale d'électricité ». Les 60 % restants sont des coûts de réseau régulés, des taxes, des accises et la TVA. Une baisse de 20 % sur l'énergie ne retire donc que 8 % environ à la facture — et si les tarifs de réseau montent de 6 à 8 % la même année, comme en 2026 en Wallonie et à Bruxelles, le gain est absorbé."
@@ -93,7 +94,7 @@ Un cas particulier pour les prosommateurs : en Flandre, les détenteurs d'un com
 
 C'est le seul endroit de la facture où un ménage wallon peut agir en 2026 avec un effet chiffrable, et il est passé largement inaperçu.
 
-D'abord, **les plages du bihoraire changent**. Elles deviennent identiques tous les jours, week-end compris : heures creuses de **1h à 7h et de 11h à 17h**, heures pleines de **7h à 11h et de 22h à 1h**. Résultat, « 62,5 % des heures de la semaine seront des heures creuses », contre 55 % auparavant ([Test-Achats](https://www.test-achats.be/maison-energie/gaz-electricite-mazout-pellets/dossier/tarification-incitative-electricite), novembre 2025). Le créneau de milieu de journée — celui où le photovoltaïque belge produit le plus — passe en heures creuses.
+D'abord, **les plages du bihoraire changent**. Elles deviennent identiques tous les jours, week-end compris : heures creuses de **11h à 17h et de 22h à 7h**, heures pleines de **7h à 11h et de 17h à 22h** ([grille tarifaire ORES 2026](https://www.cwape.be/sites/default/files/cwape-documents/ORES%20-%20Tarifs%20p%C3%A9riodiques%20de%20pr%C3%A9l%C3%A8vement%202026_0.pdf), approuvée par la CWaPE le 18 décembre 2025). Résultat, « 62,5 % des heures de la semaine seront des heures creuses », contre 55 % auparavant ([Test-Achats](https://www.test-achats.be/maison-energie/gaz-electricite-mazout-pellets/dossier/tarification-incitative-electricite), novembre 2025). Le créneau de milieu de journée — celui où le photovoltaïque belge produit le plus — passe en heures creuses.
 
 Ensuite, un nouveau **tarif Impact** optionnel, réservé aux compteurs communicants dont la communication est activée. Il introduit trois bandes horaires, et l'écart entre elles est considérable. Voici les termes proportionnels de la grille ORES 2026 :
 
@@ -169,6 +170,8 @@ Dans l'ordre d'efficacité décroissante, voici ce sur quoi vous avez prise :
 4. **Envisagez le partage d'énergie** — en attendant un effet sur le bloc énergie, et sur le réseau uniquement si votre partage se fait au sein d'un même bâtiment. Et en intégrant d'emblée les frais éventuels de votre fournisseur dans la simulation.
 
 Ce qu'il ne faut pas attendre : que la baisse des prix de gros, ou celle des accises, se lise clairement sur votre décompte annuel. Elle y est — diluée dans un ensemble dont elle ne représente qu'une fraction.
+
+Et si vous cherchez maintenant la liste des gestes plutôt que l'explication, notre guide [« Réduire sa facture d'électricité : Wallonie 2026 »](/actualites/2026/07/28/reduire-facture-electricite-wallonie-2026/) chiffre dix leviers wallons à partir de la grille tarifaire ORES 2026 — dont six qui ne coûtent rien.
 
 > ### Gérez votre partage d'énergie avec OptimCE
 >

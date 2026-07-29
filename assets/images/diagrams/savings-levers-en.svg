@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-labelledby="t d">
+<title id="t">Ten levers, an order of magnitude</title><desc id="d">Bar chart: ten levers for cutting a Walloon electricity bill, ranked by annual amount at stake — social tariff around €400, prosumer charge €324, comparing offers over €200, energy sharing around €145 with no works and no change of supplier, Impact tariff around €124, shifting consumption around €100. Four further levers depend on circumstances.</desc>
+<rect width="800" height="560" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="60" y="52" font-size="22" fill="#212529" font-weight="700">Ten levers, an order of magnitude</text>
+<text x="60" y="78" font-size="15" fill="#495057" font-weight="400">Annual amount at stake for a Walloon household (3,500 kWh/yr)</text>
+<text x="60" y="129" font-size="14" fill="#ADB5BD" font-weight="700">6.</text>
+<text x="82" y="129" font-size="15" fill="#212529" font-weight="400">Social tariff</text>
+<rect x="310" y="112" width="320.0" height="24" rx="4" fill="#2e7d32"/>
+<text x="640.0" y="129" font-size="15" fill="#212529" font-weight="600">≈ €400</text>
+<text x="60" y="165" font-size="14" fill="#ADB5BD" font-weight="700">8.</text>
+<text x="82" y="165" font-size="15" fill="#212529" font-weight="400">Self-consumption (prosumer)</text>
+<rect x="310" y="148" width="259.2" height="24" rx="4" fill="#a5d6a7"/>
+<text x="579.2" y="165" font-size="15" fill="#212529" font-weight="600">€324 prosumer charge</text>
+<text x="60" y="201" font-size="14" fill="#ADB5BD" font-weight="700">1.</text>
+<text x="82" y="201" font-size="15" fill="#212529" font-weight="400">Compare your offer</text>
+<rect x="310" y="184" width="160.0" height="24" rx="4" fill="#2e7d32"/>
+<text x="480.0" y="201" font-size="15" fill="#212529" font-weight="600">&gt; €200</text>
+<text x="60" y="237" font-size="14" fill="#ADB5BD" font-weight="700">9.</text>
+<text x="82" y="237" font-size="15" fill="#212529" font-weight="400">Energy sharing</text>
+<rect x="310" y="220" width="116.0" height="24" rx="4" fill="#66bb6a"/>
+<text x="436.0" y="237" font-size="15" fill="#212529" font-weight="600">≈ €145</text>
+<text x="740" y="237" font-size="13" fill="#2e7d32" font-weight="600" text-anchor="end">← no works, no new supplier</text>
+<text x="60" y="273" font-size="14" fill="#ADB5BD" font-weight="700">3.</text>
+<text x="82" y="273" font-size="15" fill="#212529" font-weight="400">Impact tariff (water heater)</text>
+<rect x="310" y="256" width="99.2" height="24" rx="4" fill="#2e7d32"/>
+<text x="419.2" y="273" font-size="15" fill="#212529" font-weight="600">≈ €124</text>
+<text x="60" y="309" font-size="14" fill="#ADB5BD" font-weight="700">5.</text>
+<text x="82" y="309" font-size="15" fill="#212529" font-weight="400">Shift and flatten</text>
+<rect x="310" y="292" width="80.0" height="24" rx="4" fill="#66bb6a"/>
+<text x="400.0" y="309" font-size="15" fill="#212529" font-weight="600">≈ €100</text>
+<text x="60" y="345" font-size="14" fill="#ADB5BD" font-weight="700">2.</text>
+<text x="82" y="345" font-size="15" fill="#212529" font-weight="400">Fixed, variable or dynamic</text>
+<rect x="310" y="328" width="44.0" height="24" rx="4" fill="none" stroke="#2e7d32" stroke-width="1.5" stroke-dasharray="4 3" opacity="0.7"/>
+<text x="364.0" y="345" font-size="15" fill="#495057" font-weight="400">varies</text>
+<text x="60" y="381" font-size="14" fill="#ADB5BD" font-weight="700">4.</text>
+<text x="82" y="381" font-size="15" fill="#212529" font-weight="400">Smart meter</text>
+<rect x="310" y="364" width="44.0" height="24" rx="4" fill="none" stroke="#2e7d32" stroke-width="1.5" stroke-dasharray="4 3" opacity="0.7"/>
+<text x="364.0" y="381" font-size="15" fill="#495057" font-weight="400">indirect</text>
+<text x="60" y="417" font-size="14" fill="#ADB5BD" font-weight="700">7.</text>
+<text x="82" y="417" font-size="15" fill="#212529" font-weight="400">Habitation grants</text>
+<rect x="310" y="400" width="44.0" height="24" rx="4" fill="none" stroke="#a5d6a7" stroke-width="1.5" stroke-dasharray="4 3" opacity="0.7"/>
+<text x="364.0" y="417" font-size="15" fill="#495057" font-weight="400">depends on works</text>
+<text x="60" y="453" font-size="14" fill="#ADB5BD" font-weight="700">10.</text>
+<text x="82" y="453" font-size="15" fill="#212529" font-weight="400">Walloon Energy Desks</text>
+<rect x="310" y="436" width="44.0" height="24" rx="4" fill="none" stroke="#2e7d32" stroke-width="1.5" stroke-dasharray="4 3" opacity="0.7"/>
+<text x="364.0" y="453" font-size="15" fill="#495057" font-weight="400">free advice</text>
+<line x1="60" y1="472" x2="740" y2="472" stroke="#DEE2E6" stroke-width="1"/>
+<rect x="60" y="492" width="14" height="14" rx="3" fill="#2e7d32" stroke="#DEE2E6"/>
+<text x="82" y="504" font-size="14" fill="#212529" font-weight="400">Free</text>
+<rect x="123" y="492" width="14" height="14" rx="3" fill="#66bb6a" stroke="#DEE2E6"/>
+<text x="145" y="504" font-size="14" fill="#212529" font-weight="400">Low cost (≤ €400)</text>
+<rect x="287" y="492" width="14" height="14" rx="3" fill="#a5d6a7" stroke="#DEE2E6"/>
+<text x="309" y="504" font-size="14" fill="#212529" font-weight="400">Investment</text>
+<text x="60" y="544" font-size="12" fill="#ADB5BD" font-weight="400">Sources: ORES/CWaPE 2026, CREG note Z3230, Énergie Commune — OptimCE calculations; savings do not add up</text>
+</g>
+</svg>

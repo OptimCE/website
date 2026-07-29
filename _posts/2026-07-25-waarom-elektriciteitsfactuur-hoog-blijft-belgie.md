@@ -8,6 +8,7 @@ description: "Energie is maar 40 % van de factuur. De vier blokken uitgesplitst,
 tags: [community, administrative, guide]
 lang: nl
 ref: why-electricity-bill-stays-high
+last_modified_at: 2026-07-28 10:00:00 +0200
 permalink: /nl/nieuws/2026/07/25/waarom-elektriciteitsfactuur-hoog-blijft-belgie/
 faq:
   - q: "Waarom daalt mijn elektriciteitsfactuur niet terwijl de energieprijzen zijn gezakt?"
@@ -94,7 +95,7 @@ Eén bijzonder geval voor prosumenten: in Vlaanderen krijgen houders van een ter
 
 Dit is de enige plek in de factuur waar een Waals gezin in 2026 met een becijferbaar effect kan ingrijpen, en ze is grotendeels onopgemerkt gebleven.
 
-Eerst en vooral **veranderen de uurblokken van het tweevoudig tarief**. Ze worden elke dag identiek, weekend inbegrepen: dalstonden van **1u tot 7u en van 11u tot 17u**, piekuren van **7u tot 11u en van 22u tot 1u**. Daardoor wordt 62,5 % van de uren van de week een dalstond, tegenover 55 % voordien ([Test-Aankoop](https://www.test-achats.be/maison-energie/gaz-electricite-mazout-pellets/dossier/tarification-incitative-electricite), november 2025). Het venster midden op de dag — precies wanneer de Belgische fotovoltaïsche productie het hoogst is — schuift naar de dalstonden.
+Eerst en vooral **veranderen de uurblokken van het tweevoudig tarief**. Ze worden elke dag identiek, weekend inbegrepen: dalstonden van **11u tot 17u en van 22u tot 7u**, piekuren van **7u tot 11u en van 17u tot 22u** ([ORES-tarieflijst 2026](https://www.cwape.be/sites/default/files/cwape-documents/ORES%20-%20Tarifs%20p%C3%A9riodiques%20de%20pr%C3%A9l%C3%A8vement%202026_0.pdf), op 18 december 2025 goedgekeurd door de CWaPE). Daardoor wordt 62,5 % van de uren van de week een dalstond, tegenover 55 % voordien ([Test-Aankoop](https://www.test-achats.be/maison-energie/gaz-electricite-mazout-pellets/dossier/tarification-incitative-electricite), november 2025). Het venster midden op de dag — precies wanneer de Belgische fotovoltaïsche productie het hoogst is — schuift naar de dalstonden.
 
 Daarnaast komt er een nieuw, optioneel **Impact-tarief**, voorbehouden aan digitale meters met geactiveerde communicatie. Het voert drie uurblokken in, en het verschil daartussen is aanzienlijk. Dit zijn de proportionele termen uit het ORES-raster 2026:
 
@@ -170,6 +171,8 @@ In afnemende orde van doeltreffendheid, dit is waarop u greep hebt:
 4. **Overweeg energiedelen** — met een effect op het energieblok, en op het net alleen als uw delen binnen hetzelfde gebouw gebeurt. En neem de mogelijke kosten van uw leverancier van meet af aan mee in de simulatie.
 
 Wat u niet mag verwachten: dat de daling van de groothandelsprijzen of van de accijnzen duidelijk leesbaar wordt op uw jaarafrekening. Ze zit er wel in — verdund in een geheel waarvan ze slechts een fractie vormt.
+
+En zoekt u nu de lijst met stappen in plaats van de uitleg: onze gids [“Elektriciteitsfactuur verlagen: Wallonië 2026”](/nl/nieuws/2026/07/28/elektriciteitsfactuur-verlagen-wallonie-2026/) becijfert tien Waalse hefbomen op basis van de ORES-tarieflijst 2026 — zes daarvan kosten niets.
 
 > ### Beheer uw energiedelen met OptimCE
 >

@@ -8,7 +8,7 @@ description: "The real savings levers, a worked example, what differs between Wa
 tags: [community]
 lang: en
 ref: reduce-electricity-bill
-last_modified_at: 2026-07-25 10:00:00 +0200
+last_modified_at: 2026-07-28 10:00:00 +0200
 permalink: /en/news/2026/06/03/energy-community-reduce-electricity-bill/
 ---
 
@@ -84,6 +84,8 @@ Sharing benefits all members, but some profiles get more out of it:
 - **Prosumers** (panel owners): they cut their bill *and* monetise their surplus to other members, on top of green certificates. Their payback shortens accordingly.
 - **Tenants without a roof**, who can access cheaper local electricity without installing anything.
 - **SMEs and local authorities**, whose roof space or consumption profiles suit sharing well, with a direct impact on their costs.
+
+Energy sharing is obviously not the only lever available to you. If you live in Wallonia, our guide [“Reduce your electricity bill: Wallonia 2026”](/en/news/2026/07/28/reduce-electricity-bill-wallonia-2026/) places the energy community among ten costed levers, from CWaPE's official comparator to the social tariff.
 
 ## FAQ
 

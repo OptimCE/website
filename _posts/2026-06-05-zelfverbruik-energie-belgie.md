@@ -8,7 +8,7 @@ description: "Zelfverbruiksgraad en hoe u die verhoogt, collectief zelfverbruik,
 tags: [community]
 lang: nl
 ref: self-consumption-belgium
-last_modified_at: 2026-07-25 10:00:00 +0200
+last_modified_at: 2026-07-28 10:00:00 +0200
 permalink: /nl/nieuws/2026/06/05/zelfverbruik-energie-belgie/
 faq:
   - q: "Wat is de zelfverbruiksgraad?"
@@ -96,6 +96,8 @@ Het principe van zelfverbruik is overal gelijk, maar de actoren en de maturiteit
 - **De keuze van een verdeelsleutel** bepaalt het aan elk lid toegewezen productieaandeel.
 - **U behoudt uw leverancier**: hij factureert alleen nog de restenergie die niet gedekt is door uw productie of door het delen.
 - **Vooral in Brussel** kunnen producenten een bijkomend inkomen halen via **groenestroomcertificaten** tijdens de eerste jaren van hun installatie.
+
+Aan Waalse zijde veranderen het prosumententarief, de tot 2030 gewaarborgde compensatie en de arbitrage die het Impact-tarief mogelijk maakt de rekensom van een installatie of een batterij: we becijferen ze in [“Elektriciteitsfactuur verlagen: Wallonië 2026”](/nl/nieuws/2026/07/28/elektriciteitsfactuur-verlagen-wallonie-2026/).
 
 ## FAQ
 

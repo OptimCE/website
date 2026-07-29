@@ -57,6 +57,27 @@
     de: ["Vereinigung ohne Erwerbszweck"]
     nl: ["vereniging zonder winstoogmerk", "ASBL"]
 
+- slug: audit-logement
+  categorie: reglementaire
+  tags: [audit, prime, renovation, wallonie]
+  source_nom: "SPW Logement"
+  source_url: "https://logement.wallonie.be/fr/aide/primes-habitation-2025"
+  terme:
+    fr: "Audit logement"
+    en: "Housing audit"
+    de: "Wohnungsaudit"
+    nl: "Woningaudit"
+  definition:
+    fr: "Diagnostic réalisé par un auditeur agréé qui établit un rapport et un ordre de priorité des travaux. En Wallonie, il conditionne la quasi-totalité des primes Habitation — seules les interventions sur la toiture en sont dispensées — et les droits qu'il ouvre restent acquis huit ans."
+    en: "An assessment carried out by an approved auditor who produces a report and a prioritised list of works. In Wallonia it is a precondition for almost every Habitation grant — only roof interventions are exempt — and the entitlements it opens remain valid for eight years."
+    de: "Von einem zugelassenen Auditor erstellte Bestandsaufnahme mit Bericht und Rangfolge der Arbeiten. In Wallonien ist sie Voraussetzung für nahezu jede Wohnungsprämie — nur Eingriffe am Dach sind davon befreit — und die damit eröffneten Ansprüche bleiben acht Jahre bestehen."
+    nl: "Doorlichting door een erkende auditor die een verslag en een volgorde van de werken opstelt. In Wallonië is die voorwaarde voor nagenoeg elke woonpremie — alleen ingrepen aan het dak zijn vrijgesteld — en de rechten die ze opent, blijven acht jaar geldig."
+  alias:
+    fr: ["audit énergétique"]
+    en: ["energy audit"]
+    de: ["Energieaudit"]
+    nl: ["energieaudit"]
+
 - slug: autoconsommation
   categorie: autoconsommation
   tags: [production, consommation, local]
@@ -586,6 +607,27 @@
     de: ["Übertragungsnetzbetreiber", "ÜNB"]
     nl: ["transmissienetbeheerder", "TNB"]
 
+- slug: guichet-energie
+  categorie: reglementaire
+  tags: [conseil, wallonie, spw]
+  source_nom: "SPW Énergie"
+  source_url: "https://energie.wallonie.be/home/contacts/guichets-energie-wallonie.html"
+  terme:
+    fr: "Guichet Énergie Wallonie"
+    en: "Walloon Energy Desk"
+    de: "Energieschalter der Wallonie"
+    nl: "Energieloket van Wallonië"
+  definition:
+    fr: "Réseau de 16 espaces et 40 consultants du Service public de Wallonie qui délivrent un conseil technique personnalisé, neutre et entièrement gratuit sur l'énergie dans l'habitat : primes, tarifs, isolation, chauffage, photovoltaïque. Premier contact par le numéro vert 1718."
+    en: "A network of 16 offices and 40 consultants run by the Walloon public service, providing personalised, neutral and entirely free technical advice on household energy: grants, tariffs, insulation, heating, photovoltaics. First contact through the 1718 freephone number."
+    de: "Netz aus 16 Anlaufstellen und 40 Beratern des Öffentlichen Dienstes der Wallonie, die persönliche, neutrale und vollständig kostenlose technische Beratung zu Energie im Wohnbereich bieten: Prämien, Tarife, Dämmung, Heizung, Photovoltaik. Erster Kontakt über die grüne Nummer 1718."
+    nl: "Netwerk van 16 loketten en 40 consulenten van de Waalse Overheidsdienst die persoonlijk, neutraal en volledig gratis technisch advies geven over energie in de woning: premies, tarieven, isolatie, verwarming, zonnepanelen. Eerste contact via het groene nummer 1718."
+  alias:
+    fr: ["Guichets Énergie Wallonie", "Guichet Énergie"]
+    en: ["Walloon Energy Desks"]
+    de: ["Energieschalter"]
+    nl: ["Energieloketten van Wallonië", "Energieloket"]
+
 - slug: injection
   categorie: reseau
   tags: [production, reseau, surplus]
@@ -775,6 +817,27 @@
     de: []
     nl: []
 
+- slug: prime-habitation
+  categorie: reglementaire
+  tags: [prime, renovation, wallonie, logement]
+  source_nom: "SPW Logement"
+  source_url: "https://logement.wallonie.be/fr/aide/primes-habitation-2025"
+  terme:
+    fr: "Prime Habitation"
+    en: "Habitation grant"
+    de: "Wohnungsprämie"
+    nl: "Woonpremie"
+  definition:
+    fr: "Aide régionale wallonne à la rénovation du logement, conditionnée à un audit logement préalable. Le régime de soutien temporaire court jusqu'au 30 septembre 2026 ; un nouveau régime articulé autour du Rénopack et du Rénoprêt doit prendre le relais au 1er octobre 2026."
+    en: "Walloon regional support for home renovation, conditional on a prior housing audit. The temporary support scheme runs until 30 September 2026; a new scheme built around the Rénopack and Rénoprêt is due to take over on 1 October 2026."
+    de: "Wallonische Regionalbeihilfe für die Wohnungsrenovierung, die ein vorheriges Wohnungsaudit voraussetzt. Die befristete Förderregelung läuft bis zum 30. September 2026; eine neue Regelung rund um Rénopack und Rénoprêt soll am 1. Oktober 2026 übernehmen."
+    nl: "Waalse gewestelijke steun voor woningrenovatie, afhankelijk van een voorafgaande woningaudit. De tijdelijke steunregeling loopt tot 30 september 2026; een nieuwe regeling rond de Rénopack en de Rénoprêt zou het op 1 oktober 2026 moeten overnemen."
+  alias:
+    fr: ["primes Habitation"]
+    en: ["Habitation grants"]
+    de: ["Wohnungsprämien"]
+    nl: ["woonpremies"]
+
 - slug: prix-de-cession-interne
   categorie: facturation
   tags: [prix, partage, contrat]
@@ -922,6 +985,27 @@
     de: []
     nl: []
 
+- slug: tarif-bihoraire
+  categorie: reseau
+  tags: [tarif, reseau, heures, wallonie]
+  source_nom: ORES
+  source_url: "https://www.ores.be/comprendre-ma-facture/tarifs-distribution-2026"
+  terme:
+    fr: "Tarif bihoraire"
+    en: "Dual-rate tariff"
+    de: "Zweitarif"
+    nl: "Tweevoudig tarief"
+  definition:
+    fr: "Formule de tarif de réseau qui distingue deux plages horaires. Depuis 2026 en Wallonie, elles sont identiques tous les jours, week-end compris : heures creuses de 11h à 17h et de 22h à 7h, heures pleines de 7h à 11h et de 17h à 22h. Ne pas confondre avec les bandes du tarif Impact, qui sont différentes."
+    en: "A network tariff formula distinguishing two time bands. Since 2026 in Wallonia they are identical every day, weekends included: off-peak from 11:00 to 17:00 and from 22:00 to 07:00, peak from 07:00 to 11:00 and from 17:00 to 22:00. Not to be confused with the Impact tariff bands, which differ."
+    de: "Netztarifformel mit zwei Zeitfenstern. Seit 2026 sind sie in Wallonien an allen Tagen gleich, Wochenende eingeschlossen: Schwachlast von 11 bis 17 Uhr und von 22 bis 7 Uhr, Hochlast von 7 bis 11 Uhr und von 17 bis 22 Uhr. Nicht zu verwechseln mit den Bändern des Impact-Tarifs, die anders liegen."
+    nl: "Nettariefformule met twee uurblokken. Sinds 2026 zijn die in Wallonië elke dag identiek, weekend inbegrepen: daluren van 11 tot 17 uur en van 22 tot 7 uur, piekuren van 7 tot 11 uur en van 17 tot 22 uur. Niet te verwarren met de blokken van het Impact-tarief, die anders liggen."
+  alias:
+    fr: ["bihoraire", "heures creuses", "heures pleines"]
+    en: ["dual-rate", "off-peak hours", "peak hours"]
+    de: ["Schwachlastzeiten", "Hochlastzeiten"]
+    nl: ["daluren", "piekuren"]
+
 - slug: tarif-injection
   categorie: facturation
   tags: [injection, prix, surplus]
@@ -942,6 +1026,27 @@
     en: ["buyback tariff", "feed-in tariff"]
     de: ["Rückkauftarif"]
     nl: ["terugkooptarief", "terugleveringstarief"]
+
+- slug: tarif-prosumer
+  categorie: reseau
+  tags: [tarif, reseau, photovoltaique, wallonie]
+  source_nom: ORES
+  source_url: "https://www.ores.be/particulier/compensation-avant-0101"
+  terme:
+    fr: "Tarif prosumer"
+    en: "Prosumer tariff"
+    de: "Prosumer-Tarif"
+    nl: "Prosumententarief"
+  definition:
+    fr: "Contribution aux coûts de réseau due par les détenteurs d'une installation photovoltaïque en Wallonie, calculée sur la puissance nette développable — 80,98 €/kWe sur la grille ORES 2026. Elle ne s'applique sous forme forfaitaire qu'aux compteurs qui n'enregistrent pas les prélèvements bruts réels."
+    en: "A contribution to network costs owed by owners of a photovoltaic installation in Wallonia, calculated on net deliverable capacity — €80.98/kWe on the ORES 2026 schedule. It applies as a flat charge only to meters that do not record actual gross withdrawals."
+    de: "Beitrag zu den Netzkosten, den Betreiber einer Photovoltaikanlage in Wallonien schulden, berechnet auf die netto verfügbare Leistung — 80,98 €/kWe nach der ORES-Tarifliste 2026. Als Pauschale gilt er nur für Zähler, die die tatsächlichen Bruttoentnahmen nicht erfassen."
+    nl: "Bijdrage in de netkosten die eigenaars van een fotovoltaïsche installatie in Wallonië verschuldigd zijn, berekend op het netto ontwikkelbaar vermogen — 80,98 €/kWe volgens de ORES-tarieflijst 2026. Als forfait geldt hij enkel voor meters die de werkelijke bruto-afname niet registreren."
+  alias:
+    fr: ["redevance prosumer"]
+    en: ["prosumer charge"]
+    de: ["Prosumententarif"]
+    nl: ["prosumertarief"]
 
 - slug: tarif-reseau
   categorie: facturation

@@ -8,7 +8,7 @@ description: "Eigenverbrauchsquote und wie man sie erhöht, kollektiver Eigenver
 tags: [community]
 lang: de
 ref: self-consumption-belgium
-last_modified_at: 2026-07-25 10:00:00 +0200
+last_modified_at: 2026-07-28 10:00:00 +0200
 permalink: /de/aktuelles/2026/06/05/eigenverbrauch-energie-belgien/
 faq:
   - q: "Was ist die Eigenverbrauchsquote?"
@@ -96,6 +96,8 @@ Das Prinzip des Eigenverbrauchs ist überall gleich, doch die Akteure und der Re
 - **Die Wahl eines Aufteilungsschlüssels** bestimmt den jedem Mitglied zugewiesenen Produktionsanteil.
 - **Sie behalten Ihren Lieferanten**: Er rechnet nur noch die Restenergie ab, die nicht durch Ihre Produktion oder das Teilen gedeckt ist.
 - **Besonders in Brüssel** können Erzeuger in den ersten Jahren ihrer Anlage über **Grünstromzertifikate** ein Zusatzeinkommen erzielen.
+
+Auf wallonischer Seite verändern der Prosumer-Tarif, die bis 2030 gesicherte Kompensation und die durch den Impact-Tarif eröffnete Arbitrage die Rechnung für eine Anlage oder eine Batterie: Wir beziffern sie in [„Stromrechnung senken: Wallonien 2026“](/de/aktuelles/2026/07/28/stromrechnung-senken-wallonien-2026/).
 
 ## FAQ
 

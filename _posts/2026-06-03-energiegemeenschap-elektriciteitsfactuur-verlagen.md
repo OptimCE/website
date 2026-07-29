@@ -8,7 +8,7 @@ description: "Waar de besparing echt vandaan komt, een rekenvoorbeeld, de versch
 tags: [community]
 lang: nl
 ref: reduce-electricity-bill
-last_modified_at: 2026-07-25 10:00:00 +0200
+last_modified_at: 2026-07-28 10:00:00 +0200
 permalink: /nl/nieuws/2026/06/03/energiegemeenschap-elektriciteitsfactuur-verlagen/
 ---
 
@@ -84,6 +84,8 @@ Het delen komt alle leden ten goede, maar sommige profielen halen er meer uit:
 - **Prosumenten** (eigenaars van panelen): ze verlagen hun factuur *én* valoriseren hun overschot bij de andere leden, bovenop de groenestroomcertificaten. Hun terugverdientijd verkort daardoor.
 - **Huurders zonder dak**, die toegang krijgen tot goedkopere lokale elektriciteit zonder iets te installeren.
 - **Kmo's en lokale overheden**, waarvan de dakoppervlakken of verbruiksprofielen zich goed lenen tot delen, met een directe impact op hun kosten.
+
+Energiedelen is uiteraard niet de enige hefboom die u ter beschikking staat. Woont u in Wallonië, dan plaatst onze gids [“Elektriciteitsfactuur verlagen: Wallonië 2026”](/nl/nieuws/2026/07/28/elektriciteitsfactuur-verlagen-wallonie-2026/) de energiegemeenschap tussen tien becijferde hefbomen, van de officiële vergelijker van de CWaPE tot het sociaal tarief.
 
 ## FAQ
 

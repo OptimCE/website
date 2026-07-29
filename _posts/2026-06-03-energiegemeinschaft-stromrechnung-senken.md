@@ -8,7 +8,7 @@ description: "Woher die Ersparnis wirklich kommt, ein Rechenbeispiel, die Unters
 tags: [community]
 lang: de
 ref: reduce-electricity-bill
-last_modified_at: 2026-07-25 10:00:00 +0200
+last_modified_at: 2026-07-28 10:00:00 +0200
 permalink: /de/aktuelles/2026/06/03/energiegemeinschaft-stromrechnung-senken/
 ---
 
@@ -84,6 +84,8 @@ Das Teilen kommt allen Mitgliedern zugute, doch manche Profile holen mehr heraus
 - **Prosumenten** (Panel-Eigentümer): Sie senken ihre Rechnung *und* verwerten ihren Überschuss bei den anderen Mitgliedern, zusätzlich zu den Grünstromzertifikaten. Ihre Amortisationszeit verkürzt sich dadurch.
 - **Mieter ohne Dach**, die Zugang zu günstigerem lokalem Strom erhalten, ohne etwas zu installieren.
 - **KMU und lokale Behörden**, deren Dachflächen oder Verbrauchsprofile sich gut zum Teilen eignen, mit direkter Auswirkung auf ihre Kosten.
+
+Die Energieteilung ist selbstverständlich nicht der einzige verfügbare Hebel. Wenn Sie in Wallonien wohnen, ordnet unser Leitfaden [„Stromrechnung senken: Wallonien 2026“](/de/aktuelles/2026/07/28/stromrechnung-senken-wallonien-2026/) die Energiegemeinschaft in zehn bezifferte Hebel ein, vom offiziellen Vergleichsrechner der CWaPE bis zum Sozialtarif.
 
 ## FAQ
 

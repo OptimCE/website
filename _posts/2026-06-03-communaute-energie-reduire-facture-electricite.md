@@ -8,7 +8,7 @@ description: "Les leviers d'économie réels, un exemple chiffré, ce qui change
 tags: [community]
 lang: fr
 ref: reduce-electricity-bill
-last_modified_at: 2026-07-25 10:00:00 +0200
+last_modified_at: 2026-07-28 10:00:00 +0200
 ---
 
 Depuis 2022, les factures d'électricité belges ont connu des hausses brutales et imprévisibles. Face à cette volatilité, les communautés d'énergie offrent un levier concret et durable : payer son électricité **moins cher** et à un **prix plus stable**, sans changer de fournisseur ni installer le moindre panneau solaire. Cet article explique précisément comment ce gain se construit, jusqu'où il peut aller, ce qui change d'une région à l'autre, et qui en profite le plus. Et si vous vous demandez d'abord *pourquoi* votre facture reste élevée alors que les prix de l'énergie ont baissé, commencez par notre décomposition [« Facture d'électricité : pourquoi elle reste élevée »](/actualites/2026/07/25/pourquoi-facture-electricite-reste-elevee-belgique/) : elle chiffre bloc par bloc ce sur quoi le partage agit — et ce sur quoi il n'agit pas.
@@ -83,6 +83,8 @@ Le partage profite à tous les membres, mais certains profils en tirent davantag
 - **Les prosommateurs** (propriétaires de panneaux) : ils réduisent leur facture *et* valorisent leur surplus auprès des autres membres, en plus des certificats verts. Leur retour sur investissement s'en trouve raccourci.
 - **Les locataires sans toiture**, qui peuvent accéder à de l'électricité locale et moins chère sans rien installer.
 - **Les PME et autorités locales**, dont les surfaces de toiture ou les profils de consommation se prêtent bien au partage, avec un impact direct sur leurs charges.
+
+Le partage d'énergie n'est évidemment pas le seul levier à votre disposition. Si vous habitez la Wallonie, notre guide [« Réduire sa facture d'électricité : Wallonie 2026 »](/actualites/2026/07/28/reduire-facture-electricite-wallonie-2026/) replace la communauté d'énergie parmi dix leviers chiffrés, du comparateur officiel de la CWaPE au tarif social.
 
 ## FAQ
 

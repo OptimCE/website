@@ -8,7 +8,7 @@ description: "Taux d'autoconsommation et comment l'augmenter, autoconsommation c
 tags: [community]
 lang: fr
 ref: self-consumption-belgium
-last_modified_at: 2026-07-25 10:00:00 +0200
+last_modified_at: 2026-07-28 10:00:00 +0200
 faq:
   - q: "Qu'est-ce que le taux d'autoconsommation ?"
     a: "C'est la part de votre production solaire que vous consommez vous-même, au lieu de l'injecter sur le réseau. Un taux de 30 % signifie que vous consommez directement 30 % de ce que vos panneaux produisent ; le reste est injecté. Plus le taux est élevé, plus vous valorisez votre production."
@@ -95,6 +95,8 @@ Le principe de l'autoconsommation est identique partout, mais les acteurs et l'�
 - **Le choix d'une clé de répartition** conditionne la part de production attribuée à chacun.
 - **Vous gardez votre fournisseur** : il ne facture plus que l'énergie résiduelle, non couverte par votre production ou le partage.
 - **À Bruxelles notamment**, les producteurs peuvent percevoir un revenu complémentaire via les **certificats verts** durant les premières années de leur installation.
+
+Côté wallon, le tarif prosumer, la compensation garantie jusqu'en 2030 et l'arbitrage rendu possible par le tarif Impact changent le calcul d'une installation ou d'une batterie : nous les chiffrons dans [« Réduire sa facture d'électricité : Wallonie 2026 »](/actualites/2026/07/28/reduire-facture-electricite-wallonie-2026/).
 
 ## FAQ
 

@@ -8,7 +8,7 @@ description: "The self-consumption rate and how to raise it, collective self-con
 tags: [community]
 lang: en
 ref: self-consumption-belgium
-last_modified_at: 2026-07-25 10:00:00 +0200
+last_modified_at: 2026-07-28 10:00:00 +0200
 permalink: /en/news/2026/06/05/energy-self-consumption-belgium/
 faq:
   - q: "What is the self-consumption rate?"
@@ -96,6 +96,8 @@ The principle of self-consumption is identical everywhere, but the actors and th
 - **The choice of allocation key** determines the share of production assigned to each member.
 - **You keep your supplier**: they bill only the residual energy not covered by your production or by sharing.
 - **In Brussels in particular**, producers can earn extra income via **green certificates** during the first years of their installation.
+
+On the Walloon side, the prosumer tariff, compensation secured until 2030 and the arbitrage opened up by the Impact tariff change the maths of an installation or a battery: we cost them out in [“Reduce your electricity bill: Wallonia 2026”](/en/news/2026/07/28/reduce-electricity-bill-wallonia-2026/).
 
 ## FAQ
 

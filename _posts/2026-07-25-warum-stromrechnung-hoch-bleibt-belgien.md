@@ -8,6 +8,7 @@ description: "Energie macht nur 40 % der Rechnung aus. Die vier Blöcke aufgesch
 tags: [community, administrative, guide]
 lang: de
 ref: why-electricity-bill-stays-high
+last_modified_at: 2026-07-28 10:00:00 +0200
 permalink: /de/aktuelles/2026/07/25/warum-stromrechnung-hoch-bleibt-belgien/
 faq:
   - q: "Warum sinkt meine Stromrechnung nicht, obwohl die Energiepreise gefallen sind?"
@@ -94,7 +95,7 @@ Ein Sonderfall für Prosumenten: in Flandern wird Besitzern eines rückwärtslau
 
 Dies ist die einzige Stelle der Rechnung, an der ein wallonischer Haushalt 2026 mit bezifferbarer Wirkung eingreifen kann — und sie ist weitgehend unbemerkt geblieben.
 
-Zunächst **ändern sich die Zeitfenster des Zweifachtarifs**. Sie werden an jedem Tag identisch, Wochenende inbegriffen: Schwachlast von **1 bis 7 Uhr und von 11 bis 17 Uhr**, Spitzenlast von **7 bis 11 Uhr und von 22 bis 1 Uhr**. Damit werden 62,5 % der Wochenstunden zu Schwachlaststunden, gegenüber zuvor 55 % ([Test-Achats](https://www.test-achats.be/maison-energie/gaz-electricite-mazout-pellets/dossier/tarification-incitative-electricite), November 2025). Das Fenster in der Tagesmitte — genau dann, wenn die belgische Photovoltaik am meisten produziert — rückt in die Schwachlast.
+Zunächst **ändern sich die Zeitfenster des Zweifachtarifs**. Sie werden an jedem Tag identisch, Wochenende inbegriffen: Schwachlast von **11 bis 17 Uhr und von 22 bis 7 Uhr**, Spitzenlast von **7 bis 11 Uhr und von 17 bis 22 Uhr** ([ORES-Tarifliste 2026](https://www.cwape.be/sites/default/files/cwape-documents/ORES%20-%20Tarifs%20p%C3%A9riodiques%20de%20pr%C3%A9l%C3%A8vement%202026_0.pdf), von der CWaPE am 18. Dezember 2025 genehmigt). Damit werden 62,5 % der Wochenstunden zu Schwachlaststunden, gegenüber zuvor 55 % ([Test-Achats](https://www.test-achats.be/maison-energie/gaz-electricite-mazout-pellets/dossier/tarification-incitative-electricite), November 2025). Das Fenster in der Tagesmitte — genau dann, wenn die belgische Photovoltaik am meisten produziert — rückt in die Schwachlast.
 
 Hinzu kommt ein neuer, optionaler **Impact-Tarif**, vorbehalten intelligenten Zählern mit aktivierter Kommunikation. Er führt drei Zeitbänder ein, und der Abstand zwischen ihnen ist erheblich. Hier die proportionalen Terme aus dem ORES-Raster 2026:
 
@@ -170,6 +171,8 @@ In absteigender Reihenfolge der Wirksamkeit, hierauf haben Sie Einfluss:
 4. **Ziehen Sie die Energieteilung in Betracht** — mit einer Wirkung auf den Energieblock und auf das Netz nur dann, wenn Ihre Teilung innerhalb desselben Gebäudes erfolgt. Und nehmen Sie die möglichen Kosten Ihres Lieferanten von Anfang an in die Simulation auf.
 
 Was Sie nicht erwarten sollten: dass der Rückgang der Großhandelspreise oder der Akzisen sich klar auf Ihrer Jahresabrechnung ablesen lässt. Er steckt darin — verdünnt in einem Ganzen, von dem er nur einen Bruchteil ausmacht.
+
+Und wenn Sie nun die Liste der Schritte statt der Erklärung suchen: Unser Leitfaden [„Stromrechnung senken: Wallonien 2026“](/de/aktuelles/2026/07/28/stromrechnung-senken-wallonien-2026/) beziffert zehn wallonische Hebel auf Grundlage der ORES-Tarifliste 2026 — sechs davon kosten nichts.
 
 > ### Verwalten Sie Ihre Energieteilung mit OptimCE
 >

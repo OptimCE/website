@@ -8,6 +8,7 @@ description: "Energy is only 40% of the bill. A breakdown of the four blocks, th
 tags: [community, administrative, guide]
 lang: en
 ref: why-electricity-bill-stays-high
+last_modified_at: 2026-07-28 10:00:00 +0200
 permalink: /en/news/2026/07/25/why-electricity-bill-still-high-belgium/
 faq:
   - q: "Why is my electricity bill not falling even though energy prices have dropped?"
@@ -94,7 +95,7 @@ One special case for prosumers: in Flanders, holders of a reversing meter face a
 
 This is the one place in the bill where a Walloon household can act in 2026 with a quantifiable effect, and it has gone largely unnoticed.
 
-First, **the dual-rate time bands change**. They become identical every day, weekends included: off-peak from **1am to 7am and from 11am to 5pm**, peak from **7am to 11am and from 10pm to 1am**. As a result, 62.5 % of the hours in the week become off-peak, against 55 % previously ([Test-Achats](https://www.test-achats.be/maison-energie/gaz-electricite-mazout-pellets/dossier/tarification-incitative-electricite), November 2025). The midday window — precisely when Belgian photovoltaics produce most — moves into off-peak.
+First, **the dual-rate time bands change**. They become identical every day, weekends included: off-peak from **11am to 5pm and from 10pm to 7am**, peak from **7am to 11am and from 5pm to 10pm** ([ORES 2026 tariff schedule](https://www.cwape.be/sites/default/files/cwape-documents/ORES%20-%20Tarifs%20p%C3%A9riodiques%20de%20pr%C3%A9l%C3%A8vement%202026_0.pdf), approved by CWaPE on 18 December 2025). As a result, 62.5 % of the hours in the week become off-peak, against 55 % previously ([Test-Achats](https://www.test-achats.be/maison-energie/gaz-electricite-mazout-pellets/dossier/tarification-incitative-electricite), November 2025). The midday window — precisely when Belgian photovoltaics produce most — moves into off-peak.
 
 Second, a new optional **Impact tariff**, reserved for smart meters with communication enabled. It introduces three time bands, and the gap between them is considerable. Here are the proportional terms from the 2026 ORES grid:
 
@@ -170,6 +171,8 @@ In decreasing order of effectiveness, here is what you have leverage over:
 4. **Consider energy sharing** — expecting an effect on the energy block, and on the network only if your sharing happens within a single building. And factoring your supplier's possible fees into the simulation from the start.
 
 What not to expect: that the fall in wholesale prices, or in excise duties, will read clearly off your annual statement. It is in there — diluted in a total of which it is only a fraction.
+
+And if what you want now is the list of actions rather than the explanation, our guide [“Reduce your electricity bill: Wallonia 2026”](/en/news/2026/07/28/reduce-electricity-bill-wallonia-2026/) costs out ten Walloon levers from the ORES 2026 tariff schedule — six of which cost nothing.
 
 > ### Manage your energy sharing with OptimCE
 >

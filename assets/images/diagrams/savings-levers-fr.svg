@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-labelledby="t d">
+<title id="t">Dix leviers, un ordre de grandeur</title><desc id="d">Diagramme en barres : dix leviers de réduction de la facture d'électricité en Wallonie, classés par montant annuel en jeu — tarif social environ 400 €, tarif prosumer 324 €, comparaison des offres plus de 200 €, partage d'énergie environ 145 € sans travaux ni changement de fournisseur, tarif Impact environ 124 €, déplacement des consommations environ 100 €. Quatre autres leviers dépendent de la situation.</desc>
+<rect width="800" height="560" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="60" y="52" font-size="22" fill="#212529" font-weight="700">Dix leviers, un ordre de grandeur</text>
+<text x="60" y="78" font-size="15" fill="#495057" font-weight="400">Montant annuel en jeu pour un ménage wallon (3 500 kWh/an)</text>
+<text x="60" y="129" font-size="14" fill="#ADB5BD" font-weight="700">6.</text>
+<text x="82" y="129" font-size="15" fill="#212529" font-weight="400">Tarif social</text>
+<rect x="310" y="112" width="320.0" height="24" rx="4" fill="#2e7d32"/>
+<text x="640.0" y="129" font-size="15" fill="#212529" font-weight="600">≈ 400 €</text>
+<text x="60" y="165" font-size="14" fill="#ADB5BD" font-weight="700">8.</text>
+<text x="82" y="165" font-size="15" fill="#212529" font-weight="400">Autoconsommation (prosumer)</text>
+<rect x="310" y="148" width="259.2" height="24" rx="4" fill="#a5d6a7"/>
+<text x="579.2" y="165" font-size="15" fill="#212529" font-weight="600">324 € de tarif prosumer</text>
+<text x="60" y="201" font-size="14" fill="#ADB5BD" font-weight="700">1.</text>
+<text x="82" y="201" font-size="15" fill="#212529" font-weight="400">Comparer son offre</text>
+<rect x="310" y="184" width="160.0" height="24" rx="4" fill="#2e7d32"/>
+<text x="480.0" y="201" font-size="15" fill="#212529" font-weight="600">&gt; 200 €</text>
+<text x="60" y="237" font-size="14" fill="#ADB5BD" font-weight="700">9.</text>
+<text x="82" y="237" font-size="15" fill="#212529" font-weight="400">Partage d'énergie</text>
+<rect x="310" y="220" width="116.0" height="24" rx="4" fill="#66bb6a"/>
+<text x="436.0" y="237" font-size="15" fill="#212529" font-weight="600">≈ 145 €</text>
+<text x="740" y="237" font-size="13" fill="#2e7d32" font-weight="600" text-anchor="end">← ni travaux, ni nouveau fournisseur</text>
+<text x="60" y="273" font-size="14" fill="#ADB5BD" font-weight="700">3.</text>
+<text x="82" y="273" font-size="15" fill="#212529" font-weight="400">Tarif Impact (chauffe-eau)</text>
+<rect x="310" y="256" width="99.2" height="24" rx="4" fill="#2e7d32"/>
+<text x="419.2" y="273" font-size="15" fill="#212529" font-weight="600">≈ 124 €</text>
+<text x="60" y="309" font-size="14" fill="#ADB5BD" font-weight="700">5.</text>
+<text x="82" y="309" font-size="15" fill="#212529" font-weight="400">Déplacer et aplatir</text>
+<rect x="310" y="292" width="80.0" height="24" rx="4" fill="#66bb6a"/>
+<text x="400.0" y="309" font-size="15" fill="#212529" font-weight="600">≈ 100 €</text>
+<text x="60" y="345" font-size="14" fill="#ADB5BD" font-weight="700">2.</text>
+<text x="82" y="345" font-size="15" fill="#212529" font-weight="400">Formule fixe ou dynamique</text>
+<rect x="310" y="328" width="44.0" height="24" rx="4" fill="none" stroke="#2e7d32" stroke-width="1.5" stroke-dasharray="4 3" opacity="0.7"/>
+<text x="364.0" y="345" font-size="15" fill="#495057" font-weight="400">variable</text>
+<text x="60" y="381" font-size="14" fill="#ADB5BD" font-weight="700">4.</text>
+<text x="82" y="381" font-size="15" fill="#212529" font-weight="400">Compteur communicant</text>
+<rect x="310" y="364" width="44.0" height="24" rx="4" fill="none" stroke="#2e7d32" stroke-width="1.5" stroke-dasharray="4 3" opacity="0.7"/>
+<text x="364.0" y="381" font-size="15" fill="#495057" font-weight="400">indirect</text>
+<text x="60" y="417" font-size="14" fill="#ADB5BD" font-weight="700">7.</text>
+<text x="82" y="417" font-size="15" fill="#212529" font-weight="400">Primes Habitation</text>
+<rect x="310" y="400" width="44.0" height="24" rx="4" fill="none" stroke="#a5d6a7" stroke-width="1.5" stroke-dasharray="4 3" opacity="0.7"/>
+<text x="364.0" y="417" font-size="15" fill="#495057" font-weight="400">selon les travaux</text>
+<text x="60" y="453" font-size="14" fill="#ADB5BD" font-weight="700">10.</text>
+<text x="82" y="453" font-size="15" fill="#212529" font-weight="400">Guichets Énergie Wallonie</text>
+<rect x="310" y="436" width="44.0" height="24" rx="4" fill="none" stroke="#2e7d32" stroke-width="1.5" stroke-dasharray="4 3" opacity="0.7"/>
+<text x="364.0" y="453" font-size="15" fill="#495057" font-weight="400">conseil gratuit</text>
+<line x1="60" y1="472" x2="740" y2="472" stroke="#DEE2E6" stroke-width="1"/>
+<rect x="60" y="492" width="14" height="14" rx="3" fill="#2e7d32" stroke="#DEE2E6"/>
+<text x="82" y="504" font-size="14" fill="#212529" font-weight="400">Gratuit</text>
+<rect x="146" y="492" width="14" height="14" rx="3" fill="#66bb6a" stroke="#DEE2E6"/>
+<text x="168" y="504" font-size="14" fill="#212529" font-weight="400">Faible coût (≤ 400 €)</text>
+<rect x="341" y="492" width="14" height="14" rx="3" fill="#a5d6a7" stroke="#DEE2E6"/>
+<text x="363" y="504" font-size="14" fill="#212529" font-weight="400">Investissement</text>
+<text x="60" y="544" font-size="12" fill="#ADB5BD" font-weight="400">Sources : ORES/CWaPE 2026, CREG Z3230, Énergie Commune — calculs OptimCE ; les gains ne s'additionnent pas</text>
+</g>
+</svg>
