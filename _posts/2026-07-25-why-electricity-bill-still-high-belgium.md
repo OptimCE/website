@@ -8,7 +8,7 @@ description: "Energy is only 40% of the bill. A breakdown of the four blocks, th
 tags: [community, administrative, guide]
 lang: en
 ref: why-electricity-bill-stays-high
-last_modified_at: 2026-07-28 10:00:00 +0200
+last_modified_at: 2026-07-30 10:00:00 +0200
 permalink: /en/news/2026/07/25/why-electricity-bill-still-high-belgium/
 faq:
   - q: "Why is my electricity bill not falling even though energy prices have dropped?"
@@ -173,6 +173,8 @@ In decreasing order of effectiveness, here is what you have leverage over:
 What not to expect: that the fall in wholesale prices, or in excise duties, will read clearly off your annual statement. It is in there — diluted in a total of which it is only a fraction.
 
 And if what you want now is the list of actions rather than the explanation, our guide [“Reduce your electricity bill: Wallonia 2026”](/en/news/2026/07/28/reduce-electricity-bill-wallonia-2026/) costs out ten Walloon levers from the ORES 2026 tariff schedule — six of which cost nothing.
+
+And if your question is now about the document itself — what each line means, where to read the EAN code, why an estimated meter reading manufactures an increase that is not real — our guide [“Read your Belgian electricity bill line by line”](/en/news/2026/07/30/read-electricity-bill-belgium/) decodes the bill item by item.
 
 > ### Manage your energy sharing with OptimCE
 >

@@ -292,6 +292,27 @@
     de: ["Verteilungsschlüssel", "Verteilschlüssel"]
     nl: ["verdeelsleutel"]
 
+- slug: code-ean
+  categorie: reseau
+  tags: [contrat, point, facture]
+  source_nom: Ecoconso
+  source_url: "https://www.ecoconso.be/fr/content/comprendre-sa-facture-delectricite"
+  terme:
+    fr: "Code EAN"
+    en: "EAN code"
+    de: "EAN-Code"
+    nl: "EAN-code"
+  definition:
+    fr: "Identifiant unique à 18 chiffres d'un point de fourniture, commençant par 54 en Belgique ; il ne change ni au remplacement du compteur ni au changement de fournisseur."
+    en: "Unique 18-digit identifier of a supply point, starting with 54 in Belgium; it changes neither when the meter is replaced nor when the supplier changes."
+    de: "Eindeutige 18-stellige Kennung einer Lieferstelle, in Belgien mit 54 beginnend; sie ändert sich weder beim Zählertausch noch beim Lieferantenwechsel."
+    nl: "Unieke identificatie van 18 cijfers van een leveringspunt, in België beginnend met 54; hij verandert niet bij vervanging van de meter, noch bij een leverancierswissel."
+  alias:
+    fr: ["EAN", "numéro EAN"]
+    en: ["EAN", "EAN number"]
+    de: ["EAN", "EAN-Nummer"]
+    nl: ["EAN", "EAN-nummer"]
+
 - slug: communaute
   categorie: gouvernance
   tags: [communaute, membres, partage]
@@ -418,6 +439,27 @@
     de: ["Wallonische Energiekommission"]
     nl: ["Waalse Energiecommissie"]
 
+- slug: decompte-annuel
+  categorie: facturation
+  tags: [facture, releve, paiement]
+  source_nom: Ecoconso
+  source_url: "https://www.ecoconso.be/fr/content/comprendre-sa-facture-delectricite"
+  terme:
+    fr: "Décompte annuel"
+    en: "Annual statement"
+    de: "Jahresabrechnung"
+    nl: "Jaarafrekening"
+  definition:
+    fr: "Facture de régularisation fondée sur les index relevés au compteur ; elle calcule la consommation réelle de la période et solde les acomptes déjà payés."
+    en: "Settlement invoice based on the meter readings; it calculates real consumption over the period and settles the instalments already paid."
+    de: "Ausgleichsrechnung auf Basis der abgelesenen Zählerstände; sie berechnet den tatsächlichen Verbrauch des Zeitraums und verrechnet die bereits gezahlten Abschläge."
+    nl: "Regularisatiefactuur op basis van de opgenomen meterstanden; ze berekent het werkelijke verbruik van de periode en vereffent de reeds betaalde voorschotten."
+  alias:
+    fr: ["facture de régularisation", "régularisation annuelle"]
+    en: ["settlement invoice", "annual settlement"]
+    de: ["Ausgleichsrechnung", "Jahresverbrauchsabrechnung"]
+    nl: ["regularisatiefactuur", "jaarlijkse regularisatie"]
+
 - slug: energie-locale
   categorie: territoire
   tags: [local, communaute, proximite]
@@ -480,6 +522,69 @@
     en: ["invoicing"]
     de: []
     nl: []
+
+- slug: facture-d-acompte
+  categorie: facturation
+  tags: [facture, paiement, estimation]
+  source_nom: Ecoconso
+  source_url: "https://www.ecoconso.be/fr/content/comprendre-sa-facture-delectricite"
+  terme:
+    fr: "Facture d'acompte"
+    en: "Instalment invoice"
+    de: "Abschlagsrechnung"
+    nl: "Voorschotfactuur"
+  definition:
+    fr: "Avance périodique calculée sur une estimation de la consommation annuelle, généralement celle de l'année précédente ; elle ne reflète pas la consommation réelle."
+    en: "Periodic advance calculated from an estimate of annual consumption, usually the previous year's; it does not reflect actual consumption."
+    de: "Regelmäßige Vorauszahlung auf Basis einer Schätzung des Jahresverbrauchs, meist des Vorjahres; sie gibt den tatsächlichen Verbrauch nicht wieder."
+    nl: "Periodieke voorafbetaling berekend op een raming van het jaarverbruik, doorgaans dat van vorig jaar; ze geeft het werkelijke verbruik niet weer."
+  alias:
+    fr: ["acompte", "acomptes"]
+    en: ["instalment", "advance invoice"]
+    de: ["Abschlag", "Abschlagszahlung"]
+    nl: ["voorschot", "voorschotten"]
+
+- slug: facture-de-cloture
+  categorie: facturation
+  tags: [facture, demenagement, releve]
+  source_nom: Test-Achats
+  source_url: "https://www.test-achats.be/maison-energie/gaz-electricite-mazout-pellets/dossier/comment-comprendre-ma-facture-d-energie"
+  terme:
+    fr: "Facture de clôture"
+    en: "Closing invoice"
+    de: "Schlussrechnung"
+    nl: "Slotfactuur"
+  definition:
+    fr: "Facture émise lors d'un déménagement ou d'un changement de fournisseur, établie à partir du relevé d'index final pour solder le point de fourniture."
+    en: "Invoice issued when moving home or switching supplier, drawn up from the final meter reading to close the supply point."
+    de: "Rechnung bei Umzug oder Lieferantenwechsel, erstellt auf Basis des Endzählerstands, um die Lieferstelle abzuschließen."
+    nl: "Factuur bij een verhuizing of een leverancierswissel, opgemaakt op basis van de eindmeterstand om het leveringspunt af te sluiten."
+  alias:
+    fr: ["facture finale"]
+    en: ["final invoice"]
+    de: ["Endabrechnung"]
+    nl: ["eindfactuur"]
+
+- slug: fiche-tarifaire
+  categorie: marche
+  tags: [contrat, prix, comparaison]
+  source_nom: CREG
+  source_url: "https://www.creg.be/fr/consommateurs/le-marche-de-lenergie/comment-est-compose-le-prix-de-lenergie"
+  terme:
+    fr: "Fiche tarifaire"
+    en: "Tariff sheet"
+    de: "Tarifblatt"
+    nl: "Tariefkaart"
+  definition:
+    fr: "Document par lequel un fournisseur publie les prix et paramètres d'un produit ; c'est la référence opposable pour vérifier les montants portés sur une facture."
+    en: "Document in which a supplier publishes the prices and parameters of a product; it is the binding reference for checking the amounts shown on an invoice."
+    de: "Dokument, mit dem ein Lieferant die Preise und Parameter eines Produkts veröffentlicht; es ist die verbindliche Referenz zur Prüfung der Rechnungsbeträge."
+    nl: "Document waarmee een leverancier de prijzen en parameters van een product publiceert; het is de bindende referentie om de bedragen op een factuur na te kijken."
+  alias:
+    fr: ["fiches tarifaires"]
+    en: ["tariff sheets", "price sheet"]
+    de: ["Tarifblätter", "Preisblatt"]
+    nl: ["tariefkaarten", "prijskaart"]
 
 - slug: flexibilite
   categorie: reseau
@@ -669,6 +774,27 @@
     en: []
     de: []
     nl: []
+
+- slug: mediation-energie
+  categorie: juridique
+  tags: [recours, litige, belgique]
+  source_nom: CWaPE
+  source_url: "https://www.cwape.be/srme/mediation"
+  terme:
+    fr: "Service de médiation de l'énergie"
+    en: "Energy ombudsman service"
+    de: "Ombudsdienst für Energie"
+    nl: "Ombudsdienst voor Energie"
+  definition:
+    fr: "Instance de recours en cas de litige avec un fournisseur ou un gestionnaire de réseau, après démarche écrite préalable ; le service fédéral traite le contrat et le prix, les services régionaux le compteur et le réseau."
+    en: "Body of appeal in a dispute with a supplier or a network operator, after a prior written step; the federal service handles the contract and the price, the regional services the meter and the network."
+    de: "Beschwerdestelle bei Streitigkeiten mit einem Lieferanten oder Netzbetreiber, nach vorherigem schriftlichem Schritt; der föderale Dienst behandelt Vertrag und Preis, die regionalen Dienste Zähler und Netz."
+    nl: "Beroepsinstantie bij een geschil met een leverancier of netbeheerder, na een voorafgaande schriftelijke stap; de federale dienst behandelt het contract en de prijs, de gewestelijke diensten de meter en het net."
+  alias:
+    fr: ["médiateur de l'énergie", "SRME"]
+    en: ["energy ombudsman", "SRME"]
+    de: ["Energie-Ombudsstelle", "SRME"]
+    nl: ["energieombudsman", "SRME"]
 
 - slug: membre
   categorie: gouvernance
@@ -879,6 +1005,27 @@
     en: ["quarter-hourly", "15-minute interval"]
     de: ["Viertelstundenwert"]
     nl: ["kwartierwaarde"]
+
+- slug: redevance-fixe
+  categorie: facturation
+  tags: [facture, contrat, prix]
+  source_nom: Test-Achats
+  source_url: "https://www.test-achats.be/maison-energie/gaz-electricite-mazout-pellets/news/calcul-redevance-fixe-changement-fournisseur-energie"
+  terme:
+    fr: "Redevance fixe"
+    en: "Standing charge"
+    de: "Grundgebühr"
+    nl: "Vaste vergoeding"
+  definition:
+    fr: "Montant forfaitaire annuel facturé par le fournisseur indépendamment des kWh consommés ; il doit être calculé au prorata de la durée réelle de fourniture."
+    en: "Flat annual amount charged by the supplier regardless of the kWh consumed; it must be pro-rated to the actual duration of supply."
+    de: "Pauschaler Jahresbetrag, den der Lieferant unabhängig von den verbrauchten kWh berechnet; er ist anteilig zur tatsächlichen Lieferdauer zu berechnen."
+    nl: "Forfaitair jaarbedrag dat de leverancier aanrekent los van de verbruikte kWh; het moet pro rata van de werkelijke leveringsduur worden berekend."
+  alias:
+    fr: ["terme fixe"]
+    en: ["fixed fee", "standing fee"]
+    de: ["fester Term", "Grundpreis"]
+    nl: ["vaste term"]
 
 - slug: representant-du-partage
   categorie: partage

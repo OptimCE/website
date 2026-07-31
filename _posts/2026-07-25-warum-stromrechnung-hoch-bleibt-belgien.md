@@ -8,7 +8,7 @@ description: "Energie macht nur 40 % der Rechnung aus. Die vier Blöcke aufgesch
 tags: [community, administrative, guide]
 lang: de
 ref: why-electricity-bill-stays-high
-last_modified_at: 2026-07-28 10:00:00 +0200
+last_modified_at: 2026-07-30 10:00:00 +0200
 permalink: /de/aktuelles/2026/07/25/warum-stromrechnung-hoch-bleibt-belgien/
 faq:
   - q: "Warum sinkt meine Stromrechnung nicht, obwohl die Energiepreise gefallen sind?"
@@ -173,6 +173,8 @@ In absteigender Reihenfolge der Wirksamkeit, hierauf haben Sie Einfluss:
 Was Sie nicht erwarten sollten: dass der Rückgang der Großhandelspreise oder der Akzisen sich klar auf Ihrer Jahresabrechnung ablesen lässt. Er steckt darin — verdünnt in einem Ganzen, von dem er nur einen Bruchteil ausmacht.
 
 Und wenn Sie nun die Liste der Schritte statt der Erklärung suchen: Unser Leitfaden [„Stromrechnung senken: Wallonien 2026“](/de/aktuelles/2026/07/28/stromrechnung-senken-wallonien-2026/) beziffert zehn wallonische Hebel auf Grundlage der ORES-Tarifliste 2026 — sechs davon kosten nichts.
+
+Und wenn sich Ihre Frage nun auf das Dokument selbst richtet — welche Zeile was bedeutet, wo der EAN-Code steht, warum ein geschätzter Zählerstand einen Anstieg erzeugt, den es gar nicht gibt —, entschlüsselt unser Leitfaden [„Belgische Stromrechnung Zeile für Zeile lesen“](/de/aktuelles/2026/07/30/stromrechnung-lesen-belgien/) die Rechnung Posten für Posten.
 
 > ### Verwalten Sie Ihre Energieteilung mit OptimCE
 >

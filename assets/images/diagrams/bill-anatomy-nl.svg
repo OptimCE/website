@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" role="img" aria-labelledby="t d">
+<title id="t">Anatomie van een Belgische elektriciteitsfactuur</title><desc id="d">Schema van een Belgische elektriciteitsfactuur: de vijf rubrieken die het koninklijk besluit van 9 december 2021 oplegt, met aanduidingen voor de EAN-code, de begin- en eindmeterstanden en de berekeningsbijlage.</desc>
+<rect width="800" height="620" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="46" y="50" font-size="22" fill="#212529" font-weight="700" text-anchor="start">Anatomie van een Belgische elektriciteitsfactuur</text>
+<text x="46" y="76" font-size="14" fill="#495057" font-weight="400" text-anchor="start">Wat de wet sinds 2022 oplegt, en waar u wat leest</text>
+<rect x="46" y="104" width="420" height="410" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/><path d="M46 114 a10 10 0 0 1 10 -10 h400 a10 10 0 0 1 10 10 v34 h-420 z" fill="#2e7d32"/>
+<text x="62" y="133" font-size="16" fill="#FFFFFF" font-weight="700" text-anchor="start">De vijf wettelijk verplichte rubrieken</text>
+<rect x="64" y="163" width="30" height="30" rx="7" fill="#e8f5e9"/>
+<text x="79" y="184" font-size="15" fill="#1b5e20" font-weight="700" text-anchor="middle">A</text>
+<text x="108" y="179" font-size="13.5" fill="#212529" font-weight="600" text-anchor="start">Essentiële contractinformatie</text>
+<text x="108" y="199" font-size="12" fill="#495057" font-weight="400" text-anchor="start">Tariefsoort en einddatum van het contract</text>
+<line x1="64" y1="215" x2="448" y2="215" stroke="#F1F3F5" stroke-width="1"/>
+<rect x="64" y="229" width="30" height="30" rx="7" fill="#e8f5e9"/>
+<text x="79" y="250" font-size="15" fill="#1b5e20" font-weight="700" text-anchor="middle">B</text>
+<text x="108" y="245" font-size="13.5" fill="#212529" font-weight="600" text-anchor="start">Hoeveel, wanneer en hoe moet ik betalen</text>
+<text x="108" y="265" font-size="12" fill="#495057" font-weight="400" text-anchor="start">Bedrag, vervaldag en detail van de berekening</text>
+<line x1="64" y1="281" x2="448" y2="281" stroke="#F1F3F5" stroke-width="1"/>
+<rect x="64" y="295" width="30" height="30" rx="7" fill="#e8f5e9"/>
+<text x="79" y="316" font-size="15" fill="#1b5e20" font-weight="700" text-anchor="middle">C</text>
+<text x="108" y="311" font-size="13.5" fill="#212529" font-weight="600" text-anchor="start">Ik heb een vraag</text>
+<text x="108" y="331" font-size="12" fill="#495057" font-weight="400" text-anchor="start">Contacten van leverancier en ombudsdienst</text>
+<line x1="64" y1="347" x2="448" y2="347" stroke="#F1F3F5" stroke-width="1"/>
+<rect x="64" y="361" width="30" height="30" rx="7" fill="#e8f5e9"/>
+<text x="79" y="382" font-size="15" fill="#1b5e20" font-weight="700" text-anchor="middle">D</text>
+<text x="108" y="377" font-size="13.5" fill="#212529" font-weight="600" text-anchor="start">Contracten vergelijken en veranderen</text>
+<text x="108" y="397" font-size="12" fill="#495057" font-weight="400" text-anchor="start">Verwijzing naar een onafhankelijk vergelijkingsinstrument</text>
+<line x1="64" y1="413" x2="448" y2="413" stroke="#F1F3F5" stroke-width="1"/>
+<rect x="64" y="427" width="30" height="30" rx="7" fill="#e8f5e9"/>
+<text x="79" y="448" font-size="15" fill="#1b5e20" font-weight="700" text-anchor="middle">E</text>
+<text x="108" y="443" font-size="13.5" fill="#212529" font-weight="600" text-anchor="start">Het energieverbruik beheren</text>
+<text x="108" y="463" font-size="12" fill="#495057" font-weight="400" text-anchor="start">Verbruikshistoriek en energiemix</text>
+<rect x="496" y="104" width="258" height="196" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/><path d="M496 114 a10 10 0 0 1 10 -10 h238 a10 10 0 0 1 10 10 v34 h-258 z" fill="#66bb6a"/>
+<text x="512" y="133" font-size="16" fill="#FFFFFF" font-weight="700" text-anchor="start">De hoofding</text>
+<text x="512" y="170" font-size="12.5" fill="#495057" font-weight="400" text-anchor="start">Eerst na te kijken</text>
+<circle cx="516" cy="196" r="3" fill="#66bb6a"/>
+<text x="530" y="200" font-size="13" fill="#212529" font-weight="400" text-anchor="start">EAN-code (18 cijfers)</text>
+<circle cx="516" cy="222" r="3" fill="#66bb6a"/>
+<text x="530" y="226" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Factureringsperiode</text>
+<circle cx="516" cy="248" r="3" fill="#66bb6a"/>
+<text x="530" y="252" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Begin- en eindstand</text>
+<circle cx="516" cy="274" r="3" fill="#66bb6a"/>
+<text x="530" y="278" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Werkelijk of geschat</text>
+<rect x="496" y="318" width="258" height="196" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/><path d="M496 328 a10 10 0 0 1 10 -10 h238 a10 10 0 0 1 10 10 v34 h-258 z" fill="#1b5e20"/>
+<text x="512" y="347" font-size="16" fill="#FFFFFF" font-weight="700" text-anchor="start">Detail van de berekening</text>
+<text x="512" y="384" font-size="12.5" fill="#495057" font-weight="400" text-anchor="start">In bijlage: de regels</text>
+<circle cx="516" cy="410" r="3" fill="#1b5e20"/>
+<text x="530" y="414" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Energie en vaste vergoeding</text>
+<circle cx="516" cy="436" r="3" fill="#1b5e20"/>
+<text x="530" y="440" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Net en transmissie</text>
+<circle cx="516" cy="462" r="3" fill="#1b5e20"/>
+<text x="530" y="466" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Belastingen, accijnzen en btw</text>
+<text x="46" y="570" font-size="13" fill="#495057" font-weight="400" text-anchor="start">Koninklijk besluit van 9 december 2021, van kracht sinds 1 januari 2022.</text>
+<text x="46" y="594" font-size="12" fill="#ADB5BD" font-weight="400" text-anchor="start">Omzetting van artikel 18 en bijlage I van richtlijn (EU) 2019/944</text>
+</g></svg>

@@ -9,6 +9,7 @@ tags: [community, administrative, guide]
 lang: en
 ref: invoice-shared-electricity
 permalink: /en/news/2026/07/23/who-invoices-shared-electricity-belgium/
+last_modified_at: 2026-07-30 10:00:00 +0200
 faq:
   - q: "Who must issue the invoice for shared energy?"
     a: "The sharing representative — the party designated in the agreement to organise the sharing. The CWaPE puts it plainly: it is the sharing representative who invoices shared energy to the participants. The grid operator computes the volumes quarter-hour by quarter-hour and forwards them, but it does not invoice. The supplier only bills the energy that sharing did not cover."
@@ -131,6 +132,8 @@ This first version is designed for the **Walloon framework** (CWaPE) and generat
 Invoicing an energy-sharing scheme is not a legal mystery: it is a clear division of roles, once you know it. The grid operator **computes and forwards**. The supplier bills **the residual energy**, the network fees and the regional taxes. The sharing representative bills **the shared energy**, plus VAT, excise duties and the green-certificate PSO — and it is the representative who carries the obligations: the right VAT rate, mandatory mentions, gapless numbering, credit notes to correct.
 
 The rest is a matter of execution: settle the VAT regime with an accountant, write a clean agreement, and issue compliant documents every quarter — by hand while it is bearable, with a tool as soon as it is not.
+
+On the household side, the bill you keep receiving from your supplier also reads line by line: we take it apart in [“Read your Belgian electricity bill line by line”](/en/news/2026/07/30/read-electricity-bill-belgium/).
 
 > ### Invoice your energy community with OptimCE
 >

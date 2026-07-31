@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" role="img" aria-labelledby="t d">
+<title id="t">Anatomie einer belgischen Stromrechnung</title><desc id="d">Schema einer belgischen Stromrechnung: die fünf durch den Königlichen Erlass vom 9. Dezember 2021 vorgeschriebenen Abschnitte, mit Markierungen für den EAN-Code, die Anfangs- und Endzählerstände und den Berechnungsanhang.</desc>
+<rect width="800" height="620" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="46" y="50" font-size="22" fill="#212529" font-weight="700" text-anchor="start">Anatomie einer belgischen Stromrechnung</text>
+<text x="46" y="76" font-size="14" fill="#495057" font-weight="400" text-anchor="start">Was das Gesetz seit 2022 vorschreibt, und wo was steht</text>
+<rect x="46" y="104" width="420" height="410" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/><path d="M46 114 a10 10 0 0 1 10 -10 h400 a10 10 0 0 1 10 10 v34 h-420 z" fill="#2e7d32"/>
+<text x="62" y="133" font-size="16" fill="#FFFFFF" font-weight="700" text-anchor="start">Die fünf vorgeschriebenen Abschnitte</text>
+<rect x="64" y="163" width="30" height="30" rx="7" fill="#e8f5e9"/>
+<text x="79" y="184" font-size="15" fill="#1b5e20" font-weight="700" text-anchor="middle">A</text>
+<text x="108" y="179" font-size="13.5" fill="#212529" font-weight="600" text-anchor="start">Wesentliche Vertragsinformationen</text>
+<text x="108" y="199" font-size="12" fill="#495057" font-weight="400" text-anchor="start">Tarifart und Vertragsende</text>
+<line x1="64" y1="215" x2="448" y2="215" stroke="#F1F3F5" stroke-width="1"/>
+<rect x="64" y="229" width="30" height="30" rx="7" fill="#e8f5e9"/>
+<text x="79" y="250" font-size="15" fill="#1b5e20" font-weight="700" text-anchor="middle">B</text>
+<text x="108" y="245" font-size="13.5" fill="#212529" font-weight="600" text-anchor="start">Wie viel, wann und wie muss ich zahlen</text>
+<text x="108" y="265" font-size="12" fill="#495057" font-weight="400" text-anchor="start">Betrag, Fälligkeit und Berechnungsdetails</text>
+<line x1="64" y1="281" x2="448" y2="281" stroke="#F1F3F5" stroke-width="1"/>
+<rect x="64" y="295" width="30" height="30" rx="7" fill="#e8f5e9"/>
+<text x="79" y="316" font-size="15" fill="#1b5e20" font-weight="700" text-anchor="middle">C</text>
+<text x="108" y="311" font-size="13.5" fill="#212529" font-weight="600" text-anchor="start">Ich habe eine Frage</text>
+<text x="108" y="331" font-size="12" fill="#495057" font-weight="400" text-anchor="start">Kontakte von Lieferant und Ombudsstelle</text>
+<line x1="64" y1="347" x2="448" y2="347" stroke="#F1F3F5" stroke-width="1"/>
+<rect x="64" y="361" width="30" height="30" rx="7" fill="#e8f5e9"/>
+<text x="79" y="382" font-size="15" fill="#1b5e20" font-weight="700" text-anchor="middle">D</text>
+<text x="108" y="377" font-size="13.5" fill="#212529" font-weight="600" text-anchor="start">Verträge vergleichen und wechseln</text>
+<text x="108" y="397" font-size="12" fill="#495057" font-weight="400" text-anchor="start">Verweis auf ein unabhängiges Vergleichsinstrument</text>
+<line x1="64" y1="413" x2="448" y2="413" stroke="#F1F3F5" stroke-width="1"/>
+<rect x="64" y="427" width="30" height="30" rx="7" fill="#e8f5e9"/>
+<text x="79" y="448" font-size="15" fill="#1b5e20" font-weight="700" text-anchor="middle">E</text>
+<text x="108" y="443" font-size="13.5" fill="#212529" font-weight="600" text-anchor="start">Energieverbrauch verwalten</text>
+<text x="108" y="463" font-size="12" fill="#495057" font-weight="400" text-anchor="start">Verbrauchshistorie und Energiemix</text>
+<rect x="496" y="104" width="258" height="196" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/><path d="M496 114 a10 10 0 0 1 10 -10 h238 a10 10 0 0 1 10 10 v34 h-258 z" fill="#66bb6a"/>
+<text x="512" y="133" font-size="16" fill="#FFFFFF" font-weight="700" text-anchor="start">Der Kopfbereich</text>
+<text x="512" y="170" font-size="12.5" fill="#495057" font-weight="400" text-anchor="start">Zuerst prüfen</text>
+<circle cx="516" cy="196" r="3" fill="#66bb6a"/>
+<text x="530" y="200" font-size="13" fill="#212529" font-weight="400" text-anchor="start">EAN-Code (18 Ziffern)</text>
+<circle cx="516" cy="222" r="3" fill="#66bb6a"/>
+<text x="530" y="226" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Abrechnungszeitraum</text>
+<circle cx="516" cy="248" r="3" fill="#66bb6a"/>
+<text x="530" y="252" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Anfangs- und Endstand</text>
+<circle cx="516" cy="274" r="3" fill="#66bb6a"/>
+<text x="530" y="278" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Abgelesen oder geschätzt</text>
+<rect x="496" y="318" width="258" height="196" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/><path d="M496 328 a10 10 0 0 1 10 -10 h238 a10 10 0 0 1 10 10 v34 h-258 z" fill="#1b5e20"/>
+<text x="512" y="347" font-size="16" fill="#FFFFFF" font-weight="700" text-anchor="start">Die Berechnungsdetails</text>
+<text x="512" y="384" font-size="12.5" fill="#495057" font-weight="400" text-anchor="start">Im Anhang: die Zeilen</text>
+<circle cx="516" cy="410" r="3" fill="#1b5e20"/>
+<text x="530" y="414" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Energie und Grundgebühr</text>
+<circle cx="516" cy="436" r="3" fill="#1b5e20"/>
+<text x="530" y="440" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Netz und Übertragung</text>
+<circle cx="516" cy="462" r="3" fill="#1b5e20"/>
+<text x="530" y="466" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Steuern, Akzisen und MwSt.</text>
+<text x="46" y="570" font-size="13" fill="#495057" font-weight="400" text-anchor="start">Königlicher Erlass vom 9. Dezember 2021, in Kraft seit dem 1. Januar 2022.</text>
+<text x="46" y="594" font-size="12" fill="#ADB5BD" font-weight="400" text-anchor="start">Umsetzung von Artikel 18 und Anhang I der Richtlinie (EU) 2019/944</text>
+</g></svg>

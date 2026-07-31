@@ -8,6 +8,7 @@ description: "Deux factures coexistent dans un partage d'énergie. Qui émet quo
 tags: [community, administrative, guide]
 lang: fr
 ref: invoice-shared-electricity
+last_modified_at: 2026-07-30 10:00:00 +0200
 faq:
   - q: "Qui doit émettre la facture pour l'énergie partagée ?"
     a: "Le représentant du partage — l'acteur désigné dans la convention pour organiser le partage. La CWaPE l'écrit sans détour : « c'est le représentant du partage qui facture l'énergie partagée aux participants ». Le gestionnaire de réseau calcule les volumes quart d'heure par quart d'heure et les transmet, mais il ne facture pas. Le fournisseur, lui, ne facture que l'énergie qui n'a pas été couverte par le partage."
@@ -130,6 +131,8 @@ Cette première version est conçue pour le **cadre wallon** (CWaPE) et génère
 La facturation d'un partage d'énergie n'est pas un mystère juridique : c'est une répartition de rôles claire, une fois qu'on la connaît. Le gestionnaire de réseau **calcule et transmet**. Le fournisseur facture **l'énergie résiduelle**, les frais de réseau et les taxes régionales. Le représentant du partage facture **l'énergie partagée**, augmentée de la TVA, des accises et de l'OSP certificats verts — et c'est lui qui porte les obligations : bon taux de TVA, mentions obligatoires, numérotation continue, notes de crédit pour corriger.
 
 Le reste est une question d'exécution : trancher le régime de TVA avec un comptable, écrire une convention nette, et émettre chaque trimestre des documents en règle — à la main tant que c'est tenable, avec un outil dès que ça ne l'est plus.
+
+Côté ménage, la facture que vous continuez de recevoir de votre fournisseur se lit elle aussi ligne par ligne : nous la décortiquons dans [« Lire sa facture d'électricité ligne par ligne »](/actualites/2026/07/30/comprendre-facture-electricite-ligne-par-ligne/).
 
 > ### Facturez votre communauté d'énergie avec OptimCE
 >
