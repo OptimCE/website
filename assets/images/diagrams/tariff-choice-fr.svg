@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-labelledby="t d">
+<title id="t">Quatre voies, quatre parties de la facture</title><desc id="d">Schéma comparatif des quatre voies tarifaires belges : le tarif social agit sur l'énergie et le réseau mais dépend d'un statut, le tarif de nuit agit sur le tarif de réseau et varie selon la région, le contrat dynamique agit sur la seule composante énergie et exige un compteur communicant, la communauté d'énergie agit sur la composante énergie des kilowattheures partagés et se cumule avec les deux formules de contrat.</desc>
+<rect width="800" height="560" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="60" y="52" font-size="22" fill="#212529" font-weight="700">Quatre voies, quatre parties de la facture</text>
+<text x="60" y="78" font-size="15" fill="#495057" font-weight="400">Sur quels blocs de la facture chaque formule agit réellement</text>
+
+<text x="299" y="116" font-size="12" fill="#ADB5BD" font-weight="600" text-anchor="middle">Énergie 38,5 %</text>
+<text x="422" y="116" font-size="12" fill="#ADB5BD" font-weight="600" text-anchor="middle">Réseau 29,7 %</text>
+<text x="523" y="116" font-size="12" fill="#ADB5BD" font-weight="600" text-anchor="middle">Taxes 26,1 %</text>
+<text x="580" y="116" font-size="11" fill="#ADB5BD" font-weight="600" text-anchor="middle">TVA</text>
+
+<text x="60" y="147" font-size="15" fill="#212529" font-weight="400">Tarif social</text>
+<rect x="230" y="128" width="136.6" height="28" rx="3" fill="#2e7d32"/>
+<rect x="368.6" y="128" width="104.9" height="28" rx="3" fill="#2e7d32"/>
+<rect x="475.5" y="128" width="92.0" height="28" rx="3" fill="#a5d6a7"/>
+<rect x="569.5" y="128" width="20.5" height="28" rx="3" fill="#E9ECEF"/>
+<text x="740" y="147" font-size="13" fill="#212529" font-weight="600" text-anchor="end">≈ 400 €/an</text>
+
+<text x="60" y="205" font-size="15" fill="#212529" font-weight="400">Tarif de nuit</text>
+<rect x="230" y="186" width="136.6" height="28" rx="3" fill="#a5d6a7"/>
+<rect x="368.6" y="186" width="104.9" height="28" rx="3" fill="#2e7d32"/>
+<rect x="475.5" y="186" width="92.0" height="28" rx="3" fill="#E9ECEF"/>
+<rect x="569.5" y="186" width="20.5" height="28" rx="3" fill="#E9ECEF"/>
+<text x="740" y="205" font-size="13" fill="#212529" font-weight="600" text-anchor="end">≈ 124 € par appareil</text>
+
+<text x="60" y="263" font-size="15" fill="#212529" font-weight="400">Contrat dynamique</text>
+<rect x="230" y="244" width="136.6" height="28" rx="3" fill="#2e7d32"/>
+<rect x="368.6" y="244" width="104.9" height="28" rx="3" fill="#E9ECEF"/>
+<rect x="475.5" y="244" width="92.0" height="28" rx="3" fill="#E9ECEF"/>
+<rect x="569.5" y="244" width="20.5" height="28" rx="3" fill="#E9ECEF"/>
+<text x="740" y="263" font-size="13" fill="#212529" font-weight="600" text-anchor="end">+ 62 € ou − 15 %</text>
+
+<text x="60" y="321" font-size="15" fill="#212529" font-weight="400">Communauté d'énergie</text>
+<rect x="230" y="302" width="136.6" height="28" rx="3" fill="#a5d6a7"/>
+<rect x="368.6" y="302" width="104.9" height="28" rx="3" fill="#E9ECEF"/>
+<rect x="475.5" y="302" width="92.0" height="28" rx="3" fill="#E9ECEF"/>
+<rect x="569.5" y="302" width="20.5" height="28" rx="3" fill="#E9ECEF"/>
+<text x="740" y="321" font-size="13" fill="#212529" font-weight="600" text-anchor="end">≈ 145 € / 500 kWh</text>
+
+<line x1="60" y1="352" x2="740" y2="352" stroke="#DEE2E6" stroke-width="1"/>
+<rect x="60" y="368" width="14" height="14" rx="3" fill="#2e7d32" stroke="#DEE2E6"/>
+<text x="82" y="380" font-size="14" fill="#212529" font-weight="400">Agit sur ce bloc</text>
+<rect x="230" y="368" width="14" height="14" rx="3" fill="#a5d6a7" stroke="#DEE2E6"/>
+<text x="252" y="380" font-size="14" fill="#212529" font-weight="400">Agit partiellement</text>
+<rect x="410" y="368" width="14" height="14" rx="3" fill="#E9ECEF" stroke="#DEE2E6"/>
+<text x="432" y="380" font-size="14" fill="#212529" font-weight="400">N'agit pas</text>
+
+<rect x="60" y="404" width="680" height="64" rx="6" fill="#e8f5e9"/>
+<text x="80" y="430" font-size="14" fill="#1b5e20" font-weight="600">La communauté d'énergie est la seule voie qui s'ajoute aux autres :</text>
+<text x="80" y="452" font-size="14" fill="#212529" font-weight="400">ni changement de fournisseur, ni travaux, ni condition de revenu ou de flexibilité.</text>
+
+<text x="60" y="536" font-size="12" fill="#ADB5BD" font-weight="400">Parts de facture : CREG, tableau de bord juin 2026 (3 500 kWh/an, monohoraire) — conditions de cumul : CWaPE</text>
+</g>
+</svg>

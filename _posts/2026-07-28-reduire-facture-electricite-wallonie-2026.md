@@ -2,6 +2,7 @@
 layout: post
 title: "Réduire sa facture d'électricité : Wallonie 2026"
 date: 2026-07-28 10:00:00 +0200
+last_modified_at: 2026-08-03 16:00:00 +0200
 author: "Équipe OptimCE"
 excerpt: "Comparateur officiel, nouveau tarif Impact, tarif social, primes avant le 30 septembre, autoconsommation, partage d'énergie : dix leviers wallons chiffrés à partir de la grille tarifaire ORES 2026 approuvée par la CWaPE. Six d'entre eux ne coûtent rien. Pour chacun, le gain annuel réaliste, la condition à remplir et le délai."
 description: "Dix leviers concrets, chiffrés et sourcés pour alléger sa facture d'électricité en Wallonie en 2026 — du comparateur officiel au partage d'énergie."
@@ -71,6 +72,8 @@ Trois familles de contrats, trois répartitions du risque entre vous et votre fo
 
 Le point important : ce choix n'est pas un pari sur le prix futur, c'est un choix sur **qui porte le risque**. Si une facture de régularisation à 300 € vous met en difficulté, le fixe vaut sa prime. Sinon, elle est chère.
 
+Le comparatif chiffré de ces formules — auquel s'ajoutent le tarif social et le partage d'énergie — figure dans [« Quel tarif d'électricité choisir en Belgique ? »](/actualites/2026/08/03/quel-tarif-electricite-choisir-belgique/), qui traite les trois régions.
+
 ## 3. Passer au tarif de réseau qui correspond à vos horaires
 
 Ici commence la partie spécifiquement wallonne, et elle est passée largement inaperçue. Deux changements sont entrés en vigueur en 2026.
@@ -136,9 +139,11 @@ Le tarif social est un prix maximal fixé par la CREG **chaque trimestre**, alig
 
 Pour situer : le prix all-in moyen belge tournait autour de 36,94 c€/kWh dans le tableau de bord CREG de juin 2026. Sur 3 500 kWh, l'écart représente **de l'ordre de 400 € par an**. *(Ordre de grandeur : les deux prix ne recouvrent pas exactement le même périmètre de surcharges. Le montant exact dépend de votre profil.)*
 
-Qui y a droit, et comment. La CWaPE est claire : **tous les clients protégés** y ont droit, mais la démarche diffère selon la catégorie ([CWaPE](https://www.cwape.be/node/134)). Les clients protégés **fédéraux** — bénéficiaires d'aides du CPAS, de certaines allocations, du statut BIM — l'obtiennent en général **automatiquement**, par croisement de données, sans rien demander. Les clients protégés **régionaux** doivent réclamer une attestation à leur CPAS ou à leur médiateur de dettes et la transmettre à leur gestionnaire de réseau, et n'y ont accès que s'ils sont alimentés par ce gestionnaire.
+Qui y a droit, et comment. La CWaPE est claire : **tous les clients protégés** y ont droit, mais la démarche diffère selon la catégorie ([CWaPE](https://www.cwape.be/node/134)). Les clients protégés **fédéraux** — bénéficiaires de certaines aides du CPAS, de certaines allocations du Service fédéral des Pensions, d'allocations liées au handicap, ainsi que les locataires de logements sociaux chauffés par une installation collective — l'obtiennent en général **automatiquement**, par croisement de données, sans rien demander. Les clients protégés **régionaux** doivent réclamer une attestation à leur CPAS ou à leur médiateur de dettes et la transmettre à leur gestionnaire de réseau, et n'y ont accès que s'ils sont alimentés par ce gestionnaire.
 
-Le réflexe à avoir : **si votre situation a changé** — perte d'emploi, séparation, admission au statut BIM, entrée en vigueur d'une allocation — le tarif social ne se déclenche pas toujours de lui-même. Cela vaut un appel.
+Une idée reçue à écarter au passage, car elle circule encore beaucoup : **le seul statut BIM — le droit à l'intervention majorée — n'ouvre plus le droit au tarif social.** L'extension mise en place pendant la crise énergétique a couru du 1<sup>er</sup> février 2021 au 30 juin 2023 et a pris fin le **1<sup>er</sup> juillet 2023** ([SPF Économie](https://economie.fgov.be/fr/themes/energie/energie-sociale/tarif-social-pour-lenergie)). Si vous êtes BIM sans relever d'une des catégories ci-dessus, vous n'êtes pas au tarif social, même si vous l'avez été en 2022.
+
+Le réflexe à avoir : **si votre situation a changé** — perte d'emploi, séparation, entrée en vigueur d'une allocation, admission dans un logement social — le tarif social ne se déclenche pas toujours de lui-même. Cela vaut un appel.
 
 ## 7. Primes Habitation : la fenêtre se ferme le 30 septembre 2026
 
@@ -245,6 +250,7 @@ Il agit sur la **composante énergie**, pas sur les coûts de réseau ni sur les
 - [CWaPE — Tarifs périodiques de distribution d'électricité, prélèvement basse tension, ORES ASSETS, période du 01.01.2026 au 31.12.2026](https://www.cwape.be/sites/default/files/cwape-documents/ORES%20-%20Tarifs%20p%C3%A9riodiques%20de%20pr%C3%A9l%C3%A8vement%202026_0.pdf) — source primaire de tous les tarifs cités : terme prosumer à 80,9813336 €/kWe, termes proportionnels monohoraire, bihoraire et Impact, plages horaires officielles des deux grilles, terme capacitaire à 0 €/kW pour 2026-2029, réduction de 80 % sur l'énergie partagée au sein d'un même bâtiment, conditions d'accès au tarif Impact. Approuvé le 18 décembre 2025.
 - [CWaPE — CompaCWaPE](https://www.cwape.be/consommateurs/compacwape) et [compacwape.be](https://www.compacwape.be/) — comparateur officiel et gratuit des offres des fournisseurs actifs en Région wallonne, sur la base des fiches tarifaires du mois en cours.
 - [CWaPE — Le tarif social](https://www.cwape.be/node/134) — tous les clients protégés y ont droit ; automatisme pour les clients protégés fédéraux, attestation du CPAS et fourniture par le gestionnaire de réseau pour les clients protégés régionaux.
+- [SPF Économie — Tarif social pour l'énergie](https://economie.fgov.be/fr/themes/energie/energie-sociale/tarif-social-pour-lenergie) — catégories d'ayants droit et octroi automatique par croisement de données ; l'extension aux bénéficiaires de l'intervention majorée a couru du 1<sup>er</sup> février 2021 au 30 juin 2023 et n'est plus en vigueur.
 - [CWaPE — tarifimpact.be](https://www.tarifimpact.be/) — simulateur, test d'éligibilité et explications sur la tarification incitative.
 - [CREG — Note Z3230, prix maximaux sociaux applicables au 3e trimestre 2026](https://www.creg.be/sites/default/files/assets/Publications/Notes/Z3230FR.pdf) — tarifs sociaux TVAC : 24,927 c€/kWh en monohoraire, 26,797 en bihoraire jour, 23,328 en bihoraire nuit, 20,195 en exclusif nuit ; méthode de fixation trimestrielle.
 - [CREG — Prix de l'énergie pour les ménages, constatations avril 2026](https://www.creg.be/fr/actualites/prix-de-lenergie-pour-les-menages-constatations-avril-2026) — hausse de 16,40 % de la composante énergie des contrats fixes en un mois et prime de risque fixe/variable atteignant 50 %.

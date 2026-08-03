@@ -2,6 +2,7 @@
 layout: post
 title: "Reduce your electricity bill: Wallonia 2026"
 date: 2026-07-28 10:00:00 +0200
+last_modified_at: 2026-08-03 16:00:00 +0200
 author: "OptimCE Team"
 excerpt: "The official comparator, the new Impact tariff, the social tariff, the 30 September grant deadline, self-consumption and energy sharing: ten Walloon levers costed from the ORES 2026 tariff schedule approved by CWaPE. Six of them cost nothing. For each one, the realistic annual saving, the condition to meet and the lead time."
 description: "Ten concrete, costed and sourced levers to cut your electricity bill in Wallonia in 2026 — from the official comparator to energy sharing."
@@ -72,6 +73,8 @@ Three families of contract, three ways of splitting the risk between you and you
 
 The key point: this is not a bet on future prices, it is a choice about **who carries the risk**. If a €300 settlement invoice would put you in difficulty, the fixed premium is worth paying. Otherwise it is expensive.
 
+The costed comparison of these formulas — together with the social tariff and energy sharing — is set out in [“Which electricity tariff to choose in Belgium?”](/en/news/2026/08/03/choose-electricity-tariff-belgium/), which covers all three regions.
+
 ## 3. Move to the network tariff that matches your hours
 
 Here begins the specifically Walloon part, and it went largely unnoticed. Two changes took effect in 2026.
@@ -137,9 +140,11 @@ The social tariff is a maximum price set by CREG **every quarter**, aligned on t
 
 For scale: the Belgian average all-in price was around 36.94 c€/kWh in CREG's June 2026 dashboard. Over 3,500 kWh, the gap is worth **on the order of €400 a year**. *(Order of magnitude: the two prices do not cover exactly the same set of surcharges. The exact amount depends on your profile.)*
 
-Who is entitled, and how. CWaPE is clear: **all protected customers** are entitled to it, but the procedure differs by category ([CWaPE](https://www.cwape.be/node/134)). **Federal** protected customers — recipients of public welfare centre support, certain allowances, the increased-reimbursement status — generally get it **automatically**, through data matching, without asking. **Regional** protected customers must obtain a certificate from their public welfare centre or debt mediator and pass it to their network operator, and only qualify if they are supplied by that operator.
+Who is entitled, and how. CWaPE is clear: **all protected customers** are entitled to it, but the procedure differs by category ([CWaPE](https://www.cwape.be/node/134)). **Federal** protected customers — recipients of certain forms of public welfare centre support, of certain Federal Pension Service allowances, of disability-related allowances, as well as tenants of social housing heated by a collective installation — generally get it **automatically**, through data matching, without asking. **Regional** protected customers must obtain a certificate from their public welfare centre or debt mediator and pass it to their network operator, and only qualify if they are supplied by that operator.
 
-The reflex to have: **if your situation has changed** — job loss, separation, gaining increased-reimbursement status, a new allowance coming into force — the social tariff does not always trigger by itself. That is worth a phone call.
+One misconception to clear up while we are here, because it is still widely repeated: **increased-reimbursement status alone no longer opens entitlement to the social tariff.** The extension introduced during the energy crisis ran from 1 February 2021 to 30 June 2023 and came to an end on **1 July 2023** ([FPS Economy](https://economie.fgov.be/fr/themes/energie/energie-sociale/tarif-social-pour-lenergie)). If you hold that status without falling into one of the categories above, you are not on the social tariff, even if you were in 2022.
+
+The reflex to have: **if your situation has changed** — job loss, separation, a new allowance coming into force, moving into social housing — the social tariff does not always trigger by itself. That is worth a phone call.
 
 ## 7. Habitation grants: the window closes on 30 September 2026
 
@@ -246,6 +251,7 @@ It acts on the **energy component**, not on network costs or taxes, which remain
 - [CWaPE — Periodic electricity distribution tariffs, low-voltage withdrawal, ORES ASSETS, 01.01.2026 to 31.12.2026](https://www.cwape.be/sites/default/files/cwape-documents/ORES%20-%20Tarifs%20p%C3%A9riodiques%20de%20pr%C3%A9l%C3%A8vement%202026_0.pdf) — primary source for every tariff quoted here: prosumer term at €80.9813336/kWe, proportional terms for single-rate, dual-rate and Impact, the official time bands of both grids, capacity term at €0/kW for 2026-2029, the 80% reduction on energy shared within a single building, and the Impact access conditions. Approved on 18 December 2025.
 - [CWaPE — CompaCWaPE](https://www.cwape.be/consommateurs/compacwape) and [compacwape.be](https://www.compacwape.be/) — the official free comparator of offers from suppliers active in the Walloon Region, based on the current month's tariff sheets.
 - [CWaPE — The social tariff](https://www.cwape.be/node/134) — all protected customers are entitled to it; automatic for federal protected customers, certificate from the public welfare centre and supply by the network operator for regional protected customers.
+- [FPS Economy — Social tariff for energy](https://economie.fgov.be/fr/themes/energie/energie-sociale/tarif-social-pour-lenergie) — categories of entitled persons and automatic granting through data matching; the extension to recipients of increased reimbursement ran from 1 February 2021 to 30 June 2023 and is no longer in force.
 - [CWaPE — tarifimpact.be](https://www.tarifimpact.be/) — simulator, eligibility test and explanations of incentive-based pricing.
 - [CREG — Note Z3230, maximum social prices for Q3 2026](https://www.creg.be/sites/default/files/assets/Publications/Notes/Z3230FR.pdf) — social tariffs including VAT: 24.927 c€/kWh single rate, 26.797 dual-rate day, 23.328 dual-rate night, 20.195 exclusive night; quarterly setting method.
 - [CREG — Energy prices for households, April 2026 findings](https://www.creg.be/fr/actualites/prix-de-lenergie-pour-les-menages-constatations-avril-2026) — 16.40% rise in the energy component of fixed contracts in one month and a fixed-versus-variable risk premium reaching 50%.

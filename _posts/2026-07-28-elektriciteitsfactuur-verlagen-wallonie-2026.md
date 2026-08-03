@@ -2,6 +2,7 @@
 layout: post
 title: "Elektriciteitsfactuur verlagen: Wallonië 2026"
 date: 2026-07-28 10:00:00 +0200
+last_modified_at: 2026-08-03 16:00:00 +0200
 author: "OptimCE-team"
 excerpt: "Officiële vergelijker, nieuw Impact-tarief, sociaal tarief, premiedeadline van 30 september, zelfverbruik en energiedelen: tien Waalse hefbomen, berekend op basis van de door de CWaPE goedgekeurde ORES-tarieflijst 2026. Zes ervan kosten niets. Voor elke hefboom de realistische jaarwinst, de voorwaarde en de doorlooptijd."
 description: "Tien concrete, becijferde en gestaafde hefbomen om uw elektriciteitsfactuur in Wallonië te verlagen in 2026 — van de officiële vergelijker tot energiedelen."
@@ -72,6 +73,8 @@ Drie contractfamilies, drie manieren om het risico tussen u en uw leverancier te
 
 Het essentiële punt: dit is geen weddenschap op toekomstige prijzen, maar een keuze over **wie het risico draagt**. Als een afrekeningsfactuur van 300 € u in moeilijkheden zou brengen, is de vaste premie haar geld waard. Zo niet, dan is ze duur.
 
+De becijferde vergelijking van deze formules — samen met het sociaal tarief en energiedelen — staat in [“Welk elektriciteitstarief kiezen in België?”](/nl/nieuws/2026/08/03/elektriciteitstarief-kiezen-belgie/), dat de drie gewesten behandelt.
+
 ## 3. Overstappen naar het nettarief dat bij uw uren past
 
 Hier begint het specifiek Waalse gedeelte, en het is grotendeels onopgemerkt gebleven. Twee wijzigingen zijn in 2026 van kracht geworden.
@@ -137,9 +140,11 @@ Het sociaal tarief is een maximumprijs die de CREG **elk kwartaal** vastlegt, af
 
 Ter vergelijking: de Belgische gemiddelde all-inprijs lag rond 36,94 c€/kWh in het CREG-dashboard van juni 2026. Op 3.500 kWh vertegenwoordigt het verschil **een orde van grootte van 400 € per jaar**. *(Orde van grootte: beide prijzen dekken niet exact dezelfde perimeter van toeslagen. Het exacte bedrag hangt af van uw profiel.)*
 
-Wie er recht op heeft, en hoe. De CWaPE is duidelijk: **alle beschermde klanten** hebben er recht op, maar de procedure verschilt naargelang de categorie ([CWaPE](https://www.cwape.be/node/134)). **Federaal** beschermde klanten — begunstigden van steun van het OCMW, van bepaalde uitkeringen, met het statuut verhoogde tegemoetkoming — krijgen het doorgaans **automatisch**, via gegevenskruising, zonder aanvraag. **Regionaal** beschermde klanten moeten een attest vragen aan hun OCMW of schuldbemiddelaar en dat aan hun netbeheerder bezorgen, en hebben er enkel toegang toe als ze door die netbeheerder beleverd worden.
+Wie er recht op heeft, en hoe. De CWaPE is duidelijk: **alle beschermde klanten** hebben er recht op, maar de procedure verschilt naargelang de categorie ([CWaPE](https://www.cwape.be/node/134)). **Federaal** beschermde klanten — begunstigden van bepaalde steun van het OCMW, van bepaalde uitkeringen van de Federale Pensioendienst, van uitkeringen verbonden aan een handicap, en huurders van sociale woningen met collectieve verwarming — krijgen het doorgaans **automatisch**, via gegevenskruising, zonder aanvraag. **Regionaal** beschermde klanten moeten een attest vragen aan hun OCMW of schuldbemiddelaar en dat aan hun netbeheerder bezorgen, en hebben er enkel toegang toe als ze door die netbeheerder beleverd worden.
 
-De reflex die u zich moet aanmeten: **als uw situatie verandert** — jobverlies, scheiding, toekenning van het statuut verhoogde tegemoetkoming, ingang van een uitkering — springt het sociaal tarief niet altijd vanzelf aan. Dat is een telefoontje waard.
+Meteen ook een hardnekkig misverstand uit de wereld, want het circuleert nog volop: **het statuut van verhoogde tegemoetkoming alleen geeft geen recht meer op het sociaal tarief.** De uitbreiding uit de energiecrisis liep van 1 februari 2021 tot 30 juni 2023 en eindigde op **1 juli 2023** ([FOD Economie](https://economie.fgov.be/fr/themes/energie/energie-sociale/tarif-social-pour-lenergie)). Hebt u dat statuut zonder onder een van bovenstaande categorieën te vallen, dan geniet u het sociaal tarief niet, ook al was dat in 2022 wel zo.
+
+De reflex die u zich moet aanmeten: **als uw situatie verandert** — jobverlies, scheiding, ingang van een uitkering, intrek in een sociale woning — springt het sociaal tarief niet altijd vanzelf aan. Dat is een telefoontje waard.
 
 ## 7. Woonpremies: het venster sluit op 30 september 2026
 
@@ -246,6 +251,7 @@ Het werkt op de **energiecomponent**, niet op de netkosten of de heffingen, die 
 - [CWaPE — Periodieke distributietarieven elektriciteit, afname laagspanning, ORES ASSETS, 01.01.2026 tot 31.12.2026](https://www.cwape.be/sites/default/files/cwape-documents/ORES%20-%20Tarifs%20p%C3%A9riodiques%20de%20pr%C3%A9l%C3%A8vement%202026_0.pdf) — primaire bron van alle hier vermelde tarieven: prosumententerm van 80,9813336 €/kWe, proportionele termen voor enkelvoudig, tweevoudig en Impact, de officiële uurblokken van beide roosters, capaciteitsterm van 0 €/kW voor 2026-2029, vermindering van 80 % op binnen eenzelfde gebouw gedeelde energie en de toegangsvoorwaarden tot het Impact-tarief. Goedgekeurd op 18 december 2025.
 - [CWaPE — CompaCWaPE](https://www.cwape.be/consommateurs/compacwape) en [compacwape.be](https://www.compacwape.be/) — de officiële gratis vergelijker van de aanbiedingen van leveranciers die actief zijn in het Waalse Gewest, op basis van de tariefkaarten van de lopende maand.
 - [CWaPE — Het sociaal tarief](https://www.cwape.be/node/134) — alle beschermde klanten hebben er recht op; automatisch voor federaal beschermde klanten, attest van het OCMW en belevering door de netbeheerder voor regionaal beschermde klanten.
+- [FOD Economie — Sociaal tarief voor energie](https://economie.fgov.be/fr/themes/energie/energie-sociale/tarif-social-pour-lenergie) — categorieën rechthebbenden en automatische toekenning via gegevenskruising; de uitbreiding tot begunstigden van de verhoogde tegemoetkoming liep van 1 februari 2021 tot 30 juni 2023 en is niet meer van kracht.
 - [CWaPE — tarifimpact.be](https://www.tarifimpact.be/) — simulator, geschiktheidstest en uitleg over de stimulerende tarifering.
 - [CREG — Nota Z3230, sociale maximumprijzen voor het 3e kwartaal 2026](https://www.creg.be/sites/default/files/assets/Publications/Notes/Z3230FR.pdf) — sociale tarieven inclusief btw: 24,927 c€/kWh enkelvoudig, 26,797 tweevoudig dag, 23,328 tweevoudig nacht, 20,195 exclusief nacht; methode van driemaandelijkse vaststelling.
 - [CREG — Energieprijzen voor gezinnen, vaststellingen april 2026](https://www.creg.be/fr/actualites/prix-de-lenergie-pour-les-menages-constatations-avril-2026) — stijging van 16,40 % van de energiecomponent van vaste contracten in één maand en risicopremie vast tegenover variabel tot 50 %.

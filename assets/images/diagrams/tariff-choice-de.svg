@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-labelledby="t d">
+<title id="t">Vier Wege, vier Teile der Rechnung</title><desc id="d">Vergleichsschema der vier belgischen Tarifwege: Der Sozialtarif wirkt auf Energie und Netz, hängt aber von einem Status ab; der Nachttarif wirkt auf den Netztarif und unterscheidet sich je nach Region; der dynamische Vertrag wirkt allein auf die Energiekomponente und setzt einen digitalen Zähler voraus; die Energiegemeinschaft wirkt auf die Energiekomponente der geteilten Kilowattstunden und lässt sich mit beiden Vertragsformeln kombinieren.</desc>
+<rect width="800" height="560" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="60" y="52" font-size="22" fill="#212529" font-weight="700">Vier Wege, vier Teile der Rechnung</text>
+<text x="60" y="78" font-size="15" fill="#495057" font-weight="400">Auf welche Blöcke der Rechnung jede Formel tatsächlich wirkt</text>
+
+<text x="299" y="116" font-size="12" fill="#ADB5BD" font-weight="600" text-anchor="middle">Energie 38,5 %</text>
+<text x="422" y="116" font-size="12" fill="#ADB5BD" font-weight="600" text-anchor="middle">Netz 29,7 %</text>
+<text x="523" y="116" font-size="12" fill="#ADB5BD" font-weight="600" text-anchor="middle">Steuern 26,1 %</text>
+<text x="580" y="116" font-size="11" fill="#ADB5BD" font-weight="600" text-anchor="middle">MwSt.</text>
+
+<text x="60" y="147" font-size="15" fill="#212529" font-weight="400">Sozialtarif</text>
+<rect x="230" y="128" width="136.6" height="28" rx="3" fill="#2e7d32"/>
+<rect x="368.6" y="128" width="104.9" height="28" rx="3" fill="#2e7d32"/>
+<rect x="475.5" y="128" width="92.0" height="28" rx="3" fill="#a5d6a7"/>
+<rect x="569.5" y="128" width="20.5" height="28" rx="3" fill="#E9ECEF"/>
+<text x="740" y="147" font-size="13" fill="#212529" font-weight="600" text-anchor="end">≈ 400 €/Jahr</text>
+
+<text x="60" y="205" font-size="15" fill="#212529" font-weight="400">Nachttarif</text>
+<rect x="230" y="186" width="136.6" height="28" rx="3" fill="#a5d6a7"/>
+<rect x="368.6" y="186" width="104.9" height="28" rx="3" fill="#2e7d32"/>
+<rect x="475.5" y="186" width="92.0" height="28" rx="3" fill="#E9ECEF"/>
+<rect x="569.5" y="186" width="20.5" height="28" rx="3" fill="#E9ECEF"/>
+<text x="740" y="205" font-size="13" fill="#212529" font-weight="600" text-anchor="end">≈ 124 € pro Gerät</text>
+
+<text x="60" y="263" font-size="15" fill="#212529" font-weight="400">Dynamischer Vertrag</text>
+<rect x="230" y="244" width="136.6" height="28" rx="3" fill="#2e7d32"/>
+<rect x="368.6" y="244" width="104.9" height="28" rx="3" fill="#E9ECEF"/>
+<rect x="475.5" y="244" width="92.0" height="28" rx="3" fill="#E9ECEF"/>
+<rect x="569.5" y="244" width="20.5" height="28" rx="3" fill="#E9ECEF"/>
+<text x="740" y="263" font-size="13" fill="#212529" font-weight="600" text-anchor="end">+ 62 € oder − 15 %</text>
+
+<text x="60" y="321" font-size="15" fill="#212529" font-weight="400">Energiegemeinschaft</text>
+<rect x="230" y="302" width="136.6" height="28" rx="3" fill="#a5d6a7"/>
+<rect x="368.6" y="302" width="104.9" height="28" rx="3" fill="#E9ECEF"/>
+<rect x="475.5" y="302" width="92.0" height="28" rx="3" fill="#E9ECEF"/>
+<rect x="569.5" y="302" width="20.5" height="28" rx="3" fill="#E9ECEF"/>
+<text x="740" y="321" font-size="13" fill="#212529" font-weight="600" text-anchor="end">≈ 145 € / 500 kWh</text>
+
+<line x1="60" y1="352" x2="740" y2="352" stroke="#DEE2E6" stroke-width="1"/>
+<rect x="60" y="368" width="14" height="14" rx="3" fill="#2e7d32" stroke="#DEE2E6"/>
+<text x="82" y="380" font-size="14" fill="#212529" font-weight="400">Wirkt auf diesen Block</text>
+<rect x="260" y="368" width="14" height="14" rx="3" fill="#a5d6a7" stroke="#DEE2E6"/>
+<text x="282" y="380" font-size="14" fill="#212529" font-weight="400">Wirkt teilweise</text>
+<rect x="440" y="368" width="14" height="14" rx="3" fill="#E9ECEF" stroke="#DEE2E6"/>
+<text x="462" y="380" font-size="14" fill="#212529" font-weight="400">Keine Wirkung</text>
+
+<rect x="60" y="404" width="680" height="64" rx="6" fill="#e8f5e9"/>
+<text x="80" y="430" font-size="14" fill="#1b5e20" font-weight="600">Die Energiegemeinschaft ist der einzige Weg, der zu den anderen hinzukommt:</text>
+<text x="80" y="452" font-size="14" fill="#212529" font-weight="400">kein Anbieterwechsel, keine Bauarbeiten, keine Einkommens- oder Flexibilitätsbedingung.</text>
+
+<text x="60" y="536" font-size="12" fill="#ADB5BD" font-weight="400">Rechnungsanteile: CREG-Monatsbericht Juni 2026 (3 500 kWh/Jahr, Eintarif) — Kumulierungsbedingungen: CWaPE</text>
+</g>
+</svg>

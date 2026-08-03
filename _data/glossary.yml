@@ -292,6 +292,27 @@
     de: ["Verteilungsschlüssel", "Verteilschlüssel"]
     nl: ["verdeelsleutel"]
 
+- slug: client-protege
+  categorie: facturation
+  tags: [aide, belgique, tarif]
+  source_nom: CWaPE
+  source_url: "https://www.cwape.be/node/51"
+  terme:
+    fr: "Client protégé"
+    en: "Protected customer"
+    de: "Geschützter Kunde"
+    nl: "Beschermde klant"
+  definition:
+    fr: "Ménage qui, du fait de sa situation sociale, bénéficie du tarif social et de protections spécifiques. Les clients protégés fédéraux — bénéficiaires de certaines aides du CPAS, de certaines allocations du Service fédéral des Pensions ou d'allocations liées au handicap — l'obtiennent en général automatiquement par croisement de données. Les clients protégés régionaux doivent réclamer une attestation et la transmettre à leur gestionnaire de réseau. Le seul statut BIM n'ouvre plus ce droit depuis le 1er juillet 2023."
+    en: "A household that, because of its social situation, benefits from the social tariff and from specific protections. Federal protected customers — recipients of certain forms of public welfare assistance, of certain Federal Pension Service allowances or of disability-related allowances — generally obtain it automatically through data matching. Regional protected customers must request a certificate and pass it to their grid operator. Increased-reimbursement status alone has not conferred this entitlement since 1 July 2023."
+    de: "Haushalt, der aufgrund seiner sozialen Lage den Sozialtarif und besondere Schutzrechte genießt. Föderal geschützte Kunden — Empfänger bestimmter Hilfen des Sozialhilfezentrums, bestimmter Leistungen des Föderalen Pensionsdienstes oder behinderungsbedingter Beihilfen — erhalten ihn in der Regel automatisch durch Datenabgleich. Regional geschützte Kunden müssen eine Bescheinigung anfordern und sie ihrem Netzbetreiber übermitteln. Der Status der erhöhten Beihilfe allein begründet dieses Recht seit dem 1. Juli 2023 nicht mehr."
+    nl: "Gezin dat wegens zijn sociale situatie het sociaal tarief en specifieke beschermingen geniet. Federaal beschermde klanten — begunstigden van bepaalde steun van het OCMW, van bepaalde uitkeringen van de Federale Pensioendienst of van uitkeringen verbonden aan een handicap — krijgen het doorgaans automatisch via gegevenskruising. Regionaal beschermde klanten moeten zelf een attest opvragen en het aan hun netbeheerder bezorgen. Het statuut van verhoogde tegemoetkoming alleen geeft dit recht sinds 1 juli 2023 niet meer."
+  alias:
+    fr: ["clients protégés"]
+    en: ["protected customers"]
+    de: ["geschützte Kunden"]
+    nl: ["beschermde klanten"]
+
 - slug: code-ean
   categorie: reseau
   tags: [contrat, point, facture]
@@ -1134,7 +1155,7 @@
 
 - slug: tarif-bihoraire
   categorie: reseau
-  tags: [tarif, reseau, heures, wallonie]
+  tags: [tarif, reseau, heures, wallonie, bruxelles, flandre]
   source_nom: ORES
   source_url: "https://www.ores.be/comprendre-ma-facture/tarifs-distribution-2026"
   terme:
@@ -1143,15 +1164,36 @@
     de: "Zweitarif"
     nl: "Tweevoudig tarief"
   definition:
-    fr: "Formule de tarif de réseau qui distingue deux plages horaires. Depuis 2026 en Wallonie, elles sont identiques tous les jours, week-end compris : heures creuses de 11h à 17h et de 22h à 7h, heures pleines de 7h à 11h et de 17h à 22h. Ne pas confondre avec les bandes du tarif Impact, qui sont différentes."
-    en: "A network tariff formula distinguishing two time bands. Since 2026 in Wallonia they are identical every day, weekends included: off-peak from 11:00 to 17:00 and from 22:00 to 07:00, peak from 07:00 to 11:00 and from 17:00 to 22:00. Not to be confused with the Impact tariff bands, which differ."
-    de: "Netztarifformel mit zwei Zeitfenstern. Seit 2026 sind sie in Wallonien an allen Tagen gleich, Wochenende eingeschlossen: Schwachlast von 11 bis 17 Uhr und von 22 bis 7 Uhr, Hochlast von 7 bis 11 Uhr und von 17 bis 22 Uhr. Nicht zu verwechseln mit den Bändern des Impact-Tarifs, die anders liegen."
-    nl: "Nettariefformule met twee uurblokken. Sinds 2026 zijn die in Wallonië elke dag identiek, weekend inbegrepen: daluren van 11 tot 17 uur en van 22 tot 7 uur, piekuren van 7 tot 11 uur en van 17 tot 22 uur. Niet te verwarren met de blokken van het Impact-tarief, die anders liggen."
+    fr: "Formule de tarif de réseau qui distingue deux plages horaires, et dont le découpage diffère d'une région à l'autre. En Wallonie depuis 2026, les plages sont identiques tous les jours, week-end compris : heures creuses de 11h à 17h et de 22h à 7h. À Bruxelles, le découpage historique reste en vigueur : heures creuses de 22h à 7h, plus les week-ends et jours fériés. En Flandre, le tarif de distribution ne distingue plus jour et nuit depuis le tarif capacitaire de 2023. Ne pas confondre les plages wallonnes avec les bandes du tarif Impact, qui sont différentes."
+    en: "A grid tariff formula distinguishing two time bands, whose split differs from one region to another. In Wallonia since 2026 the bands are identical every day, weekends included: off-peak from 11:00 to 17:00 and from 22:00 to 07:00. In Brussels the historic split still applies: off-peak from 22:00 to 07:00, plus weekends and public holidays. In Flanders the distribution tariff no longer distinguishes day from night since the 2023 capacity tariff. Do not confuse the Walloon bands with the Impact tariff bands, which differ."
+    de: "Netztarifformel mit zwei Zeitfenstern, deren Einteilung sich von Region zu Region unterscheidet. In Wallonien sind die Fenster seit 2026 an allen Tagen gleich, Wochenende eingeschlossen: Schwachlast von 11 bis 17 Uhr und von 22 bis 7 Uhr. In Brüssel gilt weiterhin die historische Einteilung: Schwachlast von 22 bis 7 Uhr sowie Wochenenden und Feiertage. In Flandern unterscheidet der Verteilungstarif seit dem Kapazitätstarif von 2023 nicht mehr zwischen Tag und Nacht. Die wallonischen Fenster nicht mit den Bändern des Impact-Tarifs verwechseln, die anders liegen."
+    nl: "Nettariefformule met twee uurblokken, waarvan de indeling per gewest verschilt. In Wallonië zijn de blokken sinds 2026 elke dag identiek, weekend inbegrepen: daluren van 11 tot 17 uur en van 22 tot 7 uur. In Brussel geldt nog de historische indeling: daluren van 22 tot 7 uur, plus de weekends en feestdagen. In Vlaanderen maakt het distributietarief sinds het capaciteitstarief van 2023 geen onderscheid meer tussen dag en nacht. Verwar de Waalse blokken niet met die van het Impact-tarief, die anders liggen."
   alias:
     fr: ["bihoraire", "heures creuses", "heures pleines"]
     en: ["dual-rate", "off-peak hours", "peak hours"]
     de: ["Schwachlastzeiten", "Hochlastzeiten"]
     nl: ["daluren", "piekuren"]
+
+- slug: tarif-capacitaire
+  categorie: reseau
+  tags: [tarif, reseau, flandre, pointe]
+  source_nom: VREG
+  source_url: "https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/nettarieven/capaciteitstarief"
+  terme:
+    fr: "Tarif capacitaire"
+    en: "Capacity tariff"
+    de: "Kapazitätstarif"
+    nl: "Capaciteitstarief"
+  definition:
+    fr: "Tarif de distribution flamand en vigueur depuis janvier 2023, calculé sur la puissance de pointe mensuelle plutôt que sur l'heure de consommation. La pointe moyenne relevée par la VREG est d'environ 3,15 kW, avec un minimum facturé de 2,5 kW. Il fait disparaître la distinction jour/nuit de la part réseau de la facture : le geste utile n'est plus de consommer la nuit, mais d'éviter de tout faire tourner en même temps."
+    en: "The Flemish distribution tariff in force since January 2023, calculated on monthly peak power rather than on the hour of consumption. The average peak recorded by the VREG is around 3.15 kW, with a billed minimum of 2.5 kW. It removes the day/night distinction from the grid part of the bill: the useful move is no longer to consume at night, but to avoid running everything at once."
+    de: "Flämischer Verteilungstarif, in Kraft seit Januar 2023, berechnet auf die monatliche Spitzenleistung statt auf die Verbrauchsstunde. Die von der VREG erfasste Durchschnittsspitze liegt bei etwa 3,15 kW, mit einem berechneten Minimum von 2,5 kW. Er lässt die Unterscheidung Tag/Nacht aus dem Netzteil der Rechnung verschwinden: Der nützliche Griff ist nicht mehr, nachts zu verbrauchen, sondern zu vermeiden, alles gleichzeitig laufen zu lassen."
+    nl: "Vlaams distributietarief dat sinds januari 2023 van kracht is, berekend op het maandelijkse piekvermogen in plaats van op het uur van verbruik. De gemiddelde piek die de VREG optekent bedraagt ongeveer 3,15 kW, met een aangerekend minimum van 2,5 kW. Het doet het onderscheid dag/nacht uit het netgedeelte van de factuur verdwijnen: de nuttige zet is niet langer 's nachts verbruiken, maar vermijden dat alles tegelijk draait."
+  alias:
+    fr: ["terme capacitaire", "capacitaire"]
+    en: ["capacity term"]
+    de: ["Kapazitätsterm"]
+    nl: ["capaciteitsterm"]
 
 - slug: tarif-injection
   categorie: facturation
@@ -1227,15 +1269,15 @@
     de: "Sozialtarif"
     nl: "Sociaal tarief"
   definition:
-    fr: "Tarif avantageux pour l'électricité, le gaz ou la chaleur pour certains ayants droit."
-    en: "A reduced tariff for electricity, gas or heat available to certain eligible households."
-    de: "Vergünstigter Tarif für Strom, Gas oder Wärme für bestimmte Anspruchsberechtigte."
-    nl: "Voordelig tarief voor elektriciteit, gas of warmte voor bepaalde rechthebbenden."
+    fr: "Prix maximal pour l'électricité, le gaz ou la chaleur, réservé aux clients protégés. Il est fixé par la CREG chaque trimestre, publié au Moniteur belge et identique chez tous les fournisseurs : changer d'opérateur n'y change rien. Il couvre la composante énergie et la composante réseau, mais pas l'accise spéciale ni la redevance de raccordement."
+    en: "A maximum price for electricity, gas or heat, reserved for protected customers. It is set by the CREG every quarter, published in the Belgian Official Gazette and identical across every supplier: switching operator changes nothing. It covers the energy and grid components, but not the special excise duty or the connection charge."
+    de: "Höchstpreis für Strom, Gas oder Wärme, geschützten Kunden vorbehalten. Er wird von der CREG jedes Quartal festgelegt, im Belgischen Staatsblatt veröffentlicht und ist bei allen Anbietern identisch: Ein Anbieterwechsel ändert daran nichts. Er deckt die Energie- und die Netzkomponente ab, nicht aber die Sonderakzise oder die Anschlussgebühr."
+    nl: "Maximumprijs voor elektriciteit, gas of warmte, voorbehouden aan beschermde klanten. De CREG legt hem elk kwartaal vast, hij wordt in het Belgisch Staatsblad gepubliceerd en is bij alle leveranciers identiek: van operator veranderen verandert er niets aan. Hij dekt de energie- en de netcomponent, maar niet de bijzondere accijns of de aansluitingsvergoeding."
   alias:
-    fr: []
-    en: []
-    de: []
-    nl: []
+    fr: ["tarif social énergie"]
+    en: ["social energy tariff"]
+    de: ["Energiesozialtarif"]
+    nl: ["sociaal energietarief"]
 
 - slug: tarification-dynamique
   categorie: marche

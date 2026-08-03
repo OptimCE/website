@@ -2,6 +2,7 @@
 layout: post
 title: "Stromrechnung senken: Wallonien 2026"
 date: 2026-07-28 10:00:00 +0200
+last_modified_at: 2026-08-03 16:00:00 +0200
 author: "OptimCE-Team"
 excerpt: "Offizieller Vergleichsrechner, neuer Impact-Tarif, Sozialtarif, Prämienfrist am 30. September, Eigenverbrauch und Energieteilung: zehn wallonische Hebel, berechnet auf Grundlage der von der CWaPE genehmigten ORES-Tarifliste 2026. Sechs davon kosten nichts. Für jeden Hebel die realistische Jahresersparnis, die Bedingung und die Vorlaufzeit."
 description: "Zehn konkrete, belegte Hebel zur Senkung der Stromrechnung in Wallonien 2026 — vom offiziellen Vergleichsrechner bis zur Energieteilung."
@@ -72,6 +73,8 @@ Drei Vertragsfamilien, drei Arten, das Risiko zwischen Ihnen und Ihrem Lieferant
 
 Der entscheidende Punkt: Dies ist keine Wette auf künftige Preise, sondern eine Entscheidung darüber, **wer das Risiko trägt**. Wenn eine Nachzahlung von 300 € Sie in Bedrängnis brächte, ist die Festpreisprämie ihr Geld wert. Andernfalls ist sie teuer.
 
+Der bezifferte Vergleich dieser Formeln — samt Sozialtarif und Energieteilung — findet sich in [„Welchen Stromtarif in Belgien wählen?“](/de/aktuelles/2026/08/03/stromtarif-belgien-waehlen/), der alle drei Regionen behandelt.
+
 ## 3. Zum Netztarif wechseln, der zu Ihren Zeiten passt
 
 Hier beginnt der spezifisch wallonische Teil, und er blieb weitgehend unbemerkt. Zwei Änderungen sind 2026 in Kraft getreten.
@@ -137,9 +140,11 @@ Der Sozialtarif ist ein von der CREG **vierteljährlich** festgesetzter Höchstp
 
 Zur Einordnung: Der belgische All-in-Durchschnittspreis lag im CREG-Dashboard vom Juni 2026 bei rund 36,94 c€/kWh. Auf 3.500 kWh entspricht die Differenz **einer Größenordnung von 400 € pro Jahr**. *(Größenordnung: Die beiden Preise decken nicht exakt denselben Umfang an Zuschlägen ab. Der genaue Betrag hängt von Ihrem Profil ab.)*
 
-Wer Anspruch hat und wie. Die CWaPE ist eindeutig: **Alle geschützten Kunden** haben Anspruch darauf, das Verfahren unterscheidet sich jedoch nach Kategorie ([CWaPE](https://www.cwape.be/node/134)). **Föderal** geschützte Kunden — Empfänger von Leistungen des Sozialhilfezentrums, bestimmter Zulagen oder mit erhöhter Kostenerstattung — erhalten ihn in der Regel **automatisch** über einen Datenabgleich, ohne Antrag. **Regional** geschützte Kunden müssen eine Bescheinigung ihres Sozialhilfezentrums oder Schuldnerberaters anfordern und ihrem Netzbetreiber übermitteln, und haben nur Anspruch, wenn sie von diesem Netzbetreiber beliefert werden.
+Wer Anspruch hat und wie. Die CWaPE ist eindeutig: **Alle geschützten Kunden** haben Anspruch darauf, das Verfahren unterscheidet sich jedoch nach Kategorie ([CWaPE](https://www.cwape.be/node/134)). **Föderal** geschützte Kunden — Empfänger bestimmter Hilfen des Sozialhilfezentrums, bestimmter Leistungen des Föderalen Pensionsdienstes, behinderungsbedingter Beihilfen sowie Mieter von Sozialwohnungen mit Gemeinschaftsheizung — erhalten ihn in der Regel **automatisch** über einen Datenabgleich, ohne Antrag. **Regional** geschützte Kunden müssen eine Bescheinigung ihres Sozialhilfezentrums oder Schuldnerberaters anfordern und ihrem Netzbetreiber übermitteln, und haben nur Anspruch, wenn sie von diesem Netzbetreiber beliefert werden.
 
-Der Reflex, den man sich aneignen sollte: **Wenn sich Ihre Lage ändert** — Arbeitsplatzverlust, Trennung, Zuerkennung der erhöhten Kostenerstattung, Beginn einer Zulage — springt der Sozialtarif nicht immer von selbst an. Das ist einen Anruf wert.
+Ein hartnäckiger Irrtum sei gleich ausgeräumt, denn er kursiert weiterhin stark: **Der Status der erhöhten Beihilfe allein begründet keinen Anspruch mehr auf den Sozialtarif.** Die während der Energiekrise eingeführte Ausweitung lief vom 1. Februar 2021 bis zum 30. Juni 2023 und endete am **1. Juli 2023** ([FÖD Wirtschaft](https://economie.fgov.be/fr/themes/energie/energie-sociale/tarif-social-pour-lenergie)). Wenn Sie diesen Status haben, ohne unter eine der oben genannten Kategorien zu fallen, gilt für Sie kein Sozialtarif — auch wenn das 2022 der Fall war.
+
+Der Reflex, den man sich aneignen sollte: **Wenn sich Ihre Lage ändert** — Arbeitsplatzverlust, Trennung, Beginn einer Zulage, Einzug in eine Sozialwohnung — springt der Sozialtarif nicht immer von selbst an. Das ist einen Anruf wert.
 
 ## 7. Wohnungsprämien: Das Fenster schließt sich am 30. September 2026
 
@@ -246,6 +251,7 @@ Sie wirkt auf die **Energiekomponente**, nicht auf Netzkosten und Abgaben, die a
 - [CWaPE — Periodische Stromverteilungstarife, Niederspannungsentnahme, ORES ASSETS, 01.01.2026 bis 31.12.2026](https://www.cwape.be/sites/default/files/cwape-documents/ORES%20-%20Tarifs%20p%C3%A9riodiques%20de%20pr%C3%A9l%C3%A8vement%202026_0.pdf) — Primärquelle sämtlicher hier genannter Tarife: Prosumer-Term mit 80,9813336 €/kWe, proportionale Terme für Ein-, Zwei- und Impact-Tarif, die amtlichen Zeitfenster beider Raster, Kapazitätsterm mit 0 €/kW für 2026-2029, Ermäßigung von 80 % auf im selben Gebäude geteilte Energie sowie die Zugangsbedingungen zum Impact-Tarif. Genehmigt am 18. Dezember 2025.
 - [CWaPE — CompaCWaPE](https://www.cwape.be/consommateurs/compacwape) und [compacwape.be](https://www.compacwape.be/) — der offizielle kostenlose Vergleichsrechner für Angebote der in der Wallonischen Region tätigen Lieferanten, auf Basis der Tarifblätter des laufenden Monats.
 - [CWaPE — Der Sozialtarif](https://www.cwape.be/node/134) — alle geschützten Kunden haben Anspruch darauf; automatisch für föderal geschützte Kunden, Bescheinigung des Sozialhilfezentrums und Belieferung durch den Netzbetreiber für regional geschützte Kunden.
+- [FÖD Wirtschaft — Sozialtarif für Energie](https://economie.fgov.be/fr/themes/energie/energie-sociale/tarif-social-pour-lenergie) — Kategorien von Anspruchsberechtigten und automatische Gewährung durch Datenabgleich; die Ausweitung auf Empfänger der erhöhten Beihilfe lief vom 1. Februar 2021 bis zum 30. Juni 2023 und gilt nicht mehr.
 - [CWaPE — tarifimpact.be](https://www.tarifimpact.be/) — Simulator, Eignungstest und Erläuterungen zur anreizorientierten Tarifierung.
 - [CREG — Note Z3230, soziale Höchstpreise für das 3. Quartal 2026](https://www.creg.be/sites/default/files/assets/Publications/Notes/Z3230FR.pdf) — Sozialtarife inklusive MwSt.: 24,927 c€/kWh im Eintarif, 26,797 im Zweitarif Tag, 23,328 im Zweitarif Nacht, 20,195 im Nachtstromtarif; Methode der vierteljährlichen Festsetzung.
 - [CREG — Energiepreise für Haushalte, Feststellungen April 2026](https://www.creg.be/fr/actualites/prix-de-lenergie-pour-les-menages-constatations-avril-2026) — Anstieg der Energiekomponente fester Verträge um 16,40 % in einem Monat und Risikoprämie zwischen fest und variabel von bis zu 50 %.
