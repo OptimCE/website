@@ -2,7 +2,7 @@
 layout: post
 title: "Which electricity tariff to choose in Belgium?"
 date: 2026-08-03 10:00:00 +0200
-last_modified_at: 2026-08-03 17:00:00 +0200
+last_modified_at: 2026-08-08 10:00:00 +0200
 author: "OptimCE Team"
 excerpt: "Social tariff, night rate, dynamic contract: three answers to the same question, and they do not act on the same part of your bill. This costed comparison separates them using the CREG social tariffs for the third quarter of 2026 and the grid schedules of all three regions, then examines a fourth route no comparison tool lists — the energy community, the only one that stacks with the other two contract formulas."
 description: "Social tariff, night rate, dynamic contract or energy community: what each formula really changes on your bill, region by region."
@@ -103,7 +103,7 @@ Here is the misconception to correct, and it is still widely repeated: **increas
 
 Alongside the federal scheme there is a **regional protected customer** status, which does not work the same way: you must obtain a certificate from your public welfare centre or your debt mediator, and pass it to your grid operator. Nothing is automatic.
 
-The useful reflex: **if your situation has changed** — job loss, separation, an allowance taking effect, moving into social housing — the tariff does not always trigger by itself. A call to your local welfare service or to your supplier costs ten minutes and can be worth several hundred euros.
+The useful reflex: **if your situation has changed** — job loss, separation, an allowance taking effect, moving into social housing — the tariff does not always trigger by itself. A call to your local welfare service or to your supplier costs ten minutes and can be worth several hundred euros. And if the social tariff is not enough, it sits within a wider safety net — MEBAR, the Social Heating Fund, the energy tutor, the Local Energy Commission — detailed in [“Energy poverty in Wallonia: available support”](/en/news/2026/08/08/energy-poverty-wallonia-support/).
 
 ## Route 2 — The night rate: the answer depends on your region
 
@@ -239,7 +239,7 @@ On **commercial comparison sites** — there are many, often well made — a rem
 
 What not to expect from this exercise: an average household, with no entitlement to the social tariff, no flexibility and no sharing operation nearby, will not halve its bill by changing formula. The first three routes redistribute a few tens to a few hundred euros inside a cost structure of which **61.5 % lies entirely beyond competition**. That is precisely what makes the fourth route interesting: it is the only one that does not consist of negotiating a bill better, but of taking part of it out of the equation.
 
-If this reading leads you to want to act on the “energy” line rather than endure it, [“Join an energy community in Wallonia”](/en/news/2026/05/11/join-energy-community-wallonia/) sets out the eligibility conditions, where to find an open operation and the timescale to expect. And if none exists near you, [“Reduce your electricity bill: energy communities”](/en/news/2026/06/03/energy-community-reduce-electricity-bill/) costs out what creating one would bring.
+If this reading leads you to want to act on the “energy” line rather than endure it, [“Join an energy community in Wallonia”](/en/news/2026/05/11/join-energy-community-wallonia/) sets out the eligibility conditions, where to find an open operation and the timescale to expect. And if none exists near you, [“Reduce your electricity bill: energy communities”](/en/news/2026/06/03/energy-community-reduce-electricity-bill/) costs out what creating one would bring. That still assumes sharing is available in your region: [“Cheaper electricity without switching supplier”](/en/news/2026/08/05/cheaper-electricity-without-switching-supplier/) runs the three-region test, take-up figures in hand.
 
 > ### Join or launch your energy sharing with OptimCE
 >

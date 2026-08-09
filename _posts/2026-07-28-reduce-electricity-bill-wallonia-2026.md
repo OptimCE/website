@@ -2,7 +2,7 @@
 layout: post
 title: "Reduce your electricity bill: Wallonia 2026"
 date: 2026-07-28 10:00:00 +0200
-last_modified_at: 2026-08-03 16:00:00 +0200
+last_modified_at: 2026-08-08 10:00:00 +0200
 author: "OptimCE Team"
 excerpt: "The official comparator, the new Impact tariff, the social tariff, the 30 September grant deadline, self-consumption and energy sharing: ten Walloon levers costed from the ORES 2026 tariff schedule approved by CWaPE. Six of them cost nothing. For each one, the realistic annual saving, the condition to meet and the lead time."
 description: "Ten concrete, costed and sourced levers to cut your electricity bill in Wallonia in 2026 — from the official comparator to energy sharing."
@@ -144,7 +144,7 @@ Who is entitled, and how. CWaPE is clear: **all protected customers** are entitl
 
 One misconception to clear up while we are here, because it is still widely repeated: **increased-reimbursement status alone no longer opens entitlement to the social tariff.** The extension introduced during the energy crisis ran from 1 February 2021 to 30 June 2023 and came to an end on **1 July 2023** ([FPS Economy](https://economie.fgov.be/fr/themes/energie/energie-sociale/tarif-social-pour-lenergie)). If you hold that status without falling into one of the categories above, you are not on the social tariff, even if you were in 2022.
 
-The reflex to have: **if your situation has changed** — job loss, separation, a new allowance coming into force, moving into social housing — the social tariff does not always trigger by itself. That is worth a phone call.
+The reflex to have: **if your situation has changed** — job loss, separation, a new allowance coming into force, moving into social housing — the social tariff does not always trigger by itself. That is worth a phone call. And if the bill has already become unpayable, the social tariff is only one piece of a wider system: [“Energy poverty in Wallonia: available support”](/en/news/2026/08/08/energy-poverty-wallonia-support/) maps what the CPAS can open, from MEBAR to the Social Heating Fund.
 
 ## 7. Habitation grants: the window closes on 30 September 2026
 

@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" role="img" aria-labelledby="t d">
+<title id="t">Welke steun dekt welke brandstof in Wallonië?</title><desc id="d">Tabel van de zes belangrijkste energiesteunmaatregelen in Wallonië — sociaal tarief, Sociaal Verwarmingsfonds, MEBAR-premie, Gas-Elektriciteitsfonds, energietutor en gewaarborgde minimumlevering — afgezet tegen de drie verwarmingsbrandstoffen. De kolom stookolie is grotendeels ongedekt, terwijl 37,5 % van de Waalse gezinnen op die brandstof verwarmt, tegenover 7,5 % in Brussel.</desc>
+<rect width="800" height="620" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="60" y="52" font-size="22" fill="#212529" font-weight="700">Het sociale energievangnet in Wallonië</text>
+<text x="60" y="78" font-size="15" fill="#495057" font-weight="400">Zes maatregelen — en één brandstof die geen sociaal tarief dekt</text>
+
+<text x="250" y="114" font-size="13" fill="#495057" font-weight="700">Bedrag / bereik</text>
+<text x="499" y="114" font-size="13" fill="#495057" font-weight="700" text-anchor="middle">Elek.</text>
+<text x="595" y="114" font-size="13" fill="#495057" font-weight="700" text-anchor="middle">Gas</text>
+<text x="694" y="114" font-size="13" fill="#495057" font-weight="700" text-anchor="middle">Stookolie</text>
+
+<text x="60" y="155" font-size="14" fill="#212529" font-weight="400">Sociaal tarief</text>
+<text x="250" y="155" font-size="13" fill="#212529" font-weight="600">± 400 €/jaar</text>
+<rect x="455" y="132" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="499" y="155" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">ja</text>
+<rect x="551" y="132" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="595" y="155" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">ja</text>
+<rect x="647" y="132" width="93" height="36" rx="4" fill="#E9ECEF"/>
+<text x="694" y="155" font-size="13" fill="#495057" font-weight="600" text-anchor="middle">nee</text>
+
+<text x="60" y="207" font-size="14" fill="#212529" font-weight="400">Sociaal Verwarmingsfonds</text>
+<text x="250" y="207" font-size="13" fill="#212529" font-weight="600">max. 300 €/jaar</text>
+<rect x="455" y="184" width="88" height="36" rx="4" fill="#E9ECEF"/>
+<text x="499" y="207" font-size="13" fill="#495057" font-weight="600" text-anchor="middle">nee</text>
+<rect x="551" y="184" width="88" height="36" rx="4" fill="#E9ECEF"/>
+<text x="595" y="207" font-size="13" fill="#495057" font-weight="600" text-anchor="middle">nee</text>
+<rect x="647" y="184" width="93" height="36" rx="4" fill="#2e7d32"/>
+<text x="694" y="207" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">ja</text>
+
+<text x="60" y="259" font-size="14" fill="#212529" font-weight="400">MEBAR-premie</text>
+<text x="250" y="259" font-size="13" fill="#212529" font-weight="600">max. 2 000 €</text>
+<rect x="455" y="236" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="499" y="259" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">ja</text>
+<rect x="551" y="236" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="595" y="259" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">ja</text>
+<rect x="647" y="236" width="93" height="36" rx="4" fill="#2e7d32"/>
+<text x="694" y="259" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">ja</text>
+
+<text x="60" y="311" font-size="14" fill="#212529" font-weight="400">Gas-Elektriciteitsfonds</text>
+<text x="250" y="311" font-size="13" fill="#212529" font-weight="600">volgens schuld</text>
+<rect x="455" y="288" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="499" y="311" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">ja</text>
+<rect x="551" y="288" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="595" y="311" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">ja</text>
+<rect x="647" y="288" width="93" height="36" rx="4" fill="#E9ECEF"/>
+<text x="694" y="311" font-size="13" fill="#495057" font-weight="600" text-anchor="middle">nee</text>
+
+<text x="60" y="363" font-size="14" fill="#212529" font-weight="400">Energietutor / PAPE</text>
+<text x="250" y="363" font-size="13" fill="#212529" font-weight="600">begeleiding</text>
+<rect x="455" y="340" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="499" y="363" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">ja</text>
+<rect x="551" y="340" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="595" y="363" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">ja</text>
+<rect x="647" y="340" width="93" height="36" rx="4" fill="#2e7d32"/>
+<text x="694" y="363" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">ja</text>
+
+<text x="60" y="415" font-size="14" fill="#212529" font-weight="400">Gewaarborgde levering</text>
+<text x="250" y="415" font-size="13" fill="#212529" font-weight="600">10 A (2 200 W)</text>
+<rect x="455" y="392" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="499" y="415" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">ja</text>
+<rect x="551" y="392" width="88" height="36" rx="4" fill="#a5d6a7"/>
+<text x="595" y="415" font-size="13" fill="#1b5e20" font-weight="600" text-anchor="middle">winter</text>
+<rect x="647" y="392" width="93" height="36" rx="4" fill="#E9ECEF"/>
+<text x="694" y="415" font-size="13" fill="#495057" font-weight="600" text-anchor="middle">nee</text>
+
+<line x1="60" y1="440" x2="740" y2="440" stroke="#DEE2E6" stroke-width="1"/>
+<rect x="60" y="454" width="14" height="14" rx="3" fill="#2e7d32" stroke="#DEE2E6"/>
+<text x="82" y="466" font-size="14" fill="#212529" font-weight="400">Gedekt</text>
+<rect x="230" y="454" width="14" height="14" rx="3" fill="#a5d6a7" stroke="#DEE2E6"/>
+<text x="252" y="466" font-size="14" fill="#212529" font-weight="400">Gedeeltelijk</text>
+<rect x="410" y="454" width="14" height="14" rx="3" fill="#E9ECEF" stroke="#DEE2E6"/>
+<text x="432" y="466" font-size="14" fill="#212529" font-weight="400">Niet gedekt</text>
+
+<rect x="60" y="488" width="680" height="64" rx="6" fill="#e8f5e9"/>
+<text x="80" y="514" font-size="14" fill="#1b5e20" font-weight="600">37,5 % van de Waalse gezinnen verwarmt op stookolie, tegenover 7,5 % in Brussel.</text>
+<text x="80" y="536" font-size="14" fill="#212529" font-weight="400">De enige brandstof zonder sociaal tarief — het Verwarmingsfonds stopt bij 300 €/jaar.</text>
+
+<text x="60" y="592" font-size="12" fill="#ADB5BD" font-weight="400">Barometer energiearmoede 2024 (KBS) — SPW Énergie — Sociaal Verwarmingsfonds — situatie op 8 augustus 2026</text>
+</g>
+</svg>

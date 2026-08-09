@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" role="img" aria-labelledby="t d">
+<title id="t">Welche Hilfe deckt welchen Heizträger in Wallonien?</title><desc id="d">Tabelle der sechs wichtigsten Energiehilfen in Wallonien — Sozialtarif, Sozialer Heizfonds, MEBAR-Prämie, Gas-Strom-Fonds, Energietutor und garantierte Mindestversorgung — abgeglichen mit den drei Heizträgern. Die Spalte Heizöl ist überwiegend ungedeckt, obwohl 37,5 % der wallonischen Haushalte mit diesem Brennstoff heizen, in Brüssel dagegen nur 7,5 %.</desc>
+<rect width="800" height="620" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="60" y="52" font-size="22" fill="#212529" font-weight="700">Das soziale Energienetz in Wallonien</text>
+<text x="60" y="78" font-size="15" fill="#495057" font-weight="400">Sechs Instrumente — und ein Heizträger, den kein Sozialtarif deckt</text>
+
+<text x="250" y="114" font-size="13" fill="#495057" font-weight="700">Betrag / Reichweite</text>
+<text x="499" y="114" font-size="13" fill="#495057" font-weight="700" text-anchor="middle">Strom</text>
+<text x="595" y="114" font-size="13" fill="#495057" font-weight="700" text-anchor="middle">Gas</text>
+<text x="694" y="114" font-size="13" fill="#495057" font-weight="700" text-anchor="middle">Heizöl</text>
+
+<text x="60" y="155" font-size="14" fill="#212529" font-weight="400">Sozialtarif</text>
+<text x="250" y="155" font-size="13" fill="#212529" font-weight="600">≈ 400 €/Jahr</text>
+<rect x="455" y="132" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="499" y="155" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">ja</text>
+<rect x="551" y="132" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="595" y="155" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">ja</text>
+<rect x="647" y="132" width="93" height="36" rx="4" fill="#E9ECEF"/>
+<text x="694" y="155" font-size="13" fill="#495057" font-weight="600" text-anchor="middle">nein</text>
+
+<text x="60" y="207" font-size="14" fill="#212529" font-weight="400">Sozialer Heizfonds</text>
+<text x="250" y="207" font-size="13" fill="#212529" font-weight="600">max. 300 €/Jahr</text>
+<rect x="455" y="184" width="88" height="36" rx="4" fill="#E9ECEF"/>
+<text x="499" y="207" font-size="13" fill="#495057" font-weight="600" text-anchor="middle">nein</text>
+<rect x="551" y="184" width="88" height="36" rx="4" fill="#E9ECEF"/>
+<text x="595" y="207" font-size="13" fill="#495057" font-weight="600" text-anchor="middle">nein</text>
+<rect x="647" y="184" width="93" height="36" rx="4" fill="#2e7d32"/>
+<text x="694" y="207" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">ja</text>
+
+<text x="60" y="259" font-size="14" fill="#212529" font-weight="400">MEBAR-Prämie</text>
+<text x="250" y="259" font-size="13" fill="#212529" font-weight="600">max. 2 000 €</text>
+<rect x="455" y="236" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="499" y="259" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">ja</text>
+<rect x="551" y="236" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="595" y="259" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">ja</text>
+<rect x="647" y="236" width="93" height="36" rx="4" fill="#2e7d32"/>
+<text x="694" y="259" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">ja</text>
+
+<text x="60" y="311" font-size="14" fill="#212529" font-weight="400">Gas-Strom-Fonds</text>
+<text x="250" y="311" font-size="13" fill="#212529" font-weight="600">je nach Schuld</text>
+<rect x="455" y="288" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="499" y="311" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">ja</text>
+<rect x="551" y="288" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="595" y="311" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">ja</text>
+<rect x="647" y="288" width="93" height="36" rx="4" fill="#E9ECEF"/>
+<text x="694" y="311" font-size="13" fill="#495057" font-weight="600" text-anchor="middle">nein</text>
+
+<text x="60" y="363" font-size="14" fill="#212529" font-weight="400">Energietutor / PAPE</text>
+<text x="250" y="363" font-size="13" fill="#212529" font-weight="600">Begleitung</text>
+<rect x="455" y="340" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="499" y="363" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">ja</text>
+<rect x="551" y="340" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="595" y="363" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">ja</text>
+<rect x="647" y="340" width="93" height="36" rx="4" fill="#2e7d32"/>
+<text x="694" y="363" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">ja</text>
+
+<text x="60" y="415" font-size="14" fill="#212529" font-weight="400">Mindestversorgung</text>
+<text x="250" y="415" font-size="13" fill="#212529" font-weight="600">10 A (2 200 W)</text>
+<rect x="455" y="392" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="499" y="415" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">ja</text>
+<rect x="551" y="392" width="88" height="36" rx="4" fill="#a5d6a7"/>
+<text x="595" y="415" font-size="13" fill="#1b5e20" font-weight="600" text-anchor="middle">Winter</text>
+<rect x="647" y="392" width="93" height="36" rx="4" fill="#E9ECEF"/>
+<text x="694" y="415" font-size="13" fill="#495057" font-weight="600" text-anchor="middle">nein</text>
+
+<line x1="60" y1="440" x2="740" y2="440" stroke="#DEE2E6" stroke-width="1"/>
+<rect x="60" y="454" width="14" height="14" rx="3" fill="#2e7d32" stroke="#DEE2E6"/>
+<text x="82" y="466" font-size="14" fill="#212529" font-weight="400">Gedeckt</text>
+<rect x="230" y="454" width="14" height="14" rx="3" fill="#a5d6a7" stroke="#DEE2E6"/>
+<text x="252" y="466" font-size="14" fill="#212529" font-weight="400">Teilweise</text>
+<rect x="410" y="454" width="14" height="14" rx="3" fill="#E9ECEF" stroke="#DEE2E6"/>
+<text x="432" y="466" font-size="14" fill="#212529" font-weight="400">Nicht gedeckt</text>
+
+<rect x="60" y="488" width="680" height="64" rx="6" fill="#e8f5e9"/>
+<text x="80" y="514" font-size="14" fill="#1b5e20" font-weight="600">37,5 % der wallonischen Haushalte heizen mit Heizöl, in Brüssel nur 7,5 %.</text>
+<text x="80" y="536" font-size="14" fill="#212529" font-weight="400">Der einzige Heizträger ohne Sozialtarif — der Heizfonds deckelt bei 300 €/Jahr.</text>
+
+<text x="60" y="592" font-size="12" fill="#ADB5BD" font-weight="400">Barometer der Energiearmut 2024 (KBS) — SPW Énergie — Sozialer Heizfonds — Stand 8. August 2026</text>
+</g>
+</svg>

@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" role="img" aria-labelledby="t d">
+<title id="t">Quelles aides couvrent quel chauffage en Wallonie ?</title><desc id="d">Tableau des six principaux dispositifs d'aide énergie en Wallonie — tarif social, Fonds social chauffage, prime MEBAR, Fonds Gaz-Électricité, tuteur énergie et fourniture minimale garantie — croisés avec les trois vecteurs de chauffage. La colonne mazout est majoritairement non couverte, alors que 37,5 % des ménages wallons se chauffent à ce combustible, contre 7,5 % à Bruxelles.</desc>
+<rect width="800" height="620" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="60" y="52" font-size="22" fill="#212529" font-weight="700">Le filet social énergie en Wallonie</text>
+<text x="60" y="78" font-size="15" fill="#495057" font-weight="400">Six dispositifs — et un vecteur de chauffage qu'aucun tarif social ne couvre</text>
+
+<text x="250" y="114" font-size="13" fill="#495057" font-weight="700">Montant / portée</text>
+<text x="499" y="114" font-size="13" fill="#495057" font-weight="700" text-anchor="middle">Élec.</text>
+<text x="595" y="114" font-size="13" fill="#495057" font-weight="700" text-anchor="middle">Gaz</text>
+<text x="694" y="114" font-size="13" fill="#495057" font-weight="700" text-anchor="middle">Mazout</text>
+
+<text x="60" y="155" font-size="14" fill="#212529" font-weight="400">Tarif social</text>
+<text x="250" y="155" font-size="13" fill="#212529" font-weight="600">≈ 400 €/an</text>
+<rect x="455" y="132" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="499" y="155" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">oui</text>
+<rect x="551" y="132" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="595" y="155" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">oui</text>
+<rect x="647" y="132" width="93" height="36" rx="4" fill="#E9ECEF"/>
+<text x="694" y="155" font-size="13" fill="#495057" font-weight="600" text-anchor="middle">non</text>
+
+<text x="60" y="207" font-size="14" fill="#212529" font-weight="400">Fonds social chauffage</text>
+<text x="250" y="207" font-size="13" fill="#212529" font-weight="600">max 300 €/an</text>
+<rect x="455" y="184" width="88" height="36" rx="4" fill="#E9ECEF"/>
+<text x="499" y="207" font-size="13" fill="#495057" font-weight="600" text-anchor="middle">non</text>
+<rect x="551" y="184" width="88" height="36" rx="4" fill="#E9ECEF"/>
+<text x="595" y="207" font-size="13" fill="#495057" font-weight="600" text-anchor="middle">non</text>
+<rect x="647" y="184" width="93" height="36" rx="4" fill="#2e7d32"/>
+<text x="694" y="207" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">oui</text>
+
+<text x="60" y="259" font-size="14" fill="#212529" font-weight="400">Prime MEBAR</text>
+<text x="250" y="259" font-size="13" fill="#212529" font-weight="600">max 2 000 €</text>
+<rect x="455" y="236" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="499" y="259" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">oui</text>
+<rect x="551" y="236" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="595" y="259" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">oui</text>
+<rect x="647" y="236" width="93" height="36" rx="4" fill="#2e7d32"/>
+<text x="694" y="259" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">oui</text>
+
+<text x="60" y="311" font-size="14" fill="#212529" font-weight="400">Fonds Gaz-Électricité</text>
+<text x="250" y="311" font-size="13" fill="#212529" font-weight="600">selon la dette</text>
+<rect x="455" y="288" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="499" y="311" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">oui</text>
+<rect x="551" y="288" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="595" y="311" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">oui</text>
+<rect x="647" y="288" width="93" height="36" rx="4" fill="#E9ECEF"/>
+<text x="694" y="311" font-size="13" fill="#495057" font-weight="600" text-anchor="middle">non</text>
+
+<text x="60" y="363" font-size="14" fill="#212529" font-weight="400">Tuteur énergie / PAPE</text>
+<text x="250" y="363" font-size="13" fill="#212529" font-weight="600">accompagnement</text>
+<rect x="455" y="340" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="499" y="363" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">oui</text>
+<rect x="551" y="340" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="595" y="363" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">oui</text>
+<rect x="647" y="340" width="93" height="36" rx="4" fill="#2e7d32"/>
+<text x="694" y="363" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">oui</text>
+
+<text x="60" y="415" font-size="14" fill="#212529" font-weight="400">Fourniture garantie</text>
+<text x="250" y="415" font-size="13" fill="#212529" font-weight="600">10 A (2 200 W)</text>
+<rect x="455" y="392" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="499" y="415" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">oui</text>
+<rect x="551" y="392" width="88" height="36" rx="4" fill="#a5d6a7"/>
+<text x="595" y="415" font-size="13" fill="#1b5e20" font-weight="600" text-anchor="middle">hiver</text>
+<rect x="647" y="392" width="93" height="36" rx="4" fill="#E9ECEF"/>
+<text x="694" y="415" font-size="13" fill="#495057" font-weight="600" text-anchor="middle">non</text>
+
+<line x1="60" y1="440" x2="740" y2="440" stroke="#DEE2E6" stroke-width="1"/>
+<rect x="60" y="454" width="14" height="14" rx="3" fill="#2e7d32" stroke="#DEE2E6"/>
+<text x="82" y="466" font-size="14" fill="#212529" font-weight="400">Couvert</text>
+<rect x="230" y="454" width="14" height="14" rx="3" fill="#a5d6a7" stroke="#DEE2E6"/>
+<text x="252" y="466" font-size="14" fill="#212529" font-weight="400">Partiel</text>
+<rect x="410" y="454" width="14" height="14" rx="3" fill="#E9ECEF" stroke="#DEE2E6"/>
+<text x="432" y="466" font-size="14" fill="#212529" font-weight="400">Non couvert</text>
+
+<rect x="60" y="488" width="680" height="64" rx="6" fill="#e8f5e9"/>
+<text x="80" y="514" font-size="14" fill="#1b5e20" font-weight="600">37,5 % des ménages wallons se chauffent au mazout, contre 7,5 % à Bruxelles.</text>
+<text x="80" y="536" font-size="14" fill="#212529" font-weight="400">C'est le seul vecteur sans tarif social — le Fonds chauffage y plafonne à 300 €/an.</text>
+
+<text x="60" y="592" font-size="12" fill="#ADB5BD" font-weight="400">Baromètre de la précarité énergétique 2024 (FRB) — SPW Énergie — Fonds social chauffage — situation au 8 août 2026</text>
+</g>
+</svg>

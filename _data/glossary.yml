@@ -334,6 +334,27 @@
     de: ["EAN", "EAN-Nummer"]
     nl: ["EAN", "EAN-nummer"]
 
+- slug: commission-locale-energie
+  categorie: juridique
+  tags: [wallonie, coupure, cpas]
+  source_nom: "Energie Info Wallonie"
+  source_url: "https://www.energieinfowallonie.be/fr/commissions-locales-pour-lenergie"
+  terme:
+    fr: "Commission locale pour l'énergie"
+    en: "Local Energy Commission"
+    de: "Lokale Energiekommission"
+    nl: "Lokale Energiecommissie"
+  definition:
+    fr: "Instance communale wallonne qui se réunit, à la demande du gestionnaire de réseau ou du client, avant une suspension de fourniture. Elle associe le conseil de l'aide sociale, le gestionnaire de réseau, la guidance sociale énergétique du CPAS et le client, et statue à la majorité sur la fourniture minimale garantie, la remise de dette, les bons mazout ou la réouverture du compteur. Recours possible devant le juge de paix."
+    en: "A Walloon municipal body convened, at the request of the network operator or the customer, before a supply suspension. It brings together the social welfare council, the network operator, the CPAS social energy guidance service and the customer, and rules by majority on guaranteed minimum supply, debt relief, heating oil vouchers or meter reopening. An appeal lies to the justice of the peace."
+    de: "Kommunales wallonisches Gremium, das auf Antrag des Netzbetreibers oder des Kunden vor einer Aussetzung der Belieferung zusammentritt. Es vereint den Sozialhilferat, den Netzbetreiber, die soziale Energiebegleitung des ÖSHZ und den Kunden und entscheidet mit Mehrheit über die garantierte Mindestversorgung, den Schuldenerlass, Heizölgutscheine oder die Wiederöffnung des Zählers. Der Rechtsweg zum Friedensgericht steht offen."
+    nl: "Waals gemeentelijk orgaan dat op verzoek van de netbeheerder of de afnemer samenkomt vóór een opschorting van de levering. Het verenigt de raad voor maatschappelijk welzijn, de netbeheerder, de sociale energiebegeleiding van het OCMW en de afnemer, en beslist bij meerderheid over de gewaarborgde minimumlevering, de kwijtschelding van schuld, stookoliebonnen of de heropening van de meter. Beroep bij de vrederechter is mogelijk."
+  alias:
+    fr: ["Commissions locales pour l'énergie"]
+    en: ["Local Energy Commissions"]
+    de: ["Lokale Energiekommissionen"]
+    nl: ["Lokale Energiecommissies"]
+
 - slug: communaute
   categorie: gouvernance
   tags: [communaute, membres, partage]
@@ -523,6 +544,27 @@
     de: ["grüne Energie"]
     nl: ["groene energie"]
 
+- slug: energie-residuelle
+  categorie: facturation
+  tags: [facturation, partage, fournisseur]
+  source_nom: CWaPE
+  source_url: "https://www.cwape.be/node/5618"
+  terme:
+    fr: "Énergie résiduelle"
+    en: "Residual energy"
+    de: "Restenergie"
+    nl: "Restenergie"
+  definition:
+    fr: "Part de votre consommation que le partage ne couvre pas et que votre fournisseur continue de facturer au tarif de votre contrat. Elle existe toujours, car le partage ne joue que dans les quarts d'heure où il y a de la production locale."
+    en: "The share of your consumption that sharing does not cover and that your supplier keeps billing at your contract price. It always exists, because sharing only applies during the quarter-hours when local production is available."
+    de: "Der Teil Ihres Verbrauchs, den die Teilung nicht abdeckt und den Ihr Lieferant weiterhin zum Preis Ihres Vertrags abrechnet. Er besteht immer, denn die Teilung greift nur in den Viertelstunden mit lokaler Erzeugung."
+    nl: "Het deel van uw verbruik dat het delen niet dekt en dat uw leverancier blijft factureren tegen de prijs van uw contract. Het bestaat altijd, want delen speelt alleen tijdens de kwartieren met lokale productie."
+  alias:
+    fr: ["énergie complémentaire"]
+    en: ["complementary energy"]
+    de: ["Reststrom"]
+    nl: ["aanvullende energie"]
+
 - slug: facturation
   categorie: facturation
   tags: [paiement, contrat, finance]
@@ -648,6 +690,27 @@
     en: []
     de: []
     nl: []
+
+- slug: fonds-social-chauffage
+  categorie: reglementaire
+  tags: [aide, mazout, cpas]
+  source_nom: "Fonds Social Chauffage"
+  source_url: "https://www.fondschauffage.be"
+  terme:
+    fr: "Fonds social chauffage"
+    en: "Social Heating Fund"
+    de: "Sozialer Heizfonds"
+    nl: "Sociaal Verwarmingsfonds"
+  definition:
+    fr: "Fonds fédéral qui intervient, via le CPAS, dans l'achat de gasoil de chauffage, de propane en vrac ou de pétrole lampant par les ménages à revenus modestes. En 2026 l'allocation va de 0,14 à 0,20 € par litre, dans la limite de 1 500 litres et de 300 € par an, ou 210 € forfaitaires pour un achat à la pompe. C'est le seul dispositif couvrant les vecteurs de chauffage privés de tarif social."
+    en: "A federal fund contributing, through the CPAS, to the purchase of heating gasoil, bulk propane or kerosene by modest-income households. In 2026 the allowance runs from €0.14 to €0.20 per litre, within a limit of 1,500 litres and €300 per year, or a €210 flat rate for purchases at the pump. It is the only scheme covering heating fuels that have no social tariff."
+    de: "Föderaler Fonds, der über das ÖSHZ zum Kauf von Heizgasöl, losem Propangas oder Leuchtpetroleum durch Haushalte mit bescheidenem Einkommen beiträgt. 2026 reicht die Zuwendung von 0,14 bis 0,20 € je Liter, begrenzt auf 1 500 Liter und 300 € pro Jahr, oder 210 € pauschal beim Kauf an der Zapfsäule. Es ist das einzige Instrument für Heizträger ohne Sozialtarif."
+    nl: "Federaal fonds dat via het OCMW tussenkomt in de aankoop van huisbrandolie, propaan in bulk of lampolie door gezinnen met een bescheiden inkomen. In 2026 loopt de toelage van 0,14 tot 0,20 € per liter, binnen een grens van 1 500 liter en 300 € per jaar, of 210 € forfaitair bij aankoop aan de pomp. Het is de enige maatregel voor verwarmingsbrandstoffen zonder sociaal tarief."
+  alias:
+    fr: ["Fonds social mazout", "Fonds chauffage"]
+    en: ["Heating Fund"]
+    de: ["Heizfonds"]
+    nl: ["Verwarmingsfonds"]
 
 - slug: fournisseur
   categorie: marche
@@ -796,6 +859,27 @@
     de: []
     nl: []
 
+- slug: mebar
+  categorie: reglementaire
+  tags: [prime, wallonie, cpas]
+  source_nom: "SPW Énergie"
+  source_url: "https://www.wallonie.be/fr/demarches/demander-une-subvention-energie-en-tant-que-menage-revenu-modeste-prime-mebar"
+  terme:
+    fr: "MEBAR"
+    en: "MEBAR"
+    de: "MEBAR"
+    nl: "MEBAR"
+  definition:
+    fr: "Subvention wallonne aux ménages à revenus modestes pour des travaux économiseurs d'énergie dans le logement principal : châssis, isolation, poêle, gainage de cheminée, chaudière ou chauffe-eau. Elle atteint 2 000 € depuis le 13 juin 2022 et peut être doublée selon la nature des travaux. Elle s'introduit exclusivement par le CPAS, avec un délai minimum de cinq ans entre deux demandes."
+    en: "A Walloon subsidy for modest-income households covering energy-saving works in the main dwelling: window frames, insulation, a stove, chimney lining, a boiler or a water heater. It reaches €2,000 since 13 June 2022 and can be doubled depending on the type of works. It is filed exclusively through the CPAS, with a minimum of five years between two applications."
+    de: "Wallonischer Zuschuss für Haushalte mit bescheidenem Einkommen für energiesparende Arbeiten an der Hauptwohnung: Fensterrahmen, Dämmung, Ofen, Schornsteinauskleidung, Heizkessel oder Warmwasserbereiter. Er beträgt seit dem 13. Juni 2022 bis zu 2 000 € und kann je nach Art der Arbeiten verdoppelt werden. Der Antrag läuft ausschließlich über das ÖSHZ, mit mindestens fünf Jahren zwischen zwei Anträgen."
+    nl: "Waalse subsidie voor gezinnen met een bescheiden inkomen voor energiebesparende werken aan de hoofdwoning: ramen, isolatie, kachel, het voeren van een schoorsteen, ketel of waterverwarmer. Ze bedraagt sinds 13 juni 2022 tot 2 000 € en kan naargelang de aard van de werken worden verdubbeld. Ze wordt uitsluitend via het OCMW ingediend, met minstens vijf jaar tussen twee aanvragen."
+  alias:
+    fr: ["prime MEBAR", "subvention MEBAR"]
+    en: ["MEBAR grant"]
+    de: ["MEBAR-Prämie"]
+    nl: ["MEBAR-premie"]
+
 - slug: mediation-energie
   categorie: juridique
   tags: [recours, litige, belgique]
@@ -858,6 +942,27 @@
     en: []
     de: []
     nl: []
+
+- slug: pair-a-pair
+  categorie: partage
+  tags: [partage, voisinage, bilateral]
+  source_nom: Brugel
+  source_url: "https://energysharing.brugel.brussels/energysharing/partage-d-energie-540"
+  terme:
+    fr: "Pair-à-pair"
+    en: "Peer-to-peer"
+    de: "Peer-to-Peer"
+    nl: "Peer-to-peer"
+  definition:
+    fr: "Partage d'électricité entre deux points de fourniture seulement, par exemple entre deux voisins, sans créer de personne morale. Opérationnel à Bruxelles et en Flandre ; prévu par le décret wallon depuis 2022 mais toujours inopérant faute d'arrêté d'exécution."
+    en: "Electricity sharing between two supply points only, for instance between two neighbours, without creating a legal entity. Operational in Brussels and Flanders; provided for by the Walloon decree since 2022 but still inoperative for lack of an implementing order."
+    de: "Stromteilung zwischen nur zwei Lieferstellen, etwa zwischen zwei Nachbarn, ohne Gründung einer juristischen Person. In Brüssel und Flandern in Betrieb; im wallonischen Dekret seit 2022 vorgesehen, mangels Ausführungserlass jedoch weiterhin außer Betrieb."
+    nl: "Elektriciteit delen tussen slechts twee leveringspunten, bijvoorbeeld tussen twee buren, zonder een rechtspersoon op te richten. Operationeel in Brussel en Vlaanderen; sinds 2022 voorzien in het Waalse decreet maar nog steeds niet operationeel bij gebrek aan een uitvoeringsbesluit."
+  alias:
+    fr: ["peer-to-peer", "partage de pair à pair"]
+    en: ["P2P sharing"]
+    de: ["Peer-to-Peer-Teilung"]
+    nl: ["peer-to-peerdelen"]
 
 - slug: partage-d-energie
   categorie: partage
@@ -963,6 +1068,27 @@
     en: []
     de: []
     nl: []
+
+- slug: precarite-energetique
+  categorie: reglementaire
+  tags: [social, belgique, indicateur]
+  source_nom: "SPF Economie"
+  source_url: "https://economie.fgov.be/fr/themes/energie/energie-sociale/indicateurs-de-precarite"
+  terme:
+    fr: "Précarité énergétique"
+    en: "Energy poverty"
+    de: "Energiearmut"
+    nl: "Energiearmoede"
+  definition:
+    fr: "Situation d'un ménage qui rencontre des difficultés particulières, dans son logement, à satisfaire ses besoins élémentaires en énergie. L'arrêté royal du 19 avril 2024 en fixe trois indicateurs officiels, calculés sur l'enquête SILC de Statbel : la précarité mesurée (poids excessif de la facture dans le revenu), cachée (consommation anormalement basse, signe de restriction) et ressentie (difficulté déclarée à chauffer correctement)."
+    en: "The situation of a household that faces particular difficulty, in its home, in meeting its basic energy needs. The Royal Decree of 19 April 2024 sets three official indicators, computed on Statbel's SILC survey: measured poverty (an excessive share of income spent on energy), hidden poverty (abnormally low consumption, a sign of self-restriction) and perceived poverty (self-declared difficulty keeping the home warm)."
+    de: "Lage eines Haushalts, der in seiner Wohnung besondere Schwierigkeiten hat, seinen elementaren Energiebedarf zu decken. Der Königliche Erlass vom 19. April 2024 legt drei offizielle Indikatoren fest, berechnet auf der SILC-Erhebung von Statbel: die gemessene Armut (übermäßiger Einkommensanteil für Energie), die verdeckte Armut (auffällig niedriger Verbrauch als Zeichen der Einschränkung) und die empfundene Armut (selbst erklärte Schwierigkeit, angemessen zu heizen)."
+    nl: "Situatie van een gezin dat in zijn woning bijzondere moeilijkheden ondervindt om in zijn elementaire energiebehoeften te voorzien. Het koninklijk besluit van 19 april 2024 legt drie officiële indicatoren vast, berekend op de SILC-enquête van Statbel: de gemeten armoede (buitensporig aandeel van het inkomen voor energie), de verborgen armoede (abnormaal laag verbruik, teken van zelfbeperking) en de ervaren armoede (zelf verklaarde moeilijkheid om behoorlijk te verwarmen)."
+  alias:
+    fr: ["pauvreté énergétique"]
+    en: ["fuel poverty"]
+    de: ["energetische Armut"]
+    nl: ["energie-armoede"]
 
 - slug: prime-habitation
   categorie: reglementaire
@@ -1404,6 +1530,27 @@
     en: ["capacity tariff", "power term"]
     de: ["Kapazitätstarif", "Leistungsterm"]
     nl: ["capaciteitsterm", "vermogensterm"]
+
+- slug: tuteur-energie
+  categorie: reglementaire
+  tags: [cpas, conseil, wallonie]
+  source_nom: "Action sociale Wallonie"
+  source_url: "http://actionsociale.wallonie.be/lutte-surendettement/tuteurs-energie"
+  terme:
+    fr: "Tuteur énergie"
+    en: "Energy tutor"
+    de: "Energietutor"
+    nl: "Energietutor"
+  definition:
+    fr: "Conseiller employé par un CPAS wallon et subventionné par la Région depuis une décision du Gouvernement wallon du 28 août 2008. Il se rend chez le ménage, lit les factures avec lui, repère les usages coûteux et active les aides auxquelles il a droit sans le savoir. Son financement passe largement par les plans d'action préventive en matière d'énergie (PAPE)."
+    en: "An adviser employed by a Walloon CPAS and subsidised by the Region since a Walloon Government decision of 28 August 2008. They visit the household, read the bills with it, spot costly usage and activate the support it is entitled to without knowing. Funding largely runs through the preventive energy action plans (PAPE)."
+    de: "Berater, der von einem wallonischen ÖSHZ beschäftigt und seit einem Beschluss der Wallonischen Regierung vom 28. August 2008 von der Region bezuschusst wird. Er sucht den Haushalt auf, liest mit ihm die Rechnungen, erkennt kostspielige Gewohnheiten und aktiviert Ansprüche, von denen der Haushalt nichts wusste. Die Finanzierung läuft weitgehend über die Präventiven Energieaktionspläne (PAPE)."
+    nl: "Adviseur in dienst van een Waals OCMW en gesubsidieerd door het Gewest sinds een beslissing van de Waalse Regering van 28 augustus 2008. Hij komt bij het gezin langs, leest samen met het gezin de facturen, spoort dure gewoonten op en activeert rechten waarvan het gezin het bestaan niet kende. De financiering verloopt grotendeels via de preventieve actieplannen inzake energie (PAPE)."
+  alias:
+    fr: ["tuteurs énergie"]
+    en: ["energy tutors"]
+    de: ["Energietutoren"]
+    nl: ["energietutors"]
 
 - slug: tva
   categorie: facturation

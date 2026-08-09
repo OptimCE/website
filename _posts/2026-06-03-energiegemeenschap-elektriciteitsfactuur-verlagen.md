@@ -8,7 +8,7 @@ description: "Waar de besparing echt vandaan komt, een rekenvoorbeeld, de versch
 tags: [community]
 lang: nl
 ref: reduce-electricity-bill
-last_modified_at: 2026-07-28 10:00:00 +0200
+last_modified_at: 2026-08-05 10:00:00 +0200
 permalink: /nl/nieuws/2026/06/03/energiegemeenschap-elektriciteitsfactuur-verlagen/
 ---
 
@@ -68,7 +68,7 @@ De besparingsmechanismen bestaan in alle drie de regio's, maar de actoren en som
 |---|---|---|---|
 | Regulator | CWaPE | BRUGEL | VREG |
 | Distributienetbeheerder (DNB) | ORES, RESA, AIEG | Sibelga | Fluvius |
-| Nettarief op gedeelde energie | Geen vermindering in gemeenschap; −80% op de proportionele termen in hetzelfde gebouw | Graduele vermindering naargelang de nabijheid: 100% in hetzelfde gebouw, 50% op dezelfde LS-cabine, geen daarbuiten | Geen vermindering |
+| Nettarief op gedeelde energie | Geen vermindering in gemeenschap; −80% op de proportionele termen in hetzelfde gebouw | Getrapte vermindering over vier perimeters: proportionele term geschrapt in hetzelfde gebouw, −50% op dezelfde LS-cabine; de vaste term wordt in geen van de vier aangerekend | Geen vermindering |
 | Bijkomend inkomen voor de producent | Groenestroomcertificaten | Groenestroomcertificaten (≈ eerste 10 jaar) | Specifieke steun — zie VREG |
 | Slimme meter vereist | Ja | Ja | Ja |
 | Verdeelsleutel | Standaardfamilies CWaPE | Vast / pro rata / hybride (BRUGEL) | Vaste / relatieve / optimale (VREG) |
@@ -86,6 +86,8 @@ Het delen komt alle leden ten goede, maar sommige profielen halen er meer uit:
 - **Kmo's en lokale overheden**, waarvan de dakoppervlakken of verbruiksprofielen zich goed lenen tot delen, met een directe impact op hun kosten.
 
 Energiedelen is uiteraard niet de enige hefboom die u ter beschikking staat. Woont u in Wallonië, dan plaatst onze gids [“Elektriciteitsfactuur verlagen: Wallonië 2026”](/nl/nieuws/2026/07/28/elektriciteitsfactuur-verlagen-wallonie-2026/) de energiegemeenschap tussen tien becijferde hefbomen, van de officiële vergelijker van de CWaPE tot het sociaal tarief.
+
+Één vraag beslecht dit artikel niet: is delen überhaupt beschikbaar waar u woont? Het antwoord hangt veel meer af van uw gewest dan u zou vermoeden, en [“Goedkopere stroom zonder leverancierswissel”](/nl/nieuws/2026/08/05/goedkopere-stroom-zonder-leverancierswissel/) becijfert het gewest per gewest — inclusief het feit dat peer-to-peer delen in Wallonië niet operationeel blijft.
 
 ## FAQ
 
@@ -144,5 +146,6 @@ De eenvoudigste manier om uw factuur te verlagen, is **toetreden tot een bestaan
 - [Sibelga — Energie delen in Brussel](https://www.sibelga.be/en/connections-meters/renewable-energy/energy-sharing) — hoe het in de praktijk werkt en nettarieven naargelang de locatie.
 - [Sibelga — Groenestroomcertificaten](https://www.sibelga.be/en/connections-meters/renewable-energy/solar-panels/green-certificates) — bijkomend inkomen voor Brusselse producenten.
 - [BRUGEL — Energy Sharing](https://energysharing.brugel.brussels) — Brussels deelkader en tarieven.
+- [BRUGEL — Nettarieven van toepassing op energiedelen](https://energysharing.brugel.brussels/energysharing/tarifs-de-reseau-409) — beslissing 285bis van 4 november 2024: de vier perimeters A tot D en de behandeling van elke tariefterm, bron van de Brusselse details in de tabel hierboven.
 - [CWaPE — Energiegemeenschappen en delen](https://www.cwape.be/secteur/communautes-partage-energie) — Waals kader.
 - [FOD Economie — Aandeel hernieuwbare energiebronnen](https://economie.fgov.be/fr/themes/energie/suivi-des-objectifs-europeens/part-des-sources-denergie) — statistieken 2024 en doelstelling 2030.

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-labelledby="t d">
+<title id="t">Where is energy sharing actually available?</title><desc id="d">Comparison table of access to energy sharing across the three Belgian regions: in Brussels all three forms of sharing are operational with a graduated network tariff reduction, in Wallonia same-building and community sharing work but peer-to-peer remains blocked for lack of an implementing order, in Flanders sharing and selling are open to everyone but without any network tariff reduction.</desc>
+<rect width="800" height="560" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="60" y="52" font-size="22" fill="#212529" font-weight="700">Where is energy sharing actually available?</text>
+<text x="60" y="78" font-size="15" fill="#495057" font-weight="400">Three forms of sharing, three regions — and only one where all of them work</text>
+
+<text x="332" y="114" font-size="13" fill="#495057" font-weight="700" text-anchor="middle">Brussels</text>
+<text x="477" y="114" font-size="13" fill="#495057" font-weight="700" text-anchor="middle">Wallonia</text>
+<text x="622" y="114" font-size="13" fill="#495057" font-weight="700" text-anchor="middle">Flanders</text>
+
+<text x="60" y="160" font-size="15" fill="#212529" font-weight="400">Peer-to-peer</text>
+<rect x="265" y="132" width="135" height="44" rx="4" fill="#2e7d32"/>
+<text x="332" y="160" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">operational</text>
+<rect x="410" y="132" width="135" height="44" rx="4" fill="#E9ECEF"/>
+<text x="477" y="160" font-size="13" fill="#495057" font-weight="600" text-anchor="middle">blocked</text>
+<rect x="555" y="132" width="135" height="44" rx="4" fill="#2e7d32"/>
+<text x="622" y="160" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">operational</text>
+
+<text x="60" y="220" font-size="15" fill="#212529" font-weight="400">Same building</text>
+<rect x="265" y="192" width="135" height="44" rx="4" fill="#2e7d32"/>
+<text x="332" y="220" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">operational</text>
+<rect x="410" y="192" width="135" height="44" rx="4" fill="#2e7d32"/>
+<text x="477" y="220" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">operational</text>
+<rect x="555" y="192" width="135" height="44" rx="4" fill="#2e7d32"/>
+<text x="622" y="220" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">operational</text>
+
+<text x="60" y="280" font-size="15" fill="#212529" font-weight="400">Energy community</text>
+<rect x="265" y="252" width="135" height="44" rx="4" fill="#2e7d32"/>
+<text x="332" y="280" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">operational</text>
+<rect x="410" y="252" width="135" height="44" rx="4" fill="#2e7d32"/>
+<text x="477" y="280" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">operational</text>
+<rect x="555" y="252" width="135" height="44" rx="4" fill="#2e7d32"/>
+<text x="622" y="280" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">operational</text>
+
+<text x="60" y="338" font-size="15" fill="#212529" font-weight="400">Network tariff reduction</text>
+<rect x="265" y="312" width="135" height="52" rx="4" fill="#2e7d32"/>
+<text x="332" y="334" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">graduated</text>
+<text x="332" y="351" font-size="10.5" fill="#c8e6c9" font-weight="400" text-anchor="middle">4 perimeters A–D</text>
+<rect x="410" y="312" width="135" height="52" rx="4" fill="#a5d6a7"/>
+<text x="477" y="334" font-size="13" fill="#1b5e20" font-weight="600" text-anchor="middle">− 80 %</text>
+<text x="477" y="351" font-size="10.5" fill="#1b5e20" font-weight="400" text-anchor="middle">same building only</text>
+<rect x="555" y="312" width="135" height="52" rx="4" fill="#E9ECEF"/>
+<text x="622" y="343" font-size="13" fill="#495057" font-weight="600" text-anchor="middle">none</text>
+
+<line x1="60" y1="386" x2="740" y2="386" stroke="#DEE2E6" stroke-width="1"/>
+<rect x="60" y="400" width="14" height="14" rx="3" fill="#2e7d32" stroke="#DEE2E6"/>
+<text x="82" y="412" font-size="14" fill="#212529" font-weight="400">Available</text>
+<rect x="230" y="400" width="14" height="14" rx="3" fill="#a5d6a7" stroke="#DEE2E6"/>
+<text x="252" y="412" font-size="14" fill="#212529" font-weight="400">Partial</text>
+<rect x="410" y="400" width="14" height="14" rx="3" fill="#E9ECEF" stroke="#DEE2E6"/>
+<text x="432" y="412" font-size="14" fill="#212529" font-weight="400">Unavailable</text>
+
+<rect x="60" y="432" width="680" height="64" rx="6" fill="#e8f5e9"/>
+<text x="80" y="458" font-size="14" fill="#1b5e20" font-weight="600">Peer-to-peer — two meters, no legal entity — is the simplest form of all.</text>
+<text x="80" y="480" font-size="14" fill="#212529" font-weight="400">In the Walloon decree since 2022 — still inoperative, no implementing order.</text>
+
+<text x="60" y="536" font-size="12" fill="#ADB5BD" font-weight="400">Brugel (decision 285bis, perimeters A–D) — CWaPE (March 2025 assessment) — VREG / Fluvius — situation as of 5 August 2026</text>
+</g>
+</svg>

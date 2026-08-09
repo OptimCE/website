@@ -2,7 +2,7 @@
 layout: post
 title: "Elektriciteitsfactuur verlagen: Wallonië 2026"
 date: 2026-07-28 10:00:00 +0200
-last_modified_at: 2026-08-03 16:00:00 +0200
+last_modified_at: 2026-08-08 10:00:00 +0200
 author: "OptimCE-team"
 excerpt: "Officiële vergelijker, nieuw Impact-tarief, sociaal tarief, premiedeadline van 30 september, zelfverbruik en energiedelen: tien Waalse hefbomen, berekend op basis van de door de CWaPE goedgekeurde ORES-tarieflijst 2026. Zes ervan kosten niets. Voor elke hefboom de realistische jaarwinst, de voorwaarde en de doorlooptijd."
 description: "Tien concrete, becijferde en gestaafde hefbomen om uw elektriciteitsfactuur in Wallonië te verlagen in 2026 — van de officiële vergelijker tot energiedelen."
@@ -144,7 +144,7 @@ Wie er recht op heeft, en hoe. De CWaPE is duidelijk: **alle beschermde klanten*
 
 Meteen ook een hardnekkig misverstand uit de wereld, want het circuleert nog volop: **het statuut van verhoogde tegemoetkoming alleen geeft geen recht meer op het sociaal tarief.** De uitbreiding uit de energiecrisis liep van 1 februari 2021 tot 30 juni 2023 en eindigde op **1 juli 2023** ([FOD Economie](https://economie.fgov.be/fr/themes/energie/energie-sociale/tarif-social-pour-lenergie)). Hebt u dat statuut zonder onder een van bovenstaande categorieën te vallen, dan geniet u het sociaal tarief niet, ook al was dat in 2022 wel zo.
 
-De reflex die u zich moet aanmeten: **als uw situatie verandert** — jobverlies, scheiding, ingang van een uitkering, intrek in een sociale woning — springt het sociaal tarief niet altijd vanzelf aan. Dat is een telefoontje waard.
+De reflex die u zich moet aanmeten: **als uw situatie verandert** — jobverlies, scheiding, ingang van een uitkering, intrek in een sociale woning — springt het sociaal tarief niet altijd vanzelf aan. Dat is een telefoontje waard. En als de factuur al onbetaalbaar is geworden, is het sociaal tarief maar één onderdeel van een ruimer geheel: [“Energiearmoede in Wallonië: welke steun?”](/nl/nieuws/2026/08/08/energiearmoede-wallonie-steun/) brengt in kaart wat het OCMW kan openen, van MEBAR tot het Sociaal Verwarmingsfonds.
 
 ## 7. Woonpremies: het venster sluit op 30 september 2026
 

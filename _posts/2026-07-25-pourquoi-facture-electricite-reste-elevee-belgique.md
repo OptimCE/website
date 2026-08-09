@@ -8,7 +8,7 @@ description: "L'énergie ne pèse que 40 % de la facture. Décomposition des qua
 tags: [community, administrative, guide]
 lang: fr
 ref: why-electricity-bill-stays-high
-last_modified_at: 2026-07-30 10:00:00 +0200
+last_modified_at: 2026-08-05 10:00:00 +0200
 faq:
   - q: "Pourquoi ma facture d'électricité ne baisse-t-elle pas alors que les prix de l'énergie ont baissé ?"
     a: "Parce que le prix de l'énergie ne représente qu'environ 40 % de votre facture. La CREG le chiffre explicitement : « la composante énergie représente environ 40 % de la facture totale d'électricité ». Les 60 % restants sont des coûts de réseau régulés, des taxes, des accises et la TVA. Une baisse de 20 % sur l'énergie ne retire donc que 8 % environ à la facture — et si les tarifs de réseau montent de 6 à 8 % la même année, comme en 2026 en Wallonie et à Bruxelles, le gain est absorbé."
@@ -173,7 +173,7 @@ Ce qu'il ne faut pas attendre : que la baisse des prix de gros, ou celle des acc
 
 Et si vous cherchez maintenant la liste des gestes plutôt que l'explication, notre guide [« Réduire sa facture d'électricité : Wallonie 2026 »](/actualites/2026/07/28/reduire-facture-electricite-wallonie-2026/) chiffre dix leviers wallons à partir de la grille tarifaire ORES 2026 — dont six qui ne coûtent rien.
 
-Et si votre question porte désormais sur le document lui-même — quelle ligne veut dire quoi, où lire le code EAN, pourquoi un index estimé fabrique une hausse qui n'existe pas — notre guide [« Lire sa facture d'électricité ligne par ligne »](/actualites/2026/07/30/comprendre-facture-electricite-ligne-par-ligne/) décode la facture poste par poste.
+Et si votre question porte désormais sur le document lui-même — quelle ligne veut dire quoi, où lire le code EAN, pourquoi un index estimé fabrique une hausse qui n'existe pas — notre guide [« Lire sa facture d'électricité ligne par ligne »](/actualites/2026/07/30/comprendre-facture-electricite-ligne-par-ligne/) décode la facture poste par poste. Et si vous voulez savoir si le partage d’énergie est seulement accessible chez vous, [« Baisser sa facture sans changer de fournisseur »](/actualites/2026/08/05/electricite-moins-chere-sans-changer-de-fournisseur/) fait le test des trois régions.
 
 > ### Gérez votre partage d'énergie avec OptimCE
 >

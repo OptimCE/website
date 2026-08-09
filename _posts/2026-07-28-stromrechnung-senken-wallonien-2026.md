@@ -2,7 +2,7 @@
 layout: post
 title: "Stromrechnung senken: Wallonien 2026"
 date: 2026-07-28 10:00:00 +0200
-last_modified_at: 2026-08-03 16:00:00 +0200
+last_modified_at: 2026-08-08 10:00:00 +0200
 author: "OptimCE-Team"
 excerpt: "Offizieller Vergleichsrechner, neuer Impact-Tarif, Sozialtarif, Prämienfrist am 30. September, Eigenverbrauch und Energieteilung: zehn wallonische Hebel, berechnet auf Grundlage der von der CWaPE genehmigten ORES-Tarifliste 2026. Sechs davon kosten nichts. Für jeden Hebel die realistische Jahresersparnis, die Bedingung und die Vorlaufzeit."
 description: "Zehn konkrete, belegte Hebel zur Senkung der Stromrechnung in Wallonien 2026 — vom offiziellen Vergleichsrechner bis zur Energieteilung."
@@ -144,7 +144,7 @@ Wer Anspruch hat und wie. Die CWaPE ist eindeutig: **Alle geschützten Kunden** 
 
 Ein hartnäckiger Irrtum sei gleich ausgeräumt, denn er kursiert weiterhin stark: **Der Status der erhöhten Beihilfe allein begründet keinen Anspruch mehr auf den Sozialtarif.** Die während der Energiekrise eingeführte Ausweitung lief vom 1. Februar 2021 bis zum 30. Juni 2023 und endete am **1. Juli 2023** ([FÖD Wirtschaft](https://economie.fgov.be/fr/themes/energie/energie-sociale/tarif-social-pour-lenergie)). Wenn Sie diesen Status haben, ohne unter eine der oben genannten Kategorien zu fallen, gilt für Sie kein Sozialtarif — auch wenn das 2022 der Fall war.
 
-Der Reflex, den man sich aneignen sollte: **Wenn sich Ihre Lage ändert** — Arbeitsplatzverlust, Trennung, Beginn einer Zulage, Einzug in eine Sozialwohnung — springt der Sozialtarif nicht immer von selbst an. Das ist einen Anruf wert.
+Der Reflex, den man sich aneignen sollte: **Wenn sich Ihre Lage ändert** — Arbeitsplatzverlust, Trennung, Beginn einer Zulage, Einzug in eine Sozialwohnung — springt der Sozialtarif nicht immer von selbst an. Das ist einen Anruf wert. Und wenn die Rechnung bereits unbezahlbar geworden ist, ist der Sozialtarif nur ein Baustein eines größeren Gefüges: [„Energiearmut in Wallonien: Hilfen im Überblick“](/de/aktuelles/2026/08/08/energiearmut-wallonien-hilfen/) verzeichnet, was das ÖSHZ öffnen kann, von MEBAR bis zum Sozialen Heizfonds.
 
 ## 7. Wohnungsprämien: Das Fenster schließt sich am 30. September 2026
 

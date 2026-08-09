@@ -2,7 +2,7 @@
 layout: post
 title: "Réduire sa facture d'électricité : Wallonie 2026"
 date: 2026-07-28 10:00:00 +0200
-last_modified_at: 2026-08-03 16:00:00 +0200
+last_modified_at: 2026-08-08 10:00:00 +0200
 author: "Équipe OptimCE"
 excerpt: "Comparateur officiel, nouveau tarif Impact, tarif social, primes avant le 30 septembre, autoconsommation, partage d'énergie : dix leviers wallons chiffrés à partir de la grille tarifaire ORES 2026 approuvée par la CWaPE. Six d'entre eux ne coûtent rien. Pour chacun, le gain annuel réaliste, la condition à remplir et le délai."
 description: "Dix leviers concrets, chiffrés et sourcés pour alléger sa facture d'électricité en Wallonie en 2026 — du comparateur officiel au partage d'énergie."
@@ -143,7 +143,7 @@ Qui y a droit, et comment. La CWaPE est claire : **tous les clients protégés**
 
 Une idée reçue à écarter au passage, car elle circule encore beaucoup : **le seul statut BIM — le droit à l'intervention majorée — n'ouvre plus le droit au tarif social.** L'extension mise en place pendant la crise énergétique a couru du 1<sup>er</sup> février 2021 au 30 juin 2023 et a pris fin le **1<sup>er</sup> juillet 2023** ([SPF Économie](https://economie.fgov.be/fr/themes/energie/energie-sociale/tarif-social-pour-lenergie)). Si vous êtes BIM sans relever d'une des catégories ci-dessus, vous n'êtes pas au tarif social, même si vous l'avez été en 2022.
 
-Le réflexe à avoir : **si votre situation a changé** — perte d'emploi, séparation, entrée en vigueur d'une allocation, admission dans un logement social — le tarif social ne se déclenche pas toujours de lui-même. Cela vaut un appel.
+Le réflexe à avoir : **si votre situation a changé** — perte d'emploi, séparation, entrée en vigueur d'une allocation, admission dans un logement social — le tarif social ne se déclenche pas toujours de lui-même. Cela vaut un appel. Et si la facture est déjà devenue impayable, le tarif social n'est qu'une pièce d'un dispositif plus large : [« Précarité énergétique en Wallonie : les aides »](/actualites/2026/08/08/precarite-energetique-wallonie-aides/) recense ce que le CPAS peut ouvrir, de MEBAR au Fonds social chauffage.
 
 ## 7. Primes Habitation : la fenêtre se ferme le 30 septembre 2026
 

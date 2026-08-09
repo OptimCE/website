@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-labelledby="t d">
+<title id="t">Où le partage d'énergie est-il réellement accessible ?</title><desc id="d">Tableau comparatif de l'accès au partage d'énergie dans les trois régions belges : à Bruxelles les trois formes de partage sont opérationnelles avec une réduction graduée des tarifs de réseau, en Wallonie le partage en même bâtiment et en communauté fonctionnent mais le pair-à-pair reste bloqué faute d'arrêté d'exécution, en Flandre le partage et la vente sont ouverts à tous mais sans aucune réduction des tarifs de réseau.</desc>
+<rect width="800" height="560" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="60" y="52" font-size="22" fill="#212529" font-weight="700">Où le partage d'énergie est-il réellement accessible ?</text>
+<text x="60" y="78" font-size="15" fill="#495057" font-weight="400">Trois formes de partage, trois régions — et une seule où tout fonctionne</text>
+
+<text x="332" y="114" font-size="13" fill="#495057" font-weight="700" text-anchor="middle">Bruxelles</text>
+<text x="477" y="114" font-size="13" fill="#495057" font-weight="700" text-anchor="middle">Wallonie</text>
+<text x="622" y="114" font-size="13" fill="#495057" font-weight="700" text-anchor="middle">Flandre</text>
+
+<text x="60" y="160" font-size="15" fill="#212529" font-weight="400">Pair-à-pair</text>
+<rect x="265" y="132" width="135" height="44" rx="4" fill="#2e7d32"/>
+<text x="332" y="160" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">opérationnel</text>
+<rect x="410" y="132" width="135" height="44" rx="4" fill="#E9ECEF"/>
+<text x="477" y="160" font-size="13" fill="#495057" font-weight="600" text-anchor="middle">bloqué</text>
+<rect x="555" y="132" width="135" height="44" rx="4" fill="#2e7d32"/>
+<text x="622" y="160" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">opérationnel</text>
+
+<text x="60" y="220" font-size="15" fill="#212529" font-weight="400">Même bâtiment</text>
+<rect x="265" y="192" width="135" height="44" rx="4" fill="#2e7d32"/>
+<text x="332" y="220" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">opérationnel</text>
+<rect x="410" y="192" width="135" height="44" rx="4" fill="#2e7d32"/>
+<text x="477" y="220" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">opérationnel</text>
+<rect x="555" y="192" width="135" height="44" rx="4" fill="#2e7d32"/>
+<text x="622" y="220" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">opérationnel</text>
+
+<text x="60" y="280" font-size="15" fill="#212529" font-weight="400">Communauté d'énergie</text>
+<rect x="265" y="252" width="135" height="44" rx="4" fill="#2e7d32"/>
+<text x="332" y="280" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">opérationnel</text>
+<rect x="410" y="252" width="135" height="44" rx="4" fill="#2e7d32"/>
+<text x="477" y="280" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">opérationnel</text>
+<rect x="555" y="252" width="135" height="44" rx="4" fill="#2e7d32"/>
+<text x="622" y="280" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">opérationnel</text>
+
+<text x="60" y="338" font-size="15" fill="#212529" font-weight="400">Réduction du tarif réseau</text>
+<rect x="265" y="312" width="135" height="52" rx="4" fill="#2e7d32"/>
+<text x="332" y="334" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">graduée</text>
+<text x="332" y="351" font-size="10.5" fill="#c8e6c9" font-weight="400" text-anchor="middle">4 périmètres A–D</text>
+<rect x="410" y="312" width="135" height="52" rx="4" fill="#a5d6a7"/>
+<text x="477" y="334" font-size="13" fill="#1b5e20" font-weight="600" text-anchor="middle">− 80 %</text>
+<text x="477" y="351" font-size="10.5" fill="#1b5e20" font-weight="400" text-anchor="middle">même bâtiment seul</text>
+<rect x="555" y="312" width="135" height="52" rx="4" fill="#E9ECEF"/>
+<text x="622" y="343" font-size="13" fill="#495057" font-weight="600" text-anchor="middle">aucune</text>
+
+<line x1="60" y1="386" x2="740" y2="386" stroke="#DEE2E6" stroke-width="1"/>
+<rect x="60" y="400" width="14" height="14" rx="3" fill="#2e7d32" stroke="#DEE2E6"/>
+<text x="82" y="412" font-size="14" fill="#212529" font-weight="400">Disponible</text>
+<rect x="230" y="400" width="14" height="14" rx="3" fill="#a5d6a7" stroke="#DEE2E6"/>
+<text x="252" y="412" font-size="14" fill="#212529" font-weight="400">Partiel</text>
+<rect x="410" y="400" width="14" height="14" rx="3" fill="#E9ECEF" stroke="#DEE2E6"/>
+<text x="432" y="412" font-size="14" fill="#212529" font-weight="400">Indisponible</text>
+
+<rect x="60" y="432" width="680" height="64" rx="6" fill="#e8f5e9"/>
+<text x="80" y="458" font-size="14" fill="#1b5e20" font-weight="600">Le pair-à-pair — deux compteurs, aucune personne morale — est la forme la plus simple.</text>
+<text x="80" y="480" font-size="14" fill="#212529" font-weight="400">Prévue par le décret wallon depuis 2022, elle y reste inopérante faute d'arrêté d'exécution.</text>
+
+<text x="60" y="536" font-size="12" fill="#ADB5BD" font-weight="400">Brugel (décision 285bis, périmètres A–D) — CWaPE (évaluation de mars 2025) — VREG / Fluvius — situation au 5 août 2026</text>
+</g>
+</svg>

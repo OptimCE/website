@@ -2,7 +2,7 @@
 layout: post
 title: "Welk elektriciteitstarief kiezen in België?"
 date: 2026-08-03 10:00:00 +0200
-last_modified_at: 2026-08-03 17:00:00 +0200
+last_modified_at: 2026-08-08 10:00:00 +0200
 author: "OptimCE-team"
 excerpt: "Sociaal tarief, nachttarief, dynamisch contract: drie antwoorden op dezelfde vraag, en ze werken niet op hetzelfde deel van uw factuur. Deze becijferde vergelijking scheidt ze op basis van de CREG-tarieven voor het derde kwartaal van 2026 en de nettarieven van de drie gewesten, en onderzoekt daarna een vierde weg die geen enkele vergelijker vermeldt — de energiegemeenschap, de enige die bij beide contractformules optelt."
 description: "Sociaal tarief, nachttarief, dynamisch contract of energiegemeenschap: wat elke formule echt verandert aan uw factuur, gewest per gewest."
@@ -103,7 +103,7 @@ Dit is het misverstand dat rechtgezet moet worden, en het circuleert nog volop: 
 
 Naast de federale regeling bestaat er een statuut van **regionaal beschermde klant**, dat anders werkt: u moet zelf een attest opvragen bij uw OCMW of uw schuldbemiddelaar, en het aan uw netbeheerder bezorgen. Niets gebeurt automatisch.
 
-De nuttige reflex: **als uw situatie is veranderd** — jobverlies, scheiding, een uitkering die ingaat, intrek in een sociale woning — treedt het tarief niet altijd vanzelf in werking. Een telefoontje naar de sociale dienst van uw gemeente of naar uw leverancier kost tien minuten en kan honderden euro's waard zijn.
+De nuttige reflex: **als uw situatie is veranderd** — jobverlies, scheiding, een uitkering die ingaat, intrek in een sociale woning — treedt het tarief niet altijd vanzelf in werking. Een telefoontje naar de sociale dienst van uw gemeente of naar uw leverancier kost tien minuten en kan honderden euro's waard zijn. En als het sociaal tarief niet volstaat, past het in een ruimer vangnet — MEBAR, Sociaal Verwarmingsfonds, energietutor, Lokale Energiecommissie — dat wordt beschreven in [“Energiearmoede in Wallonië: welke steun?”](/nl/nieuws/2026/08/08/energiearmoede-wallonie-steun/).
 
 ## Weg 2 — Het nachttarief: het antwoord hangt van uw gewest af
 
@@ -239,7 +239,7 @@ Over de **commerciële vergelijkers** — er zijn er veel, vaak goed gemaakt —
 
 Wat u van deze oefening niet mag verwachten: een gemiddeld gezin, zonder recht op het sociaal tarief, zonder flexibiliteit en zonder deeloperatie in de buurt, zal zijn factuur niet halveren door van formule te veranderen. De eerste drie wegen herverdelen enkele tientallen tot enkele honderden euro's binnen een kostenstructuur waarvan **61,5 % volledig aan de concurrentie ontsnapt**. Precies dat maakt de vierde weg interessant: het is de enige die er niet in bestaat een factuur beter te onderhandelen, maar er een deel van buiten spel te zetten.
 
-Leidt deze lectuur ertoe dat u op de regel “energie” wilt ingrijpen in plaats van ze te ondergaan, dan zet [“Toetreden tot een energiegemeenschap in Wallonië”](/nl/nieuws/2026/05/11/energiegemeenschap-aansluiten-wallonie/) de toelatingsvoorwaarden uiteen, waar u een open operatie vindt en welke termijn u moet inrekenen. En bestaat er geen enkele in uw buurt, dan becijfert [“Elektriciteitsfactuur verlagen met energiedelen”](/nl/nieuws/2026/06/03/energiegemeenschap-elektriciteitsfactuur-verlagen/) wat het oprichten ervan zou opleveren.
+Leidt deze lectuur ertoe dat u op de regel “energie” wilt ingrijpen in plaats van ze te ondergaan, dan zet [“Toetreden tot een energiegemeenschap in Wallonië”](/nl/nieuws/2026/05/11/energiegemeenschap-aansluiten-wallonie/) de toelatingsvoorwaarden uiteen, waar u een open operatie vindt en welke termijn u moet inrekenen. En bestaat er geen enkele in uw buurt, dan becijfert [“Elektriciteitsfactuur verlagen met energiedelen”](/nl/nieuws/2026/06/03/energiegemeenschap-elektriciteitsfactuur-verlagen/) wat het oprichten ervan zou opleveren. Dat veronderstelt wel dat delen in uw gewest beschikbaar is: [“Goedkopere stroom zonder leverancierswissel”](/nl/nieuws/2026/08/05/goedkopere-stroom-zonder-leverancierswissel/) doet de test van de drie gewesten, met gebruikscijfers erbij.
 
 > ### Sluit aan bij of start uw energiedelen met OptimCE
 >

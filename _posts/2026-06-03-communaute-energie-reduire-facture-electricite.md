@@ -8,7 +8,7 @@ description: "Les leviers d'économie réels, un exemple chiffré, ce qui change
 tags: [community]
 lang: fr
 ref: reduce-electricity-bill
-last_modified_at: 2026-07-28 10:00:00 +0200
+last_modified_at: 2026-08-05 10:00:00 +0200
 ---
 
 Depuis 2022, les factures d'électricité belges ont connu des hausses brutales et imprévisibles. Face à cette volatilité, les communautés d'énergie offrent un levier concret et durable : payer son électricité **moins cher** et à un **prix plus stable**, sans changer de fournisseur ni installer le moindre panneau solaire. Cet article explique précisément comment ce gain se construit, jusqu'où il peut aller, ce qui change d'une région à l'autre, et qui en profite le plus. Et si vous vous demandez d'abord *pourquoi* votre facture reste élevée alors que les prix de l'énergie ont baissé, commencez par notre décomposition [« Facture d'électricité : pourquoi elle reste élevée »](/actualites/2026/07/25/pourquoi-facture-electricite-reste-elevee-belgique/) : elle chiffre bloc par bloc ce sur quoi le partage agit — et ce sur quoi il n'agit pas.
@@ -67,7 +67,7 @@ Les mécanismes d'économie existent dans les trois régions, mais les acteurs e
 |---|---|---|---|
 | Régulateur | CWaPE | BRUGEL | VREG |
 | Gestionnaire de réseau (GRD) | ORES, RESA, AIEG | Sibelga | Fluvius |
-| Tarif réseau sur l'énergie partagée | Aucune réduction en communauté ; −80 % sur les termes proportionnels en même bâtiment | Réduction graduée selon la proximité : 100 % en même bâtiment, 50 % en même cabine BT, aucune au-delà | Aucune réduction |
+| Tarif réseau sur l'énergie partagée | Aucune réduction en communauté ; −80 % sur les termes proportionnels en même bâtiment | Réduction graduée sur quatre périmètres : terme proportionnel supprimé en même bâtiment, −50 % en même cabine BT ; le terme fixe n'est facturé dans aucun des quatre | Aucune réduction |
 | Revenu complémentaire pour le producteur | Certificats verts | Certificats verts (≈ 10 premières années) | Soutien spécifique — voir VREG |
 | Compteur communicant requis | Oui | Oui | Oui |
 | Clé de répartition | Familles standards CWaPE | Fixe / prorata / hybride (BRUGEL) | Vaste / relatieve / optimale (VREG) |
@@ -85,6 +85,8 @@ Le partage profite à tous les membres, mais certains profils en tirent davantag
 - **Les PME et autorités locales**, dont les surfaces de toiture ou les profils de consommation se prêtent bien au partage, avec un impact direct sur leurs charges.
 
 Le partage d'énergie n'est évidemment pas le seul levier à votre disposition. Si vous habitez la Wallonie, notre guide [« Réduire sa facture d'électricité : Wallonie 2026 »](/actualites/2026/07/28/reduire-facture-electricite-wallonie-2026/) replace la communauté d'énergie parmi dix leviers chiffrés, du comparateur officiel de la CWaPE au tarif social.
+
+Reste une question que cet article ne tranche pas : le partage est-il seulement accessible là où vous habitez ? La réponse dépend beaucoup plus de votre région qu'on ne l'imagine, et [« Baisser sa facture sans changer de fournisseur »](/actualites/2026/08/05/electricite-moins-chere-sans-changer-de-fournisseur/) la chiffre région par région — y compris le fait que le partage de pair à pair reste inopérant en Wallonie.
 
 ## FAQ
 
@@ -143,5 +145,6 @@ La façon la plus simple de réduire votre facture est de **rejoindre une opéra
 - [Sibelga — Partage d'énergie à Bruxelles](https://www.sibelga.be/en/connections-meters/renewable-energy/energy-sharing) — fonctionnement pratique et tarifs réseau selon la localisation.
 - [Sibelga — Certificats verts](https://www.sibelga.be/en/connections-meters/renewable-energy/solar-panels/green-certificates) — revenu complémentaire pour les producteurs bruxellois.
 - [BRUGEL — Energy Sharing](https://energysharing.brugel.brussels) — cadre et tarifs du partage à Bruxelles.
+- [BRUGEL — Tarifs de réseau applicables au partage d'énergie](https://energysharing.brugel.brussels/energysharing/tarifs-de-reseau-409) — décision 285bis du 4 novembre 2024 : les quatre périmètres A à D et le traitement de chaque terme tarifaire, source du détail bruxellois du tableau ci-dessus.
 - [CWaPE — Communautés et partage d'énergie](https://www.cwape.be/secteur/communautes-partage-energie) — cadre wallon.
 - [SPF Économie — Part des sources d'énergie renouvelables](https://economie.fgov.be/fr/themes/energie/suivi-des-objectifs-europeens/part-des-sources-denergie) — statistiques 2024 et objectif 2030.

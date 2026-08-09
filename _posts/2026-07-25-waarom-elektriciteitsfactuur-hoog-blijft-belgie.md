@@ -8,7 +8,7 @@ description: "Energie is maar 40 % van de factuur. De vier blokken uitgesplitst,
 tags: [community, administrative, guide]
 lang: nl
 ref: why-electricity-bill-stays-high
-last_modified_at: 2026-07-30 10:00:00 +0200
+last_modified_at: 2026-08-05 10:00:00 +0200
 permalink: /nl/nieuws/2026/07/25/waarom-elektriciteitsfactuur-hoog-blijft-belgie/
 faq:
   - q: "Waarom daalt mijn elektriciteitsfactuur niet terwijl de energieprijzen zijn gezakt?"
@@ -174,7 +174,7 @@ Wat u niet mag verwachten: dat de daling van de groothandelsprijzen of van de ac
 
 En zoekt u nu de lijst met stappen in plaats van de uitleg: onze gids [“Elektriciteitsfactuur verlagen: Wallonië 2026”](/nl/nieuws/2026/07/28/elektriciteitsfactuur-verlagen-wallonie-2026/) becijfert tien Waalse hefbomen op basis van de ORES-tarieflijst 2026 — zes daarvan kosten niets.
 
-En gaat uw vraag voortaan over het document zelf — wat elke regel betekent, waar u de EAN-code leest, waarom een geschatte meterstand een stijging creëert die er niet is — dan ontcijfert onze gids [“Elektriciteitsfactuur lezen: regel per regel”](/nl/nieuws/2026/07/30/elektriciteitsfactuur-lezen-belgie/) de factuur post per post.
+En gaat uw vraag voortaan over het document zelf — wat elke regel betekent, waar u de EAN-code leest, waarom een geschatte meterstand een stijging creëert die er niet is — dan ontcijfert onze gids [“Elektriciteitsfactuur lezen: regel per regel”](/nl/nieuws/2026/07/30/elektriciteitsfactuur-lezen-belgie/) de factuur post per post. En wilt u weten of energiedelen bij u überhaupt beschikbaar is, dan doet [“Goedkopere stroom zonder leverancierswissel”](/nl/nieuws/2026/08/05/goedkopere-stroom-zonder-leverancierswissel/) de test van de drie gewesten.
 
 > ### Beheer uw energiedelen met OptimCE
 >

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-labelledby="t d">
+<title id="t">Wo ist Energieteilung tatsächlich verfügbar?</title><desc id="d">Vergleichstabelle des Zugangs zur Energieteilung in den drei belgischen Regionen: In Brüssel sind alle drei Formen der Teilung in Betrieb, mit einer gestaffelten Ermäßigung der Netzentgelte; in der Wallonie funktionieren die Teilung im gleichen Gebäude und in der Gemeinschaft, Peer-to-Peer bleibt jedoch mangels Ausführungserlass blockiert; in Flandern stehen Teilung und Verkauf allen offen, jedoch ohne jede Ermäßigung der Netzentgelte.</desc>
+<rect width="800" height="560" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="60" y="52" font-size="22" fill="#212529" font-weight="700">Wo ist Energieteilung tatsächlich verfügbar?</text>
+<text x="60" y="78" font-size="15" fill="#495057" font-weight="400">Drei Formen der Teilung, drei Regionen — und nur eine, in der alles funktioniert</text>
+
+<text x="332" y="114" font-size="13" fill="#495057" font-weight="700" text-anchor="middle">Brüssel</text>
+<text x="477" y="114" font-size="13" fill="#495057" font-weight="700" text-anchor="middle">Wallonie</text>
+<text x="622" y="114" font-size="13" fill="#495057" font-weight="700" text-anchor="middle">Flandern</text>
+
+<text x="60" y="160" font-size="15" fill="#212529" font-weight="400">Peer-to-Peer</text>
+<rect x="265" y="132" width="135" height="44" rx="4" fill="#2e7d32"/>
+<text x="332" y="160" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">in Betrieb</text>
+<rect x="410" y="132" width="135" height="44" rx="4" fill="#E9ECEF"/>
+<text x="477" y="160" font-size="13" fill="#495057" font-weight="600" text-anchor="middle">blockiert</text>
+<rect x="555" y="132" width="135" height="44" rx="4" fill="#2e7d32"/>
+<text x="622" y="160" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">in Betrieb</text>
+
+<text x="60" y="220" font-size="15" fill="#212529" font-weight="400">Gleiches Gebäude</text>
+<rect x="265" y="192" width="135" height="44" rx="4" fill="#2e7d32"/>
+<text x="332" y="220" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">in Betrieb</text>
+<rect x="410" y="192" width="135" height="44" rx="4" fill="#2e7d32"/>
+<text x="477" y="220" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">in Betrieb</text>
+<rect x="555" y="192" width="135" height="44" rx="4" fill="#2e7d32"/>
+<text x="622" y="220" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">in Betrieb</text>
+
+<text x="60" y="280" font-size="15" fill="#212529" font-weight="400">Energiegemeinschaft</text>
+<rect x="265" y="252" width="135" height="44" rx="4" fill="#2e7d32"/>
+<text x="332" y="280" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">in Betrieb</text>
+<rect x="410" y="252" width="135" height="44" rx="4" fill="#2e7d32"/>
+<text x="477" y="280" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">in Betrieb</text>
+<rect x="555" y="252" width="135" height="44" rx="4" fill="#2e7d32"/>
+<text x="622" y="280" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">in Betrieb</text>
+
+<text x="60" y="338" font-size="15" fill="#212529" font-weight="400">Netzentgeltermäßigung</text>
+<rect x="265" y="312" width="135" height="52" rx="4" fill="#2e7d32"/>
+<text x="332" y="334" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">gestaffelt</text>
+<text x="332" y="351" font-size="10.5" fill="#c8e6c9" font-weight="400" text-anchor="middle">4 Perimeter A–D</text>
+<rect x="410" y="312" width="135" height="52" rx="4" fill="#a5d6a7"/>
+<text x="477" y="334" font-size="13" fill="#1b5e20" font-weight="600" text-anchor="middle">− 80 %</text>
+<text x="477" y="351" font-size="10.5" fill="#1b5e20" font-weight="400" text-anchor="middle">nur gleiches Gebäude</text>
+<rect x="555" y="312" width="135" height="52" rx="4" fill="#E9ECEF"/>
+<text x="622" y="343" font-size="13" fill="#495057" font-weight="600" text-anchor="middle">keine</text>
+
+<line x1="60" y1="386" x2="740" y2="386" stroke="#DEE2E6" stroke-width="1"/>
+<rect x="60" y="400" width="14" height="14" rx="3" fill="#2e7d32" stroke="#DEE2E6"/>
+<text x="82" y="412" font-size="14" fill="#212529" font-weight="400">Verfügbar</text>
+<rect x="230" y="400" width="14" height="14" rx="3" fill="#a5d6a7" stroke="#DEE2E6"/>
+<text x="252" y="412" font-size="14" fill="#212529" font-weight="400">Teilweise</text>
+<rect x="410" y="400" width="14" height="14" rx="3" fill="#E9ECEF" stroke="#DEE2E6"/>
+<text x="432" y="412" font-size="14" fill="#212529" font-weight="400">Nicht verfügbar</text>
+
+<rect x="60" y="432" width="680" height="64" rx="6" fill="#e8f5e9"/>
+<text x="80" y="458" font-size="14" fill="#1b5e20" font-weight="600">Peer-to-Peer — zwei Zähler, keine juristische Person — ist die einfachste Form.</text>
+<text x="80" y="480" font-size="14" fill="#212529" font-weight="400">Seit 2022 im wallonischen Dekret vorgesehen — mangels Ausführungserlass nicht in Betrieb.</text>
+
+<text x="60" y="536" font-size="12" fill="#ADB5BD" font-weight="400">Brugel (Beschluss 285bis, Perimeter A–D) — CWaPE (Bewertung März 2025) — VREG / Fluvius — Stand 5. August 2026</text>
+</g>
+</svg>

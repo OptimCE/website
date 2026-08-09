@@ -8,7 +8,7 @@ description: "Woher die Ersparnis wirklich kommt, ein Rechenbeispiel, die Unters
 tags: [community]
 lang: de
 ref: reduce-electricity-bill
-last_modified_at: 2026-07-28 10:00:00 +0200
+last_modified_at: 2026-08-05 10:00:00 +0200
 permalink: /de/aktuelles/2026/06/03/energiegemeinschaft-stromrechnung-senken/
 ---
 
@@ -68,7 +68,7 @@ Die Sparmechanismen bestehen in allen drei Regionen, doch die Akteure und einige
 |---|---|---|---|
 | Regulierungsbehörde | CWaPE | BRUGEL | VREG |
 | Verteilnetzbetreiber (VNB) | ORES, RESA, AIEG | Sibelga | Fluvius |
-| Netzentgelt auf geteilter Energie | Keine Ermäßigung in der Gemeinschaft; −80 % auf die proportionalen Bestandteile im selben Gebäude | Gestaffelte Ermäßigung je nach Nähe: 100 % im selben Gebäude, 50 % an derselben NS-Kabine, keine darüber hinaus | Keine Ermäßigung |
+| Netzentgelt auf geteilter Energie | Keine Ermäßigung in der Gemeinschaft; −80 % auf die proportionalen Bestandteile im selben Gebäude | Gestaffelte Ermäßigung über vier Perimeter: Arbeitspreisanteil im selben Gebäude gestrichen, −50 % an derselben NS-Kabine; der Grundpreisanteil wird in keinem der vier berechnet | Keine Ermäßigung |
 | Zusätzliches Einkommen für den Erzeuger | Grünstromzertifikate | Grünstromzertifikate (≈ erste 10 Jahre) | Spezifische Förderung — siehe VREG |
 | Intelligenter Zähler erforderlich | Ja | Ja | Ja |
 | Aufteilungsschlüssel | Standardfamilien CWaPE | Fest / anteilig / hybrid (BRUGEL) | Vaste / relatieve / optimale (VREG) |
@@ -86,6 +86,8 @@ Das Teilen kommt allen Mitgliedern zugute, doch manche Profile holen mehr heraus
 - **KMU und lokale Behörden**, deren Dachflächen oder Verbrauchsprofile sich gut zum Teilen eignen, mit direkter Auswirkung auf ihre Kosten.
 
 Die Energieteilung ist selbstverständlich nicht der einzige verfügbare Hebel. Wenn Sie in Wallonien wohnen, ordnet unser Leitfaden [„Stromrechnung senken: Wallonien 2026“](/de/aktuelles/2026/07/28/stromrechnung-senken-wallonien-2026/) die Energiegemeinschaft in zehn bezifferte Hebel ein, vom offiziellen Vergleichsrechner der CWaPE bis zum Sozialtarif.
+
+Eine Frage klärt dieser Artikel nicht: Ist die Teilung dort, wo Sie wohnen, überhaupt verfügbar? Die Antwort hängt weit stärker von Ihrer Region ab, als man annimmt, und [„Strom sparen ohne Anbieterwechsel”](/de/aktuelles/2026/08/05/strom-sparen-ohne-anbieterwechsel/) beziffert sie Region für Region — einschließlich der Tatsache, dass die Peer-to-Peer-Teilung in der Wallonie weiterhin außer Betrieb ist.
 
 ## FAQ
 
@@ -144,5 +146,6 @@ Der einfachste Weg, Ihre Rechnung zu senken, ist der **Beitritt zu einer bestehe
 - [Sibelga — Energie teilen in Brüssel](https://www.sibelga.be/en/connections-meters/renewable-energy/energy-sharing) — wie es in der Praxis funktioniert und Netzentgelte je nach Standort.
 - [Sibelga — Grünstromzertifikate](https://www.sibelga.be/en/connections-meters/renewable-energy/solar-panels/green-certificates) — Zusatzeinkommen für Brüsseler Erzeuger.
 - [BRUGEL — Energy Sharing](https://energysharing.brugel.brussels) — Brüsseler Teilungsrahmen und Tarife.
+- [BRUGEL — Netzentgelte für die Energieteilung](https://energysharing.brugel.brussels/energysharing/tarifs-de-reseau-409) — Beschluss 285bis vom 4. November 2024: die vier Perimeter A bis D und die Behandlung jedes Tarifbestandteils, Quelle der Brüsseler Angaben in der Tabelle oben.
 - [CWaPE — Energiegemeinschaften und Teilen](https://www.cwape.be/secteur/communautes-partage-energie) — wallonischer Rahmen.
 - [FÖD Wirtschaft — Anteil erneuerbarer Energiequellen](https://economie.fgov.be/fr/themes/energie/suivi-des-objectifs-europeens/part-des-sources-denergie) — Statistiken 2024 und Ziel 2030.

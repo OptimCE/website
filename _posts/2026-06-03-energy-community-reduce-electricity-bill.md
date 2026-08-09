@@ -8,7 +8,7 @@ description: "The real savings levers, a worked example, what differs between Wa
 tags: [community]
 lang: en
 ref: reduce-electricity-bill
-last_modified_at: 2026-07-28 10:00:00 +0200
+last_modified_at: 2026-08-05 10:00:00 +0200
 permalink: /en/news/2026/06/03/energy-community-reduce-electricity-bill/
 ---
 
@@ -68,7 +68,7 @@ The savings mechanisms exist in all three regions, but the actors and some terms
 |---|---|---|---|
 | Regulator | CWaPE | BRUGEL | VREG |
 | Distribution system operator (DSO) | ORES, RESA, AIEG | Sibelga | Fluvius |
-| Grid tariff on shared energy | No reduction in a community; −80% on the proportional terms within the same building | Graduated reduction by proximity: 100% within the same building, 50% on the same LV substation, none beyond | No reduction |
+| Grid tariff on shared energy | No reduction in a community; −80% on the proportional terms within the same building | Graduated reduction across four perimeters: proportional term removed within the same building, −50% on the same LV cabin; the fixed term is charged in none of the four | No reduction |
 | Extra income for the producer | Green certificates | Green certificates (≈ first 10 years) | Specific support — see VREG |
 | Smart meter required | Yes | Yes | Yes |
 | Allocation key | CWaPE standard families | Fixed / pro rata / hybrid (BRUGEL) | Vaste / relatieve / optimale (VREG) |
@@ -86,6 +86,8 @@ Sharing benefits all members, but some profiles get more out of it:
 - **SMEs and local authorities**, whose roof space or consumption profiles suit sharing well, with a direct impact on their costs.
 
 Energy sharing is obviously not the only lever available to you. If you live in Wallonia, our guide [“Reduce your electricity bill: Wallonia 2026”](/en/news/2026/07/28/reduce-electricity-bill-wallonia-2026/) places the energy community among ten costed levers, from CWaPE's official comparator to the social tariff.
+
+One question this article does not settle: is sharing even available where you live? The answer depends on your region far more than you might expect, and [“Cheaper electricity without switching supplier”](/en/news/2026/08/05/cheaper-electricity-without-switching-supplier/) costs it out region by region — including the fact that peer-to-peer sharing remains inoperative in Wallonia.
 
 ## FAQ
 
@@ -144,5 +146,6 @@ The simplest way to cut your bill is to **join an existing sharing operation** �
 - [Sibelga — Energy sharing in Brussels](https://www.sibelga.be/en/connections-meters/renewable-energy/energy-sharing) — how it works in practice and grid tariffs by location.
 - [Sibelga — Green certificates](https://www.sibelga.be/en/connections-meters/renewable-energy/solar-panels/green-certificates) — extra income for Brussels producers.
 - [BRUGEL — Energy Sharing](https://energysharing.brugel.brussels) — Brussels sharing framework and tariffs.
+- [BRUGEL — Network tariffs applicable to energy sharing](https://energysharing.brugel.brussels/energysharing/tarifs-de-reseau-409) — decision 285bis of 4 November 2024: the four perimeters A to D and the treatment of each tariff term, source of the Brussels detail in the table above.
 - [CWaPE — Energy communities and sharing](https://www.cwape.be/secteur/communautes-partage-energie) — Walloon framework.
 - [FPS Economy — Share of renewable energy sources](https://economie.fgov.be/fr/themes/energie/suivi-des-objectifs-europeens/part-des-sources-denergie) — 2024 statistics and 2030 target.

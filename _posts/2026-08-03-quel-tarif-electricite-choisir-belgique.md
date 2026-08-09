@@ -2,7 +2,7 @@
 layout: post
 title: "Quel tarif d'électricité choisir en Belgique ?"
 date: 2026-08-03 10:00:00 +0200
-last_modified_at: 2026-08-03 17:00:00 +0200
+last_modified_at: 2026-08-08 10:00:00 +0200
 author: "Équipe OptimCE"
 excerpt: "Tarif social, tarif de nuit, contrat dynamique : trois réponses à la même question, et elles n'agissent pas sur la même partie de votre facture. Ce comparatif chiffré les départage à partir des tarifs CREG du troisième trimestre 2026 et des grilles de réseau des trois régions, puis examine une quatrième voie que les comparateurs ne référencent pas — la communauté d'énergie, la seule qui se cumule avec les deux autres formules."
 description: "Tarif social, bihoraire, contrat dynamique ou communauté d'énergie : ce que chaque formule change vraiment sur votre facture, région par région."
@@ -102,7 +102,7 @@ Voici l'idée reçue à corriger, et elle circule encore beaucoup : **le seul st
 
 À côté du régime fédéral existe un statut de **client protégé régional**, qui ne fonctionne pas de la même manière : il faut réclamer une attestation à son CPAS ou à son médiateur de dettes, et la transmettre à son gestionnaire de réseau. Rien n'est automatique.
 
-Le réflexe utile : **si votre situation a changé** — perte d'emploi, séparation, entrée en vigueur d'une allocation, admission dans un logement social — le tarif ne se déclenche pas toujours de lui-même. Un appel au service social de votre commune ou à votre fournisseur coûte dix minutes et peut valoir plusieurs centaines d'euros.
+Le réflexe utile : **si votre situation a changé** — perte d'emploi, séparation, entrée en vigueur d'une allocation, admission dans un logement social — le tarif ne se déclenche pas toujours de lui-même. Un appel au service social de votre commune ou à votre fournisseur coûte dix minutes et peut valoir plusieurs centaines d'euros. Et si le tarif social ne suffit pas, il s'inscrit dans un filet plus large — MEBAR, Fonds social chauffage, tuteur énergie, Commission locale pour l'énergie — détaillé dans [« Précarité énergétique en Wallonie : les aides »](/actualites/2026/08/08/precarite-energetique-wallonie-aides/).
 
 ## Voie 2 — Le tarif de nuit : la réponse dépend de votre région
 
@@ -238,7 +238,7 @@ Sur les **comparateurs commerciaux** — il en existe de nombreux, souvent bien 
 
 Ce qu'il ne faut pas attendre de cet exercice : un ménage moyen, sans droit au tarif social, sans flexibilité et sans opération de partage à proximité, ne divisera pas sa facture par deux en changeant de formule. Les trois premières voies redistribuent quelques dizaines à quelques centaines d'euros à l'intérieur d'une structure de coûts dont **61,5 % échappent entièrement à la concurrence**. C'est précisément ce qui rend la quatrième voie intéressante : elle est la seule qui ne consiste pas à mieux négocier une facture, mais à en sortir une partie.
 
-Si cette lecture vous conduit à vouloir agir sur la ligne « énergie » plutôt qu'à la subir, [« Rejoindre une communauté d'énergie en Wallonie »](/actualites/2026/05/11/rejoindre-communaute-energie-wallonie/) détaille les conditions d'éligibilité, où trouver une opération ouverte et le délai à prévoir. Et si aucune n'existe près de chez vous, [« Réduire sa facture d'électricité en communauté »](/actualites/2026/06/03/communaute-energie-reduire-facture-electricite/) chiffre ce qu'apporterait sa création.
+Si cette lecture vous conduit à vouloir agir sur la ligne « énergie » plutôt qu'à la subir, [« Rejoindre une communauté d'énergie en Wallonie »](/actualites/2026/05/11/rejoindre-communaute-energie-wallonie/) détaille les conditions d'éligibilité, où trouver une opération ouverte et le délai à prévoir. Et si aucune n'existe près de chez vous, [« Réduire sa facture d'électricité en communauté »](/actualites/2026/06/03/communaute-energie-reduire-facture-electricite/) chiffre ce qu'apporterait sa création. Encore faut-il que le partage soit accessible dans votre région : [« Baisser sa facture sans changer de fournisseur »](/actualites/2026/08/05/electricite-moins-chere-sans-changer-de-fournisseur/) fait le test des trois régions, chiffres d’adoption à l’appui.
 
 > ### Rejoignez ou lancez votre partage d'énergie avec OptimCE
 >

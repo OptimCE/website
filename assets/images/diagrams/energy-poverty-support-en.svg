@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" role="img" aria-labelledby="t d">
+<title id="t">Which support scheme covers which heating fuel in Wallonia?</title><desc id="d">Table of the six main energy support schemes in Wallonia — social tariff, Social Heating Fund, MEBAR grant, Gas-Electricity Fund, energy tutor and guaranteed minimum supply — cross-referenced with the three heating fuels. The heating oil column is mostly uncovered, even though 37.5% of Walloon households heat with that fuel, against 7.5% in Brussels.</desc>
+<rect width="800" height="620" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="60" y="52" font-size="22" fill="#212529" font-weight="700">Wallonia's energy safety net</text>
+<text x="60" y="78" font-size="15" fill="#495057" font-weight="400">Six schemes — and one heating fuel no social tariff covers</text>
+
+<text x="250" y="114" font-size="13" fill="#495057" font-weight="700">Amount / scope</text>
+<text x="499" y="114" font-size="13" fill="#495057" font-weight="700" text-anchor="middle">Elec.</text>
+<text x="595" y="114" font-size="13" fill="#495057" font-weight="700" text-anchor="middle">Gas</text>
+<text x="694" y="114" font-size="13" fill="#495057" font-weight="700" text-anchor="middle">Heating oil</text>
+
+<text x="60" y="155" font-size="14" fill="#212529" font-weight="400">Social tariff</text>
+<text x="250" y="155" font-size="13" fill="#212529" font-weight="600">≈ €400/yr</text>
+<rect x="455" y="132" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="499" y="155" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">yes</text>
+<rect x="551" y="132" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="595" y="155" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">yes</text>
+<rect x="647" y="132" width="93" height="36" rx="4" fill="#E9ECEF"/>
+<text x="694" y="155" font-size="13" fill="#495057" font-weight="600" text-anchor="middle">no</text>
+
+<text x="60" y="207" font-size="14" fill="#212529" font-weight="400">Social Heating Fund</text>
+<text x="250" y="207" font-size="13" fill="#212529" font-weight="600">max €300/yr</text>
+<rect x="455" y="184" width="88" height="36" rx="4" fill="#E9ECEF"/>
+<text x="499" y="207" font-size="13" fill="#495057" font-weight="600" text-anchor="middle">no</text>
+<rect x="551" y="184" width="88" height="36" rx="4" fill="#E9ECEF"/>
+<text x="595" y="207" font-size="13" fill="#495057" font-weight="600" text-anchor="middle">no</text>
+<rect x="647" y="184" width="93" height="36" rx="4" fill="#2e7d32"/>
+<text x="694" y="207" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">yes</text>
+
+<text x="60" y="259" font-size="14" fill="#212529" font-weight="400">MEBAR grant</text>
+<text x="250" y="259" font-size="13" fill="#212529" font-weight="600">max €2,000</text>
+<rect x="455" y="236" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="499" y="259" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">yes</text>
+<rect x="551" y="236" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="595" y="259" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">yes</text>
+<rect x="647" y="236" width="93" height="36" rx="4" fill="#2e7d32"/>
+<text x="694" y="259" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">yes</text>
+
+<text x="60" y="311" font-size="14" fill="#212529" font-weight="400">Gas-Electricity Fund</text>
+<text x="250" y="311" font-size="13" fill="#212529" font-weight="600">debt-based</text>
+<rect x="455" y="288" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="499" y="311" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">yes</text>
+<rect x="551" y="288" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="595" y="311" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">yes</text>
+<rect x="647" y="288" width="93" height="36" rx="4" fill="#E9ECEF"/>
+<text x="694" y="311" font-size="13" fill="#495057" font-weight="600" text-anchor="middle">no</text>
+
+<text x="60" y="363" font-size="14" fill="#212529" font-weight="400">Energy tutor / PAPE</text>
+<text x="250" y="363" font-size="13" fill="#212529" font-weight="600">guidance</text>
+<rect x="455" y="340" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="499" y="363" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">yes</text>
+<rect x="551" y="340" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="595" y="363" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">yes</text>
+<rect x="647" y="340" width="93" height="36" rx="4" fill="#2e7d32"/>
+<text x="694" y="363" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">yes</text>
+
+<text x="60" y="415" font-size="14" fill="#212529" font-weight="400">Guaranteed supply</text>
+<text x="250" y="415" font-size="13" fill="#212529" font-weight="600">10 A (2,200 W)</text>
+<rect x="455" y="392" width="88" height="36" rx="4" fill="#2e7d32"/>
+<text x="499" y="415" font-size="13" fill="#FFFFFF" font-weight="600" text-anchor="middle">yes</text>
+<rect x="551" y="392" width="88" height="36" rx="4" fill="#a5d6a7"/>
+<text x="595" y="415" font-size="13" fill="#1b5e20" font-weight="600" text-anchor="middle">winter</text>
+<rect x="647" y="392" width="93" height="36" rx="4" fill="#E9ECEF"/>
+<text x="694" y="415" font-size="13" fill="#495057" font-weight="600" text-anchor="middle">no</text>
+
+<line x1="60" y1="440" x2="740" y2="440" stroke="#DEE2E6" stroke-width="1"/>
+<rect x="60" y="454" width="14" height="14" rx="3" fill="#2e7d32" stroke="#DEE2E6"/>
+<text x="82" y="466" font-size="14" fill="#212529" font-weight="400">Covered</text>
+<rect x="230" y="454" width="14" height="14" rx="3" fill="#a5d6a7" stroke="#DEE2E6"/>
+<text x="252" y="466" font-size="14" fill="#212529" font-weight="400">Partial</text>
+<rect x="410" y="454" width="14" height="14" rx="3" fill="#E9ECEF" stroke="#DEE2E6"/>
+<text x="432" y="466" font-size="14" fill="#212529" font-weight="400">Not covered</text>
+
+<rect x="60" y="488" width="680" height="64" rx="6" fill="#e8f5e9"/>
+<text x="80" y="514" font-size="14" fill="#1b5e20" font-weight="600">37.5% of Walloon households heat with oil, against 7.5% in Brussels.</text>
+<text x="80" y="536" font-size="14" fill="#212529" font-weight="400">It is the only fuel without a social tariff — the Heating Fund caps at €300/yr.</text>
+
+<text x="60" y="592" font-size="12" fill="#ADB5BD" font-weight="400">Energy Poverty Barometer 2024 (KBF) — SPW Énergie — Social Heating Fund — as of 8 August 2026</text>
+</g>
+</svg>

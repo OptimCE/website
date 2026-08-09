@@ -2,7 +2,7 @@
 layout: post
 title: "Welchen Stromtarif in Belgien wählen?"
 date: 2026-08-03 10:00:00 +0200
-last_modified_at: 2026-08-03 17:00:00 +0200
+last_modified_at: 2026-08-08 10:00:00 +0200
 author: "OptimCE-Team"
 excerpt: "Sozialtarif, Nachttarif, dynamischer Vertrag: drei Antworten auf dieselbe Frage, und sie wirken nicht auf denselben Teil Ihrer Rechnung. Dieser bezifferte Vergleich trennt sie anhand der CREG-Sozialtarife für das dritte Quartal 2026 und der Netztarife der drei Regionen und untersucht anschließend einen vierten Weg, den kein Vergleichsportal führt — die Energiegemeinschaft, die einzige, die sich zu beiden Vertragsformeln addiert."
 description: "Sozialtarif, Nachttarif, dynamischer Vertrag oder Energiegemeinschaft: was jede Formel wirklich an Ihrer Rechnung ändert, Region für Region."
@@ -103,7 +103,7 @@ Hier der Irrtum, der richtigzustellen ist, und er kursiert weiterhin stark: **De
 
 Neben der föderalen Regelung besteht ein Status des **regional geschützten Kunden**, der anders funktioniert: Sie müssen selbst eine Bescheinigung bei Ihrem Sozialhilfezentrum oder Ihrem Schuldenvermittler anfordern und sie Ihrem Netzbetreiber übermitteln. Nichts geschieht automatisch.
 
-Der nützliche Reflex: **Wenn sich Ihre Lage geändert hat** — Arbeitsplatzverlust, Trennung, Beginn einer Beihilfe, Einzug in eine Sozialwohnung — greift der Tarif nicht immer von selbst. Ein Anruf beim Sozialdienst Ihrer Gemeinde oder bei Ihrem Anbieter kostet zehn Minuten und kann mehrere Hundert Euro wert sein.
+Der nützliche Reflex: **Wenn sich Ihre Lage geändert hat** — Arbeitsplatzverlust, Trennung, Beginn einer Beihilfe, Einzug in eine Sozialwohnung — greift der Tarif nicht immer von selbst. Ein Anruf beim Sozialdienst Ihrer Gemeinde oder bei Ihrem Anbieter kostet zehn Minuten und kann mehrere Hundert Euro wert sein. Und wenn der Sozialtarif nicht ausreicht, fügt er sich in ein größeres Netz ein — MEBAR, Sozialer Heizfonds, Energietutor, Lokale Energiekommission —, das in [„Energiearmut in Wallonien: Hilfen im Überblick“](/de/aktuelles/2026/08/08/energiearmut-wallonien-hilfen/) beschrieben wird.
 
 ## Weg 2 — Der Nachttarif: Die Antwort hängt von Ihrer Region ab
 
@@ -239,7 +239,7 @@ Zu den **kommerziellen Vergleichsportalen** — es gibt viele, oft gut gemachte 
 
 Was Sie von dieser Übung nicht erwarten dürfen: Ein durchschnittlicher Haushalt ohne Anspruch auf den Sozialtarif, ohne Flexibilität und ohne Teilungsoperation in der Nähe wird seine Rechnung nicht halbieren, indem er die Formel wechselt. Die ersten drei Wege verteilen einige Dutzend bis einige Hundert Euro innerhalb einer Kostenstruktur um, von der **61,5 % dem Wettbewerb vollständig entzogen sind**. Genau das macht den vierten Weg interessant: Er ist der einzige, der nicht darin besteht, eine Rechnung besser zu verhandeln, sondern einen Teil von ihr herauszunehmen.
 
-Führt Sie diese Lektüre dazu, auf die Zeile „Energie“ einwirken zu wollen, statt sie hinzunehmen, dann führt [„Energiegemeinschaft in der Wallonie beitreten“](/de/aktuelles/2026/05/11/energiegemeinschaft-beitreten-wallonien/) die Zugangsvoraussetzungen aus, wo Sie eine offene Operation finden und mit welcher Frist zu rechnen ist. Und gibt es keine in Ihrer Nähe, beziffert [„Stromrechnung senken mit einer Energiegemeinschaft“](/de/aktuelles/2026/06/03/energiegemeinschaft-stromrechnung-senken/), was ihre Gründung einbrächte.
+Führt Sie diese Lektüre dazu, auf die Zeile „Energie“ einwirken zu wollen, statt sie hinzunehmen, dann führt [„Energiegemeinschaft in der Wallonie beitreten“](/de/aktuelles/2026/05/11/energiegemeinschaft-beitreten-wallonien/) die Zugangsvoraussetzungen aus, wo Sie eine offene Operation finden und mit welcher Frist zu rechnen ist. Und gibt es keine in Ihrer Nähe, beziffert [„Stromrechnung senken mit einer Energiegemeinschaft“](/de/aktuelles/2026/06/03/energiegemeinschaft-stromrechnung-senken/), was ihre Gründung einbrächte. Vorausgesetzt allerdings, die Teilung ist in Ihrer Region verfügbar: [„Strom sparen ohne Anbieterwechsel“](/de/aktuelles/2026/08/05/strom-sparen-ohne-anbieterwechsel/) macht den Test der drei Regionen, mit Nutzungszahlen belegt.
 
 > ### Treten Sie bei oder starten Sie Ihre Energieteilung mit OptimCE
 >
