@@ -36,6 +36,27 @@
     de: ["Akzise", "Verbrauchsteuer"]
     nl: ["accijns"]
 
+- slug: amr
+  categorie: mesure
+  tags: [compteur, releve, data]
+  source_nom: CWaPE
+  source_url: "https://www.cwape.be/node/6078"
+  terme:
+    fr: "AMR"
+    en: "AMR"
+    de: "AMR"
+    nl: "AMR"
+  definition:
+    fr: "Automatic Meter Reading : compteur à télérelevé quart-horaire, généralement posé sur les raccordements de plus forte puissance. La CWaPE l'admet au même titre que le compteur communicant pour participer à un partage d'énergie."
+    en: "Automatic Meter Reading: a remotely read meter recording quarter-hourly values, usually fitted on higher-capacity connections. CWaPE accepts it on the same footing as a communicating meter for taking part in energy sharing."
+    de: "Automatic Meter Reading: fernausgelesener Zähler mit viertelstündlicher Erfassung, meist an Anschlüssen höherer Leistung. Die CWaPE lässt ihn für die Teilnahme am Energieteilen ebenso zu wie den Kommunikationszähler."
+    nl: "Automatic Meter Reading: op afstand uitgelezen meter met kwartierregistratie, meestal op aansluitingen met hoger vermogen. De CWaPE aanvaardt hem voor deelname aan energiedelen op dezelfde voet als de digitale meter."
+  alias:
+    fr: ["compteur AMR", "télérelevé"]
+    en: ["AMR meter", "automatic meter reading"]
+    de: ["AMR-Zähler", "Fernauslesung"]
+    nl: ["AMR-meter", "telelezing"]
+
 - slug: asbl
   categorie: juridique
   tags: [belgique, association, gouvernance]
@@ -376,6 +397,27 @@
     de: ["Energiegemeinschaft"]
     nl: ["energiegemeenschap"]
 
+- slug: compensation
+  categorie: facturation
+  tags: [photovoltaique, facture, wallonie]
+  source_nom: Wallonie
+  source_url: "https://www.wallonie.be/fr/actualites/panneaux-photovoltaiques-fin-du-compteur-qui-tourne-lenvers"
+  terme:
+    fr: "Compensation"
+    en: "Compensation"
+    de: "Kompensation"
+    nl: "Compensatie"
+  definition:
+    fr: "Mécanisme dit du « compteur qui tourne à l'envers » : les injections viennent annuellement en déduction des prélèvements. Interdite par le droit européen au-delà du 31 décembre 2023, elle reste acquise en Wallonie jusqu'au 31 décembre 2030 pour les installations mises en service avant le 1er janvier 2024 — et doit être abandonnée pour participer à un partage d'énergie."
+    en: "The mechanism known as the meter running backwards: injections are annually netted off withdrawals. Banned under European law beyond 31 December 2023, it remains secured in Wallonia until 31 December 2030 for systems commissioned before 1 January 2024 — and must be given up to take part in energy sharing."
+    de: "Der sogenannte rückwärtslaufende Zähler: Einspeisungen werden jährlich von den Entnahmen abgezogen. Nach europäischem Recht über den 31. Dezember 2023 hinaus untersagt, bleibt sie in Wallonien bis zum 31. Dezember 2030 für vor dem 1. Januar 2024 in Betrieb genommene Anlagen erhalten — und muss für die Teilnahme am Energieteilen aufgegeben werden."
+    nl: "Het mechanisme van de zogenaamde terugdraaiende teller: injecties worden jaarlijks in mindering gebracht op de afnames. Door het Europese recht verboden na 31 december 2023, blijft ze in Wallonië verworven tot 31 december 2030 voor installaties die vóór 1 januari 2024 in dienst zijn genomen — en moet ze worden opgegeven om aan energiedelen deel te nemen."
+  alias:
+    fr: ["compteur qui tourne à l'envers", "compensation annuelle"]
+    en: ["net metering", "meter running backwards"]
+    de: ["rückwärtslaufender Zähler", "jährliche Kompensation", "Saldierung"]
+    nl: ["terugdraaiende teller", "jaarlijkse compensatie"]
+
 - slug: composante-energie
   categorie: facturation
   tags: [facture, prix, marche]
@@ -417,6 +459,27 @@
     en: ["communicating meter"]
     de: ["Smart Meter"]
     nl: ["slimme meter", "digitale meter"]
+
+- slug: compteur-double-flux
+  categorie: mesure
+  tags: [compteur, photovoltaique, injection]
+  source_nom: Wallonie
+  source_url: "https://www.wallonie.be/fr/actualites/panneaux-photovoltaiques-fin-du-compteur-qui-tourne-lenvers"
+  terme:
+    fr: "Compteur double flux"
+    en: "Dual-flow meter"
+    de: "Zweirichtungszähler"
+    nl: "Dubbele-fluxmeter"
+  definition:
+    fr: "Compteur qui mesure séparément l'électricité prélevée sur le réseau et l'électricité injectée. Obligatoire en Wallonie pour toute installation photovoltaïque mise en service à partir du 1er janvier 2024, il rend la compensation impossible et conditionne la vente du surplus au tarif d'injection."
+    en: "A meter that measures electricity drawn from the grid and electricity injected separately. Mandatory in Wallonia for any solar installation commissioned from 1 January 2024, it makes compensation impossible and is the precondition for selling the surplus at the injection tariff."
+    de: "Zähler, der die aus dem Netz entnommene und die eingespeiste Elektrizität getrennt misst. In Wallonien für jede ab dem 1. Januar 2024 in Betrieb genommene Photovoltaikanlage vorgeschrieben, macht er die Kompensation unmöglich und ist Voraussetzung für den Verkauf des Überschusses zum Einspeisetarif."
+    nl: "Meter die de van het net afgenomen en de geïnjecteerde elektriciteit apart meet. In Wallonië verplicht voor elke fotovoltaïsche installatie die vanaf 1 januari 2024 in dienst wordt genomen, maakt hij compensatie onmogelijk en is hij de voorwaarde om het overschot tegen het injectietarief te verkopen."
+  alias:
+    fr: ["compteur bidirectionnel"]
+    en: ["bidirectional meter", "two-way meter"]
+    de: ["Zweiwegezähler", "bidirektionaler Zähler"]
+    nl: ["tweerichtingsmeter", "bidirectionele meter"]
 
 - slug: convention-de-partage
   categorie: juridique
@@ -943,6 +1006,27 @@
     de: []
     nl: []
 
+- slug: onduleur
+  categorie: technique
+  tags: [photovoltaique, materiel, puissance]
+  source_nom: Énergie Commune
+  source_url: "https://sifpv.energiecommune.be/"
+  terme:
+    fr: "Onduleur"
+    en: "Inverter"
+    de: "Wechselrichter"
+    nl: "Omvormer"
+  definition:
+    fr: "Appareil qui convertit le courant continu produit par les panneaux photovoltaïques en courant alternatif utilisable. Sa puissance en kWe constitue la puissance nette développable, base de calcul du tarif prosumer wallon ; il se remplace généralement vers la douzième année."
+    en: "The device that converts the direct current produced by solar panels into usable alternating current. Its rating in kWe is the net deliverable capacity used to compute the Walloon prosumer tariff; it is usually replaced around year twelve."
+    de: "Gerät, das den von den Photovoltaikmodulen erzeugten Gleichstrom in nutzbaren Wechselstrom umwandelt. Seine Leistung in kWe bildet die netto verfügbare Leistung, Berechnungsgrundlage des wallonischen Prosumer-Tarifs; er wird meist um das zwölfte Jahr ersetzt."
+    nl: "Toestel dat de door de fotovoltaïsche panelen geproduceerde gelijkstroom omzet in bruikbare wisselstroom. Zijn vermogen in kWe vormt het netto ontwikkelbaar vermogen, de rekenbasis van het Waalse prosumententarief; hij wordt meestal rond het twaalfde jaar vervangen."
+  alias:
+    fr: ["convertisseur"]
+    en: ["solar inverter"]
+    de: ["Solarwechselrichter"]
+    nl: ["invertor"]
+
 - slug: pair-a-pair
   categorie: partage
   tags: [partage, voisinage, bilateral]
@@ -1048,6 +1132,27 @@
     de: []
     nl: []
 
+- slug: photovoltaique
+  categorie: production
+  tags: [production, solaire, technologie]
+  source_nom: Renouvelle
+  source_url: "https://www.renouvelle.be/fr/faits-chiffres/observatoire-photovoltaique/"
+  terme:
+    fr: "Photovoltaïque"
+    en: "Photovoltaic"
+    de: "Photovoltaik"
+    nl: "Fotovoltaïsch"
+  definition:
+    fr: "Technologie qui convertit directement le rayonnement solaire en électricité. Elle fournit l'essentiel de l'énergie partagée en Belgique, avec un parc de 12,8 GWc fin 2025 pour plus de 10 TWh produits."
+    en: "The technology that converts solar radiation directly into electricity. It supplies most of the energy shared in Belgium, with a fleet of 12.8 GWp at the end of 2025 generating more than 10 TWh."
+    de: "Technologie, die Sonnenstrahlung unmittelbar in Elektrizität umwandelt. Sie liefert den Großteil der in Belgien geteilten Energie, mit einem Anlagenpark von 12,8 GWp Ende 2025 und mehr als 10 TWh Erzeugung."
+    nl: "Technologie die zonnestraling rechtstreeks omzet in elektriciteit. Ze levert het grootste deel van de in België gedeelde energie, met een park van 12,8 GWp eind 2025 en meer dan 10 TWh productie."
+  alias:
+    fr: ["panneaux solaires", "panneau solaire", "panneau photovoltaïque"]
+    en: ["solar panels", "solar panel", "solar photovoltaic"]
+    de: ["Solaranlage", "Solarmodul", "Photovoltaikanlage"]
+    nl: ["zonnepanelen", "zonnepaneel", "fotovoltaïsche installatie"]
+
 - slug: point-de-fourniture
   categorie: reseau
   tags: [contrat, point, livraison]
@@ -1131,6 +1236,69 @@
     en: ["internal price", "shared energy price"]
     de: ["interner Preis", "Preis der geteilten Energie"]
     nl: ["interne prijs", "prijs van de gedeelde energie"]
+
+- slug: productible
+  categorie: production
+  tags: [photovoltaique, production, calcul]
+  source_nom: Énergie Commune
+  source_url: "https://sifpv.energiecommune.be/"
+  terme:
+    fr: "Productible"
+    en: "Specific yield"
+    de: "Spezifischer Ertrag"
+    nl: "Specifieke opbrengst"
+  definition:
+    fr: "Énergie qu'une installation photovoltaïque produit en un an par unité de puissance installée, exprimée en kWh/kWc. En Wallonie, l'ordre de grandeur retenu est de 950 à 1 000 kWh/kWc par an pour une toiture plein sud inclinée à 35° et non ombragée."
+    en: "The energy a solar installation produces in a year per unit of installed capacity, expressed in kWh/kWp. In Wallonia the accepted order of magnitude is 950 to 1,000 kWh/kWp a year for an unshaded, due-south roof at 35°."
+    de: "Energie, die eine Photovoltaikanlage in einem Jahr je Einheit installierter Leistung erzeugt, ausgedrückt in kWh/kWp. In Wallonien gilt als Größenordnung 950 bis 1.000 kWh/kWp pro Jahr für ein unverschattetes, nach Süden ausgerichtetes Dach mit 35° Neigung."
+    nl: "Energie die een fotovoltaïsche installatie in een jaar produceert per eenheid geïnstalleerd vermogen, uitgedrukt in kWh/kWp. In Wallonië geldt als orde van grootte 950 tot 1.000 kWh/kWp per jaar voor een onbeschaduwd dak pal zuid met een helling van 35°."
+  alias:
+    fr: ["productivité annuelle", "kWh/kWc"]
+    en: ["annual yield", "kWh/kWp"]
+    de: ["Jahresertrag", "kWh/kWp"]
+    nl: ["jaaropbrengst", "kWh/kWp"]
+
+- slug: prosumer
+  categorie: production
+  tags: [photovoltaique, production, wallonie]
+  source_nom: ORES
+  source_url: "https://www.ores.be/particulier/compensation-avant-0101"
+  terme:
+    fr: "Prosumer"
+    en: "Prosumer"
+    de: "Prosumer"
+    nl: "Prosument"
+  definition:
+    fr: "Utilisateur qui consomme et produit de l'électricité sur le même point de fourniture, typiquement un ménage équipé de panneaux photovoltaïques. En Wallonie, ce statut déclenche le tarif prosumer et détermine le régime applicable au surplus injecté."
+    en: "A user who both consumes and produces electricity at the same supply point, typically a household with solar panels. In Wallonia this status triggers the prosumer tariff and determines the regime applying to the injected surplus."
+    de: "Nutzer, der am selben Lieferpunkt Strom verbraucht und erzeugt, typischerweise ein Haushalt mit Photovoltaikanlage. In Wallonien löst dieser Status den Prosumer-Tarif aus und bestimmt die für den eingespeisten Überschuss geltende Regelung."
+    nl: "Gebruiker die op hetzelfde leveringspunt elektriciteit verbruikt en produceert, typisch een gezin met zonnepanelen. In Wallonië activeert dit statuut het prosumententarief en bepaalt het welk stelsel op het geïnjecteerde overschot van toepassing is."
+  alias:
+    fr: ["prosommateur", "prosumers"]
+    en: ["prosumers"]
+    de: ["Prosument", "Prosumenten"]
+    nl: ["prosumenten", "prosumer"]
+
+- slug: puissance-nette-developpable
+  categorie: reseau
+  tags: [photovoltaique, puissance, tarif]
+  source_nom: CWaPE
+  source_url: "https://www.cwape.be/node/148"
+  terme:
+    fr: "Puissance nette développable"
+    en: "Net deliverable capacity"
+    de: "Netto verfügbare Leistung"
+    nl: "Netto ontwikkelbaar vermogen"
+  definition:
+    fr: "Puissance électrique maximale qu'une installation peut injecter sur le réseau, en pratique celle de l'onduleur exprimée en kWe. Elle sert de base au calcul du tarif prosumer forfaitaire en Wallonie — et non la puissance crête des panneaux exprimée en kWc."
+    en: "The maximum electrical capacity an installation can inject into the grid, in practice that of the inverter expressed in kWe. It is the basis for computing the flat prosumer tariff in Wallonia — not the peak capacity of the panels expressed in kWp."
+    de: "Maximale elektrische Leistung, die eine Anlage ins Netz einspeisen kann, in der Praxis die des Wechselrichters in kWe. Sie ist die Berechnungsgrundlage des pauschalen Prosumer-Tarifs in Wallonien — nicht die Spitzenleistung der Module in kWp."
+    nl: "Maximaal elektrisch vermogen dat een installatie op het net kan injecteren, in de praktijk dat van de omvormer uitgedrukt in kWe. Het vormt de rekenbasis van het forfaitaire prosumententarief in Wallonië — en niet het piekvermogen van de panelen in kWp."
+  alias:
+    fr: ["puissance développable"]
+    en: ["net developable power"]
+    de: ["netto entwickelbare Leistung"]
+    nl: ["ontwikkelbaar vermogen"]
 
 - slug: quart-d-heure
   categorie: mesure
@@ -1353,10 +1521,10 @@
     de: "Prosumer-Tarif"
     nl: "Prosumententarief"
   definition:
-    fr: "Contribution aux coûts de réseau due par les détenteurs d'une installation photovoltaïque en Wallonie, calculée sur la puissance nette développable — 80,98 €/kWe sur la grille ORES 2026. Elle ne s'applique sous forme forfaitaire qu'aux compteurs qui n'enregistrent pas les prélèvements bruts réels."
-    en: "A contribution to network costs owed by owners of a photovoltaic installation in Wallonia, calculated on net deliverable capacity — €80.98/kWe on the ORES 2026 schedule. It applies as a flat charge only to meters that do not record actual gross withdrawals."
-    de: "Beitrag zu den Netzkosten, den Betreiber einer Photovoltaikanlage in Wallonien schulden, berechnet auf die netto verfügbare Leistung — 80,98 €/kWe nach der ORES-Tarifliste 2026. Als Pauschale gilt er nur für Zähler, die die tatsächlichen Bruttoentnahmen nicht erfassen."
-    nl: "Bijdrage in de netkosten die eigenaars van een fotovoltaïsche installatie in Wallonië verschuldigd zijn, berekend op het netto ontwikkelbaar vermogen — 80,98 €/kWe volgens de ORES-tarieflijst 2026. Als forfait geldt hij enkel voor meters die de werkelijke bruto-afname niet registreren."
+    fr: "Contribution aux coûts de réseau due par les détenteurs d'une installation photovoltaïque en Wallonie, calculée sur la puissance nette développable — 80,98 €/kWe hors TVA sur la grille ORES 2026, soit 85,84 €/kWe TVA comprise. Elle ne s'applique sous forme forfaitaire qu'aux compteurs qui n'enregistrent pas les prélèvements bruts réels."
+    en: "A contribution to network costs owed by owners of a photovoltaic installation in Wallonia, calculated on net deliverable capacity — €80.98/kWe excluding VAT on the ORES 2026 schedule, i.e. €85.84/kWe including VAT. It applies as a flat charge only to meters that do not record actual gross withdrawals."
+    de: "Beitrag zu den Netzkosten, den Betreiber einer Photovoltaikanlage in Wallonien schulden, berechnet auf die netto verfügbare Leistung — 80,98 €/kWe ohne Mehrwertsteuer nach der ORES-Tarifliste 2026, also 85,84 €/kWe mit Mehrwertsteuer. Als Pauschale gilt er nur für Zähler, die die tatsächlichen Bruttoentnahmen nicht erfassen."
+    nl: "Bijdrage in de netkosten die eigenaars van een fotovoltaïsche installatie in Wallonië verschuldigd zijn, berekend op het netto ontwikkelbaar vermogen — 80,98 €/kWe exclusief btw volgens de ORES-tarieflijst 2026, dus 85,84 €/kWe inclusief btw. Als forfait geldt hij enkel voor meters die de werkelijke bruto-afname niet registreren."
   alias:
     fr: ["redevance prosumer"]
     en: ["prosumer charge"]

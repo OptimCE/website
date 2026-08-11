@@ -2,6 +2,7 @@
 layout: post
 title: "Goedkopere stroom zonder leverancierswissel"
 date: 2026-08-05 04:00:00 +0200
+last_modified_at: 2026-08-11 04:00:00 +0200
 author: "OptimCE-team"
 excerpt: "Elke gids over besparen op elektriciteit eindigt met dezelfde zin: vergelijk en verander dan van leverancier. Toch bestaat er een mechanisme dat uw factuur verlaagt zonder dat u iets moet opzeggen — energiedelen. De vraag is niet of het legaal is: dat is het in alle drie de gewesten. De vraag is of het beschikbaar is waar u woont, en twee cijfers schetsen het antwoord: 38 vergunde gemeenschappen in Brussel, 8 in Wallonië."
 description: "Energiedelen verlaagt uw factuur zonder uw contract op te zeggen. Wat het echt oplevert en in welk gewest het werkelijk beschikbaar is."
@@ -228,7 +229,7 @@ Ja, maar slechts in twee configuraties, en het gebruik blijft zeer beperkt. De e
 
 ### Hebt u een slimme meter nodig om aan energiedelen deel te nemen?
 
-Ja, zonder uitzondering, in alle drie de gewesten. Delen berust op de vergelijking van de meterstanden van alle deelnemers per kwartier: zonder kwartiermeting is het onmogelijk te weten hoeveel energie op hetzelfde ogenblik werd geïnjecteerd en verbruikt. **In Brussel is de vervanging van uw meter door een slimme meter gratis** voor deelnemers aan energiedelen, wat het door Brugel goedgekeurde niet-periodieke tariefblad bevestigt. In Wallonië vereist de CWaPE een communicerende elektronische meter of een AMR-meter, en houdt deelname in dat u **afziet van het voordeel van de compensatie** — een punt dat prosumenten betreft die vóór 2024 werden uitgerust.
+Ja, zonder uitzondering, in alle drie de gewesten. Delen berust op de vergelijking van de meterstanden van alle deelnemers per kwartier: zonder kwartiermeting is het onmogelijk te weten hoeveel energie op hetzelfde ogenblik werd geïnjecteerd en verbruikt. **In Brussel is de vervanging van uw meter door een slimme meter gratis** voor deelnemers aan energiedelen, wat het door Brugel goedgekeurde niet-periodieke tariefblad bevestigt. In Wallonië vereist de CWaPE een communicerende elektronische meter of een AMR-meter, en houdt deelname in dat u **afziet van het voordeel van de compensatie** — een punt dat prosumenten betreft die vóór 2024 werden uitgerust. Die afweging is becijferd in “[Zonnepanelen 2026: nog rendabel in Wallonië?](/nl/nieuws/2026/08/11/zonnepanelen-rendabel-wallonie-2026/)”.
 
 ### Hoeveel kunt u besparen met energiedelen?
 

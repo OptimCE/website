@@ -8,7 +8,7 @@ description: "The self-consumption rate and how to raise it, collective self-con
 tags: [community]
 lang: en
 ref: self-consumption-belgium
-last_modified_at: 2026-07-28 10:00:00 +0200
+last_modified_at: 2026-08-11 04:00:00 +0200
 permalink: /en/news/2026/06/05/energy-self-consumption-belgium/
 faq:
   - q: "What is the self-consumption rate?"
@@ -53,7 +53,7 @@ A panel only produces during the day, yet much of a household's consumption happ
 3. **Charge the EV during the day.** A steered charger that runs at production hours captures a large part of the surplus.
 4. **Install a heat pump.** Electrified heating and hot water raise steerable daytime consumption.
 5. **Add a home battery.** It stores the day's surplus to release it in the evening, which can lift the self-consumption rate substantially (at the cost of an investment).
-6. **Share the surplus via an energy community.** Once your own measures are maxed out, the remaining surplus is no longer injected at a low price: it's **shared with other members** who consume it locally. This is the logical extension from individual to collective self-consumption.
+6. **Share the surplus via an energy community.** Once your own measures are maxed out, the remaining surplus is no longer injected at a low price: it's **shared with other members** who consume it locally. This is the logical extension from individual to collective self-consumption. What that changes for the payback of a Walloon installation is quantified in [“Solar panels 2026: still worth it in Wallonia?”](/en/news/2026/08/11/solar-panels-worth-it-wallonia-2026/).
 
 ## Self-consumption and energy communities: the links
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Cheaper electricity without switching supplier"
 date: 2026-08-05 04:00:00 +0200
+last_modified_at: 2026-08-11 04:00:00 +0200
 author: "OptimCE Team"
 excerpt: "Every guide to saving on electricity ends with the same sentence: compare, then switch supplier. Yet one mechanism lowers the bill without cancelling anything — energy sharing. The question is not whether it is legal: it is, in all three regions. It is whether it is available where you live, and two numbers frame the answer: 38 authorised communities in Brussels, 8 in Wallonia."
 description: "Energy sharing lowers your bill without cancelling your contract. What it is really worth, and which Belgian region can actually offer it to you."
@@ -228,7 +229,7 @@ Yes, but in two configurations only, and take-up remains very low. The CWaPE ass
 
 ### Do you need a smart meter to take part in energy sharing?
 
-Yes, without exception, in all three regions. Sharing relies on comparing every participant's meter readings in fifteen-minute intervals: without quarter-hourly metering, there is no way to know how much energy was injected and consumed at the same moment. **In Brussels, replacing your meter with a smart meter is free** for energy sharing participants, as confirmed by the non-periodic tariff grid approved by Brugel. In Wallonia, the CWaPE requires a communicating electronic meter or an AMR meter, and participation means **giving up the benefit of compensation** — a point that concerns prosumers equipped before 2024.
+Yes, without exception, in all three regions. Sharing relies on comparing every participant's meter readings in fifteen-minute intervals: without quarter-hourly metering, there is no way to know how much energy was injected and consumed at the same moment. **In Brussels, replacing your meter with a smart meter is free** for energy sharing participants, as confirmed by the non-periodic tariff grid approved by Brugel. In Wallonia, the CWaPE requires a communicating electronic meter or an AMR meter, and participation means **giving up the benefit of compensation** — a point that concerns prosumers equipped before 2024. That trade-off is quantified in [“Solar panels 2026: still worth it in Wallonia?”](/en/news/2026/08/11/solar-panels-worth-it-wallonia-2026/).
 
 ### How much can you save with energy sharing?
 

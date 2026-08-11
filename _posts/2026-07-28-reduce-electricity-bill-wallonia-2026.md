@@ -2,7 +2,7 @@
 layout: post
 title: "Reduce your electricity bill: Wallonia 2026"
 date: 2026-07-28 10:00:00 +0200
-last_modified_at: 2026-08-08 10:00:00 +0200
+last_modified_at: 2026-08-11 04:00:00 +0200
 author: "OptimCE Team"
 excerpt: "The official comparator, the new Impact tariff, the social tariff, the 30 September grant deadline, self-consumption and energy sharing: ten Walloon levers costed from the ORES 2026 tariff schedule approved by CWaPE. Six of them cost nothing. For each one, the realistic annual saving, the condition to meet and the lead time."
 description: "Ten concrete, costed and sourced levers to cut your electricity bill in Wallonia in 2026 — from the official comparator to energy sharing."
@@ -167,7 +167,7 @@ The prosumer tariff prices exactly that. On the ORES 2026 schedule it stands at 
 - This flat charge applies only to prosumers **whose meter does not record actual gross withdrawals** from the grid.
 - For those who benefit from compensation **and** have a meter that records those gross withdrawals, total network costs are **capped** at the amount calculated on net withdrawals plus the prosumer tariff. In other words, the system automatically keeps whichever formula favours you.
 
-Compensation — the meter that runs backwards — remains secured **until 31 December 2030** for installations commissioned before 1 January 2024. After that, injection and withdrawal will be valued separately, and the self-consumption rate becomes the only parameter that really counts.
+Compensation — the meter that runs backwards — remains secured **until 31 December 2030** for installations commissioned before 1 January 2024. After that, injection and withdrawal will be valued separately, and the self-consumption rate becomes the only parameter that really counts. The full profitability calculation under that new regime, and the trade-off between keeping compensation and joining an energy sharing operation, are set out in [“Solar panels 2026: still worth it in Wallonia?”](/en/news/2026/08/11/solar-panels-worth-it-wallonia-2026/).
 
 **And batteries?** A battery lifts a typical self-consumption rate from 30–40% to 70–80%. But let us be factual: it costs €4,000 to €10,000 for 5 to 10 kWh, **Wallonia pays no direct grant for domestic storage**, and payback lands around ten to thirteen years — often beyond the warranty. What changes in 2026 is the Impact tariff: charging in the ECO band at 2.71 c€/kWh to discharge in the PIC band at 13.54 c€/kWh adds an arbitrage revenue the classic calculation ignored. Have the simulation redone on that assumption before deciding.
 

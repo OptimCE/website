@@ -2,7 +2,7 @@
 layout: post
 title: "Réduire sa facture d'électricité : Wallonie 2026"
 date: 2026-07-28 10:00:00 +0200
-last_modified_at: 2026-08-08 10:00:00 +0200
+last_modified_at: 2026-08-11 04:00:00 +0200
 author: "Équipe OptimCE"
 excerpt: "Comparateur officiel, nouveau tarif Impact, tarif social, primes avant le 30 septembre, autoconsommation, partage d'énergie : dix leviers wallons chiffrés à partir de la grille tarifaire ORES 2026 approuvée par la CWaPE. Six d'entre eux ne coûtent rien. Pour chacun, le gain annuel réaliste, la condition à remplir et le délai."
 description: "Dix leviers concrets, chiffrés et sourcés pour alléger sa facture d'électricité en Wallonie en 2026 — du comparateur officiel au partage d'énergie."
@@ -166,7 +166,7 @@ Le tarif prosumer chiffre exactement cela. Sur la grille ORES 2026, il s'élève
 - Ce forfait ne s'applique qu'aux prosumers **dont le compteur n'enregistre pas les prélèvements réels d'électricité brute** sur le réseau.
 - Pour ceux qui bénéficient de la compensation **et** disposent d'un compteur qui enregistre ces prélèvements bruts, le total des coûts de réseau est **plafonné** au montant calculé sur les prélèvements nets, augmenté du tarif prosumer. Autrement dit, le système retient automatiquement la formule la plus avantageuse pour vous.
 
-La compensation — le compteur qui tourne à l'envers — reste acquise **jusqu'au 31 décembre 2030** pour les installations mises en service avant le 1er janvier 2024. Après cette date, l'injection et le prélèvement seront valorisés séparément, et le taux d'autoconsommation deviendra le seul paramètre qui compte vraiment.
+La compensation — le compteur qui tourne à l'envers — reste acquise **jusqu'au 31 décembre 2030** pour les installations mises en service avant le 1er janvier 2024. Après cette date, l'injection et le prélèvement seront valorisés séparément, et le taux d'autoconsommation deviendra le seul paramètre qui compte vraiment. Le calcul complet de rentabilité dans ce nouveau régime, et l'arbitrage entre conserver la compensation ou rejoindre un partage d'énergie, sont détaillés dans [« Panneaux solaires 2026 : rentables en Wallonie ? »](/actualites/2026/08/11/panneaux-solaires-rentables-wallonie-2026/).
 
 **Et la batterie ?** Elle fait passer un taux d'autoconsommation typique de 30-40 % à 70-80 %. Mais soyons factuels : elle coûte 4 000 à 10 000 € pour 5 à 10 kWh, **la Wallonie ne verse aucune prime directe pour le stockage domestique**, et le retour sur investissement se situe autour de dix à treize ans — au-delà, souvent, de la garantie. Ce qui change la donne en 2026, c'est le tarif Impact : charger en bande ECO à 2,71 c€/kWh pour décharger en bande PIC à 13,54 c€/kWh ajoute un revenu d'arbitrage que le calcul classique ignorait. Faites refaire la simulation avec cette hypothèse avant de trancher.
 

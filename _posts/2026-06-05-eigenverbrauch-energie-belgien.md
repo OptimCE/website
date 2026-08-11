@@ -8,7 +8,7 @@ description: "Eigenverbrauchsquote und wie man sie erhöht, kollektiver Eigenver
 tags: [community]
 lang: de
 ref: self-consumption-belgium
-last_modified_at: 2026-07-28 10:00:00 +0200
+last_modified_at: 2026-08-11 04:00:00 +0200
 permalink: /de/aktuelles/2026/06/05/eigenverbrauch-energie-belgien/
 faq:
   - q: "Was ist die Eigenverbrauchsquote?"
@@ -53,7 +53,7 @@ Eine Anlage produziert nur tagsüber, doch ein großer Teil des Haushaltsverbrau
 3. **Das E-Auto tagsüber laden.** Eine gesteuerte Ladestation, die zu Produktionszeiten anläuft, fängt einen großen Teil des Überschusses ab.
 4. **Eine Wärmepumpe installieren.** Elektrifizierte Heizung und Warmwasser erhöhen den steuerbaren Tagesverbrauch.
 5. **Eine Heimbatterie ergänzen.** Sie speichert den Tagesüberschuss für den Abend und kann die Eigenverbrauchsquote spürbar anheben (gegen eine Investition).
-6. **Den Überschuss über eine Energiegemeinschaft teilen.** Sind Ihre eigenen Maßnahmen ausgereizt, wird der verbleibende Überschuss nicht mehr zu niedrigem Preis eingespeist, sondern **mit anderen Mitgliedern geteilt**, die ihn lokal verbrauchen. Das ist die logische Erweiterung vom individuellen zum kollektiven Eigenverbrauch.
+6. **Den Überschuss über eine Energiegemeinschaft teilen.** Sind Ihre eigenen Maßnahmen ausgereizt, wird der verbleibende Überschuss nicht mehr zu niedrigem Preis eingespeist, sondern **mit anderen Mitgliedern geteilt**, die ihn lokal verbrauchen. Das ist die logische Erweiterung vom individuellen zum kollektiven Eigenverbrauch. Was das für die Amortisation einer wallonischen Anlage bedeutet, ist in „[Solaranlage 2026: lohnt sie sich in Wallonien?](/de/aktuelles/2026/08/11/solaranlage-rentabel-wallonien-2026/)“ beziffert.
 
 ## Eigenverbrauch und Energiegemeinschaften: die Bezüge
 

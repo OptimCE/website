@@ -2,7 +2,7 @@
 layout: post
 title: "Elektriciteitsfactuur verlagen: Wallonië 2026"
 date: 2026-07-28 10:00:00 +0200
-last_modified_at: 2026-08-08 10:00:00 +0200
+last_modified_at: 2026-08-11 04:00:00 +0200
 author: "OptimCE-team"
 excerpt: "Officiële vergelijker, nieuw Impact-tarief, sociaal tarief, premiedeadline van 30 september, zelfverbruik en energiedelen: tien Waalse hefbomen, berekend op basis van de door de CWaPE goedgekeurde ORES-tarieflijst 2026. Zes ervan kosten niets. Voor elke hefboom de realistische jaarwinst, de voorwaarde en de doorlooptijd."
 description: "Tien concrete, becijferde en gestaafde hefbomen om uw elektriciteitsfactuur in Wallonië te verlagen in 2026 — van de officiële vergelijker tot energiedelen."
@@ -167,7 +167,7 @@ Het prosumententarief becijfert precies dat. Volgens de ORES-tarieflijst 2026 be
 - Dat forfait geldt enkel voor prosumenten **van wie de meter de werkelijke bruto-afname** van het net niet registreert.
 - Voor wie compensatie geniet **én** over een meter beschikt die die bruto-afname registreert, wordt het totaal van de netkosten **afgetopt** op het bedrag berekend op de netto-afname, vermeerderd met het prosumententarief. Het systeem behoudt dus automatisch de voor u voordeligste formule.
 
-De compensatie — de terugdraaiende teller — blijft verworven **tot 31 december 2030** voor installaties die vóór 1 januari 2024 in dienst zijn genomen. Daarna worden injectie en afname afzonderlijk gewaardeerd, en wordt de zelfverbruiksgraad de enige parameter die werkelijk telt.
+De compensatie — de terugdraaiende teller — blijft verworven **tot 31 december 2030** voor installaties die vóór 1 januari 2024 in dienst zijn genomen. Daarna worden injectie en afname afzonderlijk gewaardeerd, en wordt de zelfverbruiksgraad de enige parameter die werkelijk telt. De volledige rendabiliteitsberekening onder dat nieuwe stelsel, en de afweging tussen de compensatie behouden of toetreden tot een energiedeling, staan in “[Zonnepanelen 2026: nog rendabel in Wallonië?](/nl/nieuws/2026/08/11/zonnepanelen-rendabel-wallonie-2026/)”.
 
 **En de batterij?** Ze tilt een typische zelfverbruiksgraad van 30-40 % naar 70-80 %. Maar laten we feitelijk blijven: ze kost 4.000 tot 10.000 € voor 5 tot 10 kWh, **Wallonië keert geen enkele rechtstreekse premie uit voor thuisopslag**, en de terugverdientijd ligt rond tien tot dertien jaar — vaak voorbij de waarborg. Wat in 2026 verandert, is het Impact-tarief: laden in het ECO-blok aan 2,71 c€/kWh om te ontladen in het PIC-blok aan 13,54 c€/kWh voegt een arbitrage-opbrengst toe die de klassieke berekening negeerde. Laat de simulatie met die hypothese opnieuw maken vóór u beslist.
 

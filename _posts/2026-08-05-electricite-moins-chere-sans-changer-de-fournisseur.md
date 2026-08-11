@@ -2,6 +2,7 @@
 layout: post
 title: "Baisser sa facture sans changer de fournisseur"
 date: 2026-08-05 04:00:00 +0200
+last_modified_at: 2026-08-11 04:00:00 +0200
 author: "Équipe OptimCE"
 excerpt: "Tous les guides d'économies finissent par la même phrase : comparez, puis changez de fournisseur. Il existe pourtant un mécanisme qui fait baisser la facture sans résilier quoi que ce soit — le partage d'énergie. La question n'est pas de savoir s'il est légal : il l'est dans les trois régions. Elle est de savoir s'il est accessible chez vous, et la réponse tient dans deux chiffres : 38 communautés autorisées à Bruxelles, 8 en Wallonie."
 description: "Le partage d'énergie fait baisser la facture sans résilier son contrat. Ce qu'il rapporte vraiment, et dans quelle région il est réellement accessible."
@@ -227,7 +228,7 @@ Oui, mais dans deux configurations seulement, et le dispositif reste très peu u
 
 ### Faut-il un compteur intelligent pour participer à un partage d'énergie ?
 
-Oui, sans exception, dans les trois régions. Le partage repose sur la comparaison des index de tous les participants par tranche de quinze minutes : sans mesure quart-horaire, il est impossible de savoir quelle quantité d'énergie a été injectée et consommée au même moment. **À Bruxelles, le remplacement du compteur par un compteur intelligent est gratuit** pour les participants à un partage d'énergie, ce que confirme la grille tarifaire non périodique approuvée par Brugel. En Wallonie, la CWaPE exige un compteur électronique communicant ou AMR, et la participation implique de **renoncer au bénéfice de la compensation** — un point qui concerne les prosumers équipés avant 2024.
+Oui, sans exception, dans les trois régions. Le partage repose sur la comparaison des index de tous les participants par tranche de quinze minutes : sans mesure quart-horaire, il est impossible de savoir quelle quantité d'énergie a été injectée et consommée au même moment. **À Bruxelles, le remplacement du compteur par un compteur intelligent est gratuit** pour les participants à un partage d'énergie, ce que confirme la grille tarifaire non périodique approuvée par Brugel. En Wallonie, la CWaPE exige un compteur électronique communicant ou AMR, et la participation implique de **renoncer au bénéfice de la compensation** — un point qui concerne les prosumers équipés avant 2024. Cet arbitrage est chiffré dans [« Panneaux solaires 2026 : rentables en Wallonie ? »](/actualites/2026/08/11/panneaux-solaires-rentables-wallonie-2026/).
 
 ### Combien peut-on économiser avec le partage d'énergie ?
 

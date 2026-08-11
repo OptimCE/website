@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" role="img" aria-labelledby="t d">
+<title id="t">Wat een zonnekilowattuur waard is in Wallonië in 2026</title><desc id="d">Schema van de waarde van een zonnekilowattuur in Wallonië in 2026: de installatie splitst zich eerst volgens haar indienstnamedatum, vóór of na 1 januari 2024, en daarna volgt elke geproduceerde kilowattuur een van vier bestemmingen — onmiddellijk zelf verbruikt voor ongeveer 37 cent, opgeslagen in een batterij en later zelf verbruikt tegen dezelfde waarde maar ten koste van een investering, gedeeld met andere deelnemers voor 3 tot 14 cent, of op het net geïnjecteerd voor amper 1 tot 5 cent.</desc>
+<rect width="800" height="620" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="60" y="44" font-size="22" fill="#212529" font-weight="700">Wat een kilowattuur waard is, in Wallonië, in 2026</text>
+<text x="60" y="70" font-size="15" fill="#495057" font-weight="400">Twee stelsels, vier mogelijke bestemmingen — en een kloof van 1 op 12</text>
+
+<rect x="60" y="96" width="330" height="82" rx="6" fill="#e8f5e9"/>
+<text x="80" y="122" font-size="14" fill="#1b5e20" font-weight="700">In dienst genomen vóór 01/01/2024</text>
+<text x="80" y="144" font-size="12.5" fill="#212529" font-weight="400">Compensatie verworven tot 31/12/2030.</text>
+<text x="80" y="163" font-size="12.5" fill="#212529" font-weight="400">Delen betekent afzien: eerst rekenen.</text>
+
+<rect x="410" y="96" width="330" height="82" rx="6" fill="#2e7d32"/>
+<text x="430" y="122" font-size="14" fill="#FFFFFF" font-weight="700">In dienst genomen vanaf 01/01/2024</text>
+<text x="430" y="144" font-size="12.5" fill="#c8e6c9" font-weight="400">Geen compensatie, dubbele-fluxmeter.</text>
+<text x="430" y="163" font-size="12.5" fill="#FFFFFF" font-weight="400">Niets te verliezen: delen is pure winst.</text>
+
+<text x="60" y="214" font-size="15" fill="#212529" font-weight="700">Waarde van een geproduceerde kilowattuur, per bestemming</text>
+
+<text x="60" y="250" font-size="14" fill="#212529" font-weight="400">Ter plaatse zelf verbruikt</text>
+<text x="60" y="267" font-size="11" fill="#495057" font-weight="400">37,8 % van de productie, 86,5 % van de opbrengst</text>
+<rect x="310" y="232" width="435" height="40" rx="4" fill="#2e7d32"/>
+<text x="731" y="257" font-size="14" fill="#FFFFFF" font-weight="700" text-anchor="end">36,94 c€</text>
+
+<text x="60" y="318" font-size="14" fill="#212529" font-weight="400">Opgeslagen, dan verbruikt</text>
+<text x="60" y="335" font-size="11" fill="#495057" font-weight="400">4.000 tot 10.000 €, 10 tot 13 jaar</text>
+<rect x="310" y="300" width="435" height="40" rx="4" fill="#a5d6a7"/>
+<text x="731" y="325" font-size="14" fill="#1b5e20" font-weight="700" text-anchor="end">36,94 c€</text>
+
+<text x="60" y="386" font-size="14" fill="#212529" font-weight="400">Gedeeld met anderen</text>
+<text x="60" y="403" font-size="11" fill="#495057" font-weight="400">geen investering, prijs volgens overeenkomst</text>
+<rect x="310" y="368" width="165" height="40" rx="4" fill="#66bb6a"/>
+<text x="487" y="393" font-size="14" fill="#1b5e20" font-weight="700">3 tot 14 c€</text>
+
+<text x="60" y="454" font-size="14" fill="#212529" font-weight="400">Op het net geïnjecteerd</text>
+<text x="60" y="471" font-size="11" fill="#495057" font-weight="400">62,2 % van de productie, 13,5 % van de opbrengst</text>
+<rect x="310" y="436" width="58" height="40" rx="4" fill="#E9ECEF" stroke="#DEE2E6"/>
+<text x="380" y="461" font-size="14" fill="#495057" font-weight="700">0,94 tot 4,90 c€</text>
+
+<line x1="60" y1="504" x2="740" y2="504" stroke="#DEE2E6" stroke-width="1"/>
+
+<rect x="60" y="518" width="680" height="64" rx="6" fill="#e8f5e9"/>
+<text x="80" y="544" font-size="14" fill="#1b5e20" font-weight="600">Delen is de enige hefboom die de waarde van het overschot verhoogt zonder investering.</text>
+<text x="80" y="566" font-size="14" fill="#212529" font-weight="400">Op de 62 % productie die u niet opneemt, is het de enige gratis actie die overblijft.</text>
+
+<text x="60" y="604" font-size="12" fill="#ADB5BD" font-weight="400">CREG-dashboard juni 2026 — Test-Aankoop, 28 mei 2026 — ORES-tarief 2026 — illustratief geval van 4 kWp uit het artikel</text>
+</g>
+</svg>

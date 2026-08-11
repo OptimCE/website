@@ -8,7 +8,7 @@ description: "Zelfverbruiksgraad en hoe u die verhoogt, collectief zelfverbruik,
 tags: [community]
 lang: nl
 ref: self-consumption-belgium
-last_modified_at: 2026-07-28 10:00:00 +0200
+last_modified_at: 2026-08-11 04:00:00 +0200
 permalink: /nl/nieuws/2026/06/05/zelfverbruik-energie-belgie/
 faq:
   - q: "Wat is de zelfverbruiksgraad?"
@@ -53,7 +53,7 @@ Een paneel produceert enkel overdag, terwijl een groot deel van het gezinsverbru
 3. **De elektrische wagen overdag laden.** Een gestuurde laadpaal die op productie-uren start, vangt een groot deel van het overschot op.
 4. **Een warmtepomp installeren.** Geëlektrificeerde verwarming en warm water verhogen het stuurbare dagverbruik.
 5. **Een thuisbatterij toevoegen.** Ze slaat het overschot van de dag op om het 's avonds vrij te geven, wat de zelfverbruiksgraad gevoelig kan optillen (tegen een investering).
-6. **Het overschot delen via een energiegemeenschap.** Zijn uw eigen maatregelen gemaximaliseerd, dan wordt het resterende overschot niet langer tegen lage prijs geïnjecteerd, maar **gedeeld met andere leden** die het lokaal verbruiken. Dat is de logische uitbreiding van individueel naar collectief zelfverbruik.
+6. **Het overschot delen via een energiegemeenschap.** Zijn uw eigen maatregelen gemaximaliseerd, dan wordt het resterende overschot niet langer tegen lage prijs geïnjecteerd, maar **gedeeld met andere leden** die het lokaal verbruiken. Dat is de logische uitbreiding van individueel naar collectief zelfverbruik. Wat dat betekent voor de terugverdientijd van een Waalse installatie, is becijferd in “[Zonnepanelen 2026: nog rendabel in Wallonië?](/nl/nieuws/2026/08/11/zonnepanelen-rendabel-wallonie-2026/)”.
 
 ## Zelfverbruik en energiegemeenschappen: de links
 

@@ -8,7 +8,7 @@ description: "Taux d'autoconsommation et comment l'augmenter, autoconsommation c
 tags: [community]
 lang: fr
 ref: self-consumption-belgium
-last_modified_at: 2026-07-28 10:00:00 +0200
+last_modified_at: 2026-08-11 04:00:00 +0200
 faq:
   - q: "Qu'est-ce que le taux d'autoconsommation ?"
     a: "C'est la part de votre production solaire que vous consommez vous-même, au lieu de l'injecter sur le réseau. Un taux de 30 % signifie que vous consommez directement 30 % de ce que vos panneaux produisent ; le reste est injecté. Plus le taux est élevé, plus vous valorisez votre production."
@@ -52,7 +52,7 @@ Un panneau ne produit que le jour ; or une bonne partie de la consommation d'un 
 3. **Recharger la voiture électrique en journée.** Une borne pilotée qui se déclenche aux heures de production capte une grande part du surplus.
 4. **Installer une pompe à chaleur.** Le chauffage et la production d'eau chaude électrifiés augmentent la consommation diurne pilotable.
 5. **Ajouter une batterie domestique.** Elle stocke le surplus de la journée pour le restituer le soir, ce qui peut faire grimper sensiblement le taux d'autoconsommation (au prix d'un investissement).
-6. **Partager le surplus via une communauté d'énergie.** Quand vos propres mesures sont maximisées, le surplus restant n'est plus injecté à bas prix : il est **partagé avec d'autres membres** qui le consomment localement. C'est l'extension logique de l'autoconsommation individuelle vers l'autoconsommation collective.
+6. **Partager le surplus via une communauté d'énergie.** Quand vos propres mesures sont maximisées, le surplus restant n'est plus injecté à bas prix : il est **partagé avec d'autres membres** qui le consomment localement. C'est l'extension logique de l'autoconsommation individuelle vers l'autoconsommation collective. Ce que cela change au temps de retour d'une installation wallonne est chiffré dans [« Panneaux solaires 2026 : rentables en Wallonie ? »](/actualites/2026/08/11/panneaux-solaires-rentables-wallonie-2026/).
 
 ## Autoconsommation et communautés d'énergie : les liens
 
