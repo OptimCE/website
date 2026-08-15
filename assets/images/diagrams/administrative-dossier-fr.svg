@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" role="img" aria-labelledby="t d">
+<title id="t">Le cycle de vie d'un dossier administratif en Wallonie</title><desc id="d">Schéma du cycle de vie d'un dossier administratif de communauté d'énergie en Wallonie : la notification déposée auprès de la CWaPE ouvre un délai de dix jours ouvrables pendant lequel le régulateur vérifie la complétude du dossier ; un dossier complet reçoit un accusé de réception qui vaut preuve de notification, tandis qu'un dossier incomplet doit être complété dans un délai maximal de six mois à dater du premier accusé de réception, faute de quoi la notification devient caduque. Deux obligations récurrentes se greffent ensuite sur la communauté constituée : toute modification des conditions de constitution doit être notifiée dans les quinze jours ouvrables, et le rapportage annuel doit être introduit chaque année pour le 1er septembre au plus tard.</desc>
+<rect width="800" height="620" fill="#FFFFFF"/>
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,1 L9,5 L0,9 z" fill="#ADB5BD"/></marker></defs>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="60" y="46" font-size="22" fill="#212529" font-weight="700">Le cycle de vie d'un dossier administratif</text>
+<text x="60" y="70" font-size="15" fill="#495057" font-weight="400">Quatre délais, deux destinataires — et une caducité qui ne prévient pas</text>
+
+<text x="60" y="104" font-size="12" fill="#495057" font-weight="700">LE DOSSIER DE NOTIFICATION</text>
+<line x1="60" y1="112" x2="740" y2="112" stroke="#DEE2E6" stroke-width="1"/>
+
+<rect x="60" y="124" width="320" height="46" rx="4" fill="#2e7d32"/>
+<text x="80" y="153" font-size="14" fill="#FFFFFF" font-weight="600">Dépôt de la notification à la CWaPE</text>
+
+<line x1="200" y1="170" x2="200" y2="192" stroke="#ADB5BD" stroke-width="1.5" marker-end="url(#ar)"/>
+<text x="216" y="187" font-size="12.5" fill="#495057" font-weight="600">10 jours ouvrables</text>
+
+<rect x="60" y="196" width="320" height="46" rx="4" fill="#a5d6a7"/>
+<text x="80" y="225" font-size="13.5" fill="#1b5e20" font-weight="600">Contrôle de complétude</text>
+
+<line x1="200" y1="242" x2="200" y2="258" stroke="#ADB5BD" stroke-width="1.5" marker-end="url(#ar)"/>
+
+<rect x="60" y="262" width="320" height="64" rx="4" fill="#FFFFFF" stroke="#2e7d32" stroke-width="1.5"/>
+<text x="80" y="288" font-size="14" fill="#1b5e20" font-weight="700">Dossier complet</text>
+<text x="80" y="309" font-size="11.5" fill="#495057" font-weight="400">Accusé de réception — vaut preuve de notification</text>
+
+<rect x="420" y="262" width="320" height="64" rx="4" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<text x="440" y="288" font-size="14" fill="#495057" font-weight="700">Dossier incomplet</text>
+<text x="440" y="309" font-size="11.5" fill="#495057" font-weight="400">6 mois max. dès le premier accusé de réception</text>
+
+<line x1="580" y1="326" x2="580" y2="342" stroke="#ADB5BD" stroke-width="1.5" marker-end="url(#ar)"/>
+<rect x="500" y="346" width="160" height="36" rx="4" fill="#E9ECEF"/>
+<text x="580" y="369" font-size="12.5" fill="#495057" font-weight="700" text-anchor="middle">Notification caduque</text>
+
+<text x="60" y="418" font-size="12" fill="#495057" font-weight="700">ENSUITE, CHAQUE ANNÉE ET À CHAQUE CHANGEMENT</text>
+<line x1="60" y1="426" x2="740" y2="426" stroke="#DEE2E6" stroke-width="1"/>
+
+<text x="60" y="456" font-size="14" fill="#212529" font-weight="400">Modification des conditions</text>
+<rect x="395" y="438" width="170" height="26" rx="4" fill="#a5d6a7"/>
+<text x="480" y="456" font-size="12" fill="#1b5e20" font-weight="600" text-anchor="middle">15 jours ouvrables</text>
+<text x="740" y="456" font-size="12.5" fill="#495057" font-weight="600" text-anchor="end">CWaPE</text>
+
+<text x="60" y="490" font-size="14" fill="#212529" font-weight="400">Rapportage annuel</text>
+<rect x="395" y="472" width="170" height="26" rx="4" fill="#2e7d32"/>
+<text x="480" y="490" font-size="12" fill="#FFFFFF" font-weight="600" text-anchor="middle">1er septembre</text>
+<text x="740" y="490" font-size="12.5" fill="#495057" font-weight="600" text-anchor="end">CWaPE</text>
+
+<text x="60" y="524" font-size="14" fill="#212529" font-weight="400">Partage : formulaires, annexes, convention</text>
+<text x="480" y="524" font-size="12" fill="#ADB5BD" font-weight="400" text-anchor="middle">pas de délai fixe</text>
+<text x="740" y="524" font-size="12.5" fill="#495057" font-weight="600" text-anchor="end">Gestionnaire de réseau</text>
+
+<rect x="60" y="544" width="680" height="52" rx="6" fill="#e8f5e9"/>
+<text x="80" y="567" font-size="13" fill="#1b5e20" font-weight="600">Depuis le 25 juin 2026, la notification, ses modifications et le rapportage annuel</text>
+<text x="80" y="586" font-size="13" fill="#212529" font-weight="400">se déposent sur monespace.wallonie.be. Le partage, lui, reste un fichier à transmettre.</text>
+
+<text x="60" y="612" font-size="12" fill="#ADB5BD" font-weight="400">CWaPE — procédure de notification et avis du 25 juin 2026 — situation au 12 août 2026</text>
+</g>
+</svg>

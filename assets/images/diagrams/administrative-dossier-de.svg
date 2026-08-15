@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" role="img" aria-labelledby="t d">
+<title id="t">Der Lebenszyklus eines Verwaltungsdossiers in Wallonien</title><desc id="d">Schema des Lebenszyklus eines Verwaltungsdossiers einer Energiegemeinschaft in Wallonien: Mit der bei der CWaPE eingereichten Meldung beginnt eine Frist von zehn Werktagen, in der die Regulierungsbehörde die Vollständigkeit des Dossiers prüft; ein vollständiges Dossier erhält eine Empfangsbestätigung, die als Meldenachweis gilt, während ein unvollständiges Dossier innerhalb von höchstens sechs Monaten ab der ersten Empfangsbestätigung vervollständigt werden muss, andernfalls verfällt die Meldung. Für die gegründete Gemeinschaft gelten danach zwei wiederkehrende Pflichten: Jede Änderung der Gründungsbedingungen ist innerhalb von fünfzehn Werktagen zu melden, und der Jahresbericht ist jedes Jahr spätestens zum 1. September einzureichen.</desc>
+<rect width="800" height="620" fill="#FFFFFF"/>
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,1 L9,5 L0,9 z" fill="#ADB5BD"/></marker></defs>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="60" y="46" font-size="22" fill="#212529" font-weight="700">Der Lebenszyklus eines Verwaltungsdossiers</text>
+<text x="60" y="70" font-size="15" fill="#495057" font-weight="400">Vier Fristen, zwei Empfänger — und ein Verfall ohne Vorwarnung</text>
+
+<text x="60" y="104" font-size="12" fill="#495057" font-weight="700">DAS MELDEDOSSIER</text>
+<line x1="60" y1="112" x2="740" y2="112" stroke="#DEE2E6" stroke-width="1"/>
+
+<rect x="60" y="124" width="320" height="46" rx="4" fill="#2e7d32"/>
+<text x="80" y="153" font-size="14" fill="#FFFFFF" font-weight="600">Meldung bei der CWaPE eingereicht</text>
+
+<line x1="200" y1="170" x2="200" y2="192" stroke="#ADB5BD" stroke-width="1.5" marker-end="url(#ar)"/>
+<text x="216" y="187" font-size="12.5" fill="#495057" font-weight="600">10 Werktage</text>
+
+<rect x="60" y="196" width="320" height="46" rx="4" fill="#a5d6a7"/>
+<text x="80" y="225" font-size="13.5" fill="#1b5e20" font-weight="600">Vollständigkeitsprüfung</text>
+
+<line x1="200" y1="242" x2="200" y2="258" stroke="#ADB5BD" stroke-width="1.5" marker-end="url(#ar)"/>
+
+<rect x="60" y="262" width="320" height="64" rx="4" fill="#FFFFFF" stroke="#2e7d32" stroke-width="1.5"/>
+<text x="80" y="288" font-size="14" fill="#1b5e20" font-weight="700">Dossier vollständig</text>
+<text x="80" y="309" font-size="11.5" fill="#495057" font-weight="400">Empfangsbestätigung — gilt als Meldenachweis</text>
+
+<rect x="420" y="262" width="320" height="64" rx="4" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<text x="440" y="288" font-size="14" fill="#495057" font-weight="700">Dossier unvollständig</text>
+<text x="440" y="309" font-size="11.5" fill="#495057" font-weight="400">Max. 6 Monate ab der ersten Bestätigung</text>
+
+<line x1="580" y1="326" x2="580" y2="342" stroke="#ADB5BD" stroke-width="1.5" marker-end="url(#ar)"/>
+<rect x="500" y="346" width="160" height="36" rx="4" fill="#E9ECEF"/>
+<text x="580" y="369" font-size="12.5" fill="#495057" font-weight="700" text-anchor="middle">Meldung verfällt</text>
+
+<text x="60" y="418" font-size="12" fill="#495057" font-weight="700">DANACH, JÄHRLICH UND BEI JEDER ÄNDERUNG</text>
+<line x1="60" y1="426" x2="740" y2="426" stroke="#DEE2E6" stroke-width="1"/>
+
+<text x="60" y="456" font-size="14" fill="#212529" font-weight="400">Änderung der Gründungsbedingungen</text>
+<rect x="395" y="438" width="170" height="26" rx="4" fill="#a5d6a7"/>
+<text x="480" y="456" font-size="12" fill="#1b5e20" font-weight="600" text-anchor="middle">15 Werktage</text>
+<text x="740" y="456" font-size="12.5" fill="#495057" font-weight="600" text-anchor="end">CWaPE</text>
+
+<text x="60" y="490" font-size="14" fill="#212529" font-weight="400">Jahresbericht</text>
+<rect x="395" y="472" width="170" height="26" rx="4" fill="#2e7d32"/>
+<text x="480" y="490" font-size="12" fill="#FFFFFF" font-weight="600" text-anchor="middle">1. September</text>
+<text x="740" y="490" font-size="12.5" fill="#495057" font-weight="600" text-anchor="end">CWaPE</text>
+
+<text x="60" y="524" font-size="14" fill="#212529" font-weight="400">Stromteilung: Formulare, Anlagen, Vertrag</text>
+<text x="480" y="524" font-size="12" fill="#ADB5BD" font-weight="400" text-anchor="middle">keine feste Frist</text>
+<text x="740" y="524" font-size="12.5" fill="#495057" font-weight="600" text-anchor="end">Netzbetreiber</text>
+
+<rect x="60" y="544" width="680" height="52" rx="6" fill="#e8f5e9"/>
+<text x="80" y="567" font-size="13" fill="#1b5e20" font-weight="600">Seit dem 25. Juni 2026 werden die Meldung, ihre Änderungen und der Jahresbericht</text>
+<text x="80" y="586" font-size="13" fill="#212529" font-weight="400">über monespace.wallonie.be eingereicht. Die Stromteilung bleibt eine eigene Datei.</text>
+
+<text x="60" y="612" font-size="12" fill="#ADB5BD" font-weight="400">CWaPE — Meldeverfahren und Mitteilung vom 25. Juni 2026 — Stand 12. August 2026</text>
+</g>
+</svg>
