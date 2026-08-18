@@ -2,12 +2,13 @@
 layout: post
 title: "Solaranlage 2026: lohnt sie sich in Wallonien?"
 date: 2026-08-11 04:00:00 +0200
-author: "OptimCE-Team"
+author: "Eric, OptimCE"
 excerpt: "Wallonien hat 2025 nur rund 100 MWp Photovoltaik zugebaut, nötig wären 500 bis 600 pro Jahr, um den Kurs auf 2030 zu halten. Der Zweifel ist also messbar, und er hat eine genaue Ursache: seit dem Ende des rückwärtslaufenden Zählers ist eine selbst verbrauchte Kilowattstunde rund 37 Cent wert, dieselbe eingespeiste Kilowattstunde nur 3. Das Energieteilen ist der einzige Hebel, der auf diese Lücke wirkt — doch die Frage stellt sich völlig unterschiedlich, je nachdem ob Ihre Anlage vor oder nach dem 1. Januar 2024 in Betrieb ging."
 description: "Lohnt sich eine Photovoltaikanlage in Wallonien 2026 ohne Kompensation noch? Die Rechnung im Detail — und was das Energieteilen daran ändert."
 tags: [guide, administrative, community]
 lang: de
 ref: solar-panels-worth-it-wallonia-2026
+last_modified_at: 2026-08-18 04:00:00 +0200
 permalink: /de/aktuelles/2026/08/11/solaranlage-rentabel-wallonien-2026/
 faq:
   - q: "Lohnen sich Solaranlagen in Wallonien 2026 noch?"
@@ -153,7 +154,7 @@ Das ist die Standardoption, die greift, wenn Sie nichts tun. Sie kostet nichts u
 
 Das ist die Option, die niemand erwähnt, und die einzige, die den Wert des Überschusses **ohne Investition** erhöht. Dazu kommen wir jetzt.
 
-Diese drei Optionen schließen sich übrigens nicht aus, und das ist wichtig: Eine Batterie wandelt Überschuss in zeitversetzten Eigenverbrauch, das Teilen verwertet den Rest, die Einspeisung sammelt den Bodensatz ein. **Die rationale Reihenfolge lautet: Verbrauch verschieben, dann teilen, dann eine Batterie erwägen**, wenn der Restüberschuss es noch rechtfertigt.
+Diese drei Optionen schließen sich übrigens nicht aus, und das ist wichtig: Eine Batterie wandelt Überschuss in zeitversetzten Eigenverbrauch, das Teilen verwertet den Rest, die Einspeisung sammelt den Bodensatz ein. **Die rationale Reihenfolge lautet: Verbrauch verschieben, dann teilen, dann eine Batterie erwägen**, wenn der Restüberschuss es noch rechtfertigt. Die Einzelheiten Gerät für Gerät — Warmwasserspeicher, Laden des Autos, Batterie — und die Rangfolge in investierten Euro je aufgenommener Kilowattstunde stehen in [Solarüberschuss: die 5 Optionen im Vergleich](/de/aktuelles/2026/08/18/solarer-ueberschuss-was-tun-belgien/).
 
 ## Was das Teilen wirklich an der Rechnung ändert
 

@@ -162,6 +162,27 @@
     de: []
     nl: []
 
+- slug: borne-de-recharge
+  categorie: technique
+  tags: [vehicule, recharge, flexibilite]
+  source_nom: OptimCE
+  source_ref: about
+  terme:
+    fr: "Borne de recharge"
+    en: "Charge point"
+    de: "Ladestation"
+    nl: "Laadpaal"
+  definition:
+    fr: "Point de recharge fixe pour véhicule électrique, raccordé à l'installation du logement. Les modèles pilotables modulent leur puissance en continu pour suivre la production photovoltaïque ; en monophasé, la modulation s'arrête sous 6 ampères, soit environ 1,4 kW."
+    en: "A fixed charging point for an electric vehicle, wired into the dwelling's installation. Controllable models modulate their power continuously to follow solar generation; in single phase, modulation stops below 6 amps, roughly 1.4 kW."
+    de: "Fester Ladepunkt für ein Elektrofahrzeug, an die Hausinstallation angeschlossen. Steuerbare Modelle modulieren ihre Leistung stufenlos, um der Solarerzeugung zu folgen; einphasig endet die Modulation unter 6 Ampere, also rund 1,4 kW."
+    nl: "Vast laadpunt voor een elektrisch voertuig, aangesloten op de installatie van de woning. Stuurbare modellen moduleren hun vermogen doorlopend om de zonneproductie te volgen; in eenfasig stopt de modulatie onder 6 ampère, ongeveer 1,4 kW."
+  alias:
+    fr: ["wallbox", "point de recharge"]
+    en: ["wallbox", "charging point"]
+    de: ["Wallbox", "Ladepunkt"]
+    nl: ["wallbox", "laadpunt"]
+
 - slug: brugel
   categorie: regulateur
   tags: [bruxelles, regulation, belgique]
@@ -288,6 +309,27 @@
     de: ["grüne Zertifikate", "Quoten grüner Zertifikate"]
     nl: ["groenestroomcertificaten", "quota groenestroomcertificaten"]
 
+- slug: chauffe-eau-thermodynamique
+  categorie: technique
+  tags: [eau-chaude, pompe-a-chaleur, autoconsommation]
+  source_nom: SPW Logement
+  source_url: "https://logement.wallonie.be/fr/aide/primes-habitation-2025"
+  terme:
+    fr: "Chauffe-eau thermodynamique"
+    en: "Heat-pump water heater"
+    de: "Wärmepumpenboiler"
+    nl: "Warmtepompboiler"
+  definition:
+    fr: "Ballon d'eau chaude sanitaire équipé d'une pompe à chaleur, dont le coefficient de performance se situe entre 2,5 et 3,5. À besoin d'eau chaude égal, il consomme environ trois fois moins d'électricité qu'un ballon résistif — et absorbe donc environ trois fois moins de surplus photovoltaïque."
+    en: "A domestic hot-water tank fitted with a heat pump, with a coefficient of performance between 2.5 and 3.5. For the same hot-water need it consumes about three times less electricity than a resistive tank — and therefore absorbs about three times less solar surplus."
+    de: "Warmwasserspeicher mit Wärmepumpe, dessen Leistungszahl zwischen 2,5 und 3,5 liegt. Bei gleichem Warmwasserbedarf verbraucht er rund dreimal weniger Strom als ein Widerstandsboiler — und nimmt damit rund dreimal weniger Solarüberschuss auf."
+    nl: "Boiler voor sanitair warm water met een warmtepomp, met een prestatiecoëfficiënt tussen 2,5 en 3,5. Bij gelijke warmwaterbehoefte verbruikt hij ongeveer drie keer minder elektriciteit dan een weerstandsboiler — en neemt hij dus ongeveer drie keer minder zonne-overschot op."
+  alias:
+    fr: ["boiler thermodynamique", "ballon thermodynamique"]
+    en: ["heat pump water heater", "thermodynamic water heater"]
+    de: ["Warmwasser-Wärmepumpe", "Brauchwasserwärmepumpe"]
+    nl: ["boiler op warmtepomp", "thermodynamische boiler"]
+
 - slug: clef-de-repartition
   categorie: calcul
   tags: [partage, gouvernance, repartition]
@@ -354,6 +396,27 @@
     en: ["EAN", "EAN number"]
     de: ["EAN", "EAN-Nummer"]
     nl: ["EAN", "EAN-nummer"]
+
+- slug: coefficient-de-performance
+  categorie: technique
+  tags: [rendement, pompe-a-chaleur, eau-chaude]
+  source_nom: OptimCE
+  source_ref: about
+  terme:
+    fr: "Coefficient de performance"
+    en: "Coefficient of performance"
+    de: "Leistungszahl"
+    nl: "Prestatiecoëfficiënt"
+  definition:
+    fr: "Rapport entre la chaleur produite par un appareil et l'électricité qu'il consomme pour la produire. Un coefficient de 3 signifie trois kilowattheures de chaleur pour un kilowattheure soutiré. Plus il est élevé, moins l'appareil consomme — et moins il peut absorber de surplus photovoltaïque."
+    en: "The ratio between the heat an appliance produces and the electricity it draws to produce it. A coefficient of 3 means three kilowatt-hours of heat for one kilowatt-hour drawn. The higher it is, the less the appliance consumes — and the less solar surplus it can absorb."
+    de: "Verhältnis zwischen der von einem Gerät erzeugten Wärme und dem dafür bezogenen Strom. Eine Leistungszahl von 3 bedeutet drei Kilowattstunden Wärme je bezogener Kilowattstunde. Je höher sie ist, desto weniger verbraucht das Gerät — und desto weniger Solarüberschuss kann es aufnehmen."
+    nl: "Verhouding tussen de warmte die een toestel produceert en de elektriciteit die het daarvoor afneemt. Een coëfficiënt van 3 betekent drie kilowattuur warmte per afgenomen kilowattuur. Hoe hoger hij is, hoe minder het toestel verbruikt — en hoe minder zonne-overschot het kan opnemen."
+  alias:
+    fr: ["COP"]
+    en: ["COP"]
+    de: ["COP"]
+    nl: ["COP"]
 
 - slug: commission-locale-energie
   categorie: juridique
@@ -480,6 +543,27 @@
     en: ["bidirectional meter", "two-way meter"]
     de: ["Zweiwegezähler", "bidirektionaler Zähler"]
     nl: ["tweerichtingsmeter", "bidirectionele meter"]
+
+- slug: contrat-d-injection
+  categorie: marche
+  tags: [injection, fournisseur, surplus]
+  source_nom: ORES
+  source_url: "https://www.ores.be/particulier/prosumer-a-partir-de-2024"
+  terme:
+    fr: "Contrat d'injection"
+    en: "Injection contract"
+    de: "Einspeisevertrag"
+    nl: "Injectiecontract"
+  definition:
+    fr: "Contrat par lequel un fournisseur rémunère l'électricité qu'un producteur injecte sur le réseau. Il est distinct du contrat de fourniture et son prix n'est régulé nulle part en Belgique. Sans compensation, il est la seule façon de valoriser un surplus autrement que par le partage ou l'autoconsommation."
+    en: "The contract under which a supplier pays for the electricity a producer feeds into the grid. It is separate from the supply contract and its price is regulated nowhere in Belgium. Without compensation, it is the only way to monetise a surplus other than through sharing or self-consumption."
+    de: "Vertrag, mit dem ein Lieferant den ins Netz eingespeisten Strom eines Erzeugers vergütet. Er ist vom Liefervertrag getrennt, und sein Preis ist in Belgien nirgends reguliert. Ohne Kompensation ist er der einzige Weg, einen Überschuss anders als über Teilen oder Eigenverbrauch zu verwerten."
+    nl: "Contract waarmee een leverancier de elektriciteit vergoedt die een producent op het net injecteert. Het staat los van het leveringscontract en de prijs ervan is nergens in België gereguleerd. Zonder compensatie is het de enige manier om een overschot te valoriseren buiten delen of zelfverbruik om."
+  alias:
+    fr: ["contrat de rachat"]
+    en: ["export contract", "feed-in contract"]
+    de: ["Einspeisungsvertrag"]
+    nl: ["injectieovereenkomst"]
 
 - slug: convention-de-partage
   categorie: juridique
@@ -1321,6 +1405,27 @@
     de: ["Viertelstundenwert"]
     nl: ["kwartierwaarde"]
 
+- slug: recharge-bidirectionnelle
+  categorie: technique
+  tags: [vehicule, stockage, flexibilite]
+  source_nom: OptimCE
+  source_ref: about
+  terme:
+    fr: "Recharge bidirectionnelle"
+    en: "Bidirectional charging"
+    de: "Bidirektionales Laden"
+    nl: "Bidirectioneel laden"
+  definition:
+    fr: "Capacité d'un véhicule électrique à restituer l'énergie de sa batterie vers le logement (V2H) ou vers le réseau (V2G). En Belgique en 2026, l'offre reste marginale : bornes bidirectionnelles à 4 000-8 000 €, peu de modèles compatibles et cadre normatif de raccordement non stabilisé."
+    en: "The ability of an electric vehicle to return energy from its battery to the home (V2H) or to the grid (V2G). In Belgium in 2026 the offering remains marginal: bidirectional charge points at €4,000-8,000, few compatible models and an unsettled connection standards framework."
+    de: "Fähigkeit eines Elektrofahrzeugs, Energie aus seiner Batterie an das Haus (V2H) oder das Netz (V2G) zurückzugeben. In Belgien bleibt das Angebot 2026 marginal: bidirektionale Ladestationen für 4.000-8.000 €, wenige kompatible Modelle und ein nicht stabilisierter normativer Anschlussrahmen."
+    nl: "Het vermogen van een elektrisch voertuig om energie uit zijn batterij terug te geven aan de woning (V2H) of aan het net (V2G). In België blijft het aanbod in 2026 marginaal: bidirectionele laadpalen aan 4.000-8.000 €, weinig compatibele modellen en een niet-gestabiliseerd normatief aansluitkader."
+  alias:
+    fr: ["V2G", "V2H", "vehicle-to-grid", "vehicle-to-home"]
+    en: ["V2G", "V2H", "vehicle-to-grid", "vehicle-to-home"]
+    de: ["V2G", "V2H", "vehicle-to-grid", "vehicle-to-home"]
+    nl: ["V2G", "V2H", "vehicle-to-grid", "vehicle-to-home"]
+
 - slug: redevance-fixe
   categorie: facturation
   tags: [facture, contrat, prix]
@@ -1362,6 +1467,27 @@
     en: ["energy sharing representative"]
     de: ["Teilungsvertreter"]
     nl: ["deelvertegenwoordiger"]
+
+- slug: routeur-solaire
+  categorie: technique
+  tags: [autoconsommation, eau-chaude, surplus]
+  source_nom: OptimCE
+  source_ref: about
+  terme:
+    fr: "Routeur solaire"
+    en: "Solar diverter"
+    de: "Solarrouter"
+    nl: "Zonnerouter"
+  definition:
+    fr: "Dispositif qui mesure en continu l'électricité sur le point de partir vers le réseau et la redirige vers une charge résistive, le plus souvent le ballon d'eau chaude, watt par watt. Compté de 400 à 900 € posé, c'est le moyen le moins cher d'absorber un surplus photovoltaïque."
+    en: "A device that continuously measures the electricity about to leave for the grid and redirects it to a resistive load, most often the hot-water tank, watt by watt. At €400 to €900 installed, it is the cheapest way to absorb a solar surplus."
+    de: "Gerät, das laufend den Strom misst, der ins Netz abfließen würde, und ihn watt-genau auf einen Widerstandsverbraucher umleitet, meist den Warmwasserspeicher. Montiert für 400 bis 900 € ist es der günstigste Weg, einen Solarüberschuss aufzunehmen."
+    nl: "Toestel dat doorlopend meet welke elektriciteit naar het net dreigt te vertrekken en die watt per watt omleidt naar een weerstandsverbruiker, meestal de warmwaterboiler. Geplaatst voor 400 tot 900 € is het de goedkoopste manier om een zonne-overschot op te nemen."
+  alias:
+    fr: ["dévieur de surplus", "délesteur solaire", "routeur photovoltaïque"]
+    en: ["power diverter", "surplus diverter"]
+    de: ["Überschussregler", "Solar-Router"]
+    nl: ["overschotsturing", "zonne-router"]
 
 - slug: sibelga
   categorie: reseau

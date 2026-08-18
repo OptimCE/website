@@ -2,12 +2,13 @@
 layout: post
 title: "Zonnepanelen 2026: nog rendabel in Wallonië?"
 date: 2026-08-11 04:00:00 +0200
-author: "OptimCE-team"
+author: "Eric van OptimCE"
 excerpt: "Wallonië installeerde in 2025 slechts zo'n 100 MWp zonnestroom, terwijl er 500 à 600 per jaar nodig zijn om het traject naar 2030 te halen. De twijfel is dus meetbaar, en ze heeft een precieze oorzaak: sinds het einde van de terugdraaiende teller is een zelf verbruikte kilowattuur ongeveer 37 cent waard, dezelfde geïnjecteerde kilowattuur 3. Energiedelen is de enige hefboom die op dat verschil ingrijpt — maar de vraag stelt zich totaal anders naargelang uw installatie dateert van vóór of na 1 januari 2024."
 description: "Is een fotovoltaïsche installatie in Wallonië in 2026 nog rendabel zonder compensatie? De volledige berekening en wat energiedelen eraan verandert."
 tags: [guide, administrative, community]
 lang: nl
 ref: solar-panels-worth-it-wallonia-2026
+last_modified_at: 2026-08-18 04:00:00 +0200
 permalink: /nl/nieuws/2026/08/11/zonnepanelen-rendabel-wallonie-2026/
 faq:
   - q: "Zijn zonnepanelen in 2026 nog rendabel in Wallonië?"
@@ -153,7 +154,7 @@ Dat is de standaardoptie, degene die geldt als u niets doet. Ze kost niets en vr
 
 Dat is de optie die niemand vermeldt, en de enige die de waarde van het overschot verhoogt **zonder investering**. Daar komen we nu aan toe.
 
-Die drie opties sluiten elkaar overigens niet uit, en dat is belangrijk: een batterij zet overschot om in uitgesteld zelfverbruik, delen valoriseert wat overblijft, injectie raapt het saldo op. **De rationele volgorde is: uw verbruik verschuiven, dan delen, dan een batterij overwegen** als het resterende overschot dat nog rechtvaardigt.
+Die drie opties sluiten elkaar overigens niet uit, en dat is belangrijk: een batterij zet overschot om in uitgesteld zelfverbruik, delen valoriseert wat overblijft, injectie raapt het saldo op. **De rationele volgorde is: uw verbruik verschuiven, dan delen, dan een batterij overwegen** als het resterende overschot dat nog rechtvaardigt. Het detail toestel per toestel — warmwaterboiler, het laden van de auto, batterij — en het klassement in geïnvesteerde euro per opgenomen kilowattuur staan in [Zonne-overschot: de 5 opties vergeleken](/nl/nieuws/2026/08/18/wat-doen-met-je-zonne-overschot-belgie/).
 
 ## Wat delen werkelijk aan de berekening verandert
 

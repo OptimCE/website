@@ -3,7 +3,7 @@ layout: post
 title: "Install OptimCE: quick start guide"
 date: 2026-03-09 14:00:00 +0100
 last_modified_at: 2026-07-26 10:00:00 +0200
-author: "OptimCE Team"
+author: "Eric from OptimCE"
 excerpt: "Two ways to get started with OptimCE: the hosted version, with nothing to install, or a local deployment of the full stack with Docker Compose. Prerequisites, cloning with submodules, environment variables and first run, step by step."
 description: "Prerequisites, cloning the repository, environment variables and first run: install OptimCE locally, step by step."
 tags: [app, guide]

@@ -3,7 +3,7 @@ layout: post
 title: "Which electricity tariff to choose in Belgium?"
 date: 2026-08-03 10:00:00 +0200
 last_modified_at: 2026-08-08 10:00:00 +0200
-author: "OptimCE Team"
+author: "Eric from OptimCE"
 excerpt: "Social tariff, night rate, dynamic contract: three answers to the same question, and they do not act on the same part of your bill. This costed comparison separates them using the CREG social tariffs for the third quarter of 2026 and the grid schedules of all three regions, then examines a fourth route no comparison tool lists — the energy community, the only one that stacks with the other two contract formulas."
 description: "Social tariff, night rate, dynamic contract or energy community: what each formula really changes on your bill, region by region."
 tags: [guide, administrative, community]

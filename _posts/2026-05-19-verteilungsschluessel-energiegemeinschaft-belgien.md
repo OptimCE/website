@@ -2,7 +2,7 @@
 layout: post
 title: "Aufteilungsschlüssel in Belgien: 3 Regionen"
 date: 2026-05-19 10:00:00 +0200
-author: "OptimCE-Team"
+author: "Eric, OptimCE"
 excerpt: "Aufteilungsschlüssel in einer Energiegemeinschaft — von CWaPE, BRUGEL und VREG akzeptierte Typen, Unterschiede zwischen Wallonie, Brüssel und Flandern und praktische Wahlhilfen."
 description: "Von CWaPE, BRUGEL und VREG anerkannte Schlüsseltypen, die Unterschiede zwischen Wallonie, Brüssel und Flandern und wie Sie richtig wählen."
 tags: [allocation-key, administrative]

@@ -2,7 +2,7 @@
 layout: post
 title: "Aufteilungsschlüssel simulieren: Szenarien testen"
 date: 2026-06-09 10:00:00 +0200
-author: "OptimCE-Team"
+author: "Eric, OptimCE"
 excerpt: "Neue OptimCE-Funktion: Simulieren Sie einen Aufteilungsschlüssel auf Ihren Daten und messen Sie Eigenverbrauch, Überschuss, Autarkie und Teilungsgrad."
 description: "Simulieren Sie einen Schlüssel auf Ihren Daten und messen Sie Eigenverbrauch, Überschuss, Autarkie und Teilungsgrad vor der Freigabe."
 tags: [allocation-key, app, news]

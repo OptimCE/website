@@ -2,7 +2,7 @@
 layout: post
 title: "Réduire sa facture d'électricité en communauté"
 date: 2026-06-03 10:00:00 +0200
-author: "Équipe OptimCE"
+author: "Eric d'OptimCE"
 excerpt: "Rejoindre une communauté d'énergie permet de payer son électricité moins cher et à un prix plus stable. On vous explique les leviers d'économie, un exemple chiffré, les différences entre Wallonie, Bruxelles et Flandre, et qui en profite le plus."
 description: "Les leviers d'économie réels, un exemple chiffré, ce qui change entre Wallonie, Bruxelles et Flandre, et qui en profite le plus."
 tags: [community]

@@ -2,7 +2,7 @@
 layout: post
 title: "Verdeelsleutel automatisch genereren"
 date: 2026-05-26 00:00:00 +0200
-author: "OptimCE-team"
+author: "Eric van OptimCE"
 excerpt: "De module voor automatische verdeelsleutel-generatie van OptimCE is live. Hij stelt geoptimaliseerde verdeelsleutels voor op basis van de reële productie- en verbruiksdata van de gemeenschap, met twee algoritmes — brute force op standaardsleutels en LOGAAS, een onderzoeksresultaat van CeCoTePe uit het Locomotrice-project."
 description: "Twee algoritmes — brute force op standaardsleutels en LOGAAS — stellen een geoptimaliseerde sleutel voor op basis van uw echte data."
 tags: [allocation-key, app, guide]

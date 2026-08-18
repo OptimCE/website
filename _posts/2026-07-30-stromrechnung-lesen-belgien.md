@@ -2,7 +2,7 @@
 layout: post
 title: "Belgische Stromrechnung Zeile für Zeile lesen"
 date: 2026-07-30 10:00:00 +0200
-author: "OptimCE-Team"
+author: "Eric, OptimCE"
 excerpt: "Sie erhalten ein Dutzend Dokumente pro Jahr, die „Rechnung“ heißen, und nur eines sagt Ihnen wirklich, was Sie schulden. Seit 2022 schreibt ein Königlicher Erlass allen belgischen Lieferanten fünf identische Abschnitte vor. Dieser Leitfaden entschlüsselt das Dokument: Abschlagsrechnung und Jahresabrechnung, EAN-Code, abgelesene oder geschätzte Zählerstände, jede Preiszeile mit ihrem tatsächlichen Empfänger, die Grundgebühr, die manche zweimal zahlen, und die je nach Zeile zuständige Ombudsstelle."
 description: "Die fünf seit 2022 vorgeschriebenen Abschnitte, Abschlag gegen Jahresabrechnung, EAN-Code, geschätzte Zählerstände: jede Zeile Ihrer Rechnung entschlüsselt."
 tags: [guide, administrative, community]

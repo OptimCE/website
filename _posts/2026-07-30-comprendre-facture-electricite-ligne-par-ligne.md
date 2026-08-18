@@ -2,7 +2,7 @@
 layout: post
 title: "Lire sa facture d'électricité ligne par ligne"
 date: 2026-07-30 10:00:00 +0200
-author: "Équipe OptimCE"
+author: "Eric d'OptimCE"
 excerpt: "Vous recevez une douzaine de documents par an appelés « facture », et un seul vous dit vraiment ce que vous devez. Depuis 2022, un arrêté royal impose cinq sections identiques chez tous les fournisseurs belges. Ce guide décode le document : acompte et décompte annuel, code EAN, index réel ou estimé, chaque ligne de prix avec son destinataire réel, la redevance fixe qu'on paie parfois deux fois, et l'interlocuteur à saisir selon la ligne contestée."
 description: "Les cinq sections imposées depuis 2022, l'acompte face au décompte annuel, le code EAN, l'index estimé : décoder chaque ligne de sa facture."
 tags: [guide, administrative, community]

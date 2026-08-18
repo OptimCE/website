@@ -2,7 +2,7 @@
 layout: post
 title: "Energiearmut in Wallonien: Hilfen im Überblick"
 date: 2026-08-08 04:00:00 +0200
-author: "OptimCE-Team"
+author: "Eric, OptimCE"
 excerpt: "Die Wallonie weist die höchste Energiearmutsquote des Landes auf: 29,2 % der Haushalte gegenüber 16,4 % in Flandern. Hilfen gibt es — Sozialtarif, MEBAR, Sozialer Heizfonds, Energietutor — doch sie verteilen sich auf drei Ebenen und werden an unterschiedlichen Stellen beantragt. Und ausgerechnet der Brennstoff, mit dem 37,5 % der wallonischen Haushalte heizen, wird von keinem Sozialtarif gedeckt."
 description: "29,2 % der wallonischen Haushalte sind von Energiearmut betroffen. Welche Hilfen es gibt, wer sie öffnet, und was kollektiv wirklich funktioniert."
 tags: [guide, administrative, community]

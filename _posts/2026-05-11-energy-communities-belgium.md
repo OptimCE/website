@@ -2,7 +2,7 @@
 layout: post
 title: "Energy communities in Belgium: CER, CEC, CEL"
 date: 2026-05-11 10:00:00 +0200
-author: "OptimCE Team"
+author: "Eric from OptimCE"
 excerpt: "Understand energy communities in Belgium — differences between renewable, citizen and local energy communities, how energy sharing works, key actors and benefits."
 description: "CER, CEC and CEL: what sets them apart, how energy sharing works, the role of the regulator and the DSO, and what you actually gain."
 tags: [community, administrative]

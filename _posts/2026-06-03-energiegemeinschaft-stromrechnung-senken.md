@@ -2,7 +2,7 @@
 layout: post
 title: "Stromrechnung senken mit einer Energiegemeinschaft"
 date: 2026-06-03 10:00:00 +0200
-author: "OptimCE-Team"
+author: "Eric, OptimCE"
 excerpt: "Der Beitritt zu einer Energiegemeinschaft senkt Ihren Strompreis und macht ihn stabiler. Wir erklären die Spar-Hebel, ein Rechenbeispiel, die Unterschiede zwischen Wallonie, Brüssel und Flandern und wer am meisten profitiert."
 description: "Woher die Ersparnis wirklich kommt, ein Rechenbeispiel, die Unterschiede zwischen Wallonie, Brüssel und Flandern und wer profitiert."
 tags: [community]

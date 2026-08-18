@@ -2,7 +2,7 @@
 layout: post
 title: "Elektriciteitsfactuur lezen: regel per regel"
 date: 2026-07-30 10:00:00 +0200
-author: "OptimCE-team"
+author: "Eric van OptimCE"
 excerpt: "U ontvangt een twaalftal documenten per jaar die “factuur” heten, en slechts één daarvan zegt u werkelijk wat u verschuldigd bent. Sinds 2022 legt een koninklijk besluit alle Belgische leveranciers vijf identieke rubrieken op. Deze gids ontcijfert het document: voorschot tegenover jaarafrekening, de EAN-code, werkelijke of geschatte meterstanden, elke prijsregel met haar echte bestemmeling, de vaste vergoeding die men soms tweemaal betaalt, en welke ombudsdienst bij welke regel hoort."
 description: "De vijf sinds 2022 verplichte rubrieken, voorschot tegenover jaarafrekening, de EAN-code, geschatte standen: elke regel van uw factuur ontcijferd."
 tags: [guide, administrative, community]

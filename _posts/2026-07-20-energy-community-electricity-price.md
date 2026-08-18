@@ -2,7 +2,7 @@
 layout: post
 title: "Internal transfer price in an energy community"
 date: 2026-07-20 10:00:00 +0200
-author: "OptimCE Team"
+author: "Eric from OptimCE"
 excerpt: "What price per kWh should apply to the electricity shared between members? What the internal price really covers, the defensible range between injection tariff and energy component, five calculation methods, a costed Belgian case and the rules in Wallonia, Brussels and Flanders."
 description: "What the internal price covers, the defensible range between injection tariff and energy component, and five ways to calculate it."
 tags: [community, administrative, guide]

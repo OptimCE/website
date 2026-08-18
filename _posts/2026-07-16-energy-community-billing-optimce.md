@@ -2,7 +2,7 @@
 layout: post
 title: "Billing in an energy community"
 date: 2026-07-16 10:00:00 +0200
-author: "OptimCE Team"
+author: "Eric from OptimCE"
 excerpt: "New OptimCE feature: automatically generate your energy community's invoices, from the price per kWh to the PDF and payment tracking."
 description: "Generate your energy community's invoices, from the price per kWh through to the PDF and payment tracking, without a spreadsheet."
 tags: [administrative, app, news]

@@ -2,12 +2,13 @@
 layout: post
 title: "Solar panels 2026: still worth it in Wallonia?"
 date: 2026-08-11 04:00:00 +0200
-author: "OptimCE Team"
+author: "Eric from OptimCE"
 excerpt: "Wallonia added only about 100 MWp of solar in 2025, when 500 to 600 a year would be needed to stay on its 2030 trajectory. The doubt is therefore measurable, and it has a precise cause: since the end of the meter that runs backwards, a self-consumed kilowatt-hour is worth around 37 cents while the same kilowatt-hour injected is worth 3. Energy sharing is the only lever that acts on that gap — but the question looks completely different depending on whether your system was commissioned before or after 1 January 2024."
 description: "Without compensation, is a Walloon solar installation still profitable in 2026? The full calculation, and what energy sharing actually changes."
 tags: [guide, administrative, community]
 lang: en
 ref: solar-panels-worth-it-wallonia-2026
+last_modified_at: 2026-08-18 04:00:00 +0200
 permalink: /en/news/2026/08/11/solar-panels-worth-it-wallonia-2026/
 faq:
   - q: "Are solar panels still profitable in Wallonia in 2026?"
@@ -153,7 +154,7 @@ This is the default option, the one that applies if you do nothing. It costs not
 
 This is the option nobody mentions, and it is the only one that raises the value of the surplus **without investment**. We come to it now.
 
-These three options are not mutually exclusive, and that matters: a battery converts surplus into deferred self-consumption, sharing monetises what remains, injection picks up the rest. **The rational order is: shift your usage, then share, then consider a battery** if the residual surplus still justifies one.
+These three options are not mutually exclusive, and that matters: a battery converts surplus into deferred self-consumption, sharing monetises what remains, injection picks up the rest. **The rational order is: shift your usage, then share, then consider a battery** if the residual surplus still justifies one. The appliance-by-appliance detail — hot-water tank, car charging, battery — and the ranking in euros invested per kilowatt-hour absorbed are set out in [“Solar surplus: the 5 options compared”](/en/news/2026/08/18/what-to-do-solar-surplus-belgium/).
 
 ## What sharing actually changes in the calculation
 

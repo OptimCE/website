@@ -2,7 +2,7 @@
 layout: post
 title: "Energiegemeenschap oprichten in Wallonië"
 date: 2026-05-11 14:00:00 +0200
-author: "OptimCE-team"
+author: "Eric van OptimCE"
 excerpt: "Hoe u een energiegemeenschap (CER of CEC) opricht in Wallonië: keuze van het model, juridische structuur, melding bij CWaPE, ontvangstbevestiging en opstart van het delen met ORES, RESA of AIEG."
 description: "CER- of CEC-model, juridische structuur, melding bij CWaPE en opstart van het delen met ORES, RESA of AIEG: de concrete stappen."
 tags: [community, administrative, guide]

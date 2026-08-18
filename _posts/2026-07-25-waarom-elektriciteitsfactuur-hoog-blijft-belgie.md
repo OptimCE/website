@@ -2,7 +2,7 @@
 layout: post
 title: "Waarom uw elektriciteitsfactuur hoog blijft"
 date: 2026-07-25 10:00:00 +0200
-author: "OptimCE-team"
+author: "Eric van OptimCE"
 excerpt: "De energieprijs is sinds 2022 sterk gedaald en de accijnzen zakken op 1 augustus 2026. Toch beweegt uw factuur nauwelijks. Een opsplitsing in euro's van de vier blokken — energie, nettarieven, taksen, leveranciersmarge — de stijgingen van 2026 per gewest, en de posten waarop u nog greep hebt."
 description: "Energie is maar 40 % van de factuur. De vier blokken uitgesplitst, de stijgingen van 2026 per gewest, en waar u nog greep op hebt."
 tags: [community, administrative, guide]

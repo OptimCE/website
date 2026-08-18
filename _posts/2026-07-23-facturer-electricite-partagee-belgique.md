@@ -2,7 +2,7 @@
 layout: post
 title: "Facturer l'électricité partagée en Belgique"
 date: 2026-07-23 10:00:00 +0200
-author: "Équipe OptimCE"
+author: "Eric d'OptimCE"
 excerpt: "Dans un partage d'énergie, deux factures coexistent : celle du fournisseur et celle du représentant du partage. Qui émet quoi, quelle TVA appliquer (6 ou 21 %), comment gérer accises et certificats verts, et quelles mentions sont obligatoires."
 description: "Deux factures coexistent dans un partage d'énergie. Qui émet quoi, quelle TVA s'applique, et quelles mentions sont obligatoires."
 tags: [community, administrative, guide]

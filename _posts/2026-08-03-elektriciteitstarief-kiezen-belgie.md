@@ -3,7 +3,7 @@ layout: post
 title: "Welk elektriciteitstarief kiezen in België?"
 date: 2026-08-03 10:00:00 +0200
 last_modified_at: 2026-08-08 10:00:00 +0200
-author: "OptimCE-team"
+author: "Eric van OptimCE"
 excerpt: "Sociaal tarief, nachttarief, dynamisch contract: drie antwoorden op dezelfde vraag, en ze werken niet op hetzelfde deel van uw factuur. Deze becijferde vergelijking scheidt ze op basis van de CREG-tarieven voor het derde kwartaal van 2026 en de nettarieven van de drie gewesten, en onderzoekt daarna een vierde weg die geen enkele vergelijker vermeldt — de energiegemeenschap, de enige die bij beide contractformules optelt."
 description: "Sociaal tarief, nachttarief, dynamisch contract of energiegemeenschap: wat elke formule echt verandert aan uw factuur, gewest per gewest."
 tags: [guide, administrative, community]

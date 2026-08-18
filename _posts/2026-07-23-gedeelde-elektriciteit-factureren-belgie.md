@@ -2,7 +2,7 @@
 layout: post
 title: "Gedeelde elektriciteit factureren in België"
 date: 2026-07-23 10:00:00 +0200
-author: "OptimCE-team"
+author: "Eric van OptimCE"
 excerpt: "Bij energiedelen bestaan er twee facturen naast elkaar: die van de leverancier en die van de vertegenwoordiger van het energiedelen. Wie stelt wat op, welke btw geldt (6 of 21 %), hoe zit het met accijnzen en groenestroomcertificaten, en welke vermeldingen zijn verplicht."
 description: "Bij energiedelen bestaan twee facturen naast elkaar. Wie stelt wat op, welke btw geldt en welke vermeldingen zijn verplicht."
 tags: [community, administrative, guide]

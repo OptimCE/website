@@ -13,6 +13,7 @@
     #organization  site-wide constant, referenced by every other node
     #website       one per language tree (so inLanguage stays truthful)
     #software      one global product entity, shared @id across all 4 homepages
+    #person        the article byline; emitted with #article so it is never orphaned
     #article       posts
     #webpage       about / glossary
     #breadcrumb    everything except the homepages
@@ -28,6 +29,7 @@
 {%- capture org_id -%}{{ site_root }}#organization{%- endcapture -%}
 {%- capture website_id -%}{{ home_url }}#website{%- endcapture -%}
 {%- capture software_id -%}{{ site_root }}#software{%- endcapture -%}
+{%- capture person_id -%}{{ site_root }}#person{%- endcapture -%}
 {%- capture logo_url -%}{{ '/assets/images/logo-512.png' | absolute_url }}{%- endcapture -%}
 {%- assign org_description = t.org.description | default: site.description -%}
 <script type="application/ld+json">
@@ -86,7 +88,18 @@
     }
     {%- endif -%}
     {%- if page.layout == 'post' -%}
+    {%- comment -%}
+      The person the byline names. `name` is the bare first name, not the
+      localised `author:` front matter ("Eric d'OptimCE", "Eric, OptimCE", …),
+      because that string carries the affiliation for human readers while the
+      organisation is already expressed by the publisher edge.
+    {%- endcomment -%}
     ,{
+      "@type": "Person",
+      "@id": {{ person_id | jsonify }},
+      "name": "Eric"
+    },
+    {
       "@type": "Article",
       "@id": {{ page_url | append: '#article' | jsonify }},
       "headline": {{ page.title | jsonify }},
@@ -95,7 +108,7 @@
       "dateModified": {{ page.last_modified_at | default: page.date | date_to_xmlschema | jsonify }},
       "inLanguage": {{ lang | jsonify }},
       "isPartOf": { "@id": {{ website_id | jsonify }} },
-      "author": { "@id": {{ org_id | jsonify }} },
+      "author": { "@id": {{ person_id | jsonify }} },
       "publisher": { "@id": {{ org_id | jsonify }} },
       "image": {{ page.image.path | default: '/assets/images/og-image.png' | absolute_url | jsonify }},
       "mainEntityOfPage": {

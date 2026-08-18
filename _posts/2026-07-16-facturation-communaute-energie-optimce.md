@@ -2,7 +2,7 @@
 layout: post
 title: "Facturation d'une communauté d'énergie"
 date: 2026-07-16 10:00:00 +0200
-author: "Équipe OptimCE"
+author: "Eric d'OptimCE"
 excerpt: "Nouvelle fonctionnalité OptimCE : générez automatiquement les factures de votre communauté d'énergie, du prix au kWh jusqu'au PDF et au suivi des paiements."
 description: "Générez les factures de votre communauté d'énergie, du prix au kWh jusqu'au PDF et au suivi des paiements, sans passer par un tableur."
 tags: [administrative, app, news]

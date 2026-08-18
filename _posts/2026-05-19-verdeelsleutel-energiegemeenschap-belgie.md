@@ -2,7 +2,7 @@
 layout: post
 title: "Verdeelsleutel in België: de 3 regio's"
 date: 2026-05-19 10:00:00 +0200
-author: "OptimCE-team"
+author: "Eric van OptimCE"
 excerpt: "Verdeelsleutel in een energiegemeenschap — types aanvaard door CWaPE, BRUGEL en VREG, verschillen tussen Wallonië, Brussel en Vlaanderen en praktische keuze­tips."
 description: "Sleuteltypes erkend door CWaPE, BRUGEL en VREG, de verschillen tussen Wallonië, Brussel en Vlaanderen, en hoe u de juiste kiest."
 tags: [allocation-key, administrative]

@@ -2,7 +2,7 @@
 layout: post
 title: "Warum die Stromrechnung in Belgien hoch bleibt"
 date: 2026-07-25 10:00:00 +0200
-author: "OptimCE-Team"
+author: "Eric, OptimCE"
 excerpt: "Der Energiepreis ist seit 2022 stark gefallen, und die Akzisen sinken am 1. August 2026. Dennoch bewegt sich Ihre Rechnung kaum. Eine Aufschlüsselung der vier Blöcke in Euro — Energie, Netzkosten, Steuern, Lieferantenmarge — die Erhöhungen 2026 je Region und die Posten, auf die Sie noch Einfluss haben."
 description: "Energie macht nur 40 % der Rechnung aus. Die vier Blöcke aufgeschlüsselt, die Erhöhungen 2026 je Region und Ihre Stellschrauben."
 tags: [community, administrative, guide]

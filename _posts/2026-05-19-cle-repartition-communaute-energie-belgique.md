@@ -2,7 +2,7 @@
 layout: post
 title: "Clé de répartition en Belgique : les 3 régions"
 date: 2026-05-19 10:00:00 +0200
-author: "Équipe OptimCE"
+author: "Eric d'OptimCE"
 excerpt: "Clé de répartition d'une communauté d'énergie : types CWaPE, BRUGEL, VREG, différences Wallonie / Bruxelles / Flandre et conseils pour choisir."
 description: "Types de clés reconnues par la CWaPE, BRUGEL et le VREG, ce qui change entre Wallonie, Bruxelles et Flandre, et comment choisir la vôtre."
 tags: [allocation-key, administrative]

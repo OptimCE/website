@@ -3,7 +3,7 @@ layout: post
 title: "Energiegemeenschappen in Europa: RED II en IEMD"
 date: 2026-03-05 09:00:00 +0100
 last_modified_at: 2026-07-26 10:00:00 +0200
-author: "OptimCE-team"
+author: "Eric van OptimCE"
 excerpt: "Twee Europese richtlijnen regelen energiegemeenschappen: RED II de hernieuwbare-energiegemeenschap, de elektriciteitsmarktrichtlijn de burgerenergiegemeenschap. Wat hen scheidt, wat ze delen, en hoe België, Frankrijk en Nederland ze hebben omgezet."
 description: "Wat de richtlijnen RED II en IEMD bepalen, hoe België, Frankrijk en Nederland ze omzetten, en wat daaruit volgt voor gemeenschappen."
 tags: [community, administrative, guide]

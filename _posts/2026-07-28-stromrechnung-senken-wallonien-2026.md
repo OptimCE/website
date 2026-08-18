@@ -3,7 +3,7 @@ layout: post
 title: "Stromrechnung senken: Wallonien 2026"
 date: 2026-07-28 10:00:00 +0200
 last_modified_at: 2026-08-11 04:00:00 +0200
-author: "OptimCE-Team"
+author: "Eric, OptimCE"
 excerpt: "Offizieller Vergleichsrechner, neuer Impact-Tarif, Sozialtarif, Prämienfrist am 30. September, Eigenverbrauch und Energieteilung: zehn wallonische Hebel, berechnet auf Grundlage der von der CWaPE genehmigten ORES-Tarifliste 2026. Sechs davon kosten nichts. Für jeden Hebel die realistische Jahresersparnis, die Bedingung und die Vorlaufzeit."
 description: "Zehn konkrete, belegte Hebel zur Senkung der Stromrechnung in Wallonien 2026 — vom offiziellen Vergleichsrechner bis zur Energieteilung."
 tags: [guide, administrative, community]

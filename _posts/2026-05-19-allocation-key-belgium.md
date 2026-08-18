@@ -2,7 +2,7 @@
 layout: post
 title: "Allocation key in Belgium: the 3 regions"
 date: 2026-05-19 10:00:00 +0200
-author: "OptimCE Team"
+author: "Eric from OptimCE"
 excerpt: "Allocation key in an energy community — types accepted by CWaPE, BRUGEL and VREG, regional differences across Wallonia, Brussels and Flanders, and practical guidance to choose one."
 description: "Key types accepted by CWaPE, BRUGEL and VREG, what changes between Wallonia, Brussels and Flanders, and how to choose the right one."
 tags: [allocation-key, administrative]

@@ -3,7 +3,7 @@ layout: post
 title: "Réduire sa facture d'électricité : Wallonie 2026"
 date: 2026-07-28 10:00:00 +0200
 last_modified_at: 2026-08-11 04:00:00 +0200
-author: "Équipe OptimCE"
+author: "Eric d'OptimCE"
 excerpt: "Comparateur officiel, nouveau tarif Impact, tarif social, primes avant le 30 septembre, autoconsommation, partage d'énergie : dix leviers wallons chiffrés à partir de la grille tarifaire ORES 2026 approuvée par la CWaPE. Six d'entre eux ne coûtent rien. Pour chacun, le gain annuel réaliste, la condition à remplir et le délai."
 description: "Dix leviers concrets, chiffrés et sourcés pour alléger sa facture d'électricité en Wallonie en 2026 — du comparateur officiel au partage d'énergie."
 tags: [guide, administrative, community]

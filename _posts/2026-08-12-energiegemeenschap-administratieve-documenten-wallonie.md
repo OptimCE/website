@@ -2,7 +2,7 @@
 layout: post
 title: "Energiegemeenschap: CWaPE-documenten en termijnen"
 date: 2026-08-12 06:00:00 +0200
-author: "OptimCE-team"
+author: "Eric van OptimCE"
 excerpt: "De CWaPE heeft tien werkdagen om uw kennisgeving volledig te verklaren, en een dossier dat zes maanden onvolledig blijft vervalt helemaal. De jaarlijkse rapportering valt elk jaar uiterlijk op 1 september. Sinds 25 juni 2026 verlopen die drie procedures via gedigitaliseerde formulieren op Mon Espace, terwijl energiedelen en de overeenkomsten met de netbeheerder bestanden blijven die u zelf invult. Hier vindt u de documenten die een Waalse energiegemeenschap moet opstellen, de bijbehorende termijnen, en wat OptimCE voortaan voor u voorbereidt, dateert en bewaart."
 description: "Kennisgeving, jaarlijkse rapportering, overeenkomsten: welke documenten een Waalse energiegemeenschap moet opstellen, tegen wanneer en wat automatisch kan."
 tags: [administrative, app, guide]

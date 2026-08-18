@@ -3,7 +3,7 @@ layout: post
 title: "Version de mai 2026 : registre et guide"
 date: 2026-05-07 10:00:00 +0200
 last_modified_at: 2026-07-26 10:00:00 +0200
-author: "Équipe OptimCE"
+author: "Eric d'OptimCE"
 excerpt: "Une nouvelle version d'OptimCE est disponible, avec des corrections de bugs, un nouveau guide utilisateur et un registre public pour découvrir les opérations de partage ouvertes."
 description: "Corrections de bugs, nouveau guide utilisateur et registre public des opérations de partage ouvertes, disponible dans l'application."
 tags: [app, announcement, news]

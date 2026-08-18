@@ -2,7 +2,7 @@
 layout: post
 title: "Automatic allocation key generation"
 date: 2026-05-26 00:00:00 +0200
-author: "OptimCE Team"
+author: "Eric from OptimCE"
 excerpt: "OptimCE's automatic generation module is now live. It proposes optimised allocation keys from a community's real production and consumption data, with two algorithms — brute force on standard keys and LOGAAS, a CeCoTePe research output from the Locomotrice project."
 description: "Two algorithms — brute force over standard keys and LOGAAS — that propose an optimised key from your community's real data."
 tags: [allocation-key, app, guide]

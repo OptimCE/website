@@ -2,13 +2,13 @@
 layout: post
 title: "Energy self-consumption in Belgium"
 date: 2026-06-05 10:00:00 +0200
-author: "OptimCE Team"
+author: "Eric from OptimCE"
 excerpt: "Understanding self-consumption in Belgium: definition, the self-consumption rate and how to raise it, collective self-consumption and its link with energy communities, the differences between Wallonia, Brussels and Flanders, who benefits, and an FAQ."
 description: "The self-consumption rate and how to raise it, collective self-consumption, the link with energy communities and regional differences."
 tags: [community]
 lang: en
 ref: self-consumption-belgium
-last_modified_at: 2026-08-11 04:00:00 +0200
+last_modified_at: 2026-08-18 04:00:00 +0200
 permalink: /en/news/2026/06/05/energy-self-consumption-belgium/
 faq:
   - q: "What is the self-consumption rate?"
@@ -54,6 +54,8 @@ A panel only produces during the day, yet much of a household's consumption happ
 4. **Install a heat pump.** Electrified heating and hot water raise steerable daytime consumption.
 5. **Add a home battery.** It stores the day's surplus to release it in the evening, which can lift the self-consumption rate substantially (at the cost of an investment).
 6. **Share the surplus via an energy community.** Once your own measures are maxed out, the remaining surplus is no longer injected at a low price: it's **shared with other members** who consume it locally. This is the logical extension from individual to collective self-consumption. What that changes for the payback of a Walloon installation is quantified in [“Solar panels 2026: still worth it in Wallonia?”](/en/news/2026/08/11/solar-panels-worth-it-wallonia-2026/).
+
+These six levers are not equivalent: the hot-water tank, the electric car and the battery absorb neither the same volumes nor at the same cost. The costed comparison of the five possible destinations of a surplus is set out in [“Solar surplus: the 5 options compared”](/en/news/2026/08/18/what-to-do-solar-surplus-belgium/).
 
 ## Self-consumption and energy communities: the links
 

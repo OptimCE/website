@@ -2,7 +2,7 @@
 layout: post
 title: "Communauté d'énergie : documents et délais CWaPE"
 date: 2026-08-12 06:00:00 +0200
-author: "Équipe OptimCE"
+author: "Eric d'OptimCE"
 excerpt: "La CWaPE dispose de dix jours ouvrables pour déclarer votre notification complète, et un dossier resté incomplet six mois devient caduc. Le rapportage annuel, lui, tombe chaque année pour le 1er septembre. Depuis le 25 juin 2026, ces trois procédures passent par des formulaires digitalisés sur Mon Espace, tandis que le partage d'énergie et les conventions avec le gestionnaire de réseau restent des fichiers à remplir. Voici les documents qu'une communauté d'énergie wallonne doit produire, les délais qui s'y attachent, et ce qu'OptimCE prépare, date et archive désormais à votre place."
 description: "Notification, rapportage annuel, conventions GRD : quels documents une communauté d'énergie wallonne doit produire, pour quand, et ce qui s'automatise."
 tags: [administrative, app, guide]

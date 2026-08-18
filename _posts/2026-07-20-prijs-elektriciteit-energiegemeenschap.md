@@ -2,7 +2,7 @@
 layout: post
 title: "Interne overdrachtsprijs in een gemeenschap"
 date: 2026-07-20 10:00:00 +0200
-author: "OptimCE-team"
+author: "Eric van OptimCE"
 excerpt: "Welke prijs per kWh voor de elektriciteit die tussen leden gedeeld wordt? Wat de interne prijs echt dekt, de verdedigbare bandbreedte tussen injectietarief en energiecomponent, vijf rekenmethodes, een doorgerekend Belgisch praktijkgeval en de regels in Wallonië, Brussel en Vlaanderen."
 description: "Wat de interne prijs dekt, de verdedigbare bandbreedte tussen injectietarief en energiecomponent, en vijf manieren om hem te berekenen."
 tags: [community, administrative, guide]

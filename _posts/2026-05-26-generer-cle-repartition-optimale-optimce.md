@@ -2,7 +2,7 @@
 layout: post
 title: "Générer une clé de répartition optimale"
 date: 2026-05-26 00:00:00 +0200
-author: "Équipe OptimCE"
+author: "Eric d'OptimCE"
 excerpt: "Le module de génération automatique d'OptimCE est en production. Il propose des clés de répartition optimisées à partir des données réelles de production et de consommation, avec deux algorithmes — brute force sur les clés standards et LOGAAS, issu de la recherche du CeCoTePe dans le projet Locomotrice."
 description: "Deux algorithmes — brute force sur les clés standards et LOGAAS — pour proposer une clé optimisée à partir de vos données réelles."
 tags: [allocation-key, app, guide]

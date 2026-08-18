@@ -2,7 +2,7 @@
 layout: post
 title: "Leden van een energiegemeenschap betrekken"
 date: 2026-06-24 10:00:00 +0200
-author: "OptimCE-team"
+author: "Eric van OptimCE"
 excerpt: "Een energiegemeenschap is in de eerste plaats een sociaal project. Zo informeert, motiveert en betrekt u uw leden bij beslissingen — met een nieuwsbord, polls en goede praktijken voor participatief bestuur."
 description: "Nieuwsbord, polls en participatief bestuur: zo houdt u uw leden geïnformeerd en betrekt u ze bij beslissingen zonder ze kwijt te raken."
 tags: [community, app]

@@ -3,7 +3,7 @@ layout: post
 title: "Version Mai 2026: Register und Handbuch"
 date: 2026-05-07 10:00:00 +0200
 last_modified_at: 2026-07-26 10:00:00 +0200
-author: "OptimCE-Team"
+author: "Eric, OptimCE"
 excerpt: "Eine neue OptimCE-Version ist verfügbar — mit Fehlerbehebungen, einem brandneuen Benutzerhandbuch und einem öffentlichen Register zur Entdeckung offener Energieteilungsoperationen."
 description: "Fehlerbehebungen, ein neues Benutzerhandbuch und ein öffentliches Register offener Teilungsoperationen in der Anwendung."
 tags: [app, announcement, news]

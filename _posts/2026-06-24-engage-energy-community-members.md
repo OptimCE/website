@@ -2,7 +2,7 @@
 layout: post
 title: "Engaging energy community members"
 date: 2026-06-24 10:00:00 +0200
-author: "OptimCE Team"
+author: "Eric from OptimCE"
 excerpt: "An energy community is first and foremost a social project. Here's how to inform, engage and involve your members in decisions — with a news board, polls and participatory governance best practices."
 description: "News board, polls and participatory governance: how to keep members informed and bring them into decisions without losing them."
 tags: [community, app]

@@ -3,7 +3,7 @@ layout: post
 title: "Elektriciteitsfactuur verlagen: Wallonië 2026"
 date: 2026-07-28 10:00:00 +0200
 last_modified_at: 2026-08-11 04:00:00 +0200
-author: "OptimCE-team"
+author: "Eric van OptimCE"
 excerpt: "Officiële vergelijker, nieuw Impact-tarief, sociaal tarief, premiedeadline van 30 september, zelfverbruik en energiedelen: tien Waalse hefbomen, berekend op basis van de door de CWaPE goedgekeurde ORES-tarieflijst 2026. Zes ervan kosten niets. Voor elke hefboom de realistische jaarwinst, de voorwaarde en de doorlooptijd."
 description: "Tien concrete, becijferde en gestaafde hefbomen om uw elektriciteitsfactuur in Wallonië te verlagen in 2026 — van de officiële vergelijker tot energiedelen."
 tags: [guide, administrative, community]

@@ -2,7 +2,7 @@
 layout: post
 title: "Aufteilungsschlüssel automatisch generieren"
 date: 2026-05-26 00:00:00 +0200
-author: "OptimCE-Team"
+author: "Eric, OptimCE"
 excerpt: "Das automatische Generierungsmodul von OptimCE ist live. Es schlägt optimierte Aufteilungsschlüssel auf Basis der realen Erzeugungs- und Verbrauchsdaten einer Gemeinschaft vor — mit zwei Algorithmen: Brute-Force auf Standardschlüsseln und LOGAAS, einem Forschungsergebnis von CeCoTePe aus dem Locomotrice-Projekt."
 description: "Zwei Algorithmen — Brute-Force über alle Standardschlüssel und LOGAAS — schlagen einen optimierten Schlüssel aus Ihren realen Daten vor."
 tags: [allocation-key, app, guide]

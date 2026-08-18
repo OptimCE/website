@@ -2,7 +2,7 @@
 layout: post
 title: "Prix de cession interne en communauté d'énergie"
 date: 2026-07-20 10:00:00 +0200
-author: "Équipe OptimCE"
+author: "Eric d'OptimCE"
 excerpt: "Quel prix au kWh appliquer à l'électricité partagée entre membres ? Ce que le prix interne couvre réellement, la fourchette défendable entre tarif d'injection et composante énergie, cinq méthodes de calcul, un cas belge chiffré et les règles en Wallonie, à Bruxelles et en Flandre."
 description: "Ce que le prix interne couvre, la fourchette défendable entre tarif d'injection et composante énergie, et cinq méthodes de calcul."
 tags: [community, administrative, guide]

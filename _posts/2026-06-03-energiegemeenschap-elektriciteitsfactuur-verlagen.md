@@ -2,7 +2,7 @@
 layout: post
 title: "Elektriciteitsfactuur verlagen met energiedelen"
 date: 2026-06-03 10:00:00 +0200
-author: "OptimCE-team"
+author: "Eric van OptimCE"
 excerpt: "Door toe te treden tot een energiegemeenschap betaalt u minder voor elektriciteit, tegen een stabielere prijs. We leggen de besparingshefbomen uit, een rekenvoorbeeld, de verschillen tussen Wallonië, Brussel en Vlaanderen, en wie er het meest van profiteert."
 description: "Waar de besparing echt vandaan komt, een rekenvoorbeeld, de verschillen tussen Wallonië, Brussel en Vlaanderen, en wie er wint."
 tags: [community]

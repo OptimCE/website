@@ -2,7 +2,7 @@
 layout: post
 title: "Energiearmoede in Wallonië: welke steun?"
 date: 2026-08-08 04:00:00 +0200
-author: "OptimCE-team"
+author: "Eric van OptimCE"
 excerpt: "Wallonië heeft het hoogste percentage energiearmoede van het land: 29,2 % van de gezinnen, tegenover 16,4 % in Vlaanderen. Er bestaat steun — sociaal tarief, MEBAR, Sociaal Verwarmingsfonds, energietutor — maar ze is verspreid over drie bestuursniveaus en wordt niet aan hetzelfde loket aangevraagd. En net de brandstof waarmee 37,5 % van de Waalse gezinnen verwarmt, wordt door geen enkel sociaal tarief gedekt."
 description: "29,2 % van de Waalse gezinnen kent energiearmoede. Welke steun bestaat, wie ze opent bij het OCMW, en welke collectieve oplossingen werken."
 tags: [guide, administrative, community]

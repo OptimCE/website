@@ -2,7 +2,7 @@
 layout: post
 title: "Energy community: CWaPE documents and deadlines"
 date: 2026-08-12 06:00:00 +0200
-author: "OptimCE Team"
+author: "Eric from OptimCE"
 excerpt: "The CWaPE has ten working days to declare your notification complete, and a dossier left incomplete for six months lapses altogether. The annual report, for its part, falls every year by 1 September. Since 25 June 2026 those three procedures run through digitalised forms on Mon Espace, while energy sharing and the grid operator agreements remain files you fill in yourself. Here are the documents a Walloon energy community must produce, the deadlines attached to them, and what OptimCE now prepares, dates and archives on your behalf."
 description: "Notification, annual report, grid operator agreements: which documents a Walloon energy community must produce, by when, and what can be automated."
 tags: [administrative, app, guide]

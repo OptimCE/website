@@ -3,7 +3,7 @@ layout: post
 title: "Energiegemeinschaften in Europa: RED II und IEMD"
 date: 2026-03-05 09:00:00 +0100
 last_modified_at: 2026-07-26 10:00:00 +0200
-author: "OptimCE-Team"
+author: "Eric, OptimCE"
 excerpt: "Zwei europäische Richtlinien regeln Energiegemeinschaften: RED II die Erneuerbare-Energien-Gemeinschaft, die Strombinnenmarktrichtlinie die Bürgerenergiegemeinschaft. Was sie trennt, was sie teilen und wie Belgien, Frankreich und die Niederlande sie umgesetzt haben."
 description: "Was die Richtlinien RED II und IEMD vorsehen, wie Belgien, Frankreich und die Niederlande sie umsetzen und was daraus folgt."
 tags: [community, administrative, guide]

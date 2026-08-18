@@ -2,7 +2,7 @@
 layout: post
 title: "Energiegemeinschaft in der Wallonie gründen"
 date: 2026-05-11 14:00:00 +0200
-author: "OptimCE-Team"
+author: "Eric, OptimCE"
 excerpt: "Wie man eine Energiegemeinschaft (CER oder CEC) in der Wallonie gründet: Modellwahl, Rechtsform, Meldung bei der CWaPE, Empfangsbestätigung und Start der Energieteilung mit ORES, RESA oder AIEG."
 description: "CER- oder CEC-Modell, Rechtsform, Meldung bei der CWaPE und Start der Energieteilung mit ORES, RESA oder AIEG: die konkreten Schritte."
 tags: [community, administrative, guide]

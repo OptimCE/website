@@ -2,7 +2,7 @@
 layout: post
 title: "Verdeelsleutel simuleren: test uw scenario's"
 date: 2026-06-09 10:00:00 +0200
-author: "OptimCE-team"
+author: "Eric van OptimCE"
 excerpt: "Nieuwe OptimCE-functie: simuleer een verdeelsleutel op uw data en meet zelfverbruik, surplus, zelfvoorziening en deelgraad voor uw gemeenschap."
 description: "Simuleer een sleutel op uw eigen data en meet zelfverbruik, surplus, zelfvoorziening en deelgraad voordat u hem vastlegt."
 tags: [allocation-key, app, news]

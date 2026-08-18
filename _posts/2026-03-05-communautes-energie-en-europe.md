@@ -3,7 +3,7 @@ layout: post
 title: "Communautés d'énergie en Europe : RED II et IEMD"
 date: 2026-03-05 09:00:00 +0100
 last_modified_at: 2026-07-26 10:00:00 +0200
-author: "Équipe OptimCE"
+author: "Eric d'OptimCE"
 excerpt: "Deux directives européennes encadrent les communautés d'énergie : RED II pour les communautés d'énergie renouvelable, la directive marché intérieur pour les communautés énergétiques citoyennes. Ce qui les sépare, ce qu'elles partagent, et comment la Belgique, la France et les Pays-Bas les ont transposées."
 description: "Ce que prévoient les directives RED II et IEMD, comment la Belgique, la France et les Pays-Bas les transposent, et ce qui en découle."
 tags: [community, administrative, guide]

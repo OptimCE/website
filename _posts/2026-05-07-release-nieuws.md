@@ -3,7 +3,7 @@ layout: post
 title: "Release mei 2026: register en gebruikersgids"
 date: 2026-05-07 10:00:00 +0200
 last_modified_at: 2026-07-26 10:00:00 +0200
-author: "OptimCE-team"
+author: "Eric van OptimCE"
 excerpt: "Een nieuwe OptimCE-release is beschikbaar, met bugfixes, een gloednieuwe gebruikersgids en een publiek register om open energiedeelacties te ontdekken."
 description: "Bugfixes, een nieuwe gebruikersgids en een publiek register van open deelacties, nu beschikbaar in de applicatie."
 tags: [app, announcement, news]

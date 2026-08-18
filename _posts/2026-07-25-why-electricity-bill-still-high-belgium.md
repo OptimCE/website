@@ -2,7 +2,7 @@
 layout: post
 title: "Why your electricity bill stays high in Belgium"
 date: 2026-07-25 10:00:00 +0200
-author: "OptimCE Team"
+author: "Eric from OptimCE"
 excerpt: "Energy prices have collapsed since 2022 and excise duties drop on 1 August 2026. Yet your bill barely moves. A euro-by-euro breakdown of the four blocks — energy, network costs, taxes, supplier margin — the 2026 increases per region, and the items you can still act on."
 description: "Energy is only 40% of the bill. A breakdown of the four blocks, the 2026 increases per region, and what you can still act on."
 tags: [community, administrative, guide]

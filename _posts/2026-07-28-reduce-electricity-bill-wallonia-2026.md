@@ -3,7 +3,7 @@ layout: post
 title: "Reduce your electricity bill: Wallonia 2026"
 date: 2026-07-28 10:00:00 +0200
 last_modified_at: 2026-08-11 04:00:00 +0200
-author: "OptimCE Team"
+author: "Eric from OptimCE"
 excerpt: "The official comparator, the new Impact tariff, the social tariff, the 30 September grant deadline, self-consumption and energy sharing: ten Walloon levers costed from the ORES 2026 tariff schedule approved by CWaPE. Six of them cost nothing. For each one, the realistic annual saving, the condition to meet and the lead time."
 description: "Ten concrete, costed and sourced levers to cut your electricity bill in Wallonia in 2026 — from the official comparator to energy sharing."
 tags: [guide, administrative, community]

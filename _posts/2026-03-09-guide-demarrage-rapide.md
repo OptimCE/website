@@ -3,7 +3,7 @@ layout: post
 title: "Installer OptimCE : guide de démarrage"
 date: 2026-03-09 14:00:00 +0100
 last_modified_at: 2026-07-26 10:00:00 +0200
-author: "Équipe OptimCE"
+author: "Eric d'OptimCE"
 excerpt: "Deux façons de démarrer avec OptimCE : la version hébergée, sans rien installer, ou le déploiement local de la stack complète avec Docker Compose. Prérequis, clonage avec sous-modules, variables d'environnement et démarrage, étape par étape."
 description: "Prérequis, clonage du dépôt, variables d'environnement et premier démarrage : installer OptimCE en local, étape par étape."
 tags: [app, guide]

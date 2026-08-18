@@ -2,7 +2,7 @@
 layout: post
 title: "Read your Belgian electricity bill line by line"
 date: 2026-07-30 10:00:00 +0200
-author: "OptimCE Team"
+author: "Eric from OptimCE"
 excerpt: "You receive a dozen documents a year called an invoice, and only one of them actually tells you what you owe. Since 2022, a royal decree has imposed five identical sections on every Belgian supplier. This guide decodes the document: instalments versus the annual statement, the EAN code, actual versus estimated meter readings, every price line with its real recipient, the standing charge people sometimes pay twice, and which ombudsman to contact for which line."
 description: "The five sections mandated since 2022, instalments versus the annual statement, the EAN code, estimated readings: decode every line of your bill."
 tags: [guide, administrative, community]

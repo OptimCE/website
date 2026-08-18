@@ -2,7 +2,7 @@
 layout: post
 title: "Energiegemeinschaft: CWaPE-Dokumente und Fristen"
 date: 2026-08-12 06:00:00 +0200
-author: "OptimCE-Team"
+author: "Eric, OptimCE"
 excerpt: "Die CWaPE hat zehn Werktage Zeit, um Ihre Meldung für vollständig zu erklären, und ein sechs Monate lang unvollständig gebliebenes Dossier verfällt ganz. Der Jahresbericht wiederum ist jedes Jahr zum 1. September fällig. Seit dem 25. Juni 2026 laufen diese drei Verfahren über digitalisierte Formulare auf Mon Espace, während die Stromteilung und die Verträge mit dem Netzbetreiber Dateien bleiben, die Sie selbst ausfüllen. Hier finden Sie die Dokumente, die eine wallonische Energiegemeinschaft erstellen muss, die zugehörigen Fristen und das, was OptimCE nun für Sie vorbereitet, datiert und archiviert."
 description: "Meldung, Jahresbericht, Netzbetreibervertrag: welche Dokumente eine wallonische Energiegemeinschaft erstellen muss, bis wann und was automatisierbar ist."
 tags: [administrative, app, guide]

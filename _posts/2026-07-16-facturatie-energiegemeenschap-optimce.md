@@ -2,7 +2,7 @@
 layout: post
 title: "Facturatie in een energiegemeenschap"
 date: 2026-07-16 10:00:00 +0200
-author: "OptimCE-team"
+author: "Eric van OptimCE"
 excerpt: "Nieuwe OptimCE-functie: genereer automatisch de facturen van uw energiegemeenschap, van de prijs per kWh tot de pdf en de opvolging van de betalingen."
 description: "Genereer de facturen van uw energiegemeenschap, van de prijs per kWh tot de pdf en de opvolging van betalingen, zonder rekenblad."
 tags: [administrative, app, news]

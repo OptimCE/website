@@ -2,7 +2,7 @@
 layout: post
 title: "Animer une communauté d'énergie au quotidien"
 date: 2026-06-24 10:00:00 +0200
-author: "Équipe OptimCE"
+author: "Eric d'OptimCE"
 excerpt: "Une communauté d'énergie est d'abord un projet social. Voici comment informer, engager et faire décider vos membres — tableau d'actualités, sondages et bonnes pratiques de gouvernance participative."
 description: "Tableau d'actualités, sondages et gouvernance participative : comment informer vos membres et les faire décider ensemble, sans les perdre."
 tags: [community, app]

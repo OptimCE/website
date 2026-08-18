@@ -2,7 +2,7 @@
 layout: post
 title: "Geteilten Strom in Belgien abrechnen"
 date: 2026-07-23 10:00:00 +0200
-author: "OptimCE-Team"
+author: "Eric, OptimCE"
 excerpt: "Bei der Energieteilung existieren zwei Rechnungen nebeneinander: die des Lieferanten und die des Vertreters der Energieteilung. Wer stellt was aus, welcher MwSt.-Satz gilt (6 oder 21 %), wie werden Akzisen und grüne Zertifikate behandelt und welche Angaben sind Pflicht."
 description: "Bei der Energieteilung existieren zwei Rechnungen. Wer stellt was aus, welcher MwSt.-Satz gilt und welche Angaben sind Pflicht."
 tags: [community, administrative, guide]

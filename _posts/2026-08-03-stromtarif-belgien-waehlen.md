@@ -3,7 +3,7 @@ layout: post
 title: "Welchen Stromtarif in Belgien wählen?"
 date: 2026-08-03 10:00:00 +0200
 last_modified_at: 2026-08-08 10:00:00 +0200
-author: "OptimCE-Team"
+author: "Eric, OptimCE"
 excerpt: "Sozialtarif, Nachttarif, dynamischer Vertrag: drei Antworten auf dieselbe Frage, und sie wirken nicht auf denselben Teil Ihrer Rechnung. Dieser bezifferte Vergleich trennt sie anhand der CREG-Sozialtarife für das dritte Quartal 2026 und der Netztarife der drei Regionen und untersucht anschließend einen vierten Weg, den kein Vergleichsportal führt — die Energiegemeinschaft, die einzige, die sich zu beiden Vertragsformeln addiert."
 description: "Sozialtarif, Nachttarif, dynamischer Vertrag oder Energiegemeinschaft: was jede Formel wirklich an Ihrer Rechnung ändert, Region für Region."
 tags: [guide, administrative, community]

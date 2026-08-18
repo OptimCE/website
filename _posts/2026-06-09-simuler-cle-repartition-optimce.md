@@ -2,7 +2,7 @@
 layout: post
 title: "Simuler une clé de répartition : scénarios"
 date: 2026-06-09 10:00:00 +0200
-author: "Équipe OptimCE"
+author: "Eric d'OptimCE"
 excerpt: "Nouvelle fonctionnalité OptimCE : simulez une clé de répartition sur vos données et mesurez autoconsommation, surplus, autosuffisance et taux de partage."
 description: "Simulez une clé sur vos propres données et mesurez autoconsommation, surplus, autosuffisance et taux de partage avant de la valider."
 tags: [allocation-key, app, news]

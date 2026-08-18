@@ -2,7 +2,7 @@
 layout: post
 title: "Communautés d'énergie en Belgique : CER, CEC, CEL"
 date: 2026-05-11 10:00:00 +0200
-author: "Équipe OptimCE"
+author: "Eric d'OptimCE"
 excerpt: "Comprendre les communautés d'énergie en Belgique : différences entre CER, CEC et CEL, partage d'énergie, acteurs (CWaPE, GRD), avantages et FAQ."
 description: "CER, CEC et CEL : ce qui les distingue, comment fonctionne le partage d'énergie, le rôle de la CWaPE et du GRD, et ce que vous y gagnez."
 tags: [community, administrative]

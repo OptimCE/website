@@ -3,7 +3,7 @@ layout: post
 title: "May 2026 release: public registry and guide"
 date: 2026-05-07 10:00:00 +0200
 last_modified_at: 2026-07-26 10:00:00 +0200
-author: "OptimCE Team"
+author: "Eric from OptimCE"
 excerpt: "A new OptimCE release is out, with bug fixes, a brand-new user guide and a public registry to discover open energy-sharing operations."
 description: "Bug fixes, a new user guide and a public registry of open sharing operations, now available inside the application."
 tags: [app, announcement, news]

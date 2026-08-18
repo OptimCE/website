@@ -2,7 +2,7 @@
 layout: post
 title: "Energy poverty in Wallonia: available support"
 date: 2026-08-08 04:00:00 +0200
-author: "OptimCE Team"
+author: "Eric from OptimCE"
 excerpt: "Wallonia has the highest energy poverty rate in Belgium: 29.2% of households, against 16.4% in Flanders. Support exists — social tariff, MEBAR, Social Heating Fund, energy tutor — but it is split across three levels of government and no two schemes share a counter. And the fuel that heats 37.5% of Walloon households is precisely the one no social tariff covers."
 description: "29.2% of Walloon households face energy poverty. Which support schemes exist, who opens them at the CPAS, and which collective solutions actually work."
 tags: [guide, administrative, community]

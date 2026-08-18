@@ -3,7 +3,7 @@ layout: post
 title: "Goedkopere stroom zonder leverancierswissel"
 date: 2026-08-05 04:00:00 +0200
 last_modified_at: 2026-08-11 04:00:00 +0200
-author: "OptimCE-team"
+author: "Eric van OptimCE"
 excerpt: "Elke gids over besparen op elektriciteit eindigt met dezelfde zin: vergelijk en verander dan van leverancier. Toch bestaat er een mechanisme dat uw factuur verlaagt zonder dat u iets moet opzeggen — energiedelen. De vraag is niet of het legaal is: dat is het in alle drie de gewesten. De vraag is of het beschikbaar is waar u woont, en twee cijfers schetsen het antwoord: 38 vergunde gemeenschappen in Brussel, 8 in Wallonië."
 description: "Energiedelen verlaagt uw factuur zonder uw contract op te zeggen. Wat het echt oplevert en in welk gewest het werkelijk beschikbaar is."
 tags: [guide, administrative, community]

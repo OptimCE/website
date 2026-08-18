@@ -2,7 +2,7 @@
 layout: post
 title: "Rejoindre une communauté d'énergie en Wallonie"
 date: 2026-05-11 16:00:00 +0200
-author: "Équipe OptimCE"
+author: "Eric d'OptimCE"
 excerpt: "Comment rejoindre une communauté d'énergie en Wallonie : éligibilité, où trouver une opération de partage ouverte (registre OptimCE, facilitateur SPW, Énergie commune), démarches et points de vigilance avant de signer."
 description: "Conditions d'éligibilité, où trouver une opération de partage ouverte, les démarches et les points à vérifier avant de signer."
 tags: [community, administrative, guide]

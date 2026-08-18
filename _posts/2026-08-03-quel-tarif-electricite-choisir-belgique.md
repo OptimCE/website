@@ -3,7 +3,7 @@ layout: post
 title: "Quel tarif d'électricité choisir en Belgique ?"
 date: 2026-08-03 10:00:00 +0200
 last_modified_at: 2026-08-08 10:00:00 +0200
-author: "Équipe OptimCE"
+author: "Eric d'OptimCE"
 excerpt: "Tarif social, tarif de nuit, contrat dynamique : trois réponses à la même question, et elles n'agissent pas sur la même partie de votre facture. Ce comparatif chiffré les départage à partir des tarifs CREG du troisième trimestre 2026 et des grilles de réseau des trois régions, puis examine une quatrième voie que les comparateurs ne référencent pas — la communauté d'énergie, la seule qui se cumule avec les deux autres formules."
 description: "Tarif social, bihoraire, contrat dynamique ou communauté d'énergie : ce que chaque formule change vraiment sur votre facture, région par région."
 tags: [guide, administrative, community]

@@ -2,7 +2,7 @@
 layout: post
 title: "Précarité énergétique en Wallonie : les aides"
 date: 2026-08-08 04:00:00 +0200
-author: "Équipe OptimCE"
+author: "Eric d'OptimCE"
 excerpt: "La Wallonie affiche le taux de précarité énergétique le plus élevé du pays : 29,2 % des ménages, contre 16,4 % en Flandre. Les aides existent — tarif social, MEBAR, Fonds social chauffage, tuteur énergie — mais elles sont éclatées entre trois niveaux de pouvoir et ne se demandent pas au même endroit. Et l'énergie qui chauffe 37,5 % des ménages wallons est précisément celle qu'aucun tarif social ne couvre."
 description: "29,2 % des ménages wallons sont en précarité énergétique. Quelles aides existent, qui les ouvre au CPAS, et quelles solutions collectives fonctionnent."
 tags: [guide, administrative, community]

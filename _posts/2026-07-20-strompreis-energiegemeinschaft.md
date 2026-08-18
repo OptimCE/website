@@ -2,7 +2,7 @@
 layout: post
 title: "Interner Verrechnungspreis für geteilten Strom"
 date: 2026-07-20 10:00:00 +0200
-author: "OptimCE-Team"
+author: "Eric, OptimCE"
 excerpt: "Welchen Preis pro kWh für den zwischen Mitgliedern geteilten Strom? Was der interne Preis wirklich abdeckt, die vertretbare Spanne zwischen Einspeisetarif und Energiekomponente, fünf Berechnungsmethoden, ein durchgerechneter belgischer Fall und die Regeln in der Wallonie, in Brüssel und in Flandern."
 description: "Was der interne Preis abdeckt, die vertretbare Spanne zwischen Einspeisetarif und Energiekomponente und fünf Berechnungsmethoden."
 tags: [community, administrative, guide]

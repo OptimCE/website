@@ -2,7 +2,7 @@
 layout: post
 title: "Invoicing shared electricity in Belgium"
 date: 2026-07-23 10:00:00 +0200
-author: "OptimCE Team"
+author: "Eric from OptimCE"
 excerpt: "In energy sharing, two invoices coexist: your supplier's and the sharing representative's. Who issues what, which VAT rate applies (6 or 21%), how to handle excise duties and green certificates, and which mentions are mandatory."
 description: "Two invoices coexist in energy sharing. Who issues what, which VAT rate applies, and which mentions are legally mandatory."
 tags: [community, administrative, guide]

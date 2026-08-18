@@ -2,7 +2,7 @@
 layout: post
 title: "Facture d'électricité : pourquoi elle reste élevée"
 date: 2026-07-25 10:00:00 +0200
-author: "Équipe OptimCE"
+author: "Eric d'OptimCE"
 excerpt: "Le prix de l'énergie a fondu depuis 2022 et les accises baissent au 1er août 2026. Pourtant votre facture ne bouge pas. Décomposition en euros des quatre blocs — énergie, coûts de réseau, taxes, marge fournisseur — les hausses 2026 par région, et les postes sur lesquels vous gardez une prise."
 description: "L'énergie ne pèse que 40 % de la facture. Décomposition des quatre blocs, hausses 2026 par région, et ce sur quoi vous gardez prise."
 tags: [community, administrative, guide]

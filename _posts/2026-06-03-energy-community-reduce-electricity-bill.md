@@ -2,7 +2,7 @@
 layout: post
 title: "Reduce your electricity bill: energy communities"
 date: 2026-06-03 10:00:00 +0200
-author: "OptimCE Team"
+author: "Eric from OptimCE"
 excerpt: "Joining an energy community lets you pay less for electricity at a more stable price. We explain the savings levers, a worked example, the differences between Wallonia, Brussels and Flanders, and who benefits most."
 description: "The real savings levers, a worked example, what differs between Wallonia, Brussels and Flanders, and who benefits the most."
 tags: [community]

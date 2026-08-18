@@ -3,7 +3,7 @@ layout: post
 title: "Launching OptimCE: the origins of the project"
 date: 2026-03-01 10:00:00 +0100
 last_modified_at: 2026-07-26 10:00:00 +0200
-author: "OptimCE Team"
+author: "Eric from OptimCE"
 excerpt: "OptimCE was not born in an incubator but in a laboratory. A look back at Locomotrice, the Walloon research project that produced the platform, at the partners behind it, and at the reasons it was released as open source."
 description: "Where OptimCE comes from: the Locomotrice research project, the ULiège and CECOTEPE partners, and why the platform is open source."
 tags: [app, announcement]

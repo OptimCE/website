@@ -2,7 +2,7 @@
 layout: post
 title: "Mitglieder einer Energiegemeinschaft einbinden"
 date: 2026-06-24 10:00:00 +0200
-author: "OptimCE-Team"
+author: "Eric, OptimCE"
 excerpt: "Eine Energiegemeinschaft ist in erster Linie ein soziales Projekt. So informieren, motivieren und beteiligen Sie Ihre Mitglieder an Entscheidungen — mit Nachrichtenboard, Abstimmungen und bewährten Praktiken partizipativer Governance."
 description: "Nachrichtenboard, Abstimmungen und partizipative Governance: So halten Sie Mitglieder informiert und binden sie in Entscheidungen ein."
 tags: [community, app]

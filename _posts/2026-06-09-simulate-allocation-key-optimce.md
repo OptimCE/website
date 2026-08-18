@@ -2,7 +2,7 @@
 layout: post
 title: "Simulate an allocation key: test your scenarios"
 date: 2026-06-09 10:00:00 +0200
-author: "OptimCE Team"
+author: "Eric from OptimCE"
 excerpt: "New OptimCE feature: simulate an allocation key on your own data and measure self-consumption, surplus, self-sufficiency and the sharing rate."
 description: "Simulate a key on your own data and measure self-consumption, surplus, self-sufficiency and the sharing rate before you commit."
 tags: [allocation-key, app, news]

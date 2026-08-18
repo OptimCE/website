@@ -2,7 +2,7 @@
 layout: post
 title: "Créer une communauté d'énergie en Wallonie"
 date: 2026-05-11 14:00:00 +0200
-author: "Équipe OptimCE"
+author: "Eric d'OptimCE"
 excerpt: "Comment créer une communauté d'énergie (CER ou CEC) en Wallonie : choix du modèle, structure juridique, notification à la CWaPE, accusé de réception et démarrage du partage avec ORES, RESA ou AIEG."
 description: "Modèle CER ou CEC, structure juridique, notification à la CWaPE et démarrage du partage avec ORES, RESA ou AIEG : les étapes concrètes."
 tags: [community, administrative, guide]

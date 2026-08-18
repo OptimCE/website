@@ -3,7 +3,7 @@ layout: post
 title: "OptimCE installieren: Schnellstart"
 date: 2026-03-09 14:00:00 +0100
 last_modified_at: 2026-07-26 10:00:00 +0200
-author: "OptimCE-Team"
+author: "Eric, OptimCE"
 excerpt: "Zwei Wege zum Start mit OptimCE: die gehostete Version ohne jede Installation oder das lokale Deployment der gesamten Stack mit Docker Compose. Voraussetzungen, Klonen mit Submodulen, Umgebungsvariablen und erster Start — Schritt für Schritt."
 description: "Voraussetzungen, Repository klonen, Umgebungsvariablen und erster Start: OptimCE lokal installieren, Schritt für Schritt."
 tags: [app, guide]

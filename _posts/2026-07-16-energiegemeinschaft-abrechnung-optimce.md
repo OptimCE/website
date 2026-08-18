@@ -2,7 +2,7 @@
 layout: post
 title: "Abrechnung in der Energiegemeinschaft"
 date: 2026-07-16 10:00:00 +0200
-author: "OptimCE-Team"
+author: "Eric, OptimCE"
 excerpt: "Neue OptimCE-Funktion: Erstellen Sie die Rechnungen Ihrer Energiegemeinschaft automatisch — vom Preis pro kWh bis zum PDF und zur Zahlungsverfolgung."
 description: "Erstellen Sie die Rechnungen Ihrer Energiegemeinschaft — vom Preis pro kWh bis zum PDF und zur Zahlungsverfolgung, ohne Tabellenkalkulation."
 tags: [administrative, app, news]

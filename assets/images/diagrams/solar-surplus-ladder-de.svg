@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" role="img" aria-labelledby="t d">
+<title id="t">Was die Aufnahme einer Kilowattstunde Überschuss kostet</title><desc id="d">Leiter der fünf Möglichkeiten, einen Solarüberschuss in Belgien 2026 zu nutzen: Der Warmwasserspeicher nimmt 800 bis 1.400 kWh im Jahr für 400 bis 900 Euro Investition auf, das Laden eines Elektroautos 300 bis 1.500 kWh für 0 bis 2.500 Euro, das Energieteilen den gesamten Überschuss für null Euro, aber zu 3 bis 14 Cent je Kilowattstunde, die Einspeisung den Rest für null Euro zu 1 bis 5 Cent, und eine Hausbatterie rund 1.400 kWh für 7.000 bis 12.000 Euro.</desc>
+<rect width="800" height="620" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="60" y="44" font-size="22" fill="#212529" font-weight="700">Was die Aufnahme einer Kilowattstunde Überschuss kostet</text>
+<text x="60" y="70" font-size="13.5" fill="#495057" font-weight="400">Investition je kWh, die jährlich aufgenommen wird — je länger der Balken, desto teurer</text>
+<text x="60" y="108" font-size="11.5" fill="#495057" font-weight="700">Option und Wert einer kWh</text>
+<text x="300" y="108" font-size="11.5" fill="#495057" font-weight="700">Investition je kWh und Jahr</text>
+<text x="740" y="108" font-size="11.5" fill="#495057" font-weight="700" text-anchor="end">Aufnehmbares Volumen</text>
+<line x1="60" y1="118" x2="740" y2="118" stroke="#DEE2E6" stroke-width="1"/>
+<text x="60" y="152" font-size="14" fill="#212529" font-weight="700">Teilen</text>
+<text x="60" y="170" font-size="11" fill="#495057" font-weight="400">3 bis 14 c€/kWh</text>
+<rect x="300" y="138" width="6" height="32" rx="4" fill="#2e7d32"/>
+<text x="316" y="159" font-size="13.5" fill="#1b5e20" font-weight="700">0 €</text>
+<text x="740" y="159" font-size="12.5" fill="#212529" font-weight="400" text-anchor="end">der ganze Überschuss</text>
+<line x1="60" y1="186" x2="740" y2="186" stroke="#DEE2E6" stroke-width="1"/>
+<text x="60" y="224" font-size="14" fill="#212529" font-weight="700">Einspeisen</text>
+<text x="60" y="242" font-size="11" fill="#495057" font-weight="400">1 bis 5 c€/kWh</text>
+<rect x="300" y="210" width="6" height="32" rx="4" fill="#2e7d32"/>
+<text x="316" y="231" font-size="13.5" fill="#1b5e20" font-weight="700">0 €</text>
+<text x="740" y="231" font-size="12.5" fill="#212529" font-weight="400" text-anchor="end">der Rest</text>
+<line x1="60" y1="258" x2="740" y2="258" stroke="#DEE2E6" stroke-width="1"/>
+<text x="60" y="296" font-size="14" fill="#212529" font-weight="700">Warmwasserspeicher</text>
+<text x="60" y="314" font-size="11" fill="#495057" font-weight="400">20 bis 37 c€/kWh</text>
+<rect x="300" y="282" width="39" height="32" rx="4" fill="#2e7d32"/>
+<text x="349" y="303" font-size="13.5" fill="#1b5e20" font-weight="700">≈ 0,65 €</text>
+<text x="740" y="303" font-size="12.5" fill="#212529" font-weight="400" text-anchor="end">800 bis 1.400 kWh</text>
+<line x1="60" y1="330" x2="740" y2="330" stroke="#DEE2E6" stroke-width="1"/>
+<text x="60" y="368" font-size="14" fill="#212529" font-weight="700">Elektroauto</text>
+<text x="60" y="386" font-size="11" fill="#495057" font-weight="400">20 bis 30 c€/kWh</text>
+<rect x="300" y="354" width="131" height="32" rx="4" fill="#2e7d32"/>
+<text x="419" y="375" font-size="13.5" fill="#FFFFFF" font-weight="700" text-anchor="end">0 bis 2,17 €</text>
+<text x="740" y="375" font-size="12.5" fill="#212529" font-weight="400" text-anchor="end">300 bis 1.500 kWh</text>
+<line x1="60" y1="402" x2="740" y2="402" stroke="#DEE2E6" stroke-width="1"/>
+<text x="60" y="440" font-size="14" fill="#212529" font-weight="700">Hausbatterie</text>
+<text x="60" y="458" font-size="11" fill="#495057" font-weight="400">27 bis 34 c€/kWh</text>
+<rect x="300" y="426" width="340" height="32" rx="4" fill="#2e7d32"/>
+<text x="628" y="447" font-size="13.5" fill="#FFFFFF" font-weight="700" text-anchor="end">≈ 5,65 €</text>
+<text x="740" y="447" font-size="12.5" fill="#212529" font-weight="400" text-anchor="end">≈ 1.400 kWh</text>
+<text x="60" y="500" font-size="11.5" fill="#495057" font-weight="400">Die beiden kostenlosen Optionen bewerten die Kilowattstunde geringer: Sie ergänzen die Aufnahme vor Ort, sie ersetzen sie nicht.</text>
+<text x="60" y="534" font-size="14" fill="#212529" font-weight="700">Die rationale Ausgabenreihenfolge</text>
+<rect x="60" y="550" width="105" height="40" rx="6" fill="#2e7d32"/>
+<text x="112" y="575" font-size="11.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">1 Verschieben</text>
+<rect x="173" y="550" width="105" height="40" rx="6" fill="#2e7d32"/>
+<text x="225" y="575" font-size="11.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">2 Speicher</text>
+<rect x="286" y="550" width="105" height="40" rx="6" fill="#2e7d32"/>
+<text x="338" y="575" font-size="11.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">3 Auto</text>
+<rect x="399" y="550" width="105" height="40" rx="6" fill="#2e7d32"/>
+<text x="451" y="575" font-size="11.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">4 Teilen</text>
+<rect x="512" y="550" width="105" height="40" rx="6" fill="#2e7d32"/>
+<text x="564" y="575" font-size="11.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">5 Einspeisen</text>
+<rect x="625" y="550" width="105" height="40" rx="6" fill="#e8f5e9"/>
+<text x="677" y="575" font-size="11.5" fill="#1b5e20" font-weight="700" text-anchor="middle">6 Batterie</text>
+</g>
+</svg>
