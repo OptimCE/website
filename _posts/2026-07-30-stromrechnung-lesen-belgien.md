@@ -2,6 +2,7 @@
 layout: post
 title: "Belgische Stromrechnung Zeile für Zeile lesen"
 date: 2026-07-30 10:00:00 +0200
+last_modified_at: 2026-08-22 06:00:00 +0200
 author: "Eric, OptimCE"
 excerpt: "Sie erhalten ein Dutzend Dokumente pro Jahr, die „Rechnung“ heißen, und nur eines sagt Ihnen wirklich, was Sie schulden. Seit 2022 schreibt ein Königlicher Erlass allen belgischen Lieferanten fünf identische Abschnitte vor. Dieser Leitfaden entschlüsselt das Dokument: Abschlagsrechnung und Jahresabrechnung, EAN-Code, abgelesene oder geschätzte Zählerstände, jede Preiszeile mit ihrem tatsächlichen Empfänger, die Grundgebühr, die manche zweimal zahlen, und die je nach Zeile zuständige Ombudsstelle."
 description: "Die fünf seit 2022 vorgeschriebenen Abschnitte, Abschlag gegen Jahresabrechnung, EAN-Code, geschätzte Zählerstände: jede Zeile Ihrer Rechnung entschlüsselt."
@@ -70,7 +71,7 @@ Sein Artikel 14 schreibt für Haushaltskunden fünf benannte Abschnitte vor:
 
 Erklärtes Ziel war die Darstellung auf **zwei Seiten**: Die Informationen sind vereinfacht und auf nur zwei Seiten dargestellt ([UVCW](https://www.uvcw.be/energie/actus/art-7031)). Die Berechnungsdetails selbst wandern in einen Anhang — jenes Dokument, das die meisten nie ansehen, und genau jenes, das die Zeilen enthält.
 
-Daraus folgen zwei Gewohnheiten. Erstens: **Abschnitt A enthält Ihr Vertragsende.** Das ist die lohnendste Einzelinformation der ganzen Rechnung, denn sie sagt Ihnen, wann Sie vergleichen sollten. Zweitens: Fehlen diese Abschnitte, ist die Rechnung nicht konform — und darauf können Sie sich berufen.
+Daraus folgen zwei Gewohnheiten. Erstens: **Abschnitt A enthält Ihr Vertragsende.** Das ist die lohnendste Einzelinformation der ganzen Rechnung, denn sie sagt Ihnen, wann Sie vergleichen sollten. Zweitens: Fehlen diese Abschnitte, ist die Rechnung nicht konform — und darauf können Sie sich berufen. **Abschnitt E** wiederum weist den Energiemix des Produkts aus, ohne ein Wort darüber zu verlieren, was ihn absichert: Was diese Angabe tatsächlich belegt, zerlegt [Ökostrom in Belgien: wirklich grün?](/de/aktuelles/2026/08/22/oekostrom-belgien-wirklich-gruen/).
 
 ## Der Kopfbereich: vier Zeilen, die vor dem Betrag zu prüfen sind
 

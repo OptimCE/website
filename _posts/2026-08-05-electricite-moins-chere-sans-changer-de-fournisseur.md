@@ -2,7 +2,7 @@
 layout: post
 title: "Baisser sa facture sans changer de fournisseur"
 date: 2026-08-05 04:00:00 +0200
-last_modified_at: 2026-08-11 04:00:00 +0200
+last_modified_at: 2026-08-22 06:00:00 +0200
 author: "Eric d'OptimCE"
 excerpt: "Tous les guides d'économies finissent par la même phrase : comparez, puis changez de fournisseur. Il existe pourtant un mécanisme qui fait baisser la facture sans résilier quoi que ce soit — le partage d'énergie. La question n'est pas de savoir s'il est légal : il l'est dans les trois régions. Elle est de savoir s'il est accessible chez vous, et la réponse tient dans deux chiffres : 38 communautés autorisées à Bruxelles, 8 en Wallonie."
 description: "Le partage d'énergie fait baisser la facture sans résilier son contrat. Ce qu'il rapporte vraiment, et dans quelle région il est réellement accessible."
@@ -41,7 +41,7 @@ Cet article ne réexplique pas ce qu'est une communauté d'énergie ni ce qui di
 
 Commençons par lever l'ambiguïté, parce que la formule est employée à tort et à travers dans le marketing énergétique.
 
-Le partage d'énergie est une opération **administrative et tarifaire**, pas physique. Les électrons ne changent pas de chemin : ils continuent de circuler sur le réseau public exactement comme avant. Ce qui change, c'est la comptabilité. Toutes les quinze minutes, votre gestionnaire de réseau compare ce qu'un producteur local a injecté et ce que chaque participant a prélevé au même moment, puis attribue à chacun une part de cette production selon une clé de répartition convenue à l'avance. Cette part vous est facturée au prix de la convention de partage, et non au prix de votre fournisseur.
+Le partage d'énergie est une opération **administrative et tarifaire**, pas physique. Les électrons ne changent pas de chemin : ils continuent de circuler sur le réseau public exactement comme avant. Ce qui change, c'est la comptabilité. Toutes les quinze minutes, votre gestionnaire de réseau compare ce qu'un producteur local a injecté et ce que chaque participant a prélevé au même moment, puis attribue à chacun une part de cette production selon une clé de répartition convenue à l'avance. Cette part vous est facturée au prix de la convention de partage, et non au prix de votre fournisseur. Cette distinction entre le circuit administratif et le circuit physique est exactement celle qui rend une offre « verte » invérifiable et le partage vérifiable : l'analyse est dans [« Électricité verte en Belgique : vraiment verte ? »](/actualites/2026/08/22/electricite-verte-belgique-vraiment-verte/).
 
 Trois conséquences pratiques, et elles expliquent pourquoi la promesse tient.
 

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" role="img" aria-labelledby="t d">
+<title id="t">Zwei Kreisläufe, eine Rechnung</title><desc id="d">Zwei Kreisläufe münden in dieselbe belgische Stromrechnung. Der Zertifikatskreislauf beginnt an einem norwegischen Stausee oder einem französischen Windpark, stellt je Megawattstunde einen Herkunftsnachweis aus, bewegt ihn über den AIB-Hub, der rund dreißig europäische Gebiete verbindet, zu etwa 1,25 Euro je Megawattstunde, verkauft ihn bis zu 12 Monate später weiter und entwertet ihn dann in Belgien, was 100 Prozent grün auf die Rechnung schreibt. Der Elektronenkreislauf liefert unterdessen den realen belgischen Residualmix: 18,07 Prozent erneuerbar im Jahr 2024 und 171 Gramm CO2 je Kilowattstunde im Jahr 2025. Das Energieteilen unten im Schaubild ist der einzige Fall, in dem beide Kreisläufe zusammenfallen: dieselbe Viertelstunde, dasselbe lokale Netz, Zählerdaten des Verteilnetzbetreibers.</desc>
+<rect width="800" height="620" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="60" y="44" font-size="22" fill="#212529" font-weight="700">Zwei Kreisläufe, eine Rechnung</text>
+<text x="60" y="70" font-size="13.5" fill="#495057" font-weight="400">Was zertifiziert wird und was geliefert wird, nehmen nicht denselben Weg</text>
+<line x1="60" y1="86" x2="740" y2="86" stroke="#DEE2E6" stroke-width="1"/>
+
+<text x="60" y="112" font-size="11.5" fill="#495057" font-weight="700">1 — DAS ZERTIFIKAT: WAS BEANSPRUCHT WIRD</text>
+<rect x="60" y="124" width="200" height="70" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<text x="76" y="150" font-size="13" fill="#212529" font-weight="700">Norwegischer Stausee</text>
+<text x="76" y="168" font-size="11" fill="#495057" font-weight="400">oder französischer Windpark</text>
+<text x="76" y="184" font-size="11" fill="#495057" font-weight="400">1 MWh erzeugt</text>
+<text x="270" y="165" font-size="17" fill="#495057" font-weight="400">→</text>
+<rect x="290" y="124" width="200" height="70" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<text x="306" y="150" font-size="13" fill="#212529" font-weight="700">1 Herkunftsnachweis</text>
+<text x="306" y="168" font-size="11" fill="#495057" font-weight="400">unabhängig vom Strom</text>
+<text x="306" y="184" font-size="11" fill="#495057" font-weight="400">verkauft</text>
+<text x="500" y="165" font-size="17" fill="#495057" font-weight="400">→</text>
+<rect x="520" y="124" width="220" height="70" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<text x="536" y="150" font-size="13" fill="#212529" font-weight="700">In Belgien entwertet</text>
+<text x="536" y="168" font-size="11" fill="#495057" font-weight="400">AIB-Hub, ≈ 30 Gebiete</text>
+<text x="536" y="184" font-size="11" fill="#495057" font-weight="400">≈ 1,25 €/MWh · 12 Monate gültig</text>
+
+<text x="60" y="234" font-size="11.5" fill="#495057" font-weight="700">2 — DAS ELEKTRON: WAS TATSÄCHLICH GELIEFERT WIRD</text>
+<rect x="60" y="246" width="680" height="70" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<text x="76" y="272" font-size="13" fill="#212529" font-weight="700">Das belgische Netz liefert den Residualmix</text>
+<text x="76" y="292" font-size="11.5" fill="#495057" font-weight="400">18,07 % erneuerbar im Jahr 2024 — gegenüber 49,38 % im wallonischen Liefermix ausgewiesen</text>
+<text x="76" y="308" font-size="11.5" fill="#495057" font-weight="400">171 gCO₂/kWh im Jahr 2025 (AIB)</text>
+
+<rect x="60" y="344" width="680" height="56" rx="6" fill="#F8F9FA" stroke="#DEE2E6" stroke-width="1.5"/>
+<text x="76" y="370" font-size="13" fill="#212529" font-weight="700">Auf Ihrer Rechnung: „100 % grün“</text>
+<text x="76" y="389" font-size="11.5" fill="#495057" font-weight="400">Beide Kreisläufe enden hier. Nur der erste wird kontrolliert, und nur auf Mengen.</text>
+
+<rect x="60" y="428" width="680" height="160" rx="8" fill="#e8f5e9"/>
+<text x="76" y="458" font-size="14" fill="#1b5e20" font-weight="700">3 — DAS ENERGIETEILEN: der einzige Fall, in dem beide zusammenfallen</text>
+<rect x="76" y="474" width="208" height="44" rx="6" fill="#2e7d32"/>
+<text x="180" y="501" font-size="12" fill="#FFFFFF" font-weight="700" text-anchor="middle">Dieselbe Viertelstunde</text>
+<rect x="296" y="474" width="208" height="44" rx="6" fill="#2e7d32"/>
+<text x="400" y="501" font-size="12" fill="#FFFFFF" font-weight="700" text-anchor="middle">Dasselbe lokale Netz</text>
+<rect x="516" y="474" width="208" height="44" rx="6" fill="#2e7d32"/>
+<text x="620" y="501" font-size="12" fill="#FFFFFF" font-weight="700" text-anchor="middle">Daten des Netzbetreibers</text>
+<text x="76" y="546" font-size="11.5" fill="#1b5e20" font-weight="400">Die Aufteilung wird vom Verteilnetzbetreiber aus den realen Zählern der Teilnehmer berechnet,</text>
+<text x="76" y="564" font-size="11.5" fill="#1b5e20" font-weight="400">nicht von einem Verkäufer erklärt. Der Teilnehmer kann sie mit seinem eigenen Zähler abgleichen.</text>
+</g>
+</svg>

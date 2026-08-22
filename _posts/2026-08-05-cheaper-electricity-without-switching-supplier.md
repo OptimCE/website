@@ -2,7 +2,7 @@
 layout: post
 title: "Cheaper electricity without switching supplier"
 date: 2026-08-05 04:00:00 +0200
-last_modified_at: 2026-08-11 04:00:00 +0200
+last_modified_at: 2026-08-22 06:00:00 +0200
 author: "Eric from OptimCE"
 excerpt: "Every guide to saving on electricity ends with the same sentence: compare, then switch supplier. Yet one mechanism lowers the bill without cancelling anything — energy sharing. The question is not whether it is legal: it is, in all three regions. It is whether it is available where you live, and two numbers frame the answer: 38 authorised communities in Brussels, 8 in Wallonia."
 description: "Energy sharing lowers your bill without cancelling your contract. What it is really worth, and which Belgian region can actually offer it to you."
@@ -42,7 +42,7 @@ This article does not re-explain what an energy community is, or what separates 
 
 Let us clear up the ambiguity first, because the phrase is used loosely across energy marketing.
 
-Energy sharing is an **administrative and tariff operation**, not a physical one. The electrons do not change path: they keep flowing across the public grid exactly as before. What changes is the accounting. Every fifteen minutes, your distribution system operator compares what a local producer injected with what each participant drew at that same moment, then allocates each of them a share of that output according to an allocation key agreed in advance. That share is billed to you at the price set in the sharing agreement, not at your supplier's price.
+Energy sharing is an **administrative and tariff operation**, not a physical one. The electrons do not change path: they keep flowing across the public grid exactly as before. What changes is the accounting. Every fifteen minutes, your distribution system operator compares what a local producer injected with what each participant drew at that same moment, then allocates each of them a share of that output according to an allocation key agreed in advance. That share is billed to you at the price set in the sharing agreement, not at your supplier's price. That same distinction between the administrative circuit and the physical one is exactly what makes a “green” offer unverifiable and sharing verifiable: the analysis is in [“Green electricity in Belgium: really green?”](/en/news/2026/08/22/green-electricity-belgium-really-green/).
 
 Three practical consequences, and they explain why the promise holds.
 

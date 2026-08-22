@@ -2,6 +2,7 @@
 layout: post
 title: "Elektriciteitsfactuur lezen: regel per regel"
 date: 2026-07-30 10:00:00 +0200
+last_modified_at: 2026-08-22 06:00:00 +0200
 author: "Eric van OptimCE"
 excerpt: "U ontvangt een twaalftal documenten per jaar die “factuur” heten, en slechts één daarvan zegt u werkelijk wat u verschuldigd bent. Sinds 2022 legt een koninklijk besluit alle Belgische leveranciers vijf identieke rubrieken op. Deze gids ontcijfert het document: voorschot tegenover jaarafrekening, de EAN-code, werkelijke of geschatte meterstanden, elke prijsregel met haar echte bestemmeling, de vaste vergoeding die men soms tweemaal betaalt, en welke ombudsdienst bij welke regel hoort."
 description: "De vijf sinds 2022 verplichte rubrieken, voorschot tegenover jaarafrekening, de EAN-code, geschatte standen: elke regel van uw factuur ontcijferd."
@@ -70,7 +71,7 @@ Artikel 14 legt voor huishoudelijke afnemers vijf benoemde rubrieken op:
 
 De uitgesproken doelstelling was een voorstelling op **twee bladzijden**: de informatie is vereenvoudigd en op slechts twee bladzijden gepresenteerd ([UVCW](https://www.uvcw.be/energie/actus/art-7031)). Het detail van de berekening verhuist naar een bijlage — precies het document dat de meesten nooit bekijken, en precies het document dat de regels bevat.
 
-Daaruit volgen twee gewoonten. Ten eerste: **rubriek A bevat de einddatum van uw contract.** Dat is de meest rendabele informatie van de hele factuur, want ze zegt u wanneer u moet vergelijken. Ten tweede: ontbreken die rubrieken, dan is de factuur niet conform — en daarop kunt u zich beroepen.
+Daaruit volgen twee gewoonten. Ten eerste: **rubriek A bevat de einddatum van uw contract.** Dat is de meest rendabele informatie van de hele factuur, want ze zegt u wanneer u moet vergelijken. Ten tweede: ontbreken die rubrieken, dan is de factuur niet conform — en daarop kunt u zich beroepen. **Rubriek E** toont dan weer de energiemix van het product zonder één woord over wat die schraagt: wat die vermelding werkelijk bewijst, wordt ontleed in [Groene stroom in België: echt groen?](/nl/nieuws/2026/08/22/groene-stroom-belgie-echt-groen/).
 
 ## De hoofding: vier regels na te kijken vóór u naar het bedrag kijkt
 

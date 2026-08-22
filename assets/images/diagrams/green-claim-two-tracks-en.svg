@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" role="img" aria-labelledby="t d">
+<title id="t">Two circuits, one bill</title><desc id="d">Two circuits lead to the same Belgian electricity bill. The certificate track starts at a Norwegian dam or a French wind farm, issues one guarantee of origin per megawatt-hour, moves it across the AIB hub linking around thirty European territories at roughly 1.25 euros per megawatt-hour, resells it up to 12 months later and then cancels it in Belgium, which prints 100 per cent green on the bill. Meanwhile the electron track delivers the real Belgian residual mix: 18.07 per cent renewable in 2024 and 171 grams of CO2 per kilowatt-hour in 2025. Energy sharing, at the bottom of the diagram, is the only case where both tracks coincide: same quarter-hour, same local grid, metering data from the distribution system operator.</desc>
+<rect width="800" height="620" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="60" y="44" font-size="22" fill="#212529" font-weight="700">Two circuits, one bill</text>
+<text x="60" y="70" font-size="13.5" fill="#495057" font-weight="400">What is certified and what is delivered do not take the same route</text>
+<line x1="60" y1="86" x2="740" y2="86" stroke="#DEE2E6" stroke-width="1"/>
+
+<text x="60" y="112" font-size="11.5" fill="#495057" font-weight="700">1 — THE CERTIFICATE: WHAT IS CLAIMED</text>
+<rect x="60" y="124" width="200" height="70" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<text x="76" y="150" font-size="13" fill="#212529" font-weight="700">Norwegian dam</text>
+<text x="76" y="168" font-size="11" fill="#495057" font-weight="400">or French wind farm</text>
+<text x="76" y="184" font-size="11" fill="#495057" font-weight="400">1 MWh produced</text>
+<text x="270" y="165" font-size="17" fill="#495057" font-weight="400">→</text>
+<rect x="290" y="124" width="200" height="70" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<text x="306" y="150" font-size="13" fill="#212529" font-weight="700">1 guarantee of origin</text>
+<text x="306" y="168" font-size="11" fill="#495057" font-weight="400">sold independently</text>
+<text x="306" y="184" font-size="11" fill="#495057" font-weight="400">of the electricity</text>
+<text x="500" y="165" font-size="17" fill="#495057" font-weight="400">→</text>
+<rect x="520" y="124" width="220" height="70" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<text x="536" y="150" font-size="13" fill="#212529" font-weight="700">Cancelled in Belgium</text>
+<text x="536" y="168" font-size="11" fill="#495057" font-weight="400">AIB hub, ≈ 30 territories</text>
+<text x="536" y="184" font-size="11" fill="#495057" font-weight="400">≈ €1.25/MWh · valid 12 months</text>
+
+<text x="60" y="234" font-size="11.5" fill="#495057" font-weight="700">2 — THE ELECTRON: WHAT IS ACTUALLY DELIVERED</text>
+<rect x="60" y="246" width="680" height="70" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<text x="76" y="272" font-size="13" fill="#212529" font-weight="700">The Belgian grid delivers the residual mix</text>
+<text x="76" y="292" font-size="11.5" fill="#495057" font-weight="400">18.07 % renewable in 2024 — against 49.38 % declared in the Walloon supply mix</text>
+<text x="76" y="308" font-size="11.5" fill="#495057" font-weight="400">171 gCO₂/kWh in 2025 (AIB)</text>
+
+<rect x="60" y="344" width="680" height="56" rx="6" fill="#F8F9FA" stroke="#DEE2E6" stroke-width="1.5"/>
+<text x="76" y="370" font-size="13" fill="#212529" font-weight="700">On your bill: “100 % green”</text>
+<text x="76" y="389" font-size="11.5" fill="#495057" font-weight="400">Both circuits end here. Only the first one is checked, and only on quantities.</text>
+
+<rect x="60" y="428" width="680" height="160" rx="8" fill="#e8f5e9"/>
+<text x="76" y="458" font-size="14" fill="#1b5e20" font-weight="700">3 — ENERGY SHARING: the only case where both circuits coincide</text>
+<rect x="76" y="474" width="208" height="44" rx="6" fill="#2e7d32"/>
+<text x="180" y="501" font-size="12" fill="#FFFFFF" font-weight="700" text-anchor="middle">Same quarter-hour</text>
+<rect x="296" y="474" width="208" height="44" rx="6" fill="#2e7d32"/>
+<text x="400" y="501" font-size="12" fill="#FFFFFF" font-weight="700" text-anchor="middle">Same local grid</text>
+<rect x="516" y="474" width="208" height="44" rx="6" fill="#2e7d32"/>
+<text x="620" y="501" font-size="12" fill="#FFFFFF" font-weight="700" text-anchor="middle">DSO metering data</text>
+<text x="76" y="546" font-size="11.5" fill="#1b5e20" font-weight="400">The allocation is calculated by the distribution system operator from the participants' real meters,</text>
+<text x="76" y="564" font-size="11.5" fill="#1b5e20" font-weight="400">not declared by a seller. A participant can cross-check it against their own meter.</text>
+</g>
+</svg>

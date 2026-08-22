@@ -880,6 +880,26 @@
     de: ["Energielieferant"]
     nl: ["energieleverancier"]
 
+- slug: garantie-d-origine
+  categorie: reglementaire
+  tags: [tracabilite, fournisseur, renouvelable]
+  source_nom: "SPW Énergie"
+  source_url: "https://energie.wallonie.be/home/les-marches-et-les-acteurs/le-marche-des-garanties-d-origine/garanties-d-origine-de-l-electricite-et-du-gaz.html"
+  terme:
+    fr: "Garantie d'origine"
+    en: "Guarantee of origin"
+    de: "Herkunftsnachweis"
+    nl: "Garantie van oorsprong"
+  definition:
+    fr: "Certificat électronique attestant qu'un mégawattheure d'électricité renouvelable a été produit quelque part dans l'Espace économique européen. Il se vend indépendamment de l'électricité, reste valable douze mois et circule entre pays : il prouve une production, pas une livraison."
+    en: "An electronic certificate attesting that one megawatt-hour of renewable electricity was produced somewhere in the European Economic Area. It is sold independently of the electricity, stays valid for twelve months and travels between countries: it proves production, not delivery."
+    de: "Elektronisches Zertifikat, das belegt, dass irgendwo im Europäischen Wirtschaftsraum eine Megawattstunde erneuerbaren Stroms erzeugt wurde. Es wird unabhängig vom Strom verkauft, bleibt zwölf Monate gültig und zirkuliert zwischen Ländern: Es belegt eine Erzeugung, keine Lieferung."
+    nl: "Elektronisch certificaat dat aantoont dat ergens in de Europese Economische Ruimte één megawattuur hernieuwbare stroom is geproduceerd. Het wordt los van de elektriciteit verkocht, blijft twaalf maanden geldig en circuleert tussen landen: het bewijst een productie, geen levering."
+  alias:
+    fr: ["garanties d'origine", "label de garantie d'origine"]
+    en: ["guarantees of origin"]
+    de: ["Herkunftsnachweise"]
+    nl: ["garanties van oorsprong"]
 - slug: gouvernance
   categorie: gouvernance
   tags: [organisation, regles, communaute]
@@ -922,6 +942,26 @@
     de: ["Verteilernetzbetreiber", "VNB"]
     nl: ["distributienetbeheerder", "DNB"]
 
+- slug: greenwashing
+  categorie: marche
+  tags: [reglementaire, fournisseur, consommateur]
+  source_nom: "SPF Économie"
+  source_url: "https://economie.fgov.be/fr/themes/entreprises/guidance/pratiques-commerciales/rediger-des-allegations"
+  terme:
+    fr: "Greenwashing"
+    en: "Greenwashing"
+    de: "Greenwashing"
+    nl: "Greenwashing"
+  definition:
+    fr: "Pratique consistant à présenter un produit ou un service comme plus respectueux de l'environnement qu'il ne l'est. Le SPF Économie vise une allégation fausse, présentée de manière trompeuse ou qui ne peut pas être vérifiée, interdite par les articles VI.93 à VI.100 du Code de droit économique."
+    en: "Presenting a product or service as more environmentally friendly than it is. The FPS Economy targets a claim that is false, presented in a misleading way or that cannot be verified, prohibited by articles VI.93 to VI.100 of the Code of Economic Law."
+    de: "Ein Produkt oder eine Dienstleistung umweltfreundlicher darstellen, als sie ist. Der FÖD Wirtschaft zielt auf eine Aussage, die falsch ist, irreführend dargestellt wird oder nicht überprüft werden kann, verboten durch die Artikel VI.93 bis VI.100 des Wirtschaftsgesetzbuchs."
+    nl: "Een product of dienst milieuvriendelijker voorstellen dan het is. De FOD Economie viseert een claim die vals is, misleidend wordt voorgesteld of niet kan worden geverifieerd, verboden door de artikelen VI.93 tot VI.100 van het Wetboek van economisch recht."
+  alias:
+    fr: ["écoblanchiment"]
+    en: ["green washing"]
+    de: ["Grünfärberei"]
+    nl: ["groenwassen"]
 - slug: grt
   categorie: reseau
   tags: [acteur, transport, belgique]
@@ -1069,6 +1109,26 @@
     de: ["Teilnehmer"]
     nl: ["deelnemer"]
 
+- slug: mix-residuel
+  categorie: marche
+  tags: [tracabilite, fournisseur, marche]
+  source_nom: "Association of Issuing Bodies"
+  source_url: "https://www.aib-net.org/facts/european-residual-mix"
+  terme:
+    fr: "Mix résiduel"
+    en: "Residual mix"
+    de: "Residualmix"
+    nl: "Residuele mix"
+  definition:
+    fr: "Composition de l'électricité qu'aucune garantie d'origine ne revendique, une fois que tous les détenteurs ont retiré la leur. C'est le mix attribué par défaut à un client sans offre verte : 18,07 % de renouvelable en Belgique en 2024, contre 49,38 % dans le mix de fourniture wallon."
+    en: "The composition of the electricity that no guarantee of origin claims, once every holder has withdrawn theirs. It is the mix assigned by default to a customer without a green offer: 18.07 % renewable in Belgium in 2024, against 49.38 % in the Walloon supply mix."
+    de: "Zusammensetzung des Stroms, den kein Herkunftsnachweis beansprucht, nachdem alle Inhaber den ihren entnommen haben. Es ist der Mix, der einem Kunden ohne Ökostromangebot standardmäßig zugewiesen wird: 18,07 % erneuerbar in Belgien im Jahr 2024, gegenüber 49,38 % im wallonischen Liefermix."
+    nl: "Samenstelling van de elektriciteit die door geen enkele garantie van oorsprong wordt opgeëist, nadat alle houders de hunne hebben weggenomen. Het is de mix die standaard wordt toegewezen aan een klant zonder groen aanbod: 18,07 % hernieuwbaar in België in 2024, tegenover 49,38 % in de Waalse leveringsmix."
+  alias:
+    fr: ["mix résiduel belge"]
+    en: ["Belgian residual mix"]
+    de: ["belgischer Residualmix"]
+    nl: ["Belgische residuele mix"]
 - slug: notification
   categorie: reglementaire
   tags: [conformite, declaration, belgique]

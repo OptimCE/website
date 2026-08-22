@@ -2,6 +2,7 @@
 layout: post
 title: "Lire sa facture d'électricité ligne par ligne"
 date: 2026-07-30 10:00:00 +0200
+last_modified_at: 2026-08-22 06:00:00 +0200
 author: "Eric d'OptimCE"
 excerpt: "Vous recevez une douzaine de documents par an appelés « facture », et un seul vous dit vraiment ce que vous devez. Depuis 2022, un arrêté royal impose cinq sections identiques chez tous les fournisseurs belges. Ce guide décode le document : acompte et décompte annuel, code EAN, index réel ou estimé, chaque ligne de prix avec son destinataire réel, la redevance fixe qu'on paie parfois deux fois, et l'interlocuteur à saisir selon la ligne contestée."
 description: "Les cinq sections imposées depuis 2022, l'acompte face au décompte annuel, le code EAN, l'index estimé : décoder chaque ligne de sa facture."
@@ -69,7 +70,7 @@ Son article 14 impose, pour les clients résidentiels, cinq sections nommées :
 
 L'objectif affiché était de tenir sur **deux pages** : « les informations sont simplifiées et présentées sur deux pages seulement » ([UVCW](https://www.uvcw.be/energie/actus/art-7031)). Le détail du calcul, lui, est renvoyé en annexe — c'est le document que la plupart des gens ne regardent jamais, et c'est précisément celui qui contient les lignes.
 
-Deux réflexes en découlent. D'abord, **la section A contient la date de fin de votre contrat** : c'est l'information la plus rentable de toute la facture, puisqu'elle vous dit quand comparer. Ensuite, si une facture ne comporte pas ces sections, elle n'est pas conforme — la mention est opposable.
+Deux réflexes en découlent. D'abord, **la section A contient la date de fin de votre contrat** : c'est l'information la plus rentable de toute la facture, puisqu'elle vous dit quand comparer. Ensuite, si une facture ne comporte pas ces sections, elle n'est pas conforme — la mention est opposable. Quant à la **section E**, elle affiche le mix énergétique du produit sans dire un mot de ce qui le garantit : ce que cette mention prouve réellement est décortiqué dans [« Électricité verte en Belgique : vraiment verte ? »](/actualites/2026/08/22/electricite-verte-belgique-vraiment-verte/).
 
 ## L'en-tête : quatre lignes à vérifier avant même de regarder le montant
 

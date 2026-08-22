@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" role="img" aria-labelledby="t d">
+<title id="t">Twee circuits, één factuur</title><desc id="d">Twee circuits monden uit in dezelfde Belgische elektriciteitsfactuur. Het certificaatcircuit vertrekt bij een Noorse stuwdam of een Frans windpark, geeft per megawattuur een garantie van oorsprong uit, laat die circuleren over de AIB-hub die een dertigtal Europese gebieden verbindt tegen ongeveer 1,25 euro per megawattuur, verkoopt ze tot 12 maanden later door en schrapt ze dan in België, wat 100 procent groen op de factuur zet. Het elektronencircuit levert intussen de reële Belgische residuele mix: 18,07 procent hernieuwbaar in 2024 en 171 gram CO2 per kilowattuur in 2025. Energiedelen, onderaan het schema, is het enige geval waarin beide circuits samenvallen: hetzelfde kwartier, hetzelfde lokale net, meetgegevens van de distributienetbeheerder.</desc>
+<rect width="800" height="620" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="60" y="44" font-size="22" fill="#212529" font-weight="700">Twee circuits, één factuur</text>
+<text x="60" y="70" font-size="13.5" fill="#495057" font-weight="400">Wat gecertificeerd wordt en wat geleverd wordt, volgen niet dezelfde weg</text>
+<line x1="60" y1="86" x2="740" y2="86" stroke="#DEE2E6" stroke-width="1"/>
+
+<text x="60" y="112" font-size="11.5" fill="#495057" font-weight="700">1 — HET CERTIFICAAT: WAT WORDT OPGEËIST</text>
+<rect x="60" y="124" width="200" height="70" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<text x="76" y="150" font-size="13" fill="#212529" font-weight="700">Noorse stuwdam</text>
+<text x="76" y="168" font-size="11" fill="#495057" font-weight="400">of Frans windpark</text>
+<text x="76" y="184" font-size="11" fill="#495057" font-weight="400">1 MWh geproduceerd</text>
+<text x="270" y="165" font-size="17" fill="#495057" font-weight="400">→</text>
+<rect x="290" y="124" width="200" height="70" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<text x="306" y="150" font-size="13" fill="#212529" font-weight="700">1 garantie van oorsprong</text>
+<text x="306" y="168" font-size="11" fill="#495057" font-weight="400">los van de elektriciteit</text>
+<text x="306" y="184" font-size="11" fill="#495057" font-weight="400">verkocht</text>
+<text x="500" y="165" font-size="17" fill="#495057" font-weight="400">→</text>
+<rect x="520" y="124" width="220" height="70" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<text x="536" y="150" font-size="13" fill="#212529" font-weight="700">Geschrapt in België</text>
+<text x="536" y="168" font-size="11" fill="#495057" font-weight="400">AIB-hub, ≈ 30 gebieden</text>
+<text x="536" y="184" font-size="11" fill="#495057" font-weight="400">≈ 1,25 €/MWh · 12 maanden geldig</text>
+
+<text x="60" y="234" font-size="11.5" fill="#495057" font-weight="700">2 — HET ELEKTRON: WAT WERKELIJK WORDT GELEVERD</text>
+<rect x="60" y="246" width="680" height="70" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<text x="76" y="272" font-size="13" fill="#212529" font-weight="700">Het Belgische net levert de residuele mix</text>
+<text x="76" y="292" font-size="11.5" fill="#495057" font-weight="400">18,07 % hernieuwbaar in 2024 — tegenover 49,38 % opgegeven in de Waalse leveringsmix</text>
+<text x="76" y="308" font-size="11.5" fill="#495057" font-weight="400">171 gCO₂/kWh in 2025 (AIB)</text>
+
+<rect x="60" y="344" width="680" height="56" rx="6" fill="#F8F9FA" stroke="#DEE2E6" stroke-width="1.5"/>
+<text x="76" y="370" font-size="13" fill="#212529" font-weight="700">Op uw factuur: “100 % groen”</text>
+<text x="76" y="389" font-size="11.5" fill="#495057" font-weight="400">Beide circuits eindigen hier. Alleen het eerste wordt gecontroleerd, en enkel op hoeveelheden.</text>
+
+<rect x="60" y="428" width="680" height="160" rx="8" fill="#e8f5e9"/>
+<text x="76" y="458" font-size="14" fill="#1b5e20" font-weight="700">3 — ENERGIEDELEN: het enige geval waarin beide circuits samenvallen</text>
+<rect x="76" y="474" width="208" height="44" rx="6" fill="#2e7d32"/>
+<text x="180" y="501" font-size="12" fill="#FFFFFF" font-weight="700" text-anchor="middle">Hetzelfde kwartier</text>
+<rect x="296" y="474" width="208" height="44" rx="6" fill="#2e7d32"/>
+<text x="400" y="501" font-size="12" fill="#FFFFFF" font-weight="700" text-anchor="middle">Hetzelfde lokale net</text>
+<rect x="516" y="474" width="208" height="44" rx="6" fill="#2e7d32"/>
+<text x="620" y="501" font-size="12" fill="#FFFFFF" font-weight="700" text-anchor="middle">Meetgegevens van de DNB</text>
+<text x="76" y="546" font-size="11.5" fill="#1b5e20" font-weight="400">De verdeling wordt berekend door de distributienetbeheerder uit de reële meters van de deelnemers,</text>
+<text x="76" y="564" font-size="11.5" fill="#1b5e20" font-weight="400">niet verklaard door een verkoper. De deelnemer kan ze naast zijn eigen meter leggen.</text>
+</g>
+</svg>

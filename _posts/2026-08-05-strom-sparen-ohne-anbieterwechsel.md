@@ -2,7 +2,7 @@
 layout: post
 title: "Strom sparen ohne Anbieterwechsel"
 date: 2026-08-05 04:00:00 +0200
-last_modified_at: 2026-08-11 04:00:00 +0200
+last_modified_at: 2026-08-22 06:00:00 +0200
 author: "Eric, OptimCE"
 excerpt: "Jeder Ratgeber zum Stromsparen endet mit demselben Satz: vergleichen und dann den Anbieter wechseln. Dabei gibt es einen Mechanismus, der die Rechnung senkt, ohne dass Sie irgendetwas kündigen müssen — die Energieteilung. Die Frage ist nicht, ob sie legal ist: das ist sie in allen drei Regionen. Die Frage ist, ob sie dort verfügbar ist, wo Sie wohnen, und zwei Zahlen umreißen die Antwort: 38 genehmigte Gemeinschaften in Brüssel, 8 in der Wallonie."
 description: "Energieteilung senkt Ihre Stromrechnung, ohne den Vertrag zu kündigen. Was sie wirklich bringt und in welcher Region sie tatsächlich verfügbar ist."
@@ -42,7 +42,7 @@ Dieser Artikel erklärt nicht erneut, was eine Energiegemeinschaft ist oder was 
 
 Räumen wir zunächst die Mehrdeutigkeit aus, denn die Formulierung wird im Energiemarketing recht großzügig verwendet.
 
-Die Energieteilung ist ein **administrativer und tariflicher Vorgang**, kein physikalischer. Die Elektronen ändern ihren Weg nicht: Sie fließen weiterhin genau wie zuvor über das öffentliche Netz. Was sich ändert, ist die Verrechnung. Alle fünfzehn Minuten vergleicht Ihr Verteilnetzbetreiber, was ein lokaler Erzeuger eingespeist und was jeder Teilnehmer im selben Moment entnommen hat, und weist jedem einen Anteil dieser Erzeugung nach einem vorab vereinbarten Aufteilungsschlüssel zu. Dieser Anteil wird Ihnen zum Preis der Teilungsvereinbarung abgerechnet, nicht zum Preis Ihres Lieferanten.
+Die Energieteilung ist ein **administrativer und tariflicher Vorgang**, kein physikalischer. Die Elektronen ändern ihren Weg nicht: Sie fließen weiterhin genau wie zuvor über das öffentliche Netz. Was sich ändert, ist die Verrechnung. Alle fünfzehn Minuten vergleicht Ihr Verteilnetzbetreiber, was ein lokaler Erzeuger eingespeist und was jeder Teilnehmer im selben Moment entnommen hat, und weist jedem einen Anteil dieser Erzeugung nach einem vorab vereinbarten Aufteilungsschlüssel zu. Dieser Anteil wird Ihnen zum Preis der Teilungsvereinbarung abgerechnet, nicht zum Preis Ihres Lieferanten. Genau diese Unterscheidung zwischen administrativem und physikalischem Kreislauf macht ein „grünes“ Angebot unüberprüfbar und das Teilen überprüfbar: Die Analyse steht in [Ökostrom in Belgien: wirklich grün?](/de/aktuelles/2026/08/22/oekostrom-belgien-wirklich-gruen/).
 
 Drei praktische Folgen, und sie erklären, warum das Versprechen hält.
 

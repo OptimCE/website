@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" role="img" aria-labelledby="t d">
+<title id="t">Deux circuits, une seule facture</title><desc id="d">Deux circuits aboutissent à la même facture d'électricité en Belgique. Le circuit du certificat part d'un barrage norvégien ou d'un parc français, émet une garantie d'origine pour chaque mégawattheure, la fait circuler sur le hub AIB qui relie une trentaine de territoires européens à environ 1,25 euro le mégawattheure, la revend jusqu'à 12 mois plus tard puis l'annule en Belgique, ce qui inscrit 100 pour cent vert sur la facture. Le circuit de l'électron livre pendant ce temps le mix résiduel belge réel, soit 18,07 pour cent de renouvelable en 2024 et 171 grammes de CO2 par kilowattheure en 2025. Le partage d'énergie, en bas du schéma, est le seul cas où les deux circuits coïncident : même quart d'heure, même réseau local, données de comptage du gestionnaire de réseau.</desc>
+<rect width="800" height="620" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="60" y="44" font-size="22" fill="#212529" font-weight="700">Deux circuits, une seule facture</text>
+<text x="60" y="70" font-size="13.5" fill="#495057" font-weight="400">Ce qui est certifié et ce qui est livré ne suivent pas le même chemin</text>
+<line x1="60" y1="86" x2="740" y2="86" stroke="#DEE2E6" stroke-width="1"/>
+
+<text x="60" y="112" font-size="11.5" fill="#495057" font-weight="700">1 — LE CERTIFICAT : CE QUI EST REVENDIQUÉ</text>
+<rect x="60" y="124" width="200" height="70" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<text x="76" y="150" font-size="13" fill="#212529" font-weight="700">Barrage norvégien</text>
+<text x="76" y="168" font-size="11" fill="#495057" font-weight="400">ou parc éolien français</text>
+<text x="76" y="184" font-size="11" fill="#495057" font-weight="400">1 MWh produit</text>
+<text x="270" y="165" font-size="17" fill="#495057" font-weight="400">→</text>
+<rect x="290" y="124" width="200" height="70" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<text x="306" y="150" font-size="13" fill="#212529" font-weight="700">1 garantie d'origine</text>
+<text x="306" y="168" font-size="11" fill="#495057" font-weight="400">vendue indépendamment</text>
+<text x="306" y="184" font-size="11" fill="#495057" font-weight="400">de l'électricité</text>
+<text x="500" y="165" font-size="17" fill="#495057" font-weight="400">→</text>
+<rect x="520" y="124" width="220" height="70" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<text x="536" y="150" font-size="13" fill="#212529" font-weight="700">Annulée en Belgique</text>
+<text x="536" y="168" font-size="11" fill="#495057" font-weight="400">hub AIB, ≈ 30 territoires</text>
+<text x="536" y="184" font-size="11" fill="#495057" font-weight="400">≈ 1,25 €/MWh · valable 12 mois</text>
+
+<text x="60" y="234" font-size="11.5" fill="#495057" font-weight="700">2 — L'ÉLECTRON : CE QUI EST RÉELLEMENT LIVRÉ</text>
+<rect x="60" y="246" width="680" height="70" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<text x="76" y="272" font-size="13" fill="#212529" font-weight="700">Le réseau belge livre le mix résiduel</text>
+<text x="76" y="292" font-size="11.5" fill="#495057" font-weight="400">18,07 % de renouvelable en 2024 — contre 49,38 % annoncés dans le mix de fourniture wallon</text>
+<text x="76" y="308" font-size="11.5" fill="#495057" font-weight="400">171 gCO₂/kWh en 2025 (AIB)</text>
+
+<rect x="60" y="344" width="680" height="56" rx="6" fill="#F8F9FA" stroke="#DEE2E6" stroke-width="1.5"/>
+<text x="76" y="370" font-size="13" fill="#212529" font-weight="700">Sur votre facture : « 100 % vert »</text>
+<text x="76" y="389" font-size="11.5" fill="#495057" font-weight="400">Les deux circuits aboutissent ici. Seul le premier est contrôlé, et seulement sur les quantités.</text>
+
+<rect x="60" y="428" width="680" height="160" rx="8" fill="#e8f5e9"/>
+<text x="76" y="458" font-size="14" fill="#1b5e20" font-weight="700">3 — LE PARTAGE D'ÉNERGIE : le seul cas où les deux circuits coïncident</text>
+<rect x="76" y="474" width="208" height="44" rx="6" fill="#2e7d32"/>
+<text x="180" y="501" font-size="12" fill="#FFFFFF" font-weight="700" text-anchor="middle">Même quart d'heure</text>
+<rect x="296" y="474" width="208" height="44" rx="6" fill="#2e7d32"/>
+<text x="400" y="501" font-size="12" fill="#FFFFFF" font-weight="700" text-anchor="middle">Même réseau local</text>
+<rect x="516" y="474" width="208" height="44" rx="6" fill="#2e7d32"/>
+<text x="620" y="501" font-size="12" fill="#FFFFFF" font-weight="700" text-anchor="middle">Données du GRD</text>
+<text x="76" y="546" font-size="11.5" fill="#1b5e20" font-weight="400">La répartition est calculée par le gestionnaire de réseau à partir des compteurs réels des participants,</text>
+<text x="76" y="564" font-size="11.5" fill="#1b5e20" font-weight="400">pas déclarée par un vendeur. Le participant peut la recouper avec son propre compteur.</text>
+</g>
+</svg>

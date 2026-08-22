@@ -2,6 +2,7 @@
 layout: post
 title: "Read your Belgian electricity bill line by line"
 date: 2026-07-30 10:00:00 +0200
+last_modified_at: 2026-08-22 06:00:00 +0200
 author: "Eric from OptimCE"
 excerpt: "You receive a dozen documents a year called an invoice, and only one of them actually tells you what you owe. Since 2022, a royal decree has imposed five identical sections on every Belgian supplier. This guide decodes the document: instalments versus the annual statement, the EAN code, actual versus estimated meter readings, every price line with its real recipient, the standing charge people sometimes pay twice, and which ombudsman to contact for which line."
 description: "The five sections mandated since 2022, instalments versus the annual statement, the EAN code, estimated readings: decode every line of your bill."
@@ -70,7 +71,7 @@ Its article 14 requires five named sections for residential customers:
 
 The stated aim was to fit on **two pages**: the information is simplified and presented on two pages only ([UVCW](https://www.uvcw.be/energie/actus/art-7031)). The calculation detail itself is moved to an annex — the document most people never look at, and precisely the one that contains the lines.
 
-Two habits follow. First, **section A contains your contract end date**: it is the most profitable single piece of information on the whole bill, because it tells you when to compare. Second, if a bill does not carry these sections, it is not compliant — and you can say so.
+Two habits follow. First, **section A contains your contract end date**: it is the most profitable single piece of information on the whole bill, because it tells you when to compare. Second, if a bill does not carry these sections, it is not compliant — and you can say so. As for **section E**, it displays the product energy mix without a word about what backs it: what that line actually proves is taken apart in [“Green electricity in Belgium: really green?”](/en/news/2026/08/22/green-electricity-belgium-really-green/).
 
 ## The header: four lines to check before you even look at the amount
 

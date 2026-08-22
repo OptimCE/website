@@ -2,7 +2,7 @@
 layout: post
 title: "Goedkopere stroom zonder leverancierswissel"
 date: 2026-08-05 04:00:00 +0200
-last_modified_at: 2026-08-11 04:00:00 +0200
+last_modified_at: 2026-08-22 06:00:00 +0200
 author: "Eric van OptimCE"
 excerpt: "Elke gids over besparen op elektriciteit eindigt met dezelfde zin: vergelijk en verander dan van leverancier. Toch bestaat er een mechanisme dat uw factuur verlaagt zonder dat u iets moet opzeggen — energiedelen. De vraag is niet of het legaal is: dat is het in alle drie de gewesten. De vraag is of het beschikbaar is waar u woont, en twee cijfers schetsen het antwoord: 38 vergunde gemeenschappen in Brussel, 8 in Wallonië."
 description: "Energiedelen verlaagt uw factuur zonder uw contract op te zeggen. Wat het echt oplevert en in welk gewest het werkelijk beschikbaar is."
@@ -42,7 +42,7 @@ Dit artikel legt niet opnieuw uit wat een energiegemeenschap is, noch wat een HE
 
 Laten we eerst de dubbelzinnigheid wegnemen, want de formulering wordt in de energiemarketing te pas en te onpas gebruikt.
 
-Energiedelen is een **administratieve en tarifaire verrichting**, geen fysieke. De elektronen veranderen niet van weg: ze blijven precies zoals voorheen over het openbare net stromen. Wat verandert, is de boekhouding. Om de vijftien minuten vergelijkt uw distributienetbeheerder wat een lokale producent heeft geïnjecteerd met wat elke deelnemer op datzelfde ogenblik heeft afgenomen, en kent hij elk van hen een deel van die productie toe volgens een vooraf afgesproken verdeelsleutel. Dat deel wordt u aangerekend tegen de prijs van de deelovereenkomst, en niet tegen de prijs van uw leverancier.
+Energiedelen is een **administratieve en tarifaire verrichting**, geen fysieke. De elektronen veranderen niet van weg: ze blijven precies zoals voorheen over het openbare net stromen. Wat verandert, is de boekhouding. Om de vijftien minuten vergelijkt uw distributienetbeheerder wat een lokale producent heeft geïnjecteerd met wat elke deelnemer op datzelfde ogenblik heeft afgenomen, en kent hij elk van hen een deel van die productie toe volgens een vooraf afgesproken verdeelsleutel. Dat deel wordt u aangerekend tegen de prijs van de deelovereenkomst, en niet tegen de prijs van uw leverancier. Precies dat onderscheid tussen het administratieve en het fysieke circuit maakt een “groen” aanbod oncontroleerbaar en het delen controleerbaar: de analyse staat in [Groene stroom in België: echt groen?](/nl/nieuws/2026/08/22/groene-stroom-belgie-echt-groen/).
 
 Drie praktische gevolgen, en ze verklaren waarom de belofte standhoudt.
 
