@@ -2,6 +2,7 @@
 layout: post
 title: "Électricité verte en Belgique : vraiment verte ?"
 date: 2026-08-22 06:00:00 +0200
+last_modified_at: 2026-08-25 06:00:00 +0200
 author: "Eric d'OptimCE"
 excerpt: "En 2024, les fournisseurs actifs en Wallonie ont déclaré un mix de fourniture à 49,38 % renouvelable. La même année, le mix résiduel belge — ce qui reste une fois que toutes les garanties d'origine ont été revendiquées par quelqu'un — pesait 18,07 % de renouvelable. Les deux chiffres sont exacts, officiels, publiés par les régulateurs. L'écart n'est pas une fraude : c'est le système qui fonctionne exactement comme il a été conçu. Voici ce qu'une garantie d'origine prouve réellement, ce qu'elle ne prouve pas, ce qui change le 27 septembre 2026, et comment vérifier votre propre fourniture."
 description: "Garanties d'origine, mix résiduel, greenwashing : ce que prouve vraiment une offre « verte » en Belgique, et comment le vérifier vous-même."
@@ -201,6 +202,8 @@ La cinquième question est la plus discriminante, et c'est celle que la méthodo
 ## Le partage d'énergie : le seul circuit court vérifiable en droit belge
 
 Il existe en droit belge un mécanisme où la revendication verte n'est pas déclarative mais **calculée**. Ce n'est pas une offre commerciale, c'est un dispositif réglementaire : le partage d'énergie.
+
+La façon dont un tel circuit court se compose concrètement — qui recruter, dans quel ordre, et pourquoi il se construit par horaire plutôt que par affinité — fait l'objet de [« Électricité en circuit court : le mode d'emploi »](/actualites/2026/08/25/electricite-circuit-court-mode-emploi/).
 
 ### La définition contient déjà la réponse
 

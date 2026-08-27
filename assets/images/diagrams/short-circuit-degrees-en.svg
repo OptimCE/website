@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 640" width="800" height="640" role="img" aria-labelledby="t d">
+<title id="t">The four degrees of the short circuit, from plate to meter</title><desc id="d">Comparison of the four degrees of the food short supply chain and their electrical equivalents in Wallonia in 2026. Direct farm-gate sales, with no intermediary at all, correspond to peer-to-peer sharing, legally impossible in Wallonia for want of an implementing order. The collective rooftop garden of an apartment block corresponds to sharing within a single building, possible on simple notification and carrying a reduction of 80 per cent on the proportional terms of the network tariff since 1 January 2025. The common purchasing group corresponds to the renewable or citizen energy community, which requires a legal entity and a CWaPE authorisation, thirteen communities being notified in August 2026 for roughly 126 participants. The cooperative shop corresponds to the citizen cooperative and its supplier Cociter, a mature sector gathering twenty cooperatives and 23,000 members at the end of 2024. At the bottom of the diagram, a band shows the decisive difference: on the food side the fridge absorbs the gap between delivery and consumption, on the energy side there is no carry-over from one quarter hour to the next.</desc>
+<rect width="800" height="640" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="60" y="44" font-size="21" fill="#212529" font-weight="700">The four degrees of the short circuit, from plate to meter</text>
+<text x="60" y="70" font-size="13" fill="#495057" font-weight="400">What each degree removes as an intermediary — and what survives in Wallonia</text>
+<text x="60" y="110" font-size="11.5" fill="#495057" font-weight="700">Food short supply chain</text>
+<text x="306" y="110" font-size="11.5" fill="#495057" font-weight="700">Electrical equivalent</text>
+<text x="740" y="110" font-size="11.5" fill="#495057" font-weight="700" text-anchor="end">Status in Wallonia</text>
+<line x1="60" y1="120" x2="740" y2="120" stroke="#DEE2E6" stroke-width="1"/>
+<text x="60" y="154" font-size="13.5" fill="#212529" font-weight="700">Direct farm-gate sales</text>
+<text x="60" y="173" font-size="10.5" fill="#495057" font-weight="400">zero intermediaries</text>
+<path d="M280 150 h14 m-5 -5 l5 5 l-5 5" fill="none" stroke="#2e7d32" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="306" y="154" font-size="13.5" fill="#1b5e20" font-weight="700">Peer-to-peer sharing</text>
+<text x="306" y="173" font-size="10.5" fill="#495057" font-weight="400">two meters, an agreed price</text>
+<rect x="552" y="134" width="188" height="48" rx="6" fill="#F8F9FA" stroke="#DEE2E6" stroke-width="1"/>
+<text x="646" y="154" font-size="12.5" fill="#495057" font-weight="700" text-anchor="middle">Impossible</text>
+<text x="646" y="171" font-size="10.5" fill="#6c757d" font-weight="400" text-anchor="middle">order missing</text>
+<line x1="60" y1="202" x2="740" y2="202" stroke="#DEE2E6" stroke-width="1"/>
+<text x="60" y="238" font-size="13.5" fill="#212529" font-weight="700">The building's collective garden</text>
+<text x="60" y="257" font-size="10.5" fill="#495057" font-weight="400">the occupants sort it out</text>
+<path d="M280 234 h14 m-5 -5 l5 5 l-5 5" fill="none" stroke="#2e7d32" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="306" y="238" font-size="13.5" fill="#1b5e20" font-weight="700">Sharing in a single building</text>
+<text x="306" y="257" font-size="10.5" fill="#495057" font-weight="400">notification, agreement</text>
+<rect x="552" y="218" width="188" height="48" rx="6" fill="#e8f5e9" stroke="#e8f5e9" stroke-width="1"/>
+<text x="646" y="238" font-size="12.5" fill="#1b5e20" font-weight="700" text-anchor="middle">Possible</text>
+<text x="646" y="255" font-size="10.5" fill="#2e7d32" font-weight="400" text-anchor="middle">−80 % proportional term</text>
+<line x1="60" y1="286" x2="740" y2="286" stroke="#DEE2E6" stroke-width="1"/>
+<text x="60" y="322" font-size="13.5" fill="#212529" font-weight="700">Common purchasing group</text>
+<text x="60" y="341" font-size="10.5" fill="#495057" font-weight="400">pooling, nobody takes a margin</text>
+<path d="M280 318 h14 m-5 -5 l5 5 l-5 5" fill="none" stroke="#2e7d32" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="306" y="322" font-size="13.5" fill="#1b5e20" font-weight="700">Energy community</text>
+<text x="306" y="341" font-size="10.5" fill="#495057" font-weight="400">CER or CEC, a legal entity</text>
+<rect x="552" y="302" width="188" height="48" rx="6" fill="#e8f5e9" stroke="#e8f5e9" stroke-width="1"/>
+<text x="646" y="322" font-size="12.5" fill="#1b5e20" font-weight="700" text-anchor="middle">Possible</text>
+<text x="646" y="339" font-size="10.5" fill="#2e7d32" font-weight="400" text-anchor="middle">13 communities</text>
+<line x1="60" y1="370" x2="740" y2="370" stroke="#DEE2E6" stroke-width="1"/>
+<text x="60" y="406" font-size="13.5" fill="#212529" font-weight="700">Cooperative shop</text>
+<text x="60" y="425" font-size="10.5" fill="#495057" font-weight="400">one intermediary, but you own it</text>
+<path d="M280 402 h14 m-5 -5 l5 5 l-5 5" fill="none" stroke="#2e7d32" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="306" y="406" font-size="13.5" fill="#1b5e20" font-weight="700">Citizen cooperative</text>
+<text x="306" y="425" font-size="10.5" fill="#495057" font-weight="400">you switch supplier</text>
+<rect x="552" y="386" width="188" height="48" rx="6" fill="#2e7d32" stroke="#2e7d32" stroke-width="1"/>
+<text x="646" y="406" font-size="12.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">Mature</text>
+<text x="646" y="423" font-size="10.5" fill="#e8f5e9" font-weight="400" text-anchor="middle">20 cooperatives</text>
+<text x="60" y="486" font-size="11.5" fill="#495057" font-weight="400">In Wallonia, roughly 126 people actually take part in sharing. In Brussels, 1,417.</text>
+<text x="60" y="528" font-size="14" fill="#212529" font-weight="700">The difference you cannot catch up</text>
+<rect x="60" y="542" width="330" height="74" rx="6" fill="#e8f5e9" stroke="#e8f5e9" stroke-width="1"/>
+<text x="76" y="566" font-size="12.5" fill="#1b5e20" font-weight="700">Food: the fridge</text>
+<text x="76" y="586" font-size="11" fill="#495057" font-weight="400">The box delivered on Tuesday</text>
+<text x="76" y="602" font-size="11" fill="#495057" font-weight="400">is eaten on Thursday.</text>
+<rect x="410" y="542" width="330" height="74" rx="6" fill="#F8F9FA" stroke="#DEE2E6" stroke-width="1"/>
+<text x="426" y="566" font-size="12.5" fill="#212529" font-weight="700">Energy: no carry-over</text>
+<text x="426" y="586" font-size="11" fill="#495057" font-weight="400">Not consumed in the same quarter hour,</text>
+<text x="426" y="602" font-size="11" fill="#495057" font-weight="400">the kilowatt-hour falls back to injection.</text>
+</g></svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 640" width="800" height="640" role="img" aria-labelledby="t d">
+<title id="t">Die vier Stufen des kurzen Wegs, vom Teller zum Zähler</title><desc id="d">Vergleich der vier Stufen des kurzen Wegs bei Lebensmitteln und ihrer strombezogenen Entsprechungen in Wallonien im Jahr 2026. Der Direktverkauf ab Hof ohne jeden Zwischenhändler entspricht der Peer-to-Peer-Teilung, die in Wallonien mangels Durchführungserlass rechtlich unmöglich ist. Der gemeinschaftliche Garten eines Wohnhauses entspricht der Teilung innerhalb desselben Gebäudes, die auf einfache Meldung möglich ist und seit dem 1. Januar 2025 eine Ermäßigung von 80 Prozent auf die proportionalen Bestandteile des Netztarifs mit sich bringt. Die gemeinsame Einkaufsgruppe entspricht der erneuerbaren oder Bürgerenergiegemeinschaft, die eine juristische Person und eine Genehmigung der CWaPE erfordert, wobei im August 2026 dreizehn Gemeinschaften mit rund 126 Teilnehmenden gemeldet waren. Der Genossenschaftsladen entspricht der Bürgergenossenschaft und ihrem Anbieter Cociter, einer reifen Branche, die Ende 2024 zwanzig Genossenschaften und 23 000 Mitglieder umfasste. Unten im Schaubild zeigt ein Band den entscheidenden Unterschied: Auf der Lebensmittelseite fängt der Kühlschrank die Verzögerung zwischen Lieferung und Verbrauch auf, auf der Energieseite gibt es keine Übertragung von einer Viertelstunde auf die nächste.</desc>
+<rect width="800" height="640" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="60" y="44" font-size="21" fill="#212529" font-weight="700">Die vier Stufen des kurzen Wegs, vom Teller zum Zähler</text>
+<text x="60" y="70" font-size="13" fill="#495057" font-weight="400">Was jede Stufe an Zwischenhändlern entfernt — und was davon in Wallonien bleibt</text>
+<text x="60" y="110" font-size="11.5" fill="#495057" font-weight="700">Kurzer Weg bei Lebensmitteln</text>
+<text x="306" y="110" font-size="11.5" fill="#495057" font-weight="700">Entsprechung beim Strom</text>
+<text x="740" y="110" font-size="11.5" fill="#495057" font-weight="700" text-anchor="end">Stand in Wallonien</text>
+<line x1="60" y1="120" x2="740" y2="120" stroke="#DEE2E6" stroke-width="1"/>
+<text x="60" y="154" font-size="13.5" fill="#212529" font-weight="700">Direktverkauf ab Hof</text>
+<text x="60" y="173" font-size="10.5" fill="#495057" font-weight="400">null Zwischenhändler</text>
+<path d="M280 150 h14 m-5 -5 l5 5 l-5 5" fill="none" stroke="#2e7d32" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="306" y="154" font-size="13.5" fill="#1b5e20" font-weight="700">Peer-to-Peer-Teilung</text>
+<text x="306" y="173" font-size="10.5" fill="#495057" font-weight="400">zwei Zähler, ein Preis</text>
+<rect x="552" y="134" width="188" height="48" rx="6" fill="#F8F9FA" stroke="#DEE2E6" stroke-width="1"/>
+<text x="646" y="154" font-size="12.5" fill="#495057" font-weight="700" text-anchor="middle">Unmöglich</text>
+<text x="646" y="171" font-size="10.5" fill="#6c757d" font-weight="400" text-anchor="middle">Erlass fehlt</text>
+<line x1="60" y1="202" x2="740" y2="202" stroke="#DEE2E6" stroke-width="1"/>
+<text x="60" y="238" font-size="13.5" fill="#212529" font-weight="700">Gemeinschaftsgarten des Hauses</text>
+<text x="60" y="257" font-size="10.5" fill="#495057" font-weight="400">die Bewohner einigen sich</text>
+<path d="M280 234 h14 m-5 -5 l5 5 l-5 5" fill="none" stroke="#2e7d32" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="306" y="238" font-size="13.5" fill="#1b5e20" font-weight="700">Teilung im selben Gebäude</text>
+<text x="306" y="257" font-size="10.5" fill="#495057" font-weight="400">Meldung, Vereinbarung</text>
+<rect x="552" y="218" width="188" height="48" rx="6" fill="#e8f5e9" stroke="#e8f5e9" stroke-width="1"/>
+<text x="646" y="238" font-size="12.5" fill="#1b5e20" font-weight="700" text-anchor="middle">Möglich</text>
+<text x="646" y="255" font-size="10.5" fill="#2e7d32" font-weight="400" text-anchor="middle">−80 % prop. Bestandteil</text>
+<line x1="60" y1="286" x2="740" y2="286" stroke="#DEE2E6" stroke-width="1"/>
+<text x="60" y="322" font-size="13.5" fill="#212529" font-weight="700">Gemeinsame Einkaufsgruppe</text>
+<text x="60" y="341" font-size="10.5" fill="#495057" font-weight="400">bündeln, niemand nimmt Marge</text>
+<path d="M280 318 h14 m-5 -5 l5 5 l-5 5" fill="none" stroke="#2e7d32" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="306" y="322" font-size="13.5" fill="#1b5e20" font-weight="700">Energiegemeinschaft</text>
+<text x="306" y="341" font-size="10.5" fill="#495057" font-weight="400">CER oder CEC, juristische Person</text>
+<rect x="552" y="302" width="188" height="48" rx="6" fill="#e8f5e9" stroke="#e8f5e9" stroke-width="1"/>
+<text x="646" y="322" font-size="12.5" fill="#1b5e20" font-weight="700" text-anchor="middle">Möglich</text>
+<text x="646" y="339" font-size="10.5" fill="#2e7d32" font-weight="400" text-anchor="middle">13 Gemeinschaften</text>
+<line x1="60" y1="370" x2="740" y2="370" stroke="#DEE2E6" stroke-width="1"/>
+<text x="60" y="406" font-size="13.5" fill="#212529" font-weight="700">Genossenschaftsladen</text>
+<text x="60" y="425" font-size="10.5" fill="#495057" font-weight="400">ein Zwischenhändler, doch Ihrer</text>
+<path d="M280 402 h14 m-5 -5 l5 5 l-5 5" fill="none" stroke="#2e7d32" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="306" y="406" font-size="13.5" fill="#1b5e20" font-weight="700">Bürgergenossenschaft</text>
+<text x="306" y="425" font-size="10.5" fill="#495057" font-weight="400">Sie wechseln den Anbieter</text>
+<rect x="552" y="386" width="188" height="48" rx="6" fill="#2e7d32" stroke="#2e7d32" stroke-width="1"/>
+<text x="646" y="406" font-size="12.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">Reif</text>
+<text x="646" y="423" font-size="10.5" fill="#e8f5e9" font-weight="400" text-anchor="middle">20 Genossenschaften</text>
+<text x="60" y="486" font-size="11.5" fill="#495057" font-weight="400">In Wallonien nehmen rund 126 Personen tatsächlich an einer Teilung teil. In Brüssel 1 417.</text>
+<text x="60" y="528" font-size="14" fill="#212529" font-weight="700">Der Unterschied, den man nicht aufholt</text>
+<rect x="60" y="542" width="330" height="74" rx="6" fill="#e8f5e9" stroke="#e8f5e9" stroke-width="1"/>
+<text x="76" y="566" font-size="12.5" fill="#1b5e20" font-weight="700">Lebensmittel: der Kühlschrank</text>
+<text x="76" y="586" font-size="11" fill="#495057" font-weight="400">Der Dienstag gelieferte Korb</text>
+<text x="76" y="602" font-size="11" fill="#495057" font-weight="400">wird am Donnerstag gegessen.</text>
+<rect x="410" y="542" width="330" height="74" rx="6" fill="#F8F9FA" stroke="#DEE2E6" stroke-width="1"/>
+<text x="426" y="566" font-size="12.5" fill="#212529" font-weight="700">Energie: keine Übertragung</text>
+<text x="426" y="586" font-size="11" fill="#495057" font-weight="400">Nicht in derselben Viertelstunde verbraucht,</text>
+<text x="426" y="602" font-size="11" fill="#495057" font-weight="400">fällt die Kilowattstunde auf Einspeisung.</text>
+</g></svg>

@@ -2,7 +2,7 @@
 layout: post
 title: "Cheaper electricity without switching supplier"
 date: 2026-08-05 04:00:00 +0200
-last_modified_at: 2026-08-22 06:00:00 +0200
+last_modified_at: 2026-08-27 06:00:00 +0200
 author: "Eric from OptimCE"
 excerpt: "Every guide to saving on electricity ends with the same sentence: compare, then switch supplier. Yet one mechanism lowers the bill without cancelling anything — energy sharing. The question is not whether it is legal: it is, in all three regions. It is whether it is available where you live, and two numbers frame the answer: 38 authorised communities in Brussels, 8 in Wallonia."
 description: "Energy sharing lowers your bill without cancelling your contract. What it is really worth, and which Belgian region can actually offer it to you."
@@ -167,6 +167,8 @@ In Wallonia the logic is the same but the scope far narrower: the **80 % reducti
 
 Hence a very practical conclusion for a Walloon reader: **if you live in a co-ownership with a usable roof, you are in the best configuration in the country after Brussels** — no legal entity to create, and 80 % off the proportional term on shared volumes. In Wallonia, it is the only arrangement that combines administrative simplicity with a network advantage.
 
+The general meeting still has to be able to decide. That is where the file changes nature: the ownership structure chosen sets the majority to reach — two thirds or four fifths — and the association of co-owners may not own the panels itself. That path is set out in [“Energy sharing in a condominium: the guide”](/en/news/2026/08/27/energy-sharing-condominium-guide/).
+
 ## What is blocking Wallonia, and what might unblock it
 
 It would be dishonest to present sharing as a universal solution when one Walloon reader in two will close this article with no workable option. Better to name the obstacles.
@@ -190,6 +192,8 @@ What is moving: the order of 5 February 2026 amended the 2023 framework, the num
 **If you live in Flanders.** Sharing and selling are open, including between individuals, but with no network advantage: the entire gain comes from the price gap. Two checks before signing — the VREG dashboard for this month's figures, and above all your supplier's tariff sheet, since some charge participants extra fees that wipe out the benefit on small volumes.
 
 **In all three cases**, one question precedes every other: **how many kilowatt-hours will the allocation key actually assign to you?** The Flemish experience — 20 % of injection effectively shared against 40 % hoped for — shows that this is where the outcome is decided, far more than in negotiating the price.
+
+Once the form is chosen, the most concrete question remains: with whom. Because sharing only counts inside the quarter hour of production, a perimeter is assembled by timetable rather than by affinity — the subject of [“Local electricity: the short-circuit guide”](/en/news/2026/08/25/local-electricity-short-circuit-guide/).
 
 ## Key takeaways
 

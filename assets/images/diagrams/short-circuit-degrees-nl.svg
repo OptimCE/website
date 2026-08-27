@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 640" width="800" height="640" role="img" aria-labelledby="t d">
+<title id="t">De vier gradaties van de korte keten, van bord tot meter</title><desc id="d">Vergelijking van de vier gradaties van de korte keten voor voeding en hun elektrische tegenhangers in Wallonië in 2026. De rechtstreekse hoeveverkoop, zonder enige tussenschakel, komt overeen met peer-to-peer delen, dat in Wallonië juridisch onmogelijk is bij gebrek aan een uitvoeringsbesluit. De gemeenschappelijke moestuin van een appartementsgebouw komt overeen met delen binnen eenzelfde gebouw, mogelijk op eenvoudige kennisgeving en sinds 1 januari 2025 gekoppeld aan een vermindering van 80 procent op de proportionele bestanddelen van het nettarief. De gemeenschappelijke aankoopgroep komt overeen met de hernieuwbare of burgerenergiegemeenschap, die een rechtspersoon en een vergunning van de CWaPE vereist, met dertien aangemelde gemeenschappen in augustus 2026 voor ongeveer 126 deelnemers. De coöperatieve winkel komt overeen met de burgercoöperatie en haar leverancier Cociter, een volgroeide sector die eind 2024 twintig coöperaties en 23 000 vennoten telde. Onderaan het schema toont een band het beslissende verschil: aan de voedingszijde vangt de koelkast het verschil tussen levering en verbruik op, aan de energiezijde bestaat er geen overdracht van het ene kwartier naar het volgende.</desc>
+<rect width="800" height="640" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="60" y="44" font-size="21" fill="#212529" font-weight="700">De vier gradaties van de korte keten, van bord tot meter</text>
+<text x="60" y="70" font-size="13" fill="#495057" font-weight="400">Wat elke gradatie aan tussenschakels wegneemt — en wat er in Wallonië van overblijft</text>
+<text x="60" y="110" font-size="11.5" fill="#495057" font-weight="700">Korte keten voor voeding</text>
+<text x="306" y="110" font-size="11.5" fill="#495057" font-weight="700">Elektrische tegenhanger</text>
+<text x="740" y="110" font-size="11.5" fill="#495057" font-weight="700" text-anchor="end">Stand in Wallonië</text>
+<line x1="60" y1="120" x2="740" y2="120" stroke="#DEE2E6" stroke-width="1"/>
+<text x="60" y="154" font-size="13.5" fill="#212529" font-weight="700">Rechtstreekse hoeveverkoop</text>
+<text x="60" y="173" font-size="10.5" fill="#495057" font-weight="400">nul tussenschakels</text>
+<path d="M280 150 h14 m-5 -5 l5 5 l-5 5" fill="none" stroke="#2e7d32" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="306" y="154" font-size="13.5" fill="#1b5e20" font-weight="700">Peer-to-peer delen</text>
+<text x="306" y="173" font-size="10.5" fill="#495057" font-weight="400">twee meters, een afgesproken prijs</text>
+<rect x="552" y="134" width="188" height="48" rx="6" fill="#F8F9FA" stroke="#DEE2E6" stroke-width="1"/>
+<text x="646" y="154" font-size="12.5" fill="#495057" font-weight="700" text-anchor="middle">Onmogelijk</text>
+<text x="646" y="171" font-size="10.5" fill="#6c757d" font-weight="400" text-anchor="middle">besluit ontbreekt</text>
+<line x1="60" y1="202" x2="740" y2="202" stroke="#DEE2E6" stroke-width="1"/>
+<text x="60" y="238" font-size="13.5" fill="#212529" font-weight="700">Gemeenschappelijke moestuin</text>
+<text x="60" y="257" font-size="10.5" fill="#495057" font-weight="400">de bewoners regelen het zelf</text>
+<path d="M280 234 h14 m-5 -5 l5 5 l-5 5" fill="none" stroke="#2e7d32" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="306" y="238" font-size="13.5" fill="#1b5e20" font-weight="700">Delen in eenzelfde gebouw</text>
+<text x="306" y="257" font-size="10.5" fill="#495057" font-weight="400">kennisgeving, overeenkomst</text>
+<rect x="552" y="218" width="188" height="48" rx="6" fill="#e8f5e9" stroke="#e8f5e9" stroke-width="1"/>
+<text x="646" y="238" font-size="12.5" fill="#1b5e20" font-weight="700" text-anchor="middle">Mogelijk</text>
+<text x="646" y="255" font-size="10.5" fill="#2e7d32" font-weight="400" text-anchor="middle">−80 % prop. bestanddeel</text>
+<line x1="60" y1="286" x2="740" y2="286" stroke="#DEE2E6" stroke-width="1"/>
+<text x="60" y="322" font-size="13.5" fill="#212529" font-weight="700">Gemeenschappelijke aankoopgroep</text>
+<text x="60" y="341" font-size="10.5" fill="#495057" font-weight="400">bundelen, niemand neemt marge</text>
+<path d="M280 318 h14 m-5 -5 l5 5 l-5 5" fill="none" stroke="#2e7d32" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="306" y="322" font-size="13.5" fill="#1b5e20" font-weight="700">Energiegemeenschap</text>
+<text x="306" y="341" font-size="10.5" fill="#495057" font-weight="400">CER of CEC, rechtspersoon</text>
+<rect x="552" y="302" width="188" height="48" rx="6" fill="#e8f5e9" stroke="#e8f5e9" stroke-width="1"/>
+<text x="646" y="322" font-size="12.5" fill="#1b5e20" font-weight="700" text-anchor="middle">Mogelijk</text>
+<text x="646" y="339" font-size="10.5" fill="#2e7d32" font-weight="400" text-anchor="middle">13 gemeenschappen</text>
+<line x1="60" y1="370" x2="740" y2="370" stroke="#DEE2E6" stroke-width="1"/>
+<text x="60" y="406" font-size="13.5" fill="#212529" font-weight="700">Coöperatieve winkel</text>
+<text x="60" y="425" font-size="10.5" fill="#495057" font-weight="400">één tussenschakel, maar van u</text>
+<path d="M280 402 h14 m-5 -5 l5 5 l-5 5" fill="none" stroke="#2e7d32" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="306" y="406" font-size="13.5" fill="#1b5e20" font-weight="700">Burgercoöperatie</text>
+<text x="306" y="425" font-size="10.5" fill="#495057" font-weight="400">u verandert van leverancier</text>
+<rect x="552" y="386" width="188" height="48" rx="6" fill="#2e7d32" stroke="#2e7d32" stroke-width="1"/>
+<text x="646" y="406" font-size="12.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">Volgroeid</text>
+<text x="646" y="423" font-size="10.5" fill="#e8f5e9" font-weight="400" text-anchor="middle">20 coöperaties</text>
+<text x="60" y="486" font-size="11.5" fill="#495057" font-weight="400">In Wallonië nemen ongeveer 126 mensen werkelijk deel aan een deling. In Brussel 1 417.</text>
+<text x="60" y="528" font-size="14" fill="#212529" font-weight="700">Het verschil dat u niet inhaalt</text>
+<rect x="60" y="542" width="330" height="74" rx="6" fill="#e8f5e9" stroke="#e8f5e9" stroke-width="1"/>
+<text x="76" y="566" font-size="12.5" fill="#1b5e20" font-weight="700">Voeding: de koelkast</text>
+<text x="76" y="586" font-size="11" fill="#495057" font-weight="400">De mand die dinsdag wordt geleverd,</text>
+<text x="76" y="602" font-size="11" fill="#495057" font-weight="400">wordt donderdag gegeten.</text>
+<rect x="410" y="542" width="330" height="74" rx="6" fill="#F8F9FA" stroke="#DEE2E6" stroke-width="1"/>
+<text x="426" y="566" font-size="12.5" fill="#212529" font-weight="700">Energie: geen overdracht</text>
+<text x="426" y="586" font-size="11" fill="#495057" font-weight="400">Niet verbruikt in hetzelfde kwartier,</text>
+<text x="426" y="602" font-size="11" fill="#495057" font-weight="400">valt de kilowattuur terug op injectie.</text>
+</g></svg>

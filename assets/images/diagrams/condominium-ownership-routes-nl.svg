@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" role="img" aria-labelledby="t d">
+<title id="t">Drie routes om de panelen van een gebouw te bezitten</title><desc id="d">Vergelijking van de drie mogelijke eigendomsstructuren voor een fotovoltaïsche installatie op het gemeenschappelijke dak van een Belgische mede-eigendom in 2026. In de eerste route financieren de mede-eigenaars de installatie, die een gemeenschappelijk deel wordt in gedwongen onverdeeldheid: de beslissing valt met een meerderheid van twee derde in de algemene vergadering, het injectiepunt is de meter van de gemeenschappelijke delen, de syndicus factureert namens de mede-eigendom, en het is de mede-eigendom die btw-plichtig wordt boven tien kilovoltampère. In de tweede route bezit een vzw of een coöperatie de installatie op een door de mede-eigendom toegekend opstalrecht: de beslissing vereist vier vijfde van de stemmen, de rechtspersoon is houder van het injectiepunt, factureert zelf en draagt de btw-plicht. In de derde route bezit een derde-investeerder de installatie op opstalrecht, eveneens met vier vijfde van de stemmen: de mede-eigendom legt geen kapitaal voor maar ontvangt slechts een vergoeding of een deel van de opbrengst, en de gecreëerde waarde verlaat het gebouw. Een band onderaan het schema herinnert eraan dat de vereniging van mede-eigenaars zelf in geen van de drie routes eigenaar is, omdat artikel 3.86, paragraaf 3, van het Burgerlijk Wetboek haar vermogen beperkt tot de roerende goederen die nodig zijn voor het behoud en het beheer van het gebouw.</desc>
+<rect width="800" height="620" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="60" y="44" font-size="21" fill="#212529" font-weight="700">Drie routes om de panelen van een gebouw te bezitten</text>
+<text x="60" y="70" font-size="13" fill="#495057" font-weight="400">Wat elke structuur oplegt: meerderheid in de algemene vergadering, eigendom, facturatie en btw</text>
+<rect x="60" y="96" width="218" height="404" rx="8" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<path d="M68 99 h202" stroke="#2e7d32" stroke-width="4" stroke-linecap="round" fill="none"/>
+<text x="74" y="122" font-size="10" fill="#6c757d" font-weight="700">ROUTE 1</text>
+<text x="74" y="144" font-size="13.5" fill="#212529" font-weight="700">Onverdeeldheid van de</text>
+<text x="74" y="160" font-size="13.5" fill="#212529" font-weight="700">mede-eigenaars</text>
+<text x="74" y="182" font-size="10" fill="#6c757d" font-weight="400">De mede-eigendom financiert</text>
+<text x="74" y="195" font-size="10" fill="#6c757d" font-weight="400">en bezit — geen notariële akte</text>
+<rect x="74" y="204" width="190" height="42" rx="6" fill="#e8f5e9" stroke="#DEE2E6" stroke-width="1"/>
+<text x="169.0" y="226" font-size="15" fill="#1b5e20" font-weight="700" text-anchor="middle">2/3 van de stemmen</text>
+<text x="169.0" y="240" font-size="9" fill="#6c757d" font-weight="400" text-anchor="middle">art. 3.88, § 1, 1°, b</text>
+<text x="74" y="272" font-size="9" fill="#6c757d" font-weight="700">WIE DE INSTALLATIE BEZIT</text>
+<text x="74" y="285" font-size="10.5" fill="#212529" font-weight="400">De mede-eigenaars, in</text>
+<text x="74" y="297" font-size="10.5" fill="#212529" font-weight="400">gedwongen onverdeeldheid</text>
+<text x="74" y="310" font-size="9" fill="#6c757d" font-weight="700">INJECTIEPUNT</text>
+<text x="74" y="323" font-size="10.5" fill="#212529" font-weight="400">De meter van de</text>
+<text x="74" y="335" font-size="10.5" fill="#212529" font-weight="400">gemeenschappelijke delen</text>
+<text x="74" y="348" font-size="9" fill="#6c757d" font-weight="700">WIE DE DEELFACTUUR STUURT</text>
+<text x="74" y="361" font-size="10.5" fill="#212529" font-weight="400">De syndicus, voor de</text>
+<text x="74" y="373" font-size="10.5" fill="#212529" font-weight="400">mede-eigendom</text>
+<text x="74" y="386" font-size="9" fill="#6c757d" font-weight="700">BTW-PLICHT BOVEN 10 kVA</text>
+<text x="74" y="399" font-size="10.5" fill="#212529" font-weight="400">De mede-eigendom</text>
+<text x="74" y="424" font-size="9" fill="#6c757d" font-weight="700">TE MOBILISEREN KAPITAAL</text>
+<text x="74" y="437" font-size="10.5" fill="#212529" font-weight="400">Volledig</text>
+<text x="74" y="462" font-size="9" fill="#6c757d" font-weight="700">WAAR DE WAARDE NAARTOE GAAT</text>
+<text x="74" y="475" font-size="10.5" fill="#212529" font-weight="400">Naar de mede-eigenaars,</text>
+<text x="74" y="487" font-size="10.5" fill="#212529" font-weight="400">via de lasten</text>
+<rect x="291" y="96" width="218" height="404" rx="8" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<text x="305" y="122" font-size="10" fill="#6c757d" font-weight="700">ROUTE 2</text>
+<text x="305" y="144" font-size="13.5" fill="#212529" font-weight="700">Vzw of</text>
+<text x="305" y="160" font-size="13.5" fill="#212529" font-weight="700">coöperatie</text>
+<text x="305" y="182" font-size="10" fill="#6c757d" font-weight="400">Opstalrecht — notariële</text>
+<text x="305" y="195" font-size="10" fill="#6c757d" font-weight="400">akte vereist</text>
+<rect x="305" y="204" width="190" height="42" rx="6" fill="#F8F9FA" stroke="#DEE2E6" stroke-width="1"/>
+<text x="400.0" y="226" font-size="15" fill="#495057" font-weight="700" text-anchor="middle">4/5 van de stemmen</text>
+<text x="400.0" y="240" font-size="9" fill="#6c757d" font-weight="400" text-anchor="middle">art. 3.88, § 1, 2°, e</text>
+<text x="305" y="272" font-size="9" fill="#6c757d" font-weight="700">WIE DE INSTALLATIE BEZIT</text>
+<text x="305" y="285" font-size="10.5" fill="#212529" font-weight="400">De vzw of de coöperatie</text>
+<text x="305" y="310" font-size="9" fill="#6c757d" font-weight="700">INJECTIEPUNT</text>
+<text x="305" y="323" font-size="10.5" fill="#212529" font-weight="400">De rechtspersoon</text>
+<text x="305" y="348" font-size="9" fill="#6c757d" font-weight="700">WIE DE DEELFACTUUR STUURT</text>
+<text x="305" y="361" font-size="10.5" fill="#212529" font-weight="400">De rechtspersoon</text>
+<text x="305" y="386" font-size="9" fill="#6c757d" font-weight="700">BTW-PLICHT BOVEN 10 kVA</text>
+<text x="305" y="399" font-size="10.5" fill="#212529" font-weight="400">De rechtspersoon</text>
+<text x="305" y="424" font-size="9" fill="#6c757d" font-weight="700">TE MOBILISEREN KAPITAAL</text>
+<text x="305" y="437" font-size="10.5" fill="#212529" font-weight="400">Volledig, buiten het</text>
+<text x="305" y="449" font-size="10.5" fill="#212529" font-weight="400">vermogen van de vereniging</text>
+<text x="305" y="462" font-size="9" fill="#6c757d" font-weight="700">WAAR DE WAARDE NAARTOE GAAT</text>
+<text x="305" y="475" font-size="10.5" fill="#212529" font-weight="400">Naar de vennoten</text>
+<rect x="522" y="96" width="218" height="404" rx="8" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<text x="536" y="122" font-size="10" fill="#6c757d" font-weight="700">ROUTE 3</text>
+<text x="536" y="144" font-size="13.5" fill="#212529" font-weight="700">Derde-</text>
+<text x="536" y="160" font-size="13.5" fill="#212529" font-weight="700">investeerder</text>
+<text x="536" y="182" font-size="10" fill="#6c757d" font-weight="400">Opstalrecht — notariële</text>
+<text x="536" y="195" font-size="10" fill="#6c757d" font-weight="400">akte vereist</text>
+<rect x="536" y="204" width="190" height="42" rx="6" fill="#F8F9FA" stroke="#DEE2E6" stroke-width="1"/>
+<text x="631.0" y="226" font-size="15" fill="#495057" font-weight="700" text-anchor="middle">4/5 van de stemmen</text>
+<text x="631.0" y="240" font-size="9" fill="#6c757d" font-weight="400" text-anchor="middle">art. 3.88, § 1, 2°, e</text>
+<text x="536" y="272" font-size="9" fill="#6c757d" font-weight="700">WIE DE INSTALLATIE BEZIT</text>
+<text x="536" y="285" font-size="10.5" fill="#212529" font-weight="400">De derde-investeerder</text>
+<text x="536" y="310" font-size="9" fill="#6c757d" font-weight="700">INJECTIEPUNT</text>
+<text x="536" y="323" font-size="10.5" fill="#212529" font-weight="400">De investeerder, of de</text>
+<text x="536" y="335" font-size="10.5" fill="#212529" font-weight="400">mede-eigendom per contract</text>
+<text x="536" y="348" font-size="9" fill="#6c757d" font-weight="700">WIE DE DEELFACTUUR STUURT</text>
+<text x="536" y="361" font-size="10.5" fill="#212529" font-weight="400">De investeerder of zijn</text>
+<text x="536" y="373" font-size="10.5" fill="#212529" font-weight="400">lasthebber</text>
+<text x="536" y="386" font-size="9" fill="#6c757d" font-weight="700">BTW-PLICHT BOVEN 10 kVA</text>
+<text x="536" y="399" font-size="10.5" fill="#212529" font-weight="400">De investeerder</text>
+<text x="536" y="424" font-size="9" fill="#6c757d" font-weight="700">TE MOBILISEREN KAPITAAL</text>
+<text x="536" y="437" font-size="10.5" fill="#212529" font-weight="400">Geen</text>
+<text x="536" y="462" font-size="9" fill="#6c757d" font-weight="700">WAAR DE WAARDE NAARTOE GAAT</text>
+<text x="536" y="475" font-size="10.5" fill="#212529" font-weight="400">Naar de investeerder,</text>
+<text x="536" y="487" font-size="10.5" fill="#212529" font-weight="400">op de vergoeding na</text>
+<rect x="60" y="516" width="680" height="76" rx="8" fill="#F8F9FA" stroke="#DEE2E6" stroke-width="1"/>
+<path d="M63 528 v52" stroke="#2e7d32" stroke-width="4" stroke-linecap="round" fill="none"/>
+<text x="80" y="540" font-size="11.5" fill="#212529" font-weight="700">In alle drie de routes is de vereniging van mede-eigenaars nooit eigenaar.</text>
+<text x="80" y="559" font-size="10" fill="#495057" font-weight="400">Artikel 3.86, § 3, van het Burgerlijk Wetboek: haar vermogen blijft beperkt tot de roerende goederen nodig voor het beheer.</text>
+<text x="80" y="574" font-size="10" fill="#495057" font-weight="400">Panelen die aan het dak zijn bevestigd worden onroerend door incorporatie — er moet dus elders een eigenaar worden aangewezen.</text>
+</g></svg>

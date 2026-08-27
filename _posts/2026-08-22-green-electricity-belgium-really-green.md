@@ -2,6 +2,7 @@
 layout: post
 title: "Green electricity in Belgium: really green?"
 date: 2026-08-22 06:00:00 +0200
+last_modified_at: 2026-08-25 06:00:00 +0200
 author: "Eric from OptimCE"
 excerpt: "In 2024, suppliers active in Wallonia declared a supply mix that was 49.38 % renewable. That same year, the Belgian residual mix — what is left once every guarantee of origin has been claimed by someone — stood at 18.07 % renewable. Both figures are accurate, official and published by the regulators. The gap is not fraud: it is the system working exactly as designed. Here is what a guarantee of origin actually proves, what it does not, what changes on 27 September 2026, and how to check your own supply."
 description: "Guarantees of origin, residual mix, greenwashing: what a Belgian green offer really proves — and how to check your own supply."
@@ -202,6 +203,8 @@ The fifth question is the most discriminating, and it is the one Greenpeace's me
 ## Energy sharing: the only verifiable short circuit in Belgian law
 
 Belgian law contains one mechanism where the green claim is not declared but **calculated**. It is not a commercial offer, it is a regulatory scheme: energy sharing.
+
+How such a short circuit is actually assembled — who to recruit, in what order, and why it is built by timetable rather than by affinity — is the subject of [“Local electricity: the short-circuit guide”](/en/news/2026/08/25/local-electricity-short-circuit-guide/).
 
 ### The definition already contains the answer
 

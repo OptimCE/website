@@ -2,6 +2,7 @@
 layout: post
 title: "Groene stroom in België: echt groen?"
 date: 2026-08-22 06:00:00 +0200
+last_modified_at: 2026-08-25 06:00:00 +0200
 author: "Eric van OptimCE"
 excerpt: "In 2024 gaven de in Wallonië actieve leveranciers een leveringsmix op van 49,38 % hernieuwbaar. Datzelfde jaar bedroeg de Belgische residuele mix — wat overblijft zodra elke garantie van oorsprong door iemand is opgeëist — 18,07 % hernieuwbaar. Beide cijfers zijn juist, officieel en gepubliceerd door de regulatoren. De kloof is geen fraude: het is het systeem dat precies werkt zoals het ontworpen is. Hier leest u wat een garantie van oorsprong echt bewijst, wat niet, wat er verandert op 27 september 2026, en hoe u uw eigen levering controleert."
 description: "Garanties van oorsprong, residuele mix, greenwashing: wat een Belgisch groenestroomaanbod echt bewijst — en hoe u het zelf controleert."
@@ -202,6 +203,8 @@ De vijfde vraag onderscheidt het scherpst, en zij staat centraal in de methodolo
 ## Energiedelen: de enige controleerbare korte keten in het Belgische recht
 
 In het Belgische recht bestaat één mechanisme waarbij de groene claim niet wordt verklaard maar **berekend**. Het is geen commercieel aanbod, het is een regeling: energiedelen.
+
+Hoe zo'n korte keten concreet wordt samengesteld — wie u werft, in welke volgorde, en waarom hij op uurrooster en niet op sympathie ontstaat — komt aan bod in [“Stroom in de korte keten: de handleiding”](/nl/nieuws/2026/08/25/elektriciteit-korte-keten-handleiding/).
 
 ### De definitie bevat het antwoord al
 

@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" role="img" aria-labelledby="t d">
+<title id="t">Drei Wege zum Eigentum an den Modulen eines Hauses</title><desc id="d">Vergleich der drei möglichen Eigentumskonstruktionen für eine Photovoltaikanlage auf dem gemeinschaftlichen Dach einer belgischen Wohnungseigentümergemeinschaft im Jahr 2026. Im ersten Weg finanzieren die Miteigentümer die Anlage, die zu einem gemeinschaftlichen Teil in Zwangsgemeinschaft wird: Der Beschluss fällt mit Zweidrittelmehrheit in der Eigentümerversammlung, Einspeisepunkt ist der Zähler der Gemeinschaftsteile, der Verwalter rechnet im Namen der Gemeinschaft ab, und die Gemeinschaft wird oberhalb von zehn Kilovoltampere mehrwertsteuerpflichtig. Im zweiten Weg besitzt eine VoG oder eine Genossenschaft die Anlage auf einem von der Gemeinschaft eingeräumten Erbbaurecht: Der Beschluss verlangt vier Fünftel der Stimmen, die Rechtsperson ist Inhaberin des Einspeisepunktes, rechnet selbst ab und trägt die Steuerpflicht. Im dritten Weg besitzt ein Drittinvestor die Anlage auf einem Erbbaurecht, ebenfalls mit vier Fünfteln der Stimmen: Die Gemeinschaft legt kein Kapital vor, erhält aber nur eine Vergütung oder einen Anteil am Erlös, und der geschaffene Wert verlässt das Gebäude. Ein Band am unteren Rand des Schemas erinnert daran, dass die Vereinigung der Miteigentümer selbst in keinem der drei Wege Eigentümerin ist, weil Artikel 3.86, Paragraf 3, des Zivilgesetzbuches ihr Vermögen auf die zur Erhaltung und Verwaltung des Gebäudes erforderlichen beweglichen Güter beschränkt.</desc>
+<rect width="800" height="620" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="60" y="44" font-size="21" fill="#212529" font-weight="700">Drei Wege zum Eigentum an den Modulen eines Hauses</text>
+<text x="60" y="70" font-size="13" fill="#495057" font-weight="400">Was jede Konstruktion verlangt: Mehrheit in der Eigentümerversammlung, Eigentum, Abrechnung, Steuer</text>
+<rect x="60" y="96" width="218" height="404" rx="8" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<path d="M68 99 h202" stroke="#2e7d32" stroke-width="4" stroke-linecap="round" fill="none"/>
+<text x="74" y="122" font-size="10" fill="#6c757d" font-weight="700">WEG 1</text>
+<text x="74" y="144" font-size="13.5" fill="#212529" font-weight="700">Bruchteilsgemeinschaft</text>
+<text x="74" y="160" font-size="13.5" fill="#212529" font-weight="700">der Miteigentümer</text>
+<text x="74" y="182" font-size="10" fill="#6c757d" font-weight="400">Die Gemeinschaft finanziert</text>
+<text x="74" y="195" font-size="10" fill="#6c757d" font-weight="400">und besitzt — ohne Urkunde</text>
+<rect x="74" y="204" width="190" height="42" rx="6" fill="#e8f5e9" stroke="#DEE2E6" stroke-width="1"/>
+<text x="169.0" y="226" font-size="15" fill="#1b5e20" font-weight="700" text-anchor="middle">2/3 der Stimmen</text>
+<text x="169.0" y="240" font-size="9" fill="#6c757d" font-weight="400" text-anchor="middle">Art. 3.88, § 1, 1°, b</text>
+<text x="74" y="272" font-size="9" fill="#6c757d" font-weight="700">WEM DIE ANLAGE GEHÖRT</text>
+<text x="74" y="285" font-size="10.5" fill="#212529" font-weight="400">Die Miteigentümer, in</text>
+<text x="74" y="297" font-size="10.5" fill="#212529" font-weight="400">Zwangsgemeinschaft</text>
+<text x="74" y="310" font-size="9" fill="#6c757d" font-weight="700">EINSPEISEPUNKT</text>
+<text x="74" y="323" font-size="10.5" fill="#212529" font-weight="400">Der Zähler der</text>
+<text x="74" y="335" font-size="10.5" fill="#212529" font-weight="400">Gemeinschaftsteile</text>
+<text x="74" y="348" font-size="9" fill="#6c757d" font-weight="700">WER DIE TEILUNG ABRECHNET</text>
+<text x="74" y="361" font-size="10.5" fill="#212529" font-weight="400">Der Verwalter, für die</text>
+<text x="74" y="373" font-size="10.5" fill="#212529" font-weight="400">Gemeinschaft</text>
+<text x="74" y="386" font-size="9" fill="#6c757d" font-weight="700">STEUERPFLICHT AB 10 kVA</text>
+<text x="74" y="399" font-size="10.5" fill="#212529" font-weight="400">Die Gemeinschaft</text>
+<text x="74" y="424" font-size="9" fill="#6c757d" font-weight="700">AUFZUBRINGENDES KAPITAL</text>
+<text x="74" y="437" font-size="10.5" fill="#212529" font-weight="400">Vollständig</text>
+<text x="74" y="462" font-size="9" fill="#6c757d" font-weight="700">WOHIN DER WERT FLIESST</text>
+<text x="74" y="475" font-size="10.5" fill="#212529" font-weight="400">An die Miteigentümer,</text>
+<text x="74" y="487" font-size="10.5" fill="#212529" font-weight="400">über die Lasten</text>
+<rect x="291" y="96" width="218" height="404" rx="8" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<text x="305" y="122" font-size="10" fill="#6c757d" font-weight="700">WEG 2</text>
+<text x="305" y="144" font-size="13.5" fill="#212529" font-weight="700">VoG oder</text>
+<text x="305" y="160" font-size="13.5" fill="#212529" font-weight="700">Genossenschaft</text>
+<text x="305" y="182" font-size="10" fill="#6c757d" font-weight="400">Erbbaurecht — notarielle</text>
+<text x="305" y="195" font-size="10" fill="#6c757d" font-weight="400">Urkunde erforderlich</text>
+<rect x="305" y="204" width="190" height="42" rx="6" fill="#F8F9FA" stroke="#DEE2E6" stroke-width="1"/>
+<text x="400.0" y="226" font-size="15" fill="#495057" font-weight="700" text-anchor="middle">4/5 der Stimmen</text>
+<text x="400.0" y="240" font-size="9" fill="#6c757d" font-weight="400" text-anchor="middle">Art. 3.88, § 1, 2°, e</text>
+<text x="305" y="272" font-size="9" fill="#6c757d" font-weight="700">WEM DIE ANLAGE GEHÖRT</text>
+<text x="305" y="285" font-size="10.5" fill="#212529" font-weight="400">Die VoG oder die</text>
+<text x="305" y="297" font-size="10.5" fill="#212529" font-weight="400">Genossenschaft</text>
+<text x="305" y="310" font-size="9" fill="#6c757d" font-weight="700">EINSPEISEPUNKT</text>
+<text x="305" y="323" font-size="10.5" fill="#212529" font-weight="400">Die Rechtsperson</text>
+<text x="305" y="348" font-size="9" fill="#6c757d" font-weight="700">WER DIE TEILUNG ABRECHNET</text>
+<text x="305" y="361" font-size="10.5" fill="#212529" font-weight="400">Die Rechtsperson</text>
+<text x="305" y="386" font-size="9" fill="#6c757d" font-weight="700">STEUERPFLICHT AB 10 kVA</text>
+<text x="305" y="399" font-size="10.5" fill="#212529" font-weight="400">Die Rechtsperson</text>
+<text x="305" y="424" font-size="9" fill="#6c757d" font-weight="700">AUFZUBRINGENDES KAPITAL</text>
+<text x="305" y="437" font-size="10.5" fill="#212529" font-weight="400">Vollständig, außerhalb</text>
+<text x="305" y="449" font-size="10.5" fill="#212529" font-weight="400">des Vereinigungsvermögens</text>
+<text x="305" y="462" font-size="9" fill="#6c757d" font-weight="700">WOHIN DER WERT FLIESST</text>
+<text x="305" y="475" font-size="10.5" fill="#212529" font-weight="400">An die Mitglieder</text>
+<rect x="522" y="96" width="218" height="404" rx="8" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<text x="536" y="122" font-size="10" fill="#6c757d" font-weight="700">WEG 3</text>
+<text x="536" y="144" font-size="13.5" fill="#212529" font-weight="700">Dritt-</text>
+<text x="536" y="160" font-size="13.5" fill="#212529" font-weight="700">investor</text>
+<text x="536" y="182" font-size="10" fill="#6c757d" font-weight="400">Erbbaurecht — notarielle</text>
+<text x="536" y="195" font-size="10" fill="#6c757d" font-weight="400">Urkunde erforderlich</text>
+<rect x="536" y="204" width="190" height="42" rx="6" fill="#F8F9FA" stroke="#DEE2E6" stroke-width="1"/>
+<text x="631.0" y="226" font-size="15" fill="#495057" font-weight="700" text-anchor="middle">4/5 der Stimmen</text>
+<text x="631.0" y="240" font-size="9" fill="#6c757d" font-weight="400" text-anchor="middle">Art. 3.88, § 1, 2°, e</text>
+<text x="536" y="272" font-size="9" fill="#6c757d" font-weight="700">WEM DIE ANLAGE GEHÖRT</text>
+<text x="536" y="285" font-size="10.5" fill="#212529" font-weight="400">Der Drittinvestor</text>
+<text x="536" y="310" font-size="9" fill="#6c757d" font-weight="700">EINSPEISEPUNKT</text>
+<text x="536" y="323" font-size="10.5" fill="#212529" font-weight="400">Der Investor, oder die</text>
+<text x="536" y="335" font-size="10.5" fill="#212529" font-weight="400">Gemeinschaft je Vertrag</text>
+<text x="536" y="348" font-size="9" fill="#6c757d" font-weight="700">WER DIE TEILUNG ABRECHNET</text>
+<text x="536" y="361" font-size="10.5" fill="#212529" font-weight="400">Der Investor oder sein</text>
+<text x="536" y="373" font-size="10.5" fill="#212529" font-weight="400">Beauftragter</text>
+<text x="536" y="386" font-size="9" fill="#6c757d" font-weight="700">STEUERPFLICHT AB 10 kVA</text>
+<text x="536" y="399" font-size="10.5" fill="#212529" font-weight="400">Der Investor</text>
+<text x="536" y="424" font-size="9" fill="#6c757d" font-weight="700">AUFZUBRINGENDES KAPITAL</text>
+<text x="536" y="437" font-size="10.5" fill="#212529" font-weight="400">Keines</text>
+<text x="536" y="462" font-size="9" fill="#6c757d" font-weight="700">WOHIN DER WERT FLIESST</text>
+<text x="536" y="475" font-size="10.5" fill="#212529" font-weight="400">An den Investor,</text>
+<text x="536" y="487" font-size="10.5" fill="#212529" font-weight="400">abzüglich der Vergütung</text>
+<rect x="60" y="516" width="680" height="76" rx="8" fill="#F8F9FA" stroke="#DEE2E6" stroke-width="1"/>
+<path d="M63 528 v52" stroke="#2e7d32" stroke-width="4" stroke-linecap="round" fill="none"/>
+<text x="80" y="540" font-size="11.5" fill="#212529" font-weight="700">In allen drei Wegen ist die Vereinigung der Miteigentümer nie Eigentümerin.</text>
+<text x="80" y="559" font-size="10" fill="#495057" font-weight="400">Artikel 3.86, § 3, des Zivilgesetzbuches: Ihr Vermögen beschränkt sich auf die zur Verwaltung nötigen beweglichen Güter.</text>
+<text x="80" y="574" font-size="10" fill="#495057" font-weight="400">Auf dem Dach befestigte Module werden durch Verbindung unbeweglich — ein Eigentümer muss also anderswo benannt werden.</text>
+</g></svg>

@@ -2,7 +2,7 @@
 layout: post
 title: "Baisser sa facture sans changer de fournisseur"
 date: 2026-08-05 04:00:00 +0200
-last_modified_at: 2026-08-22 06:00:00 +0200
+last_modified_at: 2026-08-27 06:00:00 +0200
 author: "Eric d'OptimCE"
 excerpt: "Tous les guides d'économies finissent par la même phrase : comparez, puis changez de fournisseur. Il existe pourtant un mécanisme qui fait baisser la facture sans résilier quoi que ce soit — le partage d'énergie. La question n'est pas de savoir s'il est légal : il l'est dans les trois régions. Elle est de savoir s'il est accessible chez vous, et la réponse tient dans deux chiffres : 38 communautés autorisées à Bruxelles, 8 en Wallonie."
 description: "Le partage d'énergie fait baisser la facture sans résilier son contrat. Ce qu'il rapporte vraiment, et dans quelle région il est réellement accessible."
@@ -166,6 +166,8 @@ En Wallonie, la logique est la même mais le champ est bien plus étroit : la r�
 
 D'où une conclusion très pratique pour un lecteur wallon : **si vous vivez en copropriété avec une toiture exploitable, vous êtes dans la meilleure configuration du pays après Bruxelles** — sans personne morale à créer, avec 80 % du terme proportionnel en moins sur les volumes partagés. C'est, en Wallonie, le seul montage qui cumule simplicité administrative et avantage réseau.
 
+Encore faut-il que l'assemblée générale puisse décider. C'est là que le dossier change de nature : le montage de propriété retenu fixe la majorité à atteindre — deux tiers ou quatre cinquièmes — et l'association des copropriétaires ne peut pas posséder les panneaux elle-même. Ce parcours est détaillé dans [« Partage d'énergie en copropriété : le guide »](/actualites/2026/08/27/partage-energie-copropriete-guide/).
+
 ## Ce qui bloque en Wallonie, et ce qui pourrait débloquer
 
 Il serait malhonnête de présenter le partage comme une solution universelle alors qu'un lecteur wallon sur deux refermera cet article sans option praticable. Autant nommer les obstacles.
@@ -189,6 +191,8 @@ Ce qui bouge : l'arrêté du 5 février 2026 a modifié le cadre de 2023, le nom
 **Si vous habitez la Flandre.** Le partage et la vente sont ouverts, y compris entre particuliers, mais sans avantage réseau : tout le gain vient de l'écart de prix. Deux vérifications avant de signer — le tableau de bord du VREG pour les chiffres du mois, et surtout la fiche tarifaire de votre fournisseur, car certains facturent des frais supplémentaires aux participants qui annulent le bénéfice sur de petits volumes.
 
 **Dans les trois cas**, une question précède toutes les autres : **combien de kilowattheures la clé de répartition va-t-elle réellement vous attribuer ?** L'expérience flamande — 20 % de l'injection effectivement partagée contre 40 % espérés — montre que c'est là que se joue l'essentiel, bien plus que dans la négociation du prix.
+
+Une fois la forme choisie, reste la question la plus concrète : avec qui. Parce que le partage ne vaut que dans le quart d'heure de production, un périmètre se compose par horaire et non par affinité — c'est le sujet de [« Électricité en circuit court : le mode d'emploi »](/actualites/2026/08/25/electricite-circuit-court-mode-emploi/).
 
 ## Ce qu'il faut retenir
 

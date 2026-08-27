@@ -78,6 +78,27 @@
     de: ["Vereinigung ohne Erwerbszweck"]
     nl: ["vereniging zonder winstoogmerk", "ASBL"]
 
+- slug: association-des-coproprietaires
+  categorie: juridique
+  tags: [copropriete, gouvernance, belgique, immeuble]
+  source_nom: IPI
+  source_url: "https://www.ipi.be/media/1462/download?inline=1"
+  terme:
+    fr: "Association des copropriétaires"
+    en: "Association of co-owners"
+    de: "Vereinigung der Miteigentümer"
+    nl: "Vereniging van mede-eigenaars"
+  definition:
+    fr: "Personne morale qui réunit de plein droit tous les copropriétaires d'un immeuble et en assure la conservation et l'administration. Son patrimoine se limite aux meubles nécessaires à cet objet (art. 3.86, § 3, du Code civil) : elle ne peut donc pas être propriétaire de l'installation photovoltaïque qui alimente un partage d'énergie."
+    en: "Legal person automatically grouping all the co-owners of a building, responsible for preserving and administering it. Its assets are limited to the movable property needed for that purpose (art. 3.86, § 3, of the Civil Code), so it cannot own the photovoltaic installation that feeds an energy sharing operation."
+    de: "Rechtsperson, die von Rechts wegen alle Miteigentümer eines Gebäudes vereint und dessen Erhaltung und Verwaltung sicherstellt. Ihr Vermögen beschränkt sich auf die dafür erforderlichen beweglichen Güter (Art. 3.86, § 3, des Zivilgesetzbuches); sie kann daher nicht Eigentümerin der Photovoltaikanlage sein, die eine Energieteilung speist."
+    nl: "Rechtspersoon die van rechtswege alle mede-eigenaars van een gebouw verenigt en instaat voor het behoud en het beheer ervan. Haar vermogen blijft beperkt tot de daarvoor noodzakelijke roerende goederen (art. 3.86, § 3, van het Burgerlijk Wetboek); zij kan dus geen eigenaar zijn van de fotovoltaïsche installatie die een deelactiviteit voedt."
+  alias:
+    fr: ["ACP", "association de copropriétaires"]
+    en: ["ACP", "co-owners' association"]
+    de: ["ACP", "Miteigentümergemeinschaft"]
+    nl: ["VME", "vereniging van medeeigenaars"]
+
 - slug: audit-logement
   categorie: reglementaire
   tags: [audit, prime, renovation, wallonie]
@@ -329,6 +350,27 @@
     en: ["heat pump water heater", "thermodynamic water heater"]
     de: ["Warmwasser-Wärmepumpe", "Brauchwasserwärmepumpe"]
     nl: ["boiler op warmtepomp", "thermodynamische boiler"]
+
+- slug: circuit-court-energetique
+  categorie: territoire
+  tags: [local, proximite, partage]
+  source_nom: CWaPE
+  source_url: "https://www.cwape.be/node/5618"
+  terme:
+    fr: "Circuit court énergétique"
+    en: "Energy short circuit"
+    de: "Kurzer Weg beim Strom"
+    nl: "Korte keten voor stroom"
+  definition:
+    fr: "Chaîne de fourniture d'électricité réduite au minimum d'intermédiaires commerciaux entre un producteur local et ses consommateurs. Contrairement au circuit court alimentaire, défini par l'administration wallonne comme n'admettant au maximum qu'un intermédiaire, il ne supprime jamais le gestionnaire de réseau, dont les frais restent dus : il raccourcit la composante énergie de la facture, pas le trajet physique du courant."
+    en: "An electricity supply chain reduced to the minimum of commercial intermediaries between a local producer and its consumers. Unlike the food short supply chain, defined by the Walloon administration as allowing at most one intermediary, it never removes the network operator, whose charges remain payable: it shortens the energy component of the bill, not the physical path of the current."
+    de: "Stromlieferkette, die auf ein Minimum an kommerziellen Zwischenhändlern zwischen einem lokalen Erzeuger und seinen Verbrauchern verkürzt ist. Anders als der kurze Weg bei Lebensmitteln, den die wallonische Verwaltung mit höchstens einem Zwischenhändler definiert, entfällt der Netzbetreiber nie, dessen Kosten geschuldet bleiben: Verkürzt wird die Energiekomponente der Rechnung, nicht der physische Weg des Stroms."
+    nl: "Elektriciteitsketen die is teruggebracht tot een minimum aan commerciële tussenschakels tussen een lokale producent en zijn afnemers. Anders dan de korte keten voor voeding, die de Waalse administratie omschrijft als hoogstens één tussenschakel, verdwijnt de netbeheerder nooit, wiens kosten verschuldigd blijven: verkort wordt de energiecomponent van de factuur, niet het fysieke traject van de stroom."
+  alias:
+    fr: ["circuit court de l'énergie", "circuit court électrique", "circuit court"]
+    en: ["short supply chain for electricity", "short circuit"]
+    de: ["kurze Wege beim Strom", "kurzer Weg"]
+    nl: ["korte keten voor elektriciteit", "korte keten"]
 
 - slug: clef-de-repartition
   categorie: calcul
@@ -607,6 +649,27 @@
     de: ["Koop"]
     nl: ["coöp"]
 
+- slug: copropriete
+  categorie: juridique
+  tags: [immeuble, batiment, belgique, partage]
+  source_nom: IPI
+  source_url: "https://www.ipi.be/media/1462/download?inline=1"
+  terme:
+    fr: "Copropriété"
+    en: "Condominium"
+    de: "Wohnungseigentum"
+    nl: "Mede-eigendom"
+  definition:
+    fr: "Situation d'un immeuble divisé en au moins deux lots appartenant à des propriétaires différents et comportant au moins une partie commune. À Bruxelles, cette définition recoupe presque mot pour mot celle du bâtiment qui ouvre le droit au partage d'énergie."
+    en: "Situation of a building divided into at least two units held by different owners and containing at least one common part. In Brussels, that definition matches almost word for word the definition of the building that opens the right to share energy."
+    de: "Lage eines Gebäudes, das in mindestens zwei Einheiten unterschiedlicher Eigentümer geteilt ist und mindestens einen gemeinschaftlichen Teil aufweist. In Brüssel deckt sich diese Definition fast wörtlich mit der des Gebäudes, das den Anspruch auf Energieteilung eröffnet."
+    nl: "Situatie van een gebouw dat verdeeld is in ten minste twee kavels van verschillende eigenaars en ten minste één gemeenschappelijk deel bevat. In Brussel valt die definitie bijna woordelijk samen met die van het gebouw dat het recht op energiedelen opent."
+  alias:
+    fr: ["copropriété forcée", "immeuble en copropriété"]
+    en: ["co-ownership", "condominium building"]
+    de: ["Miteigentum", "Eigentümergemeinschaft"]
+    nl: ["gedwongen mede-eigendom", "appartementsmede-eigendom"]
+
 - slug: cwape
   categorie: regulateur
   tags: [wallonie, regulation, belgique]
@@ -648,6 +711,27 @@
     en: ["settlement invoice", "annual settlement"]
     de: ["Ausgleichsrechnung", "Jahresverbrauchsabrechnung"]
     nl: ["regularisatiefactuur", "jaarlijkse regularisatie"]
+
+- slug: droit-de-superficie
+  categorie: juridique
+  tags: [toiture, tiers-investisseur, copropriete, belgique]
+  source_nom: Notaire.be
+  source_url: "https://www.notaire.be/immobilier/les-servitudes-lemphyteose-et-le-droit-de-superficie/le-droit-de-superficie"
+  terme:
+    fr: "Droit de superficie"
+    en: "Right of superficies"
+    de: "Erbbaurecht"
+    nl: "Opstalrecht"
+  definition:
+    fr: "Droit réel permettant d'avoir des constructions sur le fonds d'autrui, pour 99 ans au maximum depuis le livre 3 du Code civil. C'est le montage par lequel une coopérative ou un tiers investisseur devient propriétaire des panneaux posés sur une toiture commune ; son octroi requiert les quatre cinquièmes des voix en assemblée générale."
+    en: "Real right allowing someone to own constructions on another's land, for up to 99 years since Book 3 of the Civil Code. It is the structure through which a cooperative or a third-party investor becomes owner of panels installed on a common roof; granting it requires four fifths of the votes at the general meeting."
+    de: "Dingliches Recht, Bauwerke auf fremdem Grund zu haben, seit Buch 3 des Zivilgesetzbuches für höchstens 99 Jahre. Es ist die Konstruktion, mit der eine Genossenschaft oder ein Drittinvestor Eigentümer der auf einem gemeinschaftlichen Dach errichteten Module wird; seine Einräumung verlangt vier Fünftel der Stimmen in der Eigentümerversammlung."
+    nl: "Zakelijk recht om constructies te hebben op andermans grond, sinds boek 3 van het Burgerlijk Wetboek voor maximaal 99 jaar. Het is de structuur waarmee een coöperatie of een derde-investeerder eigenaar wordt van de panelen op een gemeenschappelijk dak; de toekenning ervan vereist vier vijfde van de stemmen in de algemene vergadering."
+  alias:
+    fr: ["superficie"]
+    en: ["superficies"]
+    de: ["Baurecht"]
+    nl: ["recht van opstal"]
 
 - slug: energie-locale
   categorie: territoire
@@ -1570,6 +1654,27 @@
     de: []
     nl: []
 
+- slug: simultaneite
+  categorie: mesure
+  tags: [quart-d-heure, partage, mesure]
+  source_nom: ORES
+  source_url: "https://www.ores.be/faq/partage-denergie"
+  terme:
+    fr: "Simultanéité"
+    en: "Simultaneity"
+    de: "Gleichzeitigkeit"
+    nl: "Gelijktijdigheid"
+  definition:
+    fr: "Règle qui conditionne le partage d'énergie : seule est répartie l'électricité produite, injectée sur le réseau local et consommée au cours d'un même quart d'heure. Elle interdit tout report d'un créneau sur le suivant — ce qui n'est pas absorbé dans le quart d'heure sort du partage et retombe en injection."
+    en: "The rule that governs energy sharing: only electricity produced, injected into the local network and consumed within the same quarter hour is allocated. It forbids any carry-over from one slot to the next — whatever is not absorbed within the quarter hour leaves the sharing arrangement and falls back to injection."
+    de: "Regel, die das Energieteilen bestimmt: Aufgeteilt wird nur Strom, der erzeugt, in das lokale Netz eingespeist und innerhalb derselben Viertelstunde verbraucht wird. Sie verbietet jede Übertragung von einem Zeitfenster auf das nächste — was in der Viertelstunde nicht aufgenommen wird, verlässt die Teilung und fällt auf Einspeisung zurück."
+    nl: "Regel die het energiedelen bepaalt: alleen stroom die wordt geproduceerd, in het lokale net geïnjecteerd en binnen hetzelfde kwartier verbruikt, wordt verdeeld. Zij verbiedt elke overdracht van het ene tijdvak naar het volgende — wat niet binnen het kwartier wordt opgenomen, verlaat het delen en valt terug op injectie."
+  alias:
+    fr: ["règle de simultanéité", "concomitance"]
+    en: ["simultaneity rule", "concurrency"]
+    de: ["Gleichzeitigkeitsregel", "Zeitgleichheit"]
+    nl: ["gelijktijdigheidsregel", "tijdsgelijkheid"]
+
 - slug: stockage
   categorie: production
   tags: [batterie, flexibilite, energie]
@@ -1632,6 +1737,27 @@
     en: []
     de: []
     nl: []
+
+- slug: syndic
+  categorie: gouvernance
+  tags: [copropriete, mandat, representant, belgique]
+  source_nom: IPI
+  source_url: "https://www.ipi.be/media/1462/download?inline=1"
+  terme:
+    fr: "Syndic"
+    en: "Managing agent"
+    de: "Verwalter"
+    nl: "Syndicus"
+  definition:
+    fr: "Mandataire qui exécute les décisions de l'assemblée générale et gère l'immeuble au quotidien. Son mandat ne peut excéder trois ans et, sauf décision expresse de l'assemblée, il ne peut souscrire aucun engagement au-delà de ce terme — un point décisif pour une convention de partage à durée indéterminée."
+    en: "Agent who carries out the decisions of the general meeting and runs the building day to day. The mandate may not exceed three years and, unless the meeting expressly decides otherwise, no commitment may be entered into beyond that term — a decisive point for an open-ended sharing agreement."
+    de: "Beauftragter, der die Beschlüsse der Eigentümerversammlung ausführt und das Gebäude täglich verwaltet. Sein Mandat darf drei Jahre nicht überschreiten, und vorbehaltlich eines ausdrücklichen Beschlusses der Versammlung darf er keine Verpflichtung über diese Frist hinaus eingehen — entscheidend für eine unbefristete Teilungsvereinbarung."
+    nl: "Lasthebber die de beslissingen van de algemene vergadering uitvoert en het gebouw dagelijks beheert. Zijn mandaat mag niet langer duren dan drie jaar en, behoudens uitdrukkelijke beslissing van de vergadering, mag hij geen verbintenis aangaan die die termijn overschrijdt — beslissend voor een deelovereenkomst van onbepaalde duur."
+  alias:
+    fr: ["syndic de copropriété"]
+    en: ["property manager", "syndic"]
+    de: ["Hausverwalter", "Syndikus"]
+    nl: ["syndicus van de mede-eigendom"]
 
 - slug: tarif-bihoraire
   categorie: reseau

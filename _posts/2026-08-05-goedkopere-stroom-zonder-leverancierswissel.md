@@ -2,7 +2,7 @@
 layout: post
 title: "Goedkopere stroom zonder leverancierswissel"
 date: 2026-08-05 04:00:00 +0200
-last_modified_at: 2026-08-22 06:00:00 +0200
+last_modified_at: 2026-08-27 06:00:00 +0200
 author: "Eric van OptimCE"
 excerpt: "Elke gids over besparen op elektriciteit eindigt met dezelfde zin: vergelijk en verander dan van leverancier. Toch bestaat er een mechanisme dat uw factuur verlaagt zonder dat u iets moet opzeggen — energiedelen. De vraag is niet of het legaal is: dat is het in alle drie de gewesten. De vraag is of het beschikbaar is waar u woont, en twee cijfers schetsen het antwoord: 38 vergunde gemeenschappen in Brussel, 8 in Wallonië."
 description: "Energiedelen verlaagt uw factuur zonder uw contract op te zeggen. Wat het echt oplevert en in welk gewest het werkelijk beschikbaar is."
@@ -167,6 +167,8 @@ In Wallonië is de logica dezelfde, maar het toepassingsveld veel enger: de **ve
 
 Vandaar een zeer praktische conclusie voor een Waalse lezer: **woont u in een mede-eigendom met een bruikbaar dak, dan bevindt u zich in de beste configuratie van het land na Brussel** — zonder rechtspersoon op te richten, en met 80 % minder op de proportionele term voor de gedeelde volumes. In Wallonië is het de enige opzet die administratieve eenvoud met een netvoordeel combineert.
 
+Dan moet de algemene vergadering nog kunnen beslissen. Daar verandert het dossier van aard: de gekozen eigendomsstructuur bepaalt de te halen meerderheid — twee derde of vier vijfde — en de vereniging van mede-eigenaars mag de panelen niet zelf bezitten. Dat traject staat in [“Energie delen in een appartementsgebouw”](/nl/nieuws/2026/08/27/energie-delen-appartementsgebouw/).
+
 ## Wat Wallonië blokkeert, en wat het zou kunnen deblokkeren
 
 Het zou oneerlijk zijn om delen als een universele oplossing voor te stellen terwijl één Waalse lezer op twee dit artikel zonder werkbare optie zal sluiten. Laten we de hindernissen benoemen.
@@ -190,6 +192,8 @@ Wat beweegt: het besluit van 5 februari 2026 wijzigde het kader van 2023, het aa
 **Woont u in Vlaanderen.** Delen en verkopen staan open, ook tussen particulieren, maar zonder netvoordeel: de volledige winst komt uit het prijsverschil. Twee controles vóór u tekent — het VREG-dashboard voor de cijfers van de lopende maand, en vooral het tariefblad van uw leverancier, want sommige rekenen deelnemers extra kosten aan die het voordeel bij kleine volumes tenietdoen.
 
 **In alle drie de gevallen** gaat één vraag aan alle andere vooraf: **hoeveel kilowattuur zal de verdeelsleutel u werkelijk toekennen?** De Vlaamse ervaring — 20 % van de injectie effectief gedeeld tegenover de gehoopte 40 % — toont aan dat het daar is dat het wezenlijke zich afspeelt, veel meer dan bij de prijsonderhandeling.
+
+Zodra de vorm is gekozen, blijft de meest concrete vraag over: met wie. Omdat delen alleen binnen het kwartier van de productie telt, stelt u een perimeter samen op uurrooster en niet op sympathie — het onderwerp van [“Stroom in de korte keten: de handleiding”](/nl/nieuws/2026/08/25/elektriciteit-korte-keten-handleiding/).
 
 ## Wat u moet onthouden
 

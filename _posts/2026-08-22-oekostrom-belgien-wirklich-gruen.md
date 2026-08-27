@@ -2,6 +2,7 @@
 layout: post
 title: "Ökostrom in Belgien: wirklich grün?"
 date: 2026-08-22 06:00:00 +0200
+last_modified_at: 2026-08-25 06:00:00 +0200
 author: "Eric, OptimCE"
 excerpt: "2024 meldeten die in Wallonien tätigen Versorger einen Liefermix von 49,38 % erneuerbarer Energie. Im selben Jahr lag der belgische Residualmix — das, was übrig bleibt, sobald jeder Herkunftsnachweis von jemandem beansprucht wurde — bei 18,07 % erneuerbar. Beide Zahlen sind korrekt, amtlich und von den Regulierungsbehörden veröffentlicht. Die Lücke ist kein Betrug: Es ist das System, das genau so funktioniert, wie es entworfen wurde. Hier steht, was ein Herkunftsnachweis tatsächlich belegt, was nicht, was sich am 27. September 2026 ändert und wie Sie Ihre eigene Lieferung überprüfen."
 description: "Herkunftsnachweise, Residualmix, Greenwashing: was ein belgisches Ökostrom-Angebot wirklich belegt — und wie Sie es selbst überprüfen."
@@ -202,6 +203,8 @@ Die fünfte Frage trennt am schärfsten, und sie steht im Zentrum der Greenpeace
 ## Energieteilen: der einzige überprüfbare kurze Weg im belgischen Recht
 
 Im belgischen Recht existiert ein Mechanismus, bei dem der grüne Anspruch nicht erklärt, sondern **berechnet** wird. Es ist kein kommerzielles Angebot, sondern eine Regelung: das Energieteilen.
+
+Wie ein solcher kurzer Weg konkret zusammengestellt wird — wen man gewinnt, in welcher Reihenfolge, und warum er nach Zeitplan statt nach Sympathie entsteht —, behandelt [„Strom auf kurzem Weg: Anleitung für Wallonien“](/de/aktuelles/2026/08/25/strom-kurze-wege-anleitung/).
 
 ### Die Definition enthält die Antwort bereits
 

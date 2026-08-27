@@ -8,7 +8,7 @@ description: "The self-consumption rate and how to raise it, collective self-con
 tags: [community]
 lang: en
 ref: self-consumption-belgium
-last_modified_at: 2026-08-18 04:00:00 +0200
+last_modified_at: 2026-08-27 06:00:00 +0200
 permalink: /en/news/2026/06/05/energy-self-consumption-belgium/
 faq:
   - q: "What is the self-consumption rate?"
@@ -34,6 +34,8 @@ Self-consumption means **consuming the electricity you produce** — typically v
 **Individual self-consumption.** A household or business with panels directly consumes part of its own production. The share actually consumed on site is the **self-consumption rate**: if your panels produce 4,000 kWh over the year and you directly consume 1,200 kWh, your rate is 30%. The rest (the **surplus**) is injected onto the grid, usually at a value well below the price at which you buy electricity. Raising that rate therefore raises the value of every kWh produced.
 
 **Collective self-consumption.** When one (or several) installation supplies **several participants** — the residents of a building, neighbours, businesses on the same site — it's called collective self-consumption. Sharing is **administrative, not physical**: electrons still flow over the public grid, but the distribution system operator (DSO) reallocates a share of local production to each participant **every 15 minutes**, according to an **allocation key**. In Belgium, this collective self-consumption is organised within an **energy community** or a sharing operation (see below).
+
+That fifteen-minute granularity has a practical consequence the definition does not hint at: a group is assembled by timetable, not by affinity. It is developed in [“Local electricity: the short-circuit guide”](/en/news/2026/08/25/local-electricity-short-circuit-guide/).
 
 > For the full legal framework (CER, CEC, CEL) and how sharing works in detail, see our reference guide [“Energy communities in Belgium: CER, CEC, CEL”](/en/news/2026/05/11/energy-communities-belgium/).
 
@@ -90,6 +92,8 @@ The principle of self-consumption is identical everywhere, but the actors and th
 - **Tenants and households without a usable roof**, who access local electricity through collective self-consumption, with nothing to install.
 - **Co-ownerships and apartment buildings**, an ideal configuration for an in-building sharing operation.
 - **SMEs and local authorities**, whose roof space and daytime consumption profiles suit self-consumption particularly well. [Beci](https://www.beci.be/blog/esg-34/les-communautes-denergie-pour-lautoconsommation-collective-2086) highlights the economic case for Brussels businesses.
+
+The apartment-building configuration deserves its own guide: it combines the most favourable tariff perimeter in the country with three locks of condominium law that energy law never mentions. They are reviewed in [“Energy sharing in a condominium: the guide”](/en/news/2026/08/27/energy-sharing-condominium-guide/).
 
 ## Practical conditions to know
 

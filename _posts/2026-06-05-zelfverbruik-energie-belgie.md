@@ -8,7 +8,7 @@ description: "Zelfverbruiksgraad en hoe u die verhoogt, collectief zelfverbruik,
 tags: [community]
 lang: nl
 ref: self-consumption-belgium
-last_modified_at: 2026-08-18 04:00:00 +0200
+last_modified_at: 2026-08-27 06:00:00 +0200
 permalink: /nl/nieuws/2026/06/05/zelfverbruik-energie-belgie/
 faq:
   - q: "Wat is de zelfverbruiksgraad?"
@@ -34,6 +34,8 @@ Zelfverbruik betekent de **elektriciteit die u zelf opwekt** — doorgaans via z
 **Individueel zelfverbruik.** Een gezin of bedrijf met panelen verbruikt rechtstreeks een deel van de eigen productie. Het deel dat effectief ter plaatse wordt verbruikt, heet de **zelfverbruiksgraad**: produceren uw panelen 4.000 kWh op een jaar en verbruikt u daarvan 1.200 kWh rechtstreeks, dan is uw graad 30%. De rest (het **overschot**) wordt op het net geïnjecteerd, meestal tegen een waarde ver onder de prijs waartegen uw elektriciteit koopt. Die graad verhogen betekent dus de waarde van elke geproduceerde kWh verhogen.
 
 **Collectief zelfverbruik.** Wanneer een (of meer) installatie **meerdere deelnemers** bevoorraadt — de bewoners van een gebouw, buren, bedrijven op dezelfde site — spreekt men van collectief zelfverbruik. Het delen is **administratief, niet fysiek**: de elektronen stromen nog steeds over het openbare net, maar de distributienetbeheerder (DNB) wijst elke deelnemer **om de 15 minuten** een aandeel van de lokale productie toe volgens een **verdeelsleutel**. In België wordt dit collectieve zelfverbruik georganiseerd binnen een **energiegemeenschap** of een deelactie (zie verder).
+
+Die maaswijdte van vijftien minuten heeft een praktisch gevolg dat de definitie niet laat vermoeden: een groep stelt zich samen op uurrooster, niet op sympathie. Het wordt uitgewerkt in [“Stroom in de korte keten: de handleiding”](/nl/nieuws/2026/08/25/elektriciteit-korte-keten-handleiding/).
 
 > Voor het volledige wettelijke kader (CER, CEC, CEL) en de gedetailleerde werking van het delen, zie onze referentiegids [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/).
 
@@ -90,6 +92,8 @@ Het principe van zelfverbruik is overal gelijk, maar de actoren en de maturiteit
 - **Huurders en gezinnen zonder bruikbaar dak**, die via collectief zelfverbruik lokale elektriciteit verkrijgen — zonder iets te installeren.
 - **Mede-eigendommen en appartementsgebouwen**, een ideale configuratie voor een deelactie binnen het gebouw.
 - **Kmo's en lokale overheden**, waarvan de dakoppervlakken en dagverbruiksprofielen bijzonder geschikt zijn voor zelfverbruik. [Beci](https://www.beci.be/blog/esg-34/les-communautes-denergie-pour-lautoconsommation-collective-2086) benadrukt het economische belang voor Brusselse bedrijven.
+
+De configuratie van het appartementsgebouw verdient trouwens haar eigen handleiding: ze combineert de gunstigste tariefperimeter van het land met drie sloten uit het recht van de mede-eigendom die het energierecht nergens vermeldt. Ze worden doorgenomen in [“Energie delen in een appartementsgebouw”](/nl/nieuws/2026/08/27/energie-delen-appartementsgebouw/).
 
 ## Praktische voorwaarden om te kennen
 

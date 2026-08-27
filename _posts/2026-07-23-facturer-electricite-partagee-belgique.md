@@ -8,7 +8,7 @@ description: "Deux factures coexistent dans un partage d'énergie. Qui émet quo
 tags: [community, administrative, guide]
 lang: fr
 ref: invoice-shared-electricity
-last_modified_at: 2026-07-30 10:00:00 +0200
+last_modified_at: 2026-08-27 06:00:00 +0200
 faq:
   - q: "Qui doit émettre la facture pour l'énergie partagée ?"
     a: "Le représentant du partage — l'acteur désigné dans la convention pour organiser le partage. La CWaPE l'écrit sans détour : « c'est le représentant du partage qui facture l'énergie partagée aux participants ». Le gestionnaire de réseau calcule les volumes quart d'heure par quart d'heure et les transmet, mais il ne facture pas. Le fournisseur, lui, ne facture que l'énergie qui n'a pas été couverte par le partage."
@@ -103,6 +103,8 @@ Trois points spécifiques :
 - **Un vrai avantage réseau, mais borné à l'immeuble.** En Wallonie, le partage au sein d'un même bâtiment bénéficie d'une réduction de **80 % sur les termes proportionnels** du tarif de réseau. Attention : cet avantage vaut pour l'**immeuble**, pas pour la communauté d'énergie — la CWaPE précise qu'« il n'existe pas de réduction tarifaire pour le partage au sein d'une communauté d'énergie » ([CWaPE](https://www.cwape.be/node/6062)).
 - **Le syndic peut facturer sa gestion.** Le travail administratif — entrées et sorties de participants, émission des factures, suivi — peut être pris en charge et facturé par le syndic, ou externalisé. Rien n'impose la gratuité.
 - **Le calendrier peut suivre l'exercice comptable.** Il est possible de caler la facturation du partage sur le rythme comptable de la copropriété, plutôt que d'ouvrir un cycle parallèle.
+
+Ce que cette section ne traite pas, c'est la question qui la précède : **qui possède l'installation, et à quelle majorité l'assemblée générale l'a décidé.** Le patrimoine de l'association des copropriétaires est borné par l'article 3.86, § 3, du Code civil, et le seuil de majorité dépend du montage retenu — deux tiers ou quatre cinquièmes. Le parcours complet est détaillé dans [« Partage d'énergie en copropriété : le guide »](/actualites/2026/08/27/partage-energie-copropriete-guide/).
 
 Un poste, enfin, à ne jamais oublier dans le décompte : **votre fournisseur peut facturer des frais pour votre participation au partage.** La CWaPE confirme que rien ne l'interdit ([CWaPE](https://www.cwape.be/node/6060)), et les montants relevés vont jusqu'à environ 150 € par an et par point de fourniture. Sur de petits volumes partagés, ces frais peuvent annuler le gain : ils doivent entrer dans la simulation, pas se découvrir sur la facture.
 

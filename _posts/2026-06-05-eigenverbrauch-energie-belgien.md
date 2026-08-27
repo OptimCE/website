@@ -8,7 +8,7 @@ description: "Eigenverbrauchsquote und wie man sie erhöht, kollektiver Eigenver
 tags: [community]
 lang: de
 ref: self-consumption-belgium
-last_modified_at: 2026-08-18 04:00:00 +0200
+last_modified_at: 2026-08-27 06:00:00 +0200
 permalink: /de/aktuelles/2026/06/05/eigenverbrauch-energie-belgien/
 faq:
   - q: "Was ist die Eigenverbrauchsquote?"
@@ -34,6 +34,8 @@ Eigenverbrauch bedeutet, den **selbst erzeugten Strom** — typischerweise über
 **Individueller Eigenverbrauch.** Ein Haushalt oder Unternehmen mit Anlage verbraucht direkt einen Teil der eigenen Produktion. Der tatsächlich vor Ort verbrauchte Anteil ist die **Eigenverbrauchsquote**: Erzeugt Ihre Anlage 4.000 kWh im Jahr und verbrauchen Sie davon 1.200 kWh direkt, beträgt Ihre Quote 30 %. Der Rest (der **Überschuss**) wird ins Netz eingespeist, meist zu einem Wert weit unter dem Preis, zu dem Sie Strom einkaufen. Die Quote zu erhöhen heißt also, den Wert jeder erzeugten kWh zu steigern.
 
 **Kollektiver Eigenverbrauch.** Versorgt eine (oder mehrere) Anlage **mehrere Teilnehmer** — die Bewohner eines Gebäudes, Nachbarn, Unternehmen am selben Standort —, spricht man von kollektivem Eigenverbrauch. Das Teilen ist **administrativ, nicht physisch**: Die Elektronen fließen weiterhin über das öffentliche Netz, doch der Verteilnetzbetreiber (VNB) weist jedem Teilnehmer **alle 15 Minuten** einen Anteil der lokalen Produktion nach einem **Aufteilungsschlüssel** zu. In Belgien organisiert sich dieser kollektive Eigenverbrauch innerhalb einer **Energiegemeinschaft** oder einer Teilungsoperation (siehe unten).
+
+Diese Fünfzehn-Minuten-Maschenweite hat eine praktische Folge, die die Definition nicht erahnen lässt: Eine Gruppe entsteht nach Zeitplan, nicht nach Sympathie. Sie wird in [„Strom auf kurzem Weg: Anleitung für Wallonien“](/de/aktuelles/2026/08/25/strom-kurze-wege-anleitung/) entfaltet.
 
 > Den vollständigen rechtlichen Rahmen (CER, CEC, CEL) und die genaue Funktionsweise des Teilens finden Sie in unserem Leitfaden [„Energiegemeinschaften in Belgien: CER, CEC, CEL“](/de/aktuelles/2026/05/11/energiegemeinschaften-belgien/).
 
@@ -90,6 +92,8 @@ Das Prinzip des Eigenverbrauchs ist überall gleich, doch die Akteure und der Re
 - **Mieter und Haushalte ohne nutzbares Dach**, die über den kollektiven Eigenverbrauch lokalen Strom beziehen — ohne etwas zu installieren.
 - **Wohnungseigentümergemeinschaften und Mehrfamilienhäuser**, eine ideale Konfiguration für eine Teilungsoperation innerhalb des Gebäudes.
 - **KMU und lokale Behörden**, deren Dachflächen und tagsüber liegende Verbrauchsprofile besonders gut zum Eigenverbrauch passen. [Beci](https://www.beci.be/blog/esg-34/les-communautes-denergie-pour-lautoconsommation-collective-2086) hebt den wirtschaftlichen Nutzen für Brüsseler Unternehmen hervor.
+
+Die Konstellation des Mehrparteienhauses verdient übrigens eine eigene Anleitung: Sie verbindet den günstigsten Tarifperimeter des Landes mit drei Sperren des Wohnungseigentumsrechts, die das Energierecht nirgends erwähnt. Sie werden in [„Energie teilen im Mehrparteienhaus“](/de/aktuelles/2026/08/27/energie-teilen-mehrparteienhaus/) durchgegangen.
 
 ## Praktische Bedingungen, die Sie kennen sollten
 

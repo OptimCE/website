@@ -8,7 +8,7 @@ description: "Taux d'autoconsommation et comment l'augmenter, autoconsommation c
 tags: [community]
 lang: fr
 ref: self-consumption-belgium
-last_modified_at: 2026-08-18 04:00:00 +0200
+last_modified_at: 2026-08-27 06:00:00 +0200
 faq:
   - q: "Qu'est-ce que le taux d'autoconsommation ?"
     a: "C'est la part de votre production solaire que vous consommez vous-même, au lieu de l'injecter sur le réseau. Un taux de 30 % signifie que vous consommez directement 30 % de ce que vos panneaux produisent ; le reste est injecté. Plus le taux est élevé, plus vous valorisez votre production."
@@ -33,6 +33,8 @@ L'autoconsommation consiste à **consommer l'électricité que l'on produit** �
 **L'autoconsommation individuelle.** Un ménage ou une entreprise équipé de panneaux consomme directement une partie de sa propre production. La part réellement consommée sur place s'appelle le **taux d'autoconsommation** : si vos panneaux produisent 4 000 kWh sur l'année et que vous en consommez directement 1 200 kWh, votre taux est de 30 %. Le reste (le **surplus**) est injecté sur le réseau, généralement à une valeur bien inférieure au prix auquel vous achetez votre électricité. Augmenter ce taux, c'est donc augmenter la valeur de chaque kWh produit.
 
 **L'autoconsommation collective.** Lorsqu'une installation (ou plusieurs) alimente **plusieurs participants** — les habitants d'un immeuble, des voisins d'un quartier, des entreprises d'un même site — on parle d'autoconsommation collective. Le partage est **administratif, pas physique** : les électrons circulent toujours sur le réseau public, mais le gestionnaire de réseau de distribution (GRD) réattribue, **toutes les 15 minutes**, une part de la production locale à chaque participant selon une **clé de répartition**. En Belgique, cette autoconsommation collective s'organise au sein d'une **communauté d'énergie** ou d'une opération de partage (voir plus bas).
+
+Cette maille de quinze minutes a une conséquence pratique que la définition ne laisse pas deviner : un groupe ne se compose pas par affinité mais par horaire. Elle est développée dans [« Électricité en circuit court : le mode d'emploi »](/actualites/2026/08/25/electricite-circuit-court-mode-emploi/).
 
 > Pour le cadre légal complet (CER, CEC, CEL) et le fonctionnement détaillé du partage, voyez notre guide de référence [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/actualites/2026/05/11/communautes-energie-belgique/).
 
@@ -89,6 +91,8 @@ Le principe de l'autoconsommation est identique partout, mais les acteurs et l'�
 - **Les locataires et les ménages sans toiture exploitable**, qui accèdent à une électricité locale via l'autoconsommation collective, sans rien installer.
 - **Les copropriétés et immeubles à appartements**, configuration idéale pour une opération de partage intra-bâtiment.
 - **Les PME et les autorités locales**, dont les surfaces de toiture et les profils de consommation diurnes se prêtent particulièrement bien à l'autoconsommation. L'analyse de [Beci](https://www.beci.be/blog/esg-34/les-communautes-denergie-pour-lautoconsommation-collective-2086) souligne l'intérêt économique pour les entreprises bruxelloises.
+
+La configuration de l'immeuble mérite d'ailleurs son propre mode d'emploi : elle cumule le meilleur périmètre tarifaire du pays et trois verrous du droit de la copropriété que le droit de l'énergie ne mentionne nulle part. Ils sont passés en revue dans [« Partage d'énergie en copropriété : le guide »](/actualites/2026/08/27/partage-energie-copropriete-guide/).
 
 ## Conditions pratiques à connaître
 

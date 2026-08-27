@@ -9,7 +9,7 @@ tags: [community, administrative, guide]
 lang: de
 ref: invoice-shared-electricity
 permalink: /de/aktuelles/2026/07/23/geteilten-strom-abrechnen-belgien/
-last_modified_at: 2026-07-30 10:00:00 +0200
+last_modified_at: 2026-08-27 06:00:00 +0200
 faq:
   - q: "Wer muss die Rechnung für die geteilte Energie ausstellen?"
     a: "Der Vertreter der Energieteilung — die in der Vereinbarung benannte Partei, welche die Teilung organisiert. Die CWaPE formuliert es unmissverständlich: Es ist der Vertreter der Energieteilung, der die geteilte Energie den Teilnehmern in Rechnung stellt. Der Netzbetreiber berechnet die Mengen viertelstundenweise und übermittelt sie, stellt aber keine Rechnung. Der Lieferant fakturiert nur die Energie, die das Teilen nicht abgedeckt hat."
@@ -104,6 +104,8 @@ Drei spezifische Punkte:
 - **Ein echter Netzvorteil, aber auf das Gebäude begrenzt.** In der Wallonie genießt das Teilen innerhalb eines einzigen Gebäudes eine Ermäßigung von 80 % auf die **proportionalen Bestandteile** des Netztarifs. Achtung: Dieser Vorteil gilt für das **Gebäude**, nicht für die Energiegemeinschaft — die CWaPE stellt fest, dass es „keine Tarifermäßigung für das Teilen innerhalb einer Energiegemeinschaft gibt“ ([CWaPE](https://www.cwape.be/node/6062)).
 - **Der Hausverwalter kann seine Verwaltung in Rechnung stellen.** Die administrative Arbeit — Ein- und Austritte von Teilnehmern, Ausstellung der Rechnungen, Nachverfolgung — kann vom Hausverwalter übernommen und fakturiert oder ausgelagert werden. Nichts schreibt Unentgeltlichkeit vor.
 - **Der Zeitplan kann dem Geschäftsjahr folgen.** Es ist möglich, die Teilungsabrechnung am buchhalterischen Rhythmus der Eigentümergemeinschaft auszurichten, statt einen parallelen Zyklus zu eröffnen.
+
+Was dieser Abschnitt nicht behandelt, ist die vorgelagerte Frage: **wem die Anlage gehört und mit welcher Mehrheit die Eigentümerversammlung das beschlossen hat.** Das Vermögen der Vereinigung der Miteigentümer ist durch Artikel 3.86, § 3, des Zivilgesetzbuches begrenzt, und die Mehrheitsschwelle hängt von der gewählten Konstruktion ab — zwei Drittel oder vier Fünftel. Der vollständige Weg steht in [„Energie teilen im Mehrparteienhaus“](/de/aktuelles/2026/08/27/energie-teilen-mehrparteienhaus/).
 
 Ein Posten schließlich, den man in der Rechnung nie vergessen darf: **Ihr Lieferant kann Gebühren für Ihre Teilnahme am Teilen fakturieren.** Die CWaPE bestätigt, dass nichts dies verbietet ([CWaPE](https://www.cwape.be/node/6060)), und die erfassten Beträge reichen bis etwa 150 € pro Jahr und Lieferstelle. Bei kleinen geteilten Mengen können diese Gebühren den Gewinn zunichtemachen: Sie gehören in die Simulation, nicht als Überraschung auf die Rechnung.
 

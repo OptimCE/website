@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" role="img" aria-labelledby="t d">
+<title id="t">Three routes to owning a condominium's solar panels</title><desc id="d">Comparison of the three possible ownership structures for a photovoltaic installation on the common roof of a Belgian condominium in 2026. In the first route, the co-owners finance the installation, which becomes a common part held in forced co-ownership: the decision is taken by a two-thirds majority at the general meeting, the injection point is the common-parts meter, the managing agent invoices on behalf of the condominium, and it is the condominium that must register for VAT above ten kilovolt-amperes. In the second route, a non-profit or a cooperative owns the installation under a right of superficies granted by the condominium: the decision requires four fifths of the votes, the legal entity holds the injection point, invoices itself and carries the VAT registration. In the third route, a third-party investor owns the installation under a right of superficies, also at four fifths of the votes: the condominium advances no capital but receives only a fee or a share of the revenue, and the value created leaves the building. A band at the bottom of the diagram recalls that the association of co-owners itself is the owner in none of the three routes, because article 3.86, paragraph 3, of the Civil Code limits its assets to the movable property necessary to preserve and administer the building.</desc>
+<rect width="800" height="620" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="60" y="44" font-size="21" fill="#212529" font-weight="700">Three routes to owning a condominium's solar panels</text>
+<text x="60" y="70" font-size="13" fill="#495057" font-weight="400">What each structure imposes: majority at the general meeting, ownership, invoicing and VAT</text>
+<rect x="60" y="96" width="218" height="404" rx="8" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<path d="M68 99 h202" stroke="#2e7d32" stroke-width="4" stroke-linecap="round" fill="none"/>
+<text x="74" y="122" font-size="10" fill="#6c757d" font-weight="700">ROUTE 1</text>
+<text x="74" y="144" font-size="13.5" fill="#212529" font-weight="700">Co-owners in</text>
+<text x="74" y="160" font-size="13.5" fill="#212529" font-weight="700">undivided ownership</text>
+<text x="74" y="182" font-size="10" fill="#6c757d" font-weight="400">The condominium finances</text>
+<text x="74" y="195" font-size="10" fill="#6c757d" font-weight="400">and owns — no notarial deed</text>
+<rect x="74" y="204" width="190" height="42" rx="6" fill="#e8f5e9" stroke="#DEE2E6" stroke-width="1"/>
+<text x="169.0" y="226" font-size="15" fill="#1b5e20" font-weight="700" text-anchor="middle">2/3 of the votes</text>
+<text x="169.0" y="240" font-size="9" fill="#6c757d" font-weight="400" text-anchor="middle">art. 3.88, § 1, 1°, b</text>
+<text x="74" y="272" font-size="9" fill="#6c757d" font-weight="700">WHO OWNS THE INSTALLATION</text>
+<text x="74" y="285" font-size="10.5" fill="#212529" font-weight="400">The co-owners, in forced</text>
+<text x="74" y="297" font-size="10.5" fill="#212529" font-weight="400">co-ownership</text>
+<text x="74" y="310" font-size="9" fill="#6c757d" font-weight="700">INJECTION POINT</text>
+<text x="74" y="323" font-size="10.5" fill="#212529" font-weight="400">The common-parts meter</text>
+<text x="74" y="348" font-size="9" fill="#6c757d" font-weight="700">WHO INVOICES THE SHARING</text>
+<text x="74" y="361" font-size="10.5" fill="#212529" font-weight="400">The managing agent, for</text>
+<text x="74" y="373" font-size="10.5" fill="#212529" font-weight="400">the condominium</text>
+<text x="74" y="386" font-size="9" fill="#6c757d" font-weight="700">VAT REGISTRATION ABOVE 10 kVA</text>
+<text x="74" y="399" font-size="10.5" fill="#212529" font-weight="400">The condominium</text>
+<text x="74" y="424" font-size="9" fill="#6c757d" font-weight="700">CAPITAL TO RAISE</text>
+<text x="74" y="437" font-size="10.5" fill="#212529" font-weight="400">In full</text>
+<text x="74" y="462" font-size="9" fill="#6c757d" font-weight="700">WHERE THE VALUE GOES</text>
+<text x="74" y="475" font-size="10.5" fill="#212529" font-weight="400">To the co-owners,</text>
+<text x="74" y="487" font-size="10.5" fill="#212529" font-weight="400">via service charges</text>
+<rect x="291" y="96" width="218" height="404" rx="8" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<text x="305" y="122" font-size="10" fill="#6c757d" font-weight="700">ROUTE 2</text>
+<text x="305" y="144" font-size="13.5" fill="#212529" font-weight="700">Non-profit or</text>
+<text x="305" y="160" font-size="13.5" fill="#212529" font-weight="700">cooperative</text>
+<text x="305" y="182" font-size="10" fill="#6c757d" font-weight="400">Right of superficies —</text>
+<text x="305" y="195" font-size="10" fill="#6c757d" font-weight="400">notarial deed required</text>
+<rect x="305" y="204" width="190" height="42" rx="6" fill="#F8F9FA" stroke="#DEE2E6" stroke-width="1"/>
+<text x="400.0" y="226" font-size="15" fill="#495057" font-weight="700" text-anchor="middle">4/5 of the votes</text>
+<text x="400.0" y="240" font-size="9" fill="#6c757d" font-weight="400" text-anchor="middle">art. 3.88, § 1, 2°, e</text>
+<text x="305" y="272" font-size="9" fill="#6c757d" font-weight="700">WHO OWNS THE INSTALLATION</text>
+<text x="305" y="285" font-size="10.5" fill="#212529" font-weight="400">The non-profit or</text>
+<text x="305" y="297" font-size="10.5" fill="#212529" font-weight="400">cooperative</text>
+<text x="305" y="310" font-size="9" fill="#6c757d" font-weight="700">INJECTION POINT</text>
+<text x="305" y="323" font-size="10.5" fill="#212529" font-weight="400">The legal entity</text>
+<text x="305" y="348" font-size="9" fill="#6c757d" font-weight="700">WHO INVOICES THE SHARING</text>
+<text x="305" y="361" font-size="10.5" fill="#212529" font-weight="400">The legal entity</text>
+<text x="305" y="386" font-size="9" fill="#6c757d" font-weight="700">VAT REGISTRATION ABOVE 10 kVA</text>
+<text x="305" y="399" font-size="10.5" fill="#212529" font-weight="400">The legal entity</text>
+<text x="305" y="424" font-size="9" fill="#6c757d" font-weight="700">CAPITAL TO RAISE</text>
+<text x="305" y="437" font-size="10.5" fill="#212529" font-weight="400">In full, outside the</text>
+<text x="305" y="449" font-size="10.5" fill="#212529" font-weight="400">association's assets</text>
+<text x="305" y="462" font-size="9" fill="#6c757d" font-weight="700">WHERE THE VALUE GOES</text>
+<text x="305" y="475" font-size="10.5" fill="#212529" font-weight="400">To the members</text>
+<rect x="522" y="96" width="218" height="404" rx="8" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<text x="536" y="122" font-size="10" fill="#6c757d" font-weight="700">ROUTE 3</text>
+<text x="536" y="144" font-size="13.5" fill="#212529" font-weight="700">Third-party</text>
+<text x="536" y="160" font-size="13.5" fill="#212529" font-weight="700">investor</text>
+<text x="536" y="182" font-size="10" fill="#6c757d" font-weight="400">Right of superficies —</text>
+<text x="536" y="195" font-size="10" fill="#6c757d" font-weight="400">notarial deed required</text>
+<rect x="536" y="204" width="190" height="42" rx="6" fill="#F8F9FA" stroke="#DEE2E6" stroke-width="1"/>
+<text x="631.0" y="226" font-size="15" fill="#495057" font-weight="700" text-anchor="middle">4/5 of the votes</text>
+<text x="631.0" y="240" font-size="9" fill="#6c757d" font-weight="400" text-anchor="middle">art. 3.88, § 1, 2°, e</text>
+<text x="536" y="272" font-size="9" fill="#6c757d" font-weight="700">WHO OWNS THE INSTALLATION</text>
+<text x="536" y="285" font-size="10.5" fill="#212529" font-weight="400">The third-party investor</text>
+<text x="536" y="310" font-size="9" fill="#6c757d" font-weight="700">INJECTION POINT</text>
+<text x="536" y="323" font-size="10.5" fill="#212529" font-weight="400">The investor, or the</text>
+<text x="536" y="335" font-size="10.5" fill="#212529" font-weight="400">condominium, per contract</text>
+<text x="536" y="348" font-size="9" fill="#6c757d" font-weight="700">WHO INVOICES THE SHARING</text>
+<text x="536" y="361" font-size="10.5" fill="#212529" font-weight="400">The investor or its</text>
+<text x="536" y="373" font-size="10.5" fill="#212529" font-weight="400">agent</text>
+<text x="536" y="386" font-size="9" fill="#6c757d" font-weight="700">VAT REGISTRATION ABOVE 10 kVA</text>
+<text x="536" y="399" font-size="10.5" fill="#212529" font-weight="400">The investor</text>
+<text x="536" y="424" font-size="9" fill="#6c757d" font-weight="700">CAPITAL TO RAISE</text>
+<text x="536" y="437" font-size="10.5" fill="#212529" font-weight="400">None</text>
+<text x="536" y="462" font-size="9" fill="#6c757d" font-weight="700">WHERE THE VALUE GOES</text>
+<text x="536" y="475" font-size="10.5" fill="#212529" font-weight="400">To the investor,</text>
+<text x="536" y="487" font-size="10.5" fill="#212529" font-weight="400">apart from the fee</text>
+<rect x="60" y="516" width="680" height="76" rx="8" fill="#F8F9FA" stroke="#DEE2E6" stroke-width="1"/>
+<path d="M63 528 v52" stroke="#2e7d32" stroke-width="4" stroke-linecap="round" fill="none"/>
+<text x="80" y="540" font-size="11.5" fill="#212529" font-weight="700">In all three routes, the association of co-owners is never the owner.</text>
+<text x="80" y="559" font-size="10" fill="#495057" font-weight="400">Article 3.86, § 3, of the Civil Code: its assets are limited to the movable property needed to administer the building.</text>
+<text x="80" y="574" font-size="10" fill="#495057" font-weight="400">Panels fixed to the roof become immovable by incorporation — so an owner must be designated elsewhere.</text>
+</g></svg>

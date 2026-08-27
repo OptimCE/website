@@ -9,7 +9,7 @@ tags: [community, administrative, guide]
 lang: en
 ref: invoice-shared-electricity
 permalink: /en/news/2026/07/23/who-invoices-shared-electricity-belgium/
-last_modified_at: 2026-07-30 10:00:00 +0200
+last_modified_at: 2026-08-27 06:00:00 +0200
 faq:
   - q: "Who must issue the invoice for shared energy?"
     a: "The sharing representative — the party designated in the agreement to organise the sharing. The CWaPE puts it plainly: it is the sharing representative who invoices shared energy to the participants. The grid operator computes the volumes quarter-hour by quarter-hour and forwards them, but it does not invoice. The supplier only bills the energy that sharing did not cover."
@@ -104,6 +104,8 @@ Three specific points:
 - **A genuine network advantage, but bounded to the building.** In Wallonia, sharing within a single building enjoys an 80% reduction on the **proportional terms** of the network tariff. Careful: this advantage applies to the **building**, not to the energy community — the CWaPE states that "there is no tariff reduction for sharing within an energy community" ([CWaPE](https://www.cwape.be/node/6062)).
 - **The syndic can bill its management.** The administrative work — participant entries and exits, invoice issuing, follow-up — can be handled and billed by the syndic, or outsourced. Nothing requires it to be free.
 - **The schedule can follow the accounting year.** It is possible to align the sharing invoicing with the co-ownership's accounting rhythm, rather than opening a parallel cycle.
+
+What this section does not cover is the question that precedes it: **who owns the installation, and by what majority the general meeting decided it.** The assets of the association of co-owners are bounded by article 3.86, § 3, of the Civil Code, and the majority threshold depends on the structure chosen — two thirds or four fifths. The full path is set out in [“Energy sharing in a condominium: the guide”](/en/news/2026/08/27/energy-sharing-condominium-guide/).
 
 Finally, one item never to forget in the reckoning: **your supplier may bill fees for your participation in sharing.** The CWaPE confirms nothing prohibits it ([CWaPE](https://www.cwape.be/node/6060)), and the amounts recorded reach around €150 per year and per supply point. On small shared volumes, these fees can wipe out the gain: they belong in the simulation, not on the invoice as a surprise.
 

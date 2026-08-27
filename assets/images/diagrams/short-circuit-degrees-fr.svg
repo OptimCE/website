@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 640" width="800" height="640" role="img" aria-labelledby="t d">
+<title id="t">Les quatre degrés du circuit court, de l'assiette au compteur</title><desc id="d">Comparaison des quatre degrés du circuit court alimentaire et de leurs équivalents électriques en Wallonie en 2026. La vente directe à la ferme, sans aucun intermédiaire, correspond au partage de pair à pair, juridiquement impossible en Wallonie faute d'arrêté d'exécution. Le potager collectif d'un immeuble correspond au partage au sein d'un même bâtiment, possible sur simple notification et assorti d'une réduction de 80 pour cent sur les termes proportionnels du tarif réseau depuis le 1er janvier 2025. Le groupement d'achat commun correspond à la communauté d'énergie renouvelable ou citoyenne, qui exige une personne morale et une autorisation de la CWaPE, treize communautés étant notifiées en août 2026 pour environ 126 participants. Le magasin coopératif correspond à la coopérative citoyenne et à son fournisseur Cociter, filière mature qui rassemblait vingt coopératives et 23 000 coopérateurs fin 2024. En bas du schéma, une bande montre la différence décisive : côté alimentaire le frigo absorbe le décalage entre la livraison et la consommation, côté énergie il n'existe aucun report d'un quart d'heure sur le suivant.</desc>
+<rect width="800" height="640" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="60" y="44" font-size="21" fill="#212529" font-weight="700">Les quatre degrés du circuit court, de l'assiette au compteur</text>
+<text x="60" y="70" font-size="13" fill="#495057" font-weight="400">Ce que chaque degré retire comme intermédiaire — et ce qu'il en reste en Wallonie</text>
+<text x="60" y="110" font-size="11.5" fill="#495057" font-weight="700">Circuit court alimentaire</text>
+<text x="306" y="110" font-size="11.5" fill="#495057" font-weight="700">Équivalent électrique</text>
+<text x="740" y="110" font-size="11.5" fill="#495057" font-weight="700" text-anchor="end">Statut en Wallonie</text>
+<line x1="60" y1="120" x2="740" y2="120" stroke="#DEE2E6" stroke-width="1"/>
+<text x="60" y="154" font-size="13.5" fill="#212529" font-weight="700">Vente directe à la ferme</text>
+<text x="60" y="173" font-size="10.5" fill="#495057" font-weight="400">zéro intermédiaire</text>
+<path d="M280 150 h14 m-5 -5 l5 5 l-5 5" fill="none" stroke="#2e7d32" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="306" y="154" font-size="13.5" fill="#1b5e20" font-weight="700">Partage de pair-à-pair</text>
+<text x="306" y="173" font-size="10.5" fill="#495057" font-weight="400">deux compteurs, un prix convenu</text>
+<rect x="552" y="134" width="188" height="48" rx="6" fill="#F8F9FA" stroke="#DEE2E6" stroke-width="1"/>
+<text x="646" y="154" font-size="12.5" fill="#495057" font-weight="700" text-anchor="middle">Impossible</text>
+<text x="646" y="171" font-size="10.5" fill="#6c757d" font-weight="400" text-anchor="middle">arrêté manquant</text>
+<line x1="60" y1="202" x2="740" y2="202" stroke="#DEE2E6" stroke-width="1"/>
+<text x="60" y="238" font-size="13.5" fill="#212529" font-weight="700">Potager collectif de l'immeuble</text>
+<text x="60" y="257" font-size="10.5" fill="#495057" font-weight="400">les occupants s'arrangent</text>
+<path d="M280 234 h14 m-5 -5 l5 5 l-5 5" fill="none" stroke="#2e7d32" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="306" y="238" font-size="13.5" fill="#1b5e20" font-weight="700">Partage dans un même bâtiment</text>
+<text x="306" y="257" font-size="10.5" fill="#495057" font-weight="400">notification, convention</text>
+<rect x="552" y="218" width="188" height="48" rx="6" fill="#e8f5e9" stroke="#e8f5e9" stroke-width="1"/>
+<text x="646" y="238" font-size="12.5" fill="#1b5e20" font-weight="700" text-anchor="middle">Possible</text>
+<text x="646" y="255" font-size="10.5" fill="#2e7d32" font-weight="400" text-anchor="middle">−80 % terme proportionnel</text>
+<line x1="60" y1="286" x2="740" y2="286" stroke="#DEE2E6" stroke-width="1"/>
+<text x="60" y="322" font-size="13.5" fill="#212529" font-weight="700">Groupement d'achat commun</text>
+<text x="60" y="341" font-size="10.5" fill="#495057" font-weight="400">on mutualise, personne ne marge</text>
+<path d="M280 318 h14 m-5 -5 l5 5 l-5 5" fill="none" stroke="#2e7d32" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="306" y="322" font-size="13.5" fill="#1b5e20" font-weight="700">Communauté d'énergie</text>
+<text x="306" y="341" font-size="10.5" fill="#495057" font-weight="400">CER ou CEC, personne morale</text>
+<rect x="552" y="302" width="188" height="48" rx="6" fill="#e8f5e9" stroke="#e8f5e9" stroke-width="1"/>
+<text x="646" y="322" font-size="12.5" fill="#1b5e20" font-weight="700" text-anchor="middle">Possible</text>
+<text x="646" y="339" font-size="10.5" fill="#2e7d32" font-weight="400" text-anchor="middle">13 communautés</text>
+<line x1="60" y1="370" x2="740" y2="370" stroke="#DEE2E6" stroke-width="1"/>
+<text x="60" y="406" font-size="13.5" fill="#212529" font-weight="700">Magasin coopératif</text>
+<text x="60" y="425" font-size="10.5" fill="#495057" font-weight="400">un intermédiaire, mais il est à vous</text>
+<path d="M280 402 h14 m-5 -5 l5 5 l-5 5" fill="none" stroke="#2e7d32" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="306" y="406" font-size="13.5" fill="#1b5e20" font-weight="700">Coopérative citoyenne</text>
+<text x="306" y="425" font-size="10.5" fill="#495057" font-weight="400">vous changez de fournisseur</text>
+<rect x="552" y="386" width="188" height="48" rx="6" fill="#2e7d32" stroke="#2e7d32" stroke-width="1"/>
+<text x="646" y="406" font-size="12.5" fill="#FFFFFF" font-weight="700" text-anchor="middle">Mature</text>
+<text x="646" y="423" font-size="10.5" fill="#e8f5e9" font-weight="400" text-anchor="middle">20 coopératives</text>
+<text x="60" y="486" font-size="11.5" fill="#495057" font-weight="400">En Wallonie, environ 126 personnes participent réellement à un partage. À Bruxelles, 1 417.</text>
+<text x="60" y="528" font-size="14" fill="#212529" font-weight="700">La différence qui ne se rattrape pas</text>
+<rect x="60" y="542" width="330" height="74" rx="6" fill="#e8f5e9" stroke="#e8f5e9" stroke-width="1"/>
+<text x="76" y="566" font-size="12.5" fill="#1b5e20" font-weight="700">Alimentaire : le frigo</text>
+<text x="76" y="586" font-size="11" fill="#495057" font-weight="400">Le panier livré mardi se mange jeudi.</text>
+<text x="76" y="602" font-size="11" fill="#495057" font-weight="400">Le décalage est absorbé.</text>
+<rect x="410" y="542" width="330" height="74" rx="6" fill="#F8F9FA" stroke="#DEE2E6" stroke-width="1"/>
+<text x="426" y="566" font-size="12.5" fill="#212529" font-weight="700">Énergie : aucun report</text>
+<text x="426" y="586" font-size="11" fill="#495057" font-weight="400">Non consommé dans le même quart d'heure,</text>
+<text x="426" y="602" font-size="11" fill="#495057" font-weight="400">le kilowattheure retombe en injection.</text>
+</g></svg>

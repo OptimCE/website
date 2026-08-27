@@ -9,7 +9,7 @@ tags: [community, administrative, guide]
 lang: nl
 ref: invoice-shared-electricity
 permalink: /nl/nieuws/2026/07/23/gedeelde-elektriciteit-factureren-belgie/
-last_modified_at: 2026-07-30 10:00:00 +0200
+last_modified_at: 2026-08-27 06:00:00 +0200
 faq:
   - q: "Wie moet de factuur voor de gedeelde energie opstellen?"
     a: "De vertegenwoordiger van het energiedelen — de partij die in de overeenkomst is aangeduid om het delen te organiseren. De CWaPE stelt het onomwonden: het is de vertegenwoordiger van het energiedelen die de gedeelde energie aan de deelnemers factureert. De netbeheerder berekent de volumes kwartier per kwartier en stuurt ze door, maar factureert niet. De leverancier factureert enkel de energie die het delen niet heeft gedekt."
@@ -104,6 +104,8 @@ Drie specifieke punten:
 - **Een echt netvoordeel, maar begrensd tot het gebouw.** In Wallonië geniet het delen binnen eenzelfde gebouw een korting van 80 % op de **proportionele termen** van het nettarief. Let op: dat voordeel geldt voor het **gebouw**, niet voor de energiegemeenschap — de CWaPE stelt dat er “geen tariefkorting bestaat voor het delen binnen een energiegemeenschap” ([CWaPE](https://www.cwape.be/node/6062)).
 - **De syndicus mag zijn beheer factureren.** Het administratieve werk — in- en uittredingen van deelnemers, uitreiking van de facturen, opvolging — kan door de syndicus worden opgenomen en gefactureerd, of worden uitbesteed. Niets verplicht kosteloosheid.
 - **De kalender kan het boekjaar volgen.** Het is mogelijk om de deelfacturatie af te stemmen op het boekhoudkundige ritme van de mede-eigendom, in plaats van een parallelle cyclus te openen.
+
+Wat deze rubriek niet behandelt, is de vraag die eraan voorafgaat: **wie de installatie bezit, en met welke meerderheid de algemene vergadering dat heeft beslist.** Het vermogen van de vereniging van mede-eigenaars wordt begrensd door artikel 3.86, § 3, van het Burgerlijk Wetboek, en de meerderheidsdrempel hangt af van de gekozen structuur — twee derde of vier vijfde. Het volledige traject staat in [“Energie delen in een appartementsgebouw”](/nl/nieuws/2026/08/27/energie-delen-appartementsgebouw/).
 
 Ten slotte één post om nooit te vergeten in de afrekening: **uw leverancier kan kosten aanrekenen voor uw deelname aan het delen.** De CWaPE bevestigt dat niets dit verbiedt ([CWaPE](https://www.cwape.be/node/6060)), en de opgetekende bedragen lopen op tot ongeveer 150 € per jaar en per leveringspunt. Op kleine gedeelde volumes kunnen die kosten de winst tenietdoen: ze horen in de simulatie, niet als verrassing op de factuur.
 

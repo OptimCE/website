@@ -2,7 +2,7 @@
 layout: post
 title: "Strom sparen ohne Anbieterwechsel"
 date: 2026-08-05 04:00:00 +0200
-last_modified_at: 2026-08-22 06:00:00 +0200
+last_modified_at: 2026-08-27 06:00:00 +0200
 author: "Eric, OptimCE"
 excerpt: "Jeder Ratgeber zum Stromsparen endet mit demselben Satz: vergleichen und dann den Anbieter wechseln. Dabei gibt es einen Mechanismus, der die Rechnung senkt, ohne dass Sie irgendetwas kündigen müssen — die Energieteilung. Die Frage ist nicht, ob sie legal ist: das ist sie in allen drei Regionen. Die Frage ist, ob sie dort verfügbar ist, wo Sie wohnen, und zwei Zahlen umreißen die Antwort: 38 genehmigte Gemeinschaften in Brüssel, 8 in der Wallonie."
 description: "Energieteilung senkt Ihre Stromrechnung, ohne den Vertrag zu kündigen. Was sie wirklich bringt und in welcher Region sie tatsächlich verfügbar ist."
@@ -167,6 +167,8 @@ In der Wallonie ist die Logik dieselbe, das Anwendungsfeld jedoch deutlich enger
 
 Daraus folgt ein sehr praktischer Schluss für wallonische Leserinnen und Leser: **Wenn Sie in einem Miteigentum mit nutzbarem Dach wohnen, befinden Sie sich in der besten Konstellation des Landes nach Brüssel** — ohne juristische Person und mit 80 % weniger auf dem Arbeitspreisanteil der geteilten Mengen. In der Wallonie ist es die einzige Gestaltung, die administrative Einfachheit mit einem Netzvorteil verbindet.
 
+Die Eigentümerversammlung muss allerdings erst beschließen können. Dort ändert das Vorhaben seine Natur: Die gewählte Eigentumskonstruktion bestimmt die zu erreichende Mehrheit — zwei Drittel oder vier Fünftel — und die Vereinigung der Miteigentümer darf die Module nicht selbst besitzen. Dieser Weg wird in [„Energie teilen im Mehrparteienhaus“](/de/aktuelles/2026/08/27/energie-teilen-mehrparteienhaus/) beschrieben.
+
 ## Was die Wallonie blockiert und was sie lösen könnte
 
 Es wäre unredlich, die Teilung als Universallösung darzustellen, während jede zweite wallonische Leserin diesen Artikel ohne gangbare Option schließen wird. Benennen wir die Hindernisse.
@@ -190,6 +192,8 @@ Was sich bewegt: Der Erlass vom 5. Februar 2026 hat den Rahmen von 2023 geänder
 **Wenn Sie in Flandern wohnen.** Teilung und Verkauf stehen offen, auch zwischen Privatpersonen, aber ohne Netzvorteil: Der gesamte Gewinn stammt aus der Preisdifferenz. Zwei Prüfungen vor der Unterschrift — das VREG-Dashboard für die Zahlen des laufenden Monats und vor allem das Tarifblatt Ihres Lieferanten, denn manche berechnen Teilnehmern Zusatzgebühren, die den Vorteil bei kleinen Mengen aufheben.
 
 **In allen drei Fällen** geht eine Frage allen anderen voraus: **Wie viele Kilowattstunden wird Ihnen der Aufteilungsschlüssel tatsächlich zuweisen?** Die flämische Erfahrung — 20 % der Einspeisung tatsächlich geteilt statt der erhofften 40 % — zeigt, dass sich hier das Wesentliche entscheidet, weit mehr als bei der Preisverhandlung.
+
+Ist die Form gewählt, bleibt die konkreteste Frage: mit wem. Da das Teilen nur innerhalb der Viertelstunde der Erzeugung zählt, entsteht ein Perimeter nach Zeitplan und nicht nach Sympathie — das Thema von [„Strom auf kurzem Weg: Anleitung für Wallonien“](/de/aktuelles/2026/08/25/strom-kurze-wege-anleitung/).
 
 ## Was Sie sich merken sollten
 
