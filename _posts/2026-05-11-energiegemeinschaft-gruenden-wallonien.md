@@ -8,7 +8,7 @@ description: "CER- oder CEC-Modell, Rechtsform, Meldung bei der CWaPE und Start 
 tags: [community, administrative, guide]
 lang: de
 ref: create-energy-community-wallonia
-last_modified_at: 2026-07-16 10:00:00 +0200
+last_modified_at: 2026-08-30 06:00:00 +0200
 permalink: /de/aktuelles/2026/05/11/energiegemeinschaft-gruenden-wallonien/
 ---
 
@@ -206,7 +206,7 @@ Ja bei einer **CEC** (keine geografische Begrenzung). Bei einer **CER** muss das
 
 ### Können eine Schule, eine Gemeinde oder ein Gewerbepark teilnehmen?
 
-Ja. **Gebietskörperschaften** (Gemeinden, Gemeindeschulen, Interkommunalen) und **KMU** sind ausdrücklich berechtigt, einer CER oder CEC beizutreten. Bei öffentlichen Gebäuden kann die Gemeinde gleichzeitig Erzeuger (Dach-PV der Schule) und Verbraucher über ihre anderen Gebäude sein.
+Ja. **Gebietskörperschaften** (Gemeinden, Gemeindeschulen, Interkommunalen) und **KMU** sind ausdrücklich berechtigt, einer CER oder CEC beizutreten. Bei öffentlichen Gebäuden kann die Gemeinde gleichzeitig Erzeuger (Dach-PV der Schule) und Verbraucher über ihre anderen Gebäude sein. Der eigene Weg einer lokalen Behörde — Perimeter, Rechtsform, öffentlicher Auftrag und die Falle des Sozialtarifs — wird in [„Energiegemeinschaft: Leitfaden für Gemeinden“](/de/aktuelles/2026/08/30/energiegemeinschaft-gemeinde-leitfaden/) ausführlich behandelt.
 
 ## Möchten Sie lieber einer bestehenden Gemeinschaft beitreten?
 

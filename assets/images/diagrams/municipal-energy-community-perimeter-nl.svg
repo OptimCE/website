@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-labelledby="t d">
+<title id="t">De perimeter van een hernieuwbare-energiegemeenschap in Wallonië</title><desc id="d">Vergelijking van de twee nabijheidscriteria die de perimeter van een hernieuwbare-energiegemeenschap in Wallonië bepalen. Links het eerste criterium: alle productie-installaties waarvan de elektriciteit wordt gedeeld en alle deelnemers aan de deling bevinden zich op het grondgebied van één en dezelfde gemeente. Het schema toont een gemeentegrens met daarbinnen een school met zonnepanelen, een sporthal, een gebouw van het openbaar centrum voor maatschappelijk welzijn, het gemeentehuis en particuliere woningen. De gemeente moet niets aantonen: zij wijst haar eigen kaart aan, en de administratieve grens geldt als wettelijke perimeter, zonder enige controle bij de netbeheerder. Rechts het tweede criterium: alle aansluitingspunten van de deelnemers en van de productie-installaties moeten stroomafwaarts van hetzelfde hoogspanningsstation van de lokale transmissienetbeheerder liggen, beoordeeld op het moment van de vergunningsaanvraag. Het schema toont een elektrische boom die vertrekt van een hoogspanningsstation en zich vertakt naar drie groepen aansluitingspunten, aangevuld met een vierde losstaande groep die in dezelfde gemeente ligt maar op een ander station is aangesloten en daardoor is uitgesloten. Dit tweede criterium staat op geen enkele publieke kaart: het vereist een controle bij de netbeheerder en kan een straat in twee snijden. Een balk onderaan het schema herinnert eraan dat de twee criteria alternatief zijn, dat aan één ervan voldoen volstaat, en dat Wallonië de enige van de drie Belgische gewesten is waar de wetgever de perimeter zelf heeft getrokken in plaats van de leden hem in hun statuten te laten bepalen.</desc>
+<rect width="800" height="600" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="60" y="44" font-size="21" fill="#212529" font-weight="700">De perimeter van een hernieuwbare-energiegemeenschap in Wallonië</text>
+<text x="60" y="70" font-size="13" fill="#495057" font-weight="400">Twee alternatieve criteria — en het eerste is de gemeentegrens</text>
+<rect x="60" y="96" width="332" height="396" rx="8" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<path d="M68 99 h316" stroke="#2e7d32" stroke-width="4" stroke-linecap="round" fill="none"/>
+<rect x="408" y="96" width="332" height="396" rx="8" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<path d="M416 99 h316" stroke="#adb5bd" stroke-width="4" stroke-linecap="round" fill="none"/>
+<text x="74" y="122" font-size="10" fill="#6c757d" font-weight="700">CRITERIUM 1</text>
+<text x="74" y="144" font-size="13.5" fill="#212529" font-weight="700">Het grondgebied van één</text>
+<text x="74" y="160" font-size="13.5" fill="#212529" font-weight="700">en dezelfde gemeente</text>
+<text x="74" y="180" font-size="10" fill="#6c757d" font-weight="400">Productie en deelnemers binnen</text>
+<text x="74" y="193" font-size="10" fill="#6c757d" font-weight="400">de gemeentegrens</text>
+<path d="M82 218 L214 206 L346 236 L360 312 L300 372 L156 378 L80 330 Z" fill="#f6fbf7" stroke="#2e7d32" stroke-width="2" stroke-dasharray="7 4" stroke-linejoin="round"/>
+<rect x="98" y="232" width="118" height="26" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<text x="157.0" y="249" font-size="10.5" fill="#212529" font-weight="400" text-anchor="middle">School</text>
+<rect x="232" y="226" width="106" height="26" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<text x="285.0" y="243" font-size="10.5" fill="#212529" font-weight="400" text-anchor="middle">Sporthal</text>
+<rect x="98" y="274" width="96" height="26" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<text x="146.0" y="291" font-size="10.5" fill="#212529" font-weight="400" text-anchor="middle">OCMW</text>
+<rect x="206" y="268" width="132" height="26" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<text x="272.0" y="285" font-size="10.5" fill="#212529" font-weight="400" text-anchor="middle">Gemeentehuis</text>
+<rect x="140" y="320" width="124" height="26" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<text x="202.0" y="337" font-size="10.5" fill="#212529" font-weight="400" text-anchor="middle">Woningen</text>
+<rect x="106" y="218" width="27" height="11" rx="1.5" fill="#2e7d32"/>
+<path d="M115.0 218 v11" stroke="#FFFFFF" stroke-width="1" opacity="0.75"/>
+<path d="M124.0 218 v11" stroke="#FFFFFF" stroke-width="1" opacity="0.75"/>
+<rect x="74" y="392" width="304" height="44" rx="6" fill="#e8f5e9" stroke="#DEE2E6" stroke-width="1"/>
+<text x="226.0" y="411" font-size="12.5" fill="#1b5e20" font-weight="700" text-anchor="middle">De gemeente wijst</text>
+<text x="226.0" y="427" font-size="12.5" fill="#1b5e20" font-weight="700" text-anchor="middle">haar eigen kaart aan</text>
+<text x="226.0" y="458" font-size="10" fill="#6c757d" font-weight="400" text-anchor="middle">Geen netcontrole nodig</text>
+<text x="422" y="122" font-size="10" fill="#6c757d" font-weight="700">CRITERIUM 2</text>
+<text x="422" y="144" font-size="13.5" fill="#212529" font-weight="700">Stroomafwaarts van hetzelfde</text>
+<text x="422" y="160" font-size="13.5" fill="#212529" font-weight="700">hoogspanningsstation</text>
+<text x="422" y="180" font-size="10" fill="#6c757d" font-weight="400">Beoordeeld op het moment van de</text>
+<text x="422" y="193" font-size="10" fill="#6c757d" font-weight="400">aanvraag tot deelvergunning</text>
+<rect x="499.0" y="212" width="150" height="32" rx="6" fill="#e8f5e9" stroke="#2e7d32" stroke-width="1.5"/>
+<text x="574.0" y="233" font-size="12" fill="#1b5e20" font-weight="700" text-anchor="middle">HS-station</text>
+<path d="M574.0 244 V266" stroke="#adb5bd" stroke-width="1.5" fill="none"/>
+<path d="M476.0 266 H672.0" stroke="#adb5bd" stroke-width="1.5" fill="none"/>
+<path d="M476.0 266 V288" stroke="#adb5bd" stroke-width="1.5" fill="none"/>
+<rect x="427.0" y="288" width="98" height="28" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<path d="M574.0 266 V288" stroke="#adb5bd" stroke-width="1.5" fill="none"/>
+<rect x="525.0" y="288" width="98" height="28" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<path d="M672.0 266 V288" stroke="#adb5bd" stroke-width="1.5" fill="none"/>
+<rect x="623.0" y="288" width="98" height="28" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<text x="476.0" y="306" font-size="10.5" fill="#212529" font-weight="400" text-anchor="middle">Straat A</text>
+<text x="574.0" y="306" font-size="10.5" fill="#212529" font-weight="400" text-anchor="middle">Straat B</text>
+<text x="672.0" y="306" font-size="10.5" fill="#212529" font-weight="400" text-anchor="middle">Bedrijventerrein</text>
+<path d="M428.0 336 H720.0" stroke="#DEE2E6" stroke-width="1" stroke-dasharray="4 4" fill="none"/>
+<rect x="455.0" y="348" width="238" height="30" rx="6" fill="#F1F3F5" stroke="#adb5bd" stroke-width="1" stroke-dasharray="5 4"/>
+<text x="574.0" y="367" font-size="10.5" fill="#6c757d" font-weight="400" text-anchor="middle">Zelfde gemeente, ander station → eruit</text>
+<rect x="422" y="392" width="304" height="44" rx="6" fill="#F1F3F5" stroke="#DEE2E6" stroke-width="1"/>
+<text x="574.0" y="411" font-size="12.5" fill="#495057" font-weight="700" text-anchor="middle">Controle bij de</text>
+<text x="574.0" y="427" font-size="12.5" fill="#495057" font-weight="700" text-anchor="middle">netbeheerder verplicht</text>
+<text x="574.0" y="458" font-size="10" fill="#6c757d" font-weight="400" text-anchor="middle">Staat op geen enkele publieke kaart</text>
+<rect x="60" y="506" width="680" height="62" rx="8" fill="#e8f5e9"/>
+<text x="400" y="530" font-size="12.5" fill="#1b5e20" font-weight="700" text-anchor="middle">De twee criteria zijn alternatief: aan één ervan voldoen volstaat.</text>
+<text x="400" y="550" font-size="11" fill="#495057" font-weight="400" text-anchor="middle">Wallonië is de enige van de drie regio's waar de wetgever de perimeter zelf heeft getrokken — langs de gemeentegrens.</text>
+</g></svg>

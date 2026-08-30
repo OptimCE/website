@@ -8,6 +8,7 @@ description: "The four degrees of the energy short circuit in Wallonia, what the
 tags: [guide, community]
 lang: en
 ref: local-electricity-short-circuit
+last_modified_at: 2026-08-30 06:00:00 +0200
 permalink: /en/news/2026/08/25/local-electricity-short-circuit-guide/
 faq:
   - q: "Can I buy electricity from the neighbour across the street in Wallonia?"
@@ -174,7 +175,7 @@ Here, concretely, is how a perimeter that holds gets built.
 
 The producer is rarely the hard part. An available roof can be found: municipal school, sports hall, care home, industrial-estate SME, farm building, recent apartment block, council depot. These buildings have surface area, an identifiable owner and, often, a direct budgetary interest.
 
-The Walloon textbook case makes the point: Soleil d'Aubange, the first renewable energy community recognised in Wallonia, was built around installations carried by the municipality, with the support of a local action group and a specialist non-profit.
+The Walloon textbook case makes the point: Soleil d'Aubange, the first renewable energy community recognised in Wallonia, was built around installations carried by the municipality, with the support of a local action group and a specialist non-profit. What that arrangement asks precisely of a municipality — and why the legal perimeter of a Walloon renewable energy community already follows the municipal boundary — is developed in [“Energy communities: a guide for municipalities”](/en/news/2026/08/30/municipal-energy-community-guide/).
 
 The classic mistake is to stop there — to size the installation on the roof's potential rather than on the group's daytime absorption capacity. An oversized roof facing a group that sleeps through the day does not produce a short circuit: it produces injection.
 

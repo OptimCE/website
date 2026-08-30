@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-labelledby="t d">
+<title id="t">The perimeter of a renewable energy community in Wallonia</title><desc id="d">Comparison of the two proximity criteria that define the perimeter of a renewable energy community in Wallonia. On the left, the first criterion: every generation installation whose electricity is shared and every participant in the sharing sit within one single and same municipal territory. The diagram shows a municipal boundary containing a school fitted with photovoltaic panels, a sports hall, a public welfare centre building, the town hall and private homes. The municipality has nothing to demonstrate: it points at its own map, and the administrative boundary serves as the legal perimeter, with no check needed from the network operator. On the right, the second criterion: all connection points of participants and of generation installations must sit downstream of the same high-voltage substation of the local transmission network operator, assessed at the time of the authorisation request. The diagram shows an electrical tree starting from a high-voltage substation and branching towards three groups of connection points, plus a fourth detached group located in the same municipality but connected to a different substation, and therefore excluded. This second criterion appears on no public map: it requires a check with the network operator and can cut a street in two. A band at the bottom of the diagram recalls that the two criteria are alternative, that satisfying one is enough, and that Wallonia is the only one of the three Belgian regions where the legislator drew the perimeter itself rather than leaving members to define it in their own articles of association.</desc>
+<rect width="800" height="600" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="60" y="44" font-size="21" fill="#212529" font-weight="700">The perimeter of a renewable energy community in Wallonia</text>
+<text x="60" y="70" font-size="13" fill="#495057" font-weight="400">Two alternative criteria — and the first one is the municipal boundary</text>
+<rect x="60" y="96" width="332" height="396" rx="8" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<path d="M68 99 h316" stroke="#2e7d32" stroke-width="4" stroke-linecap="round" fill="none"/>
+<rect x="408" y="96" width="332" height="396" rx="8" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<path d="M416 99 h316" stroke="#adb5bd" stroke-width="4" stroke-linecap="round" fill="none"/>
+<text x="74" y="122" font-size="10" fill="#6c757d" font-weight="700">CRITERION 1</text>
+<text x="74" y="144" font-size="13.5" fill="#212529" font-weight="700">One single and same</text>
+<text x="74" y="160" font-size="13.5" fill="#212529" font-weight="700">municipal territory</text>
+<text x="74" y="180" font-size="10" fill="#6c757d" font-weight="400">Generation and participants inside</text>
+<text x="74" y="193" font-size="10" fill="#6c757d" font-weight="400">the municipal boundary</text>
+<path d="M82 218 L214 206 L346 236 L360 312 L300 372 L156 378 L80 330 Z" fill="#f6fbf7" stroke="#2e7d32" stroke-width="2" stroke-dasharray="7 4" stroke-linejoin="round"/>
+<rect x="98" y="232" width="118" height="26" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<text x="157.0" y="249" font-size="10.5" fill="#212529" font-weight="400" text-anchor="middle">School</text>
+<rect x="232" y="226" width="106" height="26" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<text x="285.0" y="243" font-size="10.5" fill="#212529" font-weight="400" text-anchor="middle">Sports hall</text>
+<rect x="98" y="274" width="96" height="26" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<text x="146.0" y="291" font-size="10.5" fill="#212529" font-weight="400" text-anchor="middle">Welfare centre</text>
+<rect x="206" y="268" width="132" height="26" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<text x="272.0" y="285" font-size="10.5" fill="#212529" font-weight="400" text-anchor="middle">Town hall</text>
+<rect x="140" y="320" width="124" height="26" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<text x="202.0" y="337" font-size="10.5" fill="#212529" font-weight="400" text-anchor="middle">Homes</text>
+<rect x="106" y="218" width="27" height="11" rx="1.5" fill="#2e7d32"/>
+<path d="M115.0 218 v11" stroke="#FFFFFF" stroke-width="1" opacity="0.75"/>
+<path d="M124.0 218 v11" stroke="#FFFFFF" stroke-width="1" opacity="0.75"/>
+<rect x="74" y="392" width="304" height="44" rx="6" fill="#e8f5e9" stroke="#DEE2E6" stroke-width="1"/>
+<text x="226.0" y="411" font-size="12.5" fill="#1b5e20" font-weight="700" text-anchor="middle">The municipality points</text>
+<text x="226.0" y="427" font-size="12.5" fill="#1b5e20" font-weight="700" text-anchor="middle">at its own map</text>
+<text x="226.0" y="458" font-size="10" fill="#6c757d" font-weight="400" text-anchor="middle">No network check required</text>
+<text x="422" y="122" font-size="10" fill="#6c757d" font-weight="700">CRITERION 2</text>
+<text x="422" y="144" font-size="13.5" fill="#212529" font-weight="700">Downstream of the same</text>
+<text x="422" y="160" font-size="13.5" fill="#212529" font-weight="700">high-voltage substation</text>
+<text x="422" y="180" font-size="10" fill="#6c757d" font-weight="400">Assessed at the time of the</text>
+<text x="422" y="193" font-size="10" fill="#6c757d" font-weight="400">sharing authorisation request</text>
+<rect x="499.0" y="212" width="150" height="32" rx="6" fill="#e8f5e9" stroke="#2e7d32" stroke-width="1.5"/>
+<text x="574.0" y="233" font-size="12" fill="#1b5e20" font-weight="700" text-anchor="middle">HV substation</text>
+<path d="M574.0 244 V266" stroke="#adb5bd" stroke-width="1.5" fill="none"/>
+<path d="M476.0 266 H672.0" stroke="#adb5bd" stroke-width="1.5" fill="none"/>
+<path d="M476.0 266 V288" stroke="#adb5bd" stroke-width="1.5" fill="none"/>
+<rect x="427.0" y="288" width="98" height="28" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<path d="M574.0 266 V288" stroke="#adb5bd" stroke-width="1.5" fill="none"/>
+<rect x="525.0" y="288" width="98" height="28" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<path d="M672.0 266 V288" stroke="#adb5bd" stroke-width="1.5" fill="none"/>
+<rect x="623.0" y="288" width="98" height="28" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<text x="476.0" y="306" font-size="10.5" fill="#212529" font-weight="400" text-anchor="middle">Street A</text>
+<text x="574.0" y="306" font-size="10.5" fill="#212529" font-weight="400" text-anchor="middle">Street B</text>
+<text x="672.0" y="306" font-size="10.5" fill="#212529" font-weight="400" text-anchor="middle">Business park</text>
+<path d="M428.0 336 H720.0" stroke="#DEE2E6" stroke-width="1" stroke-dasharray="4 4" fill="none"/>
+<rect x="455.0" y="348" width="238" height="30" rx="6" fill="#F1F3F5" stroke="#adb5bd" stroke-width="1" stroke-dasharray="5 4"/>
+<text x="574.0" y="367" font-size="10.5" fill="#6c757d" font-weight="400" text-anchor="middle">Same municipality, other substation → out</text>
+<rect x="422" y="392" width="304" height="44" rx="6" fill="#F1F3F5" stroke="#DEE2E6" stroke-width="1"/>
+<text x="574.0" y="411" font-size="12.5" fill="#495057" font-weight="700" text-anchor="middle">Mandatory check with the</text>
+<text x="574.0" y="427" font-size="12.5" fill="#495057" font-weight="700" text-anchor="middle">distribution system operator</text>
+<text x="574.0" y="458" font-size="10" fill="#6c757d" font-weight="400" text-anchor="middle">Shown on no public map</text>
+<rect x="60" y="506" width="680" height="62" rx="8" fill="#e8f5e9"/>
+<text x="400" y="530" font-size="12.5" fill="#1b5e20" font-weight="700" text-anchor="middle">The two criteria are alternative: satisfying one of them is enough.</text>
+<text x="400" y="550" font-size="11" fill="#495057" font-weight="400" text-anchor="middle">Wallonia is the only one of the three regions where the legislator drew the perimeter itself — along the municipal boundary.</text>
+</g></svg>

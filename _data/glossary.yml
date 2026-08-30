@@ -183,6 +183,26 @@
     de: []
     nl: []
 
+- slug: autorite-locale
+  categorie: juridique
+  tags: [gouvernance, communaute, belgique]
+  source_nom: UVCW
+  source_url: "https://www.uvcw.be/energie/actus/art-9974"
+  terme:
+    fr: "Autorité locale"
+    en: "Local authority"
+    de: "Lokale Behörde"
+    nl: "Lokale overheid"
+  definition:
+    fr: "Catégorie de participants à qui le décret wallon réserve, avec les personnes physiques et les PME, le contrôle effectif d'une communauté d'énergie. La liste des entités concernées a été annulée par le Conseil d'État le 28 mars 2025 — ne laissant qualifiable que la commune, seule nommée par le décret électricité — puis rétablie et élargie par l'arrêté du 5 février 2026, en vigueur depuis le 26 février 2026."
+    en: "The category of participants to which the Walloon decree reserves effective control of an energy community, alongside natural persons and SMEs. The list of eligible entities was annulled by the Council of State on 28 March 2025 — leaving only the municipality, the sole entity named by the electricity decree — then restored and widened by the decree of 5 February 2026, in force since 26 February 2026."
+    de: "Kategorie von Teilnehmern, denen das wallonische Dekret neben natürlichen Personen und KMU die tatsächliche Kontrolle über eine Energiegemeinschaft vorbehält. Die Liste der betroffenen Einheiten wurde am 28. März 2025 vom Staatsrat für nichtig erklärt — womit nur die Gemeinde qualifizierbar blieb, die einzige im Elektrizitätsdekret genannte — und danach durch den Erlass vom 5. Februar 2026 wiederhergestellt und erweitert, in Kraft seit dem 26. Februar 2026."
+    nl: "Categorie van deelnemers aan wie het Waalse decreet, samen met natuurlijke personen en kmo's, de daadwerkelijke controle over een energiegemeenschap voorbehoudt. De lijst van betrokken entiteiten werd op 28 maart 2025 door de Raad van State vernietigd — waardoor alleen de gemeente kwalificeerbaar bleef, als enige genoemd in het elektriciteitsdecreet — en daarna hersteld en verruimd door het besluit van 5 februari 2026, van kracht sinds 26 februari 2026."
+  alias:
+    fr: ["autorités locales", "pouvoir local", "pouvoirs locaux"]
+    en: ["local authorities"]
+    de: ["lokale Behörden", "Gebietskörperschaft", "Gebietskörperschaften"]
+    nl: ["lokale overheden", "lokaal bestuur", "lokale besturen"]
 - slug: borne-de-recharge
   categorie: technique
   tags: [vehicule, recharge, flexibilite]
@@ -628,6 +648,26 @@
     de: ["Vereinbarung über Energieteilung"]
     nl: ["overeenkomst energiedelen"]
 
+- slug: convention-des-maires
+  categorie: territoire
+  tags: [climat, commune, europe]
+  source_nom: UVCW
+  source_url: "https://www.uvcw.be/energie/focus/art-2312"
+  terme:
+    fr: "Convention des Maires"
+    en: "Covenant of Mayors"
+    de: "Konvent der Bürgermeister"
+    nl: "Burgemeestersconvenant"
+  definition:
+    fr: "Initiative européenne volontaire par laquelle une commune s'engage à réduire ses émissions de gaz à effet de serre d'au moins 55 % d'ici 2030 et à déposer un plan d'action dans les deux ans suivant sa décision d'adhésion. 230 villes et communes wallonnes l'avaient signée à la mi-septembre 2024, sur 262."
+    en: "A voluntary European initiative through which a municipality commits to cutting its greenhouse gas emissions by at least 55 % by 2030 and to submitting an action plan within two years of its decision to join. 230 Walloon cities and municipalities out of 262 had signed by mid-September 2024."
+    de: "Freiwillige europäische Initiative, mit der sich eine Gemeinde verpflichtet, ihre Treibhausgasemissionen bis 2030 um mindestens 55 % zu senken und binnen zwei Jahren nach ihrem Beitrittsbeschluss einen Aktionsplan vorzulegen. Bis Mitte September 2024 hatten 230 von 262 wallonischen Städten und Gemeinden unterzeichnet."
+    nl: "Vrijwillig Europees initiatief waarmee een gemeente zich ertoe verbindt haar broeikasgasuitstoot tegen 2030 met minstens 55 % te verminderen en binnen twee jaar na haar toetredingsbeslissing een actieplan in te dienen. Medio september 2024 hadden 230 van de 262 Waalse steden en gemeenten ondertekend."
+  alias:
+    fr: ["Convention des maires"]
+    en: []
+    de: []
+    nl: []
 - slug: cooperative
   categorie: juridique
   tags: [belgique, structure, gouvernance]
@@ -1381,6 +1421,26 @@
     de: ["Solaranlage", "Solarmodul", "Photovoltaikanlage"]
     nl: ["zonnepanelen", "zonnepaneel", "fotovoltaïsche installatie"]
 
+- slug: paedc
+  categorie: territoire
+  tags: [climat, commune, plan]
+  source_nom: UVCW
+  source_url: "https://www.uvcw.be/energie/focus/art-2312"
+  terme:
+    fr: "Plan d'action pour l'énergie durable et le climat"
+    en: "Sustainable Energy and Climate Action Plan"
+    de: "Aktionsplan für nachhaltige Energie und Klima"
+    nl: "Actieplan voor duurzame energie en klimaat"
+  definition:
+    fr: "Document adopté par une commune signataire de la Convention des Maires, à déposer dans les deux ans suivant la décision d'adhésion du conseil communal. Il repose sur un inventaire des émissions et structure les actions autour de trois familles : efficacité et sobriété énergétiques, production d'énergie renouvelable, transfert entre vecteurs énergétiques."
+    en: "The document adopted by a municipality that has signed the Covenant of Mayors, to be submitted within two years of the council's decision to join. It rests on an emissions inventory and structures actions around three families: energy efficiency and sufficiency, renewable energy generation, and shifts between energy carriers."
+    de: "Dokument, das eine dem Konvent der Bürgermeister beigetretene Gemeinde verabschiedet und binnen zwei Jahren nach dem Beitrittsbeschluss des Gemeinderats einreicht. Es beruht auf einer Emissionsbilanz und gliedert die Maßnahmen in drei Familien: Energieeffizienz und Suffizienz, Erzeugung erneuerbarer Energie, Wechsel zwischen Energieträgern."
+    nl: "Document dat een gemeente die het Burgemeestersconvenant heeft ondertekend, aanneemt en indient binnen twee jaar na de toetredingsbeslissing van de gemeenteraad. Het steunt op een uitstootinventaris en ordent de acties in drie families: energie-efficiëntie en soberheid, productie van hernieuwbare energie, en overgang tussen energiedragers."
+  alias:
+    fr: ["PAEDC", "plan d'action énergie climat", "plan climat"]
+    en: ["SECAP", "climate action plan"]
+    de: ["PAEDC", "Klimaaktionsplan", "Klimaplan"]
+    nl: ["PAEDC", "klimaatactieplan", "klimaatplan"]
 - slug: point-de-fourniture
   categorie: reseau
   tags: [contrat, point, livraison]
@@ -1402,6 +1462,26 @@
     de: []
     nl: []
 
+- slug: pollec
+  categorie: territoire
+  tags: [climat, commune, subvention]
+  source_nom: "SPW Énergie"
+  source_url: "https://energie.wallonie.be/home/au-quotidien/dans-la-commune/pollec---politique-locale-energie-climat.html"
+  terme:
+    fr: "POLLEC"
+    en: "POLLEC"
+    de: "POLLEC"
+    nl: "POLLEC"
+  definition:
+    fr: "Politique locale Énergie Climat : programme wallon qui accompagne depuis 2012 les communes engagées dans la Convention des Maires. Coordonné par l'APERe avec l'AwAC et l'UVCW, il finance notamment un coordinateur énergie-climat et une partie de l'accompagnement externe. Le décret Neutralité carbone prévoit son passage des appels à projets annuels à un droit de tirage, facultatif et à activer par le Gouvernement."
+    en: "Politique locale Énergie Climat: the Walloon programme that has supported municipalities committed to the Covenant of Mayors since 2012. Coordinated by APERe with the Walloon Air and Climate Agency and the Union of Walloon Cities and Municipalities, it funds an energy-climate coordinator and part of the external support. The carbon neutrality decree provides for its move from annual calls for projects to a drawing right, optional and to be activated by the Government."
+    de: "Politique locale Énergie Climat: wallonisches Programm, das seit 2012 die dem Konvent der Bürgermeister beigetretenen Gemeinden begleitet. Koordiniert von der APERe mit der Wallonischen Agentur für Luft und Klima und der Vereinigung der Städte und Gemeinden, finanziert es unter anderem eine Energie-Klima-Fachkraft und einen Teil der externen Begleitung. Das Dekret zur Klimaneutralität sieht den Übergang von jährlichen Projektaufrufen zu einem Ziehungsrecht vor, fakultativ und von der Regierung zu aktivieren."
+    nl: "Politique locale Énergie Climat: Waals programma dat sinds 2012 de gemeenten begeleidt die tot het Burgemeestersconvenant zijn toegetreden. Gecoördineerd door APERe met het Waals Agentschap voor Lucht en Klimaat en de Vereniging van Waalse Steden en Gemeenten, financiert het onder meer een energie-klimaatcoördinator en een deel van de externe begeleiding. Het decreet Koolstofneutraliteit voorziet de overgang van jaarlijkse projectoproepen naar een trekkingsrecht, facultatief en door de Regering te activeren."
+  alias:
+    fr: []
+    en: []
+    de: []
+    nl: []
 - slug: precarite-energetique
   categorie: reglementaire
   tags: [social, belgique, indicateur]

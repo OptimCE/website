@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-labelledby="t d">
+<title id="t">Der Perimeter einer Erneuerbare-Energie-Gemeinschaft in Wallonien</title><desc id="d">Vergleich der beiden Nähekriterien, die den Perimeter einer Erneuerbare-Energie-Gemeinschaft in Wallonien bestimmen. Links das erste Kriterium: sämtliche Erzeugungsanlagen, deren Strom geteilt wird, und sämtliche Teilnehmer der Teilung liegen im Gebiet einer einzigen und derselben Gemeinde. Die Grafik zeigt eine Gemeindegrenze, innerhalb derer eine mit Photovoltaikmodulen ausgestattete Schule, eine Sporthalle, ein Gebäude des Sozialamts, die Gemeindeverwaltung und private Wohnhäuser liegen. Die Gemeinde muss nichts nachweisen: sie zeigt auf ihre eigene Karte, und die Verwaltungsgrenze dient als rechtlicher Perimeter, ohne jede Prüfung beim Netzbetreiber. Rechts das zweite Kriterium: alle Anschlusspunkte der Teilnehmer und der Erzeugungsanlagen müssen unterhalb desselben Hochspannungs-Umspannwerks des lokalen Übertragungsnetzbetreibers liegen, maßgeblich zum Zeitpunkt des Genehmigungsantrags. Die Grafik zeigt einen elektrischen Baum, der von einem Hochspannungs-Umspannwerk ausgeht und sich zu drei Gruppen von Anschlusspunkten verzweigt, hinzu kommt eine vierte, abgesetzte Gruppe, die in derselben Gemeinde liegt, aber an ein anderes Umspannwerk angeschlossen und deshalb ausgeschlossen ist. Dieses zweite Kriterium steht auf keiner öffentlichen Karte: es verlangt eine Prüfung beim Netzbetreiber und kann eine Straße in zwei Teile schneiden. Ein Band am unteren Rand der Grafik erinnert daran, dass die beiden Kriterien alternativ sind, dass eines davon genügt, und dass Wallonien die einzige der drei belgischen Regionen ist, in der der Gesetzgeber den Perimeter selbst gezogen hat, statt ihn die Mitglieder in ihrer Satzung festlegen zu lassen.</desc>
+<rect width="800" height="600" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="60" y="44" font-size="21" fill="#212529" font-weight="700">Der Perimeter einer Erneuerbare-Energie-Gemeinschaft in Wallonien</text>
+<text x="60" y="70" font-size="13" fill="#495057" font-weight="400">Zwei alternative Kriterien — und das erste ist die Gemeindegrenze</text>
+<rect x="60" y="96" width="332" height="396" rx="8" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<path d="M68 99 h316" stroke="#2e7d32" stroke-width="4" stroke-linecap="round" fill="none"/>
+<rect x="408" y="96" width="332" height="396" rx="8" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<path d="M416 99 h316" stroke="#adb5bd" stroke-width="4" stroke-linecap="round" fill="none"/>
+<text x="74" y="122" font-size="10" fill="#6c757d" font-weight="700">KRITERIUM 1</text>
+<text x="74" y="144" font-size="13.5" fill="#212529" font-weight="700">Das Gebiet einer einzigen</text>
+<text x="74" y="160" font-size="13.5" fill="#212529" font-weight="700">und derselben Gemeinde</text>
+<text x="74" y="180" font-size="10" fill="#6c757d" font-weight="400">Erzeugung und Teilnehmer innerhalb</text>
+<text x="74" y="193" font-size="10" fill="#6c757d" font-weight="400">der Gemeindegrenze</text>
+<path d="M82 218 L214 206 L346 236 L360 312 L300 372 L156 378 L80 330 Z" fill="#f6fbf7" stroke="#2e7d32" stroke-width="2" stroke-dasharray="7 4" stroke-linejoin="round"/>
+<rect x="98" y="232" width="118" height="26" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<text x="157.0" y="249" font-size="10.5" fill="#212529" font-weight="400" text-anchor="middle">Schule</text>
+<rect x="232" y="226" width="106" height="26" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<text x="285.0" y="243" font-size="10.5" fill="#212529" font-weight="400" text-anchor="middle">Sporthalle</text>
+<rect x="98" y="274" width="96" height="26" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<text x="146.0" y="291" font-size="10.5" fill="#212529" font-weight="400" text-anchor="middle">Sozialamt</text>
+<rect x="206" y="268" width="132" height="26" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<text x="272.0" y="285" font-size="10.5" fill="#212529" font-weight="400" text-anchor="middle">Gemeindeverwaltung</text>
+<rect x="140" y="320" width="124" height="26" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<text x="202.0" y="337" font-size="10.5" fill="#212529" font-weight="400" text-anchor="middle">Wohnhäuser</text>
+<rect x="106" y="218" width="27" height="11" rx="1.5" fill="#2e7d32"/>
+<path d="M115.0 218 v11" stroke="#FFFFFF" stroke-width="1" opacity="0.75"/>
+<path d="M124.0 218 v11" stroke="#FFFFFF" stroke-width="1" opacity="0.75"/>
+<rect x="74" y="392" width="304" height="44" rx="6" fill="#e8f5e9" stroke="#DEE2E6" stroke-width="1"/>
+<text x="226.0" y="411" font-size="12.5" fill="#1b5e20" font-weight="700" text-anchor="middle">Die Gemeinde zeigt auf</text>
+<text x="226.0" y="427" font-size="12.5" fill="#1b5e20" font-weight="700" text-anchor="middle">ihre eigene Karte</text>
+<text x="226.0" y="458" font-size="10" fill="#6c757d" font-weight="400" text-anchor="middle">Keine Netzprüfung erforderlich</text>
+<text x="422" y="122" font-size="10" fill="#6c757d" font-weight="700">KRITERIUM 2</text>
+<text x="422" y="144" font-size="13.5" fill="#212529" font-weight="700">Unterhalb desselben</text>
+<text x="422" y="160" font-size="13.5" fill="#212529" font-weight="700">Hochspannungs-Umspannwerks</text>
+<text x="422" y="180" font-size="10" fill="#6c757d" font-weight="400">Maßgeblich ist der Zeitpunkt des</text>
+<text x="422" y="193" font-size="10" fill="#6c757d" font-weight="400">Antrags auf Teilungsgenehmigung</text>
+<rect x="499.0" y="212" width="150" height="32" rx="6" fill="#e8f5e9" stroke="#2e7d32" stroke-width="1.5"/>
+<text x="574.0" y="233" font-size="12" fill="#1b5e20" font-weight="700" text-anchor="middle">HS-Umspannwerk</text>
+<path d="M574.0 244 V266" stroke="#adb5bd" stroke-width="1.5" fill="none"/>
+<path d="M476.0 266 H672.0" stroke="#adb5bd" stroke-width="1.5" fill="none"/>
+<path d="M476.0 266 V288" stroke="#adb5bd" stroke-width="1.5" fill="none"/>
+<rect x="427.0" y="288" width="98" height="28" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<path d="M574.0 266 V288" stroke="#adb5bd" stroke-width="1.5" fill="none"/>
+<rect x="525.0" y="288" width="98" height="28" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<path d="M672.0 266 V288" stroke="#adb5bd" stroke-width="1.5" fill="none"/>
+<rect x="623.0" y="288" width="98" height="28" rx="6" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1"/>
+<text x="476.0" y="306" font-size="10.5" fill="#212529" font-weight="400" text-anchor="middle">Straße A</text>
+<text x="574.0" y="306" font-size="10.5" fill="#212529" font-weight="400" text-anchor="middle">Straße B</text>
+<text x="672.0" y="306" font-size="10.5" fill="#212529" font-weight="400" text-anchor="middle">Gewerbegebiet</text>
+<path d="M428.0 336 H720.0" stroke="#DEE2E6" stroke-width="1" stroke-dasharray="4 4" fill="none"/>
+<rect x="455.0" y="348" width="238" height="30" rx="6" fill="#F1F3F5" stroke="#adb5bd" stroke-width="1" stroke-dasharray="5 4"/>
+<text x="574.0" y="367" font-size="10.5" fill="#6c757d" font-weight="400" text-anchor="middle">Gleiche Gemeinde, anderes Werk → raus</text>
+<rect x="422" y="392" width="304" height="44" rx="6" fill="#F1F3F5" stroke="#DEE2E6" stroke-width="1"/>
+<text x="574.0" y="411" font-size="12.5" fill="#495057" font-weight="700" text-anchor="middle">Prüfung beim</text>
+<text x="574.0" y="427" font-size="12.5" fill="#495057" font-weight="700" text-anchor="middle">Netzbetreiber zwingend</text>
+<text x="574.0" y="458" font-size="10" fill="#6c757d" font-weight="400" text-anchor="middle">Auf keiner öffentlichen Karte</text>
+<rect x="60" y="506" width="680" height="62" rx="8" fill="#e8f5e9"/>
+<text x="400" y="530" font-size="12.5" fill="#1b5e20" font-weight="700" text-anchor="middle">Die beiden Kriterien sind alternativ: eines davon genügt.</text>
+<text x="400" y="550" font-size="11" fill="#495057" font-weight="400" text-anchor="middle">Wallonien ist die einzige der drei Regionen, in der der Gesetzgeber den Perimeter selbst gezogen hat — entlang der Gemeindegrenze.</text>
+</g></svg>

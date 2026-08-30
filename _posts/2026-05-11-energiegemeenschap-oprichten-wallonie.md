@@ -8,7 +8,7 @@ description: "CER- of CEC-model, juridische structuur, melding bij CWaPE en opst
 tags: [community, administrative, guide]
 lang: nl
 ref: create-energy-community-wallonia
-last_modified_at: 2026-07-16 10:00:00 +0200
+last_modified_at: 2026-08-30 06:00:00 +0200
 permalink: /nl/nieuws/2026/05/11/energiegemeenschap-oprichten-wallonie/
 ---
 
@@ -206,7 +206,7 @@ Ja voor een **CEC** (geen geografische beperking). Voor een **CER** moet het nab
 
 ### Kunnen een school, een gemeente of een bedrijventerrein deelnemen?
 
-Ja. **Lokale overheden** (gemeenten, gemeentescholen, intercommunales) en **kmo's** zijn uitdrukkelijk toegelaten om toe te treden tot een CER of CEC. Voor openbare gebouwen kan de gemeente zowel producent (dak-PV van de school) als verbruiker zijn via haar andere gebouwen.
+Ja. **Lokale overheden** (gemeenten, gemeentescholen, intercommunales) en **kmo's** zijn uitdrukkelijk toegelaten om toe te treden tot een CER of CEC. Voor openbare gebouwen kan de gemeente zowel producent (dak-PV van de school) als verbruiker zijn via haar andere gebouwen. Het traject dat eigen is aan een lokaal bestuur — perimeter, rechtsvorm, overheidsopdracht en de valkuil van het sociaal tarief — wordt uitvoerig behandeld in [“Energiegemeenschap: de gids voor gemeenten”](/nl/nieuws/2026/08/30/energiegemeenschap-gemeenten-gids/).
 
 ## Liever toetreden tot een bestaande gemeenschap?
 

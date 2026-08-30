@@ -8,6 +8,7 @@ description: "29.2% of Walloon households face energy poverty. Which support sch
 tags: [guide, administrative, community]
 lang: en
 ref: energy-poverty-wallonia-support
+last_modified_at: 2026-08-30 06:00:00 +0200
 permalink: /en/news/2026/08/08/energy-poverty-wallonia-support/
 faq:
   - q: "What is energy poverty and how is it measured in Belgium?"
@@ -208,7 +209,7 @@ This section addresses professionals rather than households. Five levers, from q
 
 **Reuse an existing collective format rather than inventing one.** Empreintes explicitly spreads the Eco Watchers methodology, and Objectif 2050 supports local authorities on Réno WaTT'chers. The tools are written, tested and transferable.
 
-**Put energy sharing at the end of the sequence, not the start.** The setup requires smart meters, an agreement and an allocation key, and it pays less to households on the social tariff. It makes sense where a public roof or a social housing stock exists — the Ans case — but it is not the entry point of an energy poverty policy.
+**Put energy sharing at the end of the sequence, not the start.** The setup requires smart meters, an agreement and an allocation key, and it pays less to households on the social tariff. It makes sense where a public roof or a social housing stock exists — the Ans case — but it is not the entry point of an energy poverty policy. The setup seen from the municipality's side, including the arithmetic of what the social tariff loses on shared kilowatt-hours, is detailed in [“Energy communities: a guide for municipalities”](/en/news/2026/08/30/municipal-energy-community-guide/).
 
 ## Key takeaways
 

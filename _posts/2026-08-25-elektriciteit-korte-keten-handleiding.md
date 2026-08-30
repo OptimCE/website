@@ -8,6 +8,7 @@ description: "De vier gradaties van de korte keten voor stroom in Wallonië, wat
 tags: [guide, community]
 lang: nl
 ref: local-electricity-short-circuit
+last_modified_at: 2026-08-30 06:00:00 +0200
 permalink: /nl/nieuws/2026/08/25/elektriciteit-korte-keten-handleiding/
 faq:
   - q: "Kan ik in Wallonië de stroom van mijn overbuur kopen?"
@@ -174,7 +175,7 @@ Hier staat concreet hoe een perimeter ontstaat die standhoudt.
 
 De producent is zelden het moeilijke punt. Een beschikbaar dak vindt u wel: gemeenteschool, sporthal, woonzorgcentrum, kmo op een bedrijventerrein, landbouwgebouw, recent appartementsgebouw, gemeentelijke werkplaats. Die gebouwen hebben oppervlakte, een identificeerbare eigenaar en vaak een rechtstreeks budgettair belang.
 
-Het Waalse schoolvoorbeeld toont het goed: Soleil d'Aubange, de eerste in Wallonië erkende hernieuwbare energiegemeenschap, werd opgebouwd rond installaties gedragen door de gemeente, met de steun van een plaatselijke actiegroep en een gespecialiseerde vzw.
+Het Waalse schoolvoorbeeld toont het goed: Soleil d'Aubange, de eerste in Wallonië erkende hernieuwbare energiegemeenschap, werd opgebouwd rond installaties gedragen door de gemeente, met de steun van een plaatselijke actiegroep en een gespecialiseerde vzw. Wat die opzet precies van een gemeente vraagt — en waarom de wettelijke perimeter van een Waalse hernieuwbare-energiegemeenschap al de gemeentegrens volgt — wordt uitgewerkt in [“Energiegemeenschap: de gids voor gemeenten”](/nl/nieuws/2026/08/30/energiegemeenschap-gemeenten-gids/).
 
 De klassieke fout bestaat erin daarbij te blijven — de installatie te dimensioneren op het potentieel van het dak in plaats van op het opnamevermogen van de groep overdag. Een overgedimensioneerd dak tegenover een groep die overdag slaapt, brengt geen korte keten voort: het brengt injectie voort.
 

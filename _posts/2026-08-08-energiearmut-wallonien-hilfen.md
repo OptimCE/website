@@ -8,6 +8,7 @@ description: "29,2 % der wallonischen Haushalte sind von Energiearmut betroffen.
 tags: [guide, administrative, community]
 lang: de
 ref: energy-poverty-wallonia-support
+last_modified_at: 2026-08-30 06:00:00 +0200
 permalink: /de/aktuelles/2026/08/08/energiearmut-wallonien-hilfen/
 faq:
   - q: "Was ist Energiearmut und wie wird sie in Belgien gemessen?"
@@ -208,7 +209,7 @@ Dieser Abschnitt richtet sich an Fachkräfte, nicht an Haushalte. Fünf Hebel, v
 
 **Ein bestehendes kollektives Format übernehmen, statt ein neues zu erfinden.** Empreintes gibt die Eco-Watchers-Methodik ausdrücklich weiter, und Objectif 2050 begleitet Gebietskörperschaften bei Réno WaTT'chers. Die Werkzeuge sind ausgearbeitet, erprobt und übertragbar.
 
-**Den geteilten Strom ans Ende der Abfolge setzen, nicht an den Anfang.** Die Konstruktion setzt kommunizierende Zähler, eine Vereinbarung und einen Aufteilungsschlüssel voraus und bringt Haushalten im Sozialtarif weniger. Sie ist sinnvoll, wo ein öffentliches Dach oder ein Sozialwohnungsbestand vorhanden ist — der Fall Ans —, aber sie ist nicht der Einstieg in eine Politik gegen Energiearmut.
+**Den geteilten Strom ans Ende der Abfolge setzen, nicht an den Anfang.** Die Konstruktion setzt kommunizierende Zähler, eine Vereinbarung und einen Aufteilungsschlüssel voraus und bringt Haushalten im Sozialtarif weniger. Sie ist sinnvoll, wo ein öffentliches Dach oder ein Sozialwohnungsbestand vorhanden ist — der Fall Ans —, aber sie ist nicht der Einstieg in eine Politik gegen Energiearmut. Die Konstruktion aus Sicht der Gemeinde, einschließlich der Rechnung, was der Sozialtarif auf geteilten Kilowattstunden verliert, wird in [„Energiegemeinschaft: Leitfaden für Gemeinden“](/de/aktuelles/2026/08/30/energiegemeinschaft-gemeinde-leitfaden/) ausführlich behandelt.
 
 ## Was Sie sich merken sollten
 

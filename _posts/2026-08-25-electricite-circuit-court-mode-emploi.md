@@ -8,6 +8,7 @@ description: "Les quatre degrés du circuit court énergétique en Wallonie, ce 
 tags: [guide, community]
 lang: fr
 ref: local-electricity-short-circuit
+last_modified_at: 2026-08-30 06:00:00 +0200
 faq:
   - q: "Puis-je acheter l'électricité de mon voisin d'en face en Wallonie ?"
     a: "Non, pas en août 2026. Cette forme d'échange s'appelle le pair-à-pair et c'est la plus simple des quatre : deux compteurs, un prix convenu, rien d'autre. Elle est prévue par le décret wallon du 5 mai 2022, mais elle reste inopérante faute d'arrêté d'exécution. ORES l'écrit sans détour sur sa page dédiée : il n'est pas encore possible actuellement de partager son énergie en pair à pair, et le cadre législatif n'est pas encore finalisé. Ce qu'un Wallon peut faire aujourd'hui, c'est partager au sein d'un même bâtiment, ou rejoindre une communauté d'énergie constituée en personne morale et autorisée par la CWaPE. En pratique, le mot quartier désigne donc soit votre immeuble, soit une association que quelqu'un a créée, pas la maison d'en face."
@@ -173,7 +174,7 @@ Voici, concrètement, comment se construit un périmètre qui tient.
 
 Le producteur est rarement le point dur. Une toiture disponible se trouve : école communale, hall omnisports, maison de repos, PME de zoning, bâtiment agricole, copropriété récente, atelier communal. Ces bâtiments ont de la surface, un propriétaire identifiable et, souvent, un intérêt budgétaire direct.
 
-Le cas d'école wallon le montre bien : la première communauté d'énergie renouvelable reconnue en Wallonie, Soleil d'Aubange, s'est construite autour d'installations portées par la commune, avec l'appui d'un groupe d'action locale et d'une ASBL spécialisée.
+Le cas d'école wallon le montre bien : la première communauté d'énergie renouvelable reconnue en Wallonie, Soleil d'Aubange, s'est construite autour d'installations portées par la commune, avec l'appui d'un groupe d'action locale et d'une ASBL spécialisée. Ce que ce montage demande précisément à une commune — et pourquoi le périmètre légal d'une CER wallonne épouse déjà la limite communale — est développé dans [« Communauté d'énergie : le guide des communes »](/actualites/2026/08/30/communaute-energie-communale-guide/).
 
 L'erreur classique consiste à s'arrêter là — à dimensionner l'installation sur le potentiel de la toiture plutôt que sur la capacité d'absorption diurne du groupe. Une toiture surdimensionnée face à un groupe qui dort la journée ne produit pas un circuit court : elle produit de l'injection.
 

@@ -8,6 +8,7 @@ description: "29,2 % des ménages wallons sont en précarité énergétique. Que
 tags: [guide, administrative, community]
 lang: fr
 ref: energy-poverty-wallonia-support
+last_modified_at: 2026-08-30 06:00:00 +0200
 faq:
   - q: "Qu'est-ce que la précarité énergétique et comment se mesure-t-elle en Belgique ?"
     a: "C'est la situation d'un ménage qui rencontre des difficultés particulières à satisfaire ses besoins élémentaires en énergie dans son logement. Depuis l'arrêté royal du 19 avril 2024, la Belgique retient trois indicateurs officiels, calculés sur l'enquête SILC de Statbel. La précarité mesurée vise les ménages dont la part du revenu consacrée à l'énergie dépasse le double du ratio médian. La précarité cachée vise ceux dont la dépense énergétique est inférieure à la moitié de la médiane des ménages comparables : ils se restreignent. La précarité ressentie repose sur la déclaration du ménage lui-même. En 2025, le SPF Économie les chiffrait respectivement à 14,6 %, 3,3 % et 3,9 %, soit 19,9 % au total — environ un ménage belge sur cinq."
@@ -207,7 +208,7 @@ Cette section s'adresse aux professionnels plutôt qu'aux ménages. Cinq leviers
 
 **Reprendre un format collectif existant plutôt que d'en créer un.** Empreintes essaime explicitement la méthodologie Eco Watchers, et Objectif 2050 accompagne des collectivités sur Réno WaTT'chers. Les outils sont écrits, testés et transférables.
 
-**Ne mettre le partage d'énergie qu'en fin de séquence.** Le montage suppose des compteurs communicants, une convention, une clé de répartition, et il rapporte moins aux ménages au tarif social. Il est pertinent quand une toiture publique ou un parc de logements sociaux existe — le cas d'Ans — mais il n'est pas le point d'entrée d'une politique de lutte contre la précarité énergétique.
+**Ne mettre le partage d'énergie qu'en fin de séquence.** Le montage suppose des compteurs communicants, une convention, une clé de répartition, et il rapporte moins aux ménages au tarif social. Il est pertinent quand une toiture publique ou un parc de logements sociaux existe — le cas d'Ans — mais il n'est pas le point d'entrée d'une politique de lutte contre la précarité énergétique. Le montage vu du côté de la commune, y compris le calcul de ce que le tarif social fait perdre sur les kilowattheures partagés, est détaillé dans [« Communauté d'énergie : le guide des communes »](/actualites/2026/08/30/communaute-energie-communale-guide/).
 
 ## Ce qu'il faut retenir
 

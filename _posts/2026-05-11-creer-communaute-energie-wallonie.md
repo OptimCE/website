@@ -8,7 +8,7 @@ description: "Modèle CER ou CEC, structure juridique, notification à la CWaPE 
 tags: [community, administrative, guide]
 lang: fr
 ref: create-energy-community-wallonia
-last_modified_at: 2026-07-16 10:00:00 +0200
+last_modified_at: 2026-08-30 06:00:00 +0200
 ---
 
 La Wallonie est, à ce jour, la région belge où les communautés d'énergie se déploient le plus rapidement. Cadre légal stabilisé depuis 2022, formulaire-type publié par la CWaPE, gestionnaires de réseau outillés : tous les ingrédients sont réunis pour qu'un groupe de citoyens, une commune, une école ou un parc d'entreprises lance son propre partage d'énergie. Ce guide décrit, pas à pas, **la procédure complète** : du choix du type de communauté à la mise en service du partage avec votre gestionnaire de réseau de distribution (GRD). Si vous n'êtes pas encore familier avec la notion même de communauté d'énergie, commencez par notre article [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/actualites/2026/05/11/communautes-energie-belgique/) — il pose le vocabulaire repris ici.
@@ -205,7 +205,7 @@ Oui pour une **CEC** (pas de limite géographique). Pour une **CER**, le critèr
 
 ### Une école, une commune ou un parc d'entreprises peuvent-ils participer ?
 
-Oui. Les **autorités locales** (communes, écoles communales, intercommunales) et les **PME** sont explicitement autorisées à rejoindre une CER ou une CEC. Pour les bâtiments publics, la commune peut être à la fois productrice (toiture PV de l'école) et consommatrice via ses autres bâtiments.
+Oui. Les **autorités locales** (communes, écoles communales, intercommunales) et les **PME** sont explicitement autorisées à rejoindre une CER ou une CEC. Pour les bâtiments publics, la commune peut être à la fois productrice (toiture PV de l'école) et consommatrice via ses autres bâtiments. Le parcours propre à un pouvoir local — périmètre, forme juridique, marché public et piège du tarif social — est détaillé dans [« Communauté d'énergie : le guide des communes »](/actualites/2026/08/30/communaute-energie-communale-guide/).
 
 ## Vous préférez rejoindre une communauté existante ?
 
