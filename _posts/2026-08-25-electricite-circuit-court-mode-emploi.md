@@ -8,7 +8,7 @@ description: "Les quatre degrés du circuit court énergétique en Wallonie, ce 
 tags: [guide, community]
 lang: fr
 ref: local-electricity-short-circuit
-last_modified_at: 2026-08-30 06:00:00 +0200
+last_modified_at: 2026-09-03 06:00:00 +0200
 faq:
   - q: "Puis-je acheter l'électricité de mon voisin d'en face en Wallonie ?"
     a: "Non, pas en août 2026. Cette forme d'échange s'appelle le pair-à-pair et c'est la plus simple des quatre : deux compteurs, un prix convenu, rien d'autre. Elle est prévue par le décret wallon du 5 mai 2022, mais elle reste inopérante faute d'arrêté d'exécution. ORES l'écrit sans détour sur sa page dédiée : il n'est pas encore possible actuellement de partager son énergie en pair à pair, et le cadre législatif n'est pas encore finalisé. Ce qu'un Wallon peut faire aujourd'hui, c'est partager au sein d'un même bâtiment, ou rejoindre une communauté d'énergie constituée en personne morale et autorisée par la CWaPE. En pratique, le mot quartier désigne donc soit votre immeuble, soit une association que quelqu'un a créée, pas la maison d'en face."
@@ -194,6 +194,8 @@ C'est la liste que les brochures ne donnent jamais. Classée par capacité à co
 | **Ménage de navetteurs** | Fait masse, apporte de la légitimité | Absorbe très peu en journée |
 
 La lecture utile de ce tableau n'est pas « il faut les premiers et pas les derniers ». Un projet a besoin de ménages de navetteurs : ils sont l'assise sociale, ils votent en assemblée générale, ils portent le projet. Mais **si le groupe n'est composé que d'eux, il n'y a pas de circuit court, il y a une association.**
+
+Une ligne de ce tableau mérite un article à elle seule. L'école est le seul profil dont le creux est saisonnier plutôt qu'horaire — sept semaines de fermeture au pic de production —, et c'est aussi le seul participant que le droit wallon range d'office parmi les autorités locales, quel que soit son réseau : [« Écoles : le guide du partage d'énergie »](/actualites/2026/09/03/partage-energie-ecole-guide/).
 
 ### Ce que la réforme tarifaire de 2026 change en votre faveur
 

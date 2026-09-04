@@ -8,7 +8,7 @@ description: "Die vier Stufen des kurzen Wegs beim Strom in Wallonien, was sie w
 tags: [guide, community]
 lang: de
 ref: local-electricity-short-circuit
-last_modified_at: 2026-08-30 06:00:00 +0200
+last_modified_at: 2026-09-03 06:00:00 +0200
 permalink: /de/aktuelles/2026/08/25/strom-kurze-wege-anleitung/
 faq:
   - q: "Kann ich in Wallonien den Strom meines Nachbarn gegenüber kaufen?"
@@ -195,6 +195,8 @@ Das ist die Liste, die Broschüren nie liefern. Geordnet nach der Fähigkeit, w�
 | **Pendlerhaushalt** | Schafft Masse, bringt Legitimität | Nimmt tagsüber sehr wenig auf |
 
 Die nützliche Lesart dieser Tabelle lautet nicht „die ersten nehmen und die letzten weglassen“. Ein Projekt braucht Pendlerhaushalte: Sie sind die soziale Basis, sie stimmen in der Generalversammlung ab, sie tragen das Vorhaben. Aber **wenn die Gruppe aus nichts anderem besteht, gibt es keinen kurzen Weg, sondern einen Verein.**
+
+Eine Zeile dieser Tabelle verdient einen eigenen Artikel. Die Schule ist das einzige Profil, dessen Loch saisonal statt stündlich ist — sieben Wochen Schließung im Produktionsmaximum —, und zugleich der einzige Teilnehmer, den das wallonische Recht von Amts wegen zu den lokalen Behörden zählt, unabhängig von seinem Netz: [„Schulen: der Leitfaden zum Energieteilen“](/de/aktuelles/2026/09/03/energiegemeinschaft-schule-leitfaden/).
 
 ### Was die Tarifreform 2026 zu Ihren Gunsten ändert
 

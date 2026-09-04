@@ -8,7 +8,7 @@ description: "CER- of CEC-model, juridische structuur, melding bij CWaPE en opst
 tags: [community, administrative, guide]
 lang: nl
 ref: create-energy-community-wallonia
-last_modified_at: 2026-08-30 06:00:00 +0200
+last_modified_at: 2026-09-03 06:00:00 +0200
 permalink: /nl/nieuws/2026/05/11/energiegemeenschap-oprichten-wallonie/
 ---
 
@@ -206,7 +206,7 @@ Ja voor een **CEC** (geen geografische beperking). Voor een **CER** moet het nab
 
 ### Kunnen een school, een gemeente of een bedrijventerrein deelnemen?
 
-Ja. **Lokale overheden** (gemeenten, gemeentescholen, intercommunales) en **kmo's** zijn uitdrukkelijk toegelaten om toe te treden tot een CER of CEC. Voor openbare gebouwen kan de gemeente zowel producent (dak-PV van de school) als verbruiker zijn via haar andere gebouwen. Het traject dat eigen is aan een lokaal bestuur — perimeter, rechtsvorm, overheidsopdracht en de valkuil van het sociaal tarief — wordt uitvoerig behandeld in [“Energiegemeenschap: de gids voor gemeenten”](/nl/nieuws/2026/08/30/energiegemeenschap-gemeenten-gids/).
+Ja. **Lokale overheden** (gemeenten, intercommunales, OCMW's — en **alle scholen, ongeacht hun net**) en **kmo's** zijn uitdrukkelijk toegelaten om toe te treden tot een CER of CEC. Voor openbare gebouwen kan de gemeente zowel producent (dak-PV van de school) als verbruiker zijn via haar andere gebouwen. Het traject dat eigen is aan een lokaal bestuur — perimeter, rechtsvorm, overheidsopdracht en de valkuil van het sociaal tarief — wordt uitvoerig behandeld in [“Energiegemeenschap: de gids voor gemeenten”](/nl/nieuws/2026/08/30/energiegemeenschap-gemeenten-gids/). Het schoolstatuut is echter ruimer dan men denkt en hangt niet af van de inrichtende macht: dat is het onderwerp van [“Scholen: de gids voor energiedelen”](/nl/nieuws/2026/09/03/energiedeling-school-gids/).
 
 ## Liever toetreden tot een bestaande gemeenschap?
 

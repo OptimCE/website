@@ -8,7 +8,7 @@ description: "The four degrees of the energy short circuit in Wallonia, what the
 tags: [guide, community]
 lang: en
 ref: local-electricity-short-circuit
-last_modified_at: 2026-08-30 06:00:00 +0200
+last_modified_at: 2026-09-03 06:00:00 +0200
 permalink: /en/news/2026/08/25/local-electricity-short-circuit-guide/
 faq:
   - q: "Can I buy electricity from the neighbour across the street in Wallonia?"
@@ -195,6 +195,8 @@ This is the list the brochures never give. Ranked by capacity to consume during 
 | **Commuter household** | Adds mass, brings legitimacy | Absorbs very little during the day |
 
 The useful reading of this table is not “take the first ones and drop the last”. A project needs commuter households: they are its social base, they vote at the general meeting, they carry the thing. But **if the group is made up of nothing else, there is no short circuit, there is an association.**
+
+One row in this table deserves an article of its own. The school is the only profile whose trough is seasonal rather than hourly — seven weeks of closure at peak output — and it is also the only participant that Walloon law automatically ranks among local authorities, whatever its network: [“Schools: a guide to energy sharing”](/en/news/2026/09/03/school-energy-sharing-guide/).
 
 ### What the 2026 tariff reform changes in your favour
 

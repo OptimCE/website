@@ -194,10 +194,10 @@
     de: "Lokale Behörde"
     nl: "Lokale overheid"
   definition:
-    fr: "Catégorie de participants à qui le décret wallon réserve, avec les personnes physiques et les PME, le contrôle effectif d'une communauté d'énergie. La liste des entités concernées a été annulée par le Conseil d'État le 28 mars 2025 — ne laissant qualifiable que la commune, seule nommée par le décret électricité — puis rétablie et élargie par l'arrêté du 5 février 2026, en vigueur depuis le 26 février 2026."
-    en: "The category of participants to which the Walloon decree reserves effective control of an energy community, alongside natural persons and SMEs. The list of eligible entities was annulled by the Council of State on 28 March 2025 — leaving only the municipality, the sole entity named by the electricity decree — then restored and widened by the decree of 5 February 2026, in force since 26 February 2026."
-    de: "Kategorie von Teilnehmern, denen das wallonische Dekret neben natürlichen Personen und KMU die tatsächliche Kontrolle über eine Energiegemeinschaft vorbehält. Die Liste der betroffenen Einheiten wurde am 28. März 2025 vom Staatsrat für nichtig erklärt — womit nur die Gemeinde qualifizierbar blieb, die einzige im Elektrizitätsdekret genannte — und danach durch den Erlass vom 5. Februar 2026 wiederhergestellt und erweitert, in Kraft seit dem 26. Februar 2026."
-    nl: "Categorie van deelnemers aan wie het Waalse decreet, samen met natuurlijke personen en kmo's, de daadwerkelijke controle over een energiegemeenschap voorbehoudt. De lijst van betrokken entiteiten werd op 28 maart 2025 door de Raad van State vernietigd — waardoor alleen de gemeente kwalificeerbaar bleef, als enige genoemd in het elektriciteitsdecreet — en daarna hersteld en verruimd door het besluit van 5 februari 2026, van kracht sinds 26 februari 2026."
+    fr: "Catégorie de participants à qui le décret wallon réserve, avec les personnes physiques et les PME, le contrôle effectif d'une communauté d'énergie. La liste des entités concernées a été annulée par le Conseil d'État le 28 mars 2025 — ne laissant qualifiable que la commune, seule nommée par le décret électricité — puis rétablie et élargie par l'arrêté du 5 février 2026, en vigueur depuis le 26 février 2026. La liste rétablie couvre notamment les communes, les provinces, les CPAS, les intercommunales et toutes les écoles, quel que soit leur réseau."
+    en: "The category of participants to which the Walloon decree reserves effective control of an energy community, alongside natural persons and SMEs. The list of eligible entities was annulled by the Council of State on 28 March 2025 — leaving only the municipality, the sole entity named by the electricity decree — then restored and widened by the decree of 5 February 2026, in force since 26 February 2026. The restored list covers municipalities, provinces, public social welfare centres, inter-municipal companies and every school, whatever its network."
+    de: "Kategorie von Teilnehmern, denen das wallonische Dekret neben natürlichen Personen und KMU die tatsächliche Kontrolle über eine Energiegemeinschaft vorbehält. Die Liste der betroffenen Einheiten wurde am 28. März 2025 vom Staatsrat für nichtig erklärt — womit nur die Gemeinde qualifizierbar blieb, die einzige im Elektrizitätsdekret genannte — und danach durch den Erlass vom 5. Februar 2026 wiederhergestellt und erweitert, in Kraft seit dem 26. Februar 2026. Die wiederhergestellte Liste umfasst insbesondere Gemeinden, Provinzen, ÖSHZ, Interkommunale und alle Schulen, unabhängig von ihrem Netz."
+    nl: "Categorie van deelnemers aan wie het Waalse decreet, samen met natuurlijke personen en kmo's, de daadwerkelijke controle over een energiegemeenschap voorbehoudt. De lijst van betrokken entiteiten werd op 28 maart 2025 door de Raad van State vernietigd — waardoor alleen de gemeente kwalificeerbaar bleef, als enige genoemd in het elektriciteitsdecreet — en daarna hersteld en verruimd door het besluit van 5 februari 2026, van kracht sinds 26 februari 2026. De herstelde lijst omvat onder meer gemeenten, provincies, OCMW's, intercommunales en alle scholen, ongeacht hun net."
   alias:
     fr: ["autorités locales", "pouvoir local", "pouvoirs locaux"]
     en: ["local authorities"]
@@ -1482,6 +1482,26 @@
     en: []
     de: []
     nl: []
+- slug: pouvoir-organisateur
+  categorie: juridique
+  tags: [ecole, gouvernance, belgique]
+  source_nom: "SPW Énergie"
+  source_url: "https://energie.wallonie.be/home/les-marches-et-les-acteurs/communautes-d-energie/faq/questions-relatives-aux-communautes-d-energie.html"
+  terme:
+    fr: "Pouvoir organisateur"
+    en: "Organising authority"
+    de: "Schulträger"
+    nl: "Inrichtende macht"
+  definition:
+    fr: "Personne morale — commune, province, Wallonie-Bruxelles Enseignement, ASBL confessionnelle ou non — qui organise un établissement scolaire et en est l'interlocuteur juridique. Pour le partage d'énergie, son identité importe peu : l'arrêté du 17 mars 2023 range toutes les écoles parmi les autorités locales, quel que soit leur réseau, afin de ne pas créer de discrimination entre réseaux scolaires."
+    en: "The legal person — municipality, province, Wallonie-Bruxelles Enseignement, a denominational or non-denominational non-profit — that organises a school and acts as its legal counterpart. For energy sharing its identity matters little: the decree of 17 March 2023 ranks all schools among local authorities, whatever their network, in order not to create discrimination between school networks."
+    de: "Juristische Person — Gemeinde, Provinz, Wallonie-Bruxelles Enseignement, konfessionelle oder nichtkonfessionelle VoG —, die eine Schule organisiert und ihr rechtlicher Ansprechpartner ist. Für das Energieteilen spielt ihre Identität kaum eine Rolle: der Erlass vom 17. März 2023 zählt alle Schulen zu den lokalen Behörden, unabhängig von ihrem Netz, um keine Diskriminierung zwischen den Schulnetzen zu schaffen."
+    nl: "Rechtspersoon — gemeente, provincie, Wallonie-Bruxelles Enseignement, confessionele of niet-confessionele vzw — die een school inricht en er de juridische gesprekspartner van is. Voor energiedelen doet haar identiteit er weinig toe: het besluit van 17 maart 2023 rekent alle scholen tot de lokale overheden, ongeacht hun net, om geen discriminatie tussen de onderwijsnetten te creëren."
+  alias:
+    fr: ["pouvoirs organisateurs"]
+    en: ["organising authorities"]
+    de: ["Schulträgers", "Trägerschaft"]
+    nl: ["inrichtende machten", "schoolbestuur"]
 - slug: precarite-energetique
   categorie: reglementaire
   tags: [social, belgique, indicateur]
@@ -2091,6 +2111,26 @@
     de: ["Kapazitätstarif", "Leistungsterm"]
     nl: ["capaciteitsterm", "vermogensterm"]
 
+- slug: tiers-investisseur
+  categorie: modele
+  tags: [financement, photovoltaique, ecole]
+  source_nom: "La Libre"
+  source_url: "https://www.lalibre.be/planete/inspire/2023/01/30/sur-les-toits-des-ecoles-des-panneaux-solaires-pour-mieux-comprendre-les-enjeux-energetiques-T4ZMLNHWSND2DMOGMII6X3CUFI/"
+  terme:
+    fr: "Tiers-investisseur"
+    en: "Third-party investor"
+    de: "Drittinvestor"
+    nl: "Derde-investeerder"
+  definition:
+    fr: "Opérateur qui finance, installe et entretient une installation photovoltaïque sur le toit d'un tiers, se rémunère sur l'électricité produite, puis lui cède les panneaux au terme du contrat — souvent une dizaine d'années. Tant qu'il est propriétaire de la production, c'est lui et non l'occupant qui dispose du surplus : sans clause expresse, l'installation ne peut alimenter aucun partage d'énergie."
+    en: "An operator that finances, installs and maintains a photovoltaic installation on someone else's roof, is remunerated on the electricity produced, then transfers the panels at the end of the contract — often about ten years. As long as it owns the output, the operator and not the occupier has the surplus at its disposal: without an express clause, the installation cannot feed any energy-sharing operation."
+    de: "Betreiber, der eine Photovoltaikanlage auf dem Dach eines Dritten finanziert, installiert und wartet, sich über den erzeugten Strom vergütet und ihm die Module am Vertragsende überträgt — oft nach etwa zehn Jahren. Solange er Eigentümer der Produktion ist, verfügt er und nicht der Nutzer über den Überschuss: ohne ausdrückliche Klausel kann die Anlage kein Energieteilen speisen."
+    nl: "Operator die een fotovoltaïsche installatie op het dak van een derde financiert, plaatst en onderhoudt, zich vergoedt op de geproduceerde elektriciteit en hem de panelen bij het einde van het contract overdraagt — vaak na een tiental jaar. Zolang hij eigenaar is van de productie, beschikt hij en niet de gebruiker over het overschot: zonder uitdrukkelijke clausule kan de installatie geen energiedelen voeden."
+  alias:
+    fr: ["tiers investisseur", "tiers-investissement", "tiers investissement"]
+    en: ["third-party investment", "third party investor"]
+    de: ["Drittinvestment", "Drittinvestition"]
+    nl: ["derde-investering", "derde investeerder"]
 - slug: tuteur-energie
   categorie: reglementaire
   tags: [cpas, conseil, wallonie]
