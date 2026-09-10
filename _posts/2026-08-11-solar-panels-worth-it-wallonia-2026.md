@@ -8,7 +8,7 @@ description: "Without compensation, is a Walloon solar installation still profit
 tags: [guide, administrative, community]
 lang: en
 ref: solar-panels-worth-it-wallonia-2026
-last_modified_at: 2026-08-18 04:00:00 +0200
+last_modified_at: 2026-09-10 06:00:00 +0200
 permalink: /en/news/2026/08/11/solar-panels-worth-it-wallonia-2026/
 faq:
   - q: "Are solar panels still profitable in Wallonia in 2026?"
@@ -71,6 +71,8 @@ There is **no direct regional premium and no green certificate left** for a new 
 | **Municipal premiums** | Variable, often a few hundred euros | To be checked case by case with your municipality |
 
 In other words: the profitability of a Walloon installation in 2026 no longer depends on any meaningful public support. It depends entirely on what you do with your production.
+
+This article is about households. Above 10 kW the picture changes: green certificates still exist, under the CPMA regime, and a farm holding can add regional investment aid on top — but only on the share it self-consumes. The case of a large professional roof is covered in [“Farm roofs: the energy-sharing guide”](/en/news/2026/09/10/farm-solar-energy-sharing-guide/).
 
 ## The 2026 profitability calculation, line by line
 

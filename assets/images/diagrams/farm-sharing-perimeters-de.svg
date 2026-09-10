@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" role="img" aria-labelledby="t d">
+<title id="t">Wo die Förderung endet und das Teilen beginnt</title><desc id="d">Schema mit vier ineinander liegenden Perimetern, das zeigt, wohin eine auf dem Dach einer wallonischen Landwirtschaftshalle erzeugte Kilowattstunde gehen kann und welchen Wert sie auf jeder Stufe behält. Im Zentrum liegt der erste Perimeter, die Zähler des Betriebs selbst: Der Strom wird dort selbst verbraucht und ist den vollen vermiedenen Endpreis wert, einschließlich aller Netzentgelte, Steuern und Mehrwertsteuer; es ist der einzige Perimeter, für den die regionale Investitionsbeihilfe für die Landwirtschaft gilt, da diese die gewerbliche Erzeugung erneuerbarer Energie nur im Verhältnis zum selbst verbrauchten Teil abdeckt. Der zweite Perimeter ist dasselbe Gebäude im Sinne von Artikel 3 des Erlasses vom 17. März 2023, also ein festes, überdachtes und geschlossenes Bauwerk mit mindestens zwei eigenständigen Versorgungspunkten — eine Konstellation, die der traditionelle wallonische Hof in durchgehender Bauweise erfüllt, eine frei stehende Halle im Hof dagegen nicht: Das Teilen erhält dort einen Nachlass von 80 Prozent auf den proportionalen Teil des Netztarifs. Der dritte Perimeter ist die Energiegemeinschaft, deren Näheerfordernis entweder innerhalb einer einzigen Gemeinde oder unterhalb desselben Hochspannungsumspannwerks erfüllt ist: Das Teilen ist möglich, trägt aber Netzentgelte, Steuern und Abgaben in voller Höhe. Der vierte und letzte Perimeter ist der Markt, in den der nicht geteilte Überschuss zum Einspeisetarif eingespeist wird, der geringsten Verwertung. Ein gestrichelter Rahmen um den ersten Perimeter markiert die Grenze der wallonischen Agrarbeihilfe, die genau dort endet, wo das Teilen beginnt.</desc>
+<rect width="800" height="620" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="60" y="44" font-size="21" fill="#212529" font-weight="700">Wo die Förderung endet und das Teilen beginnt</text>
+<text x="60" y="70" font-size="13" fill="#495057">Die vier Ziele einer Kilowattstunde vom Dach einer Landwirtschaftshalle</text>
+<rect x="70" y="96" width="660" height="438" rx="10" fill="#f8f9fa" stroke="#DEE2E6" stroke-width="1.4"/>
+<rect x="126" y="152" width="548" height="342" rx="10" fill="#f1f3f5" stroke="#CED4DA" stroke-width="1.4"/>
+<rect x="182" y="208" width="436" height="246" rx="10" fill="#e4f1e6" stroke="#81c784" stroke-width="1.4"/>
+<rect x="238" y="264" width="324" height="150" rx="10" fill="#c8e6c9" stroke="#2e7d32" stroke-width="2.4"/>
+<text x="88" y="119" font-size="11.5" fill="#212529" font-weight="700" letter-spacing="0.4">4 · DER MARKT</text><text x="88" y="137" font-size="11" fill="#495057">Einspeisung: der Einspeisetarif, die geringste Verwertung</text>
+<text x="144" y="175" font-size="11.5" fill="#212529" font-weight="700" letter-spacing="0.4">3 · DIE ENERGIEGEMEINSCHAFT — Art. 24</text><text x="144" y="193" font-size="11" fill="#495057">Selbe Gemeinde oder selbes HS-Umspannwerk — volle Netzentgelte und Steuern</text>
+<text x="200" y="231" font-size="11.5" fill="#212529" font-weight="700" letter-spacing="0.4">2 · DASSELBE GEBÄUDE — Art. 3 des Erlasses vom 17.03.2023</text><text x="200" y="249" font-size="11" fill="#495057">Teilen: 80 % Nachlass auf den proportionalen Teil des Netztarifs</text>
+<path d="M354.0 306 L370.0 290 L430.0 290 L446.0 306 Z" fill="#2e7d32" opacity="0.85"/>
+<line x1="377.0" y1="306" x2="385.0" y2="290" stroke="#FFFFFF" stroke-width="1.2" opacity="0.7"/>
+<line x1="400.0" y1="306" x2="400.0" y2="290" stroke="#FFFFFF" stroke-width="1.2" opacity="0.7"/>
+<line x1="423.0" y1="306" x2="415.0" y2="290" stroke="#FFFFFF" stroke-width="1.2" opacity="0.7"/>
+<rect x="354.0" y="306" width="92" height="4" rx="2" fill="#1b5e20"/>
+<text x="400.0" y="336" font-size="11.5" fill="#212529" font-weight="700" letter-spacing="0.4" text-anchor="middle">1 · DIE ZÄHLER DES BETRIEBS</text>
+<text x="400.0" y="354" font-size="11" fill="#495057" text-anchor="middle">Eigenverbrauch: der volle vermiedene Endpreis</text>
+<text x="400.0" y="376" font-size="10" fill="#1b5e20" font-weight="700" text-anchor="middle">Einziger Perimeter mit Agrarbeihilfe</text>
+<rect x="231" y="257" width="338" height="164" rx="10" fill="none" stroke="#c62828" stroke-width="1.8" stroke-dasharray="5 4"/>
+<text x="400.0" y="440" font-size="10.5" fill="#c62828" font-weight="700" text-anchor="middle">▲ Grenze der wallonischen Agrarbeihilfe</text>
+<text x="60" y="562" font-size="10.5" fill="#6c757d">Die Beihilfe erfasst gewerbliche erneuerbare Energie nur „im Verhältnis zum selbst</text>
+<text x="60" y="578" font-size="10.5" fill="#6c757d">verbrauchten Teil“: Sie endet genau dort, wo das Teilen beginnt.</text>
+</g></svg>

@@ -2,7 +2,7 @@
 layout: post
 title: "Energy communities: a guide for municipalities"
 date: 2026-08-30 06:00:00 +0200
-last_modified_at: 2026-09-04 06:00:00 +0200
+last_modified_at: 2026-09-10 06:00:00 +0200
 author: "Eric from OptimCE"
 excerpt: "262 Walloon municipalities. Thirteen energy communities with a complete file at the CWaPE, of which only six actually share any electricity. This is not a shortage of ambition: it is that almost nobody has noticed what Walloon law already says. The first of the two proximity criteria for a renewable energy community is literally “the territory of one single and same municipality”. Wallonia is the only one of the three regions where the legislator drew the perimeter itself — and drew it along the municipal boundary."
 description: "In Wallonia, the perimeter of a renewable energy community is the municipal territory. What a municipality can do with it, and at what price."
@@ -139,6 +139,8 @@ The **carbon neutrality decree**, adopted on 24 October 2023 and in force since 
 A sustainable energy and climate action plan is organised around three families of objectives: energy efficiency and sufficiency, renewable energy generation, and shifts between energy carriers. The plan must be submitted within **two years** of the council's decision to join, and it rests on an emissions inventory.
 
 An energy community feeds the second family directly. But its own interest lies elsewhere, and it fits in one sentence: **it is the action that mobilises roofs the municipality does not own.** A municipal insulation grant acts on private buildings and hopes somebody applies. An energy community gives a private owner an economic reason to invest in their own roof, since it offers an outlet at 3-14 cents for a surplus that earns them 1-5 cents. The leverage leaves the municipal estate, which is rare.
+
+In a rural municipality that private owner almost always has a name: a farmer, whose shed carries the largest available roof in the area. What that roof can and cannot do — and why Walloon farm aid stops where sharing begins — is set out in [“Farm roofs: the energy-sharing guide”](/en/news/2026/09/10/farm-solar-energy-sharing-guide/).
 
 It also ticks, in the same movement, a social box and a citizen-participation box — the two chapters that climate plans usually fill with awareness campaigns.
 

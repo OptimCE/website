@@ -36,6 +36,27 @@
     de: ["Akzise", "Verbrauchsteuer"]
     nl: ["accijns"]
 
+- slug: agrivoltaisme
+  categorie: production
+  tags: [photovoltaique, agriculture, production, wallonie]
+  source_nom: Renouvelle
+  source_url: "https://www.renouvelle.be/fr/agrivoltaisme-quelles-applications-possibles-en-belgique/"
+  terme:
+    fr: "Agrivoltaïsme"
+    en: "Agrivoltaics"
+    de: "Agri-Photovoltaik"
+    nl: "Agrivoltaïek"
+  definition:
+    fr: "Production d'électricité photovoltaïque combinée à une activité agricole : toitures de bâtiments agricoles, ombrières en prairie, structures surélevées sur cultures. En Wallonie, seules les toitures sont dispensées de permis d'urbanisme ; les installations au sol restent dérogatoires en zone agricole et attendent leur arrêté."
+    en: "Solar generation combined with a farming activity: roofs of farm buildings, shade structures over pasture, raised arrays over crops. In Wallonia only roofs are exempt from planning permission; ground-mounted arrays remain a derogation in agricultural zoning and still await their implementing order."
+    de: "Photovoltaikerzeugung in Verbindung mit einer landwirtschaftlichen Tätigkeit: Dächer landwirtschaftlicher Gebäude, Überdachungen auf Weiden, aufgeständerte Anlagen über Kulturen. In der Wallonie sind nur Dächer von der Städtebaugenehmigung befreit; Freiflächenanlagen bleiben im Agrargebiet abweichungsbedürftig und warten auf ihren Erlass."
+    nl: "Fotovoltaïsche productie gecombineerd met een landbouwactiviteit: daken van landbouwgebouwen, overkappingen boven weiland, verhoogde structuren boven teelten. In Wallonië zijn enkel daken vrijgesteld van stedenbouwkundige vergunning; grondopstellingen blijven afwijkend in landbouwgebied en wachten op hun besluit."
+  alias:
+    fr: ["agri-photovoltaïque", "photovoltaïque agricole"]
+    en: ["agrisolar", "agricultural solar"]
+    de: ["Agrar-Photovoltaik", "Agri-PV"]
+    nl: ["agri-fotovoltaïek", "landbouwzonne-energie"]
+
 - slug: amr
   categorie: mesure
   tags: [compteur, releve, data]
@@ -710,6 +731,27 @@
     de: ["Miteigentum", "Eigentümergemeinschaft"]
     nl: ["gedwongen mede-eigendom", "appartementsmede-eigendom"]
 
+- slug: cpma
+  categorie: reglementaire
+  tags: [certificat-vert, soutien, wallonie, production]
+  source_nom: SPW Énergie
+  source_url: "https://energie.wallonie.be/home/soutiens-financiers/soutien-a-la-production-d-electricite-verte/mecanismes-de-soutien/regime-cpma.html"
+  terme:
+    fr: "CPMA"
+    en: "CPMA"
+    de: "CPMA"
+    nl: "CPMA"
+  definition:
+    fr: "Coût de production moyen actualisé : méthodologie qui fixe, depuis le 1er juin 2024, le taux d'octroi de certificats verts des nouvelles installations wallonnes, toutes filières sauf le photovoltaïque de moins de 10 kW. Le taux est arrêté par arrêté ministériel et révisé chaque année selon les prix de marché : il se vérifie au jour de la demande."
+    en: "Levelised cost of production: the methodology that has set, since 1 June 2024, the green certificate grant rate for new Walloon installations, in every technology except photovoltaics below 10 kW. The rate is fixed by ministerial order and revised annually against market prices, so it must be checked on the day of the application."
+    de: "Durchschnittliche aktualisierte Erzeugungskosten: Methodik, die seit dem 1. Juni 2024 den Zuteilungssatz grüner Zertifikate für neue wallonische Anlagen festlegt, für alle Technologien außer Photovoltaik unter 10 kW. Der Satz wird per Ministerialerlass festgelegt und jährlich an den Marktpreisen ausgerichtet; er ist am Tag des Antrags zu prüfen."
+    nl: "Gemiddelde geactualiseerde productiekost: methodologie die sinds 1 juni 2024 het toekenningspercentage van groenestroomcertificaten voor nieuwe Waalse installaties bepaalt, voor alle technologieën behalve fotovoltaïek onder 10 kW. Het percentage wordt bij ministerieel besluit vastgelegd en jaarlijks herzien volgens de marktprijzen; het moet op de dag van de aanvraag worden nagegaan."
+  alias:
+    fr: ["coût de production moyen actualisé", "régime CPMA"]
+    en: ["levelised cost of production", "CPMA regime"]
+    de: ["CPMA-Regime"]
+    nl: ["CPMA-regime"]
+
 - slug: cwape
   categorie: regulateur
   tags: [wallonie, regulation, belgique]
@@ -772,6 +814,27 @@
     en: ["superficies"]
     de: ["Baurecht"]
     nl: ["recht van opstal"]
+
+- slug: ecretement
+  categorie: reseau
+  tags: [reseau, injection, production, flexibilite]
+  source_nom: ORES
+  source_url: "https://media.ores.be/ores-cms/nuuppfty/ores-pa-electricit%C3%A9-26-30-vdef.pdf"
+  terme:
+    fr: "Écrêtement"
+    en: "Curtailment"
+    de: "Abregelung"
+    nl: "Afregeling"
+  definition:
+    fr: "Réduction volontaire de la puissance injectée par une installation de production, imposée par le gestionnaire de réseau quand le réseau local est contraint, ou choisie dès la conception. L'énergie écrêtée n'existe pas : elle ne peut être ni injectée, ni partagée, et aucune convention de partage ne la rattrape."
+    en: "A deliberate reduction of the power injected by a generating installation, imposed by the grid operator when the local grid is constrained, or chosen at the design stage. Curtailed energy simply does not exist: it can be neither injected nor shared, and no sharing agreement recovers it."
+    de: "Bewusste Verringerung der von einer Erzeugungsanlage eingespeisten Leistung, vom Netzbetreiber bei Netzengpässen auferlegt oder bereits bei der Auslegung gewählt. Abgeregelte Energie existiert nicht: Sie kann weder eingespeist noch geteilt werden, und keine Teilungsvereinbarung holt sie auf."
+    nl: "Bewuste vermindering van het door een productie-installatie geïnjecteerde vermogen, opgelegd door de netbeheerder wanneer het lokale net onder druk staat, of al bij het ontwerp gekozen. Afgeregelde energie bestaat niet: ze kan niet worden geïnjecteerd noch gedeeld, en geen enkele deelovereenkomst haalt ze in."
+  alias:
+    fr: ["curtailment", "bridage"]
+    en: ["clipping", "output curtailment"]
+    de: ["Einspeisebegrenzung"]
+    nl: ["curtailment", "begrenzing"]
 
 - slug: energie-locale
   categorie: territoire
@@ -1648,6 +1711,27 @@
     en: ["quarter-hourly", "15-minute interval"]
     de: ["Viertelstundenwert"]
     nl: ["kwartierwaarde"]
+
+- slug: raccordement-flexible
+  categorie: reseau
+  tags: [reseau, raccordement, injection, flexibilite]
+  source_nom: ORES
+  source_url: "https://media.ores.be/ores-cms/p2oakyix/electricit%C3%A9-contrat-de-raccordement-flexible-au-r%C3%A9seau-de-distribution-haute-tension.pdf"
+  terme:
+    fr: "Raccordement flexible"
+    en: "Flexible connection"
+    de: "Flexibler Anschluss"
+    nl: "Flexibele aansluiting"
+  definition:
+    fr: "Raccordement accordé à une installation de production à la condition que le gestionnaire de réseau puisse limiter son injection aux heures où le réseau local est contraint. Il permet de se raccorder plus vite et moins cher sur un réseau saturé, au prix d'un écrêtement dont il faut chiffrer l'ampleur avant de dimensionner l'installation."
+    en: "A connection granted to a generating installation on condition that the grid operator may limit its injection during the hours when the local grid is constrained. It allows a faster and cheaper connection on a saturated grid, at the price of curtailment whose extent must be quantified before sizing the installation."
+    de: "Anschluss, der einer Erzeugungsanlage unter der Bedingung gewährt wird, dass der Netzbetreiber ihre Einspeisung in Stunden mit Netzengpässen begrenzen darf. Er ermöglicht einen schnelleren und günstigeren Anschluss an ein gesättigtes Netz, um den Preis einer Abregelung, deren Umfang vor der Auslegung zu beziffern ist."
+    nl: "Aansluiting die aan een productie-installatie wordt toegekend op voorwaarde dat de netbeheerder haar injectie mag begrenzen op de uren waarop het lokale net onder druk staat. Ze maakt een snellere en goedkopere aansluiting op een verzadigd net mogelijk, tegen de prijs van een afregeling waarvan de omvang voor de dimensionering moet worden becijferd."
+  alias:
+    fr: ["accès flexible", "limitation dynamique"]
+    en: ["flexible access", "dynamic limitation"]
+    de: ["flexibler Netzzugang", "dynamische Begrenzung"]
+    nl: ["flexibele toegang", "dynamische begrenzing"]
 
 - slug: recharge-bidirectionnelle
   categorie: technique

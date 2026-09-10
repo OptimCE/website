@@ -2,7 +2,7 @@
 layout: post
 title: "Energiegemeinschaft: Leitfaden für Gemeinden"
 date: 2026-08-30 06:00:00 +0200
-last_modified_at: 2026-09-04 06:00:00 +0200
+last_modified_at: 2026-09-10 06:00:00 +0200
 author: "Eric, OptimCE"
 excerpt: "262 wallonische Gemeinden. Dreizehn Energiegemeinschaften mit vollständiger Akte bei der CWaPE, von denen nur sechs tatsächlich Strom teilen. Das ist kein Mangel an Ehrgeiz: es hat nur kaum jemand bemerkt, was das wallonische Recht bereits sagt. Das erste der beiden Nähekriterien einer Erneuerbare-Energie-Gemeinschaft lautet wörtlich „das Gebiet einer einzigen und derselben Gemeinde“. Wallonien ist die einzige der drei Regionen, in der der Gesetzgeber den Perimeter selbst gezogen hat — entlang der Gemeindegrenze."
 description: "In Wallonien ist der Perimeter einer Erneuerbare-Energie-Gemeinschaft das Gemeindegebiet. Was die Gemeinde damit tun kann und zu welchem Preis."
@@ -139,6 +139,8 @@ Das **Dekret zur Klimaneutralität**, angenommen am 24. Oktober 2023 und in Kraf
 Ein Aktionsplan für nachhaltige Energie und Klima gliedert sich um drei Zielfamilien: Energieeffizienz und Suffizienz, Erzeugung erneuerbarer Energie und Wechsel zwischen Energieträgern. Der Plan ist binnen **zwei Jahren** nach dem Beitrittsbeschluss des Gemeinderats einzureichen und beruht auf einer Emissionsbilanz.
 
 Eine Energiegemeinschaft speist die zweite Familie unmittelbar. Ihr eigentlicher Reiz liegt jedoch anderswo, und er passt in einen Satz: **sie ist die Maßnahme, die Dächer mobilisiert, die der Gemeinde nicht gehören.** Eine kommunale Dämmprämie wirkt auf den privaten Bestand und hofft, dass jemand sie beantragt. Eine Energiegemeinschaft gibt einem privaten Eigentümer einen wirtschaftlichen Grund, in sein eigenes Dach zu investieren, denn sie bietet ihm einen Absatz zu 3-14 Cent für einen Überschuss, der ihm 1-5 Cent einbringt. Der Hebel verlässt den kommunalen Bestand, was selten ist.
+
+In einer ländlichen Gemeinde hat dieser private Eigentümer fast immer einen Namen: einen Landwirt, dessen Halle das größte verfügbare Dach der Gegend trägt. Was dieses Dach kann und was nicht — und warum die wallonische Agrarbeihilfe dort endet, wo das Teilen beginnt — steht in [„Landwirte: der Leitfaden zum Energieteilen“](/de/aktuelles/2026/09/10/energiegemeinschaft-landwirtschaft-leitfaden/).
 
 Sie hakt im selben Zug ein soziales Feld und ein Bürgerbeteiligungsfeld ab — die beiden Kapitel, die Klimapläne sonst mit Sensibilisierungsaktionen füllen.
 

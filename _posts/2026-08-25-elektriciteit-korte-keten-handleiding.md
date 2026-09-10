@@ -8,7 +8,7 @@ description: "De vier gradaties van de korte keten voor stroom in Wallonië, wat
 tags: [guide, community]
 lang: nl
 ref: local-electricity-short-circuit
-last_modified_at: 2026-09-03 06:00:00 +0200
+last_modified_at: 2026-09-10 06:00:00 +0200
 permalink: /nl/nieuws/2026/08/25/elektriciteit-korte-keten-handleiding/
 faq:
   - q: "Kan ik in Wallonië de stroom van mijn overbuur kopen?"
@@ -197,6 +197,8 @@ Dat is de lijst die brochures nooit geven. Geordend naar het vermogen om te verb
 De nuttige lezing van deze tabel is niet “neem de eerste en laat de laatste vallen”. Een project heeft pendelgezinnen nodig: zij vormen de sociale basis, zij stemmen op de algemene vergadering, zij dragen het geheel. Maar **als de groep uit niets anders bestaat, is er geen korte keten, er is een vereniging.**
 
 Eén regel van deze tabel verdient een eigen artikel. De school is het enige profiel waarvan de dip seizoensgebonden is in plaats van uurgebonden — zeven weken sluiting op de productiepiek — en tegelijk de enige deelnemer die het Waalse recht ambtshalve tot de lokale overheden rekent, ongeacht zijn net: [“Scholen: de gids voor energiedelen”](/nl/nieuws/2026/09/03/energiedeling-school-gids/).
+
+Deze tabel somt verbruikers op. Op het platteland ontbreekt de vraag naar de producent: het grootste beschikbare dak behoort noch aan de gemeente noch aan de school toe, maar aan een landbouwer — en de gewestelijke steun die zijn panelen zou financieren, stopt precies waar het delen begint. Daarover gaat [“Landbouwloods: de gids voor energiedelen”](/nl/nieuws/2026/09/10/energiedeling-landbouw-gids/).
 
 ### Wat de tariefhervorming van 2026 in uw voordeel verandert
 

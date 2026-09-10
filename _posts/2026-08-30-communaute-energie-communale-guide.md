@@ -2,7 +2,7 @@
 layout: post
 title: "Communauté d'énergie : le guide des communes"
 date: 2026-08-30 06:00:00 +0200
-last_modified_at: 2026-09-04 06:00:00 +0200
+last_modified_at: 2026-09-10 06:00:00 +0200
 author: "Eric d'OptimCE"
 excerpt: "262 communes wallonnes. Treize communautés d'énergie au dossier complet chez la CWaPE, dont six seulement partagent réellement de l'électricité. Ce n'est pas un déficit d'ambition : c'est que presque personne n'a remarqué ce que le droit wallon dit déjà. Le premier des deux critères de proximité d'une communauté d'énergie renouvelable, c'est « le territoire d'une seule et même commune ». La Wallonie est la seule des trois régions où le législateur a tracé lui-même le périmètre — et il l'a fait passer par la limite communale."
 description: "En Wallonie, le périmètre d'une communauté d'énergie renouvelable, c'est le territoire communal. Ce que la commune peut y faire, et à quel prix."
@@ -138,6 +138,8 @@ Le **décret Neutralité carbone**, adopté le 24 octobre 2023 et entré en vigu
 Un plan d'action pour l'énergie durable et le climat s'organise autour de trois familles d'objectifs : l'efficacité et la sobriété énergétiques, la production d'énergie renouvelable, et le transfert entre vecteurs énergétiques. Le PAEDC doit être soumis dans les **deux ans** suivant la décision d'adhésion du conseil communal, et il repose sur un inventaire des émissions.
 
 Une communauté d'énergie alimente la deuxième famille de façon directe. Mais son intérêt propre est ailleurs, et il tient en une phrase : **c'est l'action qui mobilise des toitures que la commune ne possède pas.** Une prime communale à l'isolation agit sur le bâti privé en espérant que quelqu'un la demande. Une communauté d'énergie donne à un propriétaire privé une raison économique d'investir dans sa propre toiture, puisqu'elle lui offre un débouché à 3-14 centimes pour un surplus qui lui rapporte 1-5 centimes. L'effet de levier sort du patrimoine communal, ce qui est rare.
+
+En commune rurale, ce propriétaire privé a presque toujours un nom : c'est un agriculteur, et son hangar porte le plus grand toit disponible du territoire. Ce que ce toit peut et ne peut pas faire — et pourquoi l'aide agricole wallonne s'arrête là où le partage commence — est détaillé dans [« Hangar agricole : le guide du partage d'énergie »](/actualites/2026/09/10/partage-energie-agriculteur-hangar-solaire/).
 
 Elle coche par ailleurs, dans le même mouvement, une case sociale et une case de participation citoyenne — les deux chapitres que les plans climat remplissent habituellement avec des actions de sensibilisation.
 

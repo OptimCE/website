@@ -8,7 +8,7 @@ description: "Lohnt sich eine Photovoltaikanlage in Wallonien 2026 ohne Kompensa
 tags: [guide, administrative, community]
 lang: de
 ref: solar-panels-worth-it-wallonia-2026
-last_modified_at: 2026-08-18 04:00:00 +0200
+last_modified_at: 2026-09-10 06:00:00 +0200
 permalink: /de/aktuelles/2026/08/11/solaranlage-rentabel-wallonien-2026/
 faq:
   - q: "Lohnen sich Solaranlagen in Wallonien 2026 noch?"
@@ -71,6 +71,8 @@ Für eine neue private Photovoltaikanlage in Wallonien gibt es **weder eine dire
 | **Gemeindeprämien** | Unterschiedlich, oft einige hundert Euro | Im Einzelfall bei der Gemeinde zu prüfen |
 
 Anders gesagt: Die Rentabilität einer wallonischen Anlage hängt 2026 von keiner nennenswerten öffentlichen Förderung mehr ab. Sie hängt ausschließlich davon ab, was Sie mit Ihrer Erzeugung machen.
+
+Dieser Artikel behandelt den Wohnbereich. Oberhalb von 10 kW ändert sich das Bild: Grüne Zertifikate gibt es weiterhin, im CPMA-Regime, und ein landwirtschaftlicher Betrieb kann eine regionale Investitionsbeihilfe hinzufügen — allerdings nur auf den selbst verbrauchten Anteil. Der Fall eines großen gewerblichen Daches wird in [„Landwirte: der Leitfaden zum Energieteilen“](/de/aktuelles/2026/09/10/energiegemeinschaft-landwirtschaft-leitfaden/) behandelt.
 
 ## Die Rentabilitätsrechnung 2026, Posten für Posten
 

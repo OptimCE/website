@@ -8,7 +8,7 @@ description: "Is een fotovoltaïsche installatie in Wallonië in 2026 nog rendab
 tags: [guide, administrative, community]
 lang: nl
 ref: solar-panels-worth-it-wallonia-2026
-last_modified_at: 2026-08-18 04:00:00 +0200
+last_modified_at: 2026-09-10 06:00:00 +0200
 permalink: /nl/nieuws/2026/08/11/zonnepanelen-rendabel-wallonie-2026/
 faq:
   - q: "Zijn zonnepanelen in 2026 nog rendabel in Wallonië?"
@@ -71,6 +71,8 @@ Er bestaat **geen directe gewestelijke premie en geen groenestroomcertificaat me
 | **Gemeentelijke premies** | Wisselend, vaak enkele honderden euro's | Geval per geval na te vragen bij uw gemeente |
 
 Met andere woorden: de rendabiliteit van een Waalse installatie hangt in 2026 van geen enkele noemenswaardige overheidssteun meer af. Ze hangt volledig af van wat u met uw productie doet.
+
+Dit artikel gaat over woningen. Boven 10 kW verandert het beeld: groenestroomcertificaten bestaan nog, onder het CPMA-regime, en een landbouwbedrijf kan er gewestelijke investeringssteun bovenop krijgen — maar enkel op het deel dat het zelf verbruikt. Het geval van een groot professioneel dak wordt behandeld in [“Landbouwloods: de gids voor energiedelen”](/nl/nieuws/2026/09/10/energiedeling-landbouw-gids/).
 
 ## De rendabiliteitsberekening 2026, post per post
 

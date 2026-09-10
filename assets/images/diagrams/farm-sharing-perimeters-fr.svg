@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" role="img" aria-labelledby="t d">
+<title id="t">Où s'arrête l'aide, où commence le partage</title><desc id="d">Schéma en quatre périmètres emboîtés représentant les destinations possibles d'un kilowattheure produit sur la toiture d'un hangar agricole wallon, et la valeur que ce kilowattheure conserve à chaque étape. Au centre, le premier périmètre est celui des compteurs de l'exploitation elle-même : l'électricité y est autoconsommée et vaut le prix complet évité sur la facture, tous frais de réseau, taxes et TVA compris ; c'est le seul périmètre auquel l'aide régionale à l'investissement agricole s'applique, puisqu'elle ne couvre la production d'énergie renouvelable professionnelle que dans la proportion de la partie autoconsommée. Le deuxième périmètre est celui du même bâtiment au sens de l'article 3 de l'arrêté du 17 mars 2023, c'est-à-dire une construction fixe, couverte et fermée abritant au moins deux points de fourniture autonomes, configuration que réalise la ferme traditionnelle bâtie en enfilade mais que ne réalise pas un hangar isolé au milieu de la cour : le partage y bénéficie d'une réduction de 80 pour cent du terme proportionnel du tarif de réseau. Le troisième périmètre est celui de la communauté d'énergie, dont la proximité s'apprécie soit sur le territoire d'une seule et même commune, soit en aval d'un même poste de transformation à haute tension : le partage y est possible mais supporte l'intégralité des frais de réseau, des taxes et des surcharges. Le quatrième et dernier périmètre est le marché, où le surplus non partagé est injecté au tarif d'injection, la valorisation la plus faible. Un cadre en pointillé souligné d'une mention barre le schéma autour du premier périmètre : il matérialise la limite de l'aide agricole wallonne, qui s'arrête exactement là où le partage commence.</desc>
+<rect width="800" height="620" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="60" y="44" font-size="21" fill="#212529" font-weight="700">Où s'arrête l'aide, où commence le partage</text>
+<text x="60" y="70" font-size="13" fill="#495057">Les quatre destinations d'un kilowattheure produit sur un hangar agricole</text>
+<rect x="70" y="96" width="660" height="438" rx="10" fill="#f8f9fa" stroke="#DEE2E6" stroke-width="1.4"/>
+<rect x="126" y="152" width="548" height="342" rx="10" fill="#f1f3f5" stroke="#CED4DA" stroke-width="1.4"/>
+<rect x="182" y="208" width="436" height="246" rx="10" fill="#e4f1e6" stroke="#81c784" stroke-width="1.4"/>
+<rect x="238" y="264" width="324" height="150" rx="10" fill="#c8e6c9" stroke="#2e7d32" stroke-width="2.4"/>
+<text x="88" y="119" font-size="11.5" fill="#212529" font-weight="700" letter-spacing="0.4">4 · LE MARCHÉ</text><text x="88" y="137" font-size="11" fill="#495057">Injection : le tarif d'injection, la valorisation la plus faible</text>
+<text x="144" y="175" font-size="11.5" fill="#212529" font-weight="700" letter-spacing="0.4">3 · LA COMMUNAUTÉ D'ÉNERGIE — art. 24</text><text x="144" y="193" font-size="11" fill="#495057">Même commune ou même poste HT — tarifs réseau et taxes pleins</text>
+<text x="200" y="231" font-size="11.5" fill="#212529" font-weight="700" letter-spacing="0.4">2 · LE MÊME BÂTIMENT — art. 3 de l'AGW du 17/03/2023</text><text x="200" y="249" font-size="11" fill="#495057">Partage : 80 % de réduction sur le terme proportionnel du tarif réseau</text>
+<path d="M354.0 306 L370.0 290 L430.0 290 L446.0 306 Z" fill="#2e7d32" opacity="0.85"/>
+<line x1="377.0" y1="306" x2="385.0" y2="290" stroke="#FFFFFF" stroke-width="1.2" opacity="0.7"/>
+<line x1="400.0" y1="306" x2="400.0" y2="290" stroke="#FFFFFF" stroke-width="1.2" opacity="0.7"/>
+<line x1="423.0" y1="306" x2="415.0" y2="290" stroke="#FFFFFF" stroke-width="1.2" opacity="0.7"/>
+<rect x="354.0" y="306" width="92" height="4" rx="2" fill="#1b5e20"/>
+<text x="400.0" y="336" font-size="11.5" fill="#212529" font-weight="700" letter-spacing="0.4" text-anchor="middle">1 · LES COMPTEURS DE L'EXPLOITATION</text>
+<text x="400.0" y="354" font-size="11" fill="#495057" text-anchor="middle">Autoconsommation : le prix complet évité</text>
+<text x="400.0" y="376" font-size="10" fill="#1b5e20" font-weight="700" text-anchor="middle">Seul périmètre couvert par l'aide agricole</text>
+<rect x="231" y="257" width="338" height="164" rx="10" fill="none" stroke="#c62828" stroke-width="1.8" stroke-dasharray="5 4"/>
+<text x="400.0" y="440" font-size="10.5" fill="#c62828" font-weight="700" text-anchor="middle">▲ limite de l'aide agricole wallonne</text>
+<text x="60" y="562" font-size="10.5" fill="#6c757d">L'aide n'admet l'énergie renouvelable professionnelle que « dans la proportion de la partie</text>
+<text x="60" y="578" font-size="10.5" fill="#6c757d">autoconsommée » : elle s'arrête exactement là où le partage d'énergie commence.</text>
+</g></svg>

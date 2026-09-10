@@ -2,7 +2,7 @@
 layout: post
 title: "Energiegemeenschap: de gids voor gemeenten"
 date: 2026-08-30 06:00:00 +0200
-last_modified_at: 2026-09-04 06:00:00 +0200
+last_modified_at: 2026-09-10 06:00:00 +0200
 author: "Eric van OptimCE"
 excerpt: "262 Waalse gemeenten. Dertien energiegemeenschappen met een volledig dossier bij de CWaPE, waarvan er slechts zes werkelijk stroom delen. Dat is geen gebrek aan ambitie: bijna niemand heeft gemerkt wat het Waalse recht al zegt. Het eerste van de twee nabijheidscriteria van een hernieuwbare-energiegemeenschap luidt letterlijk “het grondgebied van één en dezelfde gemeente”. Wallonië is het enige van de drie gewesten waar de wetgever de perimeter zelf heeft getrokken — langs de gemeentegrens."
 description: "In Wallonië is de perimeter van een hernieuwbare-energiegemeenschap het gemeentelijke grondgebied. Wat uw gemeente ermee kan, en tegen welke prijs."
@@ -139,6 +139,8 @@ Het **decreet Koolstofneutraliteit**, aangenomen op 24 oktober 2023 en van krach
 Een actieplan voor duurzame energie en klimaat is opgebouwd rond drie families van doelstellingen: energie-efficiëntie en soberheid, productie van hernieuwbare energie, en overgang tussen energiedragers. Het plan moet worden ingediend binnen **twee jaar** na de toetredingsbeslissing van de gemeenteraad, en het steunt op een uitstootinventaris.
 
 Een energiegemeenschap voedt de tweede familie rechtstreeks. Maar haar eigen belang ligt elders, en het past in één zin: **het is de actie die daken mobiliseert die de gemeente niet bezit.** Een gemeentelijke isolatiepremie werkt op het private patrimonium en hoopt dat iemand ze aanvraagt. Een energiegemeenschap geeft een private eigenaar een economische reden om in zijn eigen dak te investeren, aangezien zij hem een afzet biedt tegen 3-14 cent voor een overschot dat hem 1-5 cent opbrengt. De hefboom verlaat het gemeentelijke patrimonium, wat zeldzaam is.
+
+In een landelijke gemeente heeft die private eigenaar bijna altijd een naam: een landbouwer, van wie de loods het grootste beschikbare dak van het grondgebied draagt. Wat dat dak wel en niet kan — en waarom de Waalse landbouwsteun stopt waar het delen begint — staat in [“Landbouwloods: de gids voor energiedelen”](/nl/nieuws/2026/09/10/energiedeling-landbouw-gids/).
 
 Zij vinkt in dezelfde beweging ook een sociaal vakje en een burgerparticipatievakje aan — de twee hoofdstukken die klimaatplannen gewoonlijk met sensibiliseringsacties vullen.
 
