@@ -2,7 +2,7 @@
 layout: post
 title: "Réduire sa facture d'électricité : Wallonie 2026"
 date: 2026-07-28 10:00:00 +0200
-last_modified_at: 2026-08-11 04:00:00 +0200
+last_modified_at: 2026-09-12 06:00:00 +0200
 author: "Eric d'OptimCE"
 excerpt: "Comparateur officiel, nouveau tarif Impact, tarif social, primes avant le 30 septembre, autoconsommation, partage d'énergie : dix leviers wallons chiffrés à partir de la grille tarifaire ORES 2026 approuvée par la CWaPE. Six d'entre eux ne coûtent rien. Pour chacun, le gain annuel réaliste, la condition à remplir et le délai."
 description: "Dix leviers concrets, chiffrés et sourcés pour alléger sa facture d'électricité en Wallonie en 2026 — du comparateur officiel au partage d'énergie."
@@ -171,6 +171,8 @@ La compensation — le compteur qui tourne à l'envers — reste acquise **jusqu
 **Et la batterie ?** Elle fait passer un taux d'autoconsommation typique de 30-40 % à 70-80 %. Mais soyons factuels : elle coûte 4 000 à 10 000 € pour 5 à 10 kWh, **la Wallonie ne verse aucune prime directe pour le stockage domestique**, et le retour sur investissement se situe autour de dix à treize ans — au-delà, souvent, de la garantie. Ce qui change la donne en 2026, c'est le tarif Impact : charger en bande ECO à 2,71 c€/kWh pour décharger en bande PIC à 13,54 c€/kWh ajoute un revenu d'arbitrage que le calcul classique ignorait. Faites refaire la simulation avec cette hypothèse avant de trancher.
 
 Enfin, l'option la plus rentable de toutes ne s'achète pas : c'est l'**autoconsommation collective**. À l'échelle d'un immeuble, une toiture solaire partagée entre les occupants monte mécaniquement le taux d'autoconsommation, parce que les courbes de consommation de plusieurs ménages se complètent. Les mécanismes, les indicateurs et les configurations sont détaillés dans [« Autoconsommation collective en Belgique »](/actualites/2026/06/05/autoconsommation-energie-belgique/).
+
+Ce levier a un angle mort : il suppose que quelqu'un soit là pour consommer. Quand la maison est vide de 8 h à 18 h, l'appareil qui rapporte le plus n'est pas celui qu'on croit, et il est souvent câblé sur le mauvais signal horaire — voir [« Panneaux solaires : absent toute la journée »](/actualites/2026/09/12/panneaux-solaires-absent-la-journee/).
 
 ## 9. Le partage d'énergie : l'option que presque personne n'active
 

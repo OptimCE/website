@@ -2,7 +2,7 @@
 layout: post
 title: "Stromrechnung senken: Wallonien 2026"
 date: 2026-07-28 10:00:00 +0200
-last_modified_at: 2026-08-11 04:00:00 +0200
+last_modified_at: 2026-09-12 06:00:00 +0200
 author: "Eric, OptimCE"
 excerpt: "Offizieller Vergleichsrechner, neuer Impact-Tarif, Sozialtarif, Prämienfrist am 30. September, Eigenverbrauch und Energieteilung: zehn wallonische Hebel, berechnet auf Grundlage der von der CWaPE genehmigten ORES-Tarifliste 2026. Sechs davon kosten nichts. Für jeden Hebel die realistische Jahresersparnis, die Bedingung und die Vorlaufzeit."
 description: "Zehn konkrete, belegte Hebel zur Senkung der Stromrechnung in Wallonien 2026 — vom offiziellen Vergleichsrechner bis zur Energieteilung."
@@ -172,6 +172,8 @@ Die Kompensation — der rückwärts laufende Zähler — bleibt für Anlagen mi
 **Und die Batterie?** Sie hebt eine typische Eigenverbrauchsquote von 30–40 % auf 70–80 %. Bleiben wir aber sachlich: Sie kostet 4.000 bis 10.000 € für 5 bis 10 kWh, **Wallonien zahlt keine direkte Prämie für Hausspeicher**, und die Amortisation liegt bei etwa zehn bis dreizehn Jahren — oft jenseits der Garantie. Was sich 2026 ändert, ist der Impact-Tarif: im ECO-Band zu 2,71 c€/kWh laden und im PIC-Band zu 13,54 c€/kWh entladen ergibt einen Arbitrageertrag, den die klassische Rechnung ignorierte. Lassen Sie die Simulation mit dieser Annahme neu aufstellen, bevor Sie entscheiden.
 
 Die rentabelste Option von allen lässt sich schließlich gar nicht kaufen: der **kollektive Eigenverbrauch**. Auf Gebäudeebene hebt ein zwischen den Bewohnern geteiltes Solardach die Eigenverbrauchsquote zwangsläufig an, weil sich die Lastkurven mehrerer Haushalte ergänzen. Mechanismen, Kennzahlen und Konfigurationen sind dargestellt in [„Kollektiver Eigenverbrauch in Belgien“](/de/aktuelles/2026/06/05/eigenverbrauch-energie-belgien/).
+
+Dieser Hebel hat einen blinden Fleck: Er setzt voraus, dass jemand da ist, um zu verbrauchen. Wenn das Haus von 8 bis 18 Uhr leer steht, ist das Gerät mit dem größten Ertrag nicht das erwartete, und es ist oft auf das falsche Zeitsignal verdrahtet — siehe [„Solaranlage: tagsüber niemand zu Hause“](/de/aktuelles/2026/09/12/solaranlage-tagsueber-nicht-zu-hause/).
 
 ## 9. Energieteilung: die Option, die fast niemand aktiviert
 

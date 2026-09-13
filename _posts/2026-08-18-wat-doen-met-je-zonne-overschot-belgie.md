@@ -8,6 +8,7 @@ description: "Injecteren, boiler, auto, batterij of delen: wat een kilowattuur z
 tags: [guide, community]
 lang: nl
 ref: solar-surplus-options
+last_modified_at: 2026-09-12 06:00:00 +0200
 permalink: /nl/nieuws/2026/08/18/wat-doen-met-je-zonne-overschot-belgie/
 faq:
   - q: "Welke optie levert het meeste op per geïnvesteerde euro voor een zonne-overschot?"
@@ -227,6 +228,8 @@ Twee lezingen komen naar voren, en ze gaan in tegen wat men gewoonlijk leest.
 **De twee gratis opties winnen op kapitaal, niet op waarde.** Delen en injecteren kosten niets maar waarderen de kilowattuur op 3 tot 14 cent, tegenover 37 voor zelfverbruik. Ze vervangen de opname ter plaatse dus nooit — ze vullen die aan.
 
 **De batterij is veruit de duurste per opgenomen kilowattuur.** Ze kost bijna negen keer de verhouding van een gestuurde warmwaterboiler voor een vergelijkbare dienst. Dat is geen argument tegen batterijen, het is een argument over de volgorde waarin u uitgeeft.
+
+Deze rangschikking veronderstelt dat iemand de verbruiken kan aanzetten. Voor een gezin dat van 8 tot 18 uur afwezig is, is de beperking niet langer de prijs maar het uur: 85,8 % van de productie valt tijdens de afwezigheid, en de programmatie stoot op een berekenbare grens. Dat is het onderwerp van [“Zonnepanelen: overdag niemand thuis”](/nl/nieuws/2026/09/12/zonnepanelen-overdag-niet-thuis/).
 
 ## Het juiste antwoord is een stapeling, geen keuze
 

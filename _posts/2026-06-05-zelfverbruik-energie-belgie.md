@@ -8,7 +8,7 @@ description: "Zelfverbruiksgraad en hoe u die verhoogt, collectief zelfverbruik,
 tags: [community]
 lang: nl
 ref: self-consumption-belgium
-last_modified_at: 2026-08-27 06:00:00 +0200
+last_modified_at: 2026-09-12 06:00:00 +0200
 permalink: /nl/nieuws/2026/06/05/zelfverbruik-energie-belgie/
 faq:
   - q: "Wat is de zelfverbruiksgraad?"
@@ -58,6 +58,8 @@ Een paneel produceert enkel overdag, terwijl een groot deel van het gezinsverbru
 6. **Het overschot delen via een energiegemeenschap.** Zijn uw eigen maatregelen gemaximaliseerd, dan wordt het resterende overschot niet langer tegen lage prijs geïnjecteerd, maar **gedeeld met andere leden** die het lokaal verbruiken. Dat is de logische uitbreiding van individueel naar collectief zelfverbruik. Wat dat betekent voor de terugverdientijd van een Waalse installatie, is becijferd in “[Zonnepanelen 2026: nog rendabel in Wallonië?](/nl/nieuws/2026/08/11/zonnepanelen-rendabel-wallonie-2026/)”.
 
 Deze zes hefbomen zijn niet gelijkwaardig: de warmwaterboiler, de elektrische auto en de batterij nemen noch dezelfde volumes op, noch tegen dezelfde kostprijs. De becijferde vergelijking van de vijf mogelijke bestemmingen van een overschot staat in [Zonne-overschot: de 5 opties vergeleken](/nl/nieuws/2026/08/18/wat-doen-met-je-zonne-overschot-belgie/).
+
+Die stappen veronderstellen aanwezigheid. Voor een gezin dat overdag afwezig is, verandert de rangorde: de beschikbare Belgische veldmeting geeft drie zelfverbruikspunten aan verschoven huishoudtoestellen en dertien aan een gestuurde boiler. De details staan in [“Zonnepanelen: overdag niemand thuis”](/nl/nieuws/2026/09/12/zonnepanelen-overdag-niet-thuis/).
 
 ## Zelfverbruik en energiegemeenschappen: de links
 

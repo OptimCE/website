@@ -2,7 +2,7 @@
 layout: post
 title: "Elektriciteitsfactuur verlagen: Wallonië 2026"
 date: 2026-07-28 10:00:00 +0200
-last_modified_at: 2026-08-11 04:00:00 +0200
+last_modified_at: 2026-09-12 06:00:00 +0200
 author: "Eric van OptimCE"
 excerpt: "Officiële vergelijker, nieuw Impact-tarief, sociaal tarief, premiedeadline van 30 september, zelfverbruik en energiedelen: tien Waalse hefbomen, berekend op basis van de door de CWaPE goedgekeurde ORES-tarieflijst 2026. Zes ervan kosten niets. Voor elke hefboom de realistische jaarwinst, de voorwaarde en de doorlooptijd."
 description: "Tien concrete, becijferde en gestaafde hefbomen om uw elektriciteitsfactuur in Wallonië te verlagen in 2026 — van de officiële vergelijker tot energiedelen."
@@ -172,6 +172,8 @@ De compensatie — de terugdraaiende teller — blijft verworven **tot 31 decemb
 **En de batterij?** Ze tilt een typische zelfverbruiksgraad van 30-40 % naar 70-80 %. Maar laten we feitelijk blijven: ze kost 4.000 tot 10.000 € voor 5 tot 10 kWh, **Wallonië keert geen enkele rechtstreekse premie uit voor thuisopslag**, en de terugverdientijd ligt rond tien tot dertien jaar — vaak voorbij de waarborg. Wat in 2026 verandert, is het Impact-tarief: laden in het ECO-blok aan 2,71 c€/kWh om te ontladen in het PIC-blok aan 13,54 c€/kWh voegt een arbitrage-opbrengst toe die de klassieke berekening negeerde. Laat de simulatie met die hypothese opnieuw maken vóór u beslist.
 
 De rendabelste optie van alle koopt u ten slotte niet: het **collectief zelfverbruik**. Op schaal van een gebouw tilt een tussen de bewoners gedeeld zonnedak de zelfverbruiksgraad automatisch omhoog, omdat de verbruikscurves van meerdere gezinnen elkaar aanvullen. De mechanismen, indicatoren en configuraties staan beschreven in [“Zelfverbruik van energie in België”](/nl/nieuws/2026/06/05/zelfverbruik-energie-belgie/).
+
+Deze hefboom heeft een blinde vlek: hij veronderstelt dat er iemand is om te verbruiken. Staat het huis van 8 tot 18 uur leeg, dan is het toestel dat het meest opbrengt niet wat u zou verwachten, en het is vaak op het verkeerde tijdsignaal bedraad — zie [“Zonnepanelen: overdag niemand thuis”](/nl/nieuws/2026/09/12/zonnepanelen-overdag-niet-thuis/).
 
 ## 9. Energiedelen: de optie die bijna niemand activeert
 

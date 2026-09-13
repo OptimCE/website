@@ -8,6 +8,7 @@ description: "Einspeisen, Boiler, Auto, Batterie oder Teilen: was eine Kilowatts
 tags: [guide, community]
 lang: de
 ref: solar-surplus-options
+last_modified_at: 2026-09-12 06:00:00 +0200
 permalink: /de/aktuelles/2026/08/18/solarer-ueberschuss-was-tun-belgien/
 faq:
   - q: "Welche Option bringt je investiertem Euro am meisten für einen Solarüberschuss?"
@@ -227,6 +228,8 @@ Zwei Lesarten treten hervor, und sie widersprechen dem, was üblicherweise zu le
 **Die beiden kostenlosen Optionen gewinnen beim Kapital, nicht beim Wert.** Teilen und Einspeisen kosten nichts, bewerten die Kilowattstunde aber mit 3 bis 14 Cent, gegenüber 37 beim Eigenverbrauch. Sie ersetzen die Aufnahme vor Ort also nie — sie ergänzen sie.
 
 **Die Batterie ist je aufgenommener Kilowattstunde mit Abstand die teuerste.** Sie kostet für eine vergleichbare Leistung knapp das Neunfache des Verhältnisses eines gesteuerten Warmwasserspeichers. Das ist kein Argument gegen Batterien, es ist ein Argument für die Reihenfolge der Ausgaben.
+
+Diese Rangfolge setzt voraus, dass jemand die Lasten auslösen kann. Für einen von 8 bis 18 Uhr abwesenden Haushalt ist die Grenze nicht mehr der Preis, sondern die Uhrzeit: 85,8 % der Produktion fallen während der Abwesenheit an, und die Programmierung stößt an eine berechenbare Grenze. Davon handelt [„Solaranlage: tagsüber niemand zu Hause“](/de/aktuelles/2026/09/12/solaranlage-tagsueber-nicht-zu-hause/).
 
 ## Die richtige Antwort ist ein Stapel, keine Wahl
 

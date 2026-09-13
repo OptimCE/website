@@ -8,7 +8,7 @@ description: "Sans compensation, une installation photovoltaïque wallonne est-e
 tags: [guide, administrative, community]
 lang: fr
 ref: solar-panels-worth-it-wallonia-2026
-last_modified_at: 2026-09-10 06:00:00 +0200
+last_modified_at: 2026-09-12 06:00:00 +0200
 faq:
   - q: "Les panneaux solaires sont-ils encore rentables en Wallonie en 2026 ?"
     a: "Oui, mais avec un temps de retour plus long qu'à l'époque de la compensation et beaucoup plus sensible à votre profil de consommation. Sur un cas illustratif de 4 kWc à 6 000 € TVAC, produisant 3 800 kWh par an avec un taux d'autoconsommation de 37,76 %, le gain annuel se situe autour de 613 € — dont 530 € proviennent de l'électricité que vous ne payez plus et seulement 83 € de la vente du surplus. Cela donne un retour de l'ordre de dix ans, contre six ans avancés par la Région wallonne en 2023 pour une installation à 40 % d'autoconsommation. La différence entre une bonne et une mauvaise installation ne se joue plus sur le prix du devis, mais sur la part de production que vous consommez vous-même."
@@ -103,6 +103,8 @@ Temps de retour simple : **6 000 / 613 ≈ 9,8 ans**. À comparer aux **six ans*
 Ce calcul reste volontairement simple : il ignore l'inflation du prix de l'électricité (2,5 %/an dans les hypothèses du simulateur wallon), la dégradation des modules (0,5 %/an), le remplacement de l'onduleur vers la douzième année, et l'entretien. Ces postes se compensent partiellement et ne changent pas la conclusion.
 
 **La conclusion, c'est le déséquilibre de la deuxième colonne.**
+
+Ce taux de 37,76 % est une moyenne réglementaire. Un ménage dont la maison est vide en journée se situe plutôt autour de 30 %, parce que 85,8 % de la production annuelle tombe entre 9 h et 17 h. Ce que ce profil peut récupérer, et où il plafonne, est chiffré dans [« Panneaux solaires : absent toute la journée »](/actualites/2026/09/12/panneaux-solaires-absent-la-journee/).
 
 ## Le vrai problème n'est pas le prix des panneaux — c'est le sort du surplus
 

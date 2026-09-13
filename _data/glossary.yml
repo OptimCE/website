@@ -627,6 +627,48 @@
     de: ["Zweiwegezähler", "bidirektionaler Zähler"]
     nl: ["tweerichtingsmeter", "bidirectionele meter"]
 
+- slug: compteur-exclusif-de-nuit
+  categorie: reseau
+  tags: [compteur, eau-chaude, tarif, wallonie]
+  source_nom: ORES
+  source_url: "https://www.ores.be/comprendre-ma-facture/exclusif-de-nuit"
+  terme:
+    fr: "Compteur exclusif de nuit"
+    en: "Exclusive-night meter"
+    de: "Nachtstromzähler"
+    nl: "Exclusief nachtmeter"
+  definition:
+    fr: "Second compteur, doté de son propre code EAN, qui n'alimente qu'un circuit dédié — ballon d'eau chaude ou chauffage à accumulation — pendant une plage nocturne, le plus souvent de 22 h à 7 h ou de 21 h à 6 h selon la cabine de raccordement. Depuis le 1er janvier 2026, ORES aligne son tarif de distribution sur celui des heures creuses du bihoraire : il n'offre donc plus d'avantage à un client bihoraire, et il fait chauffer l'eau la nuit, quand aucun panneau ne produit."
+    en: "A second meter, with its own EAN code, feeding only a dedicated circuit — hot-water tank or storage heating — during a night-time window, most often 22:00 to 07:00 or 21:00 to 06:00 depending on the substation. Since 1 January 2026 ORES has aligned its distribution rate with dual-rate off-peak hours: it therefore no longer offers any advantage to a dual-rate customer, and it heats water at night, when no panel is producing."
+    de: "Zweiter Zähler mit eigenem EAN-Code, der nur einen eigenen Stromkreis versorgt — Warmwasserspeicher oder Nachtspeicherheizung — und das während eines nächtlichen Fensters, meist von 22 bis 7 Uhr oder von 21 bis 6 Uhr je nach Trafostation. Seit dem 1. Januar 2026 gleicht ORES seinen Verteilungstarif dem der Schwachlastzeiten des Zweitarifs an: Er bietet einem Zweitarifkunden daher keinen Vorteil mehr und heizt das Wasser nachts, wenn kein Modul produziert."
+    nl: "Tweede meter met een eigen EAN-code die alleen een aparte kring voedt — boiler of accumulatieverwarming — tijdens een nachtelijk venster, meestal van 22 tot 7 uur of van 21 tot 6 uur naargelang de cabine. Sinds 1 januari 2026 stemt ORES het distributietarief ervan af op dat van de daluren van het tweevoudig tarief: het biedt een klant op het tweevoudig tarief dus geen voordeel meer, en het warmt het water 's nachts op, wanneer geen enkel paneel produceert."
+  alias:
+    fr: ["exclusif de nuit", "compteur de nuit"]
+    en: ["exclusive night meter", "night-only meter"]
+    de: ["Nachtstrom", "exklusiver Nachtzähler"]
+    nl: ["exclusief nacht", "nachtmeter"]
+
+- slug: contacteur-jour-nuit
+  categorie: technique
+  tags: [eau-chaude, autoconsommation, compteur]
+  source_nom: OptimCE
+  source_ref: about
+  terme:
+    fr: "Contacteur jour/nuit"
+    en: "Day/night contactor"
+    de: "Tag-Nacht-Schütz"
+    nl: "Dag-nachtcontactor"
+  definition:
+    fr: "Appareil du tableau électrique qui ferme le circuit d'un gros consommateur — typiquement le ballon d'eau chaude — lorsque le compteur bascule en heures creuses, et le coupe au retour des heures pleines. Depuis que les heures creuses wallonnes couvrent 11 h à 17 h, il fait chauffer l'eau en partie pendant la production photovoltaïque ; encore faut-il vérifier qu'il n'a pas été laissé en position forcée."
+    en: "A consumer-unit device that closes the circuit of a large load — typically the hot-water tank — when the meter switches to off-peak, and cuts it when peak hours return. Now that Walloon off-peak hours cover 11:00 to 17:00, it heats water partly during solar production; you still have to check it has not been left in a forced position."
+    de: "Gerät im Verteilerkasten, das den Stromkreis eines großen Verbrauchers — typischerweise des Warmwasserspeichers — schließt, wenn der Zähler in die Schwachlastzeit wechselt, und ihn bei Rückkehr der Hochlastzeit trennt. Seit die wallonischen Schwachlastzeiten 11 bis 17 Uhr umfassen, heizt er das Wasser teilweise während der Photovoltaikproduktion; zu prüfen bleibt, ob er nicht in einer festen Stellung belassen wurde."
+    nl: "Toestel in het schakelbord dat de kring van een grote verbruiker — typisch de boiler — sluit wanneer de meter naar de daluren omschakelt, en hem onderbreekt bij terugkeer van de piekuren. Nu de Waalse daluren 11 tot 17 uur beslaan, warmt hij het water gedeeltelijk op tijdens de fotovoltaïsche productie; wel moet worden nagekeken of hij niet in een geforceerde stand is blijven staan."
+  alias:
+    fr: ["contacteur heures creuses", "contacteur de chauffe-eau"]
+    en: ["off-peak contactor", "water heater contactor"]
+    de: ["Schwachlastschütz", "Boilerschütz"]
+    nl: ["dalurencontactor", "boilercontactor"]
+
 - slug: contrat-d-injection
   categorie: marche
   tags: [injection, fournisseur, surplus]
@@ -731,6 +773,27 @@
     de: ["Miteigentum", "Eigentümergemeinschaft"]
     nl: ["gedwongen mede-eigendom", "appartementsmede-eigendom"]
 
+- slug: courbe-de-charge
+  categorie: mesure
+  tags: [consommation, quart-d-heure, partage, simultaneite]
+  source_nom: Synergrid
+  source_url: "https://www.synergrid.be/fr/centre-de-documentation/statistiques-et-donnees/profils-slp-spp-rlp"
+  terme:
+    fr: "Courbe de charge"
+    en: "Load curve"
+    de: "Lastgang"
+    nl: "Belastingcurve"
+  definition:
+    fr: "Représentation de la puissance appelée par un point de fourniture au fil du temps, en Belgique au pas du quart d'heure. C'est elle, et non le volume annuel, qui décide de ce qu'un participant peut réellement absorber dans une opération de partage : deux profils qui consomment autant sur l'année mais pas aux mêmes heures n'ont pas du tout la même valeur pour le groupe."
+    en: "A representation of the power drawn by a supply point over time, in Belgium at quarter-hourly resolution. It is the curve, not the annual volume, that decides what a participant can actually absorb in a sharing operation: two profiles consuming the same amount over the year but not at the same hours are worth entirely different things to the group."
+    de: "Darstellung der von einem Entnahmepunkt bezogenen Leistung im Zeitverlauf, in Belgien im Viertelstundenraster. Sie und nicht die Jahresmenge entscheidet darüber, was ein Teilnehmer in einer Teilungsoperation tatsächlich aufnehmen kann: Zwei Profile, die übers Jahr gleich viel verbrauchen, aber nicht zu denselben Stunden, haben für die Gruppe einen völlig unterschiedlichen Wert."
+    nl: "Weergave van het vermogen dat een afnamepunt in de loop van de tijd opneemt, in België per kwartier. Zij en niet het jaarvolume beslist over wat een deelnemer werkelijk kan opnemen in een deelverrichting: twee profielen die over het jaar evenveel verbruiken maar niet op dezelfde uren, hebben voor de groep een volstrekt andere waarde."
+  alias:
+    fr: ["profil de charge", "courbe de consommation"]
+    en: ["load profile", "consumption curve"]
+    de: ["Lastprofil", "Verbrauchskurve"]
+    nl: ["belastingprofiel", "verbruikscurve"]
+
 - slug: cpma
   categorie: reglementaire
   tags: [certificat-vert, soutien, wallonie, production]
@@ -814,6 +877,27 @@
     en: ["superficies"]
     de: ["Baurecht"]
     nl: ["recht van opstal"]
+
+- slug: eau-chaude-sanitaire
+  categorie: technique
+  tags: [eau-chaude, autoconsommation, surplus]
+  source_nom: OptimCE
+  source_ref: about
+  terme:
+    fr: "Eau chaude sanitaire"
+    en: "Domestic hot water"
+    de: "Trinkwarmwasser"
+    nl: "Sanitair warm water"
+  definition:
+    fr: "Eau chauffée pour les usages domestiques — douche, vaisselle, lavabo — par opposition à l'eau du circuit de chauffage. Produite électriquement, c'est le poste le plus intéressant à décaler sur la production photovoltaïque : sa consommation est quotidienne, entièrement déplaçable dans le temps et indépendante de la présence des occupants. Le ballon doit toutefois atteindre régulièrement 60 °C pour prévenir les légionelles."
+    en: "Water heated for domestic uses — showering, dishes, washbasin — as opposed to water in the heating circuit. When produced electrically, it is the most attractive load to shift onto solar production: its consumption is daily, fully shiftable in time and independent of whether anyone is home. The tank must nonetheless reach 60 °C regularly to prevent legionella."
+    de: "Für häusliche Zwecke erwärmtes Wasser — Dusche, Abwasch, Waschbecken — im Unterschied zum Wasser des Heizkreises. Elektrisch erzeugt ist es der attraktivste Posten, um ihn auf die Photovoltaikproduktion zu verschieben: Der Verbrauch ist täglich, zeitlich vollständig verschiebbar und unabhängig von der Anwesenheit der Bewohner. Der Speicher muss allerdings regelmäßig 60 °C erreichen, um Legionellen vorzubeugen."
+    nl: "Water dat wordt opgewarmd voor huishoudelijk gebruik — douche, afwas, wastafel — in tegenstelling tot het water van de verwarmingskring. Elektrisch opgewekt is dit de interessantste post om naar de fotovoltaïsche productie te verschuiven: het verbruik is dagelijks, volledig verschuifbaar in de tijd en onafhankelijk van de aanwezigheid van de bewoners. De boiler moet wel regelmatig 60 °C bereiken om legionella te voorkomen."
+  alias:
+    fr: ["ECS", "eau chaude"]
+    en: ["DHW", "hot water"]
+    de: ["Warmwasser", "Brauchwarmwasser"]
+    nl: ["SWW", "warm water"]
 
 - slug: ecretement
   categorie: reseau
@@ -1942,6 +2026,27 @@
     en: ["property manager", "syndic"]
     de: ["Hausverwalter", "Syndikus"]
     nl: ["syndicus van de mede-eigendom"]
+
+- slug: talon-de-consommation
+  categorie: mesure
+  tags: [consommation, autoconsommation, courbe]
+  source_nom: OptimCE
+  source_ref: about
+  terme:
+    fr: "Talon de consommation"
+    en: "Base load"
+    de: "Grundlast"
+    nl: "Basislast"
+  definition:
+    fr: "Puissance que le logement appelle en permanence, même vide : réfrigérateur, congélateur, ventilation, box internet, veilles. De l'ordre de 200 à 300 W dans une maison belge, elle constitue la seule autoconsommation garantie d'un ménage absent en journée — environ 1,5 kWh sur la plage de 11 h à 17 h, là où une installation de 4 kWc en produit plus de dix un jour de juin."
+    en: "The power a home draws continuously, even when empty: fridge, freezer, ventilation, router, standby. In the order of 200 to 300 W in a Belgian house, it is the only guaranteed self-consumption of a household away during the day — around 1.5 kWh over the 11:00 to 17:00 window, where a 4 kWp system produces more than ten on a June day."
+    de: "Leistung, die eine Wohnung dauerhaft bezieht, auch wenn niemand da ist: Kühlschrank, Gefriertruhe, Lüftung, Router, Standby. Mit rund 200 bis 300 W in einem belgischen Haus bildet sie den einzigen garantierten Eigenverbrauch eines tagsüber abwesenden Haushalts — etwa 1,5 kWh im Fenster von 11 bis 17 Uhr, während eine Anlage von 4 kWp an einem Junitag mehr als zehn erzeugt."
+    nl: "Vermogen dat een woning doorlopend opneemt, ook wanneer ze leeg staat: koelkast, diepvriezer, ventilatie, modem, sluipverbruik. Met ongeveer 200 tot 300 W in een Belgisch huis vormt het het enige gegarandeerde zelfverbruik van een gezin dat overdag afwezig is — zowat 1,5 kWh in het venster van 11 tot 17 uur, terwijl een installatie van 4 kWp er op een junidag meer dan tien produceert."
+  alias:
+    fr: ["consommation de base", "talon"]
+    en: ["baseload", "standing consumption"]
+    de: ["Sockellast", "Dauerlast"]
+    nl: ["sokkelverbruik", "basisverbruik"]
 
 - slug: tarif-bihoraire
   categorie: reseau

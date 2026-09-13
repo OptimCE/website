@@ -8,7 +8,7 @@ description: "The self-consumption rate and how to raise it, collective self-con
 tags: [community]
 lang: en
 ref: self-consumption-belgium
-last_modified_at: 2026-08-27 06:00:00 +0200
+last_modified_at: 2026-09-12 06:00:00 +0200
 permalink: /en/news/2026/06/05/energy-self-consumption-belgium/
 faq:
   - q: "What is the self-consumption rate?"
@@ -58,6 +58,8 @@ A panel only produces during the day, yet much of a household's consumption happ
 6. **Share the surplus via an energy community.** Once your own measures are maxed out, the remaining surplus is no longer injected at a low price: it's **shared with other members** who consume it locally. This is the logical extension from individual to collective self-consumption. What that changes for the payback of a Walloon installation is quantified in [“Solar panels 2026: still worth it in Wallonia?”](/en/news/2026/08/11/solar-panels-worth-it-wallonia-2026/).
 
 These six levers are not equivalent: the hot-water tank, the electric car and the battery absorb neither the same volumes nor at the same cost. The costed comparison of the five possible destinations of a surplus is set out in [“Solar surplus: the 5 options compared”](/en/news/2026/08/18/what-to-do-solar-surplus-belgium/).
+
+These moves assume somebody is there. For a household away during the day the hierarchy changes: the available Belgian field measurement gives three self-consumption points to shifted appliances and thirteen to a controlled hot-water tank. The detail is in [“Solar panels: nobody home during the day”](/en/news/2026/09/12/solar-panels-away-during-the-day/).
 
 ## Self-consumption and energy communities: the links
 

@@ -8,7 +8,7 @@ description: "Eigenverbrauchsquote und wie man sie erhöht, kollektiver Eigenver
 tags: [community]
 lang: de
 ref: self-consumption-belgium
-last_modified_at: 2026-08-27 06:00:00 +0200
+last_modified_at: 2026-09-12 06:00:00 +0200
 permalink: /de/aktuelles/2026/06/05/eigenverbrauch-energie-belgien/
 faq:
   - q: "Was ist die Eigenverbrauchsquote?"
@@ -58,6 +58,8 @@ Eine Anlage produziert nur tagsüber, doch ein großer Teil des Haushaltsverbrau
 6. **Den Überschuss über eine Energiegemeinschaft teilen.** Sind Ihre eigenen Maßnahmen ausgereizt, wird der verbleibende Überschuss nicht mehr zu niedrigem Preis eingespeist, sondern **mit anderen Mitgliedern geteilt**, die ihn lokal verbrauchen. Das ist die logische Erweiterung vom individuellen zum kollektiven Eigenverbrauch. Was das für die Amortisation einer wallonischen Anlage bedeutet, ist in „[Solaranlage 2026: lohnt sie sich in Wallonien?](/de/aktuelles/2026/08/11/solaranlage-rentabel-wallonien-2026/)“ beziffert.
 
 Diese sechs Hebel sind nicht gleichwertig: Warmwasserspeicher, Elektroauto und Batterie nehmen weder dieselben Mengen noch zu denselben Kosten auf. Der bezifferte Vergleich der fünf möglichen Bestimmungen eines Überschusses steht in [Solarüberschuss: die 5 Optionen im Vergleich](/de/aktuelles/2026/08/18/solarer-ueberschuss-was-tun-belgien/).
+
+Diese Schritte setzen Anwesenheit voraus. Für einen tagsüber abwesenden Haushalt ändert sich die Rangfolge: Die verfügbare belgische Feldmessung gibt verschobenen Haushaltsgeräten drei Eigenverbrauchspunkte und dem gesteuerten Warmwasserspeicher dreizehn. Die Einzelheiten stehen in [„Solaranlage: tagsüber niemand zu Hause“](/de/aktuelles/2026/09/12/solaranlage-tagsueber-nicht-zu-hause/).
 
 ## Eigenverbrauch und Energiegemeinschaften: die Bezüge
 

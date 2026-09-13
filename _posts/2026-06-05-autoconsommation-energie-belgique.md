@@ -8,7 +8,7 @@ description: "Taux d'autoconsommation et comment l'augmenter, autoconsommation c
 tags: [community]
 lang: fr
 ref: self-consumption-belgium
-last_modified_at: 2026-08-27 06:00:00 +0200
+last_modified_at: 2026-09-12 06:00:00 +0200
 faq:
   - q: "Qu'est-ce que le taux d'autoconsommation ?"
     a: "C'est la part de votre production solaire que vous consommez vous-même, au lieu de l'injecter sur le réseau. Un taux de 30 % signifie que vous consommez directement 30 % de ce que vos panneaux produisent ; le reste est injecté. Plus le taux est élevé, plus vous valorisez votre production."
@@ -57,6 +57,8 @@ Un panneau ne produit que le jour ; or une bonne partie de la consommation d'un 
 6. **Partager le surplus via une communauté d'énergie.** Quand vos propres mesures sont maximisées, le surplus restant n'est plus injecté à bas prix : il est **partagé avec d'autres membres** qui le consomment localement. C'est l'extension logique de l'autoconsommation individuelle vers l'autoconsommation collective. Ce que cela change au temps de retour d'une installation wallonne est chiffré dans [« Panneaux solaires 2026 : rentables en Wallonie ? »](/actualites/2026/08/11/panneaux-solaires-rentables-wallonie-2026/).
 
 Ces six leviers ne se valent pas : le ballon d'eau chaude, la voiture électrique et la batterie n'absorbent ni les mêmes volumes, ni au même coût. Le comparatif chiffré des cinq destinations possibles d'un surplus figure dans [« Surplus solaire : les 5 options comparées »](/actualites/2026/08/18/que-faire-surplus-solaire-belgique/).
+
+Ces gestes supposent une présence. Pour un ménage absent en journée, la hiérarchie change : la mesure de terrain belge disponible donne trois points d'autoconsommation à l'électroménager déplacé et treize au ballon d'eau chaude piloté. Le détail est dans [« Panneaux solaires : absent toute la journée »](/actualites/2026/09/12/panneaux-solaires-absent-la-journee/).
 
 ## Autoconsommation et communautés d'énergie : les liens
 

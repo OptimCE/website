@@ -8,7 +8,7 @@ description: "Lohnt sich eine Photovoltaikanlage in Wallonien 2026 ohne Kompensa
 tags: [guide, administrative, community]
 lang: de
 ref: solar-panels-worth-it-wallonia-2026
-last_modified_at: 2026-09-10 06:00:00 +0200
+last_modified_at: 2026-09-12 06:00:00 +0200
 permalink: /de/aktuelles/2026/08/11/solaranlage-rentabel-wallonien-2026/
 faq:
   - q: "Lohnen sich Solaranlagen in Wallonien 2026 noch?"
@@ -104,6 +104,8 @@ Einfache Amortisation: **6.000 / 613 ≈ 9,8 Jahre**. Zum Vergleich die **sechs 
 Die Rechnung bleibt bewusst einfach: Sie lässt die Strompreisinflation (2,5 %/Jahr in den Annahmen des wallonischen Simulators), die Moduldegradation (0,5 %/Jahr), den Wechselrichtertausch um das zwölfte Jahr und die Wartung außen vor. Diese Posten gleichen sich teilweise aus und ändern das Ergebnis nicht.
 
 **Das Ergebnis steckt im Ungleichgewicht der zweiten Spalte.**
+
+Diese Quote von 37,76 % ist ein regulatorischer Mittelwert. Ein Haushalt, dessen Haus tagsüber leer steht, liegt eher bei 30 %, weil 85,8 % der Jahresproduktion zwischen 9 und 17 Uhr anfallen. Was dieses Profil zurückholen kann und wo es an eine Grenze stößt, ist beziffert in [„Solaranlage: tagsüber niemand zu Hause“](/de/aktuelles/2026/09/12/solaranlage-tagsueber-nicht-zu-hause/).
 
 ## Das wahre Problem ist nicht der Modulpreis — es ist das Schicksal des Überschusses
 

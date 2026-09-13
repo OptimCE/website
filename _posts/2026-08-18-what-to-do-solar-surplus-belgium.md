@@ -8,6 +8,7 @@ description: "Export, water tank, car, battery or sharing: what a kilowatt-hour 
 tags: [guide, community]
 lang: en
 ref: solar-surplus-options
+last_modified_at: 2026-09-12 06:00:00 +0200
 permalink: /en/news/2026/08/18/what-to-do-solar-surplus-belgium/
 faq:
   - q: "Which option delivers the most per euro invested for a solar surplus?"
@@ -227,6 +228,8 @@ Two readings emerge, and they cut against what is usually written.
 **The two free options win on capital, not on value.** Sharing and export cost nothing but value the kilowatt-hour at 3 to 14 cents, against 37 for self-consumption. They therefore never replace absorption on site — they complete it.
 
 **The battery is the most expensive per kilowatt-hour absorbed, by a wide margin.** It costs close to nine times the ratio of a controlled hot-water tank for a comparable service. That is not an argument against batteries, it is an argument about the order in which you spend.
+
+This ranking assumes somebody can trigger the loads. For a household away from 08:00 to 18:00, the binding constraint is no longer price but time: 85.8% of output lands during the absence, and scheduling hits a ceiling that can be computed. That is the subject of [“Solar panels: nobody home during the day”](/en/news/2026/09/12/solar-panels-away-during-the-day/).
 
 ## The right answer is a stack, not a choice
 

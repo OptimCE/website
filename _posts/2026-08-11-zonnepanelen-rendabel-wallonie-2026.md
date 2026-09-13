@@ -8,7 +8,7 @@ description: "Is een fotovoltaïsche installatie in Wallonië in 2026 nog rendab
 tags: [guide, administrative, community]
 lang: nl
 ref: solar-panels-worth-it-wallonia-2026
-last_modified_at: 2026-09-10 06:00:00 +0200
+last_modified_at: 2026-09-12 06:00:00 +0200
 permalink: /nl/nieuws/2026/08/11/zonnepanelen-rendabel-wallonie-2026/
 faq:
   - q: "Zijn zonnepanelen in 2026 nog rendabel in Wallonië?"
@@ -104,6 +104,8 @@ Eenvoudige terugverdientijd: **6.000 / 613 ≈ 9,8 jaar**. Te vergelijken met de
 Deze berekening blijft bewust eenvoudig: ze negeert de inflatie van de elektriciteitsprijs (2,5 %/jaar in de hypothesen van de Waalse simulator), de degradatie van de modules (0,5 %/jaar), de vervanging van de omvormer rond het twaalfde jaar en het onderhoud. Die posten compenseren elkaar deels en veranderen de conclusie niet.
 
 **De conclusie zit in het onevenwicht van de tweede kolom.**
+
+Die graad van 37,76 % is een regelgevend gemiddelde. Een gezin waarvan het huis overdag leeg staat, zit eerder rond 30 %, omdat 85,8 % van de jaarproductie tussen 9 en 17 uur valt. Wat dat profiel kan terugwinnen, en waar het op een grens stoot, is becijferd in [“Zonnepanelen: overdag niemand thuis”](/nl/nieuws/2026/09/12/zonnepanelen-overdag-niet-thuis/).
 
 ## Het echte probleem is niet de prijs van de panelen — het is het lot van het overschot
 

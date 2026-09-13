@@ -8,6 +8,7 @@ description: "Injecter, boiler, voiture, batterie, partage : ce que vaut vraimen
 tags: [guide, community]
 lang: fr
 ref: solar-surplus-options
+last_modified_at: 2026-09-12 06:00:00 +0200
 faq:
   - q: "Quelle option rapporte le plus par euro investi pour valoriser un surplus solaire ?"
     a: "Le pilotage du ballon d'eau chaude, sans concurrence sérieuse. Un routeur solaire posé sur un ballon électrique existant coûte de 400 à 900 euros, absorbe 800 à 1 400 kWh de surplus par an et se rembourse en un à trois ans. Rapporté au volume traité, cela représente environ 0,65 euro d'investissement par kilowattheure absorbé chaque année, contre environ 5,65 euros pour une batterie domestique. Les deux options à investissement nul, le partage d'énergie et l'injection, ne se comparent pas sur ce terrain puisque leur dénominateur est zéro : elles se comparent sur la valeur unitaire, 3 à 14 centimes pour le partage contre 0,94 à 4,90 centimes pour l'injection. La bonne stratégie n'est donc pas de choisir, mais d'empiler : absorber d'abord au prix plein ce que vos appareils peuvent absorber, partager ensuite, injecter le solde."
@@ -226,6 +227,8 @@ Deux lectures se dégagent, et elles s'opposent à ce qu'on lit habituellement.
 **Les deux options gratuites gagnent sur le capital, pas sur la valeur.** Le partage et l'injection ne coûtent rien mais valorisent le kilowattheure à 3 à 14 centimes, contre 37 pour l'autoconsommation. Ils ne remplacent donc jamais l'absorption sur place — ils la complètent.
 
 **La batterie est la plus chère par kilowattheure absorbé, et de très loin.** Elle coûte près de neuf fois le ratio d'un ballon d'eau chaude piloté pour un service comparable. Ce n'est pas un argument contre les batteries, c'est un argument pour l'ordre dans lequel on dépense.
+
+Ce classement suppose que quelqu'un puisse déclencher les charges. Pour un ménage absent de 8 h à 18 h, la contrainte n'est plus le prix mais l'heure : 85,8 % de la production tombe pendant l'absence, et la programmation plafonne à un niveau qui se calcule. C'est l'objet de [« Panneaux solaires : absent toute la journée »](/actualites/2026/09/12/panneaux-solaires-absent-la-journee/).
 
 ## La bonne réponse est un empilement, pas un choix
 

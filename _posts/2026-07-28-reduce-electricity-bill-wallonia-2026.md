@@ -2,7 +2,7 @@
 layout: post
 title: "Reduce your electricity bill: Wallonia 2026"
 date: 2026-07-28 10:00:00 +0200
-last_modified_at: 2026-08-11 04:00:00 +0200
+last_modified_at: 2026-09-12 06:00:00 +0200
 author: "Eric from OptimCE"
 excerpt: "The official comparator, the new Impact tariff, the social tariff, the 30 September grant deadline, self-consumption and energy sharing: ten Walloon levers costed from the ORES 2026 tariff schedule approved by CWaPE. Six of them cost nothing. For each one, the realistic annual saving, the condition to meet and the lead time."
 description: "Ten concrete, costed and sourced levers to cut your electricity bill in Wallonia in 2026 — from the official comparator to energy sharing."
@@ -172,6 +172,8 @@ Compensation — the meter that runs backwards — remains secured **until 31 De
 **And batteries?** A battery lifts a typical self-consumption rate from 30–40% to 70–80%. But let us be factual: it costs €4,000 to €10,000 for 5 to 10 kWh, **Wallonia pays no direct grant for domestic storage**, and payback lands around ten to thirteen years — often beyond the warranty. What changes in 2026 is the Impact tariff: charging in the ECO band at 2.71 c€/kWh to discharge in the PIC band at 13.54 c€/kWh adds an arbitrage revenue the classic calculation ignored. Have the simulation redone on that assumption before deciding.
 
 Finally, the most profitable option of all cannot be bought: **collective self-consumption**. At building scale, a solar roof shared between occupants mechanically raises the self-consumption rate, because several households' load curves complement one another. The mechanisms, indicators and configurations are set out in [“Collective self-consumption in Belgium”](/en/news/2026/06/05/energy-self-consumption-belgium/).
+
+This lever has a blind spot: it assumes somebody is there to consume. When the house is empty from 08:00 to 18:00, the appliance that pays best is not the one you would expect, and it is often wired to the wrong time signal — see [“Solar panels: nobody home during the day”](/en/news/2026/09/12/solar-panels-away-during-the-day/).
 
 ## 9. Energy sharing: the option almost nobody activates
 

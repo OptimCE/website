@@ -8,7 +8,7 @@ description: "Without compensation, is a Walloon solar installation still profit
 tags: [guide, administrative, community]
 lang: en
 ref: solar-panels-worth-it-wallonia-2026
-last_modified_at: 2026-09-10 06:00:00 +0200
+last_modified_at: 2026-09-12 06:00:00 +0200
 permalink: /en/news/2026/08/11/solar-panels-worth-it-wallonia-2026/
 faq:
   - q: "Are solar panels still profitable in Wallonia in 2026?"
@@ -104,6 +104,8 @@ Simple payback: **6,000 / 613 ≈ 9.8 years**. Compare that with the **six years
 The calculation is deliberately simple: it ignores electricity price inflation (2.5%/year in the Walloon simulator's assumptions), module degradation (0.5%/year), inverter replacement around year twelve, and maintenance. These items partly offset one another and do not change the conclusion.
 
 **The conclusion is the imbalance in the second column.**
+
+That 37.76% rate is a regulatory average. A household whose house is empty during the day sits closer to 30%, because 85.8% of annual output lands between 09:00 and 17:00. What that profile can recover, and where it hits a ceiling, is quantified in [“Solar panels: nobody home during the day”](/en/news/2026/09/12/solar-panels-away-during-the-day/).
 
 ## The real problem is not the price of panels — it is the fate of the surplus
 
