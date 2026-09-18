@@ -2,6 +2,7 @@
 layout: post
 title: "Energy sharing in a condominium: the guide"
 date: 2026-08-27 06:00:00 +0200
+last_modified_at: 2026-09-16 06:00:00 +0200
 author: "Eric from OptimCE"
 excerpt: "616,135 Brussels and Walloon homes sit inside an apartment building. In February 2025, the CWaPE counted four same-building sharing operations in Wallonia. Four. Energy law is not the reason: it asks for an agreement and a form, with no legal entity and no authorisation. The real decisions are made by three articles of Book 3 of the Civil Code — who may own the panels, at what majority, and how long the managing agent may sign for."
 description: "Three Civil Code articles decide whether your building can share its electricity: who owns the panels, the majority needed, the managing agent's mandate."
@@ -247,6 +248,8 @@ A rented building changes occupants constantly. Every move-out is a participant 
 - **Inform at the point of the lease.** The existence of the sharing, the price in force and the joining procedure must appear in the pack handed to the new occupant, alongside the house rules. That is the only moment when the information genuinely reaches an incoming tenant.
 
 The governance side — informing participants, organising votes, keeping the news board — is developed in [“Engaging energy community members”](/en/news/2026/06/24/engage-energy-community-members/).
+
+This section is written from the managing agent's and the general meeting's point of view. The same problem seen from inside the flat — what a tenant can decide alone, and what the length of their lease allows them to hope for — is covered in [“Renting: the no-roof guide to solar”](/en/news/2026/09/16/tenant-solar-without-roof-guide/).
 
 ## What it means in numbers, and the two tax traps
 

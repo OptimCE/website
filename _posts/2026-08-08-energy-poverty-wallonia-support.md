@@ -8,7 +8,7 @@ description: "29.2% of Walloon households face energy poverty. Which support sch
 tags: [guide, administrative, community]
 lang: en
 ref: energy-poverty-wallonia-support
-last_modified_at: 2026-08-30 06:00:00 +0200
+last_modified_at: 2026-09-16 06:00:00 +0200
 permalink: /en/news/2026/08/08/energy-poverty-wallonia-support/
 faq:
   - q: "What is energy poverty and how is it measured in Belgium?"
@@ -73,6 +73,8 @@ And heating fuel strongly predicts energy poverty: **19.1%** of households heati
 This is the sharpest figure in the file, and the one that should steer any local policy: **45.5% of social tenants** and **33.0% of private-sector tenants** are in energy poverty, against **15% of owners**. A tenant decides neither the insulation nor the heating system: they inherit a building they have no control over and no incentive to finance.
 
 Two further findings complete the picture, and they break the received idea that energy poverty only touches benefit recipients. **40.3%** of households with no earned income are in energy poverty — but so are **15.8%** of households with a single earned income, and **43.0%** of “lower” middle-class households. Having a job is not protection.
+
+That does not leave a tenant without leverage. What they can undertake without owning their home — and what waiving the social tariff on the shared portion costs a protected customer — is costed in [“Renting: the no-roof guide to solar”](/en/news/2026/09/16/tenant-solar-without-roof-guide/).
 
 ## The blind spot: heating oil
 

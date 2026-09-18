@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif">
+<title id="t">What a tenant actually owns</title>
+<desc id="d">Three-column diagram titled "What a tenant actually owns". The left column, struck through, lists what belongs to the landlord: the roof, the façade, the building, investment grants and the vote at the general meeting. The centre column, highlighted, lists the tenant's two assets: the EAN code of the supply point, that is the meter in their own name, and, since 17 April 2025, a portable plug-and-play photovoltaic kit that plugs into a socket and can be dismantled. An arrow runs from the kit to a central box marked "smart meter, fitted free and automatically", and a second arrow runs from that box to the right column. The right column shows the two outlets: direct self-consumption of the kit, valued at 36.94 euro cents per kilowatt-hour, and energy sharing, put at about 145 euros a year for 500 kilowatt-hours received and requiring no investment. Along the bottom, a horizontal band shows the clock mismatch: a three-month bar represents the roughly sixty working days needed to join a sharing scheme, compared with three lease terms, one year for a student lease, three years for a short lease and nine years for a main-residence lease. A note adds that the tenant's own notice period is also three months.</desc>
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e7d32"/></marker></defs>
+<rect width="800" height="620" fill="#FFFFFF"/>
+<text x="400" y="34" text-anchor="middle" font-size="19" font-weight="700" fill="#212529">What a tenant actually owns</text>
+<rect x="20" y="58" width="218" height="212" rx="8" fill="#F8F9FA" stroke="#DEE2E6"/>
+<text x="129" y="82" text-anchor="middle" font-size="13" font-weight="700" fill="#868E96">The landlord's</text>
+<text x="129" y="112" text-anchor="middle" font-size="13" fill="#868E96" text-decoration="line-through">The roof</text>
+<text x="129" y="142" text-anchor="middle" font-size="13" fill="#868E96" text-decoration="line-through">The façade</text>
+<text x="129" y="172" text-anchor="middle" font-size="13" fill="#868E96" text-decoration="line-through">The building</text>
+<text x="129" y="202" text-anchor="middle" font-size="13" fill="#868E96" text-decoration="line-through">The grants</text>
+<text x="129" y="232" text-anchor="middle" font-size="13" fill="#868E96" text-decoration="line-through">The AGM vote</text>
+<rect x="262" y="58" width="252" height="212" rx="8" fill="#e8f5e9" stroke="#2e7d32" stroke-width="2"/>
+<text x="388" y="82" text-anchor="middle" font-size="13" font-weight="700" fill="#2e7d32">Yours</text>
+<rect x="278" y="96" width="220" height="68" rx="6" fill="#FFFFFF" stroke="#2e7d32"/>
+<text x="388" y="124" text-anchor="middle" font-size="14" font-weight="700" fill="#212529">The EAN code</text>
+<text x="388" y="145" text-anchor="middle" font-size="11.5" fill="#495057">the meter in your name</text>
+<rect x="278" y="180" width="220" height="68" rx="6" fill="#FFFFFF" stroke="#2e7d32"/>
+<text x="388" y="208" text-anchor="middle" font-size="14" font-weight="700" fill="#212529">A plug &amp; play kit</text>
+<text x="388" y="229" text-anchor="middle" font-size="11.5" fill="#495057">portable, since 17/04/2025</text>
+<rect x="538" y="58" width="242" height="212" rx="8" fill="#fdf0e3" stroke="#DEE2E6"/>
+<text x="659" y="82" text-anchor="middle" font-size="13" font-weight="700" fill="#495057">Two outlets</text>
+<rect x="554" y="96" width="210" height="68" rx="6" fill="#FFFFFF" stroke="#DEE2E6"/>
+<text x="659" y="124" text-anchor="middle" font-size="14" font-weight="700" fill="#212529">Self-consume</text>
+<text x="659" y="145" text-anchor="middle" font-size="11.5" fill="#495057">36.94 c€ per kWh avoided</text>
+<rect x="554" y="180" width="210" height="76" rx="6" fill="#FFFFFF" stroke="#2e7d32"/>
+<text x="659" y="206" text-anchor="middle" font-size="14" font-weight="700" fill="#2e7d32">Share</text>
+<text x="659" y="226" text-anchor="middle" font-size="11.5" fill="#495057">≈ €145/yr for 500 kWh</text>
+<text x="659" y="243" text-anchor="middle" font-size="11.5" fill="#495057">with nothing invested</text>
+<rect x="262" y="296" width="518" height="66" rx="8" fill="#2e7d32"/>
+<text x="521" y="320" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF">Smart meter</text>
+<text x="521" y="339" text-anchor="middle" font-size="11.5" fill="#FFFFFF">fitted free and automatically</text>
+<text x="521" y="354" text-anchor="middle" font-size="11.5" fill="#FFFFFF">as soon as a kit is declared</text>
+<path d="M388,270 L388,290" stroke="#2e7d32" stroke-width="2" fill="none" marker-end="url(#ar)"/>
+<path d="M659,290 L659,270" stroke="#2e7d32" stroke-width="2" fill="none" marker-end="url(#ar)"/>
+<line x1="20" y1="392" x2="780" y2="392" stroke="#DEE2E6"/>
+<text x="20" y="418" font-size="13.5" font-weight="700" fill="#212529">The clock mismatch: joining a sharing scheme takes about 3 months</text>
+<text x="286" y="463" text-anchor="end" font-size="12" fill="#495057">Student lease — 1 year</text>
+<rect x="300" y="446" width="300" height="24" rx="4" fill="#e8f5e9" stroke="#DEE2E6"/>
+<rect x="300" y="446" width="75" height="24" rx="4" fill="#2e7d32"/>
+<text x="614" y="463" font-size="12" font-weight="700" fill="#2e7d32">a quarter of the lease</text>
+<text x="286" y="507" text-anchor="end" font-size="12" fill="#495057">Short lease — 3 years</text>
+<rect x="300" y="490" width="300" height="24" rx="4" fill="#e8f5e9" stroke="#DEE2E6"/>
+<rect x="300" y="490" width="25" height="24" rx="4" fill="#2e7d32"/>
+<text x="614" y="507" font-size="12" font-weight="700" fill="#2e7d32">a twelfth</text>
+<text x="286" y="551" text-anchor="end" font-size="12" fill="#495057">Main residence — 9 years</text>
+<rect x="300" y="534" width="300" height="24" rx="4" fill="#e8f5e9" stroke="#DEE2E6"/>
+<rect x="300" y="534" width="8" height="24" rx="4" fill="#2e7d32"/>
+<text x="614" y="551" font-size="12" font-weight="700" fill="#2e7d32">a thirty-sixth</text>
+<text x="400" y="596" text-anchor="middle" font-size="11.5" fill="#868E96">The tenant's own notice period is also three months.</text>
+</svg>

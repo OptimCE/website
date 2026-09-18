@@ -8,7 +8,7 @@ description: "Zelfverbruiksgraad en hoe u die verhoogt, collectief zelfverbruik,
 tags: [community]
 lang: nl
 ref: self-consumption-belgium
-last_modified_at: 2026-09-12 06:00:00 +0200
+last_modified_at: 2026-09-16 06:00:00 +0200
 permalink: /nl/nieuws/2026/06/05/zelfverbruik-energie-belgie/
 faq:
   - q: "Wat is de zelfverbruiksgraad?"
@@ -96,6 +96,8 @@ Het principe van zelfverbruik is overal gelijk, maar de actoren en de maturiteit
 - **Kmo's en lokale overheden**, waarvan de dakoppervlakken en dagverbruiksprofielen bijzonder geschikt zijn voor zelfverbruik. [Beci](https://www.beci.be/blog/esg-34/les-communautes-denergie-pour-lautoconsommation-collective-2086) benadrukt het economische belang voor Brusselse bedrijven.
 
 De configuratie van het appartementsgebouw verdient trouwens haar eigen handleiding: ze combineert de gunstigste tariefperimeter van het land met drie sloten uit het recht van de mede-eigendom die het energierecht nergens vermeldt. Ze worden doorgenomen in [“Energie delen in een appartementsgebouw”](/nl/nieuws/2026/08/27/energie-delen-appartementsgebouw/).
+
+Voor huurders is er sindsdien een tweede mogelijkheid bij gekomen: sinds 17 april 2025 is een verplaatsbare fotovoltaïsche kit in een stopcontact in België toegelaten. Beide wegen — gedeelde energie ontvangen of zelf produceren zonder eigen dak — worden vergeleken in [“Huurder: zonne-energie zonder eigen dak”](/nl/nieuws/2026/09/16/zonne-energie-huurder-zonder-dak-gids/).
 
 ## Praktische voorwaarden om te kennen
 

@@ -8,7 +8,7 @@ description: "29,2 % van de Waalse gezinnen kent energiearmoede. Welke steun bes
 tags: [guide, administrative, community]
 lang: nl
 ref: energy-poverty-wallonia-support
-last_modified_at: 2026-08-30 06:00:00 +0200
+last_modified_at: 2026-09-16 06:00:00 +0200
 permalink: /nl/nieuws/2026/08/08/energiearmoede-wallonie-steun/
 faq:
   - q: "Wat is energiearmoede en hoe wordt ze in België gemeten?"
@@ -73,6 +73,8 @@ En de verwarmingsbrandstof voorspelt energiearmoede sterk: **19,1 %** van de gez
 Dat is het scherpste cijfer van het dossier en het cijfer waarop elk lokaal beleid zich zou moeten richten: **45,5 % van de sociale huurders** en **33,0 % van de huurders op de private markt** kent energiearmoede, tegenover **15 % van de eigenaars**. Een huurder beslist noch over de isolatie, noch over het verwarmingssysteem: hij ondergaat een gebouw waarop hij geen greep heeft en dat hij geen enkel belang heeft te financieren.
 
 Twee vaststellingen vervolledigen het beeld, en ze doorprikken het idee dat energiearmoede alleen uitkeringsgerechtigden zou treffen. **40,3 %** van de gezinnen zonder arbeidsinkomen kent energiearmoede — maar ook **15,8 %** van de gezinnen met één arbeidsinkomen, en **43,0 %** van de gezinnen uit de “lagere” middenklasse. Werk hebben biedt geen bescherming.
+
+Daarmee staat een huurder toch niet zonder hefboom. Wat hij kan ondernemen zonder zijn woning te bezitten — en wat de afstand van het sociaal tarief op het gedeelde aandeel een beschermde klant kost — is becijferd in [“Huurder: zonne-energie zonder eigen dak”](/nl/nieuws/2026/09/16/zonne-energie-huurder-zonder-dak-gids/).
 
 ## De blinde vlek: stookolie
 

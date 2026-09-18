@@ -8,7 +8,7 @@ description: "Voorwaarden, waar u een open deelactie vindt, de stappen om toe te
 tags: [community, administrative, guide]
 lang: nl
 ref: join-energy-community-wallonia
-last_modified_at: 2026-07-16 10:00:00 +0200
+last_modified_at: 2026-09-16 06:00:00 +0200
 permalink: /nl/nieuws/2026/05/11/energiegemeenschap-aansluiten-wallonie/
 ---
 
@@ -48,6 +48,8 @@ Het Waalse kader, vastgelegd in het decreet van 5 mei 2022 en verduidelijkt door
 ### Particulieren — huurders zowel als eigenaars
 
 Elke particulier kan toetreden, of hij nu eigenaar of huurder is. Het delen volgt het **EAN van het leveringspunt**, niet de eigendomsakte: uw statuut speelt geen rol zolang de meter op uw naam staat. Bent u huurder en gaat de overeenkomst verder dan uw huurperiode, dan is het goede praktijk — geen wettelijke verplichting — om de eigenaar te informeren.
+
+Een huurder heeft evenwel eigen beperkingen, te beginnen met een toetredingstermijn die bijna gelijk is aan zijn opzegtermijn. Ze staan uitgewerkt in [“Huurder: zonne-energie zonder eigen dak”](/nl/nieuws/2026/09/16/zonne-energie-huurder-zonder-dak-gids/).
 
 ### Kmo's en zelfstandigen
 

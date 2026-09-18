@@ -2,6 +2,7 @@
 layout: post
 title: "Energie delen in een appartementsgebouw"
 date: 2026-08-27 06:00:00 +0200
+last_modified_at: 2026-09-16 06:00:00 +0200
 author: "Eric van OptimCE"
 excerpt: "616 135 Brusselse en Waalse woningen liggen in een appartementsgebouw. In februari 2025 telde de CWaPE vier deelactiviteiten binnen eenzelfde gebouw in Wallonië. Vier. Het energierecht treft geen schuld: het vraagt een overeenkomst en een formulier, zonder rechtspersoon en zonder vergunning. Het zijn drie artikelen uit boek 3 van het Burgerlijk Wetboek die werkelijk beslissen — wie de panelen mag bezitten, met welke meerderheid, en hoelang de syndicus mag tekenen."
 description: "Drie artikelen uit het Burgerlijk Wetboek bepalen of uw gebouw stroom kan delen: eigendom van de panelen, meerderheid in de AV, mandaat van de syndicus."
@@ -247,6 +248,8 @@ Een huurgebouw wisselt voortdurend van bewoners. Elke verhuizing is een uitstap 
 - **Informeer op het ogenblik van de huurovereenkomst.** Het bestaan van de deelactiviteit, de geldende prijs en de aansluitingsprocedure moeten in het dossier voor de nieuwe bewoner staan, net als het reglement van inwendige orde. Dat is het enige moment waarop de informatie een intredende huurder echt bereikt.
 
 Het bestuurluik — deelnemers informeren, stemmingen organiseren, het nieuwsoverzicht bijhouden — wordt uitgewerkt in [“Leden van een energiegemeenschap betrekken”](/nl/nieuws/2026/06/24/energiegemeenschap-leden-betrekken/).
+
+Deze afdeling is geschreven vanuit het standpunt van de syndicus en de algemene vergadering. Hetzelfde probleem gezien vanuit het appartement — wat een huurder alleen kan beslissen, en wat de duur van zijn huurovereenkomst hem toelaat te verwachten — komt aan bod in [“Huurder: zonne-energie zonder eigen dak”](/nl/nieuws/2026/09/16/zonne-energie-huurder-zonder-dak-gids/).
 
 ## Wat het in cijfers oplevert, en de twee fiscale valkuilen
 

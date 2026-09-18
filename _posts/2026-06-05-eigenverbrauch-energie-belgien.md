@@ -8,7 +8,7 @@ description: "Eigenverbrauchsquote und wie man sie erhöht, kollektiver Eigenver
 tags: [community]
 lang: de
 ref: self-consumption-belgium
-last_modified_at: 2026-09-12 06:00:00 +0200
+last_modified_at: 2026-09-16 06:00:00 +0200
 permalink: /de/aktuelles/2026/06/05/eigenverbrauch-energie-belgien/
 faq:
   - q: "Was ist die Eigenverbrauchsquote?"
@@ -96,6 +96,8 @@ Das Prinzip des Eigenverbrauchs ist überall gleich, doch die Akteure und der Re
 - **KMU und lokale Behörden**, deren Dachflächen und tagsüber liegende Verbrauchsprofile besonders gut zum Eigenverbrauch passen. [Beci](https://www.beci.be/blog/esg-34/les-communautes-denergie-pour-lautoconsommation-collective-2086) hebt den wirtschaftlichen Nutzen für Brüsseler Unternehmen hervor.
 
 Die Konstellation des Mehrparteienhauses verdient übrigens eine eigene Anleitung: Sie verbindet den günstigsten Tarifperimeter des Landes mit drei Sperren des Wohnungseigentumsrechts, die das Energierecht nirgends erwähnt. Sie werden in [„Energie teilen im Mehrparteienhaus“](/de/aktuelles/2026/08/27/energie-teilen-mehrparteienhaus/) durchgegangen.
+
+Für Mieter ist seither eine zweite Möglichkeit hinzugekommen: Seit dem 17. April 2025 ist ein mobiles Photovoltaikset an einer Steckdose in Belgien zulässig. Beide Wege — geteilten Strom beziehen oder ohne eigenes Dach selbst erzeugen — vergleicht [„Mieter: Solarstrom ohne eigenes Dach“](/de/aktuelles/2026/09/16/solar-mieter-ohne-dach-leitfaden/).
 
 ## Praktische Bedingungen, die Sie kennen sollten
 

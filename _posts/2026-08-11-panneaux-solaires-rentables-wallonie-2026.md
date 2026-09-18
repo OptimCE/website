@@ -8,7 +8,7 @@ description: "Sans compensation, une installation photovoltaïque wallonne est-e
 tags: [guide, administrative, community]
 lang: fr
 ref: solar-panels-worth-it-wallonia-2026
-last_modified_at: 2026-09-12 06:00:00 +0200
+last_modified_at: 2026-09-16 06:00:00 +0200
 faq:
   - q: "Les panneaux solaires sont-ils encore rentables en Wallonie en 2026 ?"
     a: "Oui, mais avec un temps de retour plus long qu'à l'époque de la compensation et beaucoup plus sensible à votre profil de consommation. Sur un cas illustratif de 4 kWc à 6 000 € TVAC, produisant 3 800 kWh par an avec un taux d'autoconsommation de 37,76 %, le gain annuel se situe autour de 613 € — dont 530 € proviennent de l'électricité que vous ne payez plus et seulement 83 € de la vente du surplus. Cela donne un retour de l'ordre de dix ans, contre six ans avancés par la Région wallonne en 2023 pour une installation à 40 % d'autoconsommation. La différence entre une bonne et une mauvaise installation ne se joue plus sur le prix du devis, mais sur la part de production que vous consommez vous-même."
@@ -261,6 +261,8 @@ Ne renoncez à rien avant d'avoir fait le calcul de la section précédente sur 
 ### Je suis locataire, ou en appartement
 
 Vous ne pouvez probablement pas installer, mais vous pouvez recevoir. Le partage au sein d'un même bâtiment est la configuration la plus favorable de Wallonie et n'exige aucune personne morale : une toiture de copropriété suffit. Le mécanisme, du point de vue du consommateur, est décrit dans [« Autoconsommation collective en Belgique »](/actualites/2026/06/05/autoconsommation-energie-belgique/).
+
+Depuis le 17 avril 2025, vous pouvez aussi produire un peu : un kit photovoltaïque mobile branché sur une prise de courant est désormais légal en Belgique, et il déménage avec vous. Le calcul complet — et ce que l'orientation d'un balcon y change — est dans [« Locataire : le guide du solaire sans toit »](/actualites/2026/09/16/guide-solaire-locataire-sans-toit/).
 
 ## Ce qu'il faut retenir
 

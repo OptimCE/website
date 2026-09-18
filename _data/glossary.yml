@@ -224,6 +224,27 @@
     en: ["local authorities"]
     de: ["lokale Behörden", "Gebietskörperschaft", "Gebietskörperschaften"]
     nl: ["lokale overheden", "lokaal bestuur", "lokale besturen"]
+- slug: bail-d-habitation
+  categorie: juridique
+  tags: [location, wallonie, contrat]
+  source_nom: "Wallex"
+  source_url: "https://wallex.wallonie.be/files/pdfs/21/5046_D%C3%A9cret_relatif_au_bail_d%27habitation_01-07-2024-.pdf"
+  terme:
+    fr: "Bail d'habitation"
+    en: "Residential lease"
+    de: "Wohnungsmietvertrag"
+    nl: "Woninghuurovereenkomst"
+  definition:
+    fr: "Contrat de location d'un logement, régi en Wallonie par le décret du 15 mars 2018. Il en existe trois formes principales : le bail de résidence principale, conclu pour neuf ans, le bail d'une durée inférieure ou égale à trois ans, et le bail étudiant, réputé conclu pour un an. Le preneur donne congé trois mois avant l'échéance — soit à peu près le délai nécessaire pour rejoindre une opération de partage d'énergie."
+    en: "The contract for renting a dwelling, governed in Wallonia by the decree of 15 March 2018. It comes in three main forms: the main-residence lease, concluded for nine years, the lease of three years or less, and the student lease, deemed concluded for one year. The tenant gives three months' notice before expiry — roughly the time needed to join an energy sharing operation."
+    de: "Vertrag über die Miete einer Wohnung, in Wallonien geregelt durch das Dekret vom 15. März 2018. Es gibt drei Hauptformen: den auf neun Jahre geschlossenen Hauptwohnsitzvertrag, den Vertrag von höchstens drei Jahren und den Studentenmietvertrag, der als für ein Jahr geschlossen gilt. Der Mieter kündigt drei Monate vor Ablauf — also etwa in der Zeit, die der Beitritt zu einer Energieteilung erfordert."
+    nl: "Contract voor de huur van een woning, in Wallonië geregeld door het decreet van 15 maart 2018. Er bestaan drie hoofdvormen: de huurovereenkomst voor de hoofdverblijfplaats, gesloten voor negen jaar, de huurovereenkomst van ten hoogste drie jaar, en de studentenhuur, die geacht wordt voor één jaar te zijn gesloten. De huurder zegt op drie maanden vóór het verstrijken — ongeveer de tijd die nodig is om tot een energiedeling toe te treden."
+  alias:
+    fr: ["bail de résidence principale", "bail étudiant", "bail de courte durée"]
+    en: ["main-residence lease", "student lease", "short lease"]
+    de: ["Hauptwohnsitzvertrag", "Studentenmietvertrag", "Kurzzeitvertrag"]
+    nl: ["huurovereenkomst voor de hoofdverblijfplaats", "studentenhuur", "huur van korte duur"]
+
 - slug: borne-de-recharge
   categorie: technique
   tags: [vehicule, recharge, flexibilite]
@@ -1317,6 +1338,48 @@
     de: []
     nl: []
 
+- slug: kit-plug-and-play
+  categorie: technique
+  tags: [photovoltaique, materiel, locataire]
+  source_nom: CWaPE
+  source_url: "https://www.cwape.be/sites/default/files/cwape-documents/2025.04.17-0078-Communication%20photovolta%C3%AFque%20plug%20&%20play.pdf"
+  terme:
+    fr: "Kit photovoltaïque mobile"
+    en: "Portable photovoltaic kit"
+    de: "Mobiles Photovoltaikset"
+    nl: "Verplaatsbare fotovoltaïsche kit"
+  definition:
+    fr: "Ensemble de un ou plusieurs panneaux, de micro-onduleurs, d'un support et du câblage, conçu pour être branché sur une prise de courant ordinaire, sans raccordement fixe au tableau électrique. Auparavant interdit, il est autorisé en Belgique depuis le 17 avril 2025. En Wallonie, il doit être déclaré au gestionnaire de réseau via le formulaire UP10 ; aucune limite de puissance n'est fixée par un texte, la CWaPE décrivant un kit type entre 400 et 800 W."
+    en: "An assembly of one or more panels, micro-inverters, a mounting system and cabling, designed to be plugged into an ordinary socket with no fixed connection to the consumer unit. Previously prohibited, it has been legal in Belgium since 17 April 2025. In Wallonia it must be declared to the network operator using the UP10 form; no text sets a power limit, the CWaPE describing a typical kit as between 400 and 800 W."
+    de: "Einheit aus einem oder mehreren Modulen, Mikrowechselrichtern, einem Traggestell und der Verkabelung, ausgelegt zum Einstecken in eine gewöhnliche Steckdose ohne festen Anschluss an den Verteilerkasten. Zuvor verboten, ist sie in Belgien seit dem 17. April 2025 zulässig. In Wallonien ist sie dem Netzbetreiber über das Formular UP10 zu melden; kein Text setzt eine Leistungsgrenze, die CWaPE beschreibt ein typisches Set mit 400 bis 800 W."
+    nl: "Geheel van een of meer panelen, micro-omvormers, een draagsysteem en de bekabeling, ontworpen om in een gewoon stopcontact te worden gestoken, zonder vaste aansluiting op het schakelbord. Voorheen verboden, is het in België toegelaten sinds 17 april 2025. In Wallonië moet het bij de netbeheerder worden aangegeven met het formulier UP10; geen enkele tekst legt een vermogensgrens op, de CWaPE omschrijft een typische kit als 400 tot 800 W."
+  alias:
+    fr: ["kit plug and play", "panneau de balcon", "kit solaire à brancher", "installation photovoltaïque mobile"]
+    en: ["plug and play kit", "balcony solar panel", "mobile photovoltaic installation"]
+    de: ["Plug-and-Play-Set", "Balkonkraftwerk", "mobile Photovoltaikanlage"]
+    nl: ["plug-and-playkit", "balkonzonnepaneel", "mobiele fotovoltaïsche installatie"]
+
+- slug: logement-social
+  categorie: reglementaire
+  tags: [logement, social, wallonie]
+  source_nom: "Société wallonne du Logement"
+  source_url: "https://www.swl.be/"
+  terme:
+    fr: "Logement social"
+    en: "Social housing"
+    de: "Sozialwohnung"
+    nl: "Sociale woning"
+  definition:
+    fr: "Logement donné en location par une société de logement de service public, sous la tutelle de la Société wallonne du Logement. Pour le partage d'énergie, la configuration est doublement particulière : le propriétaire unique évite les verrous de la copropriété, mais lorsque le chauffage est collectif et l'énergie comprise dans les charges, il n'existe pas de point de fourniture au nom du locataire — et sans lui, aucune participation n'est possible."
+    en: "A dwelling let by a public service housing company under the supervision of the Walloon Housing Corporation. For energy sharing the configuration is doubly particular: a single owner avoids the condominium locks, but where heating is collective and energy is included in the service charges, there is no supply point in the tenant's name — and without one, no participation is possible."
+    de: "Wohnung, die von einer öffentlichen Wohnungsbaugesellschaft unter Aufsicht der Wallonischen Wohnungsbaugesellschaft vermietet wird. Für das Teilen von Strom ist die Lage doppelt besonders: Der einzige Eigentümer umgeht die Sperren des Mehrparteienhauses, doch bei Sammelheizung und in den Nebenkosten enthaltener Energie gibt es keine Entnahmestelle auf den Namen des Mieters — und ohne sie ist keine Teilnahme möglich."
+    nl: "Woning die wordt verhuurd door een openbare huisvestingsmaatschappij onder toezicht van de Waalse Huisvestingsmaatschappij. Voor energiedeling is de opstelling dubbel bijzonder: de enige eigenaar omzeilt de sloten van de mede-eigendom, maar bij collectieve verwarming met de energie in de lasten begrepen bestaat er geen toegangspunt op naam van de huurder — en zonder dat is geen deelname mogelijk."
+  alias:
+    fr: ["logements sociaux", "société de logement de service public"]
+    en: ["social dwelling", "public service housing company"]
+    de: ["Sozialwohnungen", "öffentliche Wohnungsbaugesellschaft"]
+    nl: ["sociale woningen", "openbare huisvestingsmaatschappij"]
+
 - slug: mebar
   categorie: reglementaire
   tags: [prime, wallonie, cpas]
@@ -1437,10 +1500,10 @@
     de: "Gerät, das den von den Photovoltaikmodulen erzeugten Gleichstrom in nutzbaren Wechselstrom umwandelt. Seine Leistung in kWe bildet die netto verfügbare Leistung, Berechnungsgrundlage des wallonischen Prosumer-Tarifs; er wird meist um das zwölfte Jahr ersetzt."
     nl: "Toestel dat de door de fotovoltaïsche panelen geproduceerde gelijkstroom omzet in bruikbare wisselstroom. Zijn vermogen in kWe vormt het netto ontwikkelbaar vermogen, de rekenbasis van het Waalse prosumententarief; hij wordt meestal rond het twaalfde jaar vervangen."
   alias:
-    fr: ["convertisseur"]
-    en: ["solar inverter"]
-    de: ["Solarwechselrichter"]
-    nl: ["invertor"]
+    fr: ["convertisseur", "micro-onduleur"]
+    en: ["solar inverter", "micro-inverter"]
+    de: ["Solarwechselrichter", "Mikrowechselrichter"]
+    nl: ["invertor", "micro-omvormer"]
 
 - slug: pair-a-pair
   categorie: partage

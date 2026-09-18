@@ -8,7 +8,7 @@ description: "Lohnt sich eine Photovoltaikanlage in Wallonien 2026 ohne Kompensa
 tags: [guide, administrative, community]
 lang: de
 ref: solar-panels-worth-it-wallonia-2026
-last_modified_at: 2026-09-12 06:00:00 +0200
+last_modified_at: 2026-09-16 06:00:00 +0200
 permalink: /de/aktuelles/2026/08/11/solaranlage-rentabel-wallonien-2026/
 faq:
   - q: "Lohnen sich Solaranlagen in Wallonien 2026 noch?"
@@ -262,6 +262,8 @@ Verzichten Sie auf nichts, bevor Sie die Rechnung des vorigen Abschnitts auf **I
 ### Ich bin Mieter oder wohne in einer Wohnung
 
 Installieren können Sie vermutlich nicht, empfangen aber schon. Das Teilen innerhalb desselben Gebäudes ist Walloniens günstigste Konstellation und verlangt keine juristische Person: Ein Dach im Miteigentum genügt. Der Mechanismus aus Sicht des Verbrauchers steht in „[Kollektiver Eigenverbrauch in Belgien](/de/aktuelles/2026/06/05/eigenverbrauch-energie-belgien/)“.
+
+Seit dem 17. April 2025 können Sie auch selbst ein wenig erzeugen: Ein mobiles Photovoltaikset, das in eine Steckdose gesteckt wird, ist in Belgien nun zulässig, und es zieht mit Ihnen um. Die vollständige Rechnung — und was die Ausrichtung eines Balkons daran ändert — steht in [„Mieter: Solarstrom ohne eigenes Dach“](/de/aktuelles/2026/09/16/solar-mieter-ohne-dach-leitfaden/).
 
 ## Das Wichtigste in Kürze
 

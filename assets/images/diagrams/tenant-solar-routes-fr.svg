@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif">
+<title id="t">Ce qu'un locataire possède réellement</title>
+<desc id="d">Schéma en trois colonnes intitulé « Ce qu'un locataire possède réellement ». La colonne de gauche, barrée, rassemble ce qui appartient au propriétaire : la toiture, la façade, le bâtiment, les primes à l'investissement et le vote en assemblée générale. La colonne centrale, mise en avant, rassemble les deux actifs du locataire : d'une part le code EAN du point de fourniture, c'est-à-dire le compteur à son nom, d'autre part depuis le 17 avril 2025 un kit photovoltaïque mobile de type Plug and Play, qui se branche sur une prise et se démonte. Une flèche part du kit vers un encadré central marqué « compteur communicant, pose gratuite et systématique », et une seconde flèche repart de cet encadré vers la colonne de droite. La colonne de droite présente les deux débouchés : à gauche l'autoconsommation directe du kit, valorisée à 36,94 centimes d'euro par kilowattheure, et à droite le partage d'énergie, chiffré à environ 145 euros par an pour 500 kilowattheures reçus et ne demandant aucun investissement. En bas du schéma, une bande horizontale figure le décalage des horloges : une barre de trois mois représente le délai d'environ soixante jours ouvrables pour rejoindre un partage, comparée à trois durées de bail, un an pour le bail étudiant, trois ans pour le bail de courte durée et neuf ans pour le bail de résidence principale. Une mention indique que le préavis du preneur est également de trois mois.</desc>
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e7d32"/></marker></defs>
+<rect width="800" height="620" fill="#FFFFFF"/>
+<text x="400" y="34" text-anchor="middle" font-size="19" font-weight="700" fill="#212529">Ce qu'un locataire possède réellement</text>
+<rect x="20" y="58" width="218" height="212" rx="8" fill="#F8F9FA" stroke="#DEE2E6"/>
+<text x="129" y="82" text-anchor="middle" font-size="13" font-weight="700" fill="#868E96">Au propriétaire</text>
+<text x="129" y="112" text-anchor="middle" font-size="13" fill="#868E96" text-decoration="line-through">La toiture</text>
+<text x="129" y="142" text-anchor="middle" font-size="13" fill="#868E96" text-decoration="line-through">La façade</text>
+<text x="129" y="172" text-anchor="middle" font-size="13" fill="#868E96" text-decoration="line-through">Le bâtiment</text>
+<text x="129" y="202" text-anchor="middle" font-size="13" fill="#868E96" text-decoration="line-through">Les primes</text>
+<text x="129" y="232" text-anchor="middle" font-size="13" fill="#868E96" text-decoration="line-through">Le vote en AG</text>
+<rect x="262" y="58" width="252" height="212" rx="8" fill="#e8f5e9" stroke="#2e7d32" stroke-width="2"/>
+<text x="388" y="82" text-anchor="middle" font-size="13" font-weight="700" fill="#2e7d32">À vous</text>
+<rect x="278" y="96" width="220" height="68" rx="6" fill="#FFFFFF" stroke="#2e7d32"/>
+<text x="388" y="124" text-anchor="middle" font-size="14" font-weight="700" fill="#212529">Le code EAN</text>
+<text x="388" y="145" text-anchor="middle" font-size="11.5" fill="#495057">le compteur à votre nom</text>
+<rect x="278" y="180" width="220" height="68" rx="6" fill="#FFFFFF" stroke="#2e7d32"/>
+<text x="388" y="208" text-anchor="middle" font-size="14" font-weight="700" fill="#212529">Un kit Plug &amp; Play</text>
+<text x="388" y="229" text-anchor="middle" font-size="11.5" fill="#495057">mobile, depuis le 17/04/2025</text>
+<rect x="538" y="58" width="242" height="212" rx="8" fill="#fdf0e3" stroke="#DEE2E6"/>
+<text x="659" y="82" text-anchor="middle" font-size="13" font-weight="700" fill="#495057">Deux débouchés</text>
+<rect x="554" y="96" width="210" height="68" rx="6" fill="#FFFFFF" stroke="#DEE2E6"/>
+<text x="659" y="124" text-anchor="middle" font-size="14" font-weight="700" fill="#212529">Autoconsommer</text>
+<text x="659" y="145" text-anchor="middle" font-size="11.5" fill="#495057">36,94 c€ le kWh évité</text>
+<rect x="554" y="180" width="210" height="76" rx="6" fill="#FFFFFF" stroke="#2e7d32"/>
+<text x="659" y="206" text-anchor="middle" font-size="14" font-weight="700" fill="#2e7d32">Partager</text>
+<text x="659" y="226" text-anchor="middle" font-size="11.5" fill="#495057">≈ 145 €/an pour 500 kWh</text>
+<text x="659" y="243" text-anchor="middle" font-size="11.5" fill="#495057">sans rien investir</text>
+<rect x="262" y="296" width="518" height="66" rx="8" fill="#2e7d32"/>
+<text x="521" y="320" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF">Compteur communicant</text>
+<text x="521" y="339" text-anchor="middle" font-size="11.5" fill="#FFFFFF">pose gratuite et systématique</text>
+<text x="521" y="354" text-anchor="middle" font-size="11.5" fill="#FFFFFF">dès qu'un kit est déclaré</text>
+<path d="M388,270 L388,290" stroke="#2e7d32" stroke-width="2" fill="none" marker-end="url(#ar)"/>
+<path d="M659,290 L659,270" stroke="#2e7d32" stroke-width="2" fill="none" marker-end="url(#ar)"/>
+<line x1="20" y1="392" x2="780" y2="392" stroke="#DEE2E6"/>
+<text x="20" y="418" font-size="13.5" font-weight="700" fill="#212529">Le décalage des horloges : rejoindre un partage prend environ 3 mois</text>
+<text x="286" y="463" text-anchor="end" font-size="12" fill="#495057">Bail étudiant — 1 an</text>
+<rect x="300" y="446" width="300" height="24" rx="4" fill="#e8f5e9" stroke="#DEE2E6"/>
+<rect x="300" y="446" width="75" height="24" rx="4" fill="#2e7d32"/>
+<text x="614" y="463" font-size="12" font-weight="700" fill="#2e7d32">un quart du bail</text>
+<text x="286" y="507" text-anchor="end" font-size="12" fill="#495057">Courte durée — 3 ans</text>
+<rect x="300" y="490" width="300" height="24" rx="4" fill="#e8f5e9" stroke="#DEE2E6"/>
+<rect x="300" y="490" width="25" height="24" rx="4" fill="#2e7d32"/>
+<text x="614" y="507" font-size="12" font-weight="700" fill="#2e7d32">un douzième</text>
+<text x="286" y="551" text-anchor="end" font-size="12" fill="#495057">Résidence principale — 9 ans</text>
+<rect x="300" y="534" width="300" height="24" rx="4" fill="#e8f5e9" stroke="#DEE2E6"/>
+<rect x="300" y="534" width="8" height="24" rx="4" fill="#2e7d32"/>
+<text x="614" y="551" font-size="12" font-weight="700" fill="#2e7d32">un trente-sixième</text>
+<text x="400" y="596" text-anchor="middle" font-size="11.5" fill="#868E96">Le préavis du preneur est lui aussi de trois mois.</text>
+</svg>

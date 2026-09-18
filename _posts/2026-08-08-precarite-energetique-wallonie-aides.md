@@ -8,7 +8,7 @@ description: "29,2 % des ménages wallons sont en précarité énergétique. Que
 tags: [guide, administrative, community]
 lang: fr
 ref: energy-poverty-wallonia-support
-last_modified_at: 2026-08-30 06:00:00 +0200
+last_modified_at: 2026-09-16 06:00:00 +0200
 faq:
   - q: "Qu'est-ce que la précarité énergétique et comment se mesure-t-elle en Belgique ?"
     a: "C'est la situation d'un ménage qui rencontre des difficultés particulières à satisfaire ses besoins élémentaires en énergie dans son logement. Depuis l'arrêté royal du 19 avril 2024, la Belgique retient trois indicateurs officiels, calculés sur l'enquête SILC de Statbel. La précarité mesurée vise les ménages dont la part du revenu consacrée à l'énergie dépasse le double du ratio médian. La précarité cachée vise ceux dont la dépense énergétique est inférieure à la moitié de la médiane des ménages comparables : ils se restreignent. La précarité ressentie repose sur la déclaration du ménage lui-même. En 2025, le SPF Économie les chiffrait respectivement à 14,6 %, 3,3 % et 3,9 %, soit 19,9 % au total — environ un ménage belge sur cinq."
@@ -72,6 +72,8 @@ Or le vecteur de chauffage prédit fortement la précarité : **19,1 %** des mé
 C'est le chiffre le plus net du dossier, et celui qui devrait orienter toute politique locale : **45,5 % des locataires sociaux** et **33,0 % des locataires du parc privé** sont en précarité énergétique, contre **15 % des propriétaires**. Un locataire ne décide ni de l'isolation, ni du système de chauffage : il subit un bâti sur lequel il n'a aucune prise et qu'il n'a aucun intérêt à financer.
 
 Deux constats complètent le tableau, et ils cassent l'idée reçue selon laquelle la précarité énergétique ne toucherait que les allocataires sociaux. **40,3 %** des ménages sans revenu du travail sont en précarité énergétique — mais aussi **15,8 %** des ménages disposant d'un seul revenu du travail, et **43,0 %** des ménages de la classe moyenne « basse ». Avoir un emploi ne protège pas.
+
+Le locataire n'est pas pour autant sans levier. Ce qu'il peut entreprendre sans posséder son logement — et ce que la renonciation au tarif social sur la part partagée coûte à un client protégé — est chiffré dans [« Locataire : le guide du solaire sans toit »](/actualites/2026/09/16/guide-solaire-locataire-sans-toit/).
 
 ## Le point aveugle : le mazout
 

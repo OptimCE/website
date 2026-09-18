@@ -2,6 +2,7 @@
 layout: post
 title: "Energie teilen im Mehrparteienhaus"
 date: 2026-08-27 06:00:00 +0200
+last_modified_at: 2026-09-16 06:00:00 +0200
 author: "Eric, OptimCE"
 excerpt: "616 135 Wohnungen in Brüssel und Wallonien liegen in einem Mehrparteienhaus. Im Februar 2025 zählte die CWaPE vier Teilungsaktivitäten innerhalb desselben Gebäudes in Wallonien. Vier. Am Energierecht liegt es nicht: Es verlangt eine Vereinbarung und ein Formular, ohne Rechtsperson und ohne Genehmigung. Entschieden wird in Wahrheit durch drei Artikel aus Buch 3 des Zivilgesetzbuches — wer die Module besitzen darf, mit welcher Mehrheit, und wie lange der Verwalter unterschreiben darf."
 description: "Drei Artikel des Zivilgesetzbuchs entscheiden, ob Ihr Gebäude Strom teilen kann: Eigentum an den Modulen, Mehrheit in der Versammlung, Mandat des Verwalters."
@@ -247,6 +248,8 @@ Ein Mietshaus wechselt ständig seine Bewohner. Jeder Auszug ist ein dem Netzbet
 - **Beim Mietvertrag informieren.** Das Bestehen der Teilung, der geltende Preis und das Beitrittsverfahren gehören in die Unterlagen für den neuen Bewohner, ebenso wie die Hausordnung. Das ist der einzige Moment, in dem die Information einen einziehenden Mieter wirklich erreicht.
 
 Der Governance-Teil — Teilnehmer informieren, Abstimmungen organisieren, das Nachrichtenboard pflegen — wird in [„Mitglieder einer Energiegemeinschaft einbinden“](/de/aktuelles/2026/06/24/energiegemeinschaft-mitglieder-einbinden/) entwickelt.
+
+Dieser Abschnitt ist aus Sicht des Verwalters und der Versammlung geschrieben. Dasselbe Problem aus Sicht der Wohnung — was ein Mieter allein entscheiden kann und was ihm die Laufzeit seines Mietvertrags erlaubt — behandelt [„Mieter: Solarstrom ohne eigenes Dach“](/de/aktuelles/2026/09/16/solar-mieter-ohne-dach-leitfaden/).
 
 ## Was das in Zahlen bedeutet, und die zwei steuerlichen Fallen
 

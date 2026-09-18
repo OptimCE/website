@@ -8,7 +8,7 @@ description: "Voraussetzungen, wo Sie eine offene Teilungsoperation finden, die 
 tags: [community, administrative, guide]
 lang: de
 ref: join-energy-community-wallonia
-last_modified_at: 2026-07-16 10:00:00 +0200
+last_modified_at: 2026-09-16 06:00:00 +0200
 permalink: /de/aktuelles/2026/05/11/energiegemeinschaft-beitreten-wallonien/
 ---
 
@@ -48,6 +48,8 @@ Der wallonische Rahmen, festgelegt im Dekret vom 5. Mai 2022 und präzisiert von
 ### Privatpersonen — Mieter wie Eigentümer
 
 Jede Privatperson kann beitreten, ob Eigentümer oder Mieter. Die Teilung folgt dem **EAN des Lieferpunkts**, nicht dem Eigentumstitel: Ihr Status spielt keine Rolle, solange der Zähler auf Ihren Namen lautet. Sind Sie Mieter und reicht die Vereinbarung über Ihren Mietvertrag hinaus, ist es gute Praxis — keine gesetzliche Pflicht —, den Eigentümer zu informieren.
+
+Ein Mieter hat allerdings eigene Beschränkungen, angefangen bei einer Beitrittsfrist, die seiner Kündigungsfrist nahezu entspricht. Sie sind in [„Mieter: Solarstrom ohne eigenes Dach“](/de/aktuelles/2026/09/16/solar-mieter-ohne-dach-leitfaden/) ausgeführt.
 
 ### KMU und Selbstständige
 

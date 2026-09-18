@@ -2,6 +2,7 @@
 layout: post
 title: "Partage d'énergie en copropriété : le guide"
 date: 2026-08-27 06:00:00 +0200
+last_modified_at: 2026-09-16 06:00:00 +0200
 author: "Eric d'OptimCE"
 excerpt: "616 135 logements bruxellois et wallons se trouvent dans un immeuble à appartements. En février 2025, la CWaPE recensait quatre opérations de partage au sein d'un même bâtiment en Wallonie. Quatre. Le droit de l'énergie n'y est pour rien : il demande une convention et un formulaire, sans personne morale ni autorisation. Ce sont trois articles du livre 3 du Code civil qui décident réellement — qui peut posséder les panneaux, à quelle majorité, et pour combien de temps le syndic peut signer."
 description: "Trois articles du Code civil décident si votre immeuble peut partager son électricité : propriété des panneaux, majorité en AG, mandat du syndic."
@@ -246,6 +247,8 @@ Un immeuble locatif change d'occupants en permanence. Chaque déménagement est 
 - **Informer au moment du bail.** L'existence du partage, le prix en vigueur et la procédure d'adhésion doivent figurer dans le dossier remis au nouvel occupant, au même titre que le règlement d'ordre intérieur. C'est le seul moment où l'information atteint réellement un locataire entrant.
 
 Le volet gouvernance — informer les participants, organiser les votes, tenir le tableau d'actualités — est développé dans [« Animer une communauté d'énergie au quotidien »](/actualites/2026/06/24/animer-communaute-energie/).
+
+Cette section est écrite du point de vue du syndic et de l'assemblée. Le même problème vu depuis l'appartement — ce qu'un locataire peut décider seul, et ce que la durée de son bail lui permet d'espérer — est traité dans [« Locataire : le guide du solaire sans toit »](/actualites/2026/09/16/guide-solaire-locataire-sans-toit/).
 
 ## Ce que ça donne en chiffres, et les deux pièges fiscaux
 

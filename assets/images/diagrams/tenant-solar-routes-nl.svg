@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif">
+<title id="t">Wat een huurder werkelijk bezit</title>
+<desc id="d">Schema met drie kolommen, getiteld "Wat een huurder werkelijk bezit". De linkerkolom, doorstreept, bevat wat aan de eigenaar toebehoort: het dak, de gevel, het gebouw, de investeringspremies en de stem op de algemene vergadering. De uitgelichte middenkolom bevat de twee activa van de huurder: enerzijds de EAN-code van het toegangspunt, dus de meter op zijn naam, anderzijds sinds 17 april 2025 een verplaatsbare plug-and-playzonnekit die in een stopcontact gaat en weer kan worden weggenomen. Een pijl loopt van de kit naar een centraal kader met de vermelding "communicerende meter, gratis en systematisch geplaatst", en een tweede pijl loopt van dat kader naar de rechterkolom. De rechterkolom toont de twee uitwegen: links het rechtstreekse zelfverbruik van de kit, gewaardeerd op 36,94 eurocent per kilowattuur, en rechts het delen van energie, geraamd op ongeveer 145 euro per jaar voor 500 ontvangen kilowattuur en zonder enige investering. Onderaan toont een horizontale band het verschil in tijdsduur: een balk van drie maanden staat voor de ongeveer zestig werkdagen die nodig zijn om tot energiedeling toe te treden, vergeleken met drie huurtermijnen: één jaar voor de studentenhuur, drie jaar voor de huur van korte duur en negen jaar voor de hoofdverblijfplaats. Een vermelding geeft aan dat ook de opzegtermijn van de huurder drie maanden bedraagt.</desc>
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2e7d32"/></marker></defs>
+<rect width="800" height="620" fill="#FFFFFF"/>
+<text x="400" y="34" text-anchor="middle" font-size="19" font-weight="700" fill="#212529">Wat een huurder werkelijk bezit</text>
+<rect x="20" y="58" width="218" height="212" rx="8" fill="#F8F9FA" stroke="#DEE2E6"/>
+<text x="129" y="82" text-anchor="middle" font-size="13" font-weight="700" fill="#868E96">Van de eigenaar</text>
+<text x="129" y="112" text-anchor="middle" font-size="13" fill="#868E96" text-decoration="line-through">Het dak</text>
+<text x="129" y="142" text-anchor="middle" font-size="13" fill="#868E96" text-decoration="line-through">De gevel</text>
+<text x="129" y="172" text-anchor="middle" font-size="13" fill="#868E96" text-decoration="line-through">Het gebouw</text>
+<text x="129" y="202" text-anchor="middle" font-size="13" fill="#868E96" text-decoration="line-through">De premies</text>
+<text x="129" y="232" text-anchor="middle" font-size="13" fill="#868E96" text-decoration="line-through">De stem op de AV</text>
+<rect x="262" y="58" width="252" height="212" rx="8" fill="#e8f5e9" stroke="#2e7d32" stroke-width="2"/>
+<text x="388" y="82" text-anchor="middle" font-size="13" font-weight="700" fill="#2e7d32">Van u</text>
+<rect x="278" y="96" width="220" height="68" rx="6" fill="#FFFFFF" stroke="#2e7d32"/>
+<text x="388" y="124" text-anchor="middle" font-size="14" font-weight="700" fill="#212529">De EAN-code</text>
+<text x="388" y="145" text-anchor="middle" font-size="11.5" fill="#495057">de meter op uw naam</text>
+<rect x="278" y="180" width="220" height="68" rx="6" fill="#FFFFFF" stroke="#2e7d32"/>
+<text x="388" y="208" text-anchor="middle" font-size="14" font-weight="700" fill="#212529">Een plug-and-playkit</text>
+<text x="388" y="229" text-anchor="middle" font-size="11.5" fill="#495057">verplaatsbaar, sinds 17/04/2025</text>
+<rect x="538" y="58" width="242" height="212" rx="8" fill="#fdf0e3" stroke="#DEE2E6"/>
+<text x="659" y="82" text-anchor="middle" font-size="13" font-weight="700" fill="#495057">Twee uitwegen</text>
+<rect x="554" y="96" width="210" height="68" rx="6" fill="#FFFFFF" stroke="#DEE2E6"/>
+<text x="659" y="124" text-anchor="middle" font-size="14" font-weight="700" fill="#212529">Zelf verbruiken</text>
+<text x="659" y="145" text-anchor="middle" font-size="11.5" fill="#495057">36,94 c€ per vermeden kWh</text>
+<rect x="554" y="180" width="210" height="76" rx="6" fill="#FFFFFF" stroke="#2e7d32"/>
+<text x="659" y="206" text-anchor="middle" font-size="14" font-weight="700" fill="#2e7d32">Energie delen</text>
+<text x="659" y="226" text-anchor="middle" font-size="11.5" fill="#495057">≈ 145 €/jaar voor 500 kWh</text>
+<text x="659" y="243" text-anchor="middle" font-size="11.5" fill="#495057">zonder iets te investeren</text>
+<rect x="262" y="296" width="518" height="66" rx="8" fill="#2e7d32"/>
+<text x="521" y="320" text-anchor="middle" font-size="14" font-weight="700" fill="#FFFFFF">Communicerende meter</text>
+<text x="521" y="339" text-anchor="middle" font-size="11.5" fill="#FFFFFF">gratis en systematisch geplaatst</text>
+<text x="521" y="354" text-anchor="middle" font-size="11.5" fill="#FFFFFF">zodra u een kit aangeeft</text>
+<path d="M388,270 L388,290" stroke="#2e7d32" stroke-width="2" fill="none" marker-end="url(#ar)"/>
+<path d="M659,290 L659,270" stroke="#2e7d32" stroke-width="2" fill="none" marker-end="url(#ar)"/>
+<line x1="20" y1="392" x2="780" y2="392" stroke="#DEE2E6"/>
+<text x="20" y="418" font-size="13.5" font-weight="700" fill="#212529">De klokken lopen niet gelijk: toetreden tot energiedeling duurt ongeveer 3 maanden</text>
+<text x="286" y="463" text-anchor="end" font-size="12" fill="#495057">Studentenhuur — 1 jaar</text>
+<rect x="300" y="446" width="300" height="24" rx="4" fill="#e8f5e9" stroke="#DEE2E6"/>
+<rect x="300" y="446" width="75" height="24" rx="4" fill="#2e7d32"/>
+<text x="614" y="463" font-size="12" font-weight="700" fill="#2e7d32">een kwart van de huur</text>
+<text x="286" y="507" text-anchor="end" font-size="12" fill="#495057">Korte duur — 3 jaar</text>
+<rect x="300" y="490" width="300" height="24" rx="4" fill="#e8f5e9" stroke="#DEE2E6"/>
+<rect x="300" y="490" width="25" height="24" rx="4" fill="#2e7d32"/>
+<text x="614" y="507" font-size="12" font-weight="700" fill="#2e7d32">een twaalfde</text>
+<text x="286" y="551" text-anchor="end" font-size="12" fill="#495057">Hoofdverblijf — 9 jaar</text>
+<rect x="300" y="534" width="300" height="24" rx="4" fill="#e8f5e9" stroke="#DEE2E6"/>
+<rect x="300" y="534" width="8" height="24" rx="4" fill="#2e7d32"/>
+<text x="614" y="551" font-size="12" font-weight="700" fill="#2e7d32">een zesendertigste</text>
+<text x="400" y="596" text-anchor="middle" font-size="11.5" fill="#868E96">Ook de opzegtermijn van de huurder bedraagt drie maanden.</text>
+</svg>

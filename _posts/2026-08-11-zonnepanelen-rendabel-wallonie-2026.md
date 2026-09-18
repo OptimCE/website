@@ -8,7 +8,7 @@ description: "Is een fotovoltaïsche installatie in Wallonië in 2026 nog rendab
 tags: [guide, administrative, community]
 lang: nl
 ref: solar-panels-worth-it-wallonia-2026
-last_modified_at: 2026-09-12 06:00:00 +0200
+last_modified_at: 2026-09-16 06:00:00 +0200
 permalink: /nl/nieuws/2026/08/11/zonnepanelen-rendabel-wallonie-2026/
 faq:
   - q: "Zijn zonnepanelen in 2026 nog rendabel in Wallonië?"
@@ -262,6 +262,8 @@ Zie nergens van af vóór u de berekening van de vorige sectie op **uw** jaarafr
 ### Ik ben huurder of woon in een appartement
 
 Installeren kunt u wellicht niet, ontvangen wel. Delen binnen eenzelfde gebouw is de gunstigste opstelling van Wallonië en vereist geen rechtspersoon: een dak in mede-eigendom volstaat. Het mechanisme, vanuit het standpunt van de verbruiker, staat beschreven in “[Zelfverbruik van energie in België](/nl/nieuws/2026/06/05/zelfverbruik-energie-belgie/)”.
+
+Sinds 17 april 2025 kunt u ook zelf een beetje produceren: een verplaatsbare fotovoltaïsche kit in een gewoon stopcontact is in België voortaan toegelaten, en hij verhuist met u mee. De volledige berekening — en wat de oriëntatie van een balkon eraan verandert — staat in [“Huurder: zonne-energie zonder eigen dak”](/nl/nieuws/2026/09/16/zonne-energie-huurder-zonder-dak-gids/).
 
 ## Wat u moet onthouden
 

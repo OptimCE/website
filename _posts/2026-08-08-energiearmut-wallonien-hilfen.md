@@ -8,7 +8,7 @@ description: "29,2 % der wallonischen Haushalte sind von Energiearmut betroffen.
 tags: [guide, administrative, community]
 lang: de
 ref: energy-poverty-wallonia-support
-last_modified_at: 2026-08-30 06:00:00 +0200
+last_modified_at: 2026-09-16 06:00:00 +0200
 permalink: /de/aktuelles/2026/08/08/energiearmut-wallonien-hilfen/
 faq:
   - q: "Was ist Energiearmut und wie wird sie in Belgien gemessen?"
@@ -73,6 +73,8 @@ Und der Heizträger sagt Energiearmut stark voraus: **19,1 %** der mit Gas heize
 Das ist die klarste Zahl des Dossiers und diejenige, an der sich jede lokale Politik ausrichten sollte: **45,5 % der Sozialmieter** und **33,0 % der Mieter im privaten Bestand** sind energiearm, gegenüber **15 % der Eigentümer**. Ein Mieter entscheidet weder über die Dämmung noch über das Heizsystem: Er erleidet eine Bausubstanz, auf die er keinen Einfluss hat und die zu finanzieren für ihn keinen Anreiz bietet.
 
 Zwei weitere Befunde runden das Bild ab und widerlegen die verbreitete Annahme, Energiearmut betreffe nur Sozialleistungsempfänger. **40,3 %** der Haushalte ohne Erwerbseinkommen sind energiearm — aber auch **15,8 %** der Haushalte mit einem einzigen Erwerbseinkommen und **43,0 %** der Haushalte der „unteren“ Mittelschicht. Erwerbsarbeit schützt nicht.
+
+Damit steht ein Mieter dennoch nicht ohne Hebel da. Was er unternehmen kann, ohne seine Wohnung zu besitzen — und was der Verzicht auf den Sozialtarif für den geteilten Anteil einen geschützten Kunden kostet —, ist in [„Mieter: Solarstrom ohne eigenes Dach“](/de/aktuelles/2026/09/16/solar-mieter-ohne-dach-leitfaden/) beziffert.
 
 ## Der blinde Fleck: Heizöl
 

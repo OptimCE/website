@@ -8,7 +8,7 @@ description: "Without compensation, is a Walloon solar installation still profit
 tags: [guide, administrative, community]
 lang: en
 ref: solar-panels-worth-it-wallonia-2026
-last_modified_at: 2026-09-12 06:00:00 +0200
+last_modified_at: 2026-09-16 06:00:00 +0200
 permalink: /en/news/2026/08/11/solar-panels-worth-it-wallonia-2026/
 faq:
   - q: "Are solar panels still profitable in Wallonia in 2026?"
@@ -262,6 +262,8 @@ Give up nothing before running the calculation in the previous section on **your
 ### I am a tenant, or live in a flat
 
 You probably cannot install, but you can receive. Sharing within a single building is Wallonia's most favourable configuration and requires no legal entity: a co-ownership roof is enough. The mechanism, from the consumer's side, is described in [“Energy self-consumption in Belgium”](/en/news/2026/06/05/energy-self-consumption-belgium/).
+
+Since 17 April 2025 you can also generate a little yourself: a portable photovoltaic kit plugged into an ordinary socket is now legal in Belgium, and it moves house with you. The full calculation — and what a balcony's orientation does to it — is in [“Renting: the no-roof guide to solar”](/en/news/2026/09/16/tenant-solar-without-roof-guide/).
 
 ## Key takeaways
 

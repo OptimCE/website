@@ -8,7 +8,7 @@ description: "Conditions d'éligibilité, où trouver une opération de partage 
 tags: [community, administrative, guide]
 lang: fr
 ref: join-energy-community-wallonia
-last_modified_at: 2026-07-16 10:00:00 +0200
+last_modified_at: 2026-09-16 06:00:00 +0200
 ---
 
 En Wallonie, les communautés d'énergie ne sont plus une expérimentation marginale : des centaines d'opérations de partage sont actives ou en cours de notification. Le cadre légal est stabilisé, les gestionnaires de réseau (ORES, RESA, AIEG) sont rodés, et la majorité des compteurs sont déjà communicants. Reste un obstacle bien concret pour la plupart des citoyens, PME et autorités locales : **comment trouver une communauté qui accepte de nouveaux membres**, et **quoi vérifier avant de signer**.
@@ -47,6 +47,8 @@ Le cadre wallon, fixé par le décret du 5 mai 2022 et précisé par la [CWaPE](
 ### Particuliers, locataires comme propriétaires
 
 Tout particulier peut adhérer, qu'il soit propriétaire ou locataire. Le partage suit l'**EAN du point de fourniture**, pas le titre de propriété : votre statut n'entre pas en compte tant que le compteur est à votre nom. Si vous êtes locataire et que la convention engage au-delà de votre bail, prévenez votre propriétaire — c'est de la bonne pratique, pas une obligation légale.
+
+Le locataire a toutefois ses contraintes propres, à commencer par un délai d'adhésion presque égal à son préavis. Elles sont détaillées dans [« Locataire : le guide du solaire sans toit »](/actualites/2026/09/16/guide-solaire-locataire-sans-toit/).
 
 ### PME et indépendants
 

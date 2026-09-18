@@ -8,7 +8,7 @@ description: "Eligibility conditions, where to find an open sharing operation, t
 tags: [community, administrative, guide]
 lang: en
 ref: join-energy-community-wallonia
-last_modified_at: 2026-07-16 10:00:00 +0200
+last_modified_at: 2026-09-16 06:00:00 +0200
 permalink: /en/news/2026/05/11/join-energy-community-wallonia/
 ---
 
@@ -48,6 +48,8 @@ The Walloon framework, set by the decree of 5 May 2022 and clarified by the [CWa
 ### Individuals — tenants as well as owners
 
 Any individual can join, whether owner or tenant. Sharing follows the **EAN of the delivery point**, not the property title: your status doesn't matter as long as the meter is in your name. If you're a tenant and the agreement extends beyond your lease, it's good practice — though not a legal requirement — to inform your landlord.
+
+A tenant does, however, face their own constraints, starting with a joining delay almost equal to their notice period. They are set out in [“Renting: the no-roof guide to solar”](/en/news/2026/09/16/tenant-solar-without-roof-guide/).
 
 ### SMEs and self-employed
 

@@ -8,7 +8,7 @@ description: "The self-consumption rate and how to raise it, collective self-con
 tags: [community]
 lang: en
 ref: self-consumption-belgium
-last_modified_at: 2026-09-12 06:00:00 +0200
+last_modified_at: 2026-09-16 06:00:00 +0200
 permalink: /en/news/2026/06/05/energy-self-consumption-belgium/
 faq:
   - q: "What is the self-consumption rate?"
@@ -96,6 +96,8 @@ The principle of self-consumption is identical everywhere, but the actors and th
 - **SMEs and local authorities**, whose roof space and daytime consumption profiles suit self-consumption particularly well. [Beci](https://www.beci.be/blog/esg-34/les-communautes-denergie-pour-lautoconsommation-collective-2086) highlights the economic case for Brussels businesses.
 
 The apartment-building configuration deserves its own guide: it combines the most favourable tariff perimeter in the country with three locks of condominium law that energy law never mentions. They are reviewed in [“Energy sharing in a condominium: the guide”](/en/news/2026/08/27/energy-sharing-condominium-guide/).
+
+Tenants have since gained a second option: since 17 April 2025, a portable photovoltaic kit plugged into a socket has been legal in Belgium. The two routes — receiving shared energy, or generating your own without owning a roof — are compared in [“Renting: the no-roof guide to solar”](/en/news/2026/09/16/tenant-solar-without-roof-guide/).
 
 ## Practical conditions to know
 
