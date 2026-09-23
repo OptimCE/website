@@ -8,7 +8,7 @@ description: "Is een fotovoltaïsche installatie in Wallonië in 2026 nog rendab
 tags: [guide, administrative, community]
 lang: nl
 ref: solar-panels-worth-it-wallonia-2026
-last_modified_at: 2026-09-16 06:00:00 +0200
+last_modified_at: 2026-09-22 06:00:00 +0200
 permalink: /nl/nieuws/2026/08/11/zonnepanelen-rendabel-wallonie-2026/
 faq:
   - q: "Zijn zonnepanelen in 2026 nog rendabel in Wallonië?"
@@ -20,7 +20,7 @@ faq:
   - q: "Hoeveel is mijn zonneoverschot waard als ik het niet deel?"
     a: "Bijzonder weinig. Volgens de vergelijking van Test-Aankoop van 28 mei 2026 loopt het injectietarief in Vlaanderen en Wallonië van 0,94 c€/kWh bij Mega Zen Fixed tot 4,90 c€/kWh bij Energy Knights en Eneco, met een gemiddelde van 3 à 4 cent. Op 2.500 geïnjecteerde kWh vertegenwoordigt het verschil tussen het beste en het slechtste contract 23 tot 122 € per jaar. Geen van die tarieven is in België gereguleerd, en verschillende volgen de groothandelsmarkt — waardoor dynamische contracten worden blootgesteld aan nul- of zelfs negatieve prijzen, net op de uren waarop uw dak het meest produceert."
   - q: "Batterij of energiedelen: waarvoor kiest u voor uw overschot?"
-    a: "Beide zijn geen concurrenten, ze grijpen op verschillende plaatsen in. Een batterij zet overschot om in uitgesteld zelfverbruik en tilt het zelfverbruikspercentage van 30-40 % naar 70-80 %, wat enkele honderden euro's per jaar waard is — maar ze kost 4.000 tot 10.000 € voor 5 à 10 kWh, Wallonië betaalt geen opslagpremie, en haar eigen terugverdientijd ligt tussen 10 en 13 jaar. Energiedelen brengt minder op, maar kost geen kapitaal: het valoriseert wat na zelfverbruik overblijft, tegen een onderhandelde 3 à 14 c€/kWh in plaats van het injectietarief. De logische volgorde is dus eerst uw verbruik verschuiven, dan delen, en pas daarna een batterij overwegen als het resterende overschot dat nog rechtvaardigt."
+    a: "Beide zijn geen concurrenten, ze grijpen op verschillende plaatsen in. Een batterij zet overschot om in uitgesteld zelfverbruik en tilt het zelfverbruikspercentage van 30-40 % naar 70-80 %, wat enkele honderden euro's per jaar waard is — maar ze kost 4.250 tot 7.250 € voor 5 à 10 kWh, Wallonië betaalt geen opslagpremie, en haar eigen terugverdientijd ligt tussen bijna vijftien jaar. Energiedelen brengt minder op, maar kost geen kapitaal: het valoriseert wat na zelfverbruik overblijft, tegen een onderhandelde 3 à 14 c€/kWh in plaats van het injectietarief. De logische volgorde is dus eerst uw verbruik verschuiven, dan delen, en pas daarna een batterij overwegen als het resterende overschot dat nog rechtvaardigt."
   - q: "Mag ik mijn stroom delen als ik na 2024 heb geïnstalleerd?"
     a: "Ja, en dat is het gunstigste geval. Een installatie die vanaf 1 januari 2024 in dienst is genomen, heeft al een dubbele-fluxmeter en geniet geen enkele compensatie: u hoeft dus niets op te geven om tot een deeloperatie toe te treden. De enige hindernis is het aanbod, en dat is dun in Wallonië — de in maart 2025 verspreide evaluatie van de CWaPE telde 4 deeloperaties binnen eenzelfde gebouw en 3 binnen een energiegemeenschap, en peer-to-peerdelen blijft onwerkzaam bij gebrek aan uitvoeringsbesluit. De twee open wegen zijn delen binnen eenzelfde gebouw, dat volgens het ORES-tarief 2026 een vermindering van 80 % op de proportionele term geniet, en toetreding tot een bestaande gemeenschap."
 ---
@@ -136,9 +136,9 @@ Er zijn maar drie mogelijke antwoorden, en het loont ze naast elkaar te zetten, 
 |---|---|---|---|
 | Wat het doet | Verkopen aan de leverancier | Verbruik in de tijd verschuiven | Afstaan aan andere deelnemers van een deeloperatie |
 | Waarde per kWh | **0,94 tot 4,90 c€** | ≈ 36,94 c€ (uitgesteld zelfverbruik) | **3 tot 14 c€** |
-| Investering | 0 € | **4.000 tot 10.000 €** voor 5 à 10 kWh | 0 € |
+| Investering | 0 € | **4.250 tot 7.250 €** voor 5 à 10 kWh | 0 € |
 | Waalse steun | geen | **geen opslagpremie** | geen, maar −80 % op de proportionele term binnen eenzelfde gebouw |
-| Eigen terugverdientijd | — | **10 tot 13 jaar** | onmiddellijk |
+| Eigen terugverdientijd | — | **bijna vijftien jaar** | onmiddellijk |
 | Overal beschikbaar | ja | ja | **neen** — zie verder |
 | In ons geval | **83 €/jaar** | **+473 €/jaar**, min de afschrijving | **142 tot 237 €/jaar** |
 
@@ -271,7 +271,7 @@ Sinds 17 april 2025 kunt u ook zelf een beetje produceren: een verplaatsbare fot
 2. **62 % van de productie levert slechts 13,5 % van de opbrengst op.** Daar, en nergens anders, wordt in 2026 de rendabiliteit van een Waalse installatie beslecht.
 3. **Het injectietarief is niet gereguleerd en niet te beheersen**: van 0,94 tot 4,90 c€/kWh naargelang de leverancier, gemiddeld 3 à 4 cent, en structureel dalend.
 4. **Delen verdubbelt tot verdrievoudigt de waarde van het overschot** en haalt één tot twee jaar van de terugverdientijd, zonder investering. Het is de enige gratis hefboom die op die 62 % ingrijpt.
-5. **Een batterij levert meer op maar kost 4.000 tot 10.000 €**, zonder enige Waalse premie, voor een eigen terugverdientijd van meer dan tien jaar — bijna vijftien in ons geval. Ze vult delen aan, ze beconcurreert het niet.
+5. **Een batterij levert meer op maar kost 4.250 tot 7.250 €**, zonder enige Waalse premie, voor een eigen terugverdientijd van meer dan tien jaar — bijna vijftien in ons geval. Ze vult delen aan, ze beconcurreert het niet.
 6. **Deelnemen aan delen betekent definitief afzien van de compensatie.** Voor een installatie van na 2024 kost dat niets. Voor een oudere kan het ongeveer 278 € per jaar kosten — of er 374 opbrengen als de installatie overgedimensioneerd is.
 7. **31 december 2030 zet iedereen in dezelfde positie.** Die dag verdwijnt de compensatie voor iedereen, en wordt de vraag van het overschot de enige die telt.
 
@@ -303,7 +303,7 @@ Bijzonder weinig. Volgens de vergelijking van Test-Aankoop van 28 mei 2026 loopt
 
 ### Batterij of energiedelen: waarvoor kiest u voor uw overschot?
 
-Beide zijn geen concurrenten, ze grijpen op verschillende plaatsen in. Een batterij zet overschot om in uitgesteld zelfverbruik en tilt het zelfverbruikspercentage van 30-40 % naar **70-80 %**, wat enkele honderden euro's per jaar waard is — maar ze kost **4.000 tot 10.000 €** voor 5 à 10 kWh, Wallonië betaalt geen opslagpremie, en haar eigen terugverdientijd ligt tussen 10 en 13 jaar. Energiedelen brengt minder op, maar kost geen kapitaal: het valoriseert wat na zelfverbruik overblijft, tegen een onderhandelde 3 à 14 c€/kWh in plaats van het injectietarief. De logische volgorde is dus eerst uw verbruik verschuiven, dan delen, en pas daarna een batterij overwegen als het resterende overschot dat nog rechtvaardigt.
+Beide zijn geen concurrenten, ze grijpen op verschillende plaatsen in. Een batterij zet overschot om in uitgesteld zelfverbruik en tilt het zelfverbruikspercentage van 30-40 % naar **70-80 %**, wat enkele honderden euro's per jaar waard is — maar ze kost **4.250 tot 7.250 €** voor 5 à 10 kWh, Wallonië betaalt geen opslagpremie, en haar eigen terugverdientijd ligt tussen bijna vijftien jaar. Energiedelen brengt minder op, maar kost geen kapitaal: het valoriseert wat na zelfverbruik overblijft, tegen een onderhandelde 3 à 14 c€/kWh in plaats van het injectietarief. De logische volgorde is dus eerst uw verbruik verschuiven, dan delen, en pas daarna een batterij overwegen als het resterende overschot dat nog rechtvaardigt. Het prijsoverzicht per geïnstalleerde kilowattuur en de aangifteplicht die een compensatie van vóór 2024 kan breken, komen aan bod in ["Thuisbatterij: de prijs en het alternatief"](/nl/nieuws/2026/09/22/thuisbatterij-prijs-of-energiedelen/).
 
 ### Mag ik mijn stroom delen als ik na 2024 heb geïnstalleerd?
 

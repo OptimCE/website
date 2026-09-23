@@ -8,12 +8,12 @@ description: "Injecter, boiler, voiture, batterie, partage : ce que vaut vraimen
 tags: [guide, community]
 lang: fr
 ref: solar-surplus-options
-last_modified_at: 2026-09-12 06:00:00 +0200
+last_modified_at: 2026-09-22 06:00:00 +0200
 faq:
   - q: "Quelle option rapporte le plus par euro investi pour valoriser un surplus solaire ?"
     a: "Le pilotage du ballon d'eau chaude, sans concurrence sérieuse. Un routeur solaire posé sur un ballon électrique existant coûte de 400 à 900 euros, absorbe 800 à 1 400 kWh de surplus par an et se rembourse en un à trois ans. Rapporté au volume traité, cela représente environ 0,65 euro d'investissement par kilowattheure absorbé chaque année, contre environ 5,65 euros pour une batterie domestique. Les deux options à investissement nul, le partage d'énergie et l'injection, ne se comparent pas sur ce terrain puisque leur dénominateur est zéro : elles se comparent sur la valeur unitaire, 3 à 14 centimes pour le partage contre 0,94 à 4,90 centimes pour l'injection. La bonne stratégie n'est donc pas de choisir, mais d'empiler : absorber d'abord au prix plein ce que vos appareils peuvent absorber, partager ensuite, injecter le solde."
   - q: "Faut-il installer une batterie domestique en 2026 pour son surplus solaire ?"
-    a: "Pas pour le surplus seul. Une batterie de 10 kWh coûte de 7 000 à 12 000 euros TVAC, fait passer un taux d'autoconsommation de 37,76 à 75 pour cent et rapporte environ 473 euros par an sur un cas de 4 kWc, soit un retour d'environ quinze ans alors que la garantie constructeur porte sur dix ans à 60 ou 80 pour cent de capacité résiduelle. Aucune région belge ne verse de prime au stockage domestique en 2026 : la Flandre a supprimé la sienne le 31 mars 2023, la Wallonie et Bruxelles n'en ont jamais accordé. Le calcul se redresse dans trois cas seulement : en Flandre, où le capaciteitstarief facture la pointe quart-horaire et où écrêter cette pointe rapporte réellement ; en Wallonie sous tarif Impact, où l'écart entre la bande ECO et la bande PIC ouvre un arbitrage ; et si vous cherchez d'abord une autonomie en cas de coupure, ce qui est un besoin légitime mais n'est pas un calcul de rentabilité."
+    a: "Pas pour le surplus seul. Une batterie de 10 kWh coûte de 7 000 à 9 000 euros TVAC, fait passer un taux d'autoconsommation de 37,76 à 75 pour cent et rapporte environ 473 euros par an sur un cas de 4 kWc, soit un retour d'environ quinze ans alors que la garantie constructeur porte sur dix ans à 60 ou 80 pour cent de capacité résiduelle. Aucune région belge ne verse de prime au stockage domestique en 2026 : la Flandre a supprimé la sienne le 31 mars 2023, la Wallonie et Bruxelles n'en ont jamais accordé. Le calcul se redresse dans trois cas seulement : en Flandre, où le capaciteitstarief facture la pointe quart-horaire et où écrêter cette pointe rapporte réellement ; en Wallonie sous tarif Impact, où l'écart entre la bande ECO et la bande PIC ouvre un arbitrage ; et si vous cherchez d'abord une autonomie en cas de coupure, ce qui est un besoin légitime mais n'est pas un calcul de rentabilité."
   - q: "Un chauffe-eau thermodynamique est-il un bon moyen d'absorber le surplus solaire ?"
     a: "C'est un excellent appareil et un mauvais capteur de surplus, et les deux affirmations sont vraies en même temps. Un chauffe-eau thermodynamique affiche un coefficient de performance de 2,5 à 3,5 : il produit trois kilowattheures de chaleur pour un kilowattheure d'électricité soutiré. Pour un même besoin d'eau chaude, il consomme donc environ trois fois moins d'électricité qu'un ballon résistif — et absorbe donc environ trois fois moins de surplus. Si votre objectif est de réduire votre facture globale, il est le bon choix. Si votre objectif est d'absorber 2 400 kWh de surplus qui partent aujourd'hui à 3 centimes, un simple routeur solaire posé sur un ballon résistif existant en absorbe beaucoup plus, pour dix fois moins cher. Les deux logiques ne se rejoignent que si votre ballon est de toute façon à remplacer."
   - q: "Puis-je recharger ma voiture électrique uniquement avec mon surplus solaire ?"
@@ -33,7 +33,7 @@ Cinq options existent pour agir sur ce décalage : injecter, chauffer l'eau sani
 Cet article ne refait pas le calcul de rentabilité d'une installation photovoltaïque, traité dans [« Panneaux solaires 2026 : rentables en Wallonie ? »](/actualites/2026/08/11/panneaux-solaires-rentables-wallonie-2026/). Il ne réexplique pas la notion d'autoconsommation, définie dans [« Autoconsommation collective en Belgique »](/actualites/2026/06/05/autoconsommation-energie-belgique/), ni la façon de fixer un prix entre participants, développée dans [« Prix de cession interne en communauté d'énergie »](/actualites/2026/07/20/prix-electricite-communaute-energie/). Il ne rejoue pas non plus le test de disponibilité régionale du partage, mené dans [« Baisser sa facture sans changer de fournisseur »](/actualites/2026/08/05/electricite-moins-chere-sans-changer-de-fournisseur/), ni le détail des plages horaires wallonnes, documenté dans [« Réduire sa facture d'électricité : Wallonie 2026 »](/actualites/2026/07/28/reduire-facture-electricite-wallonie-2026/). Il fait une chose que ces articles ne font pas : il compare les cinq destinations possibles du surplus **appareil par appareil**, en euros investis par kilowattheure absorbé.
 
 <img src="/assets/images/diagrams/solar-surplus-ladder-fr.svg"
-     alt="Échelle des cinq options de valorisation d'un surplus solaire en Belgique en 2026 : le ballon d'eau chaude absorbe 800 à 1 400 kWh par an pour 400 à 900 euros d'investissement, la recharge de voiture électrique 300 à 1 500 kWh pour 0 à 2 500 euros, le partage d'énergie la totalité du surplus pour zéro euro mais à 3 à 14 centimes le kilowattheure, l'injection le solde pour zéro euro à 1 à 5 centimes, et la batterie domestique environ 1 400 kWh pour 7 000 à 12 000 euros."
+     alt="Échelle des cinq options de valorisation d'un surplus solaire en Belgique en 2026 : le ballon d'eau chaude absorbe 800 à 1 400 kWh par an pour 400 à 900 euros d'investissement, la recharge de voiture électrique 300 à 1 500 kWh pour 0 à 2 500 euros, le partage d'énergie la totalité du surplus pour zéro euro mais à 3 à 14 centimes le kilowattheure, l'injection le solde pour zéro euro à 1 à 5 centimes, et la batterie domestique environ 1 400 kWh pour 7 000 à 9 000 euros."
      width="800" height="620" loading="lazy" decoding="async"
      style="width:100%;height:auto">
 
@@ -168,13 +168,13 @@ Utiliser la batterie de la voiture pour alimenter la maison, voire réinjecter s
 
 C'est la réponse que proposent la plupart des installateurs, et elle n'est pas fausse — elle est simplement chère.
 
-Une batterie de 10 kWh coûte **7 000 à 12 000 € TVAC** posée, soit 700 à 900 € par kilowattheure utile, avec TVA à 6 % si elle est installée en même temps que les panneaux, par le même entrepreneur, dans un logement de plus de dix ans. Son rendement aller-retour est de 90 à 95 %, sa durée de vie de 6 000 à 10 000 cycles, et la garantie constructeur typique porte sur dix ans à 60 ou 80 % de capacité résiduelle.
+Une batterie de 10 kWh coûte **7 000 à 9 000 € TVAC** posée, soit 700 à 900 € par kilowattheure utile, avec TVA à 6 % si elle est installée en même temps que les panneaux, par le même entrepreneur, dans un logement de plus de dix ans. Son rendement aller-retour est de 90 à 95 %, sa durée de vie de 6 000 à 10 000 cycles, et la garantie constructeur typique porte sur dix ans à 60 ou 80 % de capacité résiduelle.
 
 L'effet est réel : le taux d'autoconsommation passe de 37,76 % à environ 75 %, soit **1 415 kWh supplémentaires** autoconsommés et **environ 473 € par an**, net de la rémunération d'injection perdue sur ces kilowattheures. Mais 8 000 € pour 473 € par an, c'est **près de quinze ans de retour**, soit davantage que la garantie.
 
 Sur notre métrique : environ **5,65 € d'investissement par kilowattheure absorbé chaque année**. Presque neuf fois le ratio du ballon d'eau chaude.
 
-Et il n'y a rien à attendre du côté des aides : **aucune région belge ne verse de prime au stockage domestique en 2026**. La Flandre a supprimé la sienne le 31 mars 2023, la Wallonie n'en a jamais créé, Bruxelles non plus.
+Et il n'y a rien à attendre du côté des aides : **aucune région belge ne verse de prime au stockage domestique en 2026**. La Flandre a supprimé la sienne le 31 mars 2023, la Wallonie n'en a jamais créé, Bruxelles non plus. La grille de prix au kilowattheure installé, et l'obligation de déclaration qui peut rompre une compensation d'avant 2024, sont traitées dans [« Batterie domestique : le prix et l'alternative »](/actualites/2026/09/22/batterie-domestique-prix-ou-partage-energie/).
 
 Trois situations redressent malgré tout le calcul, et il faut les nommer précisément.
 
@@ -212,7 +212,7 @@ Le premier tableau compare ce que rapporte un kilowattheure. Le second compare c
 | Partager | **3 à 14 c€** | tout, borné par la simultanéité | 0 € |
 | Ballon d'eau chaude | **20 à 37 c€** | 800 à 1 400 kWh | 400 à 900 € |
 | Voiture électrique | **20 à 30 c€** | 300 à 1 500 kWh | 0 à 2 500 € |
-| Batterie domestique | **27 à 34 c€** | ~1 400 kWh | 7 000 à 12 000 € |
+| Batterie domestique | **27 à 34 c€** | ~1 400 kWh | 7 000 à 9 000 € |
 
 | Option | Investissement par kWh absorbé et par an | Retour | Durée de vie |
 |---|---|---|---|
@@ -273,7 +273,7 @@ Le pilotage du ballon d'eau chaude, sans concurrence sérieuse. Un routeur solai
 
 ### Faut-il installer une batterie domestique en 2026 pour son surplus solaire ?
 
-Pas pour le surplus seul. Une batterie de 10 kWh coûte de 7 000 à 12 000 € TVAC, fait passer un taux d'autoconsommation de 37,76 à 75 % et rapporte environ 473 € par an sur un cas de 4 kWc, soit un retour d'environ quinze ans alors que la garantie constructeur porte sur dix ans à 60 ou 80 % de capacité résiduelle. **Aucune région belge ne verse de prime au stockage domestique en 2026** : la Flandre a supprimé la sienne le 31 mars 2023, la Wallonie et Bruxelles n'en ont jamais accordé. Le calcul se redresse dans trois cas seulement : en Flandre, où le capaciteitstarief facture la pointe quart-horaire et où écrêter cette pointe rapporte réellement ; en Wallonie sous tarif Impact, où l'écart entre la bande ECO et la bande PIC ouvre un arbitrage ; et si vous cherchez d'abord une autonomie en cas de coupure, ce qui est un besoin légitime mais n'est pas un calcul de rentabilité.
+Pas pour le surplus seul. Une batterie de 10 kWh coûte de 7 000 à 9 000 € TVAC, fait passer un taux d'autoconsommation de 37,76 à 75 % et rapporte environ 473 € par an sur un cas de 4 kWc, soit un retour d'environ quinze ans alors que la garantie constructeur porte sur dix ans à 60 ou 80 % de capacité résiduelle. **Aucune région belge ne verse de prime au stockage domestique en 2026** : la Flandre a supprimé la sienne le 31 mars 2023, la Wallonie et Bruxelles n'en ont jamais accordé. Le calcul se redresse dans trois cas seulement : en Flandre, où le capaciteitstarief facture la pointe quart-horaire et où écrêter cette pointe rapporte réellement ; en Wallonie sous tarif Impact, où l'écart entre la bande ECO et la bande PIC ouvre un arbitrage ; et si vous cherchez d'abord une autonomie en cas de coupure, ce qui est un besoin légitime mais n'est pas un calcul de rentabilité.
 
 ### Un chauffe-eau thermodynamique est-il un bon moyen d'absorber le surplus solaire ?
 

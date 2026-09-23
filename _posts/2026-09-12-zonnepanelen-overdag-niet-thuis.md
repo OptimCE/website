@@ -2,6 +2,7 @@
 layout: post
 title: "Zonnepanelen: overdag niemand thuis"
 date: 2026-09-12 06:00:00 +0200
+last_modified_at: 2026-09-22 06:00:00 +0200
 author: "Eric van OptimCE"
 permalink: /nl/nieuws/2026/09/12/zonnepanelen-overdag-niet-thuis/
 excerpt: "Bij een Waalse installatie van 4 kilowattpiek op het zuiden valt 85,8 % van de jaarproductie tussen 9 en 17 uur. Dat is precies het venster waarin een gezin met twee inkomens niet thuis is. De reflex luidt dat er een batterij nodig is. Dat is de verkeerde diagnose: sinds 1 januari 2026 heeft het Waalse net zijn daluren naar het midden van de dag verschoven, en het toestel dat het overschot van een leeg huis het best opneemt, staat al bij u. Het is enkel bedraad om om drie uur 's nachts op te warmen."
@@ -270,7 +271,7 @@ Het is geen wonder, en wij zeggen dat liever. Maar het is een winst die **geen e
 
 Vier valse goede ideeën, in volgorde van frequentie.
 
-**Eerst een batterij kopen.** Dat is het intuïtieve antwoord op het probleem van de afwezigheid, en het kost in de orde van 7 000 tot 8 000 € voor een terugverdientijd die vijftien jaar nadert — meer dan de gebruikelijke waarborg, en zonder premie in enig Belgisch gewest in 2026. Opslag is niet absurd; ze is enkel de laatste stap, niet de eerste. De gestuurde boiler doet een goed deel van het werk voor een fractie van de prijs.
+**Eerst een batterij kopen.** Dat is het intuïtieve antwoord op het probleem van de afwezigheid, en het kost in de orde van 7 000 tot 8 000 € voor een terugverdientijd die vijftien jaar nadert — meer dan de gebruikelijke waarborg, en zonder premie in enig Belgisch gewest in 2026. Opslag is niet absurd; ze is enkel de laatste stap, niet de eerste. De gestuurde boiler doet een goed deel van het werk voor een fractie van de prijs. Het prijsoverzicht per geïnstalleerde kilowattuur en de aangifteplicht die een compensatie van vóór 2024 kan breken, komen aan bod in ["Thuisbatterij: de prijs en het alternatief"](/nl/nieuws/2026/09/22/thuisbatterij-prijs-of-energiedelen/).
 
 **Naar het Impact-tarief overstappen zonder te controleren.** De Waalse incentiverende tarifering opent een verhouding van één op vijf tussen de ECO-band en de PIC-band, wat opmerkelijk is. Maar haar vensters zijn **niet** die van het tweevoudig tarief — 22 tot 1 uur is daluren in het tweevoudig tarief en MEDIUM in Impact — en voor een prosument onder compensatie hangt het samenspel met de compensatie af van het commerciële aanbod van de leverancier en kan het de afrekening onleesbaar maken. Zit u onder de compensatie, dan blijft het herziene tweevoudig tarief de standaardkeuze.
 

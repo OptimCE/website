@@ -2,7 +2,7 @@
 layout: post
 title: "Stromrechnung senken: Wallonien 2026"
 date: 2026-07-28 10:00:00 +0200
-last_modified_at: 2026-09-12 06:00:00 +0200
+last_modified_at: 2026-09-22 06:00:00 +0200
 author: "Eric, OptimCE"
 excerpt: "Offizieller Vergleichsrechner, neuer Impact-Tarif, Sozialtarif, Prämienfrist am 30. September, Eigenverbrauch und Energieteilung: zehn wallonische Hebel, berechnet auf Grundlage der von der CWaPE genehmigten ORES-Tarifliste 2026. Sechs davon kosten nichts. Für jeden Hebel die realistische Jahresersparnis, die Bedingung und die Vorlaufzeit."
 description: "Zehn konkrete, belegte Hebel zur Senkung der Stromrechnung in Wallonien 2026 — vom offiziellen Vergleichsrechner bis zur Energieteilung."
@@ -169,7 +169,7 @@ Der Prosumer-Tarif beziffert genau das. Nach der ORES-Tarifliste 2026 beträgt e
 
 Die Kompensation — der rückwärts laufende Zähler — bleibt für Anlagen mit Inbetriebnahme vor dem 1. Januar 2024 **bis zum 31. Dezember 2030** gesichert. Danach werden Einspeisung und Bezug getrennt bewertet, und die Eigenverbrauchsquote wird zum einzigen wirklich maßgeblichen Parameter. Die vollständige Rentabilitätsrechnung unter dieser neuen Regelung und die Abwägung zwischen dem Erhalt der Kompensation und dem Beitritt zu einem Energieteilen stehen in „[Solaranlage 2026: lohnt sie sich in Wallonien?](/de/aktuelles/2026/08/11/solaranlage-rentabel-wallonien-2026/)“.
 
-**Und die Batterie?** Sie hebt eine typische Eigenverbrauchsquote von 30–40 % auf 70–80 %. Bleiben wir aber sachlich: Sie kostet 4.000 bis 10.000 € für 5 bis 10 kWh, **Wallonien zahlt keine direkte Prämie für Hausspeicher**, und die Amortisation liegt bei etwa zehn bis dreizehn Jahren — oft jenseits der Garantie. Was sich 2026 ändert, ist der Impact-Tarif: im ECO-Band zu 2,71 c€/kWh laden und im PIC-Band zu 13,54 c€/kWh entladen ergibt einen Arbitrageertrag, den die klassische Rechnung ignorierte. Lassen Sie die Simulation mit dieser Annahme neu aufstellen, bevor Sie entscheiden.
+**Und die Batterie?** Sie hebt eine typische Eigenverbrauchsquote von 30–40 % auf 70–80 %. Bleiben wir aber sachlich: Sie kostet 4.250 bis 7.250 € für 5 bis 10 kWh, **Wallonien zahlt keine direkte Prämie für Hausspeicher**, und die Amortisation nähert sich bei einem üblichen Wohnhausfall fünfzehn Jahren — oft jenseits der Garantie. Was sich 2026 ändert, ist der Impact-Tarif: im ECO-Band zu 2,71 c€/kWh laden und im PIC-Band zu 13,54 c€/kWh entladen ergibt einen Arbitrageertrag, den die klassische Rechnung ignorierte. Lassen Sie die Simulation mit dieser Annahme neu aufstellen, bevor Sie entscheiden. Die Preisübersicht je installierter Kilowattstunde und die Meldepflicht, die eine Kompensation von vor 2024 unterbrechen kann, behandelt [„Hausbatterie: Preis und Alternative"](/de/aktuelles/2026/09/22/hausbatterie-preis-oder-energieteilen/).
 
 Die rentabelste Option von allen lässt sich schließlich gar nicht kaufen: der **kollektive Eigenverbrauch**. Auf Gebäudeebene hebt ein zwischen den Bewohnern geteiltes Solardach die Eigenverbrauchsquote zwangsläufig an, weil sich die Lastkurven mehrerer Haushalte ergänzen. Mechanismen, Kennzahlen und Konfigurationen sind dargestellt in [„Kollektiver Eigenverbrauch in Belgien“](/de/aktuelles/2026/06/05/eigenverbrauch-energie-belgien/).
 

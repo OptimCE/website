@@ -8,7 +8,7 @@ description: "Sans compensation, une installation photovoltaïque wallonne est-e
 tags: [guide, administrative, community]
 lang: fr
 ref: solar-panels-worth-it-wallonia-2026
-last_modified_at: 2026-09-16 06:00:00 +0200
+last_modified_at: 2026-09-22 06:00:00 +0200
 faq:
   - q: "Les panneaux solaires sont-ils encore rentables en Wallonie en 2026 ?"
     a: "Oui, mais avec un temps de retour plus long qu'à l'époque de la compensation et beaucoup plus sensible à votre profil de consommation. Sur un cas illustratif de 4 kWc à 6 000 € TVAC, produisant 3 800 kWh par an avec un taux d'autoconsommation de 37,76 %, le gain annuel se situe autour de 613 € — dont 530 € proviennent de l'électricité que vous ne payez plus et seulement 83 € de la vente du surplus. Cela donne un retour de l'ordre de dix ans, contre six ans avancés par la Région wallonne en 2023 pour une installation à 40 % d'autoconsommation. La différence entre une bonne et une mauvaise installation ne se joue plus sur le prix du devis, mais sur la part de production que vous consommez vous-même."
@@ -19,7 +19,7 @@ faq:
   - q: "Combien vaut mon surplus photovoltaïque si je ne le partage pas ?"
     a: "Très peu. Selon la comparaison de Test-Achats du 28 mai 2026, le tarif d'injection en Flandre et en Wallonie s'échelonne de 0,94 c€/kWh chez Mega Zen Fixed à 4,90 c€/kWh chez Energy Knights et Eneco, pour une moyenne de 3 à 4 centimes. Sur 2 500 kWh injectés, l'écart entre le meilleur et le moins bon contrat représente 23 à 122 € par an. Aucun de ces tarifs n'est régulé en Belgique, et plusieurs sont indexés sur le marché de gros — ce qui expose les contrats dynamiques à des prix nuls, voire négatifs, précisément aux heures où votre toiture produit le plus."
   - q: "Batterie ou partage d'énergie : que choisir pour valoriser son surplus ?"
-    a: "Les deux ne sont pas concurrents, ils agissent à des endroits différents. Une batterie transforme du surplus en autoconsommation différée et fait passer le taux d'autoconsommation de 30-40 % à 70-80 %, ce qui vaut plusieurs centaines d'euros par an — mais elle coûte 4 000 à 10 000 € pour 5 à 10 kWh, la Wallonie ne verse aucune prime au stockage, et son propre retour sur investissement se situe entre 10 et 13 ans. Le partage d'énergie rapporte moins, mais ne coûte rien en capital : il valorise ce qui reste après autoconsommation, à un prix négocié de 3 à 14 c€/kWh au lieu du tarif d'injection. L'ordre logique est donc d'abord de décaler ses usages, ensuite de partager, et enfin d'envisager une batterie si le surplus résiduel le justifie encore. Le détail appareil par appareil — ballon d'eau chaude, recharge de la voiture, batterie — et le classement en euros investis par kilowattheure absorbé figurent dans [« Surplus solaire : les 5 options comparées »](/actualites/2026/08/18/que-faire-surplus-solaire-belgique/)."
+    a: "Les deux ne sont pas concurrents, ils agissent à des endroits différents. Une batterie transforme du surplus en autoconsommation différée et fait passer le taux d'autoconsommation de 30-40 % à 70-80 %, ce qui vaut plusieurs centaines d'euros par an — mais elle coûte 4 250 à 7 250 € pour 5 à 10 kWh, la Wallonie ne verse aucune prime au stockage, et son propre retour sur investissement approche quinze ans sur notre cas de référence. Le partage d'énergie rapporte moins, mais ne coûte rien en capital : il valorise ce qui reste après autoconsommation, à un prix négocié de 3 à 14 c€/kWh au lieu du tarif d'injection. L'ordre logique est donc d'abord de décaler ses usages, ensuite de partager, et enfin d'envisager une batterie si le surplus résiduel le justifie encore. Le détail appareil par appareil — ballon d'eau chaude, recharge de la voiture, batterie — et le classement en euros investis par kilowattheure absorbé figurent dans [« Surplus solaire : les 5 options comparées »](/actualites/2026/08/18/que-faire-surplus-solaire-belgique/). Le prix d'une batterie au kilowattheure installé et l'arithmétique du cumul batterie-partage sont détaillés dans [« Batterie domestique : le prix et l'alternative »](/actualites/2026/09/22/batterie-domestique-prix-ou-partage-energie/)."
   - q: "Puis-je partager mon électricité si j'ai installé mes panneaux après 2024 ?"
     a: "Oui, et c'est le cas le plus favorable. Une installation mise en service à partir du 1er janvier 2024 est déjà équipée d'un compteur double flux et ne bénéficie d'aucune compensation : vous n'avez donc rien à abandonner pour rejoindre une opération de partage. Le seul obstacle est l'offre disponible, et elle est mince en Wallonie — l'évaluation de la CWaPE relayée en mars 2025 recensait 4 opérations de partage au sein d'un même bâtiment et 3 au sein d'une communauté d'énergie, et le partage de pair à pair reste inopérant faute d'arrêté d'exécution. Les deux voies ouvertes sont le partage au sein d'un même bâtiment, qui bénéficie d'une réduction de 80 % du terme proportionnel sur la grille ORES 2026, et l'adhésion à une communauté existante."
 ---
@@ -135,9 +135,9 @@ Il n'y a que trois réponses possibles, et il vaut la peine de les mettre côte 
 |---|---|---|---|
 | Ce que ça fait | Vendre au fournisseur | Décaler la consommation dans le temps | Céder à d'autres participants d'une opération de partage |
 | Valeur du kWh | **0,94 à 4,90 c€** | ≈ 36,94 c€ (autoconsommation différée) | **3 à 14 c€** |
-| Investissement | 0 € | **4 000 à 10 000 €** pour 5 à 10 kWh | 0 € |
+| Investissement | 0 € | **4 250 à 7 250 €** pour 5 à 10 kWh | 0 € |
 | Soutien wallon | aucun | **aucune prime au stockage** | aucun, mais −80 % du terme proportionnel en même bâtiment |
-| Retour propre | — | **10 à 13 ans** | immédiat |
+| Retour propre | — | **près de quinze ans** | immédiat |
 | Disponible partout | oui | oui | **non** — voir plus bas |
 | Sur notre cas | **83 €/an** | **+473 €/an**, moins l'amortissement | **142 à 237 €/an** |
 
@@ -270,7 +270,7 @@ Depuis le 17 avril 2025, vous pouvez aussi produire un peu : un kit photovoltaï
 2. **62 % de la production ne rapporte que 13,5 % du revenu.** C'est là, et nulle part ailleurs, que se joue la rentabilité d'une installation wallonne en 2026.
 3. **Le tarif d'injection n'est pas régulé et ne se maîtrise pas** : de 0,94 à 4,90 c€/kWh selon le fournisseur, en moyenne 3 à 4 centimes, et structurellement orienté à la baisse.
 4. **Le partage multiplie par deux à trois la valeur du surplus** et retire un à deux ans au temps de retour, sans investissement. C'est le seul levier gratuit qui agisse sur les 62 %.
-5. **La batterie rapporte plus mais coûte 4 000 à 10 000 €**, sans aucune prime wallonne, pour un retour propre qui dépasse dix ans — près de quinze sur notre cas. Elle est complémentaire du partage, pas concurrente.
+5. **La batterie rapporte plus mais coûte 4 250 à 7 250 €**, sans aucune prime wallonne, pour un retour propre qui dépasse dix ans — près de quinze sur notre cas. Elle est complémentaire du partage, pas concurrente.
 6. **Participer à un partage impose de renoncer définitivement à la compensation.** Pour une installation d'après 2024, cela ne coûte rien. Pour une installation antérieure, cela peut coûter environ 278 € par an — ou en rapporter 374 si l'installation est surdimensionnée.
 7. **Le 31 décembre 2030 met tout le monde dans la même situation.** À cette date, la compensation disparaît pour tous, et la question du surplus devient la seule qui compte.
 
@@ -302,7 +302,7 @@ Très peu. Selon la comparaison de Test-Achats du 28 mai 2026, le tarif d'inject
 
 ### Batterie ou partage d'énergie : que choisir pour valoriser son surplus ?
 
-Les deux ne sont pas concurrents, ils agissent à des endroits différents. Une batterie transforme du surplus en autoconsommation différée et fait passer le taux d'autoconsommation de 30-40 % à **70-80 %**, ce qui vaut plusieurs centaines d'euros par an — mais elle coûte **4 000 à 10 000 €** pour 5 à 10 kWh, la Wallonie ne verse aucune prime au stockage, et son propre retour sur investissement se situe entre 10 et 13 ans. Le partage d'énergie rapporte moins, mais ne coûte rien en capital : il valorise ce qui reste après autoconsommation, à un prix négocié de 3 à 14 c€/kWh au lieu du tarif d'injection. L'ordre logique est donc d'abord de décaler ses usages, ensuite de partager, et enfin d'envisager une batterie si le surplus résiduel le justifie encore.
+Les deux ne sont pas concurrents, ils agissent à des endroits différents. Une batterie transforme du surplus en autoconsommation différée et fait passer le taux d'autoconsommation de 30-40 % à **70-80 %**, ce qui vaut plusieurs centaines d'euros par an — mais elle coûte **4 250 à 7 250 €** pour 5 à 10 kWh, la Wallonie ne verse aucune prime au stockage, et son propre retour sur investissement approche quinze ans sur notre cas de référence. Le partage d'énergie rapporte moins, mais ne coûte rien en capital : il valorise ce qui reste après autoconsommation, à un prix négocié de 3 à 14 c€/kWh au lieu du tarif d'injection. L'ordre logique est donc d'abord de décaler ses usages, ensuite de partager, et enfin d'envisager une batterie si le surplus résiduel le justifie encore. Attention toutefois : les deux gains ne s'additionnent pas, et le calcul du cumul figure dans [« Batterie domestique : le prix et l'alternative »](/actualites/2026/09/22/batterie-domestique-prix-ou-partage-energie/).
 
 ### Puis-je partager mon électricité si j'ai installé mes panneaux après 2024 ?
 

@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif">
+<title id="t">Batterie ou partage : ce que chaque euro achète</title>
+<desc id="d">Schéma en trois colonnes comparant deux manières de valoriser un surplus photovoltaïque, sur une installation de référence de 4 kilowatts-crête produisant 3 800 kilowattheures par an dont 37,76 pour cent sont autoconsommés. La colonne de gauche, intitulée Batterie, montre un investissement de 7 000 euros, une autoconsommation qui monte de 37,76 à 75 pour cent, un gain de 473 euros par an et un retour de 14,8 ans ; une mention précise que ce gain est compté net de la rémunération d'injection perdue. La colonne du milieu, intitulée Partage, montre un investissement de zéro euro, une autoconsommation inchangée, le surplus de 2 365 kilowattheures valorisé à 6 centimes au lieu de 3,5 centimes, un gain de 59 euros par an et un retour immédiat. La colonne de droite, intitulée Les deux, montre le cumul : 7 000 euros investis, 2 850 kilowattheures autoconsommés et seulement 950 kilowattheures restants à partager, pour un gain de 497 euros par an. Une flèche barrée relie la somme arithmétique attendue, 532 euros, au résultat réel de 497 euros, et une étiquette signale les 35 euros par an qui disparaissent parce que chaque kilowattheure stocké est retiré du volume partageable. En pied de schéma, un bandeau d'avertissement rappelle que pour une installation mise en service avant le 1er janvier 2024, la déclaration obligatoire de la batterie au gestionnaire de réseau peut rompre le cycle de compensation annuelle, et que le traitement diffère selon le gestionnaire.</desc>
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868E96"/></marker></defs>
+<rect width="800" height="620" fill="#FFFFFF"/>
+<text x="400" y="30" text-anchor="middle" font-size="19" font-weight="700" fill="#212529">Batterie ou partage : ce que chaque euro achète</text>
+<text x="400" y="50" text-anchor="middle" font-size="11" fill="#868E96">Installation de référence : 4 kWc, 3 800 kWh/an, 37,76 % autoconsommés, prix évité 36,94 c€/kWh</text>
+
+<!-- Colonne 1 : Batterie -->
+<rect x="20" y="64" width="244" height="284" rx="8" fill="#F8F9FA" stroke="#DEE2E6"/>
+<text x="142" y="90" text-anchor="middle" font-size="15" font-weight="700" fill="#495057">Batterie</text>
+<line x1="34" y1="102" x2="250" y2="102" stroke="#DEE2E6"/>
+<text x="34" y="126" font-size="11" fill="#868E96">Investissement</text><text x="250" y="126" text-anchor="end" font-size="13" font-weight="700" fill="#212529">7 000 €</text>
+<text x="34" y="152" font-size="11" fill="#868E96">Autoconsommation</text><text x="250" y="152" text-anchor="end" font-size="13" font-weight="700" fill="#212529">75 %</text>
+<text x="34" y="178" font-size="11" fill="#868E96">Reste injecté</text><text x="250" y="178" text-anchor="end" font-size="13" font-weight="700" fill="#212529">950 kWh</text>
+<text x="34" y="204" font-size="11" fill="#868E96">Valorisé à</text><text x="250" y="204" text-anchor="end" font-size="13" font-weight="700" fill="#212529">3,5 c€/kWh</text>
+<line x1="34" y1="222" x2="250" y2="222" stroke="#DEE2E6"/>
+<text x="142" y="264" text-anchor="middle" font-size="27" font-weight="700" fill="#2e7d32">+473 €</text>
+<text x="142" y="282" text-anchor="middle" font-size="11" fill="#868E96">par an, net de l'injection perdue</text>
+<text x="142" y="322" text-anchor="middle" font-size="13" font-weight="700" fill="#495057">Retour : 14,8 ans</text>
+
+<!-- Colonne 2 : Partage -->
+<rect x="278" y="64" width="244" height="284" rx="8" fill="#e8f5e9" stroke="#2e7d32"/>
+<text x="400" y="90" text-anchor="middle" font-size="15" font-weight="700" fill="#1b5e20">Partage</text>
+<line x1="292" y1="102" x2="508" y2="102" stroke="#a5d6a7"/>
+<text x="292" y="126" font-size="11" fill="#5c7c5e">Investissement</text><text x="508" y="126" text-anchor="end" font-size="13" font-weight="700" fill="#1b5e20">0 €</text>
+<text x="292" y="152" font-size="11" fill="#5c7c5e">Autoconsommation</text><text x="508" y="152" text-anchor="end" font-size="13" font-weight="700" fill="#1b5e20">37,76 %</text>
+<text x="292" y="178" font-size="11" fill="#5c7c5e">Reste injecté</text><text x="508" y="178" text-anchor="end" font-size="13" font-weight="700" fill="#1b5e20">2 365 kWh</text>
+<text x="292" y="204" font-size="11" fill="#5c7c5e">Valorisé à</text><text x="508" y="204" text-anchor="end" font-size="13" font-weight="700" fill="#1b5e20">6 c€/kWh</text>
+<line x1="292" y1="222" x2="508" y2="222" stroke="#a5d6a7"/>
+<text x="400" y="264" text-anchor="middle" font-size="27" font-weight="700" fill="#2e7d32">+59 €</text>
+<text x="400" y="282" text-anchor="middle" font-size="11" fill="#5c7c5e">par an, sans capital engagé</text>
+<text x="400" y="322" text-anchor="middle" font-size="13" font-weight="700" fill="#1b5e20">Retour : immédiat</text>
+
+<!-- Colonne 3 : Les deux -->
+<rect x="536" y="64" width="244" height="284" rx="8" fill="#F8F9FA" stroke="#DEE2E6"/>
+<text x="658" y="90" text-anchor="middle" font-size="15" font-weight="700" fill="#495057">Les deux</text>
+<line x1="550" y1="102" x2="766" y2="102" stroke="#DEE2E6"/>
+<text x="550" y="126" font-size="11" fill="#868E96">Investissement</text><text x="766" y="126" text-anchor="end" font-size="13" font-weight="700" fill="#212529">7 000 €</text>
+<text x="550" y="152" font-size="11" fill="#868E96">Autoconsommation</text><text x="766" y="152" text-anchor="end" font-size="13" font-weight="700" fill="#212529">75 %</text>
+<text x="550" y="178" font-size="11" fill="#868E96">Reste à partager</text><text x="766" y="178" text-anchor="end" font-size="13" font-weight="700" fill="#e8590c">950 kWh</text>
+<text x="550" y="204" font-size="11" fill="#868E96">Valorisé à</text><text x="766" y="204" text-anchor="end" font-size="13" font-weight="700" fill="#212529">6 c€/kWh</text>
+<line x1="550" y1="222" x2="766" y2="222" stroke="#DEE2E6"/>
+<text x="658" y="264" text-anchor="middle" font-size="27" font-weight="700" fill="#2e7d32">+497 €</text>
+<text x="658" y="282" text-anchor="middle" font-size="11" fill="#868E96">par an, et non 532 €</text>
+<text x="658" y="322" text-anchor="middle" font-size="13" font-weight="700" fill="#495057">Retour : 16,0 ans</text>
+
+<!-- Bande arithmétique -->
+<rect x="20" y="366" width="760" height="94" rx="8" fill="#FFFFFF" stroke="#DEE2E6"/>
+<text x="40" y="392" font-size="12" font-weight="700" fill="#868E96">LES GAINS NE S'ADDITIONNENT PAS</text>
+<text x="40" y="424" font-size="16" fill="#495057">473 €</text>
+<text x="92" y="424" font-size="16" fill="#868E96">+</text>
+<text x="114" y="424" font-size="16" fill="#495057">59 €</text>
+<text x="158" y="424" font-size="16" fill="#868E96">=</text>
+<text x="182" y="424" font-size="16" fill="#868E96" text-decoration="line-through">532 €</text>
+<line x1="242" y1="419" x2="292" y2="419" stroke="#868E96" marker-end="url(#ar)"/>
+<text x="304" y="424" font-size="16" font-weight="700" fill="#2e7d32">497 €</text>
+<rect x="372" y="406" width="76" height="24" rx="4" fill="#fff4e6" stroke="#ffc078"/>
+<text x="410" y="423" text-anchor="middle" font-size="13" font-weight="700" fill="#e8590c">− 35 €/an</text>
+<text x="466" y="424" font-size="12" fill="#495057">chaque kilowattheure stocké sort du volume partageable</text>
+<text x="40" y="447" font-size="11" fill="#868E96">Pour qui partage déjà, la batterie ne rapporte plus 473 € mais 438 € — et 381 € si le prix de cession est de 10 c€/kWh.</text>
+
+<!-- Bandeau d'avertissement -->
+<rect x="20" y="478" width="760" height="94" rx="8" fill="#fff4e6" stroke="#ffc078"/>
+<text x="40" y="504" font-size="12" font-weight="700" fill="#e8590c">INSTALLATION MISE EN SERVICE AVANT LE 1er JANVIER 2024</text>
+<text x="40" y="528" font-size="12" fill="#495057">Déclarer la batterie au gestionnaire de réseau est une obligation légale. Le relevé d'index qu'impose</text>
+<text x="40" y="546" font-size="12" fill="#495057">le formulaire UP10 peut déclencher une facture de décompte et rompre le cycle de compensation annuelle.</text>
+<text x="40" y="564" font-size="12" fill="#495057">ORES évite d'encoder ces index, RESA les transmet.</text>
+<text x="760" y="564" text-anchor="end" font-size="11" font-weight="700" fill="#e8590c">CWaPE, 26 mars 2026</text>
+
+<text x="400" y="600" text-anchor="middle" font-size="10" fill="#868E96">Prix de cession interne de 6 c€/kWh, ordre de grandeur des cas belges documentés. Hors frais de participation du fournisseur et hors pertes de rendement.</text>
+</svg>

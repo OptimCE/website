@@ -2,6 +2,7 @@
 layout: post
 title: "Panneaux solaires : absent toute la journée"
 date: 2026-09-12 06:00:00 +0200
+last_modified_at: 2026-09-22 06:00:00 +0200
 author: "Eric d'OptimCE"
 excerpt: "Sur une installation wallonne de 4 kilowatts-crête orientée plein sud, 85,8 % de la production annuelle tombe entre 9 h et 17 h. C'est exactement le créneau pendant lequel un ménage à deux revenus n'est pas chez lui. Le réflexe est de conclure qu'il faut une batterie. C'est le mauvais diagnostic : depuis le 1er janvier 2026, le réseau wallon a déplacé ses heures creuses sur le milieu de journée, et l'appareil qui absorbe le mieux le surplus d'une maison vide est déjà installé chez vous. Il est simplement câblé pour chauffer à trois heures du matin."
 description: "85,8 % de votre production tombe quand la maison est vide. Ce qui se déplace vraiment sans être là, mesuré, et où se situe le plafond."
@@ -269,7 +270,7 @@ Ce n'est pas un miracle, et nous préférons le dire. Mais c'est un gain qui ne 
 
 Quatre fausses bonnes idées, par ordre de fréquence.
 
-**Acheter une batterie en premier.** C'est la réponse intuitive au problème de l'absence, et elle coûte de l'ordre de 7 000 à 8 000 € pour un retour approchant quinze ans — davantage que la garantie usuelle, et sans prime dans aucune région belge en 2026. Le stockage n'est pas absurde ; il est simplement la dernière étape, pas la première. Le ballon piloté fait une bonne part du travail pour une fraction du prix.
+**Acheter une batterie en premier.** C'est la réponse intuitive au problème de l'absence, et elle coûte de l'ordre de 7 000 à 8 000 € pour un retour approchant quinze ans — davantage que la garantie usuelle, et sans prime dans aucune région belge en 2026. Le stockage n'est pas absurde ; il est simplement la dernière étape, pas la première. Le ballon piloté fait une bonne part du travail pour une fraction du prix. Le prix d'une batterie au kilowattheure et ce que sa déclaration déclenche sont détaillés dans [« Batterie domestique : le prix et l'alternative »](/actualites/2026/09/22/batterie-domestique-prix-ou-partage-energie/).
 
 **Basculer au tarif Impact sans vérifier.** La tarification incitative wallonne creuse un rapport de un à cinq entre la bande ECO et la bande PIC, ce qui est spectaculaire. Mais ses plages ne sont **pas** celles du bihoraire — 22 h – 1 h est une heure creuse en bihoraire et une heure MEDIUM en Impact — et pour un prosumer sous compensation, l'articulation avec la compensation dépend de l'offre commerciale du fournisseur et peut rendre le décompte illisible. Si vous êtes sous compensation, le bihoraire révisé reste le choix par défaut.
 

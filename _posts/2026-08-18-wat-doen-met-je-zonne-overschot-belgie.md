@@ -8,13 +8,13 @@ description: "Injecteren, boiler, auto, batterij of delen: wat een kilowattuur z
 tags: [guide, community]
 lang: nl
 ref: solar-surplus-options
-last_modified_at: 2026-09-12 06:00:00 +0200
+last_modified_at: 2026-09-22 06:00:00 +0200
 permalink: /nl/nieuws/2026/08/18/wat-doen-met-je-zonne-overschot-belgie/
 faq:
   - q: "Welke optie levert het meeste op per geïnvesteerde euro voor een zonne-overschot?"
     a: "Het sturen van de warmwaterboiler, zonder ernstige concurrentie. Een zonnerouter op een bestaande elektrische boiler kost 400 tot 900 euro, neemt 800 tot 1.400 kWh overschot per jaar op en verdient zichzelf terug in één tot drie jaar. Afgezet tegen het behandelde volume komt dat neer op ongeveer 0,65 euro investering per kilowattuur dat jaarlijks wordt opgenomen, tegenover ongeveer 5,65 euro voor een thuisbatterij. De twee opties zonder investering, energiedelen en injectie, laten zich op dat terrein niet vergelijken omdat hun noemer nul is: zij concurreren op de eenheidswaarde, 3 tot 14 cent voor delen tegenover 0,94 tot 4,90 cent voor injectie. De juiste strategie is dus niet kiezen maar stapelen: neem eerst tegen de volle prijs op wat uw toestellen aankunnen, deel vervolgens, injecteer het saldo."
   - q: "Moet u in 2026 een thuisbatterij plaatsen voor uw zonne-overschot?"
-    a: "Niet voor het overschot alleen. Een batterij van 10 kWh kost 7.000 tot 12.000 euro inclusief btw, tilt een zelfverbruikspercentage van 37,76 naar 75 procent en levert ongeveer 473 euro per jaar op in een geval van 4 kWp, goed voor een terugverdientijd van ongeveer vijftien jaar terwijl de fabrieksgarantie tien jaar dekt op 60 tot 80 procent restcapaciteit. Geen enkel Belgisch gewest betaalt in 2026 nog een premie voor thuisopslag: Vlaanderen schafte de zijne af op 31 maart 2023, Wallonië en Brussel hebben er nooit een toegekend. De berekening herstelt zich in slechts drie gevallen: in Vlaanderen, waar het capaciteitstarief de kwartierpiek factureert en het afvlakken van die piek echt loont; in Wallonië onder het Impact-tarief, waar het verschil tussen de ECO- en de PIEK-band arbitrage mogelijk maakt; en als u in de eerste plaats autonomie bij een stroomonderbreking zoekt, wat een legitieme behoefte is maar geen rendementsberekening."
+    a: "Niet voor het overschot alleen. Een batterij van 10 kWh kost 7.000 tot 9.000 euro inclusief btw, tilt een zelfverbruikspercentage van 37,76 naar 75 procent en levert ongeveer 473 euro per jaar op in een geval van 4 kWp, goed voor een terugverdientijd van ongeveer vijftien jaar terwijl de fabrieksgarantie tien jaar dekt op 60 tot 80 procent restcapaciteit. Geen enkel Belgisch gewest betaalt in 2026 nog een premie voor thuisopslag: Vlaanderen schafte de zijne af op 31 maart 2023, Wallonië en Brussel hebben er nooit een toegekend. De berekening herstelt zich in slechts drie gevallen: in Vlaanderen, waar het capaciteitstarief de kwartierpiek factureert en het afvlakken van die piek echt loont; in Wallonië onder het Impact-tarief, waar het verschil tussen de ECO- en de PIEK-band arbitrage mogelijk maakt; en als u in de eerste plaats autonomie bij een stroomonderbreking zoekt, wat een legitieme behoefte is maar geen rendementsberekening."
   - q: "Is een warmtepompboiler een goede manier om zonne-overschot op te nemen?"
     a: "Het is een uitstekend toestel en een slechte overschotopnemer, en beide uitspraken zijn tegelijk waar. Een warmtepompboiler haalt een prestatiecoëfficiënt van 2,5 tot 3,5: hij levert drie kilowattuur warmte voor één kilowattuur afgenomen elektriciteit. Voor dezelfde warmwaterbehoefte verbruikt hij dus ongeveer drie keer minder elektriciteit dan een weerstandsboiler — en neemt hij ongeveer drie keer minder overschot op. Is uw doel uw totale factuur te verlagen, dan is hij de juiste keuze. Is uw doel 2.400 kWh overschot op te nemen dat vandaag aan 3 cent vertrekt, dan neemt een eenvoudige zonnerouter op een bestaande weerstandsboiler veel meer op, voor tien keer minder geld. De twee logica's komen alleen samen als uw boiler toch aan vervanging toe is."
   - q: "Kan ik mijn elektrische auto uitsluitend met mijn zonne-overschot laden?"
@@ -34,7 +34,7 @@ Er bestaan vijf opties om op die mismatch in te grijpen: injecteren, sanitair wa
 Dit artikel maakt niet opnieuw de rendabiliteitsberekening van een zonne-installatie, behandeld in [Zonnepanelen 2026: nog rendabel in Wallonië?](/nl/nieuws/2026/08/11/zonnepanelen-rendabel-wallonie-2026/). Het legt het begrip zelfverbruik niet opnieuw uit, gedefinieerd in [Zelfverbruik van energie in België](/nl/nieuws/2026/06/05/zelfverbruik-energie-belgie/), en evenmin hoe u een prijs tussen deelnemers vastlegt, uitgewerkt in [Interne overdrachtsprijs in een gemeenschap](/nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/). Het herhaalt ook niet de test van de gewestelijke beschikbaarheid van delen, uitgevoerd in [Goedkopere stroom zonder leverancierswissel](/nl/nieuws/2026/08/05/goedkopere-stroom-zonder-leverancierswissel/), noch het detail van de Waalse uurblokken, gedocumenteerd in [Elektriciteitsfactuur verlagen: Wallonië 2026](/nl/nieuws/2026/07/28/elektriciteitsfactuur-verlagen-wallonie-2026/). Het doet één ding dat die artikelen niet doen: het vergelijkt de vijf mogelijke bestemmingen van het overschot **toestel per toestel**, in geïnvesteerde euro per opgenomen kilowattuur.
 
 <img src="/assets/images/diagrams/solar-surplus-ladder-nl.svg"
-     alt="Ladder van de vijf manieren om een zonne-overschot te valoriseren in België in 2026: de warmwaterboiler neemt 800 tot 1.400 kWh per jaar op voor 400 tot 900 euro investering, het laden van een elektrische auto 300 tot 1.500 kWh voor 0 tot 2.500 euro, energiedelen het volledige overschot voor nul euro maar aan 3 tot 14 cent per kilowattuur, injectie het saldo voor nul euro aan 1 tot 5 cent, en een thuisbatterij ongeveer 1.400 kWh voor 7.000 tot 12.000 euro."
+     alt="Ladder van de vijf manieren om een zonne-overschot te valoriseren in België in 2026: de warmwaterboiler neemt 800 tot 1.400 kWh per jaar op voor 400 tot 900 euro investering, het laden van een elektrische auto 300 tot 1.500 kWh voor 0 tot 2.500 euro, energiedelen het volledige overschot voor nul euro maar aan 3 tot 14 cent per kilowattuur, injectie het saldo voor nul euro aan 1 tot 5 cent, en een thuisbatterij ongeveer 1.400 kWh voor 7.000 tot 9.000 euro."
      width="800" height="620" loading="lazy" decoding="async"
      style="width:100%;height:auto">
 
@@ -163,13 +163,13 @@ Op onze maatstaf: ongeveer **2,17 € investering per kilowattuur dat jaarlijks 
 
 ### V2H en V2G: nog niet
 
-De autobatterij gebruiken om het huis te voeden, of zelfs terug te injecteren op het net, zou het probleem in één klap oplossen. In België is dat in 2026 geen consumentenoptie: bidirectionele laadpalen kosten **4.000 tot 8.000 €**, zeer weinig voertuigmodellen zijn compatibel, het normatieve aansluitkader is niet gestabiliseerd en de uitrol blijft bij pilootprojecten. Koop vandaag geen auto en geen laadpaal voor die functie.
+De autobatterij gebruiken om het huis te voeden, of zelfs terug te injecteren op het net, zou het probleem in één klap oplossen. In België is dat in 2026 geen consumentenoptie: bidirectionele laadpalen kosten **4.000 tot 8.000 €**, zeer weinig voertuigmodellen zijn compatibel, het normatieve aansluitkader is niet gestabiliseerd en de uitrol blijft bij pilootprojecten. Koop vandaag geen auto en geen laadpaal voor die functie. Het prijsoverzicht per geïnstalleerde kilowattuur en de aangifteplicht die een compensatie van vóór 2024 kan breken, komen aan bod in ["Thuisbatterij: de prijs en het alternatief"](/nl/nieuws/2026/09/22/thuisbatterij-prijs-of-energiedelen/).
 
 ## Optie 4 — De thuisbatterij: doeltreffend, duur en slecht ondersteund
 
 Dit is het antwoord dat de meeste installateurs voorstellen, en het is niet fout — het is gewoon duur.
 
-Een batterij van 10 kWh kost geplaatst **7.000 tot 12.000 € inclusief btw**, oftewel 700 tot 900 € per bruikbare kilowattuur, met 6 % btw als ze samen met de panelen wordt geplaatst, door dezelfde aannemer, in een woning van meer dan tien jaar oud. Haar rendement heen en terug bedraagt 90 tot 95 %, haar levensduur 6.000 tot 10.000 cycli, en de typische fabrieksgarantie dekt tien jaar op 60 of 80 % restcapaciteit.
+Een batterij van 10 kWh kost geplaatst **7.000 tot 9.000 € inclusief btw**, oftewel 700 tot 900 € per bruikbare kilowattuur, met 6 % btw als ze samen met de panelen wordt geplaatst, door dezelfde aannemer, in een woning van meer dan tien jaar oud. Haar rendement heen en terug bedraagt 90 tot 95 %, haar levensduur 6.000 tot 10.000 cycli, en de typische fabrieksgarantie dekt tien jaar op 60 of 80 % restcapaciteit.
 
 Het effect is reëel: het zelfverbruikspercentage stijgt van 37,76 % naar ongeveer 75 %, goed voor **1.415 extra kilowattuur** zelf verbruikt en **ongeveer 473 € per jaar**, na aftrek van de op die kilowattuur misgelopen injectievergoeding. Maar 8.000 € voor 473 € per jaar is **bijna vijftien jaar terugverdientijd**, meer dan de garantie.
 
@@ -213,7 +213,7 @@ De eerste tabel vergelijkt wat een kilowattuur opbrengt. De tweede vergelijkt wa
 | Delen | **3 tot 14 c€** | alles, begrensd door gelijktijdigheid | 0 € |
 | Warmwaterboiler | **20 tot 37 c€** | 800 tot 1.400 kWh | 400 tot 900 € |
 | Elektrische auto | **20 tot 30 c€** | 300 tot 1.500 kWh | 0 tot 2.500 € |
-| Thuisbatterij | **27 tot 34 c€** | ~1.400 kWh | 7.000 tot 12.000 € |
+| Thuisbatterij | **27 tot 34 c€** | ~1.400 kWh | 7.000 tot 9.000 € |
 
 | Optie | Investering per kWh opgenomen en per jaar | Terugverdientijd | Levensduur |
 |---|---|---|---|
@@ -274,7 +274,7 @@ Het sturen van de warmwaterboiler, zonder ernstige concurrentie. Een zonnerouter
 
 ### Moet u in 2026 een thuisbatterij plaatsen voor uw zonne-overschot?
 
-Niet voor het overschot alleen. Een batterij van 10 kWh kost 7.000 tot 12.000 € inclusief btw, tilt een zelfverbruikspercentage van 37,76 naar 75 % en levert ongeveer 473 € per jaar op in een geval van 4 kWp, goed voor een terugverdientijd van ongeveer vijftien jaar terwijl de fabrieksgarantie tien jaar dekt op 60 tot 80 % restcapaciteit. **Geen enkel Belgisch gewest betaalt in 2026 nog een premie voor thuisopslag**: Vlaanderen schafte de zijne af op 31 maart 2023, Wallonië en Brussel hebben er nooit een toegekend. De berekening herstelt zich in slechts drie gevallen: in Vlaanderen, waar het capaciteitstarief de kwartierpiek factureert en het afvlakken van die piek echt loont; in Wallonië onder het Impact-tarief, waar het verschil tussen de ECO- en de PIEK-band arbitrage mogelijk maakt; en als u in de eerste plaats autonomie bij een stroomonderbreking zoekt, wat een legitieme behoefte is maar geen rendementsberekening.
+Niet voor het overschot alleen. Een batterij van 10 kWh kost 7.000 tot 9.000 € inclusief btw, tilt een zelfverbruikspercentage van 37,76 naar 75 % en levert ongeveer 473 € per jaar op in een geval van 4 kWp, goed voor een terugverdientijd van ongeveer vijftien jaar terwijl de fabrieksgarantie tien jaar dekt op 60 tot 80 % restcapaciteit. **Geen enkel Belgisch gewest betaalt in 2026 nog een premie voor thuisopslag**: Vlaanderen schafte de zijne af op 31 maart 2023, Wallonië en Brussel hebben er nooit een toegekend. De berekening herstelt zich in slechts drie gevallen: in Vlaanderen, waar het capaciteitstarief de kwartierpiek factureert en het afvlakken van die piek echt loont; in Wallonië onder het Impact-tarief, waar het verschil tussen de ECO- en de PIEK-band arbitrage mogelijk maakt; en als u in de eerste plaats autonomie bij een stroomonderbreking zoekt, wat een legitieme behoefte is maar geen rendementsberekening.
 
 ### Is een warmtepompboiler een goede manier om zonne-overschot op te nemen?
 

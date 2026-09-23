@@ -8,13 +8,13 @@ description: "Export, water tank, car, battery or sharing: what a kilowatt-hour 
 tags: [guide, community]
 lang: en
 ref: solar-surplus-options
-last_modified_at: 2026-09-12 06:00:00 +0200
+last_modified_at: 2026-09-22 06:00:00 +0200
 permalink: /en/news/2026/08/18/what-to-do-solar-surplus-belgium/
 faq:
   - q: "Which option delivers the most per euro invested for a solar surplus?"
     a: "Controlling the hot-water tank, with no serious competition. A solar diverter fitted to an existing electric tank costs 400 to 900 euros, absorbs 800 to 1,400 kWh of surplus a year and pays for itself in one to three years. Measured against the volume it handles, that is roughly 0.65 euro of investment per kilowatt-hour absorbed each year, against roughly 5.65 euros for a home battery. The two zero-investment options, energy sharing and export, cannot be compared on that ground because their denominator is zero: they compete on unit value instead, 3 to 14 cents for sharing against 0.94 to 4.90 cents for export. The right strategy is therefore not to choose but to stack: absorb at full retail value whatever your appliances can take, share next, export the remainder."
   - q: "Should you install a home battery in 2026 for your solar surplus?"
-    a: "Not for the surplus alone. A 10 kWh battery costs 7,000 to 12,000 euros including VAT, lifts a self-consumption rate from 37.76 to 75 per cent and returns around 473 euros a year on a 4 kWp case, which is a payback of about fifteen years while the manufacturer warranty covers ten years at 60 to 80 per cent residual capacity. No Belgian region pays a home-storage premium in 2026: Flanders ended its own on 31 March 2023, and Wallonia and Brussels never had one. The calculation only recovers in three situations: in Flanders, where the capaciteitstarief bills the quarter-hourly peak and shaving that peak genuinely pays; in Wallonia under the Impact tariff, where the gap between the ECO and PIC bands opens an arbitrage; and if what you actually want is autonomy during an outage, which is a legitimate need but is not a profitability calculation."
+    a: "Not for the surplus alone. A 10 kWh battery costs 7,000 to 9,000 euros including VAT, lifts a self-consumption rate from 37.76 to 75 per cent and returns around 473 euros a year on a 4 kWp case, which is a payback of about fifteen years while the manufacturer warranty covers ten years at 60 to 80 per cent residual capacity. No Belgian region pays a home-storage premium in 2026: Flanders ended its own on 31 March 2023, and Wallonia and Brussels never had one. The calculation only recovers in three situations: in Flanders, where the capaciteitstarief bills the quarter-hourly peak and shaving that peak genuinely pays; in Wallonia under the Impact tariff, where the gap between the ECO and PIC bands opens an arbitrage; and if what you actually want is autonomy during an outage, which is a legitimate need but is not a profitability calculation."
   - q: "Is a heat-pump water heater a good way to absorb solar surplus?"
     a: "It is an excellent appliance and a poor surplus absorber, and both statements are true at once. A heat-pump water heater has a coefficient of performance of 2.5 to 3.5: it delivers three kilowatt-hours of heat for one kilowatt-hour of electricity drawn. For the same hot-water need it therefore consumes about three times less electricity than a resistive tank — and absorbs about three times less surplus. If your goal is to cut your overall bill, it is the right choice. If your goal is to absorb 2,400 kWh of surplus currently leaving at 3 cents, a simple solar diverter on an existing resistive tank absorbs far more, for ten times less money. The two logics only converge if your tank needs replacing anyway."
   - q: "Can I charge my electric car on solar surplus alone?"
@@ -34,7 +34,7 @@ Five options exist to act on that mismatch: export, heat domestic water, charge 
 This article does not redo the profitability calculation of a solar installation, covered in [“Solar panels 2026: still worth it in Wallonia?”](/en/news/2026/08/11/solar-panels-worth-it-wallonia-2026/). It does not re-explain self-consumption, defined in [“Energy self-consumption in Belgium”](/en/news/2026/06/05/energy-self-consumption-belgium/), nor how to set a price between participants, developed in [“Internal transfer price in an energy community”](/en/news/2026/07/20/energy-community-electricity-price/). Nor does it replay the regional availability test for sharing, carried out in [“Cheaper electricity without switching supplier”](/en/news/2026/08/05/cheaper-electricity-without-switching-supplier/), or the detail of the Walloon time bands, documented in [“Reduce your electricity bill: Wallonia 2026”](/en/news/2026/07/28/reduce-electricity-bill-wallonia-2026/). It does one thing those articles do not: it compares the five possible destinations of the surplus **appliance by appliance**, in euros invested per kilowatt-hour absorbed.
 
 <img src="/assets/images/diagrams/solar-surplus-ladder-en.svg"
-     alt="Ladder of the five ways to use a solar surplus in Belgium in 2026: the hot-water tank absorbs 800 to 1,400 kWh a year for 400 to 900 euros of investment, electric-car charging 300 to 1,500 kWh for 0 to 2,500 euros, energy sharing the entire surplus for zero euros but at 3 to 14 cents per kilowatt-hour, export the remainder for zero euros at 1 to 5 cents, and a home battery around 1,400 kWh for 7,000 to 12,000 euros."
+     alt="Ladder of the five ways to use a solar surplus in Belgium in 2026: the hot-water tank absorbs 800 to 1,400 kWh a year for 400 to 900 euros of investment, electric-car charging 300 to 1,500 kWh for 0 to 2,500 euros, energy sharing the entire surplus for zero euros but at 3 to 14 cents per kilowatt-hour, export the remainder for zero euros at 1 to 5 cents, and a home battery around 1,400 kWh for 7,000 to 9,000 euros."
      width="800" height="620" loading="lazy" decoding="async"
      style="width:100%;height:auto">
 
@@ -169,13 +169,13 @@ Using the car's battery to power the house, or even to export to the grid, would
 
 This is the answer most installers propose, and it is not wrong — it is simply expensive.
 
-A 10 kWh battery costs **€7,000 to €12,000 including VAT** installed, or €700 to €900 per usable kilowatt-hour, with 6 % VAT if fitted at the same time as the panels, by the same contractor, in a dwelling over ten years old. Its round-trip efficiency is 90 to 95 %, its life 6,000 to 10,000 cycles, and the typical manufacturer warranty covers ten years at 60 or 80 % residual capacity.
+A 10 kWh battery costs **€7,000 to €9,000 including VAT** installed, or €700 to €900 per usable kilowatt-hour, with 6 % VAT if fitted at the same time as the panels, by the same contractor, in a dwelling over ten years old. Its round-trip efficiency is 90 to 95 %, its life 6,000 to 10,000 cycles, and the typical manufacturer warranty covers ten years at 60 or 80 % residual capacity.
 
 The effect is real: the self-consumption rate rises from 37.76 % to around 75 %, meaning **1,415 additional kilowatt-hours** self-consumed and **about €473 a year**, net of the injection revenue forgone on those kilowatt-hours. But €8,000 for €473 a year is **close to fifteen years of payback**, more than the warranty.
 
 Against our metric: about **€5.65 of investment per kilowatt-hour absorbed each year**. Almost nine times the ratio of a hot-water tank.
 
-And there is nothing to expect from support schemes: **no Belgian region pays a home-storage premium in 2026**. Flanders ended its own on 31 March 2023, Wallonia never created one, and neither did Brussels.
+And there is nothing to expect from support schemes: **no Belgian region pays a home-storage premium in 2026**. Flanders ended its own on 31 March 2023, Wallonia never created one, and neither did Brussels. The price grid per kilowatt-hour installed, and the declaration obligation that can break a pre-2024 compensation, are covered in ["Home battery: the price and the alternative"](/en/news/2026/09/22/home-battery-price-vs-energy-sharing/).
 
 Three situations nevertheless straighten out the calculation, and they need naming precisely.
 
@@ -213,7 +213,7 @@ The first table compares what a kilowatt-hour earns. The second compares what it
 | Share | **3 to 14 c€** | everything, bounded by simultaneity | €0 |
 | Hot-water tank | **20 to 37 c€** | 800 to 1,400 kWh | €400 to €900 |
 | Electric car | **20 to 30 c€** | 300 to 1,500 kWh | €0 to €2,500 |
-| Home battery | **27 to 34 c€** | ~1,400 kWh | €7,000 to €12,000 |
+| Home battery | **27 to 34 c€** | ~1,400 kWh | €7,000 to €9,000 |
 
 | Option | Investment per kWh absorbed per year | Payback | Lifetime |
 |---|---|---|---|
@@ -274,7 +274,7 @@ Controlling the hot-water tank, with no serious competition. A solar diverter fi
 
 ### Should you install a home battery in 2026 for your solar surplus?
 
-Not for the surplus alone. A 10 kWh battery costs €7,000 to €12,000 including VAT, lifts a self-consumption rate from 37.76 to 75 % and returns around €473 a year on a 4 kWp case, which is a payback of about fifteen years while the manufacturer warranty covers ten years at 60 to 80 % residual capacity. **No Belgian region pays a home-storage premium in 2026**: Flanders ended its own on 31 March 2023, and Wallonia and Brussels never had one. The calculation only recovers in three situations: in Flanders, where the capaciteitstarief bills the quarter-hourly peak and shaving that peak genuinely pays; in Wallonia under the Impact tariff, where the gap between the ECO and PIC bands opens an arbitrage; and if what you actually want is autonomy during an outage, which is a legitimate need but is not a profitability calculation.
+Not for the surplus alone. A 10 kWh battery costs €7,000 to €9,000 including VAT, lifts a self-consumption rate from 37.76 to 75 % and returns around €473 a year on a 4 kWp case, which is a payback of about fifteen years while the manufacturer warranty covers ten years at 60 to 80 % residual capacity. **No Belgian region pays a home-storage premium in 2026**: Flanders ended its own on 31 March 2023, and Wallonia and Brussels never had one. The calculation only recovers in three situations: in Flanders, where the capaciteitstarief bills the quarter-hourly peak and shaving that peak genuinely pays; in Wallonia under the Impact tariff, where the gap between the ECO and PIC bands opens an arbitrage; and if what you actually want is autonomy during an outage, which is a legitimate need but is not a profitability calculation.
 
 ### Is a heat-pump water heater a good way to absorb solar surplus?
 

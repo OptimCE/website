@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif">
+<title id="t">Batterie oder Teilen: was jeder Euro kauft</title>
+<desc id="d">Schema in drei Spalten, das zwei Wege der Verwertung eines Solarüberschusses vergleicht, bezogen auf eine Referenzanlage von 4 Kilowatt-Peak mit 3 800 Kilowattstunden Jahresertrag, von denen 37,76 Prozent selbst verbraucht werden. Die linke Spalte mit der Überschrift Batterie zeigt eine Investition von 7 000 Euro, einen Eigenverbrauch, der von 37,76 auf 75 Prozent steigt, einen Gewinn von 473 Euro im Jahr und eine Amortisation von 14,8 Jahren; ein Hinweis stellt klar, dass dieser Gewinn netto der entgangenen Einspeisevergütung gerechnet ist. Die mittlere Spalte mit der Überschrift Energieteilen zeigt eine Investition von null Euro, einen unveränderten Eigenverbrauch, den Überschuss von 2 365 Kilowattstunden mit 6 Cent statt 3,5 Cent bewertet, einen Gewinn von 59 Euro im Jahr und eine sofortige Amortisation. Die rechte Spalte mit der Überschrift Beides zeigt die Kombination: 7 000 Euro investiert, 2 850 Kilowattstunden selbst verbraucht und nur noch 950 Kilowattstunden zum Teilen, für einen Gewinn von 497 Euro im Jahr. Ein durchgestrichener Pfeil verbindet die erwartete arithmetische Summe von 532 Euro mit dem tatsächlichen Ergebnis von 497 Euro, und eine Beschriftung weist auf die 35 Euro im Jahr hin, die verschwinden, weil jede gespeicherte Kilowattstunde dem teilbaren Volumen entzogen wird. Am Fuß des Schemas erinnert ein Warnbanner daran, dass bei einer vor dem 1. Januar 2024 in Betrieb genommenen Anlage die Pflichtmeldung der Batterie an den Netzbetreiber den jährlichen Kompensationszyklus unterbrechen kann und dass die Handhabung je nach Netzbetreiber abweicht.</desc>
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868E96"/></marker></defs>
+<rect width="800" height="620" fill="#FFFFFF"/>
+<text x="400" y="30" text-anchor="middle" font-size="19" font-weight="700" fill="#212529">Batterie oder Teilen: was jeder Euro kauft</text>
+<text x="400" y="50" text-anchor="middle" font-size="11" fill="#868E96">Referenzanlage: 4 kWp, 3 800 kWh/Jahr, 37,76 % Eigenverbrauch, vermiedener Preis 36,94 c€/kWh</text>
+
+<!-- Spalte 1: Batterie -->
+<rect x="20" y="64" width="244" height="284" rx="8" fill="#F8F9FA" stroke="#DEE2E6"/>
+<text x="142" y="90" text-anchor="middle" font-size="15" font-weight="700" fill="#495057">Batterie</text>
+<line x1="34" y1="102" x2="250" y2="102" stroke="#DEE2E6"/>
+<text x="34" y="126" font-size="11" fill="#868E96">Investition</text><text x="250" y="126" text-anchor="end" font-size="13" font-weight="700" fill="#212529">7 000 €</text>
+<text x="34" y="152" font-size="11" fill="#868E96">Eigenverbrauch</text><text x="250" y="152" text-anchor="end" font-size="13" font-weight="700" fill="#212529">75 %</text>
+<text x="34" y="178" font-size="11" fill="#868E96">Rest eingespeist</text><text x="250" y="178" text-anchor="end" font-size="13" font-weight="700" fill="#212529">950 kWh</text>
+<text x="34" y="204" font-size="11" fill="#868E96">Bewertet mit</text><text x="250" y="204" text-anchor="end" font-size="13" font-weight="700" fill="#212529">3,5 c€/kWh</text>
+<line x1="34" y1="222" x2="250" y2="222" stroke="#DEE2E6"/>
+<text x="142" y="264" text-anchor="middle" font-size="27" font-weight="700" fill="#2e7d32">+473 €</text>
+<text x="142" y="282" text-anchor="middle" font-size="11" fill="#868E96">im Jahr, netto der Einspeisung</text>
+<text x="142" y="322" text-anchor="middle" font-size="13" font-weight="700" fill="#495057">Amortisation: 14,8 Jahre</text>
+
+<!-- Spalte 2: Energieteilen -->
+<rect x="278" y="64" width="244" height="284" rx="8" fill="#e8f5e9" stroke="#2e7d32"/>
+<text x="400" y="90" text-anchor="middle" font-size="15" font-weight="700" fill="#1b5e20">Energieteilen</text>
+<line x1="292" y1="102" x2="508" y2="102" stroke="#a5d6a7"/>
+<text x="292" y="126" font-size="11" fill="#5c7c5e">Investition</text><text x="508" y="126" text-anchor="end" font-size="13" font-weight="700" fill="#1b5e20">0 €</text>
+<text x="292" y="152" font-size="11" fill="#5c7c5e">Eigenverbrauch</text><text x="508" y="152" text-anchor="end" font-size="13" font-weight="700" fill="#1b5e20">37,76 %</text>
+<text x="292" y="178" font-size="11" fill="#5c7c5e">Rest eingespeist</text><text x="508" y="178" text-anchor="end" font-size="13" font-weight="700" fill="#1b5e20">2 365 kWh</text>
+<text x="292" y="204" font-size="11" fill="#5c7c5e">Bewertet mit</text><text x="508" y="204" text-anchor="end" font-size="13" font-weight="700" fill="#1b5e20">6 c€/kWh</text>
+<line x1="292" y1="222" x2="508" y2="222" stroke="#a5d6a7"/>
+<text x="400" y="264" text-anchor="middle" font-size="27" font-weight="700" fill="#2e7d32">+59 €</text>
+<text x="400" y="282" text-anchor="middle" font-size="11" fill="#5c7c5e">im Jahr, ohne Kapitaleinsatz</text>
+<text x="400" y="322" text-anchor="middle" font-size="13" font-weight="700" fill="#1b5e20">Amortisation: sofort</text>
+
+<!-- Spalte 3: Beides -->
+<rect x="536" y="64" width="244" height="284" rx="8" fill="#F8F9FA" stroke="#DEE2E6"/>
+<text x="658" y="90" text-anchor="middle" font-size="15" font-weight="700" fill="#495057">Beides</text>
+<line x1="550" y1="102" x2="766" y2="102" stroke="#DEE2E6"/>
+<text x="550" y="126" font-size="11" fill="#868E96">Investition</text><text x="766" y="126" text-anchor="end" font-size="13" font-weight="700" fill="#212529">7 000 €</text>
+<text x="550" y="152" font-size="11" fill="#868E96">Eigenverbrauch</text><text x="766" y="152" text-anchor="end" font-size="13" font-weight="700" fill="#212529">75 %</text>
+<text x="550" y="178" font-size="11" fill="#868E96">Rest zum Teilen</text><text x="766" y="178" text-anchor="end" font-size="13" font-weight="700" fill="#e8590c">950 kWh</text>
+<text x="550" y="204" font-size="11" fill="#868E96">Bewertet mit</text><text x="766" y="204" text-anchor="end" font-size="13" font-weight="700" fill="#212529">6 c€/kWh</text>
+<line x1="550" y1="222" x2="766" y2="222" stroke="#DEE2E6"/>
+<text x="658" y="264" text-anchor="middle" font-size="27" font-weight="700" fill="#2e7d32">+497 €</text>
+<text x="658" y="282" text-anchor="middle" font-size="11" fill="#868E96">im Jahr, und nicht 532 €</text>
+<text x="658" y="322" text-anchor="middle" font-size="13" font-weight="700" fill="#495057">Amortisation: 16,0 Jahre</text>
+
+<!-- Rechenband -->
+<rect x="20" y="366" width="760" height="94" rx="8" fill="#FFFFFF" stroke="#DEE2E6"/>
+<text x="40" y="392" font-size="12" font-weight="700" fill="#868E96">DIE GEWINNE ADDIEREN SICH NICHT</text>
+<text x="40" y="424" font-size="16" fill="#495057">473 €</text>
+<text x="92" y="424" font-size="16" fill="#868E96">+</text>
+<text x="114" y="424" font-size="16" fill="#495057">59 €</text>
+<text x="158" y="424" font-size="16" fill="#868E96">=</text>
+<text x="182" y="424" font-size="16" fill="#868E96" text-decoration="line-through">532 €</text>
+<line x1="242" y1="419" x2="292" y2="419" stroke="#868E96" marker-end="url(#ar)"/>
+<text x="304" y="424" font-size="16" font-weight="700" fill="#2e7d32">497 €</text>
+<rect x="372" y="406" width="84" height="24" rx="4" fill="#fff4e6" stroke="#ffc078"/>
+<text x="414" y="423" text-anchor="middle" font-size="13" font-weight="700" fill="#e8590c">− 35 €/Jahr</text>
+<text x="474" y="424" font-size="12" fill="#495057">jede gespeicherte kWh verlässt das teilbare Volumen</text>
+<text x="40" y="447" font-size="11" fill="#868E96">Für alle, die bereits teilen, bringt die Batterie 438 € statt 473 € — und 381 € bei einem Verrechnungspreis von 10 c€/kWh.</text>
+
+<!-- Warnbanner -->
+<rect x="20" y="478" width="760" height="94" rx="8" fill="#fff4e6" stroke="#ffc078"/>
+<text x="40" y="504" font-size="12" font-weight="700" fill="#e8590c">ANLAGE VOR DEM 1. JANUAR 2024 IN BETRIEB GENOMMEN</text>
+<text x="40" y="528" font-size="12" fill="#495057">Die Meldung der Batterie an den Netzbetreiber ist gesetzliche Pflicht. Die vom Formular UP10</text>
+<text x="40" y="546" font-size="12" fill="#495057">verlangte Zählerablesung kann eine Abrechnung auslösen und den Kompensationszyklus unterbrechen.</text>
+<text x="40" y="564" font-size="12" fill="#495057">ORES vermeidet die Erfassung dieser Zählerstände, RESA übermittelt sie.</text>
+<text x="760" y="564" text-anchor="end" font-size="11" font-weight="700" fill="#e8590c">CWaPE, 26. März 2026</text>
+
+<text x="400" y="600" text-anchor="middle" font-size="10" fill="#868E96">Interner Verrechnungspreis von 6 c€/kWh, Größenordnung dokumentierter belgischer Fälle. Ohne Teilnahmegebühren des Lieferanten und ohne Wirkungsgradverluste.</text>
+</svg>

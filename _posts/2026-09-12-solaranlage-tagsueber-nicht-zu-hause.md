@@ -2,6 +2,7 @@
 layout: post
 title: "Solaranlage: tagsüber niemand zu Hause"
 date: 2026-09-12 06:00:00 +0200
+last_modified_at: 2026-09-22 06:00:00 +0200
 author: "Eric von OptimCE"
 permalink: /de/aktuelles/2026/09/12/solaranlage-tagsueber-nicht-zu-hause/
 excerpt: "Bei einer wallonischen Anlage von 4 Kilowatt-Peak nach Süden fallen 85,8 % der Jahresproduktion zwischen 9 und 17 Uhr an. Genau in diesem Zeitfenster ist ein Haushalt mit zwei Einkommen nicht zu Hause. Der Reflex lautet, es brauche einen Speicher. Das ist die falsche Diagnose: Seit dem 1. Januar 2026 hat das wallonische Netz seine Schwachlastzeiten in die Tagesmitte verlegt, und das Gerät, das den Überschuss eines leeren Hauses am besten aufnimmt, steht längst bei Ihnen. Es ist nur so verdrahtet, dass es um drei Uhr nachts heizt."
@@ -270,7 +271,7 @@ Es ist kein Wunder, und wir sagen es lieber deutlich. Aber es ist ein Gewinn, de
 
 Vier falsche gute Ideen, nach Häufigkeit geordnet.
 
-**Zuerst einen Batteriespeicher kaufen.** Das ist die intuitive Antwort auf das Problem der Abwesenheit, und sie kostet in der Größenordnung von 7 000 bis 8 000 € bei einer Amortisation nahe fünfzehn Jahren — mehr als die übliche Garantie, und ohne Prämie in irgendeiner belgischen Region im Jahr 2026. Die Speicherung ist nicht absurd; sie ist nur der letzte Schritt, nicht der erste. Der gesteuerte Speicher erledigt einen guten Teil der Arbeit zu einem Bruchteil des Preises.
+**Zuerst einen Batteriespeicher kaufen.** Das ist die intuitive Antwort auf das Problem der Abwesenheit, und sie kostet in der Größenordnung von 7 000 bis 8 000 € bei einer Amortisation nahe fünfzehn Jahren — mehr als die übliche Garantie, und ohne Prämie in irgendeiner belgischen Region im Jahr 2026. Die Speicherung ist nicht absurd; sie ist nur der letzte Schritt, nicht der erste. Der gesteuerte Speicher erledigt einen guten Teil der Arbeit zu einem Bruchteil des Preises. Die Preisübersicht je installierter Kilowattstunde und die Meldepflicht, die eine Kompensation von vor 2024 unterbrechen kann, behandelt [„Hausbatterie: Preis und Alternative"](/de/aktuelles/2026/09/22/hausbatterie-preis-oder-energieteilen/).
 
 **Ohne Prüfung auf den Impact-Tarif wechseln.** Die wallonische Anreiztarifierung eröffnet ein Verhältnis von eins zu fünf zwischen dem ECO-Band und dem PIC-Band, was beachtlich ist. Aber ihre Fenster sind **nicht** die des Zweitarifs — 22 bis 1 Uhr ist im Zweitarif Schwachlast und im Impact MEDIUM — und für einen Prosumer mit Kompensation hängt das Zusammenspiel mit der Kompensation vom kommerziellen Angebot des Lieferanten ab und kann die Abrechnung unlesbar machen. Wenn Sie unter der Kompensation stehen, bleibt der überarbeitete Zweitarif die Standardwahl.
 

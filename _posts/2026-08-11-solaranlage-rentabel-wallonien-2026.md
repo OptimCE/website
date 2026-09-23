@@ -8,7 +8,7 @@ description: "Lohnt sich eine Photovoltaikanlage in Wallonien 2026 ohne Kompensa
 tags: [guide, administrative, community]
 lang: de
 ref: solar-panels-worth-it-wallonia-2026
-last_modified_at: 2026-09-16 06:00:00 +0200
+last_modified_at: 2026-09-22 06:00:00 +0200
 permalink: /de/aktuelles/2026/08/11/solaranlage-rentabel-wallonien-2026/
 faq:
   - q: "Lohnen sich Solaranlagen in Wallonien 2026 noch?"
@@ -20,7 +20,7 @@ faq:
   - q: "Wie viel ist mein Solarüberschuss wert, wenn ich ihn nicht teile?"
     a: "Sehr wenig. Laut dem Vergleich von Test-Achats vom 28. Mai 2026 reicht der Einspeisetarif in Flandern und Wallonien von 0,94 c€/kWh bei Mega Zen Fixed bis 4,90 c€/kWh bei Energy Knights und Eneco, im Mittel 3 bis 4 Cent. Bei 2.500 eingespeisten kWh macht der Abstand zwischen bestem und schlechtestem Vertrag 23 bis 122 € im Jahr aus. Keiner dieser Tarife ist in Belgien reguliert, und mehrere folgen dem Großhandelsmarkt — was dynamische Verträge genau in den Stunden, in denen Ihr Dach am meisten produziert, Null- oder sogar Negativpreisen aussetzt."
   - q: "Batterie oder Energieteilen: was lohnt sich für den Überschuss?"
-    a: "Beides konkurriert nicht, sondern wirkt an verschiedenen Stellen. Eine Batterie wandelt Überschuss in zeitversetzten Eigenverbrauch und hebt die Eigenverbrauchsquote von 30-40 % auf 70-80 %, was mehrere hundert Euro im Jahr wert ist — sie kostet aber 4.000 bis 10.000 € für 5 bis 10 kWh, Wallonien zahlt keine Speicherprämie, und ihre eigene Amortisation liegt bei 10 bis 13 Jahren. Das Energieteilen bringt weniger, kostet aber kein Kapital: Es verwertet, was nach dem Eigenverbrauch übrig bleibt, zu ausgehandelten 3 bis 14 c€/kWh statt zum Einspeisetarif. Die logische Reihenfolge lautet daher: zuerst den Verbrauch verschieben, dann teilen, und erst dann eine Batterie erwägen, wenn der Restüberschuss es noch rechtfertigt."
+    a: "Beides konkurriert nicht, sondern wirkt an verschiedenen Stellen. Eine Batterie wandelt Überschuss in zeitversetzten Eigenverbrauch und hebt die Eigenverbrauchsquote von 30-40 % auf 70-80 %, was mehrere hundert Euro im Jahr wert ist — sie kostet aber 4.250 bis 7.250 € für 5 bis 10 kWh, Wallonien zahlt keine Speicherprämie, und ihre eigene Amortisation liegt bei knapp fünfzehn Jahren. Das Energieteilen bringt weniger, kostet aber kein Kapital: Es verwertet, was nach dem Eigenverbrauch übrig bleibt, zu ausgehandelten 3 bis 14 c€/kWh statt zum Einspeisetarif. Die logische Reihenfolge lautet daher: zuerst den Verbrauch verschieben, dann teilen, und erst dann eine Batterie erwägen, wenn der Restüberschuss es noch rechtfertigt."
   - q: "Kann ich meinen Strom teilen, wenn ich nach 2024 installiert habe?"
     a: "Ja, und das ist der günstigste Fall. Eine ab dem 1. Januar 2024 in Betrieb genommene Anlage hat bereits einen Zweirichtungszähler und genießt keine Kompensation: Sie müssen also nichts aufgeben, um einem Teilungsvorhaben beizutreten. Das einzige Hindernis ist das Angebot, und es ist in Wallonien dünn — die im März 2025 veröffentlichte Bewertung der CWaPE zählte 4 Teilungsvorhaben innerhalb desselben Gebäudes und 3 innerhalb einer Energiegemeinschaft, und das Peer-to-Peer-Teilen bleibt mangels Ausführungserlass funktionslos. Offen sind zwei Wege: das Teilen innerhalb desselben Gebäudes, das nach der ORES-Tarifliste 2026 eine Ermäßigung von 80 % auf den proportionalen Term genießt, und der Beitritt zu einer bestehenden Gemeinschaft."
 ---
@@ -136,9 +136,9 @@ Es gibt nur drei mögliche Antworten, und es lohnt sich, sie nebeneinanderzustel
 |---|---|---|---|
 | Was es bewirkt | An den Lieferanten verkaufen | Verbrauch zeitlich verschieben | An andere Teilnehmer eines Teilungsvorhabens abgeben |
 | Wert je kWh | **0,94 bis 4,90 c€** | ≈ 36,94 c€ (zeitversetzter Eigenverbrauch) | **3 bis 14 c€** |
-| Investition | 0 € | **4.000 bis 10.000 €** für 5 bis 10 kWh | 0 € |
+| Investition | 0 € | **4.250 bis 7.250 €** für 5 bis 10 kWh | 0 € |
 | Wallonische Förderung | keine | **keine Speicherprämie** | keine, aber −80 % auf den proportionalen Term im selben Gebäude |
-| Eigene Amortisation | — | **10 bis 13 Jahre** | sofort |
+| Eigene Amortisation | — | **knapp fünfzehn Jahre** | sofort |
 | Überall verfügbar | ja | ja | **nein** — siehe unten |
 | In unserem Fall | **83 €/Jahr** | **+473 €/Jahr**, abzüglich Abschreibung | **142 bis 237 €/Jahr** |
 
@@ -271,7 +271,7 @@ Seit dem 17. April 2025 können Sie auch selbst ein wenig erzeugen: Ein mobiles 
 2. **62 % der Erzeugung bringen nur 13,5 % des Ertrags.** Dort und nirgends sonst entscheidet sich 2026 die Rentabilität einer wallonischen Anlage.
 3. **Der Einspeisetarif ist unreguliert und nicht steuerbar**: 0,94 bis 4,90 c€/kWh je nach Lieferant, im Mittel 3 bis 4 Cent, strukturell fallend.
 4. **Das Teilen verzwei- bis verdreifacht den Wert des Überschusses** und nimmt ein bis zwei Jahre von der Amortisation, ohne Investition. Es ist der einzige kostenlose Hebel auf die 62 %.
-5. **Eine Batterie bringt mehr, kostet aber 4.000 bis 10.000 €**, ohne wallonische Prämie, bei einer eigenen Amortisation von über zehn Jahren — in unserem Fall fast fünfzehn. Sie ergänzt das Teilen, statt mit ihm zu konkurrieren.
+5. **Eine Batterie bringt mehr, kostet aber 4.250 bis 7.250 €**, ohne wallonische Prämie, bei einer eigenen Amortisation von über zehn Jahren — in unserem Fall fast fünfzehn. Sie ergänzt das Teilen, statt mit ihm zu konkurrieren.
 6. **Die Teilnahme am Teilen bedeutet den endgültigen Verzicht auf die Kompensation.** Bei einer Anlage nach 2024 kostet das nichts. Bei einer älteren kann es rund 278 € im Jahr kosten — oder 374 € einbringen, wenn die Anlage überdimensioniert ist.
 7. **Der 31. Dezember 2030 stellt alle gleich.** An diesem Tag entfällt die Kompensation für alle, und die Frage des Überschusses wird die einzige, die zählt.
 
@@ -303,7 +303,7 @@ Sehr wenig. Laut dem Vergleich von Test-Achats vom 28. Mai 2026 reicht der Einsp
 
 ### Batterie oder Energieteilen: was lohnt sich für den Überschuss?
 
-Beides konkurriert nicht, sondern wirkt an verschiedenen Stellen. Eine Batterie wandelt Überschuss in zeitversetzten Eigenverbrauch und hebt die Eigenverbrauchsquote von 30-40 % auf **70-80 %**, was mehrere hundert Euro im Jahr wert ist — sie kostet aber **4.000 bis 10.000 €** für 5 bis 10 kWh, Wallonien zahlt keine Speicherprämie, und ihre eigene Amortisation liegt bei 10 bis 13 Jahren. Das Energieteilen bringt weniger, kostet aber kein Kapital: Es verwertet, was nach dem Eigenverbrauch übrig bleibt, zu ausgehandelten 3 bis 14 c€/kWh statt zum Einspeisetarif. Die logische Reihenfolge lautet daher: zuerst den Verbrauch verschieben, dann teilen, und erst dann eine Batterie erwägen, wenn der Restüberschuss es noch rechtfertigt.
+Beides konkurriert nicht, sondern wirkt an verschiedenen Stellen. Eine Batterie wandelt Überschuss in zeitversetzten Eigenverbrauch und hebt die Eigenverbrauchsquote von 30-40 % auf **70-80 %**, was mehrere hundert Euro im Jahr wert ist — sie kostet aber **4.250 bis 7.250 €** für 5 bis 10 kWh, Wallonien zahlt keine Speicherprämie, und ihre eigene Amortisation liegt bei knapp fünfzehn Jahren. Das Energieteilen bringt weniger, kostet aber kein Kapital: Es verwertet, was nach dem Eigenverbrauch übrig bleibt, zu ausgehandelten 3 bis 14 c€/kWh statt zum Einspeisetarif. Die logische Reihenfolge lautet daher: zuerst den Verbrauch verschieben, dann teilen, und erst dann eine Batterie erwägen, wenn der Restüberschuss es noch rechtfertigt. Die Preisübersicht je installierter Kilowattstunde und die Meldepflicht, die eine Kompensation von vor 2024 unterbrechen kann, behandelt [„Hausbatterie: Preis und Alternative"](/de/aktuelles/2026/09/22/hausbatterie-preis-oder-energieteilen/).
 
 ### Kann ich meinen Strom teilen, wenn ich nach 2024 installiert habe?
 

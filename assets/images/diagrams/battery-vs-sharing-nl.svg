@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif">
+<title id="t">Batterij of delen: wat elke euro koopt</title>
+<desc id="d">Schema in drie kolommen dat twee manieren vergelijkt om een zonne-overschot te valoriseren, op een referentie-installatie van 4 kilowattpiek die 3 800 kilowattuur per jaar opwekt waarvan 37,76 procent zelf wordt verbruikt. De linkerkolom, met als titel Batterij, toont een investering van 7 000 euro, een zelfverbruik dat stijgt van 37,76 naar 75 procent, een winst van 473 euro per jaar en een terugverdientijd van 14,8 jaar; een vermelding preciseert dat die winst netto van de gederfde injectievergoeding wordt gerekend. De middelste kolom, met als titel Energiedelen, toont een investering van nul euro, een ongewijzigd zelfverbruik, het overschot van 2 365 kilowattuur gewaardeerd aan 6 cent in plaats van 3,5 cent, een winst van 59 euro per jaar en een onmiddellijke terugverdientijd. De rechterkolom, met als titel Beide, toont de combinatie: 7 000 euro geïnvesteerd, 2 850 kilowattuur zelf verbruikt en nog slechts 950 kilowattuur over om te delen, voor een winst van 497 euro per jaar. Een doorstreepte pijl verbindt de verwachte rekenkundige som van 532 euro met het werkelijke resultaat van 497 euro, en een label wijst op de 35 euro per jaar die verdwijnen omdat elke opgeslagen kilowattuur aan het deelbare volume wordt onttrokken. Onderaan het schema herinnert een waarschuwingsbanner eraan dat bij een installatie die vóór 1 januari 2024 in dienst werd genomen, de verplichte aangifte van de batterij bij de netbeheerder de jaarlijkse compensatiecyclus kan breken, en dat de behandeling verschilt van netbeheerder tot netbeheerder.</desc>
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868E96"/></marker></defs>
+<rect width="800" height="620" fill="#FFFFFF"/>
+<text x="400" y="30" text-anchor="middle" font-size="19" font-weight="700" fill="#212529">Batterij of delen: wat elke euro koopt</text>
+<text x="400" y="50" text-anchor="middle" font-size="11" fill="#868E96">Referentie-installatie: 4 kWp, 3 800 kWh/jaar, 37,76 % zelfverbruik, vermeden prijs 36,94 c€/kWh</text>
+
+<!-- Kolom 1: Batterij -->
+<rect x="20" y="64" width="244" height="284" rx="8" fill="#F8F9FA" stroke="#DEE2E6"/>
+<text x="142" y="90" text-anchor="middle" font-size="15" font-weight="700" fill="#495057">Batterij</text>
+<line x1="34" y1="102" x2="250" y2="102" stroke="#DEE2E6"/>
+<text x="34" y="126" font-size="11" fill="#868E96">Investering</text><text x="250" y="126" text-anchor="end" font-size="13" font-weight="700" fill="#212529">7 000 €</text>
+<text x="34" y="152" font-size="11" fill="#868E96">Zelfverbruik</text><text x="250" y="152" text-anchor="end" font-size="13" font-weight="700" fill="#212529">75 %</text>
+<text x="34" y="178" font-size="11" fill="#868E96">Rest geïnjecteerd</text><text x="250" y="178" text-anchor="end" font-size="13" font-weight="700" fill="#212529">950 kWh</text>
+<text x="34" y="204" font-size="11" fill="#868E96">Gewaardeerd aan</text><text x="250" y="204" text-anchor="end" font-size="13" font-weight="700" fill="#212529">3,5 c€/kWh</text>
+<line x1="34" y1="222" x2="250" y2="222" stroke="#DEE2E6"/>
+<text x="142" y="264" text-anchor="middle" font-size="27" font-weight="700" fill="#2e7d32">+473 €</text>
+<text x="142" y="282" text-anchor="middle" font-size="11" fill="#868E96">per jaar, netto van de injectie</text>
+<text x="142" y="322" text-anchor="middle" font-size="13" font-weight="700" fill="#495057">Terugverdientijd: 14,8 jaar</text>
+
+<!-- Kolom 2: Energiedelen -->
+<rect x="278" y="64" width="244" height="284" rx="8" fill="#e8f5e9" stroke="#2e7d32"/>
+<text x="400" y="90" text-anchor="middle" font-size="15" font-weight="700" fill="#1b5e20">Energiedelen</text>
+<line x1="292" y1="102" x2="508" y2="102" stroke="#a5d6a7"/>
+<text x="292" y="126" font-size="11" fill="#5c7c5e">Investering</text><text x="508" y="126" text-anchor="end" font-size="13" font-weight="700" fill="#1b5e20">0 €</text>
+<text x="292" y="152" font-size="11" fill="#5c7c5e">Zelfverbruik</text><text x="508" y="152" text-anchor="end" font-size="13" font-weight="700" fill="#1b5e20">37,76 %</text>
+<text x="292" y="178" font-size="11" fill="#5c7c5e">Rest geïnjecteerd</text><text x="508" y="178" text-anchor="end" font-size="13" font-weight="700" fill="#1b5e20">2 365 kWh</text>
+<text x="292" y="204" font-size="11" fill="#5c7c5e">Gewaardeerd aan</text><text x="508" y="204" text-anchor="end" font-size="13" font-weight="700" fill="#1b5e20">6 c€/kWh</text>
+<line x1="292" y1="222" x2="508" y2="222" stroke="#a5d6a7"/>
+<text x="400" y="264" text-anchor="middle" font-size="27" font-weight="700" fill="#2e7d32">+59 €</text>
+<text x="400" y="282" text-anchor="middle" font-size="11" fill="#5c7c5e">per jaar, zonder kapitaal</text>
+<text x="400" y="322" text-anchor="middle" font-size="13" font-weight="700" fill="#1b5e20">Terugverdientijd: meteen</text>
+
+<!-- Kolom 3: Beide -->
+<rect x="536" y="64" width="244" height="284" rx="8" fill="#F8F9FA" stroke="#DEE2E6"/>
+<text x="658" y="90" text-anchor="middle" font-size="15" font-weight="700" fill="#495057">Beide</text>
+<line x1="550" y1="102" x2="766" y2="102" stroke="#DEE2E6"/>
+<text x="550" y="126" font-size="11" fill="#868E96">Investering</text><text x="766" y="126" text-anchor="end" font-size="13" font-weight="700" fill="#212529">7 000 €</text>
+<text x="550" y="152" font-size="11" fill="#868E96">Zelfverbruik</text><text x="766" y="152" text-anchor="end" font-size="13" font-weight="700" fill="#212529">75 %</text>
+<text x="550" y="178" font-size="11" fill="#868E96">Rest om te delen</text><text x="766" y="178" text-anchor="end" font-size="13" font-weight="700" fill="#e8590c">950 kWh</text>
+<text x="550" y="204" font-size="11" fill="#868E96">Gewaardeerd aan</text><text x="766" y="204" text-anchor="end" font-size="13" font-weight="700" fill="#212529">6 c€/kWh</text>
+<line x1="550" y1="222" x2="766" y2="222" stroke="#DEE2E6"/>
+<text x="658" y="264" text-anchor="middle" font-size="27" font-weight="700" fill="#2e7d32">+497 €</text>
+<text x="658" y="282" text-anchor="middle" font-size="11" fill="#868E96">per jaar, en geen 532 €</text>
+<text x="658" y="322" text-anchor="middle" font-size="13" font-weight="700" fill="#495057">Terugverdientijd: 16,0 jaar</text>
+
+<!-- Rekenbalk -->
+<rect x="20" y="366" width="760" height="94" rx="8" fill="#FFFFFF" stroke="#DEE2E6"/>
+<text x="40" y="392" font-size="12" font-weight="700" fill="#868E96">DE WINSTEN TELLEN NIET OP</text>
+<text x="40" y="424" font-size="16" fill="#495057">473 €</text>
+<text x="92" y="424" font-size="16" fill="#868E96">+</text>
+<text x="114" y="424" font-size="16" fill="#495057">59 €</text>
+<text x="158" y="424" font-size="16" fill="#868E96">=</text>
+<text x="182" y="424" font-size="16" fill="#868E96" text-decoration="line-through">532 €</text>
+<line x1="242" y1="419" x2="292" y2="419" stroke="#868E96" marker-end="url(#ar)"/>
+<text x="304" y="424" font-size="16" font-weight="700" fill="#2e7d32">497 €</text>
+<rect x="372" y="406" width="82" height="24" rx="4" fill="#fff4e6" stroke="#ffc078"/>
+<text x="413" y="423" text-anchor="middle" font-size="13" font-weight="700" fill="#e8590c">− 35 €/jaar</text>
+<text x="472" y="424" font-size="12" fill="#495057">elke opgeslagen kWh verlaat het deelbare volume</text>
+<text x="40" y="447" font-size="11" fill="#868E96">Voor wie al deelt, brengt de batterij 438 € op in plaats van 473 € — en 381 € bij een overdrachtsprijs van 10 c€/kWh.</text>
+
+<!-- Waarschuwingsbanner -->
+<rect x="20" y="478" width="760" height="94" rx="8" fill="#fff4e6" stroke="#ffc078"/>
+<text x="40" y="504" font-size="12" font-weight="700" fill="#e8590c">INSTALLATIE IN DIENST GENOMEN VÓÓR 1 JANUARI 2024</text>
+<text x="40" y="528" font-size="12" fill="#495057">De batterij aangeven bij de netbeheerder is een wettelijke verplichting. De meteropname die het</text>
+<text x="40" y="546" font-size="12" fill="#495057">formulier UP10 oplegt, kan een afrekening uitlokken en de jaarlijkse compensatiecyclus breken.</text>
+<text x="40" y="564" font-size="12" fill="#495057">ORES vermijdt het inboeken van die meterstanden, RESA geeft ze door.</text>
+<text x="760" y="564" text-anchor="end" font-size="11" font-weight="700" fill="#e8590c">CWaPE, 26 maart 2026</text>
+
+<text x="400" y="600" text-anchor="middle" font-size="10" fill="#868E96">Interne overdrachtsprijs van 6 c€/kWh, grootteorde van gedocumenteerde Belgische gevallen. Zonder deelnamekosten van de leverancier en zonder rendementsverliezen.</text>
+</svg>

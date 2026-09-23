@@ -2,6 +2,7 @@
 layout: post
 title: "Solar panels: nobody home during the day"
 date: 2026-09-12 06:00:00 +0200
+last_modified_at: 2026-09-22 06:00:00 +0200
 author: "Eric from OptimCE"
 permalink: /en/news/2026/09/12/solar-panels-away-during-the-day/
 excerpt: "On a Walloon 4 kilowatt-peak system facing due south, 85.8% of annual output lands between 09:00 and 17:00. That is exactly the window in which a two-income household is not at home. The reflex is to conclude that a battery is needed. That is the wrong diagnosis: since 1 January 2026 the Walloon grid has moved its off-peak hours into the middle of the day, and the appliance that absorbs an empty home's surplus best is already installed in your house. It is simply wired to heat at three in the morning."
@@ -270,7 +271,7 @@ It is no miracle, and we prefer to say so. But it is a gain that costs **no inve
 
 Four false good ideas, in order of frequency.
 
-**Buying a battery first.** It is the intuitive answer to the problem of absence, and it costs in the order of 7,000 to 8,000 € for a payback approaching fifteen years — longer than the usual warranty, and with no subsidy in any Belgian region in 2026. Storage is not absurd; it is simply the last step, not the first. The controlled tank does a good share of the work for a fraction of the price.
+**Buying a battery first.** It is the intuitive answer to the problem of absence, and it costs in the order of 7,000 to 8,000 € for a payback approaching fifteen years — longer than the usual warranty, and with no subsidy in any Belgian region in 2026. Storage is not absurd; it is simply the last step, not the first. The controlled tank does a good share of the work for a fraction of the price. The price grid per kilowatt-hour installed, and the declaration obligation that can break a pre-2024 compensation, are covered in ["Home battery: the price and the alternative"](/en/news/2026/09/22/home-battery-price-vs-energy-sharing/).
 
 **Switching to the Impact tariff without checking.** The Walloon incentive tariff opens a one-to-five ratio between the ECO band and the PIC band, which is spectacular. But its windows are **not** those of the dual-rate tariff — 22:00–01:00 is off-peak under dual-rate and MEDIUM under Impact — and for a prosumer under compensation, how it meshes with compensation depends on the supplier's commercial offer and can make the reckoning unreadable. If you are under compensation, the revised dual-rate tariff remains the default choice.
 

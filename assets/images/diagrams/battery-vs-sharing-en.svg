@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif">
+<title id="t">Battery or sharing: what each euro buys</title>
+<desc id="d">Three-column diagram comparing two ways of valuing a solar surplus, on a reference installation of 4 kilowatt-peak producing 3,800 kilowatt-hours a year of which 37.76 per cent is self-consumed. The left column, headed Battery, shows an investment of 7,000 euros, self-consumption rising from 37.76 to 75 per cent, a gain of 473 euros a year and a payback of 14.8 years; a note specifies that this gain is counted net of the injection payment given up. The middle column, headed Sharing, shows an investment of zero euros, unchanged self-consumption, the surplus of 2,365 kilowatt-hours valued at 6 cents instead of 3.5 cents, a gain of 59 euros a year and immediate payback. The right column, headed Both, shows the combination: 7,000 euros invested, 2,850 kilowatt-hours self-consumed and only 950 kilowatt-hours left to share, for a gain of 497 euros a year. A struck-through arrow links the expected arithmetic sum, 532 euros, to the real result of 497 euros, and a label flags the 35 euros a year that disappear because every stored kilowatt-hour is removed from the shareable volume. At the foot of the diagram, a warning banner recalls that for an installation commissioned before 1 January 2024, the mandatory declaration of the battery to the grid operator can break the annual compensation cycle, and that handling differs from one operator to another.</desc>
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#868E96"/></marker></defs>
+<rect width="800" height="620" fill="#FFFFFF"/>
+<text x="400" y="30" text-anchor="middle" font-size="19" font-weight="700" fill="#212529">Battery or sharing: what each euro buys</text>
+<text x="400" y="50" text-anchor="middle" font-size="11" fill="#868E96">Reference installation: 4 kWp, 3,800 kWh/yr, 37.76% self-consumed, retail price avoided 36.94 c€/kWh</text>
+
+<!-- Column 1: Battery -->
+<rect x="20" y="64" width="244" height="284" rx="8" fill="#F8F9FA" stroke="#DEE2E6"/>
+<text x="142" y="90" text-anchor="middle" font-size="15" font-weight="700" fill="#495057">Battery</text>
+<line x1="34" y1="102" x2="250" y2="102" stroke="#DEE2E6"/>
+<text x="34" y="126" font-size="11" fill="#868E96">Investment</text><text x="250" y="126" text-anchor="end" font-size="13" font-weight="700" fill="#212529">7,000 €</text>
+<text x="34" y="152" font-size="11" fill="#868E96">Self-consumption</text><text x="250" y="152" text-anchor="end" font-size="13" font-weight="700" fill="#212529">75%</text>
+<text x="34" y="178" font-size="11" fill="#868E96">Left injected</text><text x="250" y="178" text-anchor="end" font-size="13" font-weight="700" fill="#212529">950 kWh</text>
+<text x="34" y="204" font-size="11" fill="#868E96">Valued at</text><text x="250" y="204" text-anchor="end" font-size="13" font-weight="700" fill="#212529">3.5 c€/kWh</text>
+<line x1="34" y1="222" x2="250" y2="222" stroke="#DEE2E6"/>
+<text x="142" y="264" text-anchor="middle" font-size="27" font-weight="700" fill="#2e7d32">+473 €</text>
+<text x="142" y="282" text-anchor="middle" font-size="11" fill="#868E96">a year, net of injection given up</text>
+<text x="142" y="322" text-anchor="middle" font-size="13" font-weight="700" fill="#495057">Payback: 14.8 years</text>
+
+<!-- Column 2: Sharing -->
+<rect x="278" y="64" width="244" height="284" rx="8" fill="#e8f5e9" stroke="#2e7d32"/>
+<text x="400" y="90" text-anchor="middle" font-size="15" font-weight="700" fill="#1b5e20">Sharing</text>
+<line x1="292" y1="102" x2="508" y2="102" stroke="#a5d6a7"/>
+<text x="292" y="126" font-size="11" fill="#5c7c5e">Investment</text><text x="508" y="126" text-anchor="end" font-size="13" font-weight="700" fill="#1b5e20">0 €</text>
+<text x="292" y="152" font-size="11" fill="#5c7c5e">Self-consumption</text><text x="508" y="152" text-anchor="end" font-size="13" font-weight="700" fill="#1b5e20">37.76%</text>
+<text x="292" y="178" font-size="11" fill="#5c7c5e">Left injected</text><text x="508" y="178" text-anchor="end" font-size="13" font-weight="700" fill="#1b5e20">2,365 kWh</text>
+<text x="292" y="204" font-size="11" fill="#5c7c5e">Valued at</text><text x="508" y="204" text-anchor="end" font-size="13" font-weight="700" fill="#1b5e20">6 c€/kWh</text>
+<line x1="292" y1="222" x2="508" y2="222" stroke="#a5d6a7"/>
+<text x="400" y="264" text-anchor="middle" font-size="27" font-weight="700" fill="#2e7d32">+59 €</text>
+<text x="400" y="282" text-anchor="middle" font-size="11" fill="#5c7c5e">a year, no capital committed</text>
+<text x="400" y="322" text-anchor="middle" font-size="13" font-weight="700" fill="#1b5e20">Payback: immediate</text>
+
+<!-- Column 3: Both -->
+<rect x="536" y="64" width="244" height="284" rx="8" fill="#F8F9FA" stroke="#DEE2E6"/>
+<text x="658" y="90" text-anchor="middle" font-size="15" font-weight="700" fill="#495057">Both</text>
+<line x1="550" y1="102" x2="766" y2="102" stroke="#DEE2E6"/>
+<text x="550" y="126" font-size="11" fill="#868E96">Investment</text><text x="766" y="126" text-anchor="end" font-size="13" font-weight="700" fill="#212529">7,000 €</text>
+<text x="550" y="152" font-size="11" fill="#868E96">Self-consumption</text><text x="766" y="152" text-anchor="end" font-size="13" font-weight="700" fill="#212529">75%</text>
+<text x="550" y="178" font-size="11" fill="#868E96">Left to share</text><text x="766" y="178" text-anchor="end" font-size="13" font-weight="700" fill="#e8590c">950 kWh</text>
+<text x="550" y="204" font-size="11" fill="#868E96">Valued at</text><text x="766" y="204" text-anchor="end" font-size="13" font-weight="700" fill="#212529">6 c€/kWh</text>
+<line x1="550" y1="222" x2="766" y2="222" stroke="#DEE2E6"/>
+<text x="658" y="264" text-anchor="middle" font-size="27" font-weight="700" fill="#2e7d32">+497 €</text>
+<text x="658" y="282" text-anchor="middle" font-size="11" fill="#868E96">a year, and not 532 €</text>
+<text x="658" y="322" text-anchor="middle" font-size="13" font-weight="700" fill="#495057">Payback: 16.0 years</text>
+
+<!-- Arithmetic band -->
+<rect x="20" y="366" width="760" height="94" rx="8" fill="#FFFFFF" stroke="#DEE2E6"/>
+<text x="40" y="392" font-size="12" font-weight="700" fill="#868E96">THE GAINS DO NOT ADD UP</text>
+<text x="40" y="424" font-size="16" fill="#495057">473 €</text>
+<text x="92" y="424" font-size="16" fill="#868E96">+</text>
+<text x="114" y="424" font-size="16" fill="#495057">59 €</text>
+<text x="158" y="424" font-size="16" fill="#868E96">=</text>
+<text x="182" y="424" font-size="16" fill="#868E96" text-decoration="line-through">532 €</text>
+<line x1="242" y1="419" x2="292" y2="419" stroke="#868E96" marker-end="url(#ar)"/>
+<text x="304" y="424" font-size="16" font-weight="700" fill="#2e7d32">497 €</text>
+<rect x="372" y="406" width="76" height="24" rx="4" fill="#fff4e6" stroke="#ffc078"/>
+<text x="410" y="423" text-anchor="middle" font-size="13" font-weight="700" fill="#e8590c">− 35 €/yr</text>
+<text x="466" y="424" font-size="12" fill="#495057">every stored kilowatt-hour leaves the shareable volume</text>
+<text x="40" y="447" font-size="11" fill="#868E96">For anyone already sharing, the battery returns 438 € rather than 473 € — and 381 € if the transfer price is 10 c€/kWh.</text>
+
+<!-- Warning banner -->
+<rect x="20" y="478" width="760" height="94" rx="8" fill="#fff4e6" stroke="#ffc078"/>
+<text x="40" y="504" font-size="12" font-weight="700" fill="#e8590c">INSTALLATION COMMISSIONED BEFORE 1 JANUARY 2024</text>
+<text x="40" y="528" font-size="12" fill="#495057">Declaring the battery to the grid operator is a legal obligation. The meter reading required by the</text>
+<text x="40" y="546" font-size="12" fill="#495057">UP10 form can trigger a settlement invoice and break the annual compensation cycle.</text>
+<text x="40" y="564" font-size="12" fill="#495057">ORES avoids encoding those readings, RESA passes them on.</text>
+<text x="760" y="564" text-anchor="end" font-size="11" font-weight="700" fill="#e8590c">CWaPE, 26 March 2026</text>
+
+<text x="400" y="600" text-anchor="middle" font-size="10" fill="#868E96">Internal transfer price of 6 c€/kWh, the order of magnitude of documented Belgian cases. Excluding supplier participation fees and efficiency losses.</text>
+</svg>

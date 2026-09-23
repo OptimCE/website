@@ -8,7 +8,7 @@ description: "Without compensation, is a Walloon solar installation still profit
 tags: [guide, administrative, community]
 lang: en
 ref: solar-panels-worth-it-wallonia-2026
-last_modified_at: 2026-09-16 06:00:00 +0200
+last_modified_at: 2026-09-22 06:00:00 +0200
 permalink: /en/news/2026/08/11/solar-panels-worth-it-wallonia-2026/
 faq:
   - q: "Are solar panels still profitable in Wallonia in 2026?"
@@ -20,7 +20,7 @@ faq:
   - q: "How much is my solar surplus worth if I do not share it?"
     a: "Very little. According to the Test-Achats comparison of 28 May 2026, the injection tariff in Flanders and Wallonia ranges from 0.94 c€/kWh at Mega Zen Fixed to 4.90 c€/kWh at Energy Knights and Eneco, averaging 3 to 4 cents. On 2,500 kWh injected, the gap between the best and worst contract is worth €23 to €122 a year. None of these tariffs is regulated in Belgium, and several track the wholesale market — which exposes dynamic contracts to zero or even negative prices precisely in the hours when your roof produces most."
   - q: "Battery or energy sharing: which one for your surplus?"
-    a: "They are not competitors; they act in different places. A battery converts surplus into deferred self-consumption and lifts the self-consumption rate from 30-40% to 70-80%, worth several hundred euros a year — but it costs €4,000 to €10,000 for 5 to 10 kWh, Wallonia pays no storage premium, and its own payback runs 10 to 13 years. Energy sharing yields less but costs no capital: it monetises what remains after self-consumption at a negotiated 3 to 14 c€/kWh instead of the injection tariff. The logical order is therefore to shift your usage first, share second, and only then consider a battery if the residual surplus still justifies one."
+    a: "They are not competitors; they act in different places. A battery converts surplus into deferred self-consumption and lifts the self-consumption rate from 30-40% to 70-80%, worth several hundred euros a year — but it costs €4,250 to €7,250 for 5 to 10 kWh, Wallonia pays no storage premium, and its own payback runs close to fifteen years. Energy sharing yields less but costs no capital: it monetises what remains after self-consumption at a negotiated 3 to 14 c€/kWh instead of the injection tariff. The logical order is therefore to shift your usage first, share second, and only then consider a battery if the residual surplus still justifies one."
   - q: "Can I share my electricity if I installed my panels after 2024?"
     a: "Yes, and this is the most favourable case. A system commissioned from 1 January 2024 already has a dual-flow meter and enjoys no compensation, so you have nothing to give up to join a sharing operation. The only obstacle is supply, and it is thin in Wallonia — the CWaPE evaluation relayed in March 2025 counted 4 sharing operations within a single building and 3 within an energy community, and peer-to-peer sharing remains inoperative for lack of an implementing decree. The two open routes are sharing within a single building, which enjoys an 80% reduction on the proportional term under the ORES 2026 schedule, and joining an existing community."
 ---
@@ -136,9 +136,9 @@ There are only three possible answers, and it is worth setting them side by side
 |---|---|---|---|
 | What it does | Sell to the supplier | Shift consumption in time | Transfer to other participants in a sharing operation |
 | Value per kWh | **0.94 to 4.90 c€** | ≈ 36.94 c€ (deferred self-consumption) | **3 to 14 c€** |
-| Investment | €0 | **€4,000 to €10,000** for 5 to 10 kWh |€0 |
+| Investment | €0 | **€4,250 to €7,250** for 5 to 10 kWh |€0 |
 | Walloon support | none | **no storage premium** | none, but −80% on the proportional term within a building |
-| Own payback | — | **10 to 13 years** | immediate |
+| Own payback | — | **close to fifteen years** | immediate |
 | Available everywhere | yes | yes | **no** — see below |
 | On our case | **€83/year** | **+€473/year**, less amortisation | **€142 to €237/year** |
 
@@ -271,7 +271,7 @@ Since 17 April 2025 you can also generate a little yourself: a portable photovol
 2. **62% of production earns only 13.5% of the revenue.** That, and nothing else, is where the profitability of a Walloon installation is decided in 2026.
 3. **The injection tariff is unregulated and beyond your control**: from 0.94 to 4.90 c€/kWh depending on the supplier, 3 to 4 cents on average, and structurally trending down.
 4. **Sharing multiplies the value of the surplus by two to three** and takes one to two years off the payback, without investment. It is the only free lever that acts on the 62%.
-5. **A battery pays more but costs €4,000 to €10,000**, with no Walloon premium, for a payback of its own beyond ten years — close to fifteen on our case. It complements sharing rather than competing with it.
+5. **A battery pays more but costs €4,250 to €7,250**, with no Walloon premium, for a payback of its own beyond ten years — close to fifteen on our case. It complements sharing rather than competing with it.
 6. **Taking part in sharing means definitively giving up compensation.** For a post-2024 system that costs nothing. For an earlier one it can cost about €278 a year — or earn €374 if the system is oversized.
 7. **31 December 2030 puts everyone in the same position.** On that date compensation disappears for all, and the surplus question becomes the only one that counts.
 
@@ -303,7 +303,7 @@ Very little. According to the Test-Achats comparison of 28 May 2026, the injecti
 
 ### Battery or energy sharing: which one for your surplus?
 
-They are not competitors; they act in different places. A battery converts surplus into deferred self-consumption and lifts the self-consumption rate from 30-40% to **70-80%**, worth several hundred euros a year — but it costs **€4,000 to €10,000** for 5 to 10 kWh, Wallonia pays no storage premium, and its own payback runs 10 to 13 years. Energy sharing yields less but costs no capital: it monetises what remains after self-consumption at a negotiated 3 to 14 c€/kWh instead of the injection tariff. The logical order is therefore to shift your usage first, share second, and only then consider a battery if the residual surplus still justifies one.
+They are not competitors; they act in different places. A battery converts surplus into deferred self-consumption and lifts the self-consumption rate from 30-40% to **70-80%**, worth several hundred euros a year — but it costs **€4,250 to €7,250** for 5 to 10 kWh, Wallonia pays no storage premium, and its own payback runs close to fifteen years. Energy sharing yields less but costs no capital: it monetises what remains after self-consumption at a negotiated 3 to 14 c€/kWh instead of the injection tariff. The logical order is therefore to shift your usage first, share second, and only then consider a battery if the residual surplus still justifies one. The price grid per kilowatt-hour installed, and the declaration obligation that can break a pre-2024 compensation, are covered in ["Home battery: the price and the alternative"](/en/news/2026/09/22/home-battery-price-vs-energy-sharing/).
 
 ### Can I share my electricity if I installed my panels after 2024?
 
