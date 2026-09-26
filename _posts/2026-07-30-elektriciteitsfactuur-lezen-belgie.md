@@ -10,7 +10,7 @@ tags: [guide, administrative, community]
 lang: nl
 ref: read-electricity-bill-belgium
 pillar: facture-electricite
-permalink: /nl/nieuws/2026/07/30/elektriciteitsfactuur-lezen-belgie/
+permalink: /nl/gidsen/elektriciteitsfactuur-lezen-belgie/
 faq:
   - q: "Welke vijf rubrieken zijn verplicht op een Belgische energiefactuur?"
     a: "Het koninklijk besluit van 9 december 2021, van kracht sinds 1 januari 2022, legt vijf rubrieken op aan elke factuur die aan een huishoudelijke afnemer wordt gericht: A “essentiële contractinformatie”, B “hoeveel, wanneer en hoe moet ik betalen”, C “ik heb een vraag”, D “contracten vergelijken en veranderen” en E “het energieverbruik beheren”. Die rubrieken zijn identiek bij alle leveranciers die in België actief zijn, omdat ze artikel 18 en bijlage I van de Europese richtlijn 2019/944 omzetten. Een factuur zonder die rubrieken is niet conform."
@@ -30,7 +30,7 @@ Tel de documenten die uw elektriciteitsleverancier u in de loop van een jaar bez
 
 Dat is het eerste wat u moet weten om een Belgische factuur te lezen, en het verklaart een groot deel van de onaangename verrassingen op het einde van het jaar. Het tweede: sinds **1 januari 2022** is uw factuur geen vrij document meer. Een koninklijk besluit legt alle in België actieve leveranciers **vijf benoemde rubrieken op, over twee bladzijden**. Of u nu bij Engie, Luminus, Mega, TotalEnergies of een coöperatieve leverancier zit, het skelet is hetzelfde. Het één keer leren lezen volstaat voor een leven lang.
 
-Dit artikel legt niet opnieuw uit *waarom* uw factuur hoog is — dat deden we in euro in [“Elektriciteitsfactuur: waarom ze hoog blijft”](/nl/nieuws/2026/07/25/waarom-elektriciteitsfactuur-hoog-blijft-belgie/) — en evenmin *hoe u ze verlaagt*, becijferd in [“Uw elektriciteitsfactuur verlagen: Wallonië 2026”](/nl/nieuws/2026/07/28/elektriciteitsfactuur-verlagen-wallonie-2026/). Het legt uit **hoe u het document leest**: welke regels u in welke volgorde nakijkt, waarvoor elke regel betaalt, wie ze werkelijk int, en tot wie u zich richt wanneer een bedrag verkeerd lijkt.
+Dit artikel legt niet opnieuw uit *waarom* uw factuur hoog is — dat deden we in euro in [“Elektriciteitsfactuur: waarom ze hoog blijft”](/nl/gidsen/waarom-elektriciteitsfactuur-hoog-blijft-belgie/) — en evenmin *hoe u ze verlaagt*, becijferd in [“Uw elektriciteitsfactuur verlagen: Wallonië 2026”](/nl/gidsen/elektriciteitsfactuur-verlagen-wallonie/). Het legt uit **hoe u het document leest**: welke regels u in welke volgorde nakijkt, waarvoor elke regel betaalt, wie ze werkelijk int, en tot wie u zich richt wanneer een bedrag verkeerd lijkt.
 
 <img src="/assets/images/diagrams/bill-anatomy-nl.svg"
      alt="Schema van een Belgische elektriciteitsfactuur: de vijf rubrieken die het koninklijk besluit van 9 december 2021 oplegt, met aanduidingen voor de EAN-code, de begin- en eindmeterstanden en de berekeningsbijlage."
@@ -72,7 +72,7 @@ Artikel 14 legt voor huishoudelijke afnemers vijf benoemde rubrieken op:
 
 De uitgesproken doelstelling was een voorstelling op **twee bladzijden**: de informatie is vereenvoudigd en op slechts twee bladzijden gepresenteerd ([UVCW](https://www.uvcw.be/energie/actus/art-7031)). Het detail van de berekening verhuist naar een bijlage — precies het document dat de meesten nooit bekijken, en precies het document dat de regels bevat.
 
-Daaruit volgen twee gewoonten. Ten eerste: **rubriek A bevat de einddatum van uw contract.** Dat is de meest rendabele informatie van de hele factuur, want ze zegt u wanneer u moet vergelijken. Ten tweede: ontbreken die rubrieken, dan is de factuur niet conform — en daarop kunt u zich beroepen. **Rubriek E** toont dan weer de energiemix van het product zonder één woord over wat die schraagt: wat die vermelding werkelijk bewijst, wordt ontleed in [Groene stroom in België: echt groen?](/nl/nieuws/2026/08/22/groene-stroom-belgie-echt-groen/).
+Daaruit volgen twee gewoonten. Ten eerste: **rubriek A bevat de einddatum van uw contract.** Dat is de meest rendabele informatie van de hele factuur, want ze zegt u wanneer u moet vergelijken. Ten tweede: ontbreken die rubrieken, dan is de factuur niet conform — en daarop kunt u zich beroepen. **Rubriek E** toont dan weer de energiemix van het product zonder één woord over wat die schraagt: wat die vermelding werkelijk bewijst, wordt ontleed in [Groene stroom in België: echt groen?](/nl/gidsen/groene-stroom-belgie-echt-groen/).
 
 ## De hoofding: vier regels na te kijken vóór u naar het bedrag kijkt
 
@@ -112,7 +112,7 @@ Twee finesses die het lezen regel per regel blootlegt en die gemiddelden verhull
 
 **De btw treft niet alles.** Ze geldt tegen 6 % op het merendeel, maar de CREG wijst op drie vrijstellingen: de Waalse aansluitingsvergoeding, de bijdrage aan het Vlaamse energiefonds en de toeslag voor beschermde afnemers bij gas in Wallonië ([CREG](https://www.creg.be/fr/consommateurs/le-marche-de-lenergie/comment-est-compose-le-prix-de-lenergie)). Herrekent u uw factuur en klopt het btw-totaal niet, dan ligt het daar vaak aan.
 
-**De percentages verschillen van bron tot bron, en dat is geen tegenspraak.** ORES illustreert een elektriciteitsfactuur van 1 200 € met 44 % energie (528 €), 8 % transmissie (90 €), 28 % distributie (339 €) en 20 % belastingen en btw (243 €). Het dashboard van de CREG van juni 2026 geeft 38,5 % energie, 29,7 % netkosten, 26,1 % belastingen en 5,7 % btw. Beide kloppen: ze slaan noch op hetzelfde verbruiksprofiel, noch op hetzelfde gewest, noch op dezelfde datum, en de ene zondert de btw af die de andere bij de belastingen voegt. **Dat verschil kunnen lezen hoort bij het lezen van een factuur** — wantrouw elke verdeling die zonder profiel, gewest en datum wordt geciteerd. De economische analyse van die blokken, in euro en gewest per gewest, ontwikkelen we in [“Elektriciteitsfactuur: waarom ze hoog blijft”](/nl/nieuws/2026/07/25/waarom-elektriciteitsfactuur-hoog-blijft-belgie/).
+**De percentages verschillen van bron tot bron, en dat is geen tegenspraak.** ORES illustreert een elektriciteitsfactuur van 1 200 € met 44 % energie (528 €), 8 % transmissie (90 €), 28 % distributie (339 €) en 20 % belastingen en btw (243 €). Het dashboard van de CREG van juni 2026 geeft 38,5 % energie, 29,7 % netkosten, 26,1 % belastingen en 5,7 % btw. Beide kloppen: ze slaan noch op hetzelfde verbruiksprofiel, noch op hetzelfde gewest, noch op dezelfde datum, en de ene zondert de btw af die de andere bij de belastingen voegt. **Dat verschil kunnen lezen hoort bij het lezen van een factuur** — wantrouw elke verdeling die zonder profiel, gewest en datum wordt geciteerd. De economische analyse van die blokken, in euro en gewest per gewest, ontwikkelen we in [“Elektriciteitsfactuur: waarom ze hoog blijft”](/nl/gidsen/waarom-elektriciteitsfactuur-hoog-blijft-belgie/).
 
 Om de fiscale regels te situeren: de accijns op elektriciteit bedraagt 0,05033 €/kWh en de energiebijdrage 0,0002 €/kWh (Ecoconso) — die laatste verdwijnt op 1 augustus 2026.
 
@@ -144,7 +144,7 @@ Op **17 juni 2026 keurde de Kamercommissie Energie een reeks maatregelen goed** 
 
 Een eerlijkheidsnuance, in het register dat we op deze blog aanhouden: het gaat op dit ogenblik om een **goedkeuring in commissie**, en de toepassingsdata zijn gespreid en aangekondigd, niet allemaal van kracht. We geven hier weer wat in juni 2026 werd gecommuniceerd; voor een afdwingbaar bedrag of een afdwingbare verplichting houdt u zich aan uw tariefkaart en aan de teksten die in het Belgisch Staatsblad zijn gepubliceerd.
 
-Tot slot twee spookregels die u moet herkennen: de **federale bijdrage** bestaat sinds eind 2021 niet meer maar duikt nog op in tal van modellen en simulatoren, en de **energiebijdrage** verdwijnt op 1 augustus 2026. Verschijnt een van beide op een latere factuur, stel dan de vraag. De accijnshervorming behandelen we in ons artikel over [het niveau van de factuur](/nl/nieuws/2026/07/25/waarom-elektriciteitsfactuur-hoog-blijft-belgie/).
+Tot slot twee spookregels die u moet herkennen: de **federale bijdrage** bestaat sinds eind 2021 niet meer maar duikt nog op in tal van modellen en simulatoren, en de **energiebijdrage** verdwijnt op 1 augustus 2026. Verschijnt een van beide op een latere factuur, stel dan de vraag. De accijnshervorming behandelen we in ons artikel over [het niveau van de factuur](/nl/gidsen/waarom-elektriciteitsfactuur-hoog-blijft-belgie/).
 
 ## Betwist u een regel? De juiste instantie hangt af van de regel
 
@@ -174,7 +174,7 @@ Neemt u deel aan een energiegemeenschap of aan energiedelen tussen buren, dan ve
 
 **U ontvangt twee documenten, geen één.** Uw leverancier blijft u de residuele energie factureren, dat wil zeggen wat u boven op de gedeelde kWh hebt verbruikt, plus **alle netkosten en belastingen**. De vertegenwoordiger van het energiedelen factureert u de gedeelde kWh afzonderlijk. Op de factuur van uw leverancier leest het effect van het delen zich dus niet als een kortingsregel, maar als een **lager kWh-volume** op de energieregel, terwijl de overige regels ongewijzigd blijven.
 
-Toch één regel om in het oog te houden: niets belet een leverancier kosten aan te rekenen voor uw deelname aan het delen. Het volledige mechanisme, de verplichte vermeldingen op een deelfactuur en de rolverdeling tussen leverancier, netbeheerder en vertegenwoordiger komen aan bod in [“Gedeelde elektriciteit factureren in België”](/nl/nieuws/2026/07/23/gedeelde-elektriciteit-factureren-belgie/), en de prijszetting van de gedeelde kWh in [“Interne overdrachtsprijs in een energiegemeenschap”](/nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/).
+Toch één regel om in het oog te houden: niets belet een leverancier kosten aan te rekenen voor uw deelname aan het delen. Het volledige mechanisme, de verplichte vermeldingen op een deelfactuur en de rolverdeling tussen leverancier, netbeheerder en vertegenwoordiger komen aan bod in [“Gedeelde elektriciteit factureren in België”](/nl/gidsen/gedeelde-elektriciteit-factureren-belgie/), en de prijszetting van de gedeelde kWh in [“Interne overdrachtsprijs in een energiegemeenschap”](/nl/gidsen/prijs-elektriciteit-energiegemeenschap/).
 
 ## Wat u moet onthouden
 
@@ -190,7 +190,7 @@ Een Belgische elektriciteitsfactuur leest u in deze volgorde, en de volgorde tel
 
 Een onleesbare factuur is geen regelgevend noodlot: sinds 2022 legt de wet een structuur op, en sinds juni 2026 stap voor stap meer prijstransparantie. Wat u zelf blijft doen, is weten waar u moet kijken.
 
-En brengt uw lectuur u ertoe op de regel “energie” te willen wegen in plaats van ze te ondergaan, dan is energiedelen een van de weinige opties die geen werken, geen panelen en geen leverancierswissel vergt: [“Aansluiten bij een energiegemeenschap in Wallonië”](/nl/nieuws/2026/05/11/energiegemeenschap-aansluiten-wallonie/) zet de concrete stappen uiteen.
+En brengt uw lectuur u ertoe op de regel “energie” te willen wegen in plaats van ze te ondergaan, dan is energiedelen een van de weinige opties die geen werken, geen panelen en geen leverancierswissel vergt: [“Aansluiten bij een energiegemeenschap in Wallonië”](/nl/gidsen/energiegemeenschap-aansluiten-wallonie/) zet de concrete stappen uiteen.
 
 > ### Beheer uw energiedelen met OptimCE
 >

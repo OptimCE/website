@@ -9,12 +9,13 @@ tags: [community, administrative, guide]
 lang: fr
 ref: join-energy-community-wallonia
 pillar: communautes-energie
+permalink: /guides/rejoindre-communaute-energie-wallonie/
 last_modified_at: 2026-09-16 06:00:00 +0200
 ---
 
 En Wallonie, les communautés d'énergie ne sont plus une expérimentation marginale : des centaines d'opérations de partage sont actives ou en cours de notification. Le cadre légal est stabilisé, les gestionnaires de réseau (ORES, RESA, AIEG) sont rodés, et la majorité des compteurs sont déjà communicants. Reste un obstacle bien concret pour la plupart des citoyens, PME et autorités locales : **comment trouver une communauté qui accepte de nouveaux membres**, et **quoi vérifier avant de signer**.
 
-Ce guide est conçu pour ce public. Pas pour les porteurs de projet qui veulent créer une communauté — pour cela, consultez notre [guide de création étape par étape](/actualites/2026/05/11/creer-communaute-energie-wallonie/) — ni pour ceux qui découvrent encore le concept — voyez d'abord [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/actualites/2026/05/11/communautes-energie-belgique/). Il s'adresse à toute personne qui souhaite **rejoindre une opération existante** et veut savoir comment s'y prendre.
+Ce guide est conçu pour ce public. Pas pour les porteurs de projet qui veulent créer une communauté — pour cela, consultez notre [guide de création étape par étape](/guides/creer-communaute-energie-wallonie/) — ni pour ceux qui découvrent encore le concept — voyez d'abord [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/guides/communautes-energie-belgique/). Il s'adresse à toute personne qui souhaite **rejoindre une opération existante** et veut savoir comment s'y prendre.
 
 À la fin de cet article, vous saurez **qui peut adhérer**, **où chercher une opération ouverte**, **quelles démarches enchaîner** entre le premier contact et le premier kilowattheure partagé, et **quels points vérifier** dans la convention avant d'engager votre signature.
 
@@ -49,7 +50,7 @@ Le cadre wallon, fixé par le décret du 5 mai 2022 et précisé par la [CWaPE](
 
 Tout particulier peut adhérer, qu'il soit propriétaire ou locataire. Le partage suit l'**EAN du point de fourniture**, pas le titre de propriété : votre statut n'entre pas en compte tant que le compteur est à votre nom. Si vous êtes locataire et que la convention engage au-delà de votre bail, prévenez votre propriétaire — c'est de la bonne pratique, pas une obligation légale.
 
-Le locataire a toutefois ses contraintes propres, à commencer par un délai d'adhésion presque égal à son préavis. Elles sont détaillées dans [« Locataire : le guide du solaire sans toit »](/actualites/2026/09/16/guide-solaire-locataire-sans-toit/).
+Le locataire a toutefois ses contraintes propres, à commencer par un délai d'adhésion presque égal à son préavis. Elles sont détaillées dans [« Locataire : le guide du solaire sans toit »](/guides/guide-solaire-locataire-sans-toit/).
 
 ### PME et indépendants
 
@@ -65,7 +66,7 @@ Avant d'adhérer, trois conditions techniques doivent être remplies sur votre p
 
 - **Compteur communicant** : obligatoire. Si vous n'en avez pas encore, le GRD (ORES, RESA ou AIEG) le pose **gratuitement**, généralement dans les 60 jours. Voir le [guide partage d'énergie de l'AIEG](https://www.aieg.be/le-partage-denergie) pour les détails techniques côté gestionnaire.
 - **EAN identifiable** : c'est votre numéro de point de fourniture, 18 chiffres commençant par `541449...`. Il figure sur chaque facture d'électricité, dans la rubrique « données techniques » ou « point de fourniture ».
-- **Périmètre géographique** : requis pour une **CER** (vous devez être dans le périmètre de proximité défini avec les producteurs), non requis pour une **CEC**. Pour le rappel CER vs CEC, voyez le [tableau comparatif de notre article-mère](/actualites/2026/05/11/communautes-energie-belgique/).
+- **Périmètre géographique** : requis pour une **CER** (vous devez être dans le périmètre de proximité défini avec les producteurs), non requis pour une **CEC**. Pour le rappel CER vs CEC, voyez le [tableau comparatif de notre article-mère](/guides/communautes-energie-belgique/).
 
 ## Où trouver une communauté d'énergie en Wallonie ?
 
@@ -130,7 +131,7 @@ Pour retrouver votre EAN, regardez la rubrique « point de fourniture » ou « d
 
 La **convention de partage** est le contrat interne qui lie tous les membres : elle fixe le prix interne, la clé de répartition, la gouvernance, les conditions d'entrée et de sortie et le traitement des litiges. À ce stade, vous ne la *rédigez* pas — vous **adhérez à un texte existant**. Lisez-la attentivement et demandez à la communauté d'expliquer chaque clause qui vous semble floue.
 
-Pour la description complète du contenu d'une convention, voyez la [section consacrée dans notre guide de création](/actualites/2026/05/11/creer-communaute-energie-wallonie/) ; nous n'en répétons pas ici le détail.
+Pour la description complète du contenu d'une convention, voyez la [section consacrée dans notre guide de création](/guides/creer-communaute-energie-wallonie/) ; nous n'en répétons pas ici le détail.
 
 ### Étape 4 — Formalités d'adhésion à la personne morale
 
@@ -158,11 +159,11 @@ Adhérer engage votre signature et, dans certains cas, votre patrimoine (parts d
 
 ### Type de communauté — CER ou CEC ?
 
-Les implications diffèrent. **CER** : sources renouvelables uniquement, proximité géographique requise, possibilité de partage de chaleur. **CEC** : toutes sources, aucune contrainte géographique, électricité uniquement. Le rappel détaillé est dans le [tableau comparatif de l'article-mère](/actualites/2026/05/11/communautes-energie-belgique/).
+Les implications diffèrent. **CER** : sources renouvelables uniquement, proximité géographique requise, possibilité de partage de chaleur. **CEC** : toutes sources, aucune contrainte géographique, électricité uniquement. Le rappel détaillé est dans le [tableau comparatif de l'article-mère](/guides/communautes-energie-belgique/).
 
 ### Clé de répartition — statique ou dynamique ?
 
-Une clé **statique** attribue à chaque membre un pourcentage fixe du partage (simple, prévisible). Une clé **dynamique** répartit au prorata de la consommation réelle au pas de 15 minutes (plus juste, mais variable d'un mois à l'autre). Demandez **comment la clé est révisée** : annuellement, à chaque assemblée générale, à chaque arrivée d'un nouveau membre ? Pour le détail des trois clés standards validées par la CWaPE et la comparaison avec Bruxelles et la Flandre, voyez notre guide [« Clé de répartition en Belgique : les 3 régions »](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/).
+Une clé **statique** attribue à chaque membre un pourcentage fixe du partage (simple, prévisible). Une clé **dynamique** répartit au prorata de la consommation réelle au pas de 15 minutes (plus juste, mais variable d'un mois à l'autre). Demandez **comment la clé est révisée** : annuellement, à chaque assemblée générale, à chaque arrivée d'un nouveau membre ? Pour le détail des trois clés standards validées par la CWaPE et la comparaison avec Bruxelles et la Flandre, voyez notre guide [« Clé de répartition en Belgique : les 3 régions »](/guides/cle-repartition-communaute-energie-belgique/).
 
 ### Prix interne — comment est-il négocié ?
 
@@ -236,11 +237,11 @@ Trois canaux pour passer à l'action :
 
 ## Vous préférez créer plutôt que rejoindre ?
 
-> **[Créer une communauté d'énergie en Wallonie](/actualites/2026/05/11/creer-communaute-energie-wallonie/)**
+> **[Créer une communauté d'énergie en Wallonie](/guides/creer-communaute-energie-wallonie/)**
 >
 > Choix entre CER et CEC, cadrage du projet, notification à la CWaPE, accusé de réception et démarrage du partage avec ORES, RESA ou AIEG.
 
-Pour le contexte général — qu'est-ce qu'une communauté d'énergie, quelles sont les bases européennes — voyez l'article [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/actualites/2026/05/11/communautes-energie-belgique/).
+Pour le contexte général — qu'est-ce qu'une communauté d'énergie, quelles sont les bases européennes — voyez l'article [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/guides/communautes-energie-belgique/).
 
 ## Sources
 

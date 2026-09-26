@@ -9,6 +9,7 @@ tags: [guide, administrative, community]
 lang: fr
 ref: solar-panels-worth-it-wallonia-2026
 pillar: solaire-surplus
+permalink: /guides/panneaux-solaires-rentables-wallonie/
 last_modified_at: 2026-09-22 06:00:00 +0200
 faq:
   - q: "Les panneaux solaires sont-ils encore rentables en Wallonie en 2026 ?"
@@ -20,7 +21,7 @@ faq:
   - q: "Combien vaut mon surplus photovoltaïque si je ne le partage pas ?"
     a: "Très peu. Selon la comparaison de Test-Achats du 28 mai 2026, le tarif d'injection en Flandre et en Wallonie s'échelonne de 0,94 c€/kWh chez Mega Zen Fixed à 4,90 c€/kWh chez Energy Knights et Eneco, pour une moyenne de 3 à 4 centimes. Sur 2 500 kWh injectés, l'écart entre le meilleur et le moins bon contrat représente 23 à 122 € par an. Aucun de ces tarifs n'est régulé en Belgique, et plusieurs sont indexés sur le marché de gros — ce qui expose les contrats dynamiques à des prix nuls, voire négatifs, précisément aux heures où votre toiture produit le plus."
   - q: "Batterie ou partage d'énergie : que choisir pour valoriser son surplus ?"
-    a: "Les deux ne sont pas concurrents, ils agissent à des endroits différents. Une batterie transforme du surplus en autoconsommation différée et fait passer le taux d'autoconsommation de 30-40 % à 70-80 %, ce qui vaut plusieurs centaines d'euros par an — mais elle coûte 4 250 à 7 250 € pour 5 à 10 kWh, la Wallonie ne verse aucune prime au stockage, et son propre retour sur investissement approche quinze ans sur notre cas de référence. Le partage d'énergie rapporte moins, mais ne coûte rien en capital : il valorise ce qui reste après autoconsommation, à un prix négocié de 3 à 14 c€/kWh au lieu du tarif d'injection. L'ordre logique est donc d'abord de décaler ses usages, ensuite de partager, et enfin d'envisager une batterie si le surplus résiduel le justifie encore. Le détail appareil par appareil — ballon d'eau chaude, recharge de la voiture, batterie — et le classement en euros investis par kilowattheure absorbé figurent dans [« Surplus solaire : les 5 options comparées »](/actualites/2026/08/18/que-faire-surplus-solaire-belgique/). Le prix d'une batterie au kilowattheure installé et l'arithmétique du cumul batterie-partage sont détaillés dans [« Batterie domestique : le prix et l'alternative »](/actualites/2026/09/22/batterie-domestique-prix-ou-partage-energie/)."
+    a: "Les deux ne sont pas concurrents, ils agissent à des endroits différents. Une batterie transforme du surplus en autoconsommation différée et fait passer le taux d'autoconsommation de 30-40 % à 70-80 %, ce qui vaut plusieurs centaines d'euros par an — mais elle coûte 4 250 à 7 250 € pour 5 à 10 kWh, la Wallonie ne verse aucune prime au stockage, et son propre retour sur investissement approche quinze ans sur notre cas de référence. Le partage d'énergie rapporte moins, mais ne coûte rien en capital : il valorise ce qui reste après autoconsommation, à un prix négocié de 3 à 14 c€/kWh au lieu du tarif d'injection. L'ordre logique est donc d'abord de décaler ses usages, ensuite de partager, et enfin d'envisager une batterie si le surplus résiduel le justifie encore. Le détail appareil par appareil — ballon d'eau chaude, recharge de la voiture, batterie — et le classement en euros investis par kilowattheure absorbé figurent dans [« Surplus solaire : les 5 options comparées »](/guides/que-faire-surplus-solaire-belgique/). Le prix d'une batterie au kilowattheure installé et l'arithmétique du cumul batterie-partage sont détaillés dans [« Batterie domestique : le prix et l'alternative »](/guides/batterie-domestique-prix-ou-partage-energie/)."
   - q: "Puis-je partager mon électricité si j'ai installé mes panneaux après 2024 ?"
     a: "Oui, et c'est le cas le plus favorable. Une installation mise en service à partir du 1er janvier 2024 est déjà équipée d'un compteur double flux et ne bénéficie d'aucune compensation : vous n'avez donc rien à abandonner pour rejoindre une opération de partage. Le seul obstacle est l'offre disponible, et elle est mince en Wallonie — l'évaluation de la CWaPE relayée en mars 2025 recensait 4 opérations de partage au sein d'un même bâtiment et 3 au sein d'une communauté d'énergie, et le partage de pair à pair reste inopérant faute d'arrêté d'exécution. Les deux voies ouvertes sont le partage au sein d'un même bâtiment, qui bénéficie d'une réduction de 80 % du terme proportionnel sur la grille ORES 2026, et l'adhésion à une communauté existante."
 ---
@@ -33,7 +34,7 @@ Ce facteur douze est toute l'affaire. Il explique pourquoi deux installations id
 
 Avec une réserve que personne ne formule clairement, et qui change tout : **le partage ne se pose pas de la même façon selon que votre installation date d'avant ou d'après le 1<sup>er</sup> janvier 2024.** Pour les unes, c'est un gain net. Pour les autres, c'est un arbitrage — et il est souvent perdant avant 2031.
 
-Cet article ne réexplique pas ce qu'est une communauté d'énergie ni ce qui distingue une CER d'une CEC : c'est fait dans [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/actualites/2026/05/11/communautes-energie-belgique/). Il ne détaille pas non plus les dix leviers d'économies wallons, traités dans [« Réduire sa facture d'électricité : Wallonie 2026 »](/actualites/2026/07/28/reduire-facture-electricite-wallonie-2026/), ni la disponibilité régionale du partage, analysée dans [« Baisser sa facture sans changer de fournisseur »](/actualites/2026/08/05/electricite-moins-chere-sans-changer-de-fournisseur/). Il répond à une seule question, chiffres à l'appui : **une installation photovoltaïque wallonne est-elle encore rentable en 2026 — et de combien le partage déplace-t-il la réponse.**
+Cet article ne réexplique pas ce qu'est une communauté d'énergie ni ce qui distingue une CER d'une CEC : c'est fait dans [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/guides/communautes-energie-belgique/). Il ne détaille pas non plus les dix leviers d'économies wallons, traités dans [« Réduire sa facture d'électricité : Wallonie 2026 »](/guides/reduire-facture-electricite-wallonie/), ni la disponibilité régionale du partage, analysée dans [« Baisser sa facture sans changer de fournisseur »](/guides/electricite-moins-chere-sans-changer-de-fournisseur/). Il répond à une seule question, chiffres à l'appui : **une installation photovoltaïque wallonne est-elle encore rentable en 2026 — et de combien le partage déplace-t-il la réponse.**
 
 <img src="/assets/images/diagrams/solar-profitability-fr.svg"
      alt="Schéma de la valeur d'un kilowattheure photovoltaïque en Wallonie en 2026 : l'installation se sépare d'abord selon sa date de mise en service, avant ou après le 1er janvier 2024, puis chaque kilowattheure produit suit l'un de quatre destins — autoconsommé immédiatement pour environ 37 centimes, stocké en batterie puis autoconsommé plus tard pour la même valeur mais au prix d'un investissement, partagé avec d'autres participants pour 3 à 14 centimes, ou injecté sur le réseau pour 1 à 5 centimes seulement."
@@ -105,7 +106,7 @@ Ce calcul reste volontairement simple : il ignore l'inflation du prix de l'élec
 
 **La conclusion, c'est le déséquilibre de la deuxième colonne.**
 
-Ce taux de 37,76 % est une moyenne réglementaire. Un ménage dont la maison est vide en journée se situe plutôt autour de 30 %, parce que 85,8 % de la production annuelle tombe entre 9 h et 17 h. Ce que ce profil peut récupérer, et où il plafonne, est chiffré dans [« Panneaux solaires : absent toute la journée »](/actualites/2026/09/12/panneaux-solaires-absent-la-journee/).
+Ce taux de 37,76 % est une moyenne réglementaire. Un ménage dont la maison est vide en journée se situe plutôt autour de 30 %, parce que 85,8 % de la production annuelle tombe entre 9 h et 17 h. Ce que ce profil peut récupérer, et où il plafonne, est chiffré dans [« Panneaux solaires : absent toute la journée »](/guides/panneaux-solaires-absent-la-journee/).
 
 ## Le vrai problème n'est pas le prix des panneaux — c'est le sort du surplus
 
@@ -124,7 +125,7 @@ Trois conséquences pratiques en découlent, et elles renversent les conseils ha
 
 **Surdimensionner est contre-productif.** Chaque kilowattheure produit au-delà de ce que vous pouvez absorber part au tarif d'injection. Une installation deux fois plus grande ne double pas les gains, elle double surtout le volume qui vaut 3 centimes.
 
-**Le tarif d'injection n'est pas une variable que vous maîtrisez.** Il n'est régulé nulle part en Belgique, il varie d'un facteur cinq entre fournisseurs, et il suit le marché de gros. C'est même pire pour les contrats dynamiques : nous rappelions dans [« Quel tarif d'électricité choisir en Belgique ? »](/actualites/2026/08/03/quel-tarif-electricite-choisir-belgique/) que **99 % des ménages équipés de panneaux ont payé davantage** sous contrat dynamique, avec une hausse médiane de 20 %, précisément parce que leur surplus arrive au moment où les prix s'effondrent.
+**Le tarif d'injection n'est pas une variable que vous maîtrisez.** Il n'est régulé nulle part en Belgique, il varie d'un facteur cinq entre fournisseurs, et il suit le marché de gros. C'est même pire pour les contrats dynamiques : nous rappelions dans [« Quel tarif d'électricité choisir en Belgique ? »](/guides/quel-tarif-electricite-choisir-belgique/) que **99 % des ménages équipés de panneaux ont payé davantage** sous contrat dynamique, avec une hausse médiane de 20 %, précisément parce que leur surplus arrive au moment où les prix s'effondrent.
 
 Toute la question de la rentabilité d'une installation photovoltaïque wallonne en 2026 se ramène donc à celle-ci : **que faire des 62 % ?**
 
@@ -166,7 +167,7 @@ Le partage d'énergie consiste à attribuer, quart d'heure par quart d'heure, un
 
 ### Le chiffre qui compte : le prix de cession interne
 
-Nous avons consacré un article entier à la façon de le fixer, [« Prix de cession interne en communauté d'énergie »](/actualites/2026/07/20/prix-electricite-communaute-energie/). Ce qu'il faut en retenir ici tient en deux bornes :
+Nous avons consacré un article entier à la façon de le fixer, [« Prix de cession interne en communauté d'énergie »](/guides/prix-electricite-communaute-energie/). Ce qu'il faut en retenir ici tient en deux bornes :
 
 - **Le plancher, c'est le tarif d'injection** — de 0,94 à 4,90 c€/kWh. En dessous, aucun producteur n'a intérêt à partager plutôt qu'à vendre à son fournisseur.
 - **Le plafond, c'est la composante énergie que le consommateur paie déjà**, autour de 14 c€/kWh. Au-dessus, aucun consommateur n'a intérêt à participer.
@@ -253,7 +254,7 @@ Dimensionnez sur votre consommation, pas sur votre toiture. Demandez au moins tr
 
 ### Mon installation date de 2024 ou après
 
-Vous n'avez rien à perdre et tout à gagner à partager. Votre priorité : décaler vos usages vers les heures de production, puis chercher une opération de partage. Les conditions et les démarches sont détaillées dans [« Rejoindre une communauté d'énergie en Wallonie »](/actualites/2026/05/11/rejoindre-communaute-energie-wallonie/).
+Vous n'avez rien à perdre et tout à gagner à partager. Votre priorité : décaler vos usages vers les heures de production, puis chercher une opération de partage. Les conditions et les démarches sont détaillées dans [« Rejoindre une communauté d'énergie en Wallonie »](/guides/rejoindre-communaute-energie-wallonie/).
 
 ### Mon installation date d'avant 2024
 
@@ -261,9 +262,9 @@ Ne renoncez à rien avant d'avoir fait le calcul de la section précédente sur 
 
 ### Je suis locataire, ou en appartement
 
-Vous ne pouvez probablement pas installer, mais vous pouvez recevoir. Le partage au sein d'un même bâtiment est la configuration la plus favorable de Wallonie et n'exige aucune personne morale : une toiture de copropriété suffit. Le mécanisme, du point de vue du consommateur, est décrit dans [« Autoconsommation collective en Belgique »](/actualites/2026/06/05/autoconsommation-energie-belgique/).
+Vous ne pouvez probablement pas installer, mais vous pouvez recevoir. Le partage au sein d'un même bâtiment est la configuration la plus favorable de Wallonie et n'exige aucune personne morale : une toiture de copropriété suffit. Le mécanisme, du point de vue du consommateur, est décrit dans [« Autoconsommation collective en Belgique »](/guides/autoconsommation-energie-belgique/).
 
-Depuis le 17 avril 2025, vous pouvez aussi produire un peu : un kit photovoltaïque mobile branché sur une prise de courant est désormais légal en Belgique, et il déménage avec vous. Le calcul complet — et ce que l'orientation d'un balcon y change — est dans [« Locataire : le guide du solaire sans toit »](/actualites/2026/09/16/guide-solaire-locataire-sans-toit/).
+Depuis le 17 avril 2025, vous pouvez aussi produire un peu : un kit photovoltaïque mobile branché sur une prise de courant est désormais légal en Belgique, et il déménage avec vous. Le calcul complet — et ce que l'orientation d'un balcon y change — est dans [« Locataire : le guide du solaire sans toit »](/guides/guide-solaire-locataire-sans-toit/).
 
 ## Ce qu'il faut retenir
 
@@ -303,7 +304,7 @@ Très peu. Selon la comparaison de Test-Achats du 28 mai 2026, le tarif d'inject
 
 ### Batterie ou partage d'énergie : que choisir pour valoriser son surplus ?
 
-Les deux ne sont pas concurrents, ils agissent à des endroits différents. Une batterie transforme du surplus en autoconsommation différée et fait passer le taux d'autoconsommation de 30-40 % à **70-80 %**, ce qui vaut plusieurs centaines d'euros par an — mais elle coûte **4 250 à 7 250 €** pour 5 à 10 kWh, la Wallonie ne verse aucune prime au stockage, et son propre retour sur investissement approche quinze ans sur notre cas de référence. Le partage d'énergie rapporte moins, mais ne coûte rien en capital : il valorise ce qui reste après autoconsommation, à un prix négocié de 3 à 14 c€/kWh au lieu du tarif d'injection. L'ordre logique est donc d'abord de décaler ses usages, ensuite de partager, et enfin d'envisager une batterie si le surplus résiduel le justifie encore. Attention toutefois : les deux gains ne s'additionnent pas, et le calcul du cumul figure dans [« Batterie domestique : le prix et l'alternative »](/actualites/2026/09/22/batterie-domestique-prix-ou-partage-energie/).
+Les deux ne sont pas concurrents, ils agissent à des endroits différents. Une batterie transforme du surplus en autoconsommation différée et fait passer le taux d'autoconsommation de 30-40 % à **70-80 %**, ce qui vaut plusieurs centaines d'euros par an — mais elle coûte **4 250 à 7 250 €** pour 5 à 10 kWh, la Wallonie ne verse aucune prime au stockage, et son propre retour sur investissement approche quinze ans sur notre cas de référence. Le partage d'énergie rapporte moins, mais ne coûte rien en capital : il valorise ce qui reste après autoconsommation, à un prix négocié de 3 à 14 c€/kWh au lieu du tarif d'injection. L'ordre logique est donc d'abord de décaler ses usages, ensuite de partager, et enfin d'envisager une batterie si le surplus résiduel le justifie encore. Attention toutefois : les deux gains ne s'additionnent pas, et le calcul du cumul figure dans [« Batterie domestique : le prix et l'alternative »](/guides/batterie-domestique-prix-ou-partage-energie/).
 
 ### Puis-je partager mon électricité si j'ai installé mes panneaux après 2024 ?
 

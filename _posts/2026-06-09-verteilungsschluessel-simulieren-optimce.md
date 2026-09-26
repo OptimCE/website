@@ -9,7 +9,7 @@ tags: [allocation-key, app, news]
 lang: de
 ref: optimce-allocation-key-simulation
 pillar: cle-de-repartition
-permalink: /de/aktuelles/2026/06/09/verteilungsschluessel-simulieren-optimce/
+permalink: /de/ratgeber/verteilungsschluessel-simulieren-optimce/
 faq:
   - q: "Was bedeutet es, einen Aufteilungsschlüssel zu simulieren?"
     a: "Es bedeutet, reale Erzeugungs- und Verbrauchsdaten durch einen gewählten Aufteilungsschlüssel abzuspielen, ohne ihn produktiv anzuwenden, um seine Kennzahlen vorab zu messen: kollektiver Eigenverbrauch, Überschuss, Autarkiegrad und Teilungsgrad. Es ist ein 'Was-wäre-wenn'-Test, bevor Sie entscheiden."
@@ -29,7 +29,7 @@ Einen **Aufteilungsschlüssel** wählen heißt, Viertelstunde für Viertelstunde
 
 Die Idee ist einfach: Sie importieren einen Datensatz, Sie wählen einen Schlüssel, und die Simulation spielt jeden Zeitschritt durch diesen Schlüssel, um Ihnen **Eigenverbrauch**, **Überschuss**, **Autarkiegrad** und **Teilungsgrad** zurückzugeben — global, pro Zeitschritt und pro Iteration. Sie testen ein Szenario, ohne es anzuwenden, risikofrei, und Sie entscheiden anhand von Zahlen statt aus dem Bauchgefühl.
 
-Ist der Begriff Aufteilungsschlüssel neu für Sie, beginnen Sie mit unserem Referenzartikel [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/) — er legt das hier verwendete Vokabular dar.
+Ist der Begriff Aufteilungsschlüssel neu für Sie, beginnen Sie mit unserem Referenzartikel [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/ratgeber/verteilungsschluessel-energiegemeinschaft-belgien/) — er legt das hier verwendete Vokabular dar.
 
 ## Warum einen Aufteilungsschlüssel simulieren?
 
@@ -37,7 +37,7 @@ Ein Aufteilungsschlüssel ist nicht neutral: Je nach Verbrauchs- und Erzeugungsp
 
 Das Problem ist, dass **eine Entscheidung aus dem Bauchgefühl riskant ist**. Solarerzeugungskurven und Verbrauchsprofile kreuzen sich auf der 15-Minuten-Stufe auf nicht-triviale Weise; mit bloßem Auge lässt sich unmöglich vorhersagen, ob Schlüssel A über ein ganzes Jahr Schlüssel B schlägt. Und der Einsatz ist konkret: Jeder gewonnene Punkt Eigenverbrauch ist Überschuss, der nicht mehr zu niedrigem Preis eingespeist wird, also mehr Wert, der in der Gemeinschaft bleibt.
 
-Simulieren bedeutet genau, **diese Entscheidung aus dem Bauchgefühl herauszuholen**. Sie messen die reale Wirkung eines Schlüssels auf die Kennzahlen, die zählen — Eigenverbrauch, Überschuss, Autarkie, Teilungsgrad — bevor Sie sich zu etwas verpflichten. Um zu verstehen, warum diese Kennzahlen für den Wert einer Gemeinschaft zentral sind, siehe unseren Artikel [„Eigenverbrauch von Energie in Belgien“](/de/aktuelles/2026/06/05/eigenverbrauch-energie-belgien/).
+Simulieren bedeutet genau, **diese Entscheidung aus dem Bauchgefühl herauszuholen**. Sie messen die reale Wirkung eines Schlüssels auf die Kennzahlen, die zählen — Eigenverbrauch, Überschuss, Autarkie, Teilungsgrad — bevor Sie sich zu etwas verpflichten. Um zu verstehen, warum diese Kennzahlen für den Wert einer Gemeinschaft zentral sind, siehe unseren Artikel [„Eigenverbrauch von Energie in Belgien“](/de/ratgeber/eigenverbrauch-energie-belgien/).
 
 ## Was die Simulation ermöglicht
 
@@ -95,7 +95,7 @@ Die Simulation ist in jeder Phase des Lebens einer Energiegemeinschaft nützlich
 - **Vor dem Start.** Sie vergleichen mehrere Kandidatenschlüssel auf historischen oder geschätzten Daten und wählen denjenigen, der die Projektziele am besten erfüllt — mit Sachkenntnis.
 - **Während der Konzeption.** Sie wägen ausdrücklich zwischen **Fairness** (ein lesbarer, vorhersehbarer Schlüssel für die Mitglieder) und **Gesamtleistung** (ein Schlüssel, der den kollektiven Eigenverbrauch maximiert) ab — mit Zahlen als Beleg.
 - **Im laufenden Betrieb.** Sie messen die Wirkung eines **neuen Datensatzes** oder einer **Profiländerung** (ein Mitglied installiert eine Wärmepumpe, ein anderes einen Ladepunkt) auf die Kennzahlen — ohne etwas im laufenden Betrieb zu zerstören.
-- **Bei der Aktualisierung des Schlüssels.** Wenn ein **Mitglied beitritt oder austritt**, simulieren Sie den neu berechneten Schlüssel, bevor Sie ihn einreichen, um zu prüfen, ob er leistungsfähig bleibt. Unser Artikel über den [Aufteilungsschlüssel in Belgien](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/) beschreibt das Verfahren zur Änderung eines Schlüssels nach dem Start, und der [Leitfaden zur Gründung einer Gemeinschaft in Wallonien](/de/aktuelles/2026/05/11/energiegemeinschaft-gruenden-wallonien/) ordnet diesen Schritt in die Regulator-Akte ein.
+- **Bei der Aktualisierung des Schlüssels.** Wenn ein **Mitglied beitritt oder austritt**, simulieren Sie den neu berechneten Schlüssel, bevor Sie ihn einreichen, um zu prüfen, ob er leistungsfähig bleibt. Unser Artikel über den [Aufteilungsschlüssel in Belgien](/de/ratgeber/verteilungsschluessel-energiegemeinschaft-belgien/) beschreibt das Verfahren zur Änderung eines Schlüssels nach dem Start, und der [Leitfaden zur Gründung einer Gemeinschaft in Wallonien](/de/ratgeber/energiegemeinschaft-gruenden-wallonien/) ordnet diesen Schritt in die Regulator-Akte ein.
 
 ## Der Wert für Gemeinschaften
 
@@ -105,7 +105,7 @@ Für einen Gemeinschaftsverwalter, einen Facilitator oder einen Projektträger �
 - **Pädagogik.** Indem die Mitglieder auf realen Daten sehen, *warum* ein Schlüssel besser funktioniert als ein anderer, verstehen und akzeptieren sie die Wahl leichter. Die Simulation macht aus einer abstrakten technischen Diskussion eine konkrete Demonstration.
 - **Ein starkes Argument.** Vor einer Generalversammlung, einem Netzbetreiber oder einem Regulator wiegt es weit schwerer, einen Schlüssel mit Zahlen zu verteidigen — aus den eigenen Daten der Gemeinschaft — als eine grundsätzliche Empfehlung.
 
-Es ist auch ein Hebel, um lokale Erzeugung zu verwerten und damit die [Stromrechnung der Mitglieder zu senken](/de/aktuelles/2026/06/03/energiegemeinschaft-stromrechnung-senken/): Jeder vermiedene Überschusspunkt ist Wert, der in der Gemeinschaft bleibt.
+Es ist auch ein Hebel, um lokale Erzeugung zu verwerten und damit die [Stromrechnung der Mitglieder zu senken](/de/ratgeber/energiegemeinschaft-stromrechnung-senken/): Jeder vermiedene Überschusspunkt ist Wert, der in der Gemeinschaft bleibt.
 
 ## Simulation und automatische Generierung: zwei komplementäre Werkzeuge
 
@@ -120,13 +120,13 @@ Es sind zwei komplementäre Anwendungen, keine konkurrierenden:
 | Ausgabe | Die KPIs des getesteten Schlüssels | Ein (oder mehrere) optimierte(r) Kandidatenschlüssel |
 | Typische Nutzung | Szenarien vergleichen, verstehen, begründen | Einen guten Ausgangspunkt finden |
 
-In der Praxis generieren Sie, um einen soliden Kandidaten zu finden, und simulieren dann, um sein Verhalten zu verstehen, Varianten zu vergleichen und ihn zu verteidigen. Für die Details der Algorithmen siehe [„Aufteilungsschlüssel automatisch generieren“](/de/aktuelles/2026/05/26/automatische-verteilungsschluessel-generierung/).
+In der Praxis generieren Sie, um einen soliden Kandidaten zu finden, und simulieren dann, um sein Verhalten zu verstehen, Varianten zu vergleichen und ihn zu verteidigen. Für die Details der Algorithmen siehe [„Aufteilungsschlüssel automatisch generieren“](/de/ratgeber/automatische-verteilungsschluessel-generierung/).
 
 ## Energiegemeinschaften in Belgien, kurz gefasst
 
 Eine **Energiegemeinschaft** bringt Erzeuger und Verbraucher zusammen, die lokal erneuerbare Erzeugung teilen. Das Teilen ist administrativ: Intelligente Zähler werden in einer **15-Minuten-Stufe** ausgelesen, und der **Verteilnetzbetreiber (VNB)** wendet den gewählten Aufteilungsschlüssel an, um jedem Mitglied einen Anteil der eingespeisten Energie zuzuweisen. Belgien kennt mehrere Formen — EEG, BEG und, in Brüssel, LEG — unter Aufsicht der regionalen Regulatoren ([Brugel](https://energysharing.brugel.brussels) in Brüssel, mit [Sibelga](https://www.sibelga.be/en/connections-meters/renewable-energy/energy-sharing) als Netzbetreiber).
 
-In dieser Landschaft ist der Aufteilungsschlüssel der zentrale Parameter für die Leistung einer Gemeinschaft — und die Simulation deckt einen realen Bedarf: **das Teilen von Energie zu strukturieren und zu verstehen**, bevor man sich dazu verpflichtet. Für den vollständigen Überblick über die Rechtsformen siehe [„Energiegemeinschaften in Belgien: CER, CEC, CEL“](/de/aktuelles/2026/05/11/energiegemeinschaften-belgien/).
+In dieser Landschaft ist der Aufteilungsschlüssel der zentrale Parameter für die Leistung einer Gemeinschaft — und die Simulation deckt einen realen Bedarf: **das Teilen von Energie zu strukturieren und zu verstehen**, bevor man sich dazu verpflichtet. Für den vollständigen Überblick über die Rechtsformen siehe [„Energiegemeinschaften in Belgien: CER, CEC, CEL“](/de/ratgeber/energiegemeinschaften-belgien/).
 
 ## Fazit
 

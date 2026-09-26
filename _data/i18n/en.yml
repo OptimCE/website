@@ -143,26 +143,14 @@ blog:
   all_posts: "View all news"
   published_on: "Published on"
   by_author: "by"
-  back_to_blog: "Back to news"
   older_posts: "Older posts"
   newer_posts: "Newer posts"
   updated_on: "Updated on"
-  filter_label: "Filter by tag"
   sort_label: "Sort by"
-  all_tags: "All"
-  no_results: "No articles match this filter."
   sort:
     newest: "Newest first"
     oldest: "Oldest first"
     updated: "Recently updated"
-  tags:
-    app: "OptimCE app"
-    administrative: "Administrative"
-    allocation-key: "Allocation key"
-    community: "Energy community"
-    announcement: "Announcement"
-    news: "News"
-    guide: "Guide"
 
 # Guides: index page and pillar pages
 guides:

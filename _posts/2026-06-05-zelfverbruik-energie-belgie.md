@@ -10,7 +10,7 @@ lang: nl
 ref: self-consumption-belgium
 pillar: communautes-energie
 last_modified_at: 2026-09-16 06:00:00 +0200
-permalink: /nl/nieuws/2026/06/05/zelfverbruik-energie-belgie/
+permalink: /nl/gidsen/zelfverbruik-energie-belgie/
 faq:
   - q: "Wat is de zelfverbruiksgraad?"
     a: "Het is het aandeel van uw zonneproductie dat u zelf verbruikt in plaats van op het net te injecteren. Een graad van 30% betekent dat u 30% van wat uw panelen produceren rechtstreeks verbruikt; de rest wordt geïnjecteerd. Hoe hoger de graad, hoe meer waarde u uit uw productie haalt."
@@ -36,13 +36,13 @@ Zelfverbruik betekent de **elektriciteit die u zelf opwekt** — doorgaans via z
 
 **Collectief zelfverbruik.** Wanneer een (of meer) installatie **meerdere deelnemers** bevoorraadt — de bewoners van een gebouw, buren, bedrijven op dezelfde site — spreekt men van collectief zelfverbruik. Het delen is **administratief, niet fysiek**: de elektronen stromen nog steeds over het openbare net, maar de distributienetbeheerder (DNB) wijst elke deelnemer **om de 15 minuten** een aandeel van de lokale productie toe volgens een **verdeelsleutel**. In België wordt dit collectieve zelfverbruik georganiseerd binnen een **energiegemeenschap** of een deelactie (zie verder).
 
-Die maaswijdte van vijftien minuten heeft een praktisch gevolg dat de definitie niet laat vermoeden: een groep stelt zich samen op uurrooster, niet op sympathie. Het wordt uitgewerkt in [“Stroom in de korte keten: de handleiding”](/nl/nieuws/2026/08/25/elektriciteit-korte-keten-handleiding/).
+Die maaswijdte van vijftien minuten heeft een praktisch gevolg dat de definitie niet laat vermoeden: een groep stelt zich samen op uurrooster, niet op sympathie. Het wordt uitgewerkt in [“Stroom in de korte keten: de handleiding”](/nl/gidsen/elektriciteit-korte-keten-handleiding/).
 
-> Voor het volledige wettelijke kader (CER, CEC, CEL) en de gedetailleerde werking van het delen, zie onze referentiegids [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/).
+> Voor het volledige wettelijke kader (CER, CEC, CEL) en de gedetailleerde werking van het delen, zie onze referentiegids [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/gidsen/energiegemeenschappen-belgie/).
 
 ## Waarom is zelfverbruik interessant?
 
-- **Uw factuur verlagen.** Elke zelf verbruikte kWh is een kWh die u niet bij uw leverancier koopt. Omdat de aankoopprijs veel hoger ligt dan de injectiewaarde van het overschot, is zelfverbruik de meest directe manier om een installatie rendabel te maken. Voor de becijferde details aan de factuurzijde, zie [“Elektriciteitsfactuur verlagen met energiedelen”](/nl/nieuws/2026/06/03/energiegemeenschap-elektriciteitsfactuur-verlagen/). En om te begrijpen waarom die factuur hoog blijft terwijl de energieprijzen dalen, becijfert onze opsplitsing [“Waarom uw elektriciteitsfactuur hoog blijft”](/nl/nieuws/2026/07/25/waarom-elektriciteitsfactuur-hoog-blijft-belgie/) alle vier de blokken — energie, net, taksen en leveranciersmarge.
+- **Uw factuur verlagen.** Elke zelf verbruikte kWh is een kWh die u niet bij uw leverancier koopt. Omdat de aankoopprijs veel hoger ligt dan de injectiewaarde van het overschot, is zelfverbruik de meest directe manier om een installatie rendabel te maken. Voor de becijferde details aan de factuurzijde, zie [“Elektriciteitsfactuur verlagen met energiedelen”](/nl/gidsen/energiegemeenschap-elektriciteitsfactuur-verlagen/). En om te begrijpen waarom die factuur hoog blijft terwijl de energieprijzen dalen, becijfert onze opsplitsing [“Waarom uw elektriciteitsfactuur hoog blijft”](/nl/gidsen/waarom-elektriciteitsfactuur-hoog-blijft-belgie/) alle vier de blokken — energie, net, taksen en leveranciersmarge.
 - **Lokale productie valoriseren in plaats van verspillen.** Op piekmomenten kent het lokale net **overspanning** die sommige PV-installaties doet uitschakelen. Die energie lokaal verbruiken voorkomt de verspilling.
 - **De energiekost stabiliseren.** Zelfverbruik en lokaal delen maken een deel van uw bevoorrading onafhankelijk van marktschokken, en dus beter voorspelbaar.
 - **Het net ontlasten.** Productie zo dicht mogelijk bij het injectiepunt verbruiken vermindert lijnverliezen en de druk op het transportnet.
@@ -56,11 +56,11 @@ Een paneel produceert enkel overdag, terwijl een groot deel van het gezinsverbru
 3. **De elektrische wagen overdag laden.** Een gestuurde laadpaal die op productie-uren start, vangt een groot deel van het overschot op.
 4. **Een warmtepomp installeren.** Geëlektrificeerde verwarming en warm water verhogen het stuurbare dagverbruik.
 5. **Een thuisbatterij toevoegen.** Ze slaat het overschot van de dag op om het 's avonds vrij te geven, wat de zelfverbruiksgraad gevoelig kan optillen (tegen een investering).
-6. **Het overschot delen via een energiegemeenschap.** Zijn uw eigen maatregelen gemaximaliseerd, dan wordt het resterende overschot niet langer tegen lage prijs geïnjecteerd, maar **gedeeld met andere leden** die het lokaal verbruiken. Dat is de logische uitbreiding van individueel naar collectief zelfverbruik. Wat dat betekent voor de terugverdientijd van een Waalse installatie, is becijferd in “[Zonnepanelen 2026: nog rendabel in Wallonië?](/nl/nieuws/2026/08/11/zonnepanelen-rendabel-wallonie-2026/)”.
+6. **Het overschot delen via een energiegemeenschap.** Zijn uw eigen maatregelen gemaximaliseerd, dan wordt het resterende overschot niet langer tegen lage prijs geïnjecteerd, maar **gedeeld met andere leden** die het lokaal verbruiken. Dat is de logische uitbreiding van individueel naar collectief zelfverbruik. Wat dat betekent voor de terugverdientijd van een Waalse installatie, is becijferd in “[Zonnepanelen 2026: nog rendabel in Wallonië?](/nl/gidsen/zonnepanelen-rendabel-wallonie/)”.
 
-Deze zes hefbomen zijn niet gelijkwaardig: de warmwaterboiler, de elektrische auto en de batterij nemen noch dezelfde volumes op, noch tegen dezelfde kostprijs. De becijferde vergelijking van de vijf mogelijke bestemmingen van een overschot staat in [Zonne-overschot: de 5 opties vergeleken](/nl/nieuws/2026/08/18/wat-doen-met-je-zonne-overschot-belgie/).
+Deze zes hefbomen zijn niet gelijkwaardig: de warmwaterboiler, de elektrische auto en de batterij nemen noch dezelfde volumes op, noch tegen dezelfde kostprijs. De becijferde vergelijking van de vijf mogelijke bestemmingen van een overschot staat in [Zonne-overschot: de 5 opties vergeleken](/nl/gidsen/wat-doen-met-je-zonne-overschot-belgie/).
 
-Die stappen veronderstellen aanwezigheid. Voor een gezin dat overdag afwezig is, verandert de rangorde: de beschikbare Belgische veldmeting geeft drie zelfverbruikspunten aan verschoven huishoudtoestellen en dertien aan een gestuurde boiler. De details staan in [“Zonnepanelen: overdag niemand thuis”](/nl/nieuws/2026/09/12/zonnepanelen-overdag-niet-thuis/).
+Die stappen veronderstellen aanwezigheid. Voor een gezin dat overdag afwezig is, verandert de rangorde: de beschikbare Belgische veldmeting geeft drie zelfverbruikspunten aan verschoven huishoudtoestellen en dertien aan een gestuurde boiler. De details staan in [“Zonnepanelen: overdag niemand thuis”](/nl/gidsen/zonnepanelen-overdag-niet-thuis/).
 
 ## Zelfverbruik en energiegemeenschappen: de links
 
@@ -70,7 +70,7 @@ Collectief zelfverbruik gebeurt niet “met de hand” onder buren: het steunt o
 - De **deelactie** is de operationele eenheid die het collectieve zelfverbruik realiseert: binnen een gebouw, over een wijk, of tussen sites.
 - De **DNB** leest de digitale meters **om de 15 minuten** uit, past de door de gemeenschap gekozen **verdeelsleutel** toe en bezorgt de gedeelde hoeveelheid aan de leveranciers om de facturatie aan te passen.
 
-De keuze van de verdeelsleutel bepaalt welk productieaandeel elk lid in elk kwartier ontvangt, en dus de werkelijke impact van het collectieve zelfverbruik op elke factuur. We bespreken de in elk gewest aanvaarde sleutels in [“Verdeelsleutel in België: de 3 regio's”](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/).
+De keuze van de verdeelsleutel bepaalt welk productieaandeel elk lid in elk kwartier ontvangt, en dus de werkelijke impact van het collectieve zelfverbruik op elke factuur. We bespreken de in elk gewest aanvaarde sleutels in [“Verdeelsleutel in België: de 3 regio's”](/nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/).
 
 ## Wallonië, Brussel, Vlaanderen: wat verschilt
 
@@ -98,7 +98,7 @@ Het principe van zelfverbruik is overal gelijk, maar de actoren en de maturiteit
 
 De configuratie van het appartementsgebouw verdient trouwens haar eigen handleiding: ze combineert de gunstigste tariefperimeter van het land met drie sloten uit het recht van de mede-eigendom die het energierecht nergens vermeldt. Ze worden doorgenomen in [“Energie delen in een appartementsgebouw”](/nl/nieuws/2026/08/27/energie-delen-appartementsgebouw/).
 
-Voor huurders is er sindsdien een tweede mogelijkheid bij gekomen: sinds 17 april 2025 is een verplaatsbare fotovoltaïsche kit in een stopcontact in België toegelaten. Beide wegen — gedeelde energie ontvangen of zelf produceren zonder eigen dak — worden vergeleken in [“Huurder: zonne-energie zonder eigen dak”](/nl/nieuws/2026/09/16/zonne-energie-huurder-zonder-dak-gids/).
+Voor huurders is er sindsdien een tweede mogelijkheid bij gekomen: sinds 17 april 2025 is een verplaatsbare fotovoltaïsche kit in een stopcontact in België toegelaten. Beide wegen — gedeelde energie ontvangen of zelf produceren zonder eigen dak — worden vergeleken in [“Huurder: zonne-energie zonder eigen dak”](/nl/gidsen/zonne-energie-huurder-zonder-dak-gids/).
 
 ## Praktische voorwaarden om te kennen
 
@@ -108,7 +108,7 @@ Voor huurders is er sindsdien een tweede mogelijkheid bij gekomen: sinds 17 apri
 - **U behoudt uw leverancier**: hij factureert alleen nog de restenergie die niet gedekt is door uw productie of door het delen.
 - **Vooral in Brussel** kunnen producenten een bijkomend inkomen halen via **groenestroomcertificaten** tijdens de eerste jaren van hun installatie.
 
-Aan Waalse zijde veranderen het prosumententarief, de tot 2030 gewaarborgde compensatie en de arbitrage die het Impact-tarief mogelijk maakt de rekensom van een installatie of een batterij: we becijferen ze in [“Elektriciteitsfactuur verlagen: Wallonië 2026”](/nl/nieuws/2026/07/28/elektriciteitsfactuur-verlagen-wallonie-2026/).
+Aan Waalse zijde veranderen het prosumententarief, de tot 2030 gewaarborgde compensatie en de arbitrage die het Impact-tarief mogelijk maakt de rekensom van een installatie of een batterij: we becijferen ze in [“Elektriciteitsfactuur verlagen: Wallonië 2026”](/nl/gidsen/elektriciteitsfactuur-verlagen-wallonie/).
 
 ## FAQ
 
@@ -140,11 +140,11 @@ Het kader bestaat in de drie gewesten maar met verschillende modaliteiten: Wallo
 
 De eenvoudigste manier om van individueel zelfverbruik naar delen te gaan, is **toetreden tot een bestaande actie** — of er een oprichten.
 
-> **[Toetreden tot een energiegemeenschap in Wallonië](/nl/nieuws/2026/05/11/energiegemeenschap-aansluiten-wallonie/)**
+> **[Toetreden tot een energiegemeenschap in Wallonië](/nl/gidsen/energiegemeenschap-aansluiten-wallonie/)**
 >
 > Wie kan toetreden, waar u een open actie vindt en de stappen één voor één.
 
-> **[Energiegemeenschap oprichten in Wallonië](/nl/nieuws/2026/05/11/energiegemeenschap-oprichten-wallonie/)**
+> **[Energiegemeenschap oprichten in Wallonië](/nl/gidsen/energiegemeenschap-oprichten-wallonie/)**
 >
 > Van de keuze van het type gemeenschap tot het opstarten van het delen met uw DNB.
 

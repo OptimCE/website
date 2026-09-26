@@ -31,7 +31,7 @@ Each of them has a common roof, a common-parts meter, and a dozen private meters
 
 In practice, the CWaPE's evaluation report of 20 February 2025 counted just **four same-building sharing operations** across the whole of Wallonia. Four.
 
-This article does not re-explain what an energy community is, nor what separates a CER from a CEC or a CEL — that is covered in [“Energy communities in Belgium: CER, CEC, CEL”](/en/news/2026/05/11/energy-communities-belgium/). It does not redefine collective self-consumption, set out in [“Energy self-consumption in Belgium”](/en/news/2026/06/05/energy-self-consumption-belgium/), nor the allocation methods, compared region by region in [“Allocation key in Belgium: the 3 regions”](/en/news/2026/05/19/allocation-key-belgium/). Nor does it redo the mechanics of the two invoices, the mandatory statements and the VAT rates, detailed in [“Invoicing shared electricity in Belgium”](/en/news/2026/07/23/who-invoices-shared-electricity-belgium/), or the table of the four Brussels tariff perimeters and the Walloon 80 % reduction, established in [“Cheaper electricity without switching supplier”](/en/news/2026/08/05/cheaper-electricity-without-switching-supplier/).
+This article does not re-explain what an energy community is, nor what separates a CER from a CEC or a CEL — that is covered in [“Energy communities in Belgium: CER, CEC, CEL”](/en/guides/energy-communities-belgium/). It does not redefine collective self-consumption, set out in [“Energy self-consumption in Belgium”](/en/guides/energy-self-consumption-belgium/), nor the allocation methods, compared region by region in [“Allocation key in Belgium: the 3 regions”](/en/guides/allocation-key-belgium/). Nor does it redo the mechanics of the two invoices, the mandatory statements and the VAT rates, detailed in [“Invoicing shared electricity in Belgium”](/en/guides/who-invoices-shared-electricity-belgium/), or the table of the four Brussels tariff perimeters and the Walloon 80 % reduction, established in [“Cheaper electricity without switching supplier”](/en/guides/cheaper-electricity-without-switching-supplier/).
 
 It answers a question those articles do not ask: **in an apartment building, it is not energy law that blocks you — it is condominium law.**
 
@@ -50,7 +50,7 @@ Sharing electricity always routes the kilowatt-hours through the public grid, so
 
 In Brussels, Brugel decision 285bis of 4 November 2024, applicable from 1 January 2025 to 31 December 2029, places same-building sharing in the most favourable perimeter of the grid: on shared volumes, the transport pass-through, the fixed term, the proportional term and the drawn-power term all fall to zero. In Wallonia, the 2026 ORES grid applies **an 80 % reduction to the proportional term** on energy shared within the same building, identified under globalisation codes E216 in distribution and E526 in transport. No reduction on residual electricity, and no reduction at all for sharing organised within an energy community.
 
-The full table of the four Brussels perimeters is in [“Cheaper electricity without switching supplier”](/en/news/2026/08/05/cheaper-electricity-without-switching-supplier/); there is no point repeating it here. What is worth adding is what the building brings beyond the tariff.
+The full table of the four Brussels perimeters is in [“Cheaper electricity without switching supplier”](/en/guides/cheaper-electricity-without-switching-supplier/); there is no point repeating it here. What is worth adding is what the building brings beyond the tariff.
 
 ### The common-parts meter is a daytime absorber, and that is rare
 
@@ -64,7 +64,7 @@ Sibelga puts it very well when describing who the participants are in a building
 
 The other advantage lies in the building's social mix. A fifteen-apartment block typically houses one or two retirees, a remote worker, a self-employed person, a family with young children, several people out at work all day and an empty flat between tenancies. That heterogeneity — endured, not chosen — produces an aggregate curve much flatter than that of an estate occupied by a single socio-professional profile.
 
-That is the main reason a building absorbs better than a detached-housing neighbourhood at identical installed capacity. The logic of composing a sharing group by schedule rather than by affinity is developed in [“Local electricity: the short-circuit guide”](/en/news/2026/08/25/local-electricity-short-circuit-guide/); in a building, that composition is largely already done.
+That is the main reason a building absorbs better than a detached-housing neighbourhood at identical installed capacity. The logic of composing a sharing group by schedule rather than by affinity is developed in [“Local electricity: the short-circuit guide”](/en/guides/local-electricity-short-circuit-guide/); in a building, that composition is largely already done.
 
 ## What energy law asks of a condominium: very little
 
@@ -211,7 +211,7 @@ The same article requires the relationship between the agent and the association
 
 Yet managing a sharing operation is no symbolic task. The sharing manager must invoice shared electricity to each participant, declare the activity, notify every change — entry, exit, change of allocation method — and collect the related network charges to pass on to the operator. In Brussels, Sibelga sends the necessary data files every month; someone has to process them.
 
-A meeting that votes the installation without voting the remuneration for that management is, in practice, voting a project that will never start. The point must appear explicitly on the agenda, as a costed additional service. The corresponding documentary burden on the Walloon side is detailed in [“Energy community: CWaPE documents and deadlines”](/en/news/2026/08/12/energy-community-administrative-documents-wallonia/).
+A meeting that votes the installation without voting the remuneration for that management is, in practice, voting a project that will never start. The point must appear explicitly on the agenda, as a costed additional service. The corresponding documentary burden on the Walloon side is detailed in [“Energy community: CWaPE documents and deadlines”](/en/guides/energy-community-administrative-documents-wallonia/).
 
 ### The handover list, to be written before you need it
 
@@ -243,13 +243,13 @@ That is the argument to bring to the meeting, and it is better costed than merel
 
 A rented building changes occupants constantly. Every move-out is a participant exit to notify to the operator, and every move-in a membership to offer. Three design principles follow:
 
-- **Vote the price at the general meeting; do not negotiate it flat by flat.** A single price, revisable annually, survives turnover; a mosaic of individual prices does not survive the second move. The defensible methods are compared in [“Internal transfer price in an energy community”](/en/news/2026/07/20/energy-community-electricity-price/).
-- **Choose a key that absorbs entries and exits.** A key expressed in fixed percentages must be re-notified at every movement; a key proportional to consumption readjusts itself. The choice between the two logics is covered in [“Allocation key in Belgium: the 3 regions”](/en/news/2026/05/19/allocation-key-belgium/).
+- **Vote the price at the general meeting; do not negotiate it flat by flat.** A single price, revisable annually, survives turnover; a mosaic of individual prices does not survive the second move. The defensible methods are compared in [“Internal transfer price in an energy community”](/en/guides/energy-community-electricity-price/).
+- **Choose a key that absorbs entries and exits.** A key expressed in fixed percentages must be re-notified at every movement; a key proportional to consumption readjusts itself. The choice between the two logics is covered in [“Allocation key in Belgium: the 3 regions”](/en/guides/allocation-key-belgium/).
 - **Inform at the point of the lease.** The existence of the sharing, the price in force and the joining procedure must appear in the pack handed to the new occupant, alongside the house rules. That is the only moment when the information genuinely reaches an incoming tenant.
 
-The governance side — informing participants, organising votes, keeping the news board — is developed in [“Engaging energy community members”](/en/news/2026/06/24/engage-energy-community-members/).
+The governance side — informing participants, organising votes, keeping the news board — is developed in [“Engaging energy community members”](/en/guides/engage-energy-community-members/).
 
-This section is written from the managing agent's and the general meeting's point of view. The same problem seen from inside the flat — what a tenant can decide alone, and what the length of their lease allows them to hope for — is covered in [“Renting: the no-roof guide to solar”](/en/news/2026/09/16/tenant-solar-without-roof-guide/).
+This section is written from the managing agent's and the general meeting's point of view. The same problem seen from inside the flat — what a tenant can decide alone, and what the length of their lease allows them to hope for — is covered in [“Renting: the no-roof guide to solar”](/en/guides/tenant-solar-without-roof-guide/).
 
 ## What it means in numbers, and the two tax traps
 
@@ -264,7 +264,7 @@ It is not that capacity that determines the gain, but the fraction of output tha
 3. **Water heaters and heat pumps** — shiftable by timer or connected thermostat, without any action from occupants;
 4. **The homes** — the rest, unmanaged.
 
-What a kilowatt-hour of surplus is worth depending on how it is used is quantified in [“Solar surplus: the 5 options compared”](/en/news/2026/08/18/what-to-do-solar-surplus-belgium/), and the overall profitability of an installation in [“Solar panels 2026: still worth it in Wallonia?”](/en/news/2026/08/11/solar-panels-worth-it-wallonia-2026/).
+What a kilowatt-hour of surplus is worth depending on how it is used is quantified in [“Solar surplus: the 5 options compared”](/en/guides/what-to-do-solar-surplus-belgium/), and the overall profitability of an installation in [“Solar panels 2026: still worth it in Wallonia?”](/en/guides/solar-panels-worth-it-wallonia/).
 
 ### Trap 1: the 10 kVA VAT threshold
 
@@ -274,7 +274,7 @@ A household sharing the surplus of six panels is therefore out of scope. **A bui
 
 The nuance that saves budgets: registering for VAT does not automatically mean charging VAT. It remains possible to opt for the exemption scheme if annual turnover stays below €25,000, which covers the vast majority of building-level sharing operations. But a **VAT number must still be opened and listings filed**, which adds a recurring accounting cost whatever structure is chosen. It is the line item most systematically forgotten in general-meeting budgets.
 
-The applicable rates and the mandatory statements on a sharing invoice are covered in [“Invoicing shared electricity in Belgium”](/en/news/2026/07/23/who-invoices-shared-electricity-belgium/).
+The applicable rates and the mandatory statements on a sharing invoice are covered in [“Invoicing shared electricity in Belgium”](/en/guides/who-invoices-shared-electricity-belgium/).
 
 ### Trap 2: green certificates change scale on 1 April 2026
 

@@ -10,7 +10,7 @@ lang: de
 ref: local-electricity-short-circuit
 pillar: facture-electricite
 last_modified_at: 2026-09-10 06:00:00 +0200
-permalink: /de/aktuelles/2026/08/25/strom-kurze-wege-anleitung/
+permalink: /de/ratgeber/strom-kurze-wege-anleitung/
 faq:
   - q: "Kann ich in Wallonien den Strom meines Nachbarn gegenüber kaufen?"
     a: "Nein, im August 2026 nicht. Diese Form des Austauschs heißt Peer-to-Peer und ist die einfachste der vier: zwei Zähler, ein vereinbarter Preis, sonst nichts. Sie ist im wallonischen Dekret vom 5. Mai 2022 vorgesehen, bleibt aber mangels Durchführungserlass unwirksam. ORES schreibt es auf der eigenen Seite unmissverständlich: Es ist derzeit noch nicht möglich, Energie im Peer-to-Peer-Verfahren zu teilen, und der Rechtsrahmen ist noch nicht abgeschlossen. Was ein Wallone heute tun kann, ist innerhalb desselben Gebäudes zu teilen oder einer Energiegemeinschaft beizutreten, die als juristische Person gegründet und von der CWaPE genehmigt wurde. In der Praxis bezeichnet das Wort Quartier also entweder Ihr eigenes Gebäude oder einen Verein, den jemand gegründet hat, nicht das Haus gegenüber."
@@ -32,7 +32,7 @@ Im August 2026 führt die CWaPE **13 Energiegemeinschaften**, die auf wallonisch
 
 Dieselbe Region, dieselben Menschen, dieselbe Losung: lokal, kurz, bekannt einkaufen. Auf der einen Seite ein Massenerfolg, auf der anderen fast Stillstand. Die naheliegende Erklärung wäre kulturell — Lebensmittel sprächen die Menschen an, Energie sei zu abstrakt. Sie ist falsch. **Der Unterschied ist mechanisch, und er passt in einen Satz: Ein Gemüsekorb wartet im Kühlschrank, eine nicht verbrauchte Kilowattstunde verschwindet in fünfzehn Minuten.** Alles Weitere folgt daraus, auch die Art und Weise, wie man einen solchen kurzen Weg aufbaut.
 
-Dieser Beitrag wiederholt weder den Verfügbarkeitstest Region für Region noch die Berechnung des Ertrags einer geteilten Kilowattstunde, beides behandelt in [„Strom sparen ohne Anbieterwechsel“](/de/aktuelles/2026/08/05/strom-sparen-ohne-anbieterwechsel/). Er greift die Verwertung des Überschusses aus Erzeugersicht nicht erneut auf, Gerät für Gerät verglichen in [„Solarüberschuss: die 5 Optionen im Vergleich“](/de/aktuelles/2026/08/18/solarer-ueberschuss-was-tun-belgien/) und beziffert in [„Solaranlage 2026: lohnt sie sich in Wallonien?“](/de/aktuelles/2026/08/11/solaranlage-rentabel-wallonien-2026/). Er definiert weder den kollektiven Eigenverbrauch neu, dargelegt in [„Kollektiver Eigenverbrauch in Belgien“](/de/aktuelles/2026/06/05/eigenverbrauch-energie-belgien/), noch die Grenze zwischen CER, CEC und CEL, gezogen in [„Energiegemeinschaften in Belgien: CER, CEC, CEL“](/de/aktuelles/2026/05/11/energiegemeinschaften-belgien/), noch die Methode der Preisbildung, entwickelt in [„Interner Verrechnungspreis für geteilten Strom“](/de/aktuelles/2026/07/20/strompreis-energiegemeinschaft/). Er setzt schließlich das Argument fort, das in [„Ökostrom in Belgien: wirklich grün?“](/de/aktuelles/2026/08/22/oekostrom-belgien-wirklich-gruen/) eröffnet wurde, wonach das Teilen der einzige überprüfbare kurze Weg im belgischen Recht ist — ohne zu sagen, wie man einen solchen zusammenstellt.
+Dieser Beitrag wiederholt weder den Verfügbarkeitstest Region für Region noch die Berechnung des Ertrags einer geteilten Kilowattstunde, beides behandelt in [„Strom sparen ohne Anbieterwechsel“](/de/ratgeber/strom-sparen-ohne-anbieterwechsel/). Er greift die Verwertung des Überschusses aus Erzeugersicht nicht erneut auf, Gerät für Gerät verglichen in [„Solarüberschuss: die 5 Optionen im Vergleich“](/de/ratgeber/solarer-ueberschuss-was-tun-belgien/) und beziffert in [„Solaranlage 2026: lohnt sie sich in Wallonien?“](/de/ratgeber/solaranlage-rentabel-wallonien/). Er definiert weder den kollektiven Eigenverbrauch neu, dargelegt in [„Kollektiver Eigenverbrauch in Belgien“](/de/ratgeber/eigenverbrauch-energie-belgien/), noch die Grenze zwischen CER, CEC und CEL, gezogen in [„Energiegemeinschaften in Belgien: CER, CEC, CEL“](/de/ratgeber/energiegemeinschaften-belgien/), noch die Methode der Preisbildung, entwickelt in [„Interner Verrechnungspreis für geteilten Strom“](/de/ratgeber/strompreis-energiegemeinschaft/). Er setzt schließlich das Argument fort, das in [„Ökostrom in Belgien: wirklich grün?“](/de/ratgeber/oekostrom-belgien-wirklich-gruen/) eröffnet wurde, wonach das Teilen der einzige überprüfbare kurze Weg im belgischen Recht ist — ohne zu sagen, wie man einen solchen zusammenstellt.
 
 Er beantwortet eine Frage, die diese Beiträge nicht stellen: **mit wem genau funktioniert ein kurzer Weg beim Strom — und warum ist das keine Frage der Überzeugung.**
 
@@ -61,7 +61,7 @@ Die Folge ist unbequem, und man setzt sie besser gleich an den Anfang: **Der kur
 
 Die CWaPE lässt hier keine Zweideutigkeit zu: „Für Strom, der durch das Netz fließt, sind sämtliche Netzkosten (Übertragung und Verteilung) sowie die damit verbundenen Steuern und Abgaben auf geteiltem Strom zu entrichten.“
 
-Mit anderen Worten wirkt der kurze Weg beim Strom auf **eine einzige Komponente Ihrer Rechnung**: die Energie selbst. Übertragung, Verteilung, Steuern, Abgaben und Mehrwertsteuer bleiben in voller Höhe geschuldet. Die ausführliche Zerlegung dieser Blöcke findet sich in [„Warum die Stromrechnung in Belgien hoch bleibt“](/de/aktuelles/2026/07/25/warum-stromrechnung-hoch-bleibt-belgien/); festzuhalten ist hier, dass der Anteil, auf den ein kurzer Weg zugreifen kann, eine **Minderheit** darstellt.
+Mit anderen Worten wirkt der kurze Weg beim Strom auf **eine einzige Komponente Ihrer Rechnung**: die Energie selbst. Übertragung, Verteilung, Steuern, Abgaben und Mehrwertsteuer bleiben in voller Höhe geschuldet. Die ausführliche Zerlegung dieser Blöcke findet sich in [„Warum die Stromrechnung in Belgien hoch bleibt“](/de/ratgeber/warum-stromrechnung-hoch-bleibt-belgien/); festzuhalten ist hier, dass der Anteil, auf den ein kurzer Weg zugreifen kann, eine **Minderheit** darstellt.
 
 Es gibt eine Ausnahme, genau eine, und sie ist eng:
 
@@ -90,7 +90,7 @@ Das ist die reine Form: ein Erzeuger, ein Verbraucher, ein zwischen ihnen verein
 
 Beim Strom ist es genau das, was sich die meisten Menschen vorstellen, wenn man ihnen davon erzählt, den Strom des eigenen Quartiers zu verbrauchen: Ich kaufe den Überschuss des Nachbarn mit den Modulen. Zwei Zähler, eine Vereinbarung, sonst nichts.
 
-Und genau diese Form **gibt es in Wallonien nicht**. Das Dekret vom 5. Mai 2022 sieht sie vor; der Durchführungserlass, der sie wirksam machen würde, wurde nie verabschiedet. ORES schreibt es schwarz auf weiß: „Es ist derzeit noch nicht möglich, seine Energie im Peer-to-Peer-Verfahren zu teilen“, und „der Rechtsrahmen für das Peer-to-Peer-Energieteilen ist noch nicht abgeschlossen“. Diese Blockade und ihre Kosten werden in [„Strom sparen ohne Anbieterwechsel“](/de/aktuelles/2026/08/05/strom-sparen-ohne-anbieterwechsel/) behandelt.
+Und genau diese Form **gibt es in Wallonien nicht**. Das Dekret vom 5. Mai 2022 sieht sie vor; der Durchführungserlass, der sie wirksam machen würde, wurde nie verabschiedet. ORES schreibt es schwarz auf weiß: „Es ist derzeit noch nicht möglich, seine Energie im Peer-to-Peer-Verfahren zu teilen“, und „der Rechtsrahmen für das Peer-to-Peer-Energieteilen ist noch nicht abgeschlossen“. Diese Blockade und ihre Kosten werden in [„Strom sparen ohne Anbieterwechsel“](/de/ratgeber/strom-sparen-ohne-anbieterwechsel/) behandelt.
 
 Bleibt schlicht die Ironie: **Die einfachste Stufe des kurzen Wegs bei Lebensmitteln ist die einzige verbotene Stufe des kurzen Wegs beim Strom.**
 
@@ -108,7 +108,7 @@ Die gemeinsame Einkaufsgruppe ist die wallonische Institution des kurzen Wegs sc
 
 Die Energiegemeinschaft ist deren beinahe wörtliche Übertragung, mit einem gewichtigen Unterschied: **Sie verlangt eine juristische Person und eine Genehmigung.** Wo eine Einkaufsgruppe am Küchentisch entsteht, muss eine erneuerbare oder Bürgerenergiegemeinschaft gegründet, der CWaPE gemeldet — die zehn Werktage Zeit hat, die Vollständigkeit der Akte zu prüfen — und dann zur Ausübung einer Teilungstätigkeit ermächtigt werden, nach **technischer Stellungnahme des oder der betroffenen Netzbetreiber**.
 
-Die vollständigen Schritte sind in [„Energiegemeinschaft in der Wallonie gründen“](/de/aktuelles/2026/05/11/energiegemeinschaft-gruenden-wallonien/) beschrieben und, aus Sicht der Beitrittswilligen, in [„Energiegemeinschaft in der Wallonie beitreten“](/de/aktuelles/2026/05/11/energiegemeinschaft-beitreten-wallonien/).
+Die vollständigen Schritte sind in [„Energiegemeinschaft in der Wallonie gründen“](/de/ratgeber/energiegemeinschaft-gruenden-wallonien/) beschrieben und, aus Sicht der Beitrittswilligen, in [„Energiegemeinschaft in der Wallonie beitreten“](/de/ratgeber/energiegemeinschaft-beitreten-wallonien/).
 
 Die Zählung selbst ist schnell erledigt. Am 25. August 2026 führte die öffentliche Liste der CWaPE **13 Gemeinschaften** mit vollständiger Akte, verteilt von Aubange bis Rixensart, von Gesves bis Tournai. Die älteste, Soleil d'Aubange, wurde im Mai 2024 gemeldet. Eine Kartierung vom Juni 2026 zählte **8 tatsächlich laufende Teilungsvorgänge**, getragen von lediglich 5 Gemeinschaften, während die übrigen noch nicht gestartet waren.
 
@@ -132,7 +132,7 @@ Die ersten drei Stufen und die vierte sind keine Varianten derselben Sache, und 
 | **Was kurz ist** | Die Zurechnung der Kilowattstunde | Die Wertschöpfungskette und das Eigentum |
 | **Was Sie werden** | Teilnehmende | Mitglied, also Miteigentümerin |
 
-Das Teilen ersetzt Ihren Vertrag nicht: ORES ist eindeutig, „jeder Teilnehmende behält seinen Vertrag bei seinem jeweiligen Anbieter“. Sie erhalten zwei Rechnungen — die des Anbieters für die Restenergie und die Netzkosten, die des Vertreters der Teilung für die erhaltenen Mengen. Die Mechanik dieser doppelten Abrechnung ist in [„Geteilten Strom in Belgien abrechnen“](/de/aktuelles/2026/07/23/geteilten-strom-abrechnen-belgien/) beschrieben.
+Das Teilen ersetzt Ihren Vertrag nicht: ORES ist eindeutig, „jeder Teilnehmende behält seinen Vertrag bei seinem jeweiligen Anbieter“. Sie erhalten zwei Rechnungen — die des Anbieters für die Restenergie und die Netzkosten, die des Vertreters der Teilung für die erhaltenen Mengen. Die Mechanik dieser doppelten Abrechnung ist in [„Geteilten Strom in Belgien abrechnen“](/de/ratgeber/geteilten-strom-abrechnen-belgien/) beschrieben.
 
 Die gute Nachricht: Beide Logiken lassen sich stapeln. Nichts hindert Sie daran, Genossenschaftsmitglied, Cociter-Kunde **und** Teilnehmende an einer Energiegemeinschaft zu sein.
 
@@ -152,7 +152,7 @@ In einer Einkaufsgruppe nimmt Ihre Nachbarin Ihre Kiste mit, wenn Sie am Diensta
 
 Beim Energieteilen gibt es **keine Entsprechung**. Was ein Teilnehmender zwischen 12:00 und 12:15 Uhr nicht verbraucht, wird weder auf das nächste Zeitfenster übertragen noch beiseitegelegt noch gutgeschrieben. Diese Menge verlässt schlicht die Teilung: Sie wird wieder zu gewöhnlicher Einspeisung, die der Erzeuger seinem Anbieter zum Einspeisetarif verkauft. ORES formuliert es ohne Umschweife: „Die Energie, die innerhalb der Energieteilungsgemeinschaft nicht verbraucht wird (Einspeiseüberschuss), wird von den Erzeugern an ihren Anbieter weiterverkauft.“
 
-Der Wertunterschied zwischen diesen beiden Schicksalen ist beträchtlich — er ist in [„Solarüberschuss: die 5 Optionen im Vergleich“](/de/aktuelles/2026/08/18/solarer-ueberschuss-was-tun-belgien/) beziffert. Wichtiger ist hier das Einfachere: **Jede Viertelstunde ist ein Markt, der öffnet und schließt, und nichts überlebt seine Schließung.**
+Der Wertunterschied zwischen diesen beiden Schicksalen ist beträchtlich — er ist in [„Solarüberschuss: die 5 Optionen im Vergleich“](/de/ratgeber/solarer-ueberschuss-was-tun-belgien/) beziffert. Wichtiger ist hier das Einfachere: **Jede Viertelstunde ist ein Markt, der öffnet und schließt, und nichts überlebt seine Schließung.**
 
 Eine Nuance sei genannt, denn sie wird oft missverstanden: Speicher heben diese Bedingung nicht auf, sie verschieben sie. Ein beim Erzeuger oder im Gebäude installierter Speicher erlaubt es, den Zeitpunkt der Einspeisung zu verschieben und damit die Teilung in ein günstigeres Zeitfenster zu verlegen. Die Viertelstundenregel selbst bewegt sich jedoch nicht: Gespeicherte Energie muss gleichwohl im selben Zeitfenster eingespeist und verbraucht werden, um geteilt zu werden. Der Kühlschrank existiert, er ist teuer, und er steht nicht im System — er liegt davor.
 
@@ -207,7 +207,7 @@ Ein Umstand wirkt inzwischen in die richtige Richtung, und er ist jung. Seit dem
 
 Das solare Mittagsfenster, das werktags zuvor in der Hochlastzeit lag, ist damit in die Niederlastzeit gewandert. Da die Netzkosten auf geteiltem Strom geschuldet bleiben, kostet das Teilen zur Mittagszeit heute weniger Verteiltarif als 2025. Die Niederlastzeiten umfassen nunmehr 15 Stunden am Tag gegenüber 9 Spitzenstunden.
 
-Das ist keine Umwälzung, und an der Viertelstundenregel ändert es nichts. Aber es ist eine seltene Übereinstimmung zwischen Tariflogik und der Logik des kurzen Wegs, und sie verdient es, zögernden Teilnehmenden genannt zu werden. Die übrigen wallonischen Hebel sind in [„Stromrechnung senken: Wallonien 2026“](/de/aktuelles/2026/07/28/stromrechnung-senken-wallonien-2026/) aufgeführt.
+Das ist keine Umwälzung, und an der Viertelstundenregel ändert es nichts. Aber es ist eine seltene Übereinstimmung zwischen Tariflogik und der Logik des kurzen Wegs, und sie verdient es, zögernden Teilnehmenden genannt zu werden. Die übrigen wallonischen Hebel sind in [„Stromrechnung senken: Wallonien 2026“](/de/ratgeber/stromrechnung-senken-wallonien/) aufgeführt.
 
 ### Der Aufteilungsschlüssel: wie man den Korb teilt, wenn er nicht für alle reicht
 
@@ -215,7 +215,7 @@ Eine letzte Parallele, und die getreueste. In einer Einkaufsgruppe muss bei knap
 
 Beim Energieteilen heißt diese Regel **Aufteilungsschlüssel**. Der Netzbetreiber wendet Viertelstunde für Viertelstunde den Schlüssel an, den die Teilnehmenden im Voraus gewählt haben, und die CWaPE hat eine Reihe von Standardschlüsseln festgelegt. Er kann später über den Vertreter der Teilung geändert werden.
 
-Es ist die strukturierendste Entscheidung eines Projekts, denn sie bestimmt, wer tatsächlich von der Erzeugung profitiert. Der Vergleich der von den drei belgischen Regulierungsbehörden anerkannten Schlüsseltypen findet sich in [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/), und wie sich ein Schlüssel vor der Freigabe an den eigenen Daten prüfen lässt, in [„Aufteilungsschlüssel simulieren: Szenarien testen“](/de/aktuelles/2026/06/09/verteilungsschluessel-simulieren-optimce/).
+Es ist die strukturierendste Entscheidung eines Projekts, denn sie bestimmt, wer tatsächlich von der Erzeugung profitiert. Der Vergleich der von den drei belgischen Regulierungsbehörden anerkannten Schlüsseltypen findet sich in [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/ratgeber/verteilungsschluessel-energiegemeinschaft-belgien/), und wie sich ein Schlüssel vor der Freigabe an den eigenen Daten prüfen lässt, in [„Aufteilungsschlüssel simulieren: Szenarien testen“](/de/ratgeber/verteilungsschluessel-simulieren-optimce/).
 
 Ein methodischer Rat: **Simulieren Sie, bevor Sie werben.** Ein an echten Lastgängen geprüfter Schlüssel sagt unmittelbar, ob die vorgesehene Gruppe die Erzeugung aufnimmt oder nicht — und damit, ob zuerst eine Schule und nicht zehn Haushalte zu gewinnen sind.
 
@@ -227,7 +227,7 @@ Wer je eine Einkaufsgruppe geführt hat, weiß, dass das Konzept einfach und die
 
 In einer Einkaufsgruppe gibt es immer eine Person, die die Bestellungen bündelt, die Säumigen erinnert und dienstagabends den Raum aufschließt. Ohne sie erlischt die Gruppe binnen sechs Monaten.
 
-Das Energieteilen hat seine förmliche Entsprechung: den **Vertreter der Teilung**. Er unterzeichnet die Vereinbarung mit dem Netzbetreiber, verantwortet den Aufteilungsschlüssel, stellt den Teilnehmenden die erhaltenen Mengen in Rechnung und verfolgt die Zahlungen. Das ist kein Ehrenamt im Zierrat-Sinne: Es ist wiederkehrende Verwaltungsarbeit, meist unentgeltlich. Die Werkzeuge zur Einbindung und Governance, die diese Last mindern, sind in [„Mitglieder einer Energiegemeinschaft einbinden“](/de/aktuelles/2026/06/24/energiegemeinschaft-mitglieder-einbinden/) beschrieben.
+Das Energieteilen hat seine förmliche Entsprechung: den **Vertreter der Teilung**. Er unterzeichnet die Vereinbarung mit dem Netzbetreiber, verantwortet den Aufteilungsschlüssel, stellt den Teilnehmenden die erhaltenen Mengen in Rechnung und verfolgt die Zahlungen. Das ist kein Ehrenamt im Zierrat-Sinne: Es ist wiederkehrende Verwaltungsarbeit, meist unentgeltlich. Die Werkzeuge zur Einbindung und Governance, die diese Last mindern, sind in [„Mitglieder einer Energiegemeinschaft einbinden“](/de/ratgeber/energiegemeinschaft-mitglieder-einbinden/) beschrieben.
 
 ### Die Gebühren des Anbieters können den Gewinn aufzehren
 
@@ -235,7 +235,7 @@ Das ist der wichtigste Punkt dieses Abschnitts und der am seltensten ausgewiesen
 
 Mehrere Anbieter stellen Kundinnen und Kunden, die an einem Teilungsvorgang mitwirken, Verwaltungsgebühren in Rechnung. ENGIE etwa gibt an, **121 € inklusive MwSt. (100 € ohne MwSt.) für jeden Vertrag zu berechnen, der an einer Form des Energieteilens in Wallonien oder Flandern teilnimmt** — ohne Anteilsberechnung: Der Betrag ist in voller Höhe geschuldet, ob Sie sechs oder zwölf Monate teilen.
 
-Gemessen am erwarteten Gewinn eines bescheidenen Haushaltsteilnehmers — in der Größenordnung von hundert Euro im Jahr für einige hundert geteilte Kilowattstunden, wie [„Strom sparen ohne Anbieterwechsel“](/de/aktuelles/2026/08/05/strom-sparen-ohne-anbieterwechsel/) darlegt — ist dieser Betrag keine Reibung: Er ist möglicherweise **der gesamte Vorteil**.
+Gemessen am erwarteten Gewinn eines bescheidenen Haushaltsteilnehmers — in der Größenordnung von hundert Euro im Jahr für einige hundert geteilte Kilowattstunden, wie [„Strom sparen ohne Anbieterwechsel“](/de/ratgeber/strom-sparen-ohne-anbieterwechsel/) darlegt — ist dieser Betrag keine Reibung: Er ist möglicherweise **der gesamte Vorteil**.
 
 Test-Achats zog daraus bereits im September 2024 einen strengen Schluss und schrieb, angesichts dieser Gebühren „empfehlen wir das Energieteilen in Flandern und Wallonien derzeit nicht mehr“. Und die Zeitschrift Renouvelle hielt im Oktober 2025 fest, dass die CREG auf diese Aufschläge keinen Zugriff hat, weil sie zum liberalisierten Teil der Rechnung gehören — die Bundesregulierungsbehörde kann daher weder deren Verhältnismäßigkeit noch Missbrauch kontrollieren.
 
@@ -245,13 +245,13 @@ Die praktische Folge ist einfach und gehört in die erste Informationsveranstalt
 
 Ohne kommunizierenden Zähler oder fernausgelesenen viertelstündlichen Zweirichtungszähler ist keine Teilung möglich. ORES ist kategorisch: „Jeder Teilnehmende muss mit einem fernausgelesenen viertelstündlichen Zweirichtungszähler oder einem kommunizierenden Zähler ausgestattet sein.“
 
-Eine Folgerung für wallonische Erzeuger: Die Teilung ist **mit der jährlichen Saldierung unvereinbar**, jenem Mechanismus, der den Zähler rückwärts laufen lässt. Der eine rechnet im Jahr, der andere in der Viertelstunde; beide können auf demselben Lieferpunkt nicht nebeneinander bestehen. Die bezifferte Abwägung findet sich in [„Solaranlage 2026: lohnt sie sich in Wallonien?“](/de/aktuelles/2026/08/11/solaranlage-rentabel-wallonien-2026/), und sie fällt nicht immer zugunsten der Teilung aus.
+Eine Folgerung für wallonische Erzeuger: Die Teilung ist **mit der jährlichen Saldierung unvereinbar**, jenem Mechanismus, der den Zähler rückwärts laufen lässt. Der eine rechnet im Jahr, der andere in der Viertelstunde; beide können auf demselben Lieferpunkt nicht nebeneinander bestehen. Die bezifferte Abwägung findet sich in [„Solaranlage 2026: lohnt sie sich in Wallonien?“](/de/ratgeber/solaranlage-rentabel-wallonien/), und sie fällt nicht immer zugunsten der Teilung aus.
 
 ### Der Kalender endet nicht mit dem Start
 
 Eine Energiegemeinschaft ist keine einmalig auszufüllende Formalität. Sie muss der CWaPE jedes Jahr **bis zum 1. September** ein Formular zur Aktualisierung und jährlichen Berichterstattung übermitteln. Seit dem **25. Juni 2026** erfolgen sowohl die Meldung als auch die jährliche Berichterstattung online über die Formulare von Mon Espace. Eine sechs Monate unvollständig gebliebene Akte wird hinfällig.
 
-Das vollständige Verzeichnis dieser Pflichten steht in [„Energiegemeinschaft: CWaPE-Dokumente und Fristen“](/de/aktuelles/2026/08/12/energiegemeinschaft-verwaltungsdokumente-wallonien/).
+Das vollständige Verzeichnis dieser Pflichten steht in [„Energiegemeinschaft: CWaPE-Dokumente und Fristen“](/de/ratgeber/energiegemeinschaft-verwaltungsdokumente-wallonien/).
 
 ## Warum Wallonien das eine geschafft hat und das andere nicht
 

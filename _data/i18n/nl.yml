@@ -144,26 +144,14 @@ blog:
   all_posts: "Alle nieuws bekijken"
   published_on: "Gepubliceerd op"
   by_author: "door"
-  back_to_blog: "Terug naar nieuws"
   older_posts: "Oudere berichten"
   newer_posts: "Nieuwere berichten"
   updated_on: "Bijgewerkt op"
-  filter_label: "Filteren op tag"
   sort_label: "Sorteren op"
-  all_tags: "Alles"
-  no_results: "Geen artikelen voldoen aan dit filter."
   sort:
     newest: "Nieuwste eerst"
     oldest: "Oudste eerst"
     updated: "Recent bijgewerkt"
-  tags:
-    app: "OptimCE-app"
-    administrative: "Administratief"
-    allocation-key: "Verdeelsleutel"
-    community: "Energiegemeenschap"
-    announcement: "Aankondiging"
-    news: "Nieuws"
-    guide: "Gids"
 
 # Guides: index page and pillar pages
 guides:

@@ -40,7 +40,7 @@ Cette dernière particularité compte plus qu'il n'y paraît. Une communauté d'
 
 Le constat de départ est simple à énoncer et pénible à vivre : **la complexité administrative d'une communauté d'énergie est disproportionnée par rapport à sa taille**.
 
-Une communauté de trente ménages doit gérer les mêmes objets qu'un fournisseur d'énergie — points de fourniture, relevés au quart d'heure, clés de répartition, facturation, reporting au gestionnaire de réseau — sans en avoir ni les effectifs ni les systèmes. Et le cadre applicable n'est pas stable : en Belgique, la compétence énergie est régionale, si bien que la Wallonie, Bruxelles et la Flandre imposent trois cadres distincts, avec leurs propres régulateurs et leurs propres familles de clés. Le cadre européen qui les surplombe est décrit dans notre article [« Communautés d'énergie en Europe : RED II et IEMD »](/actualites/2026/03/05/communautes-energie-en-europe/).
+Une communauté de trente ménages doit gérer les mêmes objets qu'un fournisseur d'énergie — points de fourniture, relevés au quart d'heure, clés de répartition, facturation, reporting au gestionnaire de réseau — sans en avoir ni les effectifs ni les systèmes. Et le cadre applicable n'est pas stable : en Belgique, la compétence énergie est régionale, si bien que la Wallonie, Bruxelles et la Flandre imposent trois cadres distincts, avec leurs propres régulateurs et leurs propres familles de clés. Le cadre européen qui les surplombe est décrit dans notre article [« Communautés d'énergie en Europe : RED II et IEMD »](/guides/communautes-energie-en-europe/).
 
 Les outils disponibles étaient soit des tableurs — souples mais non auditables et vite ingérables — soit des solutions propriétaires conçues pour des acteurs d'une tout autre taille.
 
@@ -100,7 +100,7 @@ Tout se passe sur l'organisation GitHub OptimCE. Le dépôt monorepo agrège les
 
 ## Pour aller plus loin
 
-> **[Communautés d'énergie en Belgique : CER, CEC, CEL](/actualites/2026/05/11/communautes-energie-belgique/)**
+> **[Communautés d'énergie en Belgique : CER, CEC, CEL](/guides/communautes-energie-belgique/)**
 >
 > Les trois statuts belges, le partage d'énergie et le rôle du régulateur et du GRD.
 

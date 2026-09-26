@@ -118,11 +118,11 @@ De functionele details van elke stap staan in de [gebruikersgids](https://guide.
 
 Is het onderwerp nieuw voor u in plaats van het gereedschap, begin dan bij het kader:
 
-> **[Energiegemeenschappen in België: CER, CEC, CEL](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/)**
+> **[Energiegemeenschappen in België: CER, CEC, CEL](/nl/gidsen/energiegemeenschappen-belgie/)**
 >
 > De drie statuten, energiedelen, en de rol van de regulator en de netbeheerder.
 
-> **[Verdeelsleutel automatisch genereren](/nl/nieuws/2026/05/26/automatische-verdeelsleutel-generatie/)**
+> **[Verdeelsleutel automatisch genereren](/nl/gidsen/automatische-verdeelsleutel-generatie/)**
 >
 > Hoe de generatiemodule op basis van uw echte data een sleutel voorstelt.
 

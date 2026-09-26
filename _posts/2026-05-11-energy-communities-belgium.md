@@ -10,7 +10,7 @@ lang: en
 ref: energy-communities-belgium
 pillar: communautes-energie
 last_modified_at: 2026-07-20 10:00:00 +0200
-permalink: /en/news/2026/05/11/energy-communities-belgium/
+permalink: /en/guides/energy-communities-belgium/
 ---
 
 Energy communities are at the heart of Belgium's energy transition. Framed by the European Union and adapted by each region — Wallonia, Brussels, Flanders — they let citizens, businesses and local authorities produce, share and consume their own energy. This article walks through the three official forms (CER, CEC, CEL), explains how energy sharing actually works, introduces the key actors, and summarises the financial and ecological benefits.
@@ -108,7 +108,7 @@ Individuals, SMEs and local authorities can take part. Participation is open and
 
 ### How is my discount calculated?
 
-The DSO analyses your 15-minute readings, applies the **allocation key** defined by the community, and tells your supplier how much shared energy was attributed to you. That share is billed at the rate negotiated within the community, typically below the market rate. For the detail of the key types accepted in each region, see our guide [“Allocation key in Belgium: the 3 regions”](/en/news/2026/05/19/allocation-key-belgium/).
+The DSO analyses your 15-minute readings, applies the **allocation key** defined by the community, and tells your supplier how much shared energy was attributed to you. That share is billed at the rate negotiated within the community, typically below the market rate. For the detail of the key types accepted in each region, see our guide [“Allocation key in Belgium: the 3 regions”](/en/guides/allocation-key-belgium/).
 
 ### Is there a geographic limit?
 
@@ -134,7 +134,7 @@ Through the **smart meters** rolled out by the DSOs, which transmit data every *
 
 **In Wallonia**, the framework has been stable since 2022 and the procedure is fully documented. We've written a dedicated step-by-step guide:
 
-> **[Create an energy community in Wallonia](/en/news/2026/05/11/create-energy-community-wallonia/)**
+> **[Create an energy community in Wallonia](/en/guides/create-energy-community-wallonia/)**
 >
 > Choosing between CER and CEC, framing the project, notifying the CWaPE, receiving the acknowledgement, and launching the sharing with ORES, RESA or AIEG.
 
@@ -146,7 +146,7 @@ Through the **smart meters** rolled out by the DSOs, which transmit data every *
 
 **In Wallonia**, hundreds of sharing operations are actively looking for new members. You don't have to create your own community to benefit from sharing — a practical guide walks you through joining an existing operation in a few weeks.
 
-> **[Join an energy community in Wallonia](/en/news/2026/05/11/join-energy-community-wallonia/)**
+> **[Join an energy community in Wallonia](/en/guides/join-energy-community-wallonia/)**
 >
 > Who can join, where to find an open operation (OptimCE registry, SPW facilitator, Énergie commune), step-by-step enrolment and points to check before you sign.
 

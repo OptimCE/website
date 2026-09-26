@@ -10,7 +10,7 @@ lang: de
 ref: why-electricity-bill-stays-high
 pillar: facture-electricite
 last_modified_at: 2026-08-05 10:00:00 +0200
-permalink: /de/aktuelles/2026/07/25/warum-stromrechnung-hoch-bleibt-belgien/
+permalink: /de/ratgeber/warum-stromrechnung-hoch-bleibt-belgien/
 faq:
   - q: "Warum sinkt meine Stromrechnung nicht, obwohl die Energiepreise gefallen sind?"
     a: "Weil der Energiepreis nur etwa 40 % Ihrer Rechnung ausmacht. Die CREG stellt es ausdrücklich fest: die Energiekomponente entspricht rund 40 % der gesamten Stromrechnung. Die übrigen 60 % bestehen aus regulierten Netzkosten, Steuern, Akzisen und Mehrwertsteuer. Ein Rückgang von 20 % bei der Energie nimmt der Rechnung also nur etwa 8 %. Und wenn die Netztarife im selben Jahr um 6 bis 8 % steigen, wie 2026 in Wallonien und Brüssel, wird der Gewinn aufgezehrt."
@@ -59,7 +59,7 @@ Drei unmittelbare Folgen, und sie erklären den größten Teil des Unbehagens:
 
 - **Ein Rückgang bei der Energie wird um den Faktor zweieinhalb gedämpft.** Fällt der Preis der Commodity um 20 %, sinkt Ihre Rechnung nur um etwa 8 %. Bei 1.293 € sind das rund hundert Euro — sichtbar, aber weit entfernt von dem, was Schlagzeilen suggerieren.
 - **Die Mehrwertsteuer verstärkt die Erhöhungen der anderen Blöcke.** Mit 6 % kommt sie auf Energie, Netz und die meisten Zuschläge obendrauf. Jede Erhöhung des Netztarifs wird unterwegs also noch um 6 % angehoben. Zwei bemerkenswerte Ausnahmen: die wallonische Anschlussabgabe und der flämische Energiefondsbeitrag sind davon befreit (CREG).
-- **Das Gewicht des Netzes verändert sich stark je nach Ort.** In Wallonien klettert es auf 32,7 % der Rechnung, gegenüber 24,6 % in Brüssel (CREG, Juni 2026, ausgeführt in unserem Leitfaden [„Interner Verrechnungspreis für geteilten Strom“](/de/aktuelles/2026/07/20/strompreis-energiegemeinschaft/)). Dieselbe Maßnahme bewirkt also von Region zu Region nicht dasselbe.
+- **Das Gewicht des Netzes verändert sich stark je nach Ort.** In Wallonien klettert es auf 32,7 % der Rechnung, gegenüber 24,6 % in Brüssel (CREG, Juni 2026, ausgeführt in unserem Leitfaden [„Interner Verrechnungspreis für geteilten Strom“](/de/ratgeber/strompreis-energiegemeinschaft/)). Dieselbe Maßnahme bewirkt also von Region zu Region nicht dasselbe.
 
 ## Die Netzkosten steigen, wenn Ihre kWh sinken
 
@@ -158,7 +158,7 @@ Damit kommen wir zu der Frage, die die Leser dieses Blogs beschäftigt. Wenn die
 
 Und ein Posten, den fast keine Simulation vorwegnimmt: **Ihr Lieferant darf Kosten für Ihre Teilnahme an der Teilung berechnen.** Nichts verbietet es, und die festgestellten Beträge reichen bis zu rund 150 € pro Jahr und Lieferstelle. Bei kleinen geteilten Mengen zehren diese Kosten den Gewinn vollständig auf — für Test-Achats war es der Grund, die Energieteilung in Wallonien und Flandern nicht mehr zu empfehlen (Bewertung vom Mai 2024, vor jeder Entscheidung erneut zu prüfen).
 
-Was kauft die Energieteilung also wirklich? Einen **niedrigeren und vor allem stabileren** Preis auf einen Teil des Energieblocks, ohne Lieferantenwechsel und ohne Panelinstallation. Die Sparmechanismen, mit Zahlen, sind dargelegt in [„Stromrechnung senken mit Energiegemeinschaft“](/de/aktuelles/2026/06/03/energiegemeinschaft-stromrechnung-senken/); wie der interne Preis festgelegt wird, in [„Interner Verrechnungspreis für geteilten Strom“](/de/aktuelles/2026/07/20/strompreis-energiegemeinschaft/); und die Wahl zwischen individuellem Eigenverbrauch, kollektivem Eigenverbrauch und Energiegemeinschaft in [„Eigenverbrauch von Energie in Belgien“](/de/aktuelles/2026/06/05/eigenverbrauch-energie-belgien/). Wenn Sie noch bei den Mengen und nicht bei den Euro stehen, erklärt unser Referenzartikel [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/), wie bestimmt wird, welcher Anteil der lokalen Produktion Ihnen zufällt.
+Was kauft die Energieteilung also wirklich? Einen **niedrigeren und vor allem stabileren** Preis auf einen Teil des Energieblocks, ohne Lieferantenwechsel und ohne Panelinstallation. Die Sparmechanismen, mit Zahlen, sind dargelegt in [„Stromrechnung senken mit Energiegemeinschaft“](/de/ratgeber/energiegemeinschaft-stromrechnung-senken/); wie der interne Preis festgelegt wird, in [„Interner Verrechnungspreis für geteilten Strom“](/de/ratgeber/strompreis-energiegemeinschaft/); und die Wahl zwischen individuellem Eigenverbrauch, kollektivem Eigenverbrauch und Energiegemeinschaft in [„Eigenverbrauch von Energie in Belgien“](/de/ratgeber/eigenverbrauch-energie-belgien/). Wenn Sie noch bei den Mengen und nicht bei den Euro stehen, erklärt unser Referenzartikel [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/ratgeber/verteilungsschluessel-energiegemeinschaft-belgien/), wie bestimmt wird, welcher Anteil der lokalen Produktion Ihnen zufällt.
 
 ## Was Sie mitnehmen sollten
 
@@ -173,9 +173,9 @@ In absteigender Reihenfolge der Wirksamkeit, hierauf haben Sie Einfluss:
 
 Was Sie nicht erwarten sollten: dass der Rückgang der Großhandelspreise oder der Akzisen sich klar auf Ihrer Jahresabrechnung ablesen lässt. Er steckt darin — verdünnt in einem Ganzen, von dem er nur einen Bruchteil ausmacht.
 
-Und wenn Sie nun die Liste der Schritte statt der Erklärung suchen: Unser Leitfaden [„Stromrechnung senken: Wallonien 2026“](/de/aktuelles/2026/07/28/stromrechnung-senken-wallonien-2026/) beziffert zehn wallonische Hebel auf Grundlage der ORES-Tarifliste 2026 — sechs davon kosten nichts.
+Und wenn Sie nun die Liste der Schritte statt der Erklärung suchen: Unser Leitfaden [„Stromrechnung senken: Wallonien 2026“](/de/ratgeber/stromrechnung-senken-wallonien/) beziffert zehn wallonische Hebel auf Grundlage der ORES-Tarifliste 2026 — sechs davon kosten nichts.
 
-Und wenn sich Ihre Frage nun auf das Dokument selbst richtet — welche Zeile was bedeutet, wo der EAN-Code steht, warum ein geschätzter Zählerstand einen Anstieg erzeugt, den es gar nicht gibt —, entschlüsselt unser Leitfaden [„Belgische Stromrechnung Zeile für Zeile lesen“](/de/aktuelles/2026/07/30/stromrechnung-lesen-belgien/) die Rechnung Posten für Posten. Und wenn Sie wissen möchten, ob die Energieteilung bei Ihnen überhaupt verfügbar ist, macht [„Strom sparen ohne Anbieterwechsel“](/de/aktuelles/2026/08/05/strom-sparen-ohne-anbieterwechsel/) den Test der drei Regionen.
+Und wenn sich Ihre Frage nun auf das Dokument selbst richtet — welche Zeile was bedeutet, wo der EAN-Code steht, warum ein geschätzter Zählerstand einen Anstieg erzeugt, den es gar nicht gibt —, entschlüsselt unser Leitfaden [„Belgische Stromrechnung Zeile für Zeile lesen“](/de/ratgeber/stromrechnung-lesen-belgien/) die Rechnung Posten für Posten. Und wenn Sie wissen möchten, ob die Energieteilung bei Ihnen überhaupt verfügbar ist, macht [„Strom sparen ohne Anbieterwechsel“](/de/ratgeber/strom-sparen-ohne-anbieterwechsel/) den Test der drei Regionen.
 
 > ### Verwalten Sie Ihre Energieteilung mit OptimCE
 >

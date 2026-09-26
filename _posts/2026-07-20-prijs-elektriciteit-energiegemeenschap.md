@@ -9,7 +9,7 @@ tags: [community, administrative, guide]
 lang: nl
 ref: internal-price-shared-energy
 pillar: prix-facturation-communaute
-permalink: /nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/
+permalink: /nl/gidsen/prijs-elektriciteit-energiegemeenschap/
 last_modified_at: 2026-07-25 10:00:00 +0200
 faq:
   - q: "Wie bepaalt de prijs van de gedeelde elektriciteit in een energiegemeenschap?"
@@ -32,7 +32,7 @@ Een eigenaar van zonnepanelen verkoopt zijn overschot vandaag tussen **0,94 en 4
 
 Blijft de vraag die elke projectdrager uiteindelijk stelt, vaak te laat: **welke prijs schrijft u in de overeenkomst?** Geen enkele Belgische regulator publiceert een antwoord. Noch de CWaPE, noch BRUGEL, noch de Vlaamse Nutsregulator verspreidt een rekenmethode of een referentietarief. Dit artikel vult die leemte: wat de interne prijs werkelijk dekt, tussen welke grenzen hij moet vallen, vijf methodes om hem op te bouwen, een volledig doorgerekend Belgisch praktijkgeval, en wat het kader in elk gewest toelaat.
 
-Is de mechaniek van het delen u nog vreemd, begin dan bij ons referentieartikel [“Verdeelsleutel in België: de 3 regio's”](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/): de sleutel bepaalt *hoeveel kWh* elk lid krijgt, de prijs bepaalt *hoeveel euro*.
+Is de mechaniek van het delen u nog vreemd, begin dan bij ons referentieartikel [“Verdeelsleutel in België: de 3 regio's”](/nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/): de sleutel bepaalt *hoeveel kWh* elk lid krijgt, de prijs bepaalt *hoeveel euro*.
 
 ## De interne overdrachtsprijs vervangt maar een derde van de factuur
 
@@ -57,14 +57,14 @@ Twee praktische gevolgen:
 
 ### Wat de vertegenwoordiger bovenop de prijs factureert
 
-Bij de afgesproken prijs komen, op de factuur van de gemeenschap zelf, “de btw, de accijnzen en de openbaredienstverplichting tot inlevering van groenestroomcertificaten” ([CWaPE](https://www.cwape.be/node/6063)). Wie deze factuur opstelt en welke vermeldingen ze moet dragen, is het onderwerp van onze gids [“Gedeelde elektriciteit factureren in België”](/nl/nieuws/2026/07/23/gedeelde-elektriciteit-factureren-belgie/). Twee preciseringen waarover veel projecten struikelen:
+Bij de afgesproken prijs komen, op de factuur van de gemeenschap zelf, “de btw, de accijnzen en de openbaredienstverplichting tot inlevering van groenestroomcertificaten” ([CWaPE](https://www.cwape.be/node/6063)). Wie deze factuur opstelt en welke vermeldingen ze moet dragen, is het onderwerp van onze gids [“Gedeelde elektriciteit factureren in België”](/nl/gidsen/gedeelde-elektriciteit-factureren-belgie/). Twee preciseringen waarover veel projecten struikelen:
 
 - **De btw is niet uniform.** Het verlaagde tarief van **6 % geldt voor de levering van elektriciteit aan een particuliere klant**, tegenover **21 % voor een professionele klant**: een gemeenschap met gemengde leden moet er dus op rekenen tegen twee tarieven te factureren. Onder 25.000 € omzet excl. btw per jaar kan de [vrijstellingsregeling voor kleine ondernemingen](https://finances.belgium.be/fr/entreprises/tva/assujettissement-tva/regime-franchise-taxe) van toepassing zijn. Geen enkele circulaire behandelt het energiedelen specifiek: laat uw situatie door uw boekhouder valideren vóór de eerste factuur.
 - **De federale bijdrage bestaat niet meer.** Ze werd op 31 december 2021 afgeschaft en opgeslorpt door de bijzondere accijns ([CREG](https://www.creg.be/fr/a-z-index/cotisation-federale)). Veel documenten die nog circuleren, vermelden ze nog altijd: neem ze niet op in uw simulaties.
 
 ## De netkosten dalen bijna nooit
 
-Het idee dat een energiegemeenschap van verlaagde nettarieven geniet, is wijdverspreid. Het is vooral **onjuist in het meest voorkomende geval**. We ontleden elders, blok per blok, [waarom een Belgische elektriciteitsfactuur hoog blijft ondanks dalende prijzen](/nl/nieuws/2026/07/25/waarom-elektriciteitsfactuur-hoog-blijft-belgie/) — nettarieven, taksen en leveranciersmarge inbegrepen. Het detail per gewest:
+Het idee dat een energiegemeenschap van verlaagde nettarieven geniet, is wijdverspreid. Het is vooral **onjuist in het meest voorkomende geval**. We ontleden elders, blok per blok, [waarom een Belgische elektriciteitsfactuur hoog blijft ondanks dalende prijzen](/nl/gidsen/waarom-elektriciteitsfactuur-hoog-blijft-belgie/) — nettarieven, taksen en leveranciersmarge inbegrepen. Het detail per gewest:
 
 | Gewest | Verlaging van de nettarieven op de gedeelde kWh |
 |---|---|

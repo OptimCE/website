@@ -15,7 +15,8 @@ timezone: "Europe/Brussels"
 
 # Supported languages
 # Every section path is language-owned: scripts/check_seo.py flags a post that
-# links into another language's paths.
+# links into another language's paths, and _plugins/site_graph.rb checks that
+# each post lives under the path of its section (blog, guides or solutions).
 # `locale` is the Open Graph territory code; jekyll-seo-tag reads it from
 # page.locale, which _plugins/i18n_metadata.rb sets from these values.
 languages:

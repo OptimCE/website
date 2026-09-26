@@ -144,26 +144,14 @@ blog:
   all_posts: "Voir toutes les actualités"
   published_on: "Publié le"
   by_author: "par"
-  back_to_blog: "Retour aux actualités"
   older_posts: "Articles précédents"
   newer_posts: "Articles suivants"
   updated_on: "Mis à jour le"
-  filter_label: "Filtrer par tag"
   sort_label: "Trier par"
-  all_tags: "Tous"
-  no_results: "Aucun article ne correspond à ce filtre."
   sort:
     newest: "Plus récent d'abord"
     oldest: "Plus ancien d'abord"
     updated: "Récemment mis à jour"
-  tags:
-    app: "Application OptimCE"
-    administrative: "Administratif"
-    allocation-key: "Clé de répartition"
-    community: "Communauté d'énergie"
-    announcement: "Annonce"
-    news: "Nouveautés"
-    guide: "Guide"
 
 # Guides: index page and pillar pages
 guides:

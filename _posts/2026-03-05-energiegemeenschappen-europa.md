@@ -10,7 +10,7 @@ tags: [community, administrative, guide]
 lang: nl
 ref: energy-communities-europe
 pillar: communautes-energie
-permalink: /nl/nieuws/2026/03/05/energiegemeenschappen-europa/
+permalink: /nl/gidsen/energiegemeenschappen-europa/
 faq:
   - q: "Wat is het verschil tussen een hernieuwbare-energiegemeenschap en een burgerenergiegemeenschap?"
     a: "Een hernieuwbare-energiegemeenschap (HEG) komt uit de richtlijn RED II: ze betreft uitsluitend hernieuwbare energie en haar leden moeten zich in de nabijheid van de productie-installaties bevinden. Een burgerenergiegemeenschap (BEG) komt uit de elektriciteitsmarktrichtlijn: ze is technologieneutraal, betreft alleen elektriciteit en kent geen geografisch nabijheidsvereiste. In beide gevallen moet de daadwerkelijke zeggenschap bij natuurlijke personen, lokale overheden of kleine ondernemingen blijven."
@@ -87,7 +87,7 @@ Een richtlijn legt een resultaat op, geen rechtstreeks toepasbare regel. Elke li
 
 Energie is een **gewestelijke** bevoegdheid. Wallonië, Brussel en Vlaanderen passen elk hun eigen decreet of ordonnantie toe, met een eigen regulator — CWaPE, BRUGEL, VREG — en eigen families van verdeelsleutels. Een Brusselse en een Waalse gemeenschap volgen niet dezelfde regels, ook al vloeien beide voort uit dezelfde richtlijnen.
 
-De details van de drie kaders, de statuten CER, CEC en CEL en de rol van de netbeheerder behandelt ons referentieartikel: [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/).
+De details van de drie kaders, de statuten CER, CEC en CEL en de rol van de netbeheerder behandelt ons referentieartikel: [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/gidsen/energiegemeenschappen-belgie/).
 
 ### Frankrijk — collectief zelfverbruik als toegangspoort
 
@@ -111,9 +111,9 @@ Het contrast is leerrijk: waar Frankrijk een perimeter in kilometers vastlegt en
 
 Het Europese kader bepaalt wat u mág doen. Het nationale kader bepaalt **hoe u het moet bewijzen**. Concreet drie operationele gevolgen:
 
-- **De verdeelsleutel is niet vrij te kiezen.** Elk gewest of land erkent eigen families van sleutels, en buiten de catalogus treden vergt meestal een vergunning. Zie [“Verdeelsleutel in België: de 3 regio's”](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/).
-- **De facturatie hangt af van het statuut.** Wie welke factuur opstelt, en tegen welk btw-tarief, volgt uit het nationale regime. Zie [“Gedeelde elektriciteit factureren in België”](/nl/nieuws/2026/07/23/gedeelde-elektriciteit-factureren-belgie/).
-- **De daadwerkelijke zeggenschap moet aantoonbaar blijven.** Dat is een doorlopende bestuursvereiste, geen vakje dat u bij de oprichting aankruist. Zie [“Leden van een energiegemeenschap betrekken”](/nl/nieuws/2026/06/24/energiegemeenschap-leden-betrekken/).
+- **De verdeelsleutel is niet vrij te kiezen.** Elk gewest of land erkent eigen families van sleutels, en buiten de catalogus treden vergt meestal een vergunning. Zie [“Verdeelsleutel in België: de 3 regio's”](/nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/).
+- **De facturatie hangt af van het statuut.** Wie welke factuur opstelt, en tegen welk btw-tarief, volgt uit het nationale regime. Zie [“Gedeelde elektriciteit factureren in België”](/nl/gidsen/gedeelde-elektriciteit-factureren-belgie/).
+- **De daadwerkelijke zeggenschap moet aantoonbaar blijven.** Dat is een doorlopende bestuursvereiste, geen vakje dat u bij de oprichting aankruist. Zie [“Leden van een energiegemeenschap betrekken”](/nl/gidsen/energiegemeenschap-leden-betrekken/).
 
 Precies dat beheert [OptimCE](/nl/about/): leden, meters, verdeelsleutels en regelgevende rapportering, op een architectuur die gebouwd is voor nationale kaders die uiteenlopen.
 
@@ -143,11 +143,11 @@ Omdat een richtlijn een resultaat oplegt, geen rechtstreeks toepasbare regel. El
 
 Het Europese kader legt het principe vast; de concrete beslissingen vallen op nationaal en gewestelijk niveau.
 
-> **[Energiegemeenschappen in België: CER, CEC, CEL](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/)**
+> **[Energiegemeenschappen in België: CER, CEC, CEL](/nl/gidsen/energiegemeenschappen-belgie/)**
 >
 > De drie Belgische statuten, energiedelen, en de rol van de regulator en de netbeheerder.
 
-> **[Energiegemeenschap oprichten in Wallonië](/nl/nieuws/2026/05/11/energiegemeenschap-oprichten-wallonie/)**
+> **[Energiegemeenschap oprichten in Wallonië](/nl/gidsen/energiegemeenschap-oprichten-wallonie/)**
 >
 > Van de keuze van het model tot de opstart van het delen met uw netbeheerder.
 

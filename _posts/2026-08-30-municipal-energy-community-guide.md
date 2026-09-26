@@ -29,7 +29,7 @@ Wallonia has **262 municipalities**. As of 3 September 2026, the CWaPE lists **t
 
 Now read their names: *Soleil d'Aubange*, *DURBUY 1*, *LASNENERGIE*, *Soleil de Rixensart*, *Courants de Gaume*, *Communauté d'énergie partagée by BEP*. These are not start-up names. They are the names of territories. The Walloon energy-community movement is, in practice, a movement of local authorities — but it currently involves one municipality in twenty.
 
-This article does not repeat what is already written elsewhere on this site: the difference between the three Belgian statuses is covered in [“Energy communities in Belgium: CER, CEC, CEL”](/en/news/2026/05/11/energy-communities-belgium/), the general creation procedure in [“Create an energy community in Wallonia”](/en/news/2026/05/11/create-energy-community-wallonia/), the regulator's documents and deadlines in [“Energy community: CWaPE documents and deadlines”](/en/news/2026/08/12/energy-community-administrative-documents-wallonia/), internal pricing in [“Internal transfer price in an energy community”](/en/news/2026/07/20/energy-community-electricity-price/), allocation keys in [“Allocation key in Belgium: the 3 regions”](/en/news/2026/05/19/allocation-key-belgium/), and the degrees of the local short circuit in [“Local electricity: the short-circuit guide”](/en/news/2026/08/25/local-electricity-short-circuit-guide/).
+This article does not repeat what is already written elsewhere on this site: the difference between the three Belgian statuses is covered in [“Energy communities in Belgium: CER, CEC, CEL”](/en/guides/energy-communities-belgium/), the general creation procedure in [“Create an energy community in Wallonia”](/en/guides/create-energy-community-wallonia/), the regulator's documents and deadlines in [“Energy community: CWaPE documents and deadlines”](/en/guides/energy-community-administrative-documents-wallonia/), internal pricing in [“Internal transfer price in an energy community”](/en/guides/energy-community-electricity-price/), allocation keys in [“Allocation key in Belgium: the 3 regions”](/en/guides/allocation-key-belgium/), and the degrees of the local short circuit in [“Local electricity: the short-circuit guide”](/en/guides/local-electricity-short-circuit-guide/).
 
 It answers a question those articles do not ask: **what is it, in Walloon law, that makes the municipality the default scale of an energy community — and what does that change for an executive that has to arbitrate a climate plan with no budget?**
 
@@ -78,7 +78,7 @@ The first criterion is a Walloon peculiarity. It is worth measuring, because it 
 
 Neither the European directives nor the Brussels ordinance define proximity: in Brussels, it is the members of the community who must set the criteria in their own articles of association. Flanders proceeds comparably, tying the perimeter to the community's objectives. **Wallonia is the only one of the three regions where the legislator drew the perimeter itself, and where it drew it along the municipal boundary.**
 
-The full regional detail is in [“Energy communities in Belgium: CER, CEC, CEL”](/en/news/2026/05/11/energy-communities-belgium/) and, for keys, in [“Allocation key in Belgium: the 3 regions”](/en/news/2026/05/19/allocation-key-belgium/); there is no point repeating it here. One clarification about the tool, to be plain: OptimCE's document management module only knows the CWaPE today. A Brussels or Flemish municipality can use the platform to manage members, meters and keys, but not to produce its regulatory documents.
+The full regional detail is in [“Energy communities in Belgium: CER, CEC, CEL”](/en/guides/energy-communities-belgium/) and, for keys, in [“Allocation key in Belgium: the 3 regions”](/en/guides/allocation-key-belgium/); there is no point repeating it here. One clarification about the tool, to be plain: OptimCE's document management module only knows the CWaPE today. A Brussels or Flemish municipality can use the platform to manage members, meters and keys, but not to produce its regulatory documents.
 
 ## Three reasons to do it that have nothing to do with ecology
 
@@ -108,7 +108,7 @@ This table is a reason to hope, not to give up: the worse the building's profile
 
 Injected into the network with no further step, a kilowatt-hour of surplus currently earns between **0.94 and 4.90 cents** depending on the supplier — a factor of five, for a tariff regulated nowhere in Belgium. Shared, the same kilowatt-hour trades in a defensible band of **3 to 14 cents**, whose floor is precisely the injection tariff (below it, the producer has no interest in sharing) and whose ceiling is the energy component the participant already pays to their supplier.
 
-The full reasoning, with its five options compared, is in [“Solar surplus: the 5 options compared”](/en/news/2026/08/18/what-to-do-solar-surplus-belgium/), and the pricing method in [“Internal transfer price in an energy community”](/en/news/2026/07/20/energy-community-electricity-price/). For a municipality, the order of magnitude is enough: **sharing doubles the value of the surplus, for zero additional investment.**
+The full reasoning, with its five options compared, is in [“Solar surplus: the 5 options compared”](/en/guides/what-to-do-solar-surplus-belgium/), and the pricing method in [“Internal transfer price in an energy community”](/en/guides/energy-community-electricity-price/). For a municipality, the order of magnitude is enough: **sharing doubles the value of the surplus, for zero additional investment.**
 
 We will see below what that represents in real euros. Let us say straight away that it is not what will pay for the roof.
 
@@ -212,7 +212,7 @@ A few clarifications that save time:
 
 **On decision 2.** The selection criterion for participants is not enthusiasm, it is the consumption profile. Sharing is computed **per fifteen-minute period**: a kilowatt-hour generated at noon can only be allocated to a participant consuming at noon. A shop, a nursery, a home-based self-employed person or a care home absorb a great deal; a household whose two adults work away absorbs almost nothing on weekdays. Assembling the group before simulating what it actually absorbs is a guaranteed route to a disappointing key.
 
-**On decision 4.** Since **25 June 2026**, notification of the creation of an energy community, its modifications and its annual reporting go through online forms hosted on `monespace.wallonie.be`. The CWaPE has **ten working days** to confirm the file is complete, and an incomplete file can be completed within **six months**. The detail of the documents required is covered in [“Energy community: CWaPE documents and deadlines”](/en/news/2026/08/12/energy-community-administrative-documents-wallonia/).
+**On decision 4.** Since **25 June 2026**, notification of the creation of an energy community, its modifications and its annual reporting go through online forms hosted on `monespace.wallonie.be`. The CWaPE has **ten working days** to confirm the file is complete, and an incomplete file can be completed within **six months**. The detail of the documents required is covered in [“Energy community: CWaPE documents and deadlines”](/en/guides/energy-community-administrative-documents-wallonia/).
 
 **On decision 7.** Annual reporting falls **on 1 September**, every year, for all communities. It is not a rolling deadline pegged to the incorporation date: it is a fixed date, and it is the obligation young structures forget most readily.
 
@@ -267,7 +267,7 @@ Three routes remain open, and they are better:
 - Target households in difficulty that **do not** benefit from the social tariff, a large and poorly covered population.
 - Treat sharing as a **complement** to the social tariff, on the time slots where the household consumes anyway, sizing its share of the key so as not to erode the social advantage.
 
-The overview of existing support and the welfare centre's role as gateway are detailed in [“Energy poverty in Wallonia: available support”](/en/news/2026/08/08/energy-poverty-wallonia-support/); the arbitrations between tariffs, including the social tariff, in [“Which electricity tariff to choose in Belgium?”](/en/news/2026/08/03/choose-electricity-tariff-belgium/).
+The overview of existing support and the welfare centre's role as gateway are detailed in [“Energy poverty in Wallonia: available support”](/en/guides/energy-poverty-wallonia-support/); the arbitrations between tariffs, including the social tariff, in [“Which electricity tariff to choose in Belgium?”](/en/guides/choose-electricity-tariff-belgium/).
 
 ### Trap no. 3: the municipality becomes a seller of electricity
 
@@ -275,7 +275,7 @@ Sharing electricity for consideration means selling a good. That triggers obliga
 
 The energy community is **exempt from most VAT obligations** — it does not charge VAT to its participants — but it must nonetheless **obtain a VAT number**; below €25,000 of annual turnover, the exemption regime is available. On the generation side, anyone with installations of a cumulative capacity above **10 kVA** must register for VAT on the sale of their injection: a municipality equipping several roofs crosses that threshold very quickly. **Excise duties and federal levies**, finally, remain payable by the final consumer, at the same amount as for electricity bought from a conventional supplier.
 
-A **sharing agreement** between participants is also required, setting the allocation key, the cost of the shared electricity, the installations made available and the invoicing arrangements handled by the sharing representative. The invoicing mechanics — two coexisting invoices, mandatory mentions, VAT treatment — are covered in [“Invoicing shared electricity in Belgium”](/en/news/2026/07/23/who-invoices-shared-electricity-belgium/). The Aubange sheet explicitly lists fiscal and administrative integration (VAT, excise duties, agreements) among the project's challenges: it is not an end-of-process detail.
+A **sharing agreement** between participants is also required, setting the allocation key, the cost of the shared electricity, the installations made available and the invoicing arrangements handled by the sharing representative. The invoicing mechanics — two coexisting invoices, mandatory mentions, VAT treatment — are covered in [“Invoicing shared electricity in Belgium”](/en/guides/who-invoices-shared-electricity-belgium/). The Aubange sheet explicitly lists fiscal and administrative integration (VAT, excise duties, agreements) among the project's challenges: it is not an end-of-process detail.
 
 ### Trap no. 4: public procurement and supervision
 

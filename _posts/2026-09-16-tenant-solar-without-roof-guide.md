@@ -3,7 +3,7 @@ layout: post
 title: "Renting: the no-roof guide to solar"
 date: 2026-09-16 06:00:00 +0200
 author: "Eric from OptimCE"
-permalink: /en/news/2026/09/16/tenant-solar-without-roof-guide/
+permalink: /en/guides/tenant-solar-without-roof-guide/
 excerpt: "In Wallonia, 36.2% of dwellings are not occupied by their owner, and for apartments it is closer to seven in ten. Yet everything this site has published about solar assumes a roof you own. Since 17 April 2025 that is no longer the only door: a tenant can plug in a generator and take it along when they move. Declaring it triggers the free installation of the meter that, in turn, unlocks energy sharing. Both options hold up — provided you look at the length of your lease before you look at the hardware."
 description: "One Walloon home in three is not owner-occupied. What a tenant can actually do, since the legalisation of 17 April 2025."
 tags: [guide, community, administrative]
@@ -31,7 +31,7 @@ Because everything we have published about photovoltaics assumes the same thing:
 
 A tenant has neither. No access to grants, no signature on the quotes, no vote at the general meeting. The advice they get, when they get any, fits in one sentence: wait until you own. Since **17 April 2025**, that sentence has been wrong. On that date, plug & play photovoltaic kits — one or two panels, a micro-inverter, a socket — became legal in Belgium, having been legal nowhere before. A tenant can now own a generating installation. Better still: it comes apart and leaves with them.
 
-This article does not redo what is already written elsewhere on this site. [“Join an energy community in Wallonia”](/en/news/2026/05/11/join-energy-community-wallonia/) describes the administrative procedure and already sets out the principle that sharing follows the EAN rather than the title deed; [“Energy sharing in a condominium: the guide”](/en/news/2026/08/27/energy-sharing-condominium-guide/) covers the three Civil Code locks and the asymmetry between the person who votes and the person who consumes, but from the managing agent's point of view; [“Solar panels 2026: still worth it in Wallonia?”](/en/news/2026/08/11/solar-panels-worth-it-wallonia-2026/) works out the economics of a 4 kilowatt-peak roof; [“Cheaper electricity without switching supplier”](/en/news/2026/08/05/cheaper-electricity-without-switching-supplier/) compares how accessible sharing really is across the three regions; [“Energy poverty in Wallonia: available support”](/en/news/2026/08/08/energy-poverty-wallonia-support/) documents why tenants are the most exposed; [“Energy self-consumption in Belgium”](/en/news/2026/06/05/energy-self-consumption-belgium/) lays down the definitions.
+This article does not redo what is already written elsewhere on this site. [“Join an energy community in Wallonia”](/en/guides/join-energy-community-wallonia/) describes the administrative procedure and already sets out the principle that sharing follows the EAN rather than the title deed; [“Energy sharing in a condominium: the guide”](/en/news/2026/08/27/energy-sharing-condominium-guide/) covers the three Civil Code locks and the asymmetry between the person who votes and the person who consumes, but from the managing agent's point of view; [“Solar panels 2026: still worth it in Wallonia?”](/en/guides/solar-panels-worth-it-wallonia/) works out the economics of a 4 kilowatt-peak roof; [“Cheaper electricity without switching supplier”](/en/guides/cheaper-electricity-without-switching-supplier/) compares how accessible sharing really is across the three regions; [“Energy poverty in Wallonia: available support”](/en/guides/energy-poverty-wallonia-support/) documents why tenants are the most exposed; [“Energy self-consumption in Belgium”](/en/guides/energy-self-consumption-belgium/) lays down the definitions.
 
 **The question asked here is a different one: when you own neither the roof, nor the walls, nor the building, what exactly do you own — and what does Belgian law allow you to do with it?**
 
@@ -52,7 +52,7 @@ You do not own the roof. You do not own the façade. You have no claim on the re
 
 You own two things.
 
-The first is an **EAN code**: the supply point, the meter, the contract in your name. It is an administrative asset, it does not look like much, and yet it is the only object Belgian energy law looks at. The participant in a sharing scheme is not the owner of the wall, it is the holder of the supply point. That principle is already set out in our [guide to joining an energy community](/en/news/2026/05/11/join-energy-community-wallonia/); we take it here as a starting point, not as a conclusion.
+The first is an **EAN code**: the supply point, the meter, the contract in your name. It is an administrative asset, it does not look like much, and yet it is the only object Belgian energy law looks at. The participant in a sharing scheme is not the owner of the wall, it is the holder of the supply point. That principle is already set out in our [guide to joining an energy community](/en/guides/join-energy-community-wallonia/); we take it here as a starting point, not as a conclusion.
 
 The second is new, and it is what justifies this article: since 17 April 2025, you can own **a generating installation that is not incorporated into the building**. It is set down, plugged in, taken apart. Legally, it is movable property. Practically, it is the first time a Belgian tenant has been able to generate electricity without asking a wall for permission.
 
@@ -268,7 +268,7 @@ The framework changes, and on points that matter precisely to a tenant.
 
 **In Flanders**, sharing between individuals also works, and Fluvius has rolled out digital meters far faster than Wallonia — which removes, for most Flemish tenants, the meter obstacle. The regional recommendation on kits concerns inverter power, to be kept under 800 W; notification is required only under certain conditions, whereas it is systematic in Wallonia and Brussels. On the other hand the Flemish capacity tariff bears on peak power drawn, which changes how the value of a small generator should be read.
 
-The region-by-region detail — and above all the test of real accessibility, which does not map onto formal legality — is covered in [“Cheaper electricity without switching supplier”](/en/news/2026/08/05/cheaper-electricity-without-switching-supplier/). We do not redo it here.
+The region-by-region detail — and above all the test of real accessibility, which does not map onto formal legality — is covered in [“Cheaper electricity without switching supplier”](/en/guides/cheaper-electricity-without-switching-supplier/). We do not redo it here.
 
 ## Moving out: what follows you, what stays
 

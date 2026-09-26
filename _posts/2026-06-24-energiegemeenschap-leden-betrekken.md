@@ -9,7 +9,7 @@ tags: [community, app]
 lang: nl
 ref: engage-energy-community
 pillar: communautes-energie
-permalink: /nl/nieuws/2026/06/24/energiegemeenschap-leden-betrekken/
+permalink: /nl/gidsen/energiegemeenschap-leden-betrekken/
 faq:
   - q: "Wat is het verschil tussen een bericht en een poll?"
     a: "Een bericht (of publicatie) is informatie van boven naar beneden: de beheerder informeert de leden — vergaderingen, onderhoud, resultaten van de energiedeling, deadlines. Een poll is participatief: hij stelt een vraag en verzamelt de stemmen van de leden om een gezamenlijke beslissing voor te bereiden of te nemen."
@@ -75,7 +75,7 @@ Aan toepassingen geen gebrek:
 - **De datum** van een vergadering of evenement vastleggen.
 - **Een investering arbitreren** (extra panelen, gedeelde batterij, laadpaal).
 - **Een dienstverlener** of een beheeroptie kiezen.
-- **De verdeelsleutel laten evolueren.** Dat is wellicht het meest structurerende gebruik: de sleutel bepaalt welk aandeel van de lokale productie naar elk lid gaat, en dus ieders besparing. Hem in stemming brengen in plaats van hem op te leggen, verandert alles. Om te begrijpen wat er bij een sleutel op het spel staat, lees ons artikel [“Verdeelsleutel in België: de 3 regio's”](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/).
+- **De verdeelsleutel laten evolueren.** Dat is wellicht het meest structurerende gebruik: de sleutel bepaalt welk aandeel van de lokale productie naar elk lid gaat, en dus ieders besparing. Hem in stemming brengen in plaats van hem op te leggen, verandert alles. Om te begrijpen wat er bij een sleutel op het spel staat, lees ons artikel [“Verdeelsleutel in België: de 3 regio's”](/nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/).
 
 De sluitingsdatum maakt het proces glashelder: iedereen weet tegen wanneer te stemmen, en de beslissing is gedateerd. Eén essentiële, vaak vergeten vraag blijft: **wie ziet de resultaten, en wanneer?**
 
@@ -134,15 +134,15 @@ Het is niet verplicht, maar een nieuwsbord met polls dat in het beheerplatform i
 
 Een gemeenschap tot leven brengen begint met er een oprichten — of er een vervoegen en er actief aan deelnemen.
 
-> **[Energiegemeenschappen in België: CER, CEC, CEL](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/)**
+> **[Energiegemeenschappen in België: CER, CEC, CEL](/nl/gidsen/energiegemeenschappen-belgie/)**
 >
 > De referentiegids om de soorten gemeenschappen, de spelers en het wettelijke kader te begrijpen.
 
-> **[Een energiegemeenschap oprichten in Wallonië: stappenplan](/nl/nieuws/2026/05/11/energiegemeenschap-oprichten-wallonie/)**
+> **[Een energiegemeenschap oprichten in Wallonië: stappenplan](/nl/gidsen/energiegemeenschap-oprichten-wallonie/)**
 >
 > Van de keuze van het type gemeenschap tot de start van het delen met uw netbeheerder.
 
-> **[Aansluiten bij een energiegemeenschap in Wallonië: praktische gids](/nl/nieuws/2026/05/11/energiegemeenschap-aansluiten-wallonie/)**
+> **[Aansluiten bij een energiegemeenschap in Wallonië: praktische gids](/nl/gidsen/energiegemeenschap-aansluiten-wallonie/)**
 >
 > Wie kan toetreden, waar een open operatie te vinden en welke stappen erbij komen kijken.
 

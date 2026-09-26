@@ -9,10 +9,11 @@ tags: [community, administrative, guide]
 lang: fr
 ref: create-energy-community-wallonia
 pillar: communautes-energie
+permalink: /guides/creer-communaute-energie-wallonie/
 last_modified_at: 2026-09-03 06:00:00 +0200
 ---
 
-La Wallonie est, à ce jour, la région belge où les communautés d'énergie se déploient le plus rapidement. Cadre légal stabilisé depuis 2022, formulaire-type publié par la CWaPE, gestionnaires de réseau outillés : tous les ingrédients sont réunis pour qu'un groupe de citoyens, une commune, une école ou un parc d'entreprises lance son propre partage d'énergie. Ce guide décrit, pas à pas, **la procédure complète** : du choix du type de communauté à la mise en service du partage avec votre gestionnaire de réseau de distribution (GRD). Si vous n'êtes pas encore familier avec la notion même de communauté d'énergie, commencez par notre article [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/actualites/2026/05/11/communautes-energie-belgique/) — il pose le vocabulaire repris ici.
+La Wallonie est, à ce jour, la région belge où les communautés d'énergie se déploient le plus rapidement. Cadre légal stabilisé depuis 2022, formulaire-type publié par la CWaPE, gestionnaires de réseau outillés : tous les ingrédients sont réunis pour qu'un groupe de citoyens, une commune, une école ou un parc d'entreprises lance son propre partage d'énergie. Ce guide décrit, pas à pas, **la procédure complète** : du choix du type de communauté à la mise en service du partage avec votre gestionnaire de réseau de distribution (GRD). Si vous n'êtes pas encore familier avec la notion même de communauté d'énergie, commencez par notre article [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/guides/communautes-energie-belgique/) — il pose le vocabulaire repris ici.
 
 Le guide s'adresse à deux profils typiques : un **collectif qui démarre de zéro** (citoyens, ASBL de quartier, commune) et un **producteur déjà équipé** (toiture photovoltaïque, cogénération) qui veut valoriser son surplus auprès de voisins ou d'entreprises proches. La procédure est la même ; ce qui change, c'est le travail de cadrage en amont.
 
@@ -58,7 +59,7 @@ C'est l'étape la plus longue, mais aussi celle qui détermine la solidité de l
 1. **Qui produit ?** Identifier le ou les producteurs (toiture PV existante, projet à construire, cogénération…) et leur point de fourniture (EAN).
 2. **Qui consomme ?** Lister les futurs membres consommateurs, leur consommation annuelle estimée et leurs EAN.
 3. **Où ?** Cartographier les emplacements pour vérifier le critère de proximité (CER) ou confirmer qu'il n'est pas requis (CEC).
-4. **Comment se répartit l'énergie ?** Esquisser la clé de répartition (statique : pourcentages fixes ; dynamique : proportionnelle à la consommation en temps réel). Pour un panorama détaillé des clés reconnues par la CWaPE et leurs équivalents bruxellois et flamands, voyez notre article [« Clé de répartition en Belgique : les 3 régions »](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/).
+4. **Comment se répartit l'énergie ?** Esquisser la clé de répartition (statique : pourcentages fixes ; dynamique : proportionnelle à la consommation en temps réel). Pour un panorama détaillé des clés reconnues par la CWaPE et leurs équivalents bruxellois et flamands, voyez notre article [« Clé de répartition en Belgique : les 3 régions »](/guides/cle-repartition-communaute-energie-belgique/).
 
 ### Choisir une structure juridique
 
@@ -212,7 +213,7 @@ Oui. Les **autorités locales** (communes, intercommunales, CPAS — et **toutes
 
 Si créer une communauté de A à Z vous semble trop lourd, **rejoindre une opération existante** est beaucoup plus rapide — typiquement 6 à 12 semaines entre le premier contact et le premier kilowattheure partagé. Voyez notre guide pratique :
 
-> **[Rejoindre une communauté d'énergie en Wallonie](/actualites/2026/05/11/rejoindre-communaute-energie-wallonie/)**
+> **[Rejoindre une communauté d'énergie en Wallonie](/guides/rejoindre-communaute-energie-wallonie/)**
 >
 > Qui peut adhérer, où trouver une opération ouverte (registre OptimCE, facilitateur SPW, Énergie commune), démarches étape par étape et points de vigilance avant de signer.
 

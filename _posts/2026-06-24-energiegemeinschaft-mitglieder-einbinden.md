@@ -9,7 +9,7 @@ tags: [community, app]
 lang: de
 ref: engage-energy-community
 pillar: communautes-energie
-permalink: /de/aktuelles/2026/06/24/energiegemeinschaft-mitglieder-einbinden/
+permalink: /de/ratgeber/energiegemeinschaft-mitglieder-einbinden/
 faq:
   - q: "Was ist der Unterschied zwischen einem Beitrag und einer Abstimmung?"
     a: "Ein Beitrag (eine Mitteilung) ist eine Information von oben nach unten: Der Verwalter informiert die Mitglieder — Versammlungen, Wartung, Ergebnisse der Energieteilung, Fristen. Eine Abstimmung ist partizipativ: Sie stellt eine Frage und sammelt die Stimmen der Mitglieder, um eine gemeinsame Entscheidung vorzubereiten oder zu treffen."
@@ -75,7 +75,7 @@ An Anwendungsfällen mangelt es nicht:
 - **Das Datum** einer Versammlung oder Veranstaltung festlegen.
 - **Über eine Investition entscheiden** (zusätzliche Module, gemeinsame Batterie, Ladestation).
 - **Einen Dienstleister** oder eine Verwaltungsoption wählen.
-- **Den Aufteilungsschlüssel weiterentwickeln.** Das ist vermutlich der prägendste Einsatz: Der Schlüssel bestimmt, welcher Anteil der lokalen Erzeugung an jedes Mitglied geht und damit dessen Ersparnis. Ihn zur Abstimmung zu stellen, statt ihn vorzugeben, ändert alles. Um die Bedeutung eines Schlüssels zu verstehen, lesen Sie unseren Artikel [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/).
+- **Den Aufteilungsschlüssel weiterentwickeln.** Das ist vermutlich der prägendste Einsatz: Der Schlüssel bestimmt, welcher Anteil der lokalen Erzeugung an jedes Mitglied geht und damit dessen Ersparnis. Ihn zur Abstimmung zu stellen, statt ihn vorzugeben, ändert alles. Um die Bedeutung eines Schlüssels zu verstehen, lesen Sie unseren Artikel [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/ratgeber/verteilungsschluessel-energiegemeinschaft-belgien/).
 
 Das Abschlussdatum macht den Prozess glasklar: Jeder weiß, bis wann abzustimmen ist, und die Entscheidung ist datiert. Eine wesentliche, oft übersehene Frage bleibt: **Wer sieht die Ergebnisse, und wann?**
 
@@ -134,15 +134,15 @@ Es ist nicht zwingend, aber ein in die Verwaltungsplattform integriertes Nachric
 
 Eine Gemeinschaft zu beleben beginnt damit, eine zu gründen — oder einer beizutreten und aktiv daran teilzunehmen.
 
-> **[Energiegemeinschaften in Belgien: CER, CEC, CEL](/de/aktuelles/2026/05/11/energiegemeinschaften-belgien/)**
+> **[Energiegemeinschaften in Belgien: CER, CEC, CEL](/de/ratgeber/energiegemeinschaften-belgien/)**
 >
 > Der Referenzleitfaden, um die Gemeinschaftstypen, die Akteure und den rechtlichen Rahmen zu verstehen.
 
-> **[Eine Energiegemeinschaft in der Wallonie gründen: Schritt-für-Schritt-Anleitung](/de/aktuelles/2026/05/11/energiegemeinschaft-gruenden-wallonien/)**
+> **[Eine Energiegemeinschaft in der Wallonie gründen: Schritt-für-Schritt-Anleitung](/de/ratgeber/energiegemeinschaft-gruenden-wallonien/)**
 >
 > Von der Wahl des Gemeinschaftstyps bis zum Start der Energieteilung mit Ihrem Netzbetreiber.
 
-> **[Einer Energiegemeinschaft in der Wallonie beitreten: praktischer Leitfaden](/de/aktuelles/2026/05/11/energiegemeinschaft-beitreten-wallonien/)**
+> **[Einer Energiegemeinschaft in der Wallonie beitreten: praktischer Leitfaden](/de/ratgeber/energiegemeinschaft-beitreten-wallonien/)**
 >
 > Wer beitreten kann, wo man eine offene Operation findet und welche Schritte nötig sind.
 

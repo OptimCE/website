@@ -27,6 +27,6 @@ L'application intègre un **registre public des opérations de partage**. Chaque
 
 Le registre est accessible directement dans l'application : **[parcourir les opérations de partage ouvertes](https://app.optimce.be)**.
 
-Si vous cherchez à rejoindre une communauté existante, notre guide [« Rejoindre une communauté d'énergie en Wallonie »](/actualites/2026/05/11/rejoindre-communaute-energie-wallonie/) détaille les conditions d'éligibilité et les points à vérifier avant de signer.
+Si vous cherchez à rejoindre une communauté existante, notre guide [« Rejoindre une communauté d'énergie en Wallonie »](/guides/rejoindre-communaute-energie-wallonie/) détaille les conditions d'éligibilité et les points à vérifier avant de signer.
 
 Comme toujours, vos retours et contributions sont les bienvenus sur [notre dépôt GitHub](https://github.com/optimce).

@@ -10,7 +10,7 @@ tags: [guide, community, administrative]
 lang: nl
 ref: green-electricity-claims
 pillar: facture-electricite
-permalink: /nl/nieuws/2026/08/22/groene-stroom-belgie-echt-groen/
+permalink: /nl/gidsen/groene-stroom-belgie-echt-groen/
 faq:
   - q: "Bewijst een garantie van oorsprong dat de stroom die ik verbruik hernieuwbaar is?"
     a: "Neen, en dat is ook niet haar doel. Een garantie van oorsprong bewijst dat ergens in de Europese Economische Ruimte op enig moment één megawattuur hernieuwbare stroom is geproduceerd, en dat niemand anders dan u die opeist. Over de elektronen die bij u binnenkomen zegt ze niets, om drie samenlopende redenen. Ze wordt los van de elektriciteit zelf verkocht, zoals de Waalse energieadministratie onomwonden schrijft: de producent kan zijn stroom aan de ene en zijn certificaat aan de andere verkopen. Ze blijft twaalf maanden geldig, waardoor een in februari uitgegeven certificaat een verbruik in november groen kan maken. En ze circuleert over een dertigtal Europese gebieden, waardoor een Noorse stuwdam een Luikse radiator groen kan maken. Het groene label op uw factuur is dus een geldige boekhoudkundige titel, geen fysieke beschrijving van uw levering."
@@ -32,7 +32,7 @@ Beide cijfers zijn juist. Beide zijn officieel. Beide worden gepubliceerd door d
 
 Begrijpen waarom, is begrijpen wat u werkelijk koopt wanneer u in België een aanbod met het etiket “100 % groen” afsluit. Het antwoord past in één zin: u koopt een **administratieve titel**, de garantie van oorsprong, die bewijst dat ergens in de Europese Economische Ruimte één megawattuur hernieuwbare stroom is geproduceerd en dat niemand anders die opeist. Dat is een wettelijk, nuttig en controleerbaar mechanisme. Het is alleen geen beschrijving van wat er bij u binnenkomt — en dat onderscheid houdt op theoretisch te zijn op **27 september 2026**, wanneer de Europese richtlijn 2024/825 niet-bewezen algemene milieuclaims onwettig maakt.
 
-Dit artikel legt de structuur van een elektriciteitsfactuur niet opnieuw uit, regel per regel ontcijferd in [Elektriciteitsfactuur lezen: regel per regel](/nl/nieuws/2026/07/30/elektriciteitsfactuur-lezen-belgie/) — maar het neemt het over precies daar waar die factuur de “energiemix van het product” vermeldt zonder te zeggen wat die schraagt. Het herdefinieert niet wat een energiegemeenschap is, noch de grens tussen CER en CEC, getrokken in [Energiegemeenschappen in België: CER, CEC, CEL](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/), noch de mechaniek van zelfverbruik, uitgewerkt in [Zelfverbruik van energie in België](/nl/nieuws/2026/06/05/zelfverbruik-energie-belgie/), noch de regionale beschikbaarheidstest van het delen, uitgevoerd in [Goedkopere stroom zonder leverancierswissel](/nl/nieuws/2026/08/05/goedkopere-stroom-zonder-leverancierswissel/). Het beantwoordt een vraag die die artikelen niet stellen: **welk bewijs bestaat er achter het woord “groen”**, wie produceert het, wie controleert het, en wat is het waard.
+Dit artikel legt de structuur van een elektriciteitsfactuur niet opnieuw uit, regel per regel ontcijferd in [Elektriciteitsfactuur lezen: regel per regel](/nl/gidsen/elektriciteitsfactuur-lezen-belgie/) — maar het neemt het over precies daar waar die factuur de “energiemix van het product” vermeldt zonder te zeggen wat die schraagt. Het herdefinieert niet wat een energiegemeenschap is, noch de grens tussen CER en CEC, getrokken in [Energiegemeenschappen in België: CER, CEC, CEL](/nl/gidsen/energiegemeenschappen-belgie/), noch de mechaniek van zelfverbruik, uitgewerkt in [Zelfverbruik van energie in België](/nl/gidsen/zelfverbruik-energie-belgie/), noch de regionale beschikbaarheidstest van het delen, uitgevoerd in [Goedkopere stroom zonder leverancierswissel](/nl/gidsen/goedkopere-stroom-zonder-leverancierswissel/). Het beantwoordt een vraag die die artikelen niet stellen: **welk bewijs bestaat er achter het woord “groen”**, wie produceert het, wie controleert het, en wat is het waard.
 
 <img src="/assets/images/diagrams/green-claim-two-tracks-nl.svg"
      alt="Twee circuits monden uit in dezelfde Belgische elektriciteitsfactuur. Het certificaatcircuit vertrekt bij een Noorse stuwdam of een Frans windpark, geeft per megawattuur een garantie van oorsprong uit, laat die circuleren over de AIB-hub die een dertigtal Europese gebieden verbindt tegen ongeveer 1,25 euro per megawattuur, verkoopt ze tot 12 maanden later door en schrapt ze dan in België, wat 100 procent groen op de factuur zet. Het elektronencircuit levert intussen de reële Belgische residuele mix: 18,07 procent hernieuwbaar in 2024 en 171 gram CO2 per kilowattuur in 2025. Energiedelen, onderaan het schema, is het enige geval waarin beide circuits samenvallen: hetzelfde kwartier, hetzelfde lokale net, meetgegevens van de distributienetbeheerder."
@@ -205,7 +205,7 @@ De vijfde vraag onderscheidt het scherpst, en zij staat centraal in de methodolo
 
 In het Belgische recht bestaat één mechanisme waarbij de groene claim niet wordt verklaard maar **berekend**. Het is geen commercieel aanbod, het is een regeling: energiedelen.
 
-Hoe zo'n korte keten concreet wordt samengesteld — wie u werft, in welke volgorde, en waarom hij op uurrooster en niet op sympathie ontstaat — komt aan bod in [“Stroom in de korte keten: de handleiding”](/nl/nieuws/2026/08/25/elektriciteit-korte-keten-handleiding/).
+Hoe zo'n korte keten concreet wordt samengesteld — wie u werft, in welke volgorde, en waarom hij op uurrooster en niet op sympathie ontstaat — komt aan bod in [“Stroom in de korte keten: de handleiding”](/nl/gidsen/elektriciteit-korte-keten-handleiding/).
 
 ### De definitie bevat het antwoord al
 
@@ -252,9 +252,9 @@ De vraag aan uw gemeenschap is dus eenvoudig, en ze verdient een plaats in de de
 
 **Het veronderstelt een geschikte meter.** Zonder digitale meter of op afstand uitgelezen kwartuurdubbelstroommeter is delen eenvoudigweg onmogelijk. Dat is een toegangsvoorwaarde, en ze sluit nog altijd een deel van het Belgische park uit.
 
-**Het kader blijft regionaal ongelijk.** De praktische beschikbaarheid van de verschillende vormen van delen verschilt sterk tussen de regio's, en het delen van persoon tot persoon tussen twee particulieren blijft in Wallonië zonder uitvoeringsbesluit werkloos — uitvoerig behandeld in [Goedkopere stroom zonder leverancierswissel](/nl/nieuws/2026/08/05/goedkopere-stroom-zonder-leverancierswissel/).
+**Het kader blijft regionaal ongelijk.** De praktische beschikbaarheid van de verschillende vormen van delen verschilt sterk tussen de regio's, en het delen van persoon tot persoon tussen twee particulieren blijft in Wallonië zonder uitvoeringsbesluit werkloos — uitvoerig behandeld in [Goedkopere stroom zonder leverancierswissel](/nl/gidsen/goedkopere-stroom-zonder-leverancierswissel/).
 
-**Ten slotte kost het delen iets.** Netkosten, accijnzen, de heffing tot inlevering van de groenestroomcertificatenquota en de btw blijven verschuldigd op gedeelde kilowattuur. Het delen werkt enkel op de energiecomponent, en hoe je die prijs vastlegt is een onderwerp op zich, uitgewerkt in [Interne overdrachtsprijs in een gemeenschap](/nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/).
+**Ten slotte kost het delen iets.** Netkosten, accijnzen, de heffing tot inlevering van de groenestroomcertificatenquota en de btw blijven verschuldigd op gedeelde kilowattuur. Het delen werkt enkel op de energiecomponent, en hoe je die prijs vastlegt is een onderwerp op zich, uitgewerkt in [Interne overdrachtsprijs in een gemeenschap](/nl/gidsen/prijs-elektriciteit-energiegemeenschap/).
 
 ## Wat u moet onthouden
 

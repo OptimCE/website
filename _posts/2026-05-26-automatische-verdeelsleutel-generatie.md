@@ -9,14 +9,14 @@ tags: [allocation-key, app, guide]
 lang: nl
 ref: optimce-allocation-key-generator
 pillar: cle-de-repartition
-permalink: /nl/nieuws/2026/05/26/automatische-verdeelsleutel-generatie/
+permalink: /nl/gidsen/automatische-verdeelsleutel-generatie/
 ---
 
 De **verdeelsleutel** kiezen die het meest haalt uit de lokale productie van een gemeenschap is moeilijker dan het lijkt. Het vocabulaire wordt door de regulator bepaald, de standaardsleutels staan in een document van CWaPE of Fluvius — en toch hangt de *juiste* keuze af van wat geen van die teksten u kan vertellen: de reële kwartierprofielen van uw leden. Een woonwijk met één school gedraagt zich heel anders dan een bedrijventerrein met basislast, en dezelfde sleutel kan in de ene gemeenschap 70 % van de beschikbare productie terugwinnen en in een andere amper 50 %.
 
 De **module voor automatische generatie van verdeelsleutels** van OptimCE is nu beschikbaar om die beslissing uit het buikgevoel te halen. Geef hem een CSV met de reële productie- en verbruiksdata van de gemeenschap, en hij geeft een kandidaat-sleutel terug met een verwachte collectieve zelfverbruiksgraad — berekend op uw eigen data, niet op een handboekvoorbeeld. Vandaag worden twee **onafhankelijke** algoritmes uitgeleverd, die allebei dezelfde CSV verwerken: een **brute force** die de regionaal goedgekeurde standaardsleutels afzoekt, en **LOGAAS**, een hybride aanpak met lineaire optimalisatie en genetisch algoritme, ontwikkeld door [**CeCoTePe**](https://cecotepe.be/) voor het **Locomotrice**-project. Later kunnen meer algoritmes worden toegevoegd.
 
-Als u het regelgevend landschap nog in kaart brengt — wat CWaPE, BRUGEL en VREG als geldige sleutel aanvaarden — begin dan met ons referentieartikel [“Verdeelsleutel in België: de 3 regio's”](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/).
+Als u het regelgevend landschap nog in kaart brengt — wat CWaPE, BRUGEL en VREG als geldige sleutel aanvaarden — begin dan met ons referentieartikel [“Verdeelsleutel in België: de 3 regio's”](/nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/).
 
 <img src="/assets/images/diagrams/allocation-key-flow-nl.svg"
      alt="Schema in vijf stappen: kwartierwaarden, generatie of simulatie, kandidaatsleutel, validatie door de leden, doorgifte aan de netbeheerder."
@@ -72,7 +72,7 @@ De beperking is de catalogus zelf. Als de profielen van een gemeenschap atypisch
 
 Waar brute force begrensd is door de standaardcatalogus, doorzoekt LOGAAS een **bredere ruimte van kandidaat-sleutels** — inclusief niet-standaard combinaties — door **lineaire optimalisatie** (vindt de beste ex-post allocatie voor één iteratie) te combineren met een **genetisch algoritme** met **atypische soortvorming** (vindt de beste combinatie van percentages over de maximaal drie toegestane iteraties en behoudt daarbij de diversiteit van de populatie). Praktisch betekent dat: hij kan extra prestaties uit cases halen waar de standaardfamilies niet zuiver bij de profielen passen — sterk heterogene ledengroepen, seizoensgebonden industriële verbruikers samen met gezinnen, of grote overschotsproducenten die anders het grootste deel van hun productie naar het openbaar net zouden terugsturen.
 
-LOGAAS levert een **niet-standaard kandidaat-sleutel** op. In Wallonië betekent dat dat de gemeenschap het **CWaPE-toestemmingsspoor** doorloopt voordat de DSO hem kan toepassen — zie het [artikel over de verdeelsleutel in België](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/) voor de procedure. In Brussel en Vlaanderen is de ruimte voor niet-standaardsleutels kleiner; daar wordt de LOGAAS-output meestal gebruikt als **prestatie-referentie** — hoe zou de best haalbare prestatie eruitzien — waartegen de gekozen standaardsleutel wordt afgewogen.
+LOGAAS levert een **niet-standaard kandidaat-sleutel** op. In Wallonië betekent dat dat de gemeenschap het **CWaPE-toestemmingsspoor** doorloopt voordat de DSO hem kan toepassen — zie het [artikel over de verdeelsleutel in België](/nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/) voor de procedure. In Brussel en Vlaanderen is de ruimte voor niet-standaardsleutels kleiner; daar wordt de LOGAAS-output meestal gebruikt als **prestatie-referentie** — hoe zou de best haalbare prestatie eruitzien — waartegen de gekozen standaardsleutel wordt afgewogen.
 
 Gebruik LOGAAS wanneer het brute-force-resultaat dichtbij is maar niet voldoende, wanneer de projecteconomie afhangt van de laatste procentpunten collectief zelfverbruik, of wanneer u een gekwantificeerde bovengrens wilt om een investeringsbeslissing te onderbouwen.
 
@@ -143,15 +143,15 @@ De module voor automatische generatie maakt van de verdeelsleutelkeuze een datag
 
 Om verder te gaan, lees onze begeleidende gidsen:
 
-> **[Verdeelsleutel in België: de 3 regio's](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/)**
+> **[Verdeelsleutel in België: de 3 regio's](/nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/)**
 >
 > De regulatoire primer — wat CWaPE, BRUGEL en VREG aanvaarden, de drie regionale vocabulaires en hoe u een sleutelfamilie kiest voordat u OptimCE erbinnen laat optimaliseren.
 
-> **[Hoe een energiegemeenschap oprichten in Wallonië: stapsgewijze gids](/nl/nieuws/2026/05/11/energiegemeenschap-oprichten-wallonie/)**
+> **[Hoe een energiegemeenschap oprichten in Wallonië: stapsgewijze gids](/nl/gidsen/energiegemeenschap-oprichten-wallonie/)**
 >
 > Het project kaderen, kiezen tussen CER en CEC, de CWaPE op de hoogte brengen en de sharing lanceren — en waar de verdeelsleutel in het dossier past.
 
-> **[Hoe aansluiten bij een energiegemeenschap in Wallonië: praktische gids](/nl/nieuws/2026/05/11/energiegemeenschap-aansluiten-wallonie/)**
+> **[Hoe aansluiten bij een energiegemeenschap in Wallonië: praktische gids](/nl/gidsen/energiegemeenschap-aansluiten-wallonie/)**
 >
 > Waar een open operatie vinden, aansluitstappen en controlepunten voor het ondertekenen van de sharingovereenkomst.
 

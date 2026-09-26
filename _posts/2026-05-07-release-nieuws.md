@@ -28,6 +28,6 @@ De app bevat nu een **publiek register van deelacties**. Elke beheerder van een 
 
 Het register is rechtstreeks in de applicatie bereikbaar: **[doorblader de open deelacties](https://app.optimce.be)**.
 
-Wilt u toetreden tot een bestaande gemeenschap, dan zet onze gids [“Toetreden tot een energiegemeenschap in Wallonië”](/nl/nieuws/2026/05/11/energiegemeenschap-aansluiten-wallonie/) de voorwaarden op een rij en de punten die u vóór ondertekening moet nakijken.
+Wilt u toetreden tot een bestaande gemeenschap, dan zet onze gids [“Toetreden tot een energiegemeenschap in Wallonië”](/nl/gidsen/energiegemeenschap-aansluiten-wallonie/) de voorwaarden op een rij en de punten die u vóór ondertekening moet nakijken.
 
 Zoals altijd zijn feedback en bijdragen welkom op [onze GitHub-repository](https://github.com/optimce).

@@ -30,7 +30,7 @@ Chacun de ces bâtiments possède une toiture commune, un compteur des communs, 
 
 Dans les faits, la CWaPE ne recensait, dans son rapport d'évaluation du 20 février 2025, que **quatre opérations de partage au sein d'un même bâtiment** sur tout le territoire wallon. Quatre.
 
-Cet article ne réexplique pas ce qu'est une communauté d'énergie ni ce qui sépare une CER d'une CEC ou d'une CEL — c'est fait dans [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/actualites/2026/05/11/communautes-energie-belgique/). Il ne redéfinit pas l'autoconsommation collective, posée dans [« Autoconsommation collective en Belgique »](/actualites/2026/06/05/autoconsommation-energie-belgique/), ni les méthodes de répartition, comparées région par région dans [« Clé de répartition en Belgique : les 3 régions »](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/). Il ne refait pas la mécanique des deux factures, des mentions obligatoires et des taux de TVA, détaillée dans [« Facturer l'électricité partagée en Belgique »](/actualites/2026/07/23/facturer-electricite-partagee-belgique/), ni le tableau des quatre périmètres tarifaires bruxellois et de la réduction wallonne de 80 %, établi dans [« Baisser sa facture sans changer de fournisseur »](/actualites/2026/08/05/electricite-moins-chere-sans-changer-de-fournisseur/).
+Cet article ne réexplique pas ce qu'est une communauté d'énergie ni ce qui sépare une CER d'une CEC ou d'une CEL — c'est fait dans [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/guides/communautes-energie-belgique/). Il ne redéfinit pas l'autoconsommation collective, posée dans [« Autoconsommation collective en Belgique »](/guides/autoconsommation-energie-belgique/), ni les méthodes de répartition, comparées région par région dans [« Clé de répartition en Belgique : les 3 régions »](/guides/cle-repartition-communaute-energie-belgique/). Il ne refait pas la mécanique des deux factures, des mentions obligatoires et des taux de TVA, détaillée dans [« Facturer l'électricité partagée en Belgique »](/guides/facturer-electricite-partagee-belgique/), ni le tableau des quatre périmètres tarifaires bruxellois et de la réduction wallonne de 80 %, établi dans [« Baisser sa facture sans changer de fournisseur »](/guides/electricite-moins-chere-sans-changer-de-fournisseur/).
 
 Il répond à une question que ces articles ne posent pas : **dans un immeuble, ce n'est pas le droit de l'énergie qui bloque — c'est le droit de la copropriété.**
 
@@ -49,7 +49,7 @@ Le partage d'électricité fait toujours transiter les kilowattheures par le ré
 
 À Bruxelles, la décision Brugel 285bis du 4 novembre 2024, applicable du 1<sup>er</sup> janvier 2025 au 31 décembre 2029, place le partage intra-bâtiment dans le périmètre le plus favorable de la grille : sur les volumes partagés, la refacturation du transport, le terme fixe, le terme proportionnel et le terme de puissance prélevée tombent tous à zéro. En Wallonie, la grille ORES 2026 applique **une réduction de 80 % au terme proportionnel** sur l'énergie partagée au sein d'un même bâtiment, identifiée sous les codes de globalisation E216 en distribution et E526 en transport. Aucune réduction sur l'électricité résiduelle, et aucune réduction du tout pour le partage organisé au sein d'une communauté d'énergie.
 
-Le tableau complet des quatre périmètres bruxellois figure dans [« Baisser sa facture sans changer de fournisseur »](/actualites/2026/08/05/electricite-moins-chere-sans-changer-de-fournisseur/) ; il n'y a pas lieu de le refaire ici. Ce qui mérite d'être ajouté, en revanche, c'est ce que l'immeuble apporte de spécifique au-delà du tarif.
+Le tableau complet des quatre périmètres bruxellois figure dans [« Baisser sa facture sans changer de fournisseur »](/guides/electricite-moins-chere-sans-changer-de-fournisseur/) ; il n'y a pas lieu de le refaire ici. Ce qui mérite d'être ajouté, en revanche, c'est ce que l'immeuble apporte de spécifique au-delà du tarif.
 
 ### Le compteur des communs est un absorbeur diurne, et c'est rare
 
@@ -63,7 +63,7 @@ Sibelga le formule d'ailleurs très bien en décrivant qui sont les participants
 
 L'autre avantage tient à la composition sociale du bâtiment. Un immeuble de quinze appartements abrite typiquement un ou deux retraités, un télétravailleur, un indépendant, une famille avec enfants en bas âge, plusieurs actifs absents en journée et un logement vide en cours de relocation. Cette hétérogénéité — subie, pas choisie — produit une courbe agrégée nettement plus plate que celle d'un lotissement occupé par le même profil socio-professionnel.
 
-C'est la principale raison pour laquelle un immeuble absorbe mieux qu'un quartier pavillonnaire à puissance installée identique. La logique de composition d'un groupe de partage par horaire plutôt que par affinité est développée dans [« Électricité en circuit court : le mode d'emploi »](/actualites/2026/08/25/electricite-circuit-court-mode-emploi/) ; dans un immeuble, cette composition est en grande partie déjà faite.
+C'est la principale raison pour laquelle un immeuble absorbe mieux qu'un quartier pavillonnaire à puissance installée identique. La logique de composition d'un groupe de partage par horaire plutôt que par affinité est développée dans [« Électricité en circuit court : le mode d'emploi »](/guides/electricite-circuit-court-mode-emploi/) ; dans un immeuble, cette composition est en grande partie déjà faite.
 
 ## Ce que le droit de l'énergie demande à une copropriété : très peu
 
@@ -210,7 +210,7 @@ Le même article impose que la relation entre le syndic et l'association figure 
 
 Or gérer un partage n'est pas une tâche symbolique. Le gestionnaire du partage doit facturer l'électricité partagée à chaque participant, déclarer l'activité, notifier toute modification — entrée, sortie, changement de méthode de répartition — et percevoir les frais de réseau afférents pour les reverser au gestionnaire de réseau. À Bruxelles, Sibelga transmet chaque mois les fichiers de données nécessaires ; il faut quelqu'un pour les traiter.
 
-Une assemblée qui vote l'installation sans voter la rémunération de cette gestion vote, en pratique, un projet qui ne démarrera pas. Le point doit figurer explicitement à l'ordre du jour, comme prestation complémentaire chiffrée. La charge documentaire correspondante, côté wallon, est détaillée dans [« Communauté d'énergie : documents et délais CWaPE »](/actualites/2026/08/12/documents-administratifs-communaute-energie-wallonie/).
+Une assemblée qui vote l'installation sans voter la rémunération de cette gestion vote, en pratique, un projet qui ne démarrera pas. Le point doit figurer explicitement à l'ordre du jour, comme prestation complémentaire chiffrée. La charge documentaire correspondante, côté wallon, est détaillée dans [« Communauté d'énergie : documents et délais CWaPE »](/guides/documents-administratifs-communaute-energie-wallonie/).
 
 ### La liste de passation, à rédiger avant d'en avoir besoin
 
@@ -242,13 +242,13 @@ C'est l'argument à porter en assemblée, et il vaut mieux le chiffrer que l'én
 
 Un immeuble locatif change d'occupants en permanence. Chaque déménagement est une sortie de participant à notifier au gestionnaire de réseau, et chaque arrivée une adhésion à proposer. Trois principes de conception en découlent :
 
-- **Voter le prix en assemblée générale, pas le négocier appartement par appartement.** Un prix unique, révisable annuellement, survit à la rotation ; une mosaïque de prix individuels ne survit pas au deuxième déménagement. Les méthodes de fixation défendables sont comparées dans [« Prix de cession interne en communauté d'énergie »](/actualites/2026/07/20/prix-electricite-communaute-energie/).
-- **Choisir une clé qui absorbe les entrées et les sorties.** Une clé exprimée en pourcentages fixes doit être renotifiée à chaque mouvement ; une clé proportionnelle à la consommation se réajuste seule. Le choix entre les deux logiques est traité dans [« Clé de répartition en Belgique : les 3 régions »](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/).
+- **Voter le prix en assemblée générale, pas le négocier appartement par appartement.** Un prix unique, révisable annuellement, survit à la rotation ; une mosaïque de prix individuels ne survit pas au deuxième déménagement. Les méthodes de fixation défendables sont comparées dans [« Prix de cession interne en communauté d'énergie »](/guides/prix-electricite-communaute-energie/).
+- **Choisir une clé qui absorbe les entrées et les sorties.** Une clé exprimée en pourcentages fixes doit être renotifiée à chaque mouvement ; une clé proportionnelle à la consommation se réajuste seule. Le choix entre les deux logiques est traité dans [« Clé de répartition en Belgique : les 3 régions »](/guides/cle-repartition-communaute-energie-belgique/).
 - **Informer au moment du bail.** L'existence du partage, le prix en vigueur et la procédure d'adhésion doivent figurer dans le dossier remis au nouvel occupant, au même titre que le règlement d'ordre intérieur. C'est le seul moment où l'information atteint réellement un locataire entrant.
 
-Le volet gouvernance — informer les participants, organiser les votes, tenir le tableau d'actualités — est développé dans [« Animer une communauté d'énergie au quotidien »](/actualites/2026/06/24/animer-communaute-energie/).
+Le volet gouvernance — informer les participants, organiser les votes, tenir le tableau d'actualités — est développé dans [« Animer une communauté d'énergie au quotidien »](/guides/animer-communaute-energie/).
 
-Cette section est écrite du point de vue du syndic et de l'assemblée. Le même problème vu depuis l'appartement — ce qu'un locataire peut décider seul, et ce que la durée de son bail lui permet d'espérer — est traité dans [« Locataire : le guide du solaire sans toit »](/actualites/2026/09/16/guide-solaire-locataire-sans-toit/).
+Cette section est écrite du point de vue du syndic et de l'assemblée. Le même problème vu depuis l'appartement — ce qu'un locataire peut décider seul, et ce que la durée de son bail lui permet d'espérer — est traité dans [« Locataire : le guide du solaire sans toit »](/guides/guide-solaire-locataire-sans-toit/).
 
 ## Ce que ça donne en chiffres, et les deux pièges fiscaux
 
@@ -263,7 +263,7 @@ Ce n'est pas cette puissance qui détermine le gain, mais la fraction de la prod
 3. **Les chauffe-eau et pompes à chaleur** — déplaçables par horloge ou par thermostat connecté, sans intervention des occupants ;
 4. **Les logements** — le reste, subi.
 
-Ce qu'un kilowattheure de surplus vaut selon l'usage qu'on en fait est chiffré dans [« Surplus solaire : les 5 options comparées »](/actualites/2026/08/18/que-faire-surplus-solaire-belgique/), et la rentabilité d'ensemble d'une installation dans [« Panneaux solaires 2026 : rentables en Wallonie ? »](/actualites/2026/08/11/panneaux-solaires-rentables-wallonie-2026/).
+Ce qu'un kilowattheure de surplus vaut selon l'usage qu'on en fait est chiffré dans [« Surplus solaire : les 5 options comparées »](/guides/que-faire-surplus-solaire-belgique/), et la rentabilité d'ensemble d'une installation dans [« Panneaux solaires 2026 : rentables en Wallonie ? »](/guides/panneaux-solaires-rentables-wallonie/).
 
 ### Piège n° 1 : les 10 kVA de la TVA
 
@@ -273,7 +273,7 @@ Un particulier qui partage le surplus de ses six panneaux est donc hors du champ
 
 La nuance qui sauve les budgets : l'assujettissement ne signifie pas automatiquement facturer la TVA. Il reste possible d'opter pour le régime de la franchise si le chiffre d'affaires annuel reste inférieur à 25 000 €, ce qui est le cas de l'immense majorité des partages d'immeuble. Mais il faut malgré tout **ouvrir un numéro de TVA et déposer les listings**, ce qui ajoute une ligne de frais comptables récurrents quel que soit le montage retenu. C'est le poste le plus systématiquement oublié des budgets d'assemblée générale.
 
-Les taux applicables et les mentions obligatoires de la facture de partage sont traités dans [« Facturer l'électricité partagée en Belgique »](/actualites/2026/07/23/facturer-electricite-partagee-belgique/).
+Les taux applicables et les mentions obligatoires de la facture de partage sont traités dans [« Facturer l'électricité partagée en Belgique »](/guides/facturer-electricite-partagee-belgique/).
 
 ### Piège n° 2 : les certificats verts changent d'échelle au 1er avril 2026
 

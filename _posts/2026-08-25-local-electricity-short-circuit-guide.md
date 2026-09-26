@@ -10,7 +10,7 @@ lang: en
 ref: local-electricity-short-circuit
 pillar: facture-electricite
 last_modified_at: 2026-09-10 06:00:00 +0200
-permalink: /en/news/2026/08/25/local-electricity-short-circuit-guide/
+permalink: /en/guides/local-electricity-short-circuit-guide/
 faq:
   - q: "Can I buy electricity from the neighbour across the street in Wallonia?"
     a: "No, not in August 2026. This form of exchange is called peer-to-peer and it is the simplest of the four: two meters, an agreed price, nothing else. It is provided for by the Walloon decree of 5 May 2022, but it remains inoperative because the implementing order was never adopted. ORES states it plainly on its dedicated page: it is not yet possible to share energy peer to peer, and the legislative framework is not yet finalised. What a Walloon can do today is share within a single building, or join an energy community set up as a legal entity and authorised by CWaPE. In practice, the word neighbourhood therefore means either your own building or an association someone has created, not the house opposite."
@@ -32,7 +32,7 @@ In August 2026, CWaPE lists **13 energy communities** notified across Walloon te
 
 Same region, same people, same watchword: consume local, short, known. A mass success on one side, a near-standstill on the other. The tempting explanation is cultural — food speaks to people, energy is too abstract. It is wrong. **The difference is mechanical, and it fits in one sentence: a box of vegetables waits in the fridge, an unconsumed kilowatt-hour vanishes in fifteen minutes.** Everything else follows from that, including how you go about building one.
 
-This article does not redo the region-by-region availability test or the calculation of what a shared kilowatt-hour earns, both covered in [“Cheaper electricity without switching supplier”](/en/news/2026/08/05/cheaper-electricity-without-switching-supplier/). It does not revisit surplus valuation from the producer's side, compared device by device in [“Solar surplus: the 5 options compared”](/en/news/2026/08/18/what-to-do-solar-surplus-belgium/) and costed in [“Solar panels 2026: still worth it in Wallonia?”](/en/news/2026/08/11/solar-panels-worth-it-wallonia-2026/). It does not redefine collective self-consumption, set out in [“Energy self-consumption in Belgium”](/en/news/2026/06/05/energy-self-consumption-belgium/), nor the boundary between CER, CEC and CEL, drawn in [“Energy communities in Belgium: CER, CEC, CEL”](/en/news/2026/05/11/energy-communities-belgium/), nor the method for setting the price, developed in [“Internal transfer price in an energy community”](/en/news/2026/07/20/energy-community-electricity-price/). It also extends the argument opened in [“Green electricity in Belgium: really green?”](/en/news/2026/08/22/green-electricity-belgium-really-green/), which established that sharing is the only verifiable short circuit in Belgian law — without saying how one is assembled.
+This article does not redo the region-by-region availability test or the calculation of what a shared kilowatt-hour earns, both covered in [“Cheaper electricity without switching supplier”](/en/guides/cheaper-electricity-without-switching-supplier/). It does not revisit surplus valuation from the producer's side, compared device by device in [“Solar surplus: the 5 options compared”](/en/guides/what-to-do-solar-surplus-belgium/) and costed in [“Solar panels 2026: still worth it in Wallonia?”](/en/guides/solar-panels-worth-it-wallonia/). It does not redefine collective self-consumption, set out in [“Energy self-consumption in Belgium”](/en/guides/energy-self-consumption-belgium/), nor the boundary between CER, CEC and CEL, drawn in [“Energy communities in Belgium: CER, CEC, CEL”](/en/guides/energy-communities-belgium/), nor the method for setting the price, developed in [“Internal transfer price in an energy community”](/en/guides/energy-community-electricity-price/). It also extends the argument opened in [“Green electricity in Belgium: really green?”](/en/guides/green-electricity-belgium-really-green/), which established that sharing is the only verifiable short circuit in Belgian law — without saying how one is assembled.
 
 It answers a question those articles do not ask: **with whom, exactly, does an energy short circuit work — and why this is not a question of convictions.**
 
@@ -61,7 +61,7 @@ The consequence is blunt and best stated up front: **the energy short circuit is
 
 CWaPE leaves no ambiguity here: “for electricity travelling through the network, all network charges (transmission and distribution), together with the related taxes and levies, are due on shared electricity”.
 
-In other words, the energy short circuit acts on **a single component of your bill**: the energy itself. Transmission, distribution, taxes, levies and VAT remain payable in full. The detailed breakdown of those blocks is set out in [“Why your electricity bill stays high in Belgium”](/en/news/2026/07/25/why-electricity-bill-still-high-belgium/); what matters here is that the share a short circuit can bite into is a **minority** of the total.
+In other words, the energy short circuit acts on **a single component of your bill**: the energy itself. Transmission, distribution, taxes, levies and VAT remain payable in full. The detailed breakdown of those blocks is set out in [“Why your electricity bill stays high in Belgium”](/en/guides/why-electricity-bill-still-high-belgium/); what matters here is that the share a short circuit can bite into is a **minority** of the total.
 
 One exception exists, and it is narrow:
 
@@ -90,7 +90,7 @@ This is the pure form: one producer, one consumer, a price agreed between them. 
 
 On the electrical side, this is exactly what most people picture when you talk to them about consuming their neighbourhood's electricity: I buy the surplus from the neighbour with panels. Two meters, an agreement, nothing else.
 
-And it is precisely the form that **does not exist in Wallonia**. The decree of 5 May 2022 provides for it; the implementing order that would make it operational was never adopted. ORES puts it in black and white: “it is not yet currently possible to share your energy peer to peer”, and “the legislative framework for peer-to-peer energy sharing is not yet finalised”. The detail of that blockage and its cost is covered in [“Cheaper electricity without switching supplier”](/en/news/2026/08/05/cheaper-electricity-without-switching-supplier/).
+And it is precisely the form that **does not exist in Wallonia**. The decree of 5 May 2022 provides for it; the implementing order that would make it operational was never adopted. ORES puts it in black and white: “it is not yet currently possible to share your energy peer to peer”, and “the legislative framework for peer-to-peer energy sharing is not yet finalised”. The detail of that blockage and its cost is covered in [“Cheaper electricity without switching supplier”](/en/guides/cheaper-electricity-without-switching-supplier/).
 
 Note simply the irony: **the simplest degree of the food short supply chain is the one forbidden degree of the energy short circuit.**
 
@@ -108,7 +108,7 @@ The common purchasing group is the Walloon short-supply-chain institution par ex
 
 The energy community is an almost literal transposition of it, with one heavy difference: **it requires a legal entity and an authorisation**. Where a purchasing group forms around a kitchen table, a renewable or citizen energy community must be incorporated, notified to CWaPE — which has ten working days to check that the file is complete — then authorised to carry out a sharing activity, following the **technical opinion of the network operator or operators concerned**.
 
-The full procedure is detailed in [“Create an energy community in Wallonia”](/en/news/2026/05/11/create-energy-community-wallonia/) and, from the prospective participant's side, in [“Join an energy community in Wallonia”](/en/news/2026/05/11/join-energy-community-wallonia/).
+The full procedure is detailed in [“Create an energy community in Wallonia”](/en/guides/create-energy-community-wallonia/) and, from the prospective participant's side, in [“Join an energy community in Wallonia”](/en/guides/join-energy-community-wallonia/).
 
 The count itself is quickly done. On 25 August 2026, CWaPE's public list held **13 communities** with a complete file, spread from Aubange to Rixensart, from Gesves to Tournai. The oldest, Soleil d'Aubange, was notified in May 2024. A June 2026 mapping exercise counted **8 sharing operations actually running**, carried by 5 communities only, the others not having started yet.
 
@@ -132,7 +132,7 @@ The first three degrees and the fourth are not variants of a single thing, and c
 | **What is short** | The attribution of the kilowatt-hour | The value chain and the ownership |
 | **What you become** | A participant | A member, therefore a co-owner |
 
-Sharing does not replace your contract: ORES is categorical, “each participant keeps their contract with their respective supplier”. You will receive two invoices — the supplier's for residual energy and network charges, the sharing representative's for the volumes received. The mechanics of that double invoicing are detailed in [“Invoicing shared electricity in Belgium”](/en/news/2026/07/23/who-invoices-shared-electricity-belgium/).
+Sharing does not replace your contract: ORES is categorical, “each participant keeps their contract with their respective supplier”. You will receive two invoices — the supplier's for residual energy and network charges, the sharing representative's for the volumes received. The mechanics of that double invoicing are detailed in [“Invoicing shared electricity in Belgium”](/en/guides/who-invoices-shared-electricity-belgium/).
 
 Good news: the two logics stack. Nothing prevents you from being a cooperative member, a Cociter customer, **and** a participant in an energy community.
 
@@ -152,7 +152,7 @@ In a purchasing group, if you cannot make it on Tuesday, your neighbour takes yo
 
 There is **no equivalent** in energy sharing. What a participant does not consume between 12:00 and 12:15 is not carried over to the next slot, nor set aside, nor credited. That volume simply leaves the sharing arrangement: it becomes ordinary injection again, which the producer sells to their supplier at the injection tariff. ORES puts it without hedging: “energy not consumed within the energy sharing community (injection surplus) is resold by the producers to their supplier”.
 
-The value gap between those two fates is considerable — it is costed in [“Solar surplus: the 5 options compared”](/en/news/2026/08/18/what-to-do-solar-surplus-belgium/). What matters here is simpler: **every quarter hour is a market that opens and closes, and nothing survives its closing.**
+The value gap between those two fates is considerable — it is costed in [“Solar surplus: the 5 options compared”](/en/guides/what-to-do-solar-surplus-belgium/). What matters here is simpler: **every quarter hour is a market that opens and closes, and nothing survives its closing.**
 
 One nuance deserves stating, because it is often misread: batteries do not remove this constraint, they move it. Storage installed at the producer's site or in the building allows the moment of injection to be shifted, and therefore the sharing to be moved to a more favourable slot. But the quarter-hour rule itself does not budge: stored energy must still be injected and consumed within the same slot to be shared. The fridge exists, it is expensive, and it is not inside the scheme — it sits upstream of it.
 
@@ -207,7 +207,7 @@ One piece of context now works in the right direction, and it is recent. Since *
 
 The midday solar slot, previously peak on weekdays, has therefore moved into off-peak. Since network charges remain due on shared electricity, sharing at midday now costs less in distribution tariff than it did in 2025. Off-peak hours now amount to 15 hours a day, against 9 peak hours.
 
-This is not a revolution, and it changes nothing about the quarter-hour rule. But it is a rare alignment between tariff logic and short-circuit logic, and it is worth pointing out to hesitant participants. The other Walloon levers are detailed in [“Reduce your electricity bill: Wallonia 2026”](/en/news/2026/07/28/reduce-electricity-bill-wallonia-2026/).
+This is not a revolution, and it changes nothing about the quarter-hour rule. But it is a rare alignment between tariff logic and short-circuit logic, and it is worth pointing out to hesitant participants. The other Walloon levers are detailed in [“Reduce your electricity bill: Wallonia 2026”](/en/guides/reduce-electricity-bill-wallonia/).
 
 ### The allocation key: how you split the box when there is not enough to go round
 
@@ -215,7 +215,7 @@ A last parallel, and the most faithful one. In a purchasing group, when the harv
 
 In energy sharing, that rule is called the **allocation key**. The network operator applies, quarter hour by quarter hour, the key the participants chose in advance, and CWaPE has defined a set of standard keys. It can be changed later, through the sharing representative.
 
-It is the most structuring decision in a project, because it determines who actually benefits from the production. The comparison of key types recognised by the three Belgian regulators is in [“Allocation key in Belgium: the 3 regions”](/en/news/2026/05/19/allocation-key-belgium/), and how to test a key on your own data before validating it is in [“Simulate an allocation key: test your scenarios”](/en/news/2026/06/09/simulate-allocation-key-optimce/).
+It is the most structuring decision in a project, because it determines who actually benefits from the production. The comparison of key types recognised by the three Belgian regulators is in [“Allocation key in Belgium: the 3 regions”](/en/guides/allocation-key-belgium/), and how to test a key on your own data before validating it is in [“Simulate an allocation key: test your scenarios”](/en/guides/simulate-allocation-key-optimce/).
 
 A method tip: **simulate before you recruit.** A key tested on real load curves tells you immediately whether the intended group absorbs the production or not — and therefore whether you should go and find a school before you go and find ten households.
 
@@ -227,7 +227,7 @@ Anyone who has run a purchasing group knows the concept is simple and the execut
 
 In a purchasing group there is always one person who centralises the orders, chases the latecomers and opens the premises on Tuesday evening. Without them, the group dies within six months.
 
-Energy sharing has its formal equivalent: the **sharing representative**. They sign the agreement with the network operator, hold the allocation key, invoice the volumes received to participants and follow up payments. This is not an honorary role: it is recurring administrative work, most often voluntary. The engagement and governance tools that lighten that load are described in [“Engaging energy community members”](/en/news/2026/06/24/engage-energy-community-members/).
+Energy sharing has its formal equivalent: the **sharing representative**. They sign the agreement with the network operator, hold the allocation key, invoice the volumes received to participants and follow up payments. This is not an honorary role: it is recurring administrative work, most often voluntary. The engagement and governance tools that lighten that load are described in [“Engaging energy community members”](/en/guides/engage-energy-community-members/).
 
 ### Supplier fees can eat the gain
 
@@ -235,7 +235,7 @@ This is the most important point of this section, and the least often displayed.
 
 Several suppliers charge administrative fees to customers taking part in a sharing operation. ENGIE, for instance, states that it charges **121 € including VAT (100 € excluding VAT) for any contract taking part in a form of energy sharing located in Wallonia or Flanders** — with no pro rata: the amount is due in full whether you share for six months or twelve.
 
-Set against the expected gain of a modest residential participant — of the order of a hundred euros a year for a few hundred shared kilowatt-hours, as detailed in [“Cheaper electricity without switching supplier”](/en/news/2026/08/05/cheaper-electricity-without-switching-supplier/) — this amount is not friction: it is potentially **the entire benefit**.
+Set against the expected gain of a modest residential participant — of the order of a hundred euros a year for a few hundred shared kilowatt-hours, as detailed in [“Cheaper electricity without switching supplier”](/en/guides/cheaper-electricity-without-switching-supplier/) — this amount is not friction: it is potentially **the entire benefit**.
 
 The Belgian consumer organisation Test-Achats drew a severe conclusion as early as September 2024, writing that given these fees, “we no longer recommend energy sharing in Flanders and Wallonia for the time being”. And the magazine Renouvelle noted in October 2025 that the federal regulator CREG has no grip on these surcharges, because they fall within the liberalised part of the bill — it can therefore police neither their proportionality nor their abuse.
 
@@ -245,13 +245,13 @@ The practical consequence is simple, and it belongs in the first information mee
 
 Without a communicating meter or a remotely read quarter-hourly dual-flow meter, sharing is simply impossible. ORES is categorical: “each participant will have to be equipped with a remotely read quarter-hourly dual-flow meter or a communicating meter”.
 
-A corollary for Walloon producers: sharing is **incompatible with annual netting**, the mechanism that makes the meter run backwards. One reasons in years, the other in quarter hours; the two cannot coexist on the same supply point. The costed trade-off is set out in [“Solar panels 2026: still worth it in Wallonia?”](/en/news/2026/08/11/solar-panels-worth-it-wallonia-2026/), and it does not always favour sharing.
+A corollary for Walloon producers: sharing is **incompatible with annual netting**, the mechanism that makes the meter run backwards. One reasons in years, the other in quarter hours; the two cannot coexist on the same supply point. The costed trade-off is set out in [“Solar panels 2026: still worth it in Wallonia?”](/en/guides/solar-panels-worth-it-wallonia/), and it does not always favour sharing.
 
 ### The calendar does not stop at go-live
 
 An energy community is not a form you fill in once. Each year, **by 1 September**, it must send CWaPE an update and annual reporting form. Since **25 June 2026**, both the notification and the annual reporting are done online through the Mon Espace forms. A file left incomplete for six months lapses.
 
-The full inventory of these obligations is in [“Energy community: CWaPE documents and deadlines”](/en/news/2026/08/12/energy-community-administrative-documents-wallonia/).
+The full inventory of these obligations is in [“Energy community: CWaPE documents and deadlines”](/en/guides/energy-community-administrative-documents-wallonia/).
 
 ## Why Wallonia succeeded at one and not the other
 

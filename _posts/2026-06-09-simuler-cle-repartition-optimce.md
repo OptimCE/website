@@ -9,6 +9,7 @@ tags: [allocation-key, app, news]
 lang: fr
 ref: optimce-allocation-key-simulation
 pillar: cle-de-repartition
+permalink: /guides/simuler-cle-repartition-optimce/
 faq:
   - q: "Qu'est-ce que la simulation d'une clé de répartition ?"
     a: "C'est le fait de rejouer des données réelles de production et de consommation à travers une clé de répartition choisie, sans l'appliquer en production, pour mesurer à l'avance ses indicateurs : autoconsommation collective, surplus, taux d'autosuffisance et taux de partage. C'est un outil de test « et si ? » avant de décider."
@@ -28,7 +29,7 @@ Choisir une **clé de répartition**, c'est décider quart d'heure par quart d'h
 
 L'idée est simple : vous importez un jeu de données, vous choisissez une clé, et la simulation rejoue chaque pas de temps à travers cette clé pour vous restituer l'**autoconsommation**, le **surplus**, le **taux d'autosuffisance** et le **taux de partage** — en résultats globaux, par pas de temps et par itération. Vous testez un scénario sans l'appliquer, sans risque, et vous décidez sur des chiffres plutôt que sur une intuition.
 
-Si la notion même de clé de répartition est nouvelle pour vous, commencez par notre article de référence [« Clé de répartition en Belgique : les 3 régions »](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/) — il pose le vocabulaire repris ici.
+Si la notion même de clé de répartition est nouvelle pour vous, commencez par notre article de référence [« Clé de répartition en Belgique : les 3 régions »](/guides/cle-repartition-communaute-energie-belgique/) — il pose le vocabulaire repris ici.
 
 ## Pourquoi simuler une clé de répartition ?
 
@@ -36,7 +37,7 @@ Une clé de répartition n'est pas neutre : selon les profils de consommation et
 
 Le problème, c'est qu'**arbitrer à l'intuition est risqué**. Les courbes de production solaire et les profils de consommation se croisent de façon non triviale au pas de 15 minutes ; à l'œil nu, impossible de prédire si la clé A battra la clé B sur une année entière. Et l'enjeu est concret : chaque point d'autoconsommation gagné, c'est du surplus en moins réinjecté à bas prix, donc plus de valeur conservée dans la communauté.
 
-Simuler, c'est précisément **sortir cet arbitrage du domaine de l'intuition**. Vous mesurez l'effet réel d'une clé sur les indicateurs qui comptent — autoconsommation, surplus, autosuffisance, taux de partage — avant d'engager quoi que ce soit. Pour comprendre pourquoi ces indicateurs sont au cœur de la valeur d'une communauté, voyez notre article [« Autoconsommation collective en Belgique »](/actualites/2026/06/05/autoconsommation-energie-belgique/).
+Simuler, c'est précisément **sortir cet arbitrage du domaine de l'intuition**. Vous mesurez l'effet réel d'une clé sur les indicateurs qui comptent — autoconsommation, surplus, autosuffisance, taux de partage — avant d'engager quoi que ce soit. Pour comprendre pourquoi ces indicateurs sont au cœur de la valeur d'une communauté, voyez notre article [« Autoconsommation collective en Belgique »](/guides/autoconsommation-energie-belgique/).
 
 ## Ce que permet la simulation
 
@@ -94,7 +95,7 @@ La simulation est utile à chaque étape de la vie d'une communauté d'énergie.
 - **Avant le lancement.** Vous comparez plusieurs clés candidates sur des données historiques ou estimées et vous choisissez celle qui sert le mieux les objectifs du projet, en connaissance de cause.
 - **Pendant la conception.** Vous arbitrez explicitement entre **équité** (une clé lisible, prévisible pour les membres) et **performance globale** (une clé qui maximise l'autoconsommation collective), chiffres à l'appui.
 - **En phase d'animation.** Vous mesurez l'effet d'un **nouveau jeu de données** ou d'un **changement de profils** (un membre installe une pompe à chaleur, un autre une borne de recharge) sur les indicateurs — sans rien casser dans l'opération en cours.
-- **À la mise à jour de la clé.** Lorsqu'un **membre rejoint ou quitte** la communauté, vous simulez la clé recalculée avant de la soumettre, pour vérifier qu'elle reste performante. Notre article sur la [clé de répartition en Belgique](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/) détaille la procédure de modification d'une clé après le démarrage, et le [guide de création d'une communauté en Wallonie](/actualites/2026/05/11/creer-communaute-energie-wallonie/) replace cette étape dans le dossier régulateur.
+- **À la mise à jour de la clé.** Lorsqu'un **membre rejoint ou quitte** la communauté, vous simulez la clé recalculée avant de la soumettre, pour vérifier qu'elle reste performante. Notre article sur la [clé de répartition en Belgique](/guides/cle-repartition-communaute-energie-belgique/) détaille la procédure de modification d'une clé après le démarrage, et le [guide de création d'une communauté en Wallonie](/guides/creer-communaute-energie-wallonie/) replace cette étape dans le dossier régulateur.
 
 ## La valeur pour les communautés
 
@@ -104,7 +105,7 @@ Pour un gestionnaire de communauté, un facilitateur ou un porteur de projet, la
 - **De la pédagogie.** En voyant *pourquoi* une clé fonctionne mieux qu'une autre sur des données réelles, les membres comprennent et adhèrent plus facilement au choix. La simulation transforme une discussion technique abstraite en démonstration concrète.
 - **Un argumentaire solide.** Devant une assemblée générale, un gestionnaire de réseau ou un régulateur, défendre une clé chiffres à l'appui — tirés des données mêmes de la communauté — pèse bien plus qu'une recommandation de principe.
 
-C'est aussi un levier pour valoriser la production locale, donc pour [réduire la facture d'électricité des membres](/actualites/2026/06/03/communaute-energie-reduire-facture-electricite/) : chaque point de surplus évité reste de la valeur dans la communauté.
+C'est aussi un levier pour valoriser la production locale, donc pour [réduire la facture d'électricité des membres](/guides/communaute-energie-reduire-facture-electricite/) : chaque point de surplus évité reste de la valeur dans la communauté.
 
 ## Simulation et génération automatique : deux outils complémentaires
 
@@ -119,13 +120,13 @@ Ce sont deux usages complémentaires, pas concurrents :
 | Sortie | Les KPI de la clé testée | Une (des) clé(s) candidate(s) optimisée(s) |
 | Usage type | Comparer des scénarios, comprendre, justifier | Trouver un bon point de départ |
 
-En pratique, on génère pour trouver un candidat solide, puis on simule pour comprendre son comportement, comparer des variantes et le défendre. Pour le détail des algorithmes, voyez [« Générer une clé de répartition optimale »](/actualites/2026/05/26/generer-cle-repartition-optimale-optimce/).
+En pratique, on génère pour trouver un candidat solide, puis on simule pour comprendre son comportement, comparer des variantes et le défendre. Pour le détail des algorithmes, voyez [« Générer une clé de répartition optimale »](/guides/generer-cle-repartition-optimale-optimce/).
 
 ## Les communautés d'énergie en Belgique, en bref
 
 Une **communauté d'énergie** regroupe producteurs et consommateurs qui partagent localement une production renouvelable. Le partage est administratif : les compteurs communicants sont relevés au pas de **15 minutes**, et le **gestionnaire de réseau de distribution (GRD)** applique la clé de répartition choisie pour attribuer à chaque membre une part de l'énergie injectée. La Belgique reconnaît plusieurs formes — CER, CEC et, à Bruxelles, CEL — encadrées par les régulateurs régionaux ([Brugel](https://energysharing.brugel.brussels) à Bruxelles, avec [Sibelga](https://www.sibelga.be/fr/raccordements-compteurs/energie-renouvelable/partage-energie) comme gestionnaire de réseau).
 
-Dans ce paysage, la clé de répartition est le paramètre central de la performance d'une communauté — et la simulation répond à un besoin réel : **structurer et comprendre le partage d'énergie** avant de l'engager. Pour le panorama complet des formes juridiques, voyez [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/actualites/2026/05/11/communautes-energie-belgique/).
+Dans ce paysage, la clé de répartition est le paramètre central de la performance d'une communauté — et la simulation répond à un besoin réel : **structurer et comprendre le partage d'énergie** avant de l'engager. Pour le panorama complet des formes juridiques, voyez [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/guides/communautes-energie-belgique/).
 
 ## Conclusion
 

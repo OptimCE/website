@@ -32,7 +32,7 @@ Here is the anomaly. Among the **thirteen energy communities notified to the CWa
 
 This is not indifference, and it is not an information problem. It is a contradiction written into the texts: **two Walloon Government orders adopted three weeks apart, on 23 February and 17 March 2023, push in exactly opposite directions.**
 
-This article does not redo what is already written elsewhere on this site: the difference between the three Belgian statuses is covered in [“Energy communities in Belgium: CER, CEC, CEL”](/en/news/2026/05/11/energy-communities-belgium/), the setting-up procedure in [“Create an energy community in Wallonia”](/en/news/2026/05/11/create-energy-community-wallonia/), building a group by load profile in [“Local electricity: the short-circuit guide”](/en/news/2026/08/25/local-electricity-short-circuit-guide/), the payback calculation for a household installation in [“Solar panels 2026: still worth it in Wallonia?”](/en/news/2026/08/11/solar-panels-worth-it-wallonia-2026/), the ranking of outlets for surplus in [“Solar surplus: the 5 options compared”](/en/news/2026/08/18/what-to-do-solar-surplus-belgium/), and the setting of the internal price in [“Internal transfer price in an energy community”](/en/news/2026/07/20/energy-community-electricity-price/).
+This article does not redo what is already written elsewhere on this site: the difference between the three Belgian statuses is covered in [“Energy communities in Belgium: CER, CEC, CEL”](/en/guides/energy-communities-belgium/), the setting-up procedure in [“Create an energy community in Wallonia”](/en/guides/create-energy-community-wallonia/), building a group by load profile in [“Local electricity: the short-circuit guide”](/en/guides/local-electricity-short-circuit-guide/), the payback calculation for a household installation in [“Solar panels 2026: still worth it in Wallonia?”](/en/guides/solar-panels-worth-it-wallonia/), the ranking of outlets for surplus in [“Solar surplus: the 5 options compared”](/en/guides/what-to-do-solar-surplus-belgium/), and the setting of the internal price in [“Internal transfer price in an energy community”](/en/guides/energy-community-electricity-price/).
 
 It answers a question those articles do not ask: **why does the best-placed roof in rural Wallonia belong to the party that least needs what it produces, and what has to be done, in what order, for that surplus to be worth more than the injection tariff?**
 
@@ -142,13 +142,13 @@ Two rows deserve comment.
 
 **The pumping station is the most underrated partner in rural Wallonia.** It consumes by day, all year round, with a load that is largely shiftable in time — filling a reservoir at 1 pm rather than 3 am costs nobody anything. And it is almost always run by the municipality or an intermunicipal company, which simplifies governance. [“Energy communities: a guide for municipalities”](/en/news/2026/08/30/municipal-energy-community-guide/) covers the owning municipality's point of view.
 
-The general method — building a group by overlaying load profiles rather than by geographical proximity — is developed in [“Local electricity: the short-circuit guide”](/en/news/2026/08/25/local-electricity-short-circuit-guide/). It applies here as elsewhere, with one nuance: the farm roof is the only rural producer large enough to feed several profiles at once.
+The general method — building a group by overlaying load profiles rather than by geographical proximity — is developed in [“Local electricity: the short-circuit guide”](/en/guides/local-electricity-short-circuit-guide/). It applies here as elsewhere, with one nuance: the farm roof is the only rural producer large enough to feed several profiles at once.
 
 ### The key that fits
 
 A fixed key allocates each participant a constant percentage of production, regardless of what they actually consume. On a producer whose surplus varies by a factor of ten between a Tuesday in January and a Sunday in July, it sends kilowatt-hours to meters that do not want them, and those volumes fall back to injection.
 
-The right reflex is a **dynamic allocation key** based on the consumption ratio, allocating each quarter-hour in proportion to what each participant is consuming at that moment. The key families recognised by the CWaPE and their counterparts in the other two regions are set out in [“Allocation key in Belgium: the 3 regions”](/en/news/2026/05/19/allocation-key-belgium/).
+The right reflex is a **dynamic allocation key** based on the consumption ratio, allocating each quarter-hour in proportion to what each participant is consuming at that moment. The key families recognised by the CWaPE and their counterparts in the other two regions are set out in [“Allocation key in Belgium: the 3 regions”](/en/guides/allocation-key-belgium/).
 
 ## What your farming type changes — the profile, not the surface
 
@@ -165,7 +165,7 @@ A shed's surface follows the holding's **storage** needs, never its **electricit
 
 The table reads simply. A pig or poultry unit has every interest in maximising self-consumption first, because summer ventilation is the best solar load that exists in farming. An arable farmer is in the opposite position: the consumption peak lasts a few weeks in summer and there is almost nothing to do with the output for the rest of the year. And a bare storage shed is a perfect limiting case — no load of its own, therefore no self-consumption base, therefore **no farm aid at all** on its solar.
 
-Self-consumption, the self-consumption rate and collective self-consumption are set out in [“Energy self-consumption in Belgium”](/en/news/2026/06/05/energy-self-consumption-belgium/).
+Self-consumption, the self-consumption rate and collective self-consumption are set out in [“Energy self-consumption in Belgium”](/en/guides/energy-self-consumption-belgium/).
 
 ## You cannot do a deal with the neighbour across the road
 
@@ -193,7 +193,7 @@ Article 24 offers two alternative criteria, and meeting one is enough:
 
 The second criterion is often forgotten and it is precious in the countryside, where municipal boundaries rarely fall where the cables run. A farm on the edge of a municipality frequently shares its substation with the neighbouring hamlet, which belongs to another municipality. Ask the grid operator which substation feeds your connection: the answer sometimes widens the field of possible partners considerably.
 
-The documents to produce and the associated deadlines are set out in [“Energy community: CWaPE documents and deadlines”](/en/news/2026/08/12/energy-community-administrative-documents-wallonia/).
+The documents to produce and the associated deadlines are set out in [“Energy community: CWaPE documents and deadlines”](/en/guides/energy-community-administrative-documents-wallonia/).
 
 ## The grid can say no even when the law says yes
 

@@ -143,26 +143,14 @@ blog:
   all_posts: "Alle Neuigkeiten anzeigen"
   published_on: "Veröffentlicht am"
   by_author: "von"
-  back_to_blog: "Zurück zu Aktuelles"
   older_posts: "Ältere Beiträge"
   newer_posts: "Neuere Beiträge"
   updated_on: "Aktualisiert am"
-  filter_label: "Nach Tag filtern"
   sort_label: "Sortieren nach"
-  all_tags: "Alle"
-  no_results: "Keine Artikel entsprechen diesem Filter."
   sort:
     newest: "Neueste zuerst"
     oldest: "Älteste zuerst"
     updated: "Kürzlich aktualisiert"
-  tags:
-    app: "OptimCE-App"
-    administrative: "Verwaltung"
-    allocation-key: "Aufteilungsschlüssel"
-    community: "Energiegemeinschaft"
-    announcement: "Ankündigung"
-    news: "Neuigkeiten"
-    guide: "Anleitung"
 
 # Guides: index page and pillar pages
 guides:

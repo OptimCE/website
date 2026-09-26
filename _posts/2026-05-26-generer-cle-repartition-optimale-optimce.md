@@ -12,14 +12,14 @@ pillar: cle-de-repartition
 # Pinned explicitly, like the three translations. Before `timezone` was set in
 # _config.yml the 00:00 +0200 date built as 05/25 on the UTC CI runner, so that
 # URL is live and indexed — its redirect lives in _data/redirects.csv.
-permalink: /actualites/2026/05/26/generer-cle-repartition-optimale-optimce/
+permalink: /guides/generer-cle-repartition-optimale-optimce/
 ---
 
 Choisir la **clé de répartition** qui tire le meilleur d'une production locale est plus difficile qu'il n'y paraît. Le vocabulaire est posé par le régulateur, les clés standards sont listées dans un document CWaPE ou Fluvius, et pourtant le *bon* choix dépend de ce qu'aucun de ces textes ne peut vous dire : les profils réels, au quart d'heure, de vos membres. Un quartier résidentiel avec une seule école se comporte très différemment d'un parc d'entreprises avec une charge de base, et une même clé peut récupérer 70 % de la production disponible dans une communauté et à peine 50 % dans une autre.
 
 Le **module de génération automatique de clés de répartition** d'OptimCE est désormais disponible pour sortir cette décision du domaine de l'intuition. Donnez-lui un CSV avec les données réelles de production et de consommation de la communauté, et il renvoie une clé candidate avec un taux d'autoconsommation collective attendu — calculé sur vos propres données, pas sur un exemple théorique. Deux algorithmes **indépendants** sont livrés aujourd'hui, tous deux consommant le même CSV : un **brute force** qui balaie les clés standards reconnues dans chaque région, et **LOGAAS**, une approche hybride d'optimisation linéaire et d'algorithme génétique développée par [**CeCoTePe**](https://cecotepe.be/) pour le projet **Locomotrice**. D'autres algorithmes pourront s'ajouter par la suite.
 
-Si vous découvrez encore le paysage régulatoire — ce que CWaPE, BRUGEL et VREG considèrent comme une clé valide — commencez par notre article de référence [« Clé de répartition en Belgique : les 3 régions »](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/).
+Si vous découvrez encore le paysage régulatoire — ce que CWaPE, BRUGEL et VREG considèrent comme une clé valide — commencez par notre article de référence [« Clé de répartition en Belgique : les 3 régions »](/guides/cle-repartition-communaute-energie-belgique/).
 
 <img src="/assets/images/diagrams/allocation-key-flow-fr.svg"
      alt="Schéma en cinq étapes : données au quart d'heure, génération ou simulation, clé candidate, validation par les membres, transmission au gestionnaire de réseau."
@@ -75,7 +75,7 @@ Sa limite, c'est le catalogue lui-même. Si les profils d'une communauté sont a
 
 Là où le brute force est borné par le catalogue standard, LOGAAS explore un **espace plus large de clés candidates** — y compris des combinaisons non standards — en combinant **optimisation linéaire** (qui trouve la meilleure allocation ex-post pour une itération donnée) et **algorithme génétique** avec **spéciation atypique** (qui cherche la meilleure combinaison de pourcentages entre les jusqu'à trois itérations autorisées, en préservant la diversité de la population). En pratique, il peut aller chercher des points de performance là où les familles standards ne s'ajustent pas proprement aux profils : ensembles de membres très hétérogènes, gros consommateurs saisonniers associés à des ménages résidentiels, ou producteurs en surplus qui réinjecteraient sinon l'essentiel de leur production sur le réseau public.
 
-LOGAAS produit une clé candidate **non standard**. En Wallonie, cela signifie que la communauté doit passer par la **voie d'autorisation CWaPE** avant que le GRD ne puisse l'appliquer — voir l'[article sur la clé de répartition en Belgique](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/) pour la procédure. À Bruxelles et en Flandre, la marge pour des clés non standards est plus étroite ; le résultat LOGAAS y sert souvent de **référence de performance** — à quoi pourrait ressembler le meilleur résultat possible — pour juger la clé standard retenue.
+LOGAAS produit une clé candidate **non standard**. En Wallonie, cela signifie que la communauté doit passer par la **voie d'autorisation CWaPE** avant que le GRD ne puisse l'appliquer — voir l'[article sur la clé de répartition en Belgique](/guides/cle-repartition-communaute-energie-belgique/) pour la procédure. À Bruxelles et en Flandre, la marge pour des clés non standards est plus étroite ; le résultat LOGAAS y sert souvent de **référence de performance** — à quoi pourrait ressembler le meilleur résultat possible — pour juger la clé standard retenue.
 
 Utilisez LOGAAS quand le résultat du brute force est proche mais pas suffisant, quand les économies du projet dépendent des derniers points d'autoconsommation collective, ou quand vous voulez quantifier une borne supérieure pour étayer une décision d'investissement.
 
@@ -146,15 +146,15 @@ Le module de génération automatique transforme le choix de la clé de réparti
 
 Pour aller plus loin, voyez nos guides complémentaires :
 
-> **[Clé de répartition en Belgique : les 3 régions](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/)**
+> **[Clé de répartition en Belgique : les 3 régions](/guides/cle-repartition-communaute-energie-belgique/)**
 >
 > Le primer régulatoire — ce que CWaPE, BRUGEL et VREG acceptent, les trois vocabulaires régionaux et comment choisir une famille de clés avant de laisser OptimCE l'optimiser.
 
-> **[Comment créer une communauté d'énergie en Wallonie : guide étape par étape](/actualites/2026/05/11/creer-communaute-energie-wallonie/)**
+> **[Comment créer une communauté d'énergie en Wallonie : guide étape par étape](/guides/creer-communaute-energie-wallonie/)**
 >
 > Cadrer le projet, choisir entre CER et CEC, notifier la CWaPE et lancer le partage — et où la clé de répartition s'insère dans le dossier.
 
-> **[Comment rejoindre une communauté d'énergie en Wallonie : guide pratique](/actualites/2026/05/11/rejoindre-communaute-energie-wallonie/)**
+> **[Comment rejoindre une communauté d'énergie en Wallonie : guide pratique](/guides/rejoindre-communaute-energie-wallonie/)**
 >
 > Où trouver une opération ouverte, étapes d'adhésion et points à vérifier avant de signer la convention de partage.
 

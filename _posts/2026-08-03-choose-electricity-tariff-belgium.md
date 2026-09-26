@@ -10,7 +10,7 @@ tags: [guide, administrative, community]
 lang: en
 ref: choose-electricity-tariff-belgium
 pillar: facture-electricite
-permalink: /en/news/2026/08/03/choose-electricity-tariff-belgium/
+permalink: /en/guides/choose-electricity-tariff-belgium/
 faq:
   - q: "Which electricity tariff is the most advantageous in Belgium in 2026?"
     a: "There is no single answer, because the formulas do not act on the same lines of the bill. The social tariff is by far the most advantageous for those entitled to it: 24.927 c€/kWh including VAT on a single rate in the third quarter of 2026, against an average all-in price of 36.94 c€/kWh recorded by the CREG in June 2026 — but it is a status, not a choice. For everyone else the order is this: check your entitlement to the social tariff, compare your current contract against the market, choose the grid tariff formula that matches your hours, and only consider a dynamic contract if you have genuine flexibility. Energy sharing is added on top, without changing supplier."
@@ -30,7 +30,7 @@ A protected household pays 24.927 cents for its kilowatt-hour on a single rate t
 
 Three prices, one electricity, and three tariff logics with almost nothing in common. The question “which tariff should I choose?” therefore has no general answer: it has an answer per household, and it depends far less on the supplier than on three things nobody ever asks you about — your welfare status, your region, and your real ability to move a washing machine.
 
-This article does not re-explain *why* the Belgian bill is high: we broke it down in euros in [“Why your electricity bill stays high in Belgium”](/en/news/2026/07/25/why-electricity-bill-still-high-belgium/). Nor does it set out *how to read* the document, decoded line by line in [“Read your Belgian electricity bill line by line”](/en/news/2026/07/30/read-electricity-bill-belgium/), nor the full list of Walloon levers, costed in [“Reduce your electricity bill: Wallonia 2026”](/en/news/2026/07/28/reduce-electricity-bill-wallonia-2026/). It answers the question that comes immediately afterwards: **between the social tariff, the night rate and the dynamic contract, which one concerns you** — and why there is a fourth route no comparison tool lists.
+This article does not re-explain *why* the Belgian bill is high: we broke it down in euros in [“Why your electricity bill stays high in Belgium”](/en/guides/why-electricity-bill-still-high-belgium/). Nor does it set out *how to read* the document, decoded line by line in [“Read your Belgian electricity bill line by line”](/en/guides/read-electricity-bill-belgium/), nor the full list of Walloon levers, costed in [“Reduce your electricity bill: Wallonia 2026”](/en/guides/reduce-electricity-bill-wallonia/). It answers the question that comes immediately afterwards: **between the social tariff, the night rate and the dynamic contract, which one concerns you** — and why there is a fourth route no comparison tool lists.
 
 <img src="/assets/images/diagrams/tariff-choice-en.svg"
      alt="Comparative diagram of the four Belgian tariff routes: the social tariff acts on both energy and grid costs but depends on a status, the night-rate tariff acts on the grid tariff and varies by region, the dynamic contract acts on the energy component alone and requires a smart meter, and the energy community acts on the energy component of shared kilowatt-hours and stacks with both contract formulas."
@@ -104,7 +104,7 @@ Here is the misconception to correct, and it is still widely repeated: **increas
 
 Alongside the federal scheme there is a **regional protected customer** status, which does not work the same way: you must obtain a certificate from your public welfare centre or your debt mediator, and pass it to your grid operator. Nothing is automatic.
 
-The useful reflex: **if your situation has changed** — job loss, separation, an allowance taking effect, moving into social housing — the tariff does not always trigger by itself. A call to your local welfare service or to your supplier costs ten minutes and can be worth several hundred euros. And if the social tariff is not enough, it sits within a wider safety net — MEBAR, the Social Heating Fund, the energy tutor, the Local Energy Commission — detailed in [“Energy poverty in Wallonia: available support”](/en/news/2026/08/08/energy-poverty-wallonia-support/).
+The useful reflex: **if your situation has changed** — job loss, separation, an allowance taking effect, moving into social housing — the tariff does not always trigger by itself. A call to your local welfare service or to your supplier costs ten minutes and can be worth several hundred euros. And if the social tariff is not enough, it sits within a wider safety net — MEBAR, the Social Heating Fund, the energy tutor, the Local Energy Commission — detailed in [“Energy poverty in Wallonia: available support”](/en/guides/energy-poverty-wallonia-support/).
 
 ## Route 2 — The night rate: the answer depends on your region
 
@@ -120,7 +120,7 @@ This is where generic articles become misleading, because they treat “the dual
 
 Off-peak hours now cover **15 hours out of 24, that is 62.5 % of the time**, against 55 % under the old split, and the middle of the day — the window when photovoltaics produce most — has moved to the off-peak side. On the ORES 2026 schedule, the proportional distribution term is 4.88 c€/kWh in off-peak hours against 10.43 in peak hours.
 
-To this is added the **Impact tariff**, optional and reversible, which cuts the day into three bands: ECO at 2.71 c€/kWh from 11:00 to 17:00 and from 01:00 to 07:00, MEDIUM at 8.13, PEAK at 13.54 from 17:00 to 22:00. A ratio of one to five. The detail, the access conditions and the appliance-by-appliance calculation are set out in [our Walloon guide](/en/news/2026/07/28/reduce-electricity-bill-wallonia-2026/) — note here that a 1,800 kWh water heater shifted from the single rate into the ECO band represents about **€124 including VAT a year** on the distribution term alone.
+To this is added the **Impact tariff**, optional and reversible, which cuts the day into three bands: ECO at 2.71 c€/kWh from 11:00 to 17:00 and from 01:00 to 07:00, MEDIUM at 8.13, PEAK at 13.54 from 17:00 to 22:00. A ratio of one to five. The detail, the access conditions and the appliance-by-appliance calculation are set out in [our Walloon guide](/en/guides/reduce-electricity-bill-wallonia/) — note here that a 1,800 kWh water heater shifted from the single rate into the ECO band represents about **€124 including VAT a year** on the distribution term alone.
 
 ### In Brussels: stable, and that is information in itself
 
@@ -169,7 +169,7 @@ The dynamic contract is therefore not a bet on future prices. It is a **transfer
 
 ## Route 4 — The energy community: the one no comparison tool lists
 
-The first three routes have one thing in common: they are all played out **between you and your supplier**. The fourth changes axis. Energy sharing consists of passing part of a producer's local output — a roof, a wind turbine, a neighbourhood installation — to other supply points, at a price agreed between participants. What this means in practice, and it has no equivalent in the other three routes: **you do not change supplier, you install nothing at home, and your current contract keeps running.** You receive your usual bill, plus a statement for the shared energy. The full mechanism and the division of roles are set out in [“Invoicing shared electricity in Belgium”](/en/news/2026/07/23/who-invoices-shared-electricity-belgium/), and the three Belgian legal forms in [“Energy communities in Belgium”](/en/news/2026/05/11/energy-communities-belgium/).
+The first three routes have one thing in common: they are all played out **between you and your supplier**. The fourth changes axis. Energy sharing consists of passing part of a producer's local output — a roof, a wind turbine, a neighbourhood installation — to other supply points, at a price agreed between participants. What this means in practice, and it has no equivalent in the other three routes: **you do not change supplier, you install nothing at home, and your current contract keeps running.** You receive your usual bill, plus a statement for the shared energy. The full mechanism and the division of roles are set out in [“Invoicing shared electricity in Belgium”](/en/guides/who-invoices-shared-electricity-belgium/), and the three Belgian legal forms in [“Energy communities in Belgium”](/en/guides/energy-communities-belgium/).
 
 ### What it is worth, and what it does not do
 
@@ -189,7 +189,7 @@ This is where the “fourth route” thesis holds up, but not uniformly.
 
 Let us do the arithmetic, because it is simple and it settles the matter. The energy component of the social tariff is **12.453 c€/kWh excluding VAT** on a single rate this quarter — 10.944 in night hours. For a protected household to gain anything from sharing, **the agreed internal price must fall below that ceiling**. It is low: the market energy component runs at around 14.2 c€/kWh. This is exactly why the documented gain from sharing drops from about €145 to **about €70 a year** for a household already on the social tariff.
 
-The practical conclusion is not “sharing is worthless on the social tariff” — it is still worth in the order of €70 a year. It is more precise than that: **on the social tariff, sharing is only decided after seeing the internal price.** The five methods for calculating that price, and the range within which it is negotiated, are set out in [“Internal transfer price in an energy community”](/en/news/2026/07/20/energy-community-electricity-price/).
+The practical conclusion is not “sharing is worthless on the social tariff” — it is still worth in the order of €70 a year. It is more precise than that: **on the social tariff, sharing is only decided after seeing the internal price.** The five methods for calculating that price, and the range within which it is negotiated, are set out in [“Internal transfer price in an energy community”](/en/guides/energy-community-electricity-price/).
 
 Two further conditions to check before committing, applicable to everyone: you must **have an electronic meter** — smart or AMR — and **give up the benefit of compensation**, which concerns prosumers equipped before 2024. And check whether your supplier charges fees linked to your participation: on small shared volumes, they wipe out the gain.
 
@@ -224,7 +224,7 @@ On **commercial comparison sites** — there are many, often well made — a rem
 
 **Confusing two time schedules.** In Wallonia, the dual-rate bands and the Impact tariff bands are **different**: the 22:00–01:00 window is an off-peak hour on the dual rate, but a MEDIUM band on Impact. Programming an appliance on the wrong schedule cancels out the benefit.
 
-**Paying the standing charge twice.** When you change supplier mid-year, the outgoing one may bill its charge over a longer period than the one actually elapsed, and the new one bills it in turn. Check the pro rata on your closing invoice — the mechanics and the remedy are set out in [our bill-reading guide](/en/news/2026/07/30/read-electricity-bill-belgium/).
+**Paying the standing charge twice.** When you change supplier mid-year, the outgoing one may bill its charge over a longer period than the one actually elapsed, and the new one bills it in turn. Check the pro rata on your closing invoice — the mechanics and the remedy are set out in [our bill-reading guide](/en/guides/read-electricity-bill-belgium/).
 
 **Accepting a percentage without its denominator.** “Up to 20 % savings” means nothing until you know whether the percentage bears on the total bill, on the energy component, or on the distribution term alone — and on which consumption profile, in which region, at which date. It is the quickest test of how serious a source is, including this one: every figure in this article is dated and tied to its perimeter.
 
@@ -240,7 +240,7 @@ On **commercial comparison sites** — there are many, often well made — a rem
 
 What not to expect from this exercise: an average household, with no entitlement to the social tariff, no flexibility and no sharing operation nearby, will not halve its bill by changing formula. The first three routes redistribute a few tens to a few hundred euros inside a cost structure of which **61.5 % lies entirely beyond competition**. That is precisely what makes the fourth route interesting: it is the only one that does not consist of negotiating a bill better, but of taking part of it out of the equation.
 
-If this reading leads you to want to act on the “energy” line rather than endure it, [“Join an energy community in Wallonia”](/en/news/2026/05/11/join-energy-community-wallonia/) sets out the eligibility conditions, where to find an open operation and the timescale to expect. And if none exists near you, [“Reduce your electricity bill: energy communities”](/en/news/2026/06/03/energy-community-reduce-electricity-bill/) costs out what creating one would bring. That still assumes sharing is available in your region: [“Cheaper electricity without switching supplier”](/en/news/2026/08/05/cheaper-electricity-without-switching-supplier/) runs the three-region test, take-up figures in hand.
+If this reading leads you to want to act on the “energy” line rather than endure it, [“Join an energy community in Wallonia”](/en/guides/join-energy-community-wallonia/) sets out the eligibility conditions, where to find an open operation and the timescale to expect. And if none exists near you, [“Reduce your electricity bill: energy communities”](/en/guides/energy-community-reduce-electricity-bill/) costs out what creating one would bring. That still assumes sharing is available in your region: [“Cheaper electricity without switching supplier”](/en/guides/cheaper-electricity-without-switching-supplier/) runs the three-region test, take-up figures in hand.
 
 > ### Join or launch your energy sharing with OptimCE
 >

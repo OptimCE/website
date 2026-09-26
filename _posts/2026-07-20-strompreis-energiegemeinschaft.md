@@ -9,7 +9,7 @@ tags: [community, administrative, guide]
 lang: de
 ref: internal-price-shared-energy
 pillar: prix-facturation-communaute
-permalink: /de/aktuelles/2026/07/20/strompreis-energiegemeinschaft/
+permalink: /de/ratgeber/strompreis-energiegemeinschaft/
 last_modified_at: 2026-07-25 10:00:00 +0200
 faq:
   - q: "Wer legt den Preis des geteilten Stroms in einer Energiegemeinschaft fest?"
@@ -32,7 +32,7 @@ Wer heute Solarstrom besitzt, verkauft seinen Überschuss je nach Vertrag für *
 
 Bleibt die Frage, die jeder Projektträger irgendwann stellt, oft zu spät: **Welchen Preis schreiben Sie in die Vereinbarung?** Kein belgischer Regulator veröffentlicht dazu eine Antwort. Weder die CWaPE noch BRUGEL noch die Vlaamse Nutsregulator verbreiten eine Berechnungsmethode oder einen Referenztarif. Dieser Artikel füllt die Lücke: was der interne Preis wirklich abdeckt, zwischen welchen Grenzen er liegen muss, fünf Methoden, ihn zu bilden, ein vollständig durchgerechneter belgischer Fall und das, was der Rahmen in jeder Region erlaubt.
 
-Wenn Ihnen die Mechanik der Energieteilung noch fremd ist, beginnen Sie mit unserem Referenzartikel [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/): Der Schlüssel entscheidet, *wie viele kWh* jedem zufallen, der Preis entscheidet, *wie viele Euro*.
+Wenn Ihnen die Mechanik der Energieteilung noch fremd ist, beginnen Sie mit unserem Referenzartikel [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/ratgeber/verteilungsschluessel-energiegemeinschaft-belgien/): Der Schlüssel entscheidet, *wie viele kWh* jedem zufallen, der Preis entscheidet, *wie viele Euro*.
 
 ## Der interne Verrechnungspreis ersetzt nur ein Drittel der Rechnung
 
@@ -57,14 +57,14 @@ Zwei praktische Folgen:
 
 ### Was der Vertreter zusätzlich zum Preis in Rechnung stellt
 
-Zum vereinbarten Preis kommen auf der Rechnung der Gemeinschaft selbst „die Mehrwertsteuer, die Akzisen und die gemeinwirtschaftliche Verpflichtung zur Rückgabe der Quoten an grünen Zertifikaten“ hinzu ([CWaPE](https://www.cwape.be/node/6063)). Wer diese Rechnung ausstellt und welche Angaben sie tragen muss, ist Gegenstand unseres Leitfadens [„Geteilten Strom in Belgien abrechnen“](/de/aktuelles/2026/07/23/geteilten-strom-abrechnen-belgien/). Zwei Präzisierungen, über die viele Projekte stolpern:
+Zum vereinbarten Preis kommen auf der Rechnung der Gemeinschaft selbst „die Mehrwertsteuer, die Akzisen und die gemeinwirtschaftliche Verpflichtung zur Rückgabe der Quoten an grünen Zertifikaten“ hinzu ([CWaPE](https://www.cwape.be/node/6063)). Wer diese Rechnung ausstellt und welche Angaben sie tragen muss, ist Gegenstand unseres Leitfadens [„Geteilten Strom in Belgien abrechnen“](/de/ratgeber/geteilten-strom-abrechnen-belgien/). Zwei Präzisierungen, über die viele Projekte stolpern:
 
 - **Die Mehrwertsteuer ist nicht einheitlich.** Der ermäßigte Satz von **6 % gilt für die Lieferung von Strom an einen Privatkunden**, gegenüber **21 % für einen gewerblichen Kunden**: Eine Gemeinschaft mit gemischter Mitgliedschaft muss also damit rechnen, zu zwei Sätzen zu fakturieren. Unter 25.000 € Jahresumsatz exkl. MwSt. kann die [Kleinunternehmerregelung](https://finances.belgium.be/fr/entreprises/tva/assujettissement-tva/regime-franchise-taxe) greifen. Kein Rundschreiben behandelt die Energieteilung ausdrücklich: Lassen Sie Ihre Situation vor der ersten Rechnung von Ihrem Buchhalter bestätigen.
 - **Den Bundesbeitrag gibt es nicht mehr.** Er wurde zum 31. Dezember 2021 abgeschafft und in die Sonderakzise überführt ([CREG](https://www.creg.be/fr/a-z-index/cotisation-federale)). Viele kursierende Dokumente erwähnen ihn noch: Übernehmen Sie ihn nicht in Ihre Simulationen.
 
 ## Die Netzentgelte sinken fast nie
 
-Die Vorstellung, eine Energiegemeinschaft profitiere von ermäßigten Netztarifen, ist weit verbreitet. Vor allem aber ist sie **im häufigsten Fall falsch**. Wir nehmen an anderer Stelle Block für Block auseinander, [warum eine belgische Stromrechnung trotz sinkender Preise hoch bleibt](/de/aktuelles/2026/07/25/warum-stromrechnung-hoch-bleibt-belgien/) — Netzkosten, Steuern und Lieferantenmarge inbegriffen. Die Einzelheiten nach Region:
+Die Vorstellung, eine Energiegemeinschaft profitiere von ermäßigten Netztarifen, ist weit verbreitet. Vor allem aber ist sie **im häufigsten Fall falsch**. Wir nehmen an anderer Stelle Block für Block auseinander, [warum eine belgische Stromrechnung trotz sinkender Preise hoch bleibt](/de/ratgeber/warum-stromrechnung-hoch-bleibt-belgien/) — Netzkosten, Steuern und Lieferantenmarge inbegriffen. Die Einzelheiten nach Region:
 
 | Region | Ermäßigung der Netzentgelte auf geteilte kWh |
 |---|---|

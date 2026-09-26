@@ -28,6 +28,6 @@ Die App enthält nun ein **öffentliches Register der Teilungsoperationen**. Jed
 
 Das Register ist direkt in der Anwendung erreichbar: **[offene Teilungsoperationen durchsuchen](https://app.optimce.be)**.
 
-Wenn Sie einer bestehenden Gemeinschaft beitreten möchten, beschreibt unser Leitfaden [„Energiegemeinschaft in der Wallonie beitreten“](/de/aktuelles/2026/05/11/energiegemeinschaft-beitreten-wallonien/) die Voraussetzungen und die Punkte, die Sie vor der Unterschrift prüfen sollten.
+Wenn Sie einer bestehenden Gemeinschaft beitreten möchten, beschreibt unser Leitfaden [„Energiegemeinschaft in der Wallonie beitreten“](/de/ratgeber/energiegemeinschaft-beitreten-wallonien/) die Voraussetzungen und die Punkte, die Sie vor der Unterschrift prüfen sollten.
 
 Wie immer freuen wir uns über Feedback und Beiträge in [unserem GitHub-Repository](https://github.com/optimce).

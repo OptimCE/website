@@ -9,6 +9,7 @@ tags: [community, administrative]
 lang: fr
 ref: energy-communities-belgium
 pillar: communautes-energie
+permalink: /guides/communautes-energie-belgique/
 last_modified_at: 2026-07-20 10:00:00 +0200
 ---
 
@@ -107,7 +108,7 @@ Les particuliers, les PME et les autorités locales peuvent y participer. La par
 
 ### Comment ma réduction est-elle calculée ?
 
-Le GRD analyse vos relevés au pas de 15 minutes, applique la **clé de répartition** définie par la communauté, et transmet à votre fournisseur la quantité d'énergie partagée à votre profit. Cette part est facturée au tarif négocié dans la communauté, généralement inférieur au tarif marché. Pour le détail des types de clés acceptées dans chaque région, voyez notre guide [« Clé de répartition en Belgique : les 3 régions »](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/).
+Le GRD analyse vos relevés au pas de 15 minutes, applique la **clé de répartition** définie par la communauté, et transmet à votre fournisseur la quantité d'énergie partagée à votre profit. Cette part est facturée au tarif négocié dans la communauté, généralement inférieur au tarif marché. Pour le détail des types de clés acceptées dans chaque région, voyez notre guide [« Clé de répartition en Belgique : les 3 régions »](/guides/cle-repartition-communaute-energie-belgique/).
 
 ### Y a-t-il une limite géographique ?
 
@@ -133,7 +134,7 @@ Via les **compteurs communicants** (smart meters) déployés par les GRD, qui tr
 
 **En Wallonie**, le cadre est stabilisé depuis 2022 et la procédure est entièrement documentée. Nous avons rédigé un guide pas à pas dédié :
 
-> **[Créer une communauté d'énergie en Wallonie](/actualites/2026/05/11/creer-communaute-energie-wallonie/)**
+> **[Créer une communauté d'énergie en Wallonie](/guides/creer-communaute-energie-wallonie/)**
 >
 > Choix entre CER et CEC, cadrage du projet, notification à la CWaPE, accusé de réception et démarrage du partage avec ORES, RESA ou AIEG.
 
@@ -145,7 +146,7 @@ Via les **compteurs communicants** (smart meters) déployés par les GRD, qui tr
 
 **En Wallonie**, des centaines d'opérations de partage cherchent activement de nouveaux membres. Pas besoin de créer votre propre communauté pour profiter du partage : un guide pratique détaille comment rejoindre une opération existante en quelques semaines.
 
-> **[Rejoindre une communauté d'énergie en Wallonie](/actualites/2026/05/11/rejoindre-communaute-energie-wallonie/)**
+> **[Rejoindre une communauté d'énergie en Wallonie](/guides/rejoindre-communaute-energie-wallonie/)**
 >
 > Qui peut adhérer, où trouver une opération ouverte (registre OptimCE, facilitateur SPW, Énergie commune), démarches pas à pas et points de vigilance avant de signer.
 

@@ -10,7 +10,7 @@ lang: de
 ref: solar-panels-worth-it-wallonia-2026
 pillar: solaire-surplus
 last_modified_at: 2026-09-22 06:00:00 +0200
-permalink: /de/aktuelles/2026/08/11/solaranlage-rentabel-wallonien-2026/
+permalink: /de/ratgeber/solaranlage-rentabel-wallonien/
 faq:
   - q: "Lohnen sich Solaranlagen in Wallonien 2026 noch?"
     a: "Ja, aber mit längerer Amortisationszeit als zur Zeit der Kompensation und deutlich abhängiger von Ihrem Verbrauchsprofil. Bei einem illustrativen Fall von 4 kWp für 6.000 € inklusive Mehrwertsteuer, mit 3.800 kWh Jahresertrag und einer Eigenverbrauchsquote von 37,76 %, liegt der Jahresgewinn bei rund 613 € — davon 530 € aus Strom, den Sie nicht mehr bezahlen, und nur 83 € aus dem Verkauf des Überschusses. Das ergibt rund zehn Jahre, gegenüber sechs Jahren, die die Wallonische Region 2023 für eine Anlage mit 40 % Eigenverbrauch nannte. Der Unterschied zwischen einer guten und einer schlechten Anlage liegt nicht mehr im Angebotspreis, sondern im Anteil der Produktion, den Sie selbst verbrauchen."
@@ -34,7 +34,7 @@ Dieser Faktor zwölf ist die ganze Sache. Er erklärt, warum zwei identische Anl
 
 Mit einem Vorbehalt, den niemand klar ausspricht und der alles verändert: **Das Teilen stellt sich völlig unterschiedlich dar, je nachdem ob Ihre Anlage vor oder nach dem 1. Januar 2024 in Betrieb ging.** Für die einen ist es ein Nettogewinn. Für die anderen ist es eine Abwägung — und sie fällt vor 2031 meist negativ aus.
 
-Dieser Artikel erklärt nicht erneut, was eine Energiegemeinschaft ist oder was eine EEG von einer BEG unterscheidet: Das steht in „[Energiegemeinschaften in Belgien: CER, CEC, CEL](/de/aktuelles/2026/05/11/energiegemeinschaften-belgien/)“. Er behandelt auch nicht die zehn wallonischen Spar-Hebel aus „[Stromrechnung senken: Wallonien 2026](/de/aktuelles/2026/07/28/stromrechnung-senken-wallonien-2026/)“ und nicht die regionale Verfügbarkeit des Teilens, die in „[Strom sparen ohne Anbieterwechsel](/de/aktuelles/2026/08/05/strom-sparen-ohne-anbieterwechsel/)“ untersucht wird. Er beantwortet eine einzige Frage, mit Zahlen: **Ist eine wallonische Photovoltaikanlage 2026 noch rentabel — und wie stark verschiebt das Teilen die Antwort.**
+Dieser Artikel erklärt nicht erneut, was eine Energiegemeinschaft ist oder was eine EEG von einer BEG unterscheidet: Das steht in „[Energiegemeinschaften in Belgien: CER, CEC, CEL](/de/ratgeber/energiegemeinschaften-belgien/)“. Er behandelt auch nicht die zehn wallonischen Spar-Hebel aus „[Stromrechnung senken: Wallonien 2026](/de/ratgeber/stromrechnung-senken-wallonien/)“ und nicht die regionale Verfügbarkeit des Teilens, die in „[Strom sparen ohne Anbieterwechsel](/de/ratgeber/strom-sparen-ohne-anbieterwechsel/)“ untersucht wird. Er beantwortet eine einzige Frage, mit Zahlen: **Ist eine wallonische Photovoltaikanlage 2026 noch rentabel — und wie stark verschiebt das Teilen die Antwort.**
 
 <img src="/assets/images/diagrams/solar-profitability-de.svg"
      alt="Schema des Werts einer Solarkilowattstunde in Wallonien 2026: Die Anlage teilt sich zunächst nach ihrem Inbetriebnahmedatum, vor oder nach dem 1. Januar 2024, dann folgt jede erzeugte Kilowattstunde einem von vier Wegen — sofort selbst verbraucht für etwa 37 Cent, in einer Batterie gespeichert und später selbst verbraucht zum gleichen Wert, aber um den Preis einer Investition, mit anderen Teilnehmern geteilt für 3 bis 14 Cent, oder ins Netz eingespeist für lediglich 1 bis 5 Cent."
@@ -106,7 +106,7 @@ Die Rechnung bleibt bewusst einfach: Sie lässt die Strompreisinflation (2,5 %/J
 
 **Das Ergebnis steckt im Ungleichgewicht der zweiten Spalte.**
 
-Diese Quote von 37,76 % ist ein regulatorischer Mittelwert. Ein Haushalt, dessen Haus tagsüber leer steht, liegt eher bei 30 %, weil 85,8 % der Jahresproduktion zwischen 9 und 17 Uhr anfallen. Was dieses Profil zurückholen kann und wo es an eine Grenze stößt, ist beziffert in [„Solaranlage: tagsüber niemand zu Hause“](/de/aktuelles/2026/09/12/solaranlage-tagsueber-nicht-zu-hause/).
+Diese Quote von 37,76 % ist ein regulatorischer Mittelwert. Ein Haushalt, dessen Haus tagsüber leer steht, liegt eher bei 30 %, weil 85,8 % der Jahresproduktion zwischen 9 und 17 Uhr anfallen. Was dieses Profil zurückholen kann und wo es an eine Grenze stößt, ist beziffert in [„Solaranlage: tagsüber niemand zu Hause“](/de/ratgeber/solaranlage-tagsueber-nicht-zu-hause/).
 
 ## Das wahre Problem ist nicht der Modulpreis — es ist das Schicksal des Überschusses
 
@@ -125,7 +125,7 @@ Daraus folgen drei praktische Konsequenzen, und sie stellen die üblichen Ratsch
 
 **Überdimensionieren ist kontraproduktiv.** Jede Kilowattstunde jenseits dessen, was Sie aufnehmen können, geht zum Einspeisetarif weg. Eine doppelt so große Anlage verdoppelt nicht den Gewinn, sondern vor allem die Menge, die 3 Cent wert ist.
 
-**Der Einspeisetarif ist keine Größe, die Sie steuern.** Er ist in Belgien nirgends reguliert, schwankt zwischen Lieferanten um den Faktor fünf und folgt dem Großhandelsmarkt. Bei dynamischen Verträgen ist es sogar schlimmer: Wie in „[Welchen Stromtarif in Belgien wählen?](/de/aktuelles/2026/08/03/stromtarif-belgien-waehlen/)“ dargelegt, zahlten **99 % der Haushalte mit Solaranlage mehr** unter einem dynamischen Vertrag, mit einem Mediananstieg von 20 % — genau weil ihr Überschuss dann anfällt, wenn die Preise einbrechen.
+**Der Einspeisetarif ist keine Größe, die Sie steuern.** Er ist in Belgien nirgends reguliert, schwankt zwischen Lieferanten um den Faktor fünf und folgt dem Großhandelsmarkt. Bei dynamischen Verträgen ist es sogar schlimmer: Wie in „[Welchen Stromtarif in Belgien wählen?](/de/ratgeber/stromtarif-belgien-waehlen/)“ dargelegt, zahlten **99 % der Haushalte mit Solaranlage mehr** unter einem dynamischen Vertrag, mit einem Mediananstieg von 20 % — genau weil ihr Überschuss dann anfällt, wenn die Preise einbrechen.
 
 Die ganze Frage der Rentabilität einer wallonischen Photovoltaikanlage 2026 läuft damit auf eine einzige hinaus: **Was tun mit den 62 %?**
 
@@ -159,7 +159,7 @@ Das ist die Standardoption, die greift, wenn Sie nichts tun. Sie kostet nichts u
 
 Das ist die Option, die niemand erwähnt, und die einzige, die den Wert des Überschusses **ohne Investition** erhöht. Dazu kommen wir jetzt.
 
-Diese drei Optionen schließen sich übrigens nicht aus, und das ist wichtig: Eine Batterie wandelt Überschuss in zeitversetzten Eigenverbrauch, das Teilen verwertet den Rest, die Einspeisung sammelt den Bodensatz ein. **Die rationale Reihenfolge lautet: Verbrauch verschieben, dann teilen, dann eine Batterie erwägen**, wenn der Restüberschuss es noch rechtfertigt. Die Einzelheiten Gerät für Gerät — Warmwasserspeicher, Laden des Autos, Batterie — und die Rangfolge in investierten Euro je aufgenommener Kilowattstunde stehen in [Solarüberschuss: die 5 Optionen im Vergleich](/de/aktuelles/2026/08/18/solarer-ueberschuss-was-tun-belgien/).
+Diese drei Optionen schließen sich übrigens nicht aus, und das ist wichtig: Eine Batterie wandelt Überschuss in zeitversetzten Eigenverbrauch, das Teilen verwertet den Rest, die Einspeisung sammelt den Bodensatz ein. **Die rationale Reihenfolge lautet: Verbrauch verschieben, dann teilen, dann eine Batterie erwägen**, wenn der Restüberschuss es noch rechtfertigt. Die Einzelheiten Gerät für Gerät — Warmwasserspeicher, Laden des Autos, Batterie — und die Rangfolge in investierten Euro je aufgenommener Kilowattstunde stehen in [Solarüberschuss: die 5 Optionen im Vergleich](/de/ratgeber/solarer-ueberschuss-was-tun-belgien/).
 
 ## Was das Teilen wirklich an der Rechnung ändert
 
@@ -167,7 +167,7 @@ Energieteilen heißt, Viertelstunde für Viertelstunde einen Anteil Ihrer Erzeug
 
 ### Die entscheidende Zahl: der interne Verrechnungspreis
 
-Wir haben ihm einen eigenen Artikel gewidmet, „[Interner Verrechnungspreis für geteilten Strom](/de/aktuelles/2026/07/20/strompreis-energiegemeinschaft/)“. Hier zählen zwei Grenzen:
+Wir haben ihm einen eigenen Artikel gewidmet, „[Interner Verrechnungspreis für geteilten Strom](/de/ratgeber/strompreis-energiegemeinschaft/)“. Hier zählen zwei Grenzen:
 
 - **Die Untergrenze ist der Einspeisetarif** — 0,94 bis 4,90 c€/kWh. Darunter hat kein Erzeuger einen Grund zu teilen statt an seinen Lieferanten zu verkaufen.
 - **Die Obergrenze ist die Energiekomponente, die der Verbraucher ohnehin zahlt**, rund 14 c€/kWh. Darüber hat kein Verbraucher einen Grund mitzumachen.
@@ -254,7 +254,7 @@ Dimensionieren Sie nach Ihrem Verbrauch, nicht nach Ihrem Dach. Holen Sie mindes
 
 ### Meine Anlage stammt von 2024 oder später
 
-Sie haben nichts zu verlieren und alles zu gewinnen. Ihre Priorität: Verbrauch in die Erzeugungsstunden verschieben, dann ein Teilungsvorhaben suchen. Bedingungen und Schritte stehen in „[Energiegemeinschaft in der Wallonie beitreten](/de/aktuelles/2026/05/11/energiegemeinschaft-beitreten-wallonien/)“.
+Sie haben nichts zu verlieren und alles zu gewinnen. Ihre Priorität: Verbrauch in die Erzeugungsstunden verschieben, dann ein Teilungsvorhaben suchen. Bedingungen und Schritte stehen in „[Energiegemeinschaft in der Wallonie beitreten](/de/ratgeber/energiegemeinschaft-beitreten-wallonien/)“.
 
 ### Meine Anlage stammt von vor 2024
 
@@ -262,9 +262,9 @@ Verzichten Sie auf nichts, bevor Sie die Rechnung des vorigen Abschnitts auf **I
 
 ### Ich bin Mieter oder wohne in einer Wohnung
 
-Installieren können Sie vermutlich nicht, empfangen aber schon. Das Teilen innerhalb desselben Gebäudes ist Walloniens günstigste Konstellation und verlangt keine juristische Person: Ein Dach im Miteigentum genügt. Der Mechanismus aus Sicht des Verbrauchers steht in „[Kollektiver Eigenverbrauch in Belgien](/de/aktuelles/2026/06/05/eigenverbrauch-energie-belgien/)“.
+Installieren können Sie vermutlich nicht, empfangen aber schon. Das Teilen innerhalb desselben Gebäudes ist Walloniens günstigste Konstellation und verlangt keine juristische Person: Ein Dach im Miteigentum genügt. Der Mechanismus aus Sicht des Verbrauchers steht in „[Kollektiver Eigenverbrauch in Belgien](/de/ratgeber/eigenverbrauch-energie-belgien/)“.
 
-Seit dem 17. April 2025 können Sie auch selbst ein wenig erzeugen: Ein mobiles Photovoltaikset, das in eine Steckdose gesteckt wird, ist in Belgien nun zulässig, und es zieht mit Ihnen um. Die vollständige Rechnung — und was die Ausrichtung eines Balkons daran ändert — steht in [„Mieter: Solarstrom ohne eigenes Dach“](/de/aktuelles/2026/09/16/solar-mieter-ohne-dach-leitfaden/).
+Seit dem 17. April 2025 können Sie auch selbst ein wenig erzeugen: Ein mobiles Photovoltaikset, das in eine Steckdose gesteckt wird, ist in Belgien nun zulässig, und es zieht mit Ihnen um. Die vollständige Rechnung — und was die Ausrichtung eines Balkons daran ändert — steht in [„Mieter: Solarstrom ohne eigenes Dach“](/de/ratgeber/solar-mieter-ohne-dach-leitfaden/).
 
 ## Das Wichtigste in Kürze
 
@@ -304,7 +304,7 @@ Sehr wenig. Laut dem Vergleich von Test-Achats vom 28. Mai 2026 reicht der Einsp
 
 ### Batterie oder Energieteilen: was lohnt sich für den Überschuss?
 
-Beides konkurriert nicht, sondern wirkt an verschiedenen Stellen. Eine Batterie wandelt Überschuss in zeitversetzten Eigenverbrauch und hebt die Eigenverbrauchsquote von 30-40 % auf **70-80 %**, was mehrere hundert Euro im Jahr wert ist — sie kostet aber **4.250 bis 7.250 €** für 5 bis 10 kWh, Wallonien zahlt keine Speicherprämie, und ihre eigene Amortisation liegt bei knapp fünfzehn Jahren. Das Energieteilen bringt weniger, kostet aber kein Kapital: Es verwertet, was nach dem Eigenverbrauch übrig bleibt, zu ausgehandelten 3 bis 14 c€/kWh statt zum Einspeisetarif. Die logische Reihenfolge lautet daher: zuerst den Verbrauch verschieben, dann teilen, und erst dann eine Batterie erwägen, wenn der Restüberschuss es noch rechtfertigt. Die Preisübersicht je installierter Kilowattstunde und die Meldepflicht, die eine Kompensation von vor 2024 unterbrechen kann, behandelt [„Hausbatterie: Preis und Alternative"](/de/aktuelles/2026/09/22/hausbatterie-preis-oder-energieteilen/).
+Beides konkurriert nicht, sondern wirkt an verschiedenen Stellen. Eine Batterie wandelt Überschuss in zeitversetzten Eigenverbrauch und hebt die Eigenverbrauchsquote von 30-40 % auf **70-80 %**, was mehrere hundert Euro im Jahr wert ist — sie kostet aber **4.250 bis 7.250 €** für 5 bis 10 kWh, Wallonien zahlt keine Speicherprämie, und ihre eigene Amortisation liegt bei knapp fünfzehn Jahren. Das Energieteilen bringt weniger, kostet aber kein Kapital: Es verwertet, was nach dem Eigenverbrauch übrig bleibt, zu ausgehandelten 3 bis 14 c€/kWh statt zum Einspeisetarif. Die logische Reihenfolge lautet daher: zuerst den Verbrauch verschieben, dann teilen, und erst dann eine Batterie erwägen, wenn der Restüberschuss es noch rechtfertigt. Die Preisübersicht je installierter Kilowattstunde und die Meldepflicht, die eine Kompensation von vor 2024 unterbrechen kann, behandelt [„Hausbatterie: Preis und Alternative"](/de/ratgeber/hausbatterie-preis-oder-energieteilen/).
 
 ### Kann ich meinen Strom teilen, wenn ich nach 2024 installiert habe?
 

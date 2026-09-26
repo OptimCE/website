@@ -10,6 +10,7 @@ tags: [community, administrative, guide]
 lang: fr
 ref: energy-communities-europe
 pillar: communautes-energie
+permalink: /guides/communautes-energie-en-europe/
 faq:
   - q: "Quelle est la différence entre une CER et une CEC ?"
     a: "Une communauté d'énergie renouvelable (CER) relève de la directive RED II : elle ne porte que sur l'énergie renouvelable et ses membres doivent se trouver à proximité des installations de production. Une communauté énergétique citoyenne (CEC) relève de la directive sur le marché intérieur de l'électricité : elle est neutre sur le plan technologique, ne couvre que l'électricité, et n'impose aucun critère de proximité géographique. Dans les deux cas, le contrôle effectif doit rester entre les mains de personnes physiques, d'autorités locales ou de petites entreprises."
@@ -86,7 +87,7 @@ Une directive fixe un résultat, pas une règle directement applicable. Chaque �
 
 L'énergie est une compétence **régionale**. La Wallonie, Bruxelles et la Flandre appliquent chacune leur décret ou ordonnance, avec leur propre régulateur — CWaPE, BRUGEL, VREG — et leurs propres familles de clés de répartition. Une communauté bruxelloise et une communauté wallonne n'obéissent pas aux mêmes règles, alors qu'elles relèvent des mêmes directives.
 
-Le détail des trois cadres, les statuts CER, CEC et CEL, et le rôle du gestionnaire de réseau sont traités dans notre article de référence : [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/actualites/2026/05/11/communautes-energie-belgique/).
+Le détail des trois cadres, les statuts CER, CEC et CEL, et le rôle du gestionnaire de réseau sont traités dans notre article de référence : [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/guides/communautes-energie-belgique/).
 
 ### France — l'autoconsommation collective comme porte d'entrée
 
@@ -110,9 +111,9 @@ Le contraste est instructif : là où la France raisonne en kilomètres et la Be
 
 Le cadre européen détermine ce que vous avez le droit de faire. Le cadre national détermine **comment vous devez le prouver**. Concrètement, trois conséquences opérationnelles :
 
-- **La clé de répartition n'est pas libre.** Chaque région ou pays reconnaît ses propres familles de clés, et sortir du catalogue suppose souvent une autorisation. Voir [« Clé de répartition en Belgique : les 3 régions »](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/).
-- **La facturation dépend du statut.** Qui émet quelle facture, et à quel taux de TVA, découle du régime national. Voir [« Facturer l'électricité partagée en Belgique »](/actualites/2026/07/23/facturer-electricite-partagee-belgique/).
-- **Le contrôle effectif doit rester démontrable.** C'est une exigence de gouvernance continue, pas une case cochée à la constitution. Voir [« Animer une communauté d'énergie au quotidien »](/actualites/2026/06/24/animer-communaute-energie/).
+- **La clé de répartition n'est pas libre.** Chaque région ou pays reconnaît ses propres familles de clés, et sortir du catalogue suppose souvent une autorisation. Voir [« Clé de répartition en Belgique : les 3 régions »](/guides/cle-repartition-communaute-energie-belgique/).
+- **La facturation dépend du statut.** Qui émet quelle facture, et à quel taux de TVA, découle du régime national. Voir [« Facturer l'électricité partagée en Belgique »](/guides/facturer-electricite-partagee-belgique/).
+- **Le contrôle effectif doit rester démontrable.** C'est une exigence de gouvernance continue, pas une case cochée à la constitution. Voir [« Animer une communauté d'énergie au quotidien »](/guides/animer-communaute-energie/).
 
 C'est précisément ce que gère [OptimCE](/a-propos/) : membres, compteurs, clés de répartition et reporting réglementaire, avec une architecture pensée pour s'adapter à des cadres nationaux qui divergent.
 
@@ -142,11 +143,11 @@ Parce qu'une directive fixe un résultat à atteindre, pas une règle directemen
 
 Le cadre européen pose le principe ; c'est au niveau national et régional que se prennent les décisions concrètes.
 
-> **[Communautés d'énergie en Belgique : CER, CEC, CEL](/actualites/2026/05/11/communautes-energie-belgique/)**
+> **[Communautés d'énergie en Belgique : CER, CEC, CEL](/guides/communautes-energie-belgique/)**
 >
 > Les trois statuts belges, le partage d'énergie et le rôle du régulateur et du GRD.
 
-> **[Créer une communauté d'énergie en Wallonie](/actualites/2026/05/11/creer-communaute-energie-wallonie/)**
+> **[Créer une communauté d'énergie en Wallonie](/guides/creer-communaute-energie-wallonie/)**
 >
 > Du choix du modèle jusqu'au démarrage du partage avec votre gestionnaire de réseau.
 

@@ -41,7 +41,7 @@ Dieser letzte Punkt wiegt schwerer, als er zunächst wirkt. Eine Energiegemeinsc
 
 Die Ausgangsbeobachtung ist schnell gesagt und mühsam zu leben: **Der Verwaltungsaufwand einer Energiegemeinschaft steht in keinem Verhältnis zu ihrer Größe.**
 
-Eine Gemeinschaft aus dreißig Haushalten muss dieselben Objekte verwalten wie ein Energieversorger — Lieferstellen, viertelstündliche Messwerte, Aufteilungsschlüssel, Abrechnung, Reporting an den Netzbetreiber — ohne dessen Personal und ohne dessen Systeme. Und der geltende Rahmen ist nicht stabil: In Belgien ist Energie eine regionale Zuständigkeit, sodass Wallonie, Brüssel und Flandern drei unterschiedliche Rahmen mit eigenen Regulierungsbehörden und eigenen Schlüsselfamilien vorgeben. Den darüber liegenden europäischen Rahmen beschreibt unser Artikel [„Energiegemeinschaften in Europa: RED II und IEMD“](/de/aktuelles/2026/03/05/energiegemeinschaften-europa/).
+Eine Gemeinschaft aus dreißig Haushalten muss dieselben Objekte verwalten wie ein Energieversorger — Lieferstellen, viertelstündliche Messwerte, Aufteilungsschlüssel, Abrechnung, Reporting an den Netzbetreiber — ohne dessen Personal und ohne dessen Systeme. Und der geltende Rahmen ist nicht stabil: In Belgien ist Energie eine regionale Zuständigkeit, sodass Wallonie, Brüssel und Flandern drei unterschiedliche Rahmen mit eigenen Regulierungsbehörden und eigenen Schlüsselfamilien vorgeben. Den darüber liegenden europäischen Rahmen beschreibt unser Artikel [„Energiegemeinschaften in Europa: RED II und IEMD“](/de/ratgeber/energiegemeinschaften-europa/).
 
 Die verfügbaren Werkzeuge waren entweder Tabellenkalkulationen — flexibel, aber nicht prüfbar und rasch unbeherrschbar — oder proprietäre Lösungen, die für Akteure ganz anderer Größenordnung gebaut waren.
 
@@ -101,7 +101,7 @@ Alles läuft über die GitHub-Organisation OptimCE. Das Monorepo bündelt die ei
 
 ## Weiterführend
 
-> **[Energiegemeinschaften in Belgien: CER, CEC, CEL](/de/aktuelles/2026/05/11/energiegemeinschaften-belgien/)**
+> **[Energiegemeinschaften in Belgien: CER, CEC, CEL](/de/ratgeber/energiegemeinschaften-belgien/)**
 >
 > Die drei belgischen Status, die Energieteilung und die Rolle von Regulator und Netzbetreiber.
 

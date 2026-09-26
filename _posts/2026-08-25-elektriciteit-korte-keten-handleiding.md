@@ -10,7 +10,7 @@ lang: nl
 ref: local-electricity-short-circuit
 pillar: facture-electricite
 last_modified_at: 2026-09-10 06:00:00 +0200
-permalink: /nl/nieuws/2026/08/25/elektriciteit-korte-keten-handleiding/
+permalink: /nl/gidsen/elektriciteit-korte-keten-handleiding/
 faq:
   - q: "Kan ik in Wallonië de stroom van mijn overbuur kopen?"
     a: "Nee, in augustus 2026 niet. Deze vorm van uitwisseling heet peer-to-peer en is de eenvoudigste van de vier: twee meters, een afgesproken prijs, verder niets. Zij is voorzien in het Waalse decreet van 5 mei 2022, maar blijft zonder uitvoeringsbesluit werkloos. ORES schrijft het onomwonden op zijn eigen pagina: het is momenteel nog niet mogelijk om energie peer-to-peer te delen, en het wetgevende kader is nog niet afgerond. Wat een Waal vandaag wel kan doen, is delen binnen eenzelfde gebouw, of toetreden tot een energiegemeenschap die als rechtspersoon is opgericht en door de CWaPE is vergund. In de praktijk betekent het woord wijk dus ofwel uw eigen gebouw, ofwel een vereniging die iemand heeft opgericht, niet het huis aan de overkant."
@@ -32,7 +32,7 @@ In augustus 2026 telt de CWaPE **13 energiegemeenschappen** die op Waals grondge
 
 Dezelfde regio, dezelfde mensen, hetzelfde parool: lokaal, kort en gekend consumeren. Aan de ene kant een massaal succes, aan de andere een vrijwel stilstand. De verleidelijke verklaring zou cultureel zijn — voeding zou meer aanspreken, energie zou te abstract zijn. Zij is onjuist. **Het verschil is mechanisch, en het past in één zin: een groentemand wacht in de koelkast, een niet-verbruikte kilowattuur verdwijnt in vijftien minuten.** Al het overige volgt daaruit, ook de manier waarop u er een opbouwt.
 
-Dit artikel herhaalt niet de beschikbaarheidstest regio per regio, noch de berekening van wat een gedeelde kilowattuur oplevert, beide behandeld in [“Goedkopere stroom zonder leverancierswissel”](/nl/nieuws/2026/08/05/goedkopere-stroom-zonder-leverancierswissel/). Het herneemt evenmin de valorisatie van het overschot langs producentenzijde, toestel per toestel vergeleken in [“Zonne-overschot: de 5 opties vergeleken”](/nl/nieuws/2026/08/18/wat-doen-met-je-zonne-overschot-belgie/) en becijferd in [“Zonnepanelen 2026: nog rendabel in Wallonië?”](/nl/nieuws/2026/08/11/zonnepanelen-rendabel-wallonie-2026/). Het herdefinieert niet het collectieve zelfverbruik, uiteengezet in [“Zelfverbruik van energie in België”](/nl/nieuws/2026/06/05/zelfverbruik-energie-belgie/), noch de grens tussen CER, CEC en CEL, getrokken in [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/), noch de methode om de prijs te bepalen, ontwikkeld in [“Interne overdrachtsprijs in een gemeenschap”](/nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/). Het verlengt ten slotte het argument dat werd geopend in [“Groene stroom in België: echt groen?”](/nl/nieuws/2026/08/22/groene-stroom-belgie-echt-groen/), waarin werd vastgesteld dat energiedelen de enige controleerbare korte keten in het Belgische recht is — zonder te zeggen hoe u er een samenstelt.
+Dit artikel herhaalt niet de beschikbaarheidstest regio per regio, noch de berekening van wat een gedeelde kilowattuur oplevert, beide behandeld in [“Goedkopere stroom zonder leverancierswissel”](/nl/gidsen/goedkopere-stroom-zonder-leverancierswissel/). Het herneemt evenmin de valorisatie van het overschot langs producentenzijde, toestel per toestel vergeleken in [“Zonne-overschot: de 5 opties vergeleken”](/nl/gidsen/wat-doen-met-je-zonne-overschot-belgie/) en becijferd in [“Zonnepanelen 2026: nog rendabel in Wallonië?”](/nl/gidsen/zonnepanelen-rendabel-wallonie/). Het herdefinieert niet het collectieve zelfverbruik, uiteengezet in [“Zelfverbruik van energie in België”](/nl/gidsen/zelfverbruik-energie-belgie/), noch de grens tussen CER, CEC en CEL, getrokken in [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/gidsen/energiegemeenschappen-belgie/), noch de methode om de prijs te bepalen, ontwikkeld in [“Interne overdrachtsprijs in een gemeenschap”](/nl/gidsen/prijs-elektriciteit-energiegemeenschap/). Het verlengt ten slotte het argument dat werd geopend in [“Groene stroom in België: echt groen?”](/nl/gidsen/groene-stroom-belgie-echt-groen/), waarin werd vastgesteld dat energiedelen de enige controleerbare korte keten in het Belgische recht is — zonder te zeggen hoe u er een samenstelt.
 
 Het beantwoordt een vraag die deze artikels niet stellen: **met wie precies werkt een korte keten voor stroom — en waarom is dat geen kwestie van overtuiging.**
 
@@ -61,7 +61,7 @@ Het gevolg is hard, en u zet het beter meteen voorop: **de korte keten voor ener
 
 De CWaPE laat hier geen dubbelzinnigheid bestaan: “voor stroom die door het net loopt, zijn alle netkosten (transmissie en distributie), evenals de daarmee samenhangende belastingen en heffingen, verschuldigd op gedeelde stroom”.
 
-Met andere woorden werkt de korte keten voor stroom op **één enkele component van uw factuur**: de energie zelf. Transmissie, distributie, belastingen, heffingen en btw blijven volledig verschuldigd. De gedetailleerde ontleding van die blokken staat in [“Waarom uw elektriciteitsfactuur hoog blijft”](/nl/nieuws/2026/07/25/waarom-elektriciteitsfactuur-hoog-blijft-belgie/); wat u hier moet onthouden, is dat het aandeel waarop een korte keten kan inbijten een **minderheid** vormt.
+Met andere woorden werkt de korte keten voor stroom op **één enkele component van uw factuur**: de energie zelf. Transmissie, distributie, belastingen, heffingen en btw blijven volledig verschuldigd. De gedetailleerde ontleding van die blokken staat in [“Waarom uw elektriciteitsfactuur hoog blijft”](/nl/gidsen/waarom-elektriciteitsfactuur-hoog-blijft-belgie/); wat u hier moet onthouden, is dat het aandeel waarop een korte keten kan inbijten een **minderheid** vormt.
 
 Er bestaat één uitzondering, precies één, en zij is smal:
 
@@ -90,7 +90,7 @@ Dat is de zuivere vorm: één producent, één consument, een tussen hen afgespr
 
 Aan de elektrische zijde is het precies wat de meeste mensen zich voorstellen wanneer u hun spreekt over het verbruiken van de stroom van hun wijk: ik koop het overschot van de buur met panelen. Twee meters, een akkoord, verder niets.
 
-En het is juist die vorm die **in Wallonië niet bestaat**. Het decreet van 5 mei 2022 voorziet erin; het uitvoeringsbesluit dat haar operationeel zou maken, is nooit genomen. ORES schrijft het zwart op wit: “Het is momenteel nog niet mogelijk om uw energie peer-to-peer te delen”, en “het wetgevende kader voor peer-to-peer energiedelen is nog niet afgerond”. De uitwerking van die blokkering en haar kostprijs wordt behandeld in [“Goedkopere stroom zonder leverancierswissel”](/nl/nieuws/2026/08/05/goedkopere-stroom-zonder-leverancierswissel/).
+En het is juist die vorm die **in Wallonië niet bestaat**. Het decreet van 5 mei 2022 voorziet erin; het uitvoeringsbesluit dat haar operationeel zou maken, is nooit genomen. ORES schrijft het zwart op wit: “Het is momenteel nog niet mogelijk om uw energie peer-to-peer te delen”, en “het wetgevende kader voor peer-to-peer energiedelen is nog niet afgerond”. De uitwerking van die blokkering en haar kostprijs wordt behandeld in [“Goedkopere stroom zonder leverancierswissel”](/nl/gidsen/goedkopere-stroom-zonder-leverancierswissel/).
 
 Onthoudt u er eenvoudigweg de ironie van: **de eenvoudigste gradatie van de korte keten voor voeding is de enige verboden gradatie van de korte keten voor stroom.**
 
@@ -108,7 +108,7 @@ De gemeenschappelijke aankoopgroep is bij uitstek de Waalse instelling van de ko
 
 De energiegemeenschap is daarvan de bijna letterlijke omzetting, met één zwaarwegend verschil: **zij vereist een rechtspersoon en een vergunning**. Waar een aankoopgroep rond een keukentafel ontstaat, moet een hernieuwbare of burgerenergiegemeenschap worden opgericht, aan de CWaPE gemeld — die tien werkdagen heeft om de volledigheid van het dossier na te gaan — en vervolgens vergund om een activiteit van delen uit te oefenen, na **technisch advies van de betrokken netbeheerder of netbeheerders**.
 
-De volledige stappen staan beschreven in [“Energiegemeenschap oprichten in Wallonië”](/nl/nieuws/2026/05/11/energiegemeenschap-oprichten-wallonie/) en, langs de zijde van de kandidaat-deelnemer, in [“Toetreden tot een energiegemeenschap in Wallonië”](/nl/nieuws/2026/05/11/energiegemeenschap-aansluiten-wallonie/).
+De volledige stappen staan beschreven in [“Energiegemeenschap oprichten in Wallonië”](/nl/gidsen/energiegemeenschap-oprichten-wallonie/) en, langs de zijde van de kandidaat-deelnemer, in [“Toetreden tot een energiegemeenschap in Wallonië”](/nl/gidsen/energiegemeenschap-aansluiten-wallonie/).
 
 De telling zelf is snel gemaakt. Op 25 augustus 2026 bevatte de openbare lijst van de CWaPE **13 gemeenschappen** met een volledig dossier, verspreid van Aubange tot Rixensart, van Gesves tot Doornik. De oudste, Soleil d'Aubange, werd in mei 2024 aangemeld. Een cartografie van juni 2026 telde **8 werkelijk lopende operaties van delen**, gedragen door slechts 5 gemeenschappen, terwijl de overige nog niet waren gestart.
 
@@ -132,7 +132,7 @@ De eerste drie gradaties en de vierde zijn geen varianten van eenzelfde zaak, en
 | **Wat kort is** | De toerekening van de kilowattuur | De waardeketen en het eigendom |
 | **Wat u wordt** | Deelnemer | Vennoot, dus mede-eigenaar |
 
-Het delen vervangt uw contract niet: ORES is formeel, “elke deelnemer behoudt zijn contract bij zijn respectieve leverancier”. U ontvangt twee facturen — die van de leverancier voor de restenergie en de netkosten, die van de vertegenwoordiger van het delen voor de ontvangen volumes. De werking van die dubbele facturatie staat beschreven in [“Gedeelde elektriciteit factureren in België”](/nl/nieuws/2026/07/23/gedeelde-elektriciteit-factureren-belgie/).
+Het delen vervangt uw contract niet: ORES is formeel, “elke deelnemer behoudt zijn contract bij zijn respectieve leverancier”. U ontvangt twee facturen — die van de leverancier voor de restenergie en de netkosten, die van de vertegenwoordiger van het delen voor de ontvangen volumes. De werking van die dubbele facturatie staat beschreven in [“Gedeelde elektriciteit factureren in België”](/nl/gidsen/gedeelde-elektriciteit-factureren-belgie/).
 
 Goed nieuws: beide logica's stapelen. Niets belet u vennoot te zijn, klant bij Cociter **en** deelnemer aan een energiegemeenschap.
 
@@ -152,7 +152,7 @@ In een aankoopgroep neemt uw buurvrouw uw krat mee als u dinsdag niet kunt, en u
 
 Bij energiedelen bestaat er **geen tegenhanger**. Wat een deelnemer tussen 12.00 en 12.15 uur niet verbruikt, wordt niet overgedragen naar het volgende tijdvak, niet opzijgezet, niet gecrediteerd. Dat volume verlaat eenvoudigweg het delen: het wordt opnieuw gewone injectie, die de producent aan zijn leverancier verkoopt tegen het injectietarief. ORES formuleert het zonder omwegen: “de energie die niet binnen de gemeenschap van energiedelen wordt verbruikt (injectieoverschot) wordt door de producenten doorverkocht aan hun leverancier”.
 
-Het waardeverschil tussen die twee bestemmingen is aanzienlijk — het is becijferd in [“Zonne-overschot: de 5 opties vergeleken”](/nl/nieuws/2026/08/18/wat-doen-met-je-zonne-overschot-belgie/). Wat hier telt is eenvoudiger: **elk kwartier is een markt die opent en sluit, en niets overleeft die sluiting.**
+Het waardeverschil tussen die twee bestemmingen is aanzienlijk — het is becijferd in [“Zonne-overschot: de 5 opties vergeleken”](/nl/gidsen/wat-doen-met-je-zonne-overschot-belgie/). Wat hier telt is eenvoudiger: **elk kwartier is een markt die opent en sluit, en niets overleeft die sluiting.**
 
 Eén nuance verdient vermelding, want zij wordt vaak verkeerd begrepen: batterijen heffen deze voorwaarde niet op, zij verplaatsen haar. Opslag bij de producent of in het gebouw laat toe het ogenblik van de injectie te verschuiven, en dus het delen naar een gunstiger tijdvak te verplaatsen. Maar de kwartierregel zelf beweegt niet: opgeslagen energie moet toch binnen hetzelfde tijdvak worden geïnjecteerd en verbruikt om te worden gedeeld. De koelkast bestaat, hij is duur, en hij zit niet in de regeling — hij ligt ervoor.
 
@@ -207,7 +207,7 @@ Eén contextelement werkt voortaan in de goede richting, en het is recent. Sinds
 
 Het zonnetijdvak van het midden van de dag, dat op weekdagen voordien in de piekuren lag, is dus naar de daluren verschoven. Aangezien de netkosten verschuldigd blijven op gedeelde stroom, kost delen 's middags voortaan minder aan distributietarief dan in 2025. De daluren beslaan vandaag 15 uur per dag, tegenover 9 piekuren.
 
-Dat is geen omwenteling, en het verandert niets aan de kwartierregel. Maar het is een zeldzame afstemming tussen de tarieflogica en de logica van de korte keten, en het verdient vermelding bij aarzelende deelnemers. De overige Waalse hefbomen staan in [“Elektriciteitsfactuur verlagen: Wallonië 2026”](/nl/nieuws/2026/07/28/elektriciteitsfactuur-verlagen-wallonie-2026/).
+Dat is geen omwenteling, en het verandert niets aan de kwartierregel. Maar het is een zeldzame afstemming tussen de tarieflogica en de logica van de korte keten, en het verdient vermelding bij aarzelende deelnemers. De overige Waalse hefbomen staan in [“Elektriciteitsfactuur verlagen: Wallonië 2026”](/nl/gidsen/elektriciteitsfactuur-verlagen-wallonie/).
 
 ### De verdeelsleutel: hoe u de mand verdeelt als er niet genoeg is voor iedereen
 
@@ -215,7 +215,7 @@ Een laatste parallel, en de getrouwste. In een aankoopgroep moet bij een schrale
 
 Bij energiedelen heet die regel de **verdeelsleutel**. De netbeheerder past kwartier na kwartier de sleutel toe die de deelnemers vooraf hebben gekozen, en de CWaPE heeft een reeks standaardsleutels vastgelegd. Hij kan nadien worden gewijzigd, via de vertegenwoordiger van het delen.
 
-Het is de meest structurerende beslissing van een project, omdat zij bepaalt wie werkelijk van de productie profiteert. De vergelijking van de sleuteltypes die de drie Belgische regulatoren erkennen, staat in [“Verdeelsleutel in België: de 3 regio's”](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/), en hoe u een sleutel op uw eigen gegevens test vóór validatie in [“Verdeelsleutel simuleren: test uw scenario's”](/nl/nieuws/2026/06/09/verdeelsleutel-simuleren-optimce/).
+Het is de meest structurerende beslissing van een project, omdat zij bepaalt wie werkelijk van de productie profiteert. De vergelijking van de sleuteltypes die de drie Belgische regulatoren erkennen, staat in [“Verdeelsleutel in België: de 3 regio's”](/nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/), en hoe u een sleutel op uw eigen gegevens test vóór validatie in [“Verdeelsleutel simuleren: test uw scenario's”](/nl/gidsen/verdeelsleutel-simuleren-optimce/).
 
 Een methodologische raad: **simuleer vóór u werft.** Een sleutel die op werkelijke belastingscurves is getest, zegt onmiddellijk of de beoogde groep de productie opneemt of niet — en dus of u eerst een school moet gaan zoeken in plaats van tien gezinnen.
 
@@ -227,7 +227,7 @@ Wie ooit een aankoopgroep heeft geleid, weet dat het concept eenvoudig is en de 
 
 In een aankoopgroep is er altijd één persoon die de bestellingen centraliseert, de laatkomers aanmaant en het lokaal op dinsdagavond opent. Zonder haar dooft de groep binnen zes maanden uit.
 
-Energiedelen heeft zijn formele tegenhanger: de **vertegenwoordiger van het delen**. Hij ondertekent de overeenkomst met de netbeheerder, draagt de verdeelsleutel, factureert de ontvangen volumes aan de deelnemers en volgt de betalingen op. Dat is geen erefunctie: het is terugkerend administratief werk, meestal onbezoldigd. De instrumenten voor betrokkenheid en bestuur die deze last verlichten, staan beschreven in [“Leden van een energiegemeenschap betrekken”](/nl/nieuws/2026/06/24/energiegemeenschap-leden-betrekken/).
+Energiedelen heeft zijn formele tegenhanger: de **vertegenwoordiger van het delen**. Hij ondertekent de overeenkomst met de netbeheerder, draagt de verdeelsleutel, factureert de ontvangen volumes aan de deelnemers en volgt de betalingen op. Dat is geen erefunctie: het is terugkerend administratief werk, meestal onbezoldigd. De instrumenten voor betrokkenheid en bestuur die deze last verlichten, staan beschreven in [“Leden van een energiegemeenschap betrekken”](/nl/gidsen/energiegemeenschap-leden-betrekken/).
 
 ### De kosten van de leverancier kunnen de winst opeten
 
@@ -235,7 +235,7 @@ Dat is het belangrijkste punt van dit onderdeel, en het minst vaak vermelde.
 
 Verschillende leveranciers rekenen administratieve kosten aan klanten die aan een operatie van delen deelnemen. ENGIE geeft bijvoorbeeld aan **121 € inclusief btw (100 € exclusief btw) aan te rekenen voor elk contract dat deelneemt aan een vorm van energiedelen in Wallonië of Vlaanderen** — zonder pro rata: het bedrag is volledig verschuldigd, of u nu zes dan wel twaalf maanden deelt.
 
-Afgezet tegen de verwachte winst van een bescheiden residentiële deelnemer — in de orde van honderd euro per jaar voor enkele honderden gedeelde kilowattuur, zoals [“Goedkopere stroom zonder leverancierswissel”](/nl/nieuws/2026/08/05/goedkopere-stroom-zonder-leverancierswissel/) uiteenzet — is dat bedrag geen wrijving: het is mogelijk **het volledige voordeel**.
+Afgezet tegen de verwachte winst van een bescheiden residentiële deelnemer — in de orde van honderd euro per jaar voor enkele honderden gedeelde kilowattuur, zoals [“Goedkopere stroom zonder leverancierswissel”](/nl/gidsen/goedkopere-stroom-zonder-leverancierswissel/) uiteenzet — is dat bedrag geen wrijving: het is mogelijk **het volledige voordeel**.
 
 Test-Aankoop trok daaruit al in september 2024 een streng besluit en schreef dat men, gezien deze kosten, “energiedelen in Vlaanderen en Wallonië voorlopig niet meer aanbeveelt”. En het tijdschrift Renouvelle stelde in oktober 2025 vast dat de CREG geen greep heeft op deze toeslagen, omdat zij tot het geliberaliseerde deel van de factuur behoren — de federale regulator kan er dus noch de evenredigheid noch het misbruik van controleren.
 
@@ -245,13 +245,13 @@ Het praktische gevolg is eenvoudig, en het hoort thuis op de eerste informatieve
 
 Zonder communicerende meter of van op afstand uitgelezen kwartierlijkse dubbelfluxmeter is delen eenvoudigweg onmogelijk. ORES is categoriek: “elke deelnemer zal moeten zijn uitgerust met een van op afstand uitgelezen kwartierlijkse dubbelfluxmeter of een communicerende meter”.
 
-Een gevolg voor Waalse producenten: delen is **onverenigbaar met de jaarlijkse compensatie**, dat mechanisme dat de meter achteruit doet draaien. Het ene redeneert per jaar, het andere per kwartier; beide kunnen niet naast elkaar bestaan op hetzelfde leveringspunt. De becijferde afweging staat in [“Zonnepanelen 2026: nog rendabel in Wallonië?”](/nl/nieuws/2026/08/11/zonnepanelen-rendabel-wallonie-2026/), en zij valt niet altijd in het voordeel van het delen uit.
+Een gevolg voor Waalse producenten: delen is **onverenigbaar met de jaarlijkse compensatie**, dat mechanisme dat de meter achteruit doet draaien. Het ene redeneert per jaar, het andere per kwartier; beide kunnen niet naast elkaar bestaan op hetzelfde leveringspunt. De becijferde afweging staat in [“Zonnepanelen 2026: nog rendabel in Wallonië?”](/nl/gidsen/zonnepanelen-rendabel-wallonie/), en zij valt niet altijd in het voordeel van het delen uit.
 
 ### De kalender stopt niet bij de opstart
 
 Een energiegemeenschap is geen formaliteit die u eenmalig invult. Zij moet de CWaPE elk jaar, **tegen 1 september**, een formulier voor actualisering en jaarlijkse rapportering bezorgen. Sinds **25 juni 2026** gebeuren zowel de kennisgeving als de jaarlijkse rapportering online via de formulieren van Mon Espace. Een dossier dat zes maanden onvolledig blijft, vervalt.
 
-De volledige inventaris van die verplichtingen staat in [“Energiegemeenschap: CWaPE-documenten en termijnen”](/nl/nieuws/2026/08/12/energiegemeenschap-administratieve-documenten-wallonie/).
+De volledige inventaris van die verplichtingen staat in [“Energiegemeenschap: CWaPE-documenten en termijnen”](/nl/gidsen/energiegemeenschap-administratieve-documenten-wallonie/).
 
 ## Waarom Wallonië het ene wel en het andere niet heeft doen slagen
 

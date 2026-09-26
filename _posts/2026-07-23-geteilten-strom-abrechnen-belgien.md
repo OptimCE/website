@@ -9,7 +9,7 @@ tags: [community, administrative, guide]
 lang: de
 ref: invoice-shared-electricity
 pillar: prix-facturation-communaute
-permalink: /de/aktuelles/2026/07/23/geteilten-strom-abrechnen-belgien/
+permalink: /de/ratgeber/geteilten-strom-abrechnen-belgien/
 last_modified_at: 2026-08-27 06:00:00 +0200
 faq:
   - q: "Wer muss die Rechnung für die geteilte Energie ausstellen?"
@@ -28,7 +28,7 @@ faq:
 
 Eine Energiegemeinschaft teilt kWh — aber sie produziert auch Rechnungen. Und genau hier beginnt die Verwirrung: Jedes Quartal erhält ein Teilnehmer nicht eine, sondern **zwei Rechnungen**. Eine von seinem gewohnten Lieferanten, eine von der Gemeinschaft. Niemand hat ihm erklärt, welche was abdeckt, noch warum die Netzentgelte immer auf der ersten erscheinen, obwohl er „lokalen“ Strom verbraucht.
 
-Dieser Artikel bringt Ordnung in die Rollen. Wer hat das Recht — und die Pflicht —, die Rechnung für die geteilte Energie auszustellen? Was muss sie enthalten? Welche MwSt. gilt, und wie fügen sich Akzisen und grüne Zertifikate ein? Wenn Sie eher wissen wollen, *welchen Preis* pro kWh Sie festlegen sollen, beantwortet das unser Leitfaden [„Interner Verrechnungspreis für geteilten Strom“](/de/aktuelles/2026/07/20/strompreis-energiegemeinschaft/) im Detail; und wenn Ihnen der Aufteilungsschlüssel noch fremd ist, beginnen Sie mit unserem Referenzartikel [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/). Hier nur eine Frage: **Wer rechnet was ab?**
+Dieser Artikel bringt Ordnung in die Rollen. Wer hat das Recht — und die Pflicht —, die Rechnung für die geteilte Energie auszustellen? Was muss sie enthalten? Welche MwSt. gilt, und wie fügen sich Akzisen und grüne Zertifikate ein? Wenn Sie eher wissen wollen, *welchen Preis* pro kWh Sie festlegen sollen, beantwortet das unser Leitfaden [„Interner Verrechnungspreis für geteilten Strom“](/de/ratgeber/strompreis-energiegemeinschaft/) im Detail; und wenn Ihnen der Aufteilungsschlüssel noch fremd ist, beginnen Sie mit unserem Referenzartikel [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/ratgeber/verteilungsschluessel-energiegemeinschaft-belgien/). Hier nur eine Frage: **Wer rechnet was ab?**
 
 <img src="/assets/images/diagrams/two-invoices-de.svg"
      alt="Zwei Karten nebeneinander: die Rechnung des Lieferanten und die des Vertreters der Teilung, mit ihren jeweiligen Bestandteilen."
@@ -47,7 +47,7 @@ Zwei Rechnungen bestehen also nebeneinander, und sie betreffen nicht dasselbe:
 | **Netz** | Netzentgelte auf die **gesamte** Menge bezogener kWh, geteilte inbegriffen | — |
 | **Steuern & Akzisen** | regionale Steuern und Abgaben auf die Restenergie | MwSt., Akzisen und ÖDV zur Rückgabe der Quoten grüner Zertifikate, auf die geteilte Energie |
 
-Die am wenigsten intuitive Zeile ist die Netzzeile: **Die Netzentgelte bleiben auf den geteilten kWh geschuldet**, und es ist Ihr Lieferant, der sie fakturiert, denn der geteilte Strom durchläuft dennoch das öffentliche Netz. Das Teilen ändert, *wer Ihnen die Energie verkauft*, nicht *wo sie fließt*. Deshalb liest sich die tatsächliche Ersparnis auch immer über beide Dokumente zusammen, nie über die Teilungsrechnung allein — ein Mechanismus, den unser Artikel über [die Senkung der Stromrechnung durch das Teilen](/de/aktuelles/2026/06/03/energiegemeinschaft-stromrechnung-senken/) erläutert.
+Die am wenigsten intuitive Zeile ist die Netzzeile: **Die Netzentgelte bleiben auf den geteilten kWh geschuldet**, und es ist Ihr Lieferant, der sie fakturiert, denn der geteilte Strom durchläuft dennoch das öffentliche Netz. Das Teilen ändert, *wer Ihnen die Energie verkauft*, nicht *wo sie fließt*. Deshalb liest sich die tatsächliche Ersparnis auch immer über beide Dokumente zusammen, nie über die Teilungsrechnung allein — ein Mechanismus, den unser Artikel über [die Senkung der Stromrechnung durch das Teilen](/de/ratgeber/energiegemeinschaft-stromrechnung-senken/) erläutert.
 
 ## Der Vertreter der Energieteilung, Aussteller der Teilungsrechnung
 
@@ -55,11 +55,11 @@ Bei der Energieteilung trägt ein Akteur — und nur einer — die Verantwortung
 
 Der Punkt, der Projektträger am meisten überrascht: **Der Netzbetreiber stellt keine Rechnung.** Er berechnet die Teilung viertelstundenweise, wendet den gewählten Aufteilungsschlüssel an und übermittelt dann die Mengen den verschiedenen Akteuren „um die Abrechnung zu ermöglichen“. Die Rechnung selbst wird anschließend „auf der Grundlage der vom Netzbetreiber erhaltenen Verbrauchsdaten unter Berücksichtigung des gewählten Aufteilungsschlüssels“ erstellt ([CWaPE](https://www.cwape.be/node/6059)). Mit anderen Worten: Das Netz liefert die Zahlen, der Vertreter macht daraus Dokumente.
 
-Diese Rollenverteilung hat eine unmittelbare Folge: **Es ist der Vertreter, der die Pflichten trägt** — ordnungsgemäße Rechnungen ausstellen, die richtige MwSt. anwenden, Buchhaltung führen. In einer Eigentümergemeinschaft oder einem Gebäude fällt diese Rolle meist dem **Hausverwalter (Syndic)** zu, der faktisch zum Aussteller der Teilungsrechnungen für alle Bewohner wird. Wir haben bereits in unserem [Leitfaden zur Gründung einer Energiegemeinschaft in der Wallonie](/de/aktuelles/2026/05/11/energiegemeinschaft-gruenden-wallonien/) darauf hingewiesen, dass diese Last in der Betriebsphase konkret wird.
+Diese Rollenverteilung hat eine unmittelbare Folge: **Es ist der Vertreter, der die Pflichten trägt** — ordnungsgemäße Rechnungen ausstellen, die richtige MwSt. anwenden, Buchhaltung führen. In einer Eigentümergemeinschaft oder einem Gebäude fällt diese Rolle meist dem **Hausverwalter (Syndic)** zu, der faktisch zum Aussteller der Teilungsrechnungen für alle Bewohner wird. Wir haben bereits in unserem [Leitfaden zur Gründung einer Energiegemeinschaft in der Wallonie](/de/ratgeber/energiegemeinschaft-gruenden-wallonien/) darauf hingewiesen, dass diese Last in der Betriebsphase konkret wird.
 
 ## Was die Teilungsrechnung enthält
 
-Die Rechnung des Vertreters ist enger als die eines klassischen Lieferanten: Sie betrifft nur die **geteilte Energie**, bewertet zum internen Preis der Gemeinschaft — und nicht Ihren gesamten Verbrauch. Welcher Betrag pro kWh anzusetzen ist, ist genau das Thema unseres Leitfadens [zum internen Verrechnungspreis](/de/aktuelles/2026/07/20/strompreis-energiegemeinschaft/), der die vertretbare Spanne und fünf Berechnungsmethoden absteckt.
+Die Rechnung des Vertreters ist enger als die eines klassischen Lieferanten: Sie betrifft nur die **geteilte Energie**, bewertet zum internen Preis der Gemeinschaft — und nicht Ihren gesamten Verbrauch. Welcher Betrag pro kWh anzusetzen ist, ist genau das Thema unseres Leitfadens [zum internen Verrechnungspreis](/de/ratgeber/strompreis-energiegemeinschaft/), der die vertretbare Spanne und fünf Berechnungsmethoden absteckt.
 
 Zu diesem Energiepreis kommen auf derselben Rechnung „die MwSt., die Akzisen und die gemeinwirtschaftliche Verpflichtung zur Rückgabe der Quoten grüner Zertifikate“ hinzu ([CWaPE](https://www.cwape.be/node/6063)). Was hingegen **nicht** darauf erscheint, sind die Netzentgelte: Sie bleiben auf der Rechnung des Lieferanten, berechnet auf die gesamten bezogenen kWh. Eine gut gemachte Teilungsrechnung sagt das sogar ausdrücklich — sie betrifft die geteilte Energie, ohne Netzentgelte.
 
@@ -136,7 +136,7 @@ Die Abrechnung einer Energieteilung ist kein juristisches Rätsel: Es ist eine k
 
 Der Rest ist eine Frage der Umsetzung: die MwSt.-Regelung mit einem Buchhalter klären, eine saubere Vereinbarung schreiben und jedes Quartal ordnungsgemäße Dokumente ausstellen — von Hand, solange es tragbar ist, mit einem Werkzeug, sobald es das nicht mehr ist.
 
-Auf Haushaltsseite lässt sich auch die Rechnung, die Sie weiterhin von Ihrem Lieferanten erhalten, Zeile für Zeile lesen: Wir zerlegen sie in [„Belgische Stromrechnung Zeile für Zeile lesen“](/de/aktuelles/2026/07/30/stromrechnung-lesen-belgien/).
+Auf Haushaltsseite lässt sich auch die Rechnung, die Sie weiterhin von Ihrem Lieferanten erhalten, Zeile für Zeile lesen: Wir zerlegen sie in [„Belgische Stromrechnung Zeile für Zeile lesen“](/de/ratgeber/stromrechnung-lesen-belgien/).
 
 > ### Rechnen Sie Ihre Energiegemeinschaft mit OptimCE ab
 >

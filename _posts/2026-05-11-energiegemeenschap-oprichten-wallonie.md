@@ -10,10 +10,10 @@ lang: nl
 ref: create-energy-community-wallonia
 pillar: communautes-energie
 last_modified_at: 2026-09-03 06:00:00 +0200
-permalink: /nl/nieuws/2026/05/11/energiegemeenschap-oprichten-wallonie/
+permalink: /nl/gidsen/energiegemeenschap-oprichten-wallonie/
 ---
 
-Wallonië is op dit moment het Belgische gewest waar energiegemeenschappen zich het snelst ontwikkelen. Het wettelijke kader is sinds 2022 stabiel, regulator CWaPE publiceert een standaardformulier voor de melding, en de distributienetbeheerders (DNB's) zijn operationeel: alle ingrediënten zijn aanwezig opdat een groep burgers, een gemeente, een school of een bedrijventerrein zijn eigen energiedelen kan opstarten. Deze gids beschrijft stap voor stap **de volledige procedure**: van de keuze van het type gemeenschap tot de operationele start met uw netbeheerder. Bent u nog niet vertrouwd met het begrip zelf, begin dan met ons artikel [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/) — daar wordt de hier gebruikte woordenschat vastgelegd.
+Wallonië is op dit moment het Belgische gewest waar energiegemeenschappen zich het snelst ontwikkelen. Het wettelijke kader is sinds 2022 stabiel, regulator CWaPE publiceert een standaardformulier voor de melding, en de distributienetbeheerders (DNB's) zijn operationeel: alle ingrediënten zijn aanwezig opdat een groep burgers, een gemeente, een school of een bedrijventerrein zijn eigen energiedelen kan opstarten. Deze gids beschrijft stap voor stap **de volledige procedure**: van de keuze van het type gemeenschap tot de operationele start met uw netbeheerder. Bent u nog niet vertrouwd met het begrip zelf, begin dan met ons artikel [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/gidsen/energiegemeenschappen-belgie/) — daar wordt de hier gebruikte woordenschat vastgelegd.
 
 De gids richt zich tot twee typische profielen: een **collectief dat van nul start** (burgers, wijk-vzw, gemeente) en een **al uitgeruste producent** (dak-PV, warmte-krachtkoppeling) die zijn overschot wil valoriseren bij buren of nabijgelegen bedrijven. De procedure is dezelfde; wat verschilt is het stroomopwaartse uitwerkwerk.
 
@@ -59,7 +59,7 @@ Dit is de langste stap, maar ook degene die de soliditeit van de gemeenschap bep
 1. **Wie produceert?** Identificeer de producent(en) (bestaande dak-PV, nieuw project, WKK…) en hun leveringspunt (EAN).
 2. **Wie verbruikt?** Lijst de toekomstige verbruikende leden op, hun geschatte jaarverbruik en hun EAN's.
 3. **Waar?** Breng de locaties in kaart om het nabijheidscriterium (CER) te verifiëren of te bevestigen dat het niet vereist is (CEC).
-4. **Hoe wordt de energie verdeeld?** Schets de verdeelsleutel (statisch: vaste percentages; dynamisch: evenredig met het verbruik in real time). Voor een gedetailleerd overzicht van de door CWaPE aanvaarde sleutels en hun Brusselse en Vlaamse tegenhangers, zie ons artikel [“Verdeelsleutel in België: de 3 regio's”](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/).
+4. **Hoe wordt de energie verdeeld?** Schets de verdeelsleutel (statisch: vaste percentages; dynamisch: evenredig met het verbruik in real time). Voor een gedetailleerd overzicht van de door CWaPE aanvaarde sleutels en hun Brusselse en Vlaamse tegenhangers, zie ons artikel [“Verdeelsleutel in België: de 3 regio's”](/nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/).
 
 ### Een juridische vorm kiezen
 
@@ -213,7 +213,7 @@ Ja. **Lokale overheden** (gemeenten, intercommunales, OCMW's — en **alle schol
 
 Lijkt een gemeenschap van nul oprichten te zwaar, dan is **toetreden tot een bestaande deelactie** veel sneller — doorgaans 6 tot 12 weken tussen het eerste contact en de eerste gedeelde kilowattuur. Zie onze praktische gids:
 
-> **[Toetreden tot een energiegemeenschap in Wallonië](/nl/nieuws/2026/05/11/energiegemeenschap-aansluiten-wallonie/)**
+> **[Toetreden tot een energiegemeenschap in Wallonië](/nl/gidsen/energiegemeenschap-aansluiten-wallonie/)**
 >
 > Wie kan toetreden, waar een open deelactie te vinden (OptimCE-register, SPW-facilitator, Énergie commune), stap-voor-stap-procedure en aandachtspunten vóór ondertekening.
 

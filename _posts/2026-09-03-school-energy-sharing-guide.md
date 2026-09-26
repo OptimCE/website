@@ -28,7 +28,7 @@ The Wallonia-Brussels Federation has more than **13,000 school buildings**. Half
 
 Here is the anomaly. A school in the subsidised free network is a private-law non-profit association. No elected mandate, no regional supervision, no territorial competence. Legally it looks like any other association. And yet, when the Walloon Government drew up the list of **local authorities** entitled to control an energy community, it put schools on it — next to municipalities, provinces, public social welfare centres and inter-municipal companies.
 
-This article does not redo what is already written elsewhere on this site: the difference between the three Belgian statuses is covered in [“Energy communities in Belgium: CER, CEC, CEL”](/en/news/2026/05/11/energy-communities-belgium/), the creation procedure in [“Create an energy community in Wallonia”](/en/news/2026/05/11/create-energy-community-wallonia/), the owning municipality's point of view in [“Energy communities: a guide for municipalities”](/en/news/2026/08/30/municipal-energy-community-guide/), how to compose a group by hourly profile in [“Local electricity: the short-circuit guide”](/en/news/2026/08/25/local-electricity-short-circuit-guide/), the ranking of surplus outlets in [“Solar surplus: the 5 options compared”](/en/news/2026/08/18/what-to-do-solar-surplus-belgium/), the profitability calculation of an installation in [“Solar panels 2026: still worth it in Wallonia?”](/en/news/2026/08/11/solar-panels-worth-it-wallonia-2026/), and the setting of the internal price in [“Internal transfer price in an energy community”](/en/news/2026/07/20/energy-community-electricity-price/).
+This article does not redo what is already written elsewhere on this site: the difference between the three Belgian statuses is covered in [“Energy communities in Belgium: CER, CEC, CEL”](/en/guides/energy-communities-belgium/), the creation procedure in [“Create an energy community in Wallonia”](/en/guides/create-energy-community-wallonia/), the owning municipality's point of view in [“Energy communities: a guide for municipalities”](/en/news/2026/08/30/municipal-energy-community-guide/), how to compose a group by hourly profile in [“Local electricity: the short-circuit guide”](/en/guides/local-electricity-short-circuit-guide/), the ranking of surplus outlets in [“Solar surplus: the 5 options compared”](/en/guides/what-to-do-solar-surplus-belgium/), the profitability calculation of an installation in [“Solar panels 2026: still worth it in Wallonia?”](/en/guides/solar-panels-worth-it-wallonia/), and the setting of the internal price in [“Internal transfer price in an energy community”](/en/guides/energy-community-electricity-price/).
 
 It answers a question none of those articles asks: **why does Walloon law grant a school — any school, whatever its network — a status that no shop, no small enterprise and no condominium obtains, and what can it actually do with it?**
 
@@ -190,7 +190,7 @@ Two rows deserve comment.
 
 Sharing is computed per quarter-hour: only electricity produced, injected and consumed within the same quarter-hour can be shared. A fixed key — allocating each participant a constant percentage of output — is therefore poorly suited to a producer whose surplus goes from almost nothing on a Tuesday in November to the entire output on a Sunday in August.
 
-The correct reflex is a **dynamic key based on the consumption ratio**, allocating each quarter-hour in proportion to what each participant actually consumes at that moment. The key families recognised by the CWaPE and their counterparts in the other two regions are detailed in [“Allocation key in Belgium: the 3 regions”](/en/news/2026/05/19/allocation-key-belgium/); the point specific to schools is that a school roof is the textbook case in which a fixed key destroys the most value.
+The correct reflex is a **dynamic key based on the consumption ratio**, allocating each quarter-hour in proportion to what each participant actually consumes at that moment. The key families recognised by the CWaPE and their counterparts in the other two regions are detailed in [“Allocation key in Belgium: the 3 regions”](/en/guides/allocation-key-belgium/); the point specific to schools is that a school roof is the textbook case in which a fixed key destroys the most value.
 
 ## Why within-campus sharing probably will not work
 
@@ -263,7 +263,7 @@ The clauses to include, at negotiation and not after:
 1. **Who has the injected surplus**, by name, and at what price it is valued.
 2. **The school's right to allocate all or part of the output to a sharing activity**, with the corresponding financial compensation mechanism for the operator.
 3. **The fate of that right on transfer** of the panels, so that an exit clause does not neutralise it.
-4. **Compatibility with the supply procurement contract**: the school remains a supplier's customer for its residual electricity, and sharing does not end that. Two invoices coexist, as explained in [“Invoicing shared electricity in Belgium”](/en/news/2026/07/23/who-invoices-shared-electricity-belgium/).
+4. **Compatibility with the supply procurement contract**: the school remains a supplier's customer for its residual electricity, and sharing does not end that. Two invoices coexist, as explained in [“Invoicing shared electricity in Belgium”](/en/guides/who-invoices-shared-electricity-belgium/).
 
 ### Green certificates, which are lost before the works
 
@@ -297,7 +297,7 @@ The 2023 prices are no longer the right ones. We use those we apply across our o
 
 *Assumptions: injection range surveyed in Belgium on 28 May 2026; sharing price freely set between participants, the range reflecting observed practice; prudent assumption of 3.5 c€ for injection and order of magnitude of 6 c€ for sharing, identical to those in our articles on solar surplus and internal transfer price.*
 
-Self-consumption remains, by far, the best use of a kilowatt-hour: it avoids a purchase at retail price. That holds for a school as for a household — the demonstration is in [“Solar panels 2026: still worth it in Wallonia?”](/en/news/2026/08/11/solar-panels-worth-it-wallonia-2026/), and to read the actual price your school pays, [“Read your Belgian electricity bill line by line”](/en/news/2026/07/30/read-electricity-bill-belgium/) shows where to look.
+Self-consumption remains, by far, the best use of a kilowatt-hour: it avoids a purchase at retail price. That holds for a school as for a household — the demonstration is in [“Solar panels 2026: still worth it in Wallonia?”](/en/guides/solar-panels-worth-it-wallonia/), and to read the actual price your school pays, [“Read your Belgian electricity bill line by line”](/en/guides/read-electricity-bill-belgium/) shows where to look.
 
 Sharing does not compete with self-consumption. It competes with injection.
 

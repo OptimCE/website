@@ -32,7 +32,7 @@ Hier liegt die Anomalie. Unter den **dreizehn bei der CWaPE gemeldeten Energiege
 
 Das ist keine Gleichgültigkeit, und es ist kein Informationsproblem. Es ist ein Widerspruch, der in den Texten steht: **Zwei Erlasse der Wallonischen Regierung, im Abstand von drei Wochen am 23. Februar und am 17. März 2023 verabschiedet, ziehen in genau entgegengesetzte Richtungen.**
 
-Dieser Artikel wiederholt nicht, was auf dieser Website bereits anderswo steht: Der Unterschied zwischen den drei belgischen Statusformen wird in [„Energiegemeinschaften in Belgien: CER, CEC, CEL“](/de/aktuelles/2026/05/11/energiegemeinschaften-belgien/) behandelt, das Gründungsverfahren in [„Energiegemeinschaft in der Wallonie gründen“](/de/aktuelles/2026/05/11/energiegemeinschaft-gruenden-wallonien/), die Zusammensetzung einer Gruppe nach Lastprofil in [„Strom auf kurzem Weg: Anleitung für Wallonien“](/de/aktuelles/2026/08/25/strom-kurze-wege-anleitung/), die Wirtschaftlichkeitsrechnung einer Hausanlage in [„Solaranlage 2026: lohnt sie sich in Wallonien?“](/de/aktuelles/2026/08/11/solaranlage-rentabel-wallonien-2026/), die Rangfolge der Überschussverwertungen in [„Solarüberschuss: die 5 Optionen im Vergleich“](/de/aktuelles/2026/08/18/solarer-ueberschuss-was-tun-belgien/) und die Festlegung des internen Preises in [„Interner Verrechnungspreis für geteilten Strom“](/de/aktuelles/2026/07/20/strompreis-energiegemeinschaft/).
+Dieser Artikel wiederholt nicht, was auf dieser Website bereits anderswo steht: Der Unterschied zwischen den drei belgischen Statusformen wird in [„Energiegemeinschaften in Belgien: CER, CEC, CEL“](/de/ratgeber/energiegemeinschaften-belgien/) behandelt, das Gründungsverfahren in [„Energiegemeinschaft in der Wallonie gründen“](/de/ratgeber/energiegemeinschaft-gruenden-wallonien/), die Zusammensetzung einer Gruppe nach Lastprofil in [„Strom auf kurzem Weg: Anleitung für Wallonien“](/de/ratgeber/strom-kurze-wege-anleitung/), die Wirtschaftlichkeitsrechnung einer Hausanlage in [„Solaranlage 2026: lohnt sie sich in Wallonien?“](/de/ratgeber/solaranlage-rentabel-wallonien/), die Rangfolge der Überschussverwertungen in [„Solarüberschuss: die 5 Optionen im Vergleich“](/de/ratgeber/solarer-ueberschuss-was-tun-belgien/) und die Festlegung des internen Preises in [„Interner Verrechnungspreis für geteilten Strom“](/de/ratgeber/strompreis-energiegemeinschaft/).
 
 Er beantwortet eine Frage, die diese Artikel nicht stellen: **Warum gehört das am besten gelegene Dach der ländlichen Wallonie demjenigen, der am wenigsten braucht, was es erzeugt, und was ist in welcher Reihenfolge zu tun, damit dieser Überschuss mehr wert ist als der Einspeisetarif?**
 
@@ -142,13 +142,13 @@ Zwei Zeilen verdienen einen Kommentar.
 
 **Das Pumpwerk ist der am meisten unterschätzte Partner der ländlichen Wallonie.** Es verbraucht tagsüber, das ganze Jahr über, mit einer weitgehend zeitlich verschiebbaren Last — einen Speicher um 13 Uhr statt um 3 Uhr zu füllen kostet niemanden etwas. Und es wird fast immer von der Gemeinde oder einem interkommunalen Verband betrieben, was die Governance vereinfacht. [„Energiegemeinschaft: Leitfaden für Gemeinden“](/de/aktuelles/2026/08/30/energiegemeinschaft-gemeinde-leitfaden/) behandelt die Sicht der eigentümerin Gemeinde.
 
-Die allgemeine Methode — eine Gruppe durch Überlagerung von Lastprofilen statt durch geografische Nähe zusammenzustellen — wird in [„Strom auf kurzem Weg: Anleitung für Wallonien“](/de/aktuelles/2026/08/25/strom-kurze-wege-anleitung/) entwickelt. Sie gilt hier wie anderswo, mit einer Nuance: Das Hallendach ist der einzige ländliche Erzeuger, der groß genug ist, um mehrere Profile gleichzeitig zu versorgen.
+Die allgemeine Methode — eine Gruppe durch Überlagerung von Lastprofilen statt durch geografische Nähe zusammenzustellen — wird in [„Strom auf kurzem Weg: Anleitung für Wallonien“](/de/ratgeber/strom-kurze-wege-anleitung/) entwickelt. Sie gilt hier wie anderswo, mit einer Nuance: Das Hallendach ist der einzige ländliche Erzeuger, der groß genug ist, um mehrere Profile gleichzeitig zu versorgen.
 
 ### Der passende Schlüssel
 
 Ein fester Schlüssel weist jedem Teilnehmer einen konstanten Prozentsatz der Erzeugung zu, unabhängig davon, was er tatsächlich verbraucht. Bei einem Erzeuger, dessen Überschuss zwischen einem Dienstag im Januar und einem Sonntag im Juli um den Faktor zehn schwankt, schickt er Kilowattstunden an Zähler, die sie nicht wollen, und diese Mengen fallen zurück in die Einspeisung.
 
-Der richtige Reflex ist ein **dynamischer Aufteilungsschlüssel** auf Basis des Verbrauchsverhältnisses, der jede Viertelstunde anteilig zu dem aufteilt, was jeder in diesem Moment verbraucht. Die von der CWaPE anerkannten Schlüsselfamilien und ihre Entsprechungen in den beiden anderen Regionen sind in [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/) dargestellt.
+Der richtige Reflex ist ein **dynamischer Aufteilungsschlüssel** auf Basis des Verbrauchsverhältnisses, der jede Viertelstunde anteilig zu dem aufteilt, was jeder in diesem Moment verbraucht. Die von der CWaPE anerkannten Schlüsselfamilien und ihre Entsprechungen in den beiden anderen Regionen sind in [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/ratgeber/verteilungsschluessel-energiegemeinschaft-belgien/) dargestellt.
 
 ## Was Ihr Betriebszweig ändert — das Profil, nicht die Fläche
 
@@ -165,7 +165,7 @@ Die Fläche einer Halle folgt dem **Lagerbedarf** des Betriebs, nie seinem **Str
 
 Die Tabelle liest sich einfach. Ein Schweine- oder Geflügelbetrieb tut gut daran, zuerst seinen Eigenverbrauch zu maximieren, denn die sommerliche Lüftung ist der beste Solarverbraucher, den es in der Landwirtschaft gibt. Ein Ackerbaubetrieb steht umgekehrt da: Seine Verbrauchsspitze dauert wenige Wochen im Sommer, und mit seiner Erzeugung kann er im übrigen Jahr fast nichts anfangen. Und eine nackte Lagerhalle ist ein perfekter Grenzfall — sie hat keinen eigenen Verbrauch, also keine Eigenverbrauchsgrundlage, also **überhaupt keine Agrarbeihilfe** für ihre Photovoltaik.
 
-Eigenverbrauch, Eigenverbrauchsquote und kollektiver Eigenverbrauch sind in [„Kollektiver Eigenverbrauch in Belgien“](/de/aktuelles/2026/06/05/eigenverbrauch-energie-belgien/) dargelegt.
+Eigenverbrauch, Eigenverbrauchsquote und kollektiver Eigenverbrauch sind in [„Kollektiver Eigenverbrauch in Belgien“](/de/ratgeber/eigenverbrauch-energie-belgien/) dargelegt.
 
 ## Mit dem Nachbarn gegenüber können Sie kein Geschäft machen
 
@@ -193,7 +193,7 @@ Artikel 24 bietet zwei alternative Kriterien, und eines zu erfüllen genügt:
 
 Das zweite Kriterium wird oft vergessen und ist im ländlichen Raum kostbar, wo Gemeindegrenzen selten dort verlaufen, wo die Kabel liegen. Ein Hof am Rand einer Gemeinde teilt sich häufig sein Umspannwerk mit dem Nachbarweiler, der zu einer anderen Gemeinde gehört. Fragen Sie den Netzbetreiber, welches Umspannwerk Ihren Anschluss speist: Die Antwort erweitert den Kreis möglicher Partner mitunter erheblich.
 
-Die vorzulegenden Unterlagen und die zugehörigen Fristen sind in [„Energiegemeinschaft: CWaPE-Dokumente und Fristen“](/de/aktuelles/2026/08/12/energiegemeinschaft-verwaltungsdokumente-wallonien/) dargestellt.
+Die vorzulegenden Unterlagen und die zugehörigen Fristen sind in [„Energiegemeinschaft: CWaPE-Dokumente und Fristen“](/de/ratgeber/energiegemeinschaft-verwaltungsdokumente-wallonien/) dargestellt.
 
 ## Das Netz kann Nein sagen, auch wenn das Recht Ja sagt
 

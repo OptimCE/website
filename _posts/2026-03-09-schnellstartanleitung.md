@@ -118,11 +118,11 @@ Die fachlichen Details jedes Schritts behandelt das [Benutzerhandbuch](https://g
 
 Wenn Ihnen das Thema neu ist und nicht das Werkzeug, beginnen Sie beim Rahmen:
 
-> **[Energiegemeinschaften in Belgien: CER, CEC, CEL](/de/aktuelles/2026/05/11/energiegemeinschaften-belgien/)**
+> **[Energiegemeinschaften in Belgien: CER, CEC, CEL](/de/ratgeber/energiegemeinschaften-belgien/)**
 >
 > Die drei Status, die Energieteilung und die Rolle von Regulator und Netzbetreiber.
 
-> **[Aufteilungsschlüssel automatisch generieren](/de/aktuelles/2026/05/26/automatische-verteilungsschluessel-generierung/)**
+> **[Aufteilungsschlüssel automatisch generieren](/de/ratgeber/automatische-verteilungsschluessel-generierung/)**
 >
 > Wie das Generierungsmodul aus Ihren realen Daten einen Schlüssel vorschlägt.
 

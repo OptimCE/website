@@ -9,6 +9,7 @@ tags: [guide, community]
 lang: fr
 ref: solar-surplus-options
 pillar: solaire-surplus
+permalink: /guides/que-faire-surplus-solaire-belgique/
 last_modified_at: 2026-09-22 06:00:00 +0200
 faq:
   - q: "Quelle option rapporte le plus par euro investi pour valoriser un surplus solaire ?"
@@ -31,7 +32,7 @@ Ces 2 400 kWh sont le vrai sujet. Injectés sans autre démarche, ils rapportent
 
 Cinq options existent pour agir sur ce décalage : injecter, chauffer l'eau sanitaire, recharger la voiture, stocker en batterie, partager. Elles sont presque toujours présentées comme un choix, alors qu'elles se cumulent — et surtout, **elles n'ont de sens que si votre compteur les valorise**. Avant de comparer quoi que ce soit, il faut donc savoir dans quel régime de comptage vous vous trouvez, parce qu'il existe encore en Belgique des dizaines de milliers de ménages pour qui la bonne réponse est : ne touchez à rien.
 
-Cet article ne refait pas le calcul de rentabilité d'une installation photovoltaïque, traité dans [« Panneaux solaires 2026 : rentables en Wallonie ? »](/actualites/2026/08/11/panneaux-solaires-rentables-wallonie-2026/). Il ne réexplique pas la notion d'autoconsommation, définie dans [« Autoconsommation collective en Belgique »](/actualites/2026/06/05/autoconsommation-energie-belgique/), ni la façon de fixer un prix entre participants, développée dans [« Prix de cession interne en communauté d'énergie »](/actualites/2026/07/20/prix-electricite-communaute-energie/). Il ne rejoue pas non plus le test de disponibilité régionale du partage, mené dans [« Baisser sa facture sans changer de fournisseur »](/actualites/2026/08/05/electricite-moins-chere-sans-changer-de-fournisseur/), ni le détail des plages horaires wallonnes, documenté dans [« Réduire sa facture d'électricité : Wallonie 2026 »](/actualites/2026/07/28/reduire-facture-electricite-wallonie-2026/). Il fait une chose que ces articles ne font pas : il compare les cinq destinations possibles du surplus **appareil par appareil**, en euros investis par kilowattheure absorbé.
+Cet article ne refait pas le calcul de rentabilité d'une installation photovoltaïque, traité dans [« Panneaux solaires 2026 : rentables en Wallonie ? »](/guides/panneaux-solaires-rentables-wallonie/). Il ne réexplique pas la notion d'autoconsommation, définie dans [« Autoconsommation collective en Belgique »](/guides/autoconsommation-energie-belgique/), ni la façon de fixer un prix entre participants, développée dans [« Prix de cession interne en communauté d'énergie »](/guides/prix-electricite-communaute-energie/). Il ne rejoue pas non plus le test de disponibilité régionale du partage, mené dans [« Baisser sa facture sans changer de fournisseur »](/guides/electricite-moins-chere-sans-changer-de-fournisseur/), ni le détail des plages horaires wallonnes, documenté dans [« Réduire sa facture d'électricité : Wallonie 2026 »](/guides/reduire-facture-electricite-wallonie/). Il fait une chose que ces articles ne font pas : il compare les cinq destinations possibles du surplus **appareil par appareil**, en euros investis par kilowattheure absorbé.
 
 <img src="/assets/images/diagrams/solar-surplus-ladder-fr.svg"
      alt="Échelle des cinq options de valorisation d'un surplus solaire en Belgique en 2026 : le ballon d'eau chaude absorbe 800 à 1 400 kWh par an pour 400 à 900 euros d'investissement, la recharge de voiture électrique 300 à 1 500 kWh pour 0 à 2 500 euros, le partage d'énergie la totalité du surplus pour zéro euro mais à 3 à 14 centimes le kilowattheure, l'injection le solde pour zéro euro à 1 à 5 centimes, et la batterie domestique environ 1 400 kWh pour 7 000 à 9 000 euros."
@@ -175,13 +176,13 @@ L'effet est réel : le taux d'autoconsommation passe de 37,76 % à environ 75 %,
 
 Sur notre métrique : environ **5,65 € d'investissement par kilowattheure absorbé chaque année**. Presque neuf fois le ratio du ballon d'eau chaude.
 
-Et il n'y a rien à attendre du côté des aides : **aucune région belge ne verse de prime au stockage domestique en 2026**. La Flandre a supprimé la sienne le 31 mars 2023, la Wallonie n'en a jamais créé, Bruxelles non plus. La grille de prix au kilowattheure installé, et l'obligation de déclaration qui peut rompre une compensation d'avant 2024, sont traitées dans [« Batterie domestique : le prix et l'alternative »](/actualites/2026/09/22/batterie-domestique-prix-ou-partage-energie/).
+Et il n'y a rien à attendre du côté des aides : **aucune région belge ne verse de prime au stockage domestique en 2026**. La Flandre a supprimé la sienne le 31 mars 2023, la Wallonie n'en a jamais créé, Bruxelles non plus. La grille de prix au kilowattheure installé, et l'obligation de déclaration qui peut rompre une compensation d'avant 2024, sont traitées dans [« Batterie domestique : le prix et l'alternative »](/guides/batterie-domestique-prix-ou-partage-energie/).
 
 Trois situations redressent malgré tout le calcul, et il faut les nommer précisément.
 
 **La Flandre et son capaciteitstarief.** À 53,39 €/kW et par an hors TVA sur la moyenne des douze dernières pointes mensuelles, écrêter une pointe de 2 kW rapporte plus de 100 € par an qui n'existent nulle part ailleurs en Belgique. C'est la seule région où une batterie a une deuxième source de revenus.
 
-**Le tarif Impact wallon.** Charger la batterie en bande ECO pour la décharger en bande PIC crée un arbitrage sur le terme de distribution. Mais prudence : nous rappelions dans [« Quel tarif d'électricité choisir en Belgique ? »](/actualites/2026/08/03/quel-tarif-electricite-choisir-belgique/) que **99 % des ménages équipés de panneaux ont payé davantage sous contrat dynamique**, avec une hausse médiane de 20 %, précisément parce que leur surplus arrive quand les prix s'effondrent.
+**Le tarif Impact wallon.** Charger la batterie en bande ECO pour la décharger en bande PIC crée un arbitrage sur le terme de distribution. Mais prudence : nous rappelions dans [« Quel tarif d'électricité choisir en Belgique ? »](/guides/quel-tarif-electricite-choisir-belgique/) que **99 % des ménages équipés de panneaux ont payé davantage sous contrat dynamique**, avec une hausse médiane de 20 %, précisément parce que leur surplus arrive quand les prix s'effondrent.
 
 **Le besoin d'autonomie.** Vouloir tenir pendant une coupure est un besoin légitime. Ce n'est simplement pas un calcul de rentabilité, et il faut le budgéter comme tel.
 
@@ -229,7 +230,7 @@ Deux lectures se dégagent, et elles s'opposent à ce qu'on lit habituellement.
 
 **La batterie est la plus chère par kilowattheure absorbé, et de très loin.** Elle coûte près de neuf fois le ratio d'un ballon d'eau chaude piloté pour un service comparable. Ce n'est pas un argument contre les batteries, c'est un argument pour l'ordre dans lequel on dépense.
 
-Ce classement suppose que quelqu'un puisse déclencher les charges. Pour un ménage absent de 8 h à 18 h, la contrainte n'est plus le prix mais l'heure : 85,8 % de la production tombe pendant l'absence, et la programmation plafonne à un niveau qui se calcule. C'est l'objet de [« Panneaux solaires : absent toute la journée »](/actualites/2026/09/12/panneaux-solaires-absent-la-journee/).
+Ce classement suppose que quelqu'un puisse déclencher les charges. Pour un ménage absent de 8 h à 18 h, la contrainte n'est plus le prix mais l'heure : 85,8 % de la production tombe pendant l'absence, et la programmation plafonne à un niveau qui se calcule. C'est l'objet de [« Panneaux solaires : absent toute la journée »](/guides/panneaux-solaires-absent-la-journee/).
 
 ## La bonne réponse est un empilement, pas un choix
 
@@ -286,7 +287,7 @@ Presque jamais en totalité, et le verrou n'est pas technique mais horaire. Quin
 
 ### Mon installation photovoltaïque date d'avant 2024 en Wallonie : que faire de mon surplus ?
 
-Le plus souvent, rien — et c'est le conseil le moins publié. Une installation wallonne mise en service avant le 1<sup>er</sup> janvier 2024 conserve la compensation annuelle **jusqu'au 31 décembre 2030**. Votre surplus est donc déjà valorisé au prix plein de détail, à concurrence de votre consommation annuelle. Augmenter votre autoconsommation ne vous rapporte alors rien de plus si vous êtes au tarif prosumer capacitaire, puisque celui-ci se calcule sur la puissance de votre onduleur et non sur vos échanges réels. Un gain n'apparaît que dans deux situations : si vous êtes au tarif prosumer proportionnel grâce à un compteur communicant, où réduire vos prélèvements réduit la contribution, et si votre installation est **surdimensionnée**, c'est-à-dire si vous produisez plus que vous ne consommez sur l'année, car cet excédent-là n'est rémunéré nulle part. Le calcul complet de cet arbitrage figure dans [« Panneaux solaires 2026 : rentables en Wallonie ? »](/actualites/2026/08/11/panneaux-solaires-rentables-wallonie-2026/).
+Le plus souvent, rien — et c'est le conseil le moins publié. Une installation wallonne mise en service avant le 1<sup>er</sup> janvier 2024 conserve la compensation annuelle **jusqu'au 31 décembre 2030**. Votre surplus est donc déjà valorisé au prix plein de détail, à concurrence de votre consommation annuelle. Augmenter votre autoconsommation ne vous rapporte alors rien de plus si vous êtes au tarif prosumer capacitaire, puisque celui-ci se calcule sur la puissance de votre onduleur et non sur vos échanges réels. Un gain n'apparaît que dans deux situations : si vous êtes au tarif prosumer proportionnel grâce à un compteur communicant, où réduire vos prélèvements réduit la contribution, et si votre installation est **surdimensionnée**, c'est-à-dire si vous produisez plus que vous ne consommez sur l'année, car cet excédent-là n'est rémunéré nulle part. Le calcul complet de cet arbitrage figure dans [« Panneaux solaires 2026 : rentables en Wallonie ? »](/guides/panneaux-solaires-rentables-wallonie/).
 
 ### Le partage d'énergie est-il possible chez moi pour valoriser mon surplus ?
 

@@ -117,11 +117,11 @@ Le détail fonctionnel de chaque étape est couvert par le [guide utilisateur](h
 
 Si vous découvrez le sujet plutôt que l'outil, commencez par le cadre :
 
-> **[Communautés d'énergie en Belgique : CER, CEC, CEL](/actualites/2026/05/11/communautes-energie-belgique/)**
+> **[Communautés d'énergie en Belgique : CER, CEC, CEL](/guides/communautes-energie-belgique/)**
 >
 > Les trois statuts, le partage d'énergie et le rôle du régulateur et du GRD.
 
-> **[Générer une clé de répartition optimale](/actualites/2026/05/26/generer-cle-repartition-optimale-optimce/)**
+> **[Générer une clé de répartition optimale](/guides/generer-cle-repartition-optimale-optimce/)**
 >
 > Comment le module de génération propose une clé à partir de vos données réelles.
 

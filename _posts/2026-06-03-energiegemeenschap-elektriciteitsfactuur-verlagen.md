@@ -10,10 +10,10 @@ lang: nl
 ref: reduce-electricity-bill
 pillar: facture-electricite
 last_modified_at: 2026-08-05 10:00:00 +0200
-permalink: /nl/nieuws/2026/06/03/energiegemeenschap-elektriciteitsfactuur-verlagen/
+permalink: /nl/gidsen/energiegemeenschap-elektriciteitsfactuur-verlagen/
 ---
 
-Sinds 2022 zijn de Belgische elektriciteitsfacturen scherp en onvoorspelbaar gestegen. Tegen die volatiliteit bieden energiegemeenschappen een concrete, duurzame hefboom: **goedkoper** elektriciteit kopen tegen een **stabielere prijs**, zonder van leverancier te veranderen of ook maar één zonnepaneel te installeren. Dit artikel legt precies uit hoe die besparing tot stand komt, hoe ver ze kan gaan, wat per regio verschilt en wie er het meest van profiteert. En als de eerste vraag is *waarom* de factuur hoog blijft terwijl de energieprijzen zijn gezakt, begin dan bij onze opsplitsing [“Waarom uw elektriciteitsfactuur hoog blijft”](/nl/nieuws/2026/07/25/waarom-elektriciteitsfactuur-hoog-blijft-belgie/): die becijfert blok per blok waarop energiedeling inwerkt — en waarop niet.
+Sinds 2022 zijn de Belgische elektriciteitsfacturen scherp en onvoorspelbaar gestegen. Tegen die volatiliteit bieden energiegemeenschappen een concrete, duurzame hefboom: **goedkoper** elektriciteit kopen tegen een **stabielere prijs**, zonder van leverancier te veranderen of ook maar één zonnepaneel te installeren. Dit artikel legt precies uit hoe die besparing tot stand komt, hoe ver ze kan gaan, wat per regio verschilt en wie er het meest van profiteert. En als de eerste vraag is *waarom* de factuur hoog blijft terwijl de energieprijzen zijn gezakt, begin dan bij onze opsplitsing [“Waarom uw elektriciteitsfactuur hoog blijft”](/nl/gidsen/waarom-elektriciteitsfactuur-hoog-blijft-belgie/): die becijfert blok per blok waarop energiedeling inwerkt — en waarop niet.
 
 <img src="/assets/images/diagrams/bill-breakdown-nl.svg"
      alt="Gestapelde staafgrafiek: energie is 38,5 % van de factuur, nettarieven 29,7 %, taksen 26,1 % en btw 5,7 %."
@@ -24,21 +24,21 @@ Sinds 2022 zijn de Belgische elektriciteitsfacturen scherp en onvoorspelbaar ges
 
 Een energiegemeenschap is een structuur waarmee particulieren, kmo's en lokale overheden lokaal hun **eigen elektriciteit produceren, delen en verbruiken**. Het delen is administratief, niet fysiek: de elektronen stromen nog altijd over het openbare net, maar de distributienetbeheerder wijst elke 15 minuten een deel van de lokale productie aan elk lid toe.
 
-We behandelen hier niet de types (CER, CEC, CEL) of het wettelijke kader — dat staat allemaal in onze referentiegids [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/). Dit artikel richt zich op het **financiële aspect**.
+We behandelen hier niet de types (CER, CEC, CEL) of het wettelijke kader — dat staat allemaal in onze referentiegids [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/gidsen/energiegemeenschappen-belgie/). Dit artikel richt zich op het **financiële aspect**.
 
 ## Hoe een energiegemeenschap uw factuur verlaagt
 
 De besparing komt niet van één magische korting, maar van meerdere hefbomen die elkaar versterken.
 
-**1. Een onderhandelde lokale prijs, onder de markt.** De binnen de gemeenschap gedeelde energie wordt gefactureerd tegen een tarief dat tussen de leden is afgesproken, doorgaans lager dan het standaardleveringstarief. Gedocumenteerde Belgische gevallen situeren die interne prijs tussen **6 en 14 c€/kWh** — 6 c€/kWh in de Waalse simulaties van [Renouvelle](https://www.renouvelle.be/fr/exemples-calculs-de-rentabilite-economique-dun-partage-delectricite-en-wallonie/), 14 c€/kWh voor de Brusselse gemeenschap Énergie Solidaire du Balai ([Guide Bâtiment Durable](https://guidebatimentdurable.brussels/partage-delectricite-sein-dune-communaute-denergie-energie-solidaire-balai/partage-delectricite)) — tegenover een energiecomponent van ongeveer 14 c€/kWh bij een leverancier. Het verschil hangt volledig af van de regels die de gemeenschap zichzelf oplegt: hoe het tot stand komt, lichten we toe in [“Interne overdrachtsprijs in energiegemeenschap”](/nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/).
+**1. Een onderhandelde lokale prijs, onder de markt.** De binnen de gemeenschap gedeelde energie wordt gefactureerd tegen een tarief dat tussen de leden is afgesproken, doorgaans lager dan het standaardleveringstarief. Gedocumenteerde Belgische gevallen situeren die interne prijs tussen **6 en 14 c€/kWh** — 6 c€/kWh in de Waalse simulaties van [Renouvelle](https://www.renouvelle.be/fr/exemples-calculs-de-rentabilite-economique-dun-partage-delectricite-en-wallonie/), 14 c€/kWh voor de Brusselse gemeenschap Énergie Solidaire du Balai ([Guide Bâtiment Durable](https://guidebatimentdurable.brussels/partage-delectricite-sein-dune-communaute-denergie-energie-solidaire-balai/partage-delectricite)) — tegenover een energiecomponent van ongeveer 14 c€/kWh bij een leverancier. Het verschil hangt volledig af van de regels die de gemeenschap zichzelf oplegt: hoe het tot stand komt, lichten we toe in [“Interne overdrachtsprijs in energiegemeenschap”](/nl/gidsen/prijs-elektriciteit-energiegemeenschap/).
 
 **2. Een stabielere, voorspelbaardere prijs.** Dit is vaak het meest onderschatte voordeel. Zoals [Énergie Commune](https://www.energiecommune.be) benadrukt, is de drijfveer van het delen "in de eerste plaats het economische belang van de consument": een deel van zijn verbruik wordt goedkoper, maar vooral **stabiliseren de prijzen**, wat het huishouden beschermt tegen marktschokken — ook huishoudens met een laag inkomen.
 
 **3. Soms lagere nettarieven — maar minder vaak dan men denkt.** De gunstige tariefbehandeling bestaat, maar ze hangt af van de **nabijheid** van de deelnemers, niet van het feit dat u in een gemeenschap zit. In Wallonië is de CWaPE duidelijk: de vermindering van 80% op de proportionele termen geldt enkel voor het delen binnen **hetzelfde gebouw**, en "er bestaat geen tariefvermindering voor het delen binnen een energiegemeenschap" ([CWaPE](https://www.cwape.be/node/6062)). Brussel is de enige regio die een echt gradueel voorkeursregime biedt (zie de tabel hieronder).
 
-**4. U behoudt uw leverancier.** Geen contractwijziging nodig: uw leverancier factureert enkel nog de **residuele energie** — het deel dat niet door het delen wordt gedekt. Dit punt wordt toegelicht in de [FAQ van onze referentiegids](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/).
+**4. U behoudt uw leverancier.** Geen contractwijziging nodig: uw leverancier factureert enkel nog de **residuele energie** — het deel dat niet door het delen wordt gedekt. Dit punt wordt toegelicht in de [FAQ van onze referentiegids](/nl/gidsen/energiegemeenschappen-belgie/).
 
-**5. Een vermindering berekend via een verdeelsleutel.** Het exacte bedrag dat u ontvangt, hangt af van de **verdeelsleutel** die de gemeenschap kiest en die bepaalt welk deel van de lokale productie u elke 15 minuten wordt toegewezen. We beschrijven de aanvaarde sleutels per regio in [“Verdeelsleutel in België: de 3 regio's”](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/).
+**5. Een vermindering berekend via een verdeelsleutel.** Het exacte bedrag dat u ontvangt, hangt af van de **verdeelsleutel** die de gemeenschap kiest en die bepaalt welk deel van de lokale productie u elke 15 minuten wordt toegewezen. We beschrijven de aanvaarde sleutels per regio in [“Verdeelsleutel in België: de 3 regio's”](/nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/).
 
 ### Rekenvoorbeeld
 
@@ -74,7 +74,7 @@ De besparingsmechanismen bestaan in alle drie de regio's, maar de actoren en som
 | Slimme meter vereist | Ja | Ja | Ja |
 | Verdeelsleutel | Standaardfamilies CWaPE | Vast / pro rata / hybride (BRUGEL) | Vaste / relatieve / optimale (VREG) |
 
-Voor het detail van de verdeelsleutels en hun impact op het gedeelde bedrag, zie ons specifieke artikel: [“Verdeelsleutel in België: de 3 regio's”](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/). In Brussel kunnen producenten bovendien een **bijkomend inkomen halen uit de verkoop van groenestroomcertificaten** tijdens de eerste jaren van hun installatie ([Sibelga](https://www.sibelga.be/en/connections-meters/renewable-energy/solar-panels/green-certificates)).
+Voor het detail van de verdeelsleutels en hun impact op het gedeelde bedrag, zie ons specifieke artikel: [“Verdeelsleutel in België: de 3 regio's”](/nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/). In Brussel kunnen producenten bovendien een **bijkomend inkomen halen uit de verkoop van groenestroomcertificaten** tijdens de eerste jaren van hun installatie ([Sibelga](https://www.sibelga.be/en/connections-meters/renewable-energy/solar-panels/green-certificates)).
 
 ## Wie bespaart het meest?
 
@@ -86,9 +86,9 @@ Het delen komt alle leden ten goede, maar sommige profielen halen er meer uit:
 - **Huurders zonder dak**, die toegang krijgen tot goedkopere lokale elektriciteit zonder iets te installeren.
 - **Kmo's en lokale overheden**, waarvan de dakoppervlakken of verbruiksprofielen zich goed lenen tot delen, met een directe impact op hun kosten.
 
-Energiedelen is uiteraard niet de enige hefboom die u ter beschikking staat. Woont u in Wallonië, dan plaatst onze gids [“Elektriciteitsfactuur verlagen: Wallonië 2026”](/nl/nieuws/2026/07/28/elektriciteitsfactuur-verlagen-wallonie-2026/) de energiegemeenschap tussen tien becijferde hefbomen, van de officiële vergelijker van de CWaPE tot het sociaal tarief.
+Energiedelen is uiteraard niet de enige hefboom die u ter beschikking staat. Woont u in Wallonië, dan plaatst onze gids [“Elektriciteitsfactuur verlagen: Wallonië 2026”](/nl/gidsen/elektriciteitsfactuur-verlagen-wallonie/) de energiegemeenschap tussen tien becijferde hefbomen, van de officiële vergelijker van de CWaPE tot het sociaal tarief.
 
-Één vraag beslecht dit artikel niet: is delen überhaupt beschikbaar waar u woont? Het antwoord hangt veel meer af van uw gewest dan u zou vermoeden, en [“Goedkopere stroom zonder leverancierswissel”](/nl/nieuws/2026/08/05/goedkopere-stroom-zonder-leverancierswissel/) becijfert het gewest per gewest — inclusief het feit dat peer-to-peer delen in Wallonië niet operationeel blijft.
+Één vraag beslecht dit artikel niet: is delen überhaupt beschikbaar waar u woont? Het antwoord hangt veel meer af van uw gewest dan u zou vermoeden, en [“Goedkopere stroom zonder leverancierswissel”](/nl/gidsen/goedkopere-stroom-zonder-leverancierswissel/) becijfert het gewest per gewest — inclusief het feit dat peer-to-peer delen in Wallonië niet operationeel blijft.
 
 ## FAQ
 
@@ -120,11 +120,11 @@ Naast het verlagen van uw factuur valoriseert u uw overschot bij de andere leden
 
 De eenvoudigste manier om uw factuur te verlagen, is **toetreden tot een bestaande deelactie** — of er een oprichten.
 
-> **[Toetreden tot een energiegemeenschap in Wallonië](/nl/nieuws/2026/05/11/energiegemeenschap-aansluiten-wallonie/)**
+> **[Toetreden tot een energiegemeenschap in Wallonië](/nl/gidsen/energiegemeenschap-aansluiten-wallonie/)**
 >
 > Wie kan toetreden, waar u een open actie vindt en de stappen één voor één.
 
-> **[Energiegemeenschap oprichten in Wallonië](/nl/nieuws/2026/05/11/energiegemeenschap-oprichten-wallonie/)**
+> **[Energiegemeenschap oprichten in Wallonië](/nl/gidsen/energiegemeenschap-oprichten-wallonie/)**
 >
 > Van de keuze van het type gemeenschap tot het opstarten van het delen met uw DNB.
 

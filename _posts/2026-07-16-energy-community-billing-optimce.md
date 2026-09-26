@@ -29,7 +29,7 @@ A working energy community produces two things: shared kWh… and amounts to inv
 
 The principle is simple: you set your prices, you pick a period, and OptimCE **generates every member's invoice** from the settlement data already in the platform — with PDFs, legal numbering, a structured payment reference and payment tracking.
 
-If the settlement mechanics are still fuzzy for you, start with our reference article [“Allocation key in Belgium: the 3 regions”](/en/news/2026/05/19/allocation-key-belgium/) — billing is its direct continuation.
+If the settlement mechanics are still fuzzy for you, start with our reference article [“Allocation key in Belgium: the 3 regions”](/en/guides/allocation-key-belgium/) — billing is its direct continuation.
 
 ## Why internal billing is the critical link
 
@@ -39,18 +39,18 @@ In practice, that burden falls on the community manager. For every period, you h
 
 - **retrieve the exact volumes** per connection point (EAN);
 - **apply the right price** to each profile, without calculation or rounding errors;
-- **produce a compliant document**: [VAT, mandatory mentions](/en/news/2026/07/23/who-invoices-shared-electricity-belgium/), sequential numbering;
+- **produce a compliant document**: [VAT, mandatory mentions](/en/guides/who-invoices-shared-electricity-belgium/), sequential numbering;
 - **attach a payment reference** and reconcile incoming transfers;
 - **answer members' questions** about their statement.
 
-With ten members it's tedious; with fifty, unmanageable. And the stakes go beyond paperwork: clear, regular billing is the first condition of **member trust** — it is what makes the economic benefit of sharing visible, in black and white. We already wrote it in our [guide to creating an energy community in Wallonia](/en/news/2026/05/11/create-energy-community-wallonia/): it is in the operational phase that a management tool becomes essential.
+With ten members it's tedious; with fifty, unmanageable. And the stakes go beyond paperwork: clear, regular billing is the first condition of **member trust** — it is what makes the economic benefit of sharing visible, in black and white. We already wrote it in our [guide to creating an energy community in Wallonia](/en/guides/create-energy-community-wallonia/): it is in the operational phase that a management tool becomes essential.
 
 ## How it works: from shared volume to invoice
 
 The module is integrated with the rest of the platform and follows a four-step flow.
 
 1. **The data is already there.** Billing relies on the official settlement data already imported into OptimCE: shared energy consumed and shared injection, per EAN and per period. Nothing to re-enter, nothing to export — billing reads the same volumes as your dashboards.
-2. **You define your prices.** Two prices, in €/kWh, freely set by the community: the **selling price** of shared energy to consumers and the **buyback price** paid to producers for their injection. Each price can apply globally, per customer segment (residential, professional, industrial) or to a single EAN — the most specific rule wins — and carries a validity period. Deciding which amounts to enter is another matter: our guide [“Internal transfer price in an energy community”](/en/news/2026/07/20/energy-community-electricity-price/) walks through the defensible range and five calculation methods.
+2. **You define your prices.** Two prices, in €/kWh, freely set by the community: the **selling price** of shared energy to consumers and the **buyback price** paid to producers for their injection. Each price can apply globally, per customer segment (residential, professional, industrial) or to a single EAN — the most specific rule wins — and carries a validity period. Deciding which amounts to enter is another matter: our guide [“Internal transfer price in an energy community”](/en/guides/energy-community-electricity-price/) walks through the defensible range and five calculation methods.
 3. **You launch a billing run.** You choose the period — monthly, quarterly, whatever suits you — and OptimCE checks that everything is in order before computing: consumption data present, the community's bank details and legal name, an applicable tariff, no duplicates in the data. Then it **freezes a snapshot** of the settlement: amounts are computed on frozen, traceable volumes.
 4. **You review, then you issue.** The run produces a **draft per member**, downloadable as a PDF with a "proforma" watermark. You check, then you issue: the invoice then receives its legal number, its structured payment reference and its due date.
 
@@ -97,7 +97,7 @@ Payment tracking is built in: you record each transfer — including **partial p
 
 Each member finds **their own invoices** in the application and downloads the PDF whenever they want. No more waiting for an email from the manager or asking for a recap: the reference document is available, in the same place, for everyone.
 
-A reminder on scope: the community's invoice covers the **shared energy**, valued at the internal price. The residual energy — what sharing did not cover — is still billed by each member's supplier, at their contract rate. It is the two documents together that tell the story of the savings achieved; our article on [reducing your electricity bill through sharing](/en/news/2026/06/03/energy-community-reduce-electricity-bill/) details that mechanism.
+A reminder on scope: the community's invoice covers the **shared energy**, valued at the internal price. The residual energy — what sharing did not cover — is still billed by each member's supplier, at their contract rate. It is the two documents together that tell the story of the savings achieved; our article on [reducing your electricity bill through sharing](/en/guides/energy-community-reduce-electricity-bill/) details that mechanism.
 
 ## A first version built for Wallonia — and what's next
 
@@ -109,7 +109,7 @@ The module is available now on [app.optimce.be](https://app.optimce.be) — free
 
 ## Conclusion
 
-With billing, OptimCE closes the loop: data import, [choosing and simulating the allocation key](/en/news/2026/06/09/simulate-allocation-key-optimce/), sharing operations, and now the invoices — the last step that still turned every quarter into a spreadsheet chore. Volumes become compliant documents, payments are tracked at a glance, and every member sees clearly what sharing brings them.
+With billing, OptimCE closes the loop: data import, [choosing and simulating the allocation key](/en/guides/simulate-allocation-key-optimce/), sharing operations, and now the invoices — the last step that still turned every quarter into a spreadsheet chore. Volumes become compliant documents, payments are tracked at a glance, and every member sees clearly what sharing brings them.
 
 > ### Bill your energy community with OptimCE
 >

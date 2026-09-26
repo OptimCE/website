@@ -31,7 +31,7 @@ Voici l'anomalie. Sur les **treize communautés d'énergie notifiées à la CWaP
 
 Ce n'est pas de l'indifférence, et ce n'est pas un problème d'information. C'est une contradiction écrite dans les textes : **deux arrêtés du Gouvernement wallon adoptés à trois semaines d'écart, le 23 février et le 17 mars 2023, poussent exactement dans des directions opposées.**
 
-Cet article ne refait pas ce qui est déjà écrit ailleurs sur ce site : la différence entre les trois statuts belges est traitée dans [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/actualites/2026/05/11/communautes-energie-belgique/), la procédure de création dans [« Créer une communauté d'énergie en Wallonie »](/actualites/2026/05/11/creer-communaute-energie-wallonie/), la composition d'un groupe par profil horaire dans [« Électricité en circuit court : le mode d'emploi »](/actualites/2026/08/25/electricite-circuit-court-mode-emploi/), le calcul de rentabilité d'une installation résidentielle dans [« Panneaux solaires 2026 : rentables en Wallonie ? »](/actualites/2026/08/11/panneaux-solaires-rentables-wallonie-2026/), le classement des débouchés du surplus dans [« Surplus solaire : les 5 options comparées »](/actualites/2026/08/18/que-faire-surplus-solaire-belgique/), et la fixation du prix interne dans [« Prix de cession interne en communauté d'énergie »](/actualites/2026/07/20/prix-electricite-communaute-energie/).
+Cet article ne refait pas ce qui est déjà écrit ailleurs sur ce site : la différence entre les trois statuts belges est traitée dans [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/guides/communautes-energie-belgique/), la procédure de création dans [« Créer une communauté d'énergie en Wallonie »](/guides/creer-communaute-energie-wallonie/), la composition d'un groupe par profil horaire dans [« Électricité en circuit court : le mode d'emploi »](/guides/electricite-circuit-court-mode-emploi/), le calcul de rentabilité d'une installation résidentielle dans [« Panneaux solaires 2026 : rentables en Wallonie ? »](/guides/panneaux-solaires-rentables-wallonie/), le classement des débouchés du surplus dans [« Surplus solaire : les 5 options comparées »](/guides/que-faire-surplus-solaire-belgique/), et la fixation du prix interne dans [« Prix de cession interne en communauté d'énergie »](/guides/prix-electricite-communaute-energie/).
 
 Il répond à une question que ces articles ne posent pas : **pourquoi le toit le mieux placé de Wallonie rurale appartient-il à celui qui a le moins besoin de ce qu'il produit, et que faut-il faire, dans l'ordre, pour que ce surplus vaille autre chose que le tarif d'injection ?**
 
@@ -141,13 +141,13 @@ Deux lignes méritent un commentaire.
 
 **La station de pompage est le partenaire le plus sous-estimé de Wallonie rurale.** Elle consomme en journée, toute l'année, avec une charge largement décalable dans le temps — remplir un réservoir à 13 h plutôt qu'à 3 h ne coûte rien à personne. Et elle est presque toujours gérée par la commune ou une intercommunale, ce qui simplifie la gouvernance. [« Communauté d'énergie : le guide des communes »](/actualites/2026/08/30/communaute-energie-communale-guide/) traite le point de vue de la commune propriétaire.
 
-La méthode générale — composer un groupe par superposition de profils horaires plutôt que par proximité géographique — est développée dans [« Électricité en circuit court : le mode d'emploi »](/actualites/2026/08/25/electricite-circuit-court-mode-emploi/). Elle vaut ici comme ailleurs, avec une nuance : la toiture agricole est le seul producteur rural assez gros pour alimenter simultanément plusieurs profils.
+La méthode générale — composer un groupe par superposition de profils horaires plutôt que par proximité géographique — est développée dans [« Électricité en circuit court : le mode d'emploi »](/guides/electricite-circuit-court-mode-emploi/). Elle vaut ici comme ailleurs, avec une nuance : la toiture agricole est le seul producteur rural assez gros pour alimenter simultanément plusieurs profils.
 
 ### La clé qui convient
 
 Une clé fixe attribue à chaque participant un pourcentage constant de la production, quel que soit ce qu'il consomme réellement. Sur un producteur dont le surplus varie d'un facteur dix entre un mardi de janvier et un dimanche de juillet, elle envoie des kilowattheures à des compteurs qui n'en veulent pas, et ces volumes retombent à l'injection.
 
-Le réflexe correct est une **clé de répartition dynamique** fondée sur le rapport de consommation, qui répartit chaque quart d'heure au prorata de ce que chacun consomme à cet instant. Les familles de clés reconnues par la CWaPE et leurs équivalents dans les deux autres régions sont détaillées dans [« Clé de répartition en Belgique : les 3 régions »](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/).
+Le réflexe correct est une **clé de répartition dynamique** fondée sur le rapport de consommation, qui répartit chaque quart d'heure au prorata de ce que chacun consomme à cet instant. Les familles de clés reconnues par la CWaPE et leurs équivalents dans les deux autres régions sont détaillées dans [« Clé de répartition en Belgique : les 3 régions »](/guides/cle-repartition-communaute-energie-belgique/).
 
 ## Ce que votre filière change — le profil, pas la surface
 
@@ -164,7 +164,7 @@ La surface d'un hangar suit les besoins de **stockage** de l'exploitation, jamai
 
 La lecture de ce tableau est simple. Un élevage porcin ou avicole a intérêt à maximiser d'abord son autoconsommation, parce que la ventilation estivale est le meilleur consommateur solaire qui existe en agriculture. Un exploitant en grandes cultures est dans la situation inverse : son pic de consommation dure quelques semaines en été et il n'a presque rien à faire de sa production le reste de l'année. Et un hangar de stockage nu est un cas limite parfait — il n'a pas de consommation propre, donc pas d'assiette d'autoconsommation, donc **pas d'aide agricole du tout** sur son photovoltaïque.
 
-Les notions d'autoconsommation, de taux d'autoconsommation et d'autoconsommation collective sont posées dans [« Autoconsommation collective en Belgique »](/actualites/2026/06/05/autoconsommation-energie-belgique/).
+Les notions d'autoconsommation, de taux d'autoconsommation et d'autoconsommation collective sont posées dans [« Autoconsommation collective en Belgique »](/guides/autoconsommation-energie-belgique/).
 
 ## Vous ne pouvez pas faire affaire avec le voisin d'en face
 
@@ -192,7 +192,7 @@ L'article 24 offre deux critères alternatifs, et il suffit d'en remplir un :
 
 Le second critère est souvent oublié et il est précieux en zone rurale, où les limites communales tombent rarement là où passent les câbles. Une ferme située en bordure de commune partage fréquemment son poste avec le hameau voisin, qui relève d'une autre commune. Demandez au gestionnaire de réseau quel poste alimente votre raccordement : la réponse élargit parfois considérablement le périmètre des partenaires possibles.
 
-Les documents à produire et les délais associés sont détaillés dans [« Communauté d'énergie : documents et délais CWaPE »](/actualites/2026/08/12/documents-administratifs-communaute-energie-wallonie/).
+Les documents à produire et les délais associés sont détaillés dans [« Communauté d'énergie : documents et délais CWaPE »](/guides/documents-administratifs-communaute-energie-wallonie/).
 
 ## Le réseau peut dire non même quand le droit dit oui
 

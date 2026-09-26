@@ -10,7 +10,7 @@ lang: en
 ref: solar-panels-worth-it-wallonia-2026
 pillar: solaire-surplus
 last_modified_at: 2026-09-22 06:00:00 +0200
-permalink: /en/news/2026/08/11/solar-panels-worth-it-wallonia-2026/
+permalink: /en/guides/solar-panels-worth-it-wallonia/
 faq:
   - q: "Are solar panels still profitable in Wallonia in 2026?"
     a: "Yes, but with a longer payback than in the compensation era and far more sensitivity to your consumption profile. On an illustrative 4 kWp system costing €6,000 including VAT, producing 3,800 kWh a year at a 37.76% self-consumption rate, the annual gain lands around €613 — of which €530 comes from electricity you no longer pay for and only €83 from selling the surplus. That gives a payback of roughly ten years, against the six years the Walloon Region quoted in 2023 for a system at 40% self-consumption. The difference between a good and a bad installation is no longer the price on the quote, but the share of production you consume yourself."
@@ -34,7 +34,7 @@ That factor of twelve is the whole story. It explains why two identical systems 
 
 With one caveat nobody states clearly, and it changes everything: **sharing does not present itself in the same way depending on whether your system predates or postdates 1 January 2024.** For one group it is a net gain. For the other it is a trade-off — and one that usually loses before 2031.
 
-This article does not re-explain what an energy community is, nor what separates a REC from a CEC: that is covered in [“Energy communities in Belgium: CER, CEC, CEL”](/en/news/2026/05/11/energy-communities-belgium/). Nor does it detail the ten Walloon savings levers, handled in [“Reduce your electricity bill: Wallonia 2026”](/en/news/2026/07/28/reduce-electricity-bill-wallonia-2026/), or the regional availability of sharing, analysed in [“Cheaper electricity without switching supplier”](/en/news/2026/08/05/cheaper-electricity-without-switching-supplier/). It answers a single question, with figures: **is a Walloon solar installation still profitable in 2026 — and by how much does sharing move the answer.**
+This article does not re-explain what an energy community is, nor what separates a REC from a CEC: that is covered in [“Energy communities in Belgium: CER, CEC, CEL”](/en/guides/energy-communities-belgium/). Nor does it detail the ten Walloon savings levers, handled in [“Reduce your electricity bill: Wallonia 2026”](/en/guides/reduce-electricity-bill-wallonia/), or the regional availability of sharing, analysed in [“Cheaper electricity without switching supplier”](/en/guides/cheaper-electricity-without-switching-supplier/). It answers a single question, with figures: **is a Walloon solar installation still profitable in 2026 — and by how much does sharing move the answer.**
 
 <img src="/assets/images/diagrams/solar-profitability-en.svg"
      alt="Diagram of the value of a solar kilowatt-hour in Wallonia in 2026: the installation first splits according to its commissioning date, before or after 1 January 2024, then each kilowatt-hour produced follows one of four destinations — self-consumed immediately for about 37 cents, stored in a battery and self-consumed later for the same value but at the cost of an investment, shared with other participants for 3 to 14 cents, or injected into the grid for only 1 to 5 cents."
@@ -106,7 +106,7 @@ The calculation is deliberately simple: it ignores electricity price inflation (
 
 **The conclusion is the imbalance in the second column.**
 
-That 37.76% rate is a regulatory average. A household whose house is empty during the day sits closer to 30%, because 85.8% of annual output lands between 09:00 and 17:00. What that profile can recover, and where it hits a ceiling, is quantified in [“Solar panels: nobody home during the day”](/en/news/2026/09/12/solar-panels-away-during-the-day/).
+That 37.76% rate is a regulatory average. A household whose house is empty during the day sits closer to 30%, because 85.8% of annual output lands between 09:00 and 17:00. What that profile can recover, and where it hits a ceiling, is quantified in [“Solar panels: nobody home during the day”](/en/guides/solar-panels-away-during-the-day/).
 
 ## The real problem is not the price of panels — it is the fate of the surplus
 
@@ -125,7 +125,7 @@ Three practical consequences follow, and they overturn the usual advice.
 
 **Oversizing is counterproductive.** Every kilowatt-hour produced beyond what you can absorb leaves at the injection tariff. A system twice as large does not double the gains; mostly it doubles the volume worth 3 cents.
 
-**The injection tariff is not a variable you control.** It is regulated nowhere in Belgium, it varies by a factor of five between suppliers, and it tracks the wholesale market. It is even worse for dynamic contracts: as we noted in [“Which electricity tariff to choose in Belgium?”](/en/news/2026/08/03/choose-electricity-tariff-belgium/), **99% of households with panels paid more** on a dynamic contract, with a median increase of 20%, precisely because their surplus arrives when prices collapse.
+**The injection tariff is not a variable you control.** It is regulated nowhere in Belgium, it varies by a factor of five between suppliers, and it tracks the wholesale market. It is even worse for dynamic contracts: as we noted in [“Which electricity tariff to choose in Belgium?”](/en/guides/choose-electricity-tariff-belgium/), **99% of households with panels paid more** on a dynamic contract, with a median increase of 20%, precisely because their surplus arrives when prices collapse.
 
 The whole question of a Walloon solar installation's profitability in 2026 therefore reduces to this one: **what do you do with the 62%?**
 
@@ -159,7 +159,7 @@ This is the default option, the one that applies if you do nothing. It costs not
 
 This is the option nobody mentions, and it is the only one that raises the value of the surplus **without investment**. We come to it now.
 
-These three options are not mutually exclusive, and that matters: a battery converts surplus into deferred self-consumption, sharing monetises what remains, injection picks up the rest. **The rational order is: shift your usage, then share, then consider a battery** if the residual surplus still justifies one. The appliance-by-appliance detail — hot-water tank, car charging, battery — and the ranking in euros invested per kilowatt-hour absorbed are set out in [“Solar surplus: the 5 options compared”](/en/news/2026/08/18/what-to-do-solar-surplus-belgium/).
+These three options are not mutually exclusive, and that matters: a battery converts surplus into deferred self-consumption, sharing monetises what remains, injection picks up the rest. **The rational order is: shift your usage, then share, then consider a battery** if the residual surplus still justifies one. The appliance-by-appliance detail — hot-water tank, car charging, battery — and the ranking in euros invested per kilowatt-hour absorbed are set out in [“Solar surplus: the 5 options compared”](/en/guides/what-to-do-solar-surplus-belgium/).
 
 ## What sharing actually changes in the calculation
 
@@ -167,7 +167,7 @@ Energy sharing means allocating, quarter-hour by quarter-hour, a share of your p
 
 ### The number that matters: the internal transfer price
 
-We devoted a whole article to setting it, [“Internal transfer price in an energy community”](/en/news/2026/07/20/energy-community-electricity-price/). What matters here fits in two bounds:
+We devoted a whole article to setting it, [“Internal transfer price in an energy community”](/en/guides/energy-community-electricity-price/). What matters here fits in two bounds:
 
 - **The floor is the injection tariff** — 0.94 to 4.90 c€/kWh. Below it, no producer has any reason to share rather than sell to their supplier.
 - **The ceiling is the energy component the consumer already pays**, around 14 c€/kWh. Above it, no consumer has any reason to take part.
@@ -254,7 +254,7 @@ Size for your consumption, not for your roof. Get at least three quotes, insist 
 
 ### My system dates from 2024 or later
 
-You have nothing to lose and everything to gain from sharing. Your priority: shift your usage towards production hours, then look for a sharing operation. Conditions and steps are detailed in [“Join an energy community in Wallonia”](/en/news/2026/05/11/join-energy-community-wallonia/).
+You have nothing to lose and everything to gain from sharing. Your priority: shift your usage towards production hours, then look for a sharing operation. Conditions and steps are detailed in [“Join an energy community in Wallonia”](/en/guides/join-energy-community-wallonia/).
 
 ### My system predates 2024
 
@@ -262,9 +262,9 @@ Give up nothing before running the calculation in the previous section on **your
 
 ### I am a tenant, or live in a flat
 
-You probably cannot install, but you can receive. Sharing within a single building is Wallonia's most favourable configuration and requires no legal entity: a co-ownership roof is enough. The mechanism, from the consumer's side, is described in [“Energy self-consumption in Belgium”](/en/news/2026/06/05/energy-self-consumption-belgium/).
+You probably cannot install, but you can receive. Sharing within a single building is Wallonia's most favourable configuration and requires no legal entity: a co-ownership roof is enough. The mechanism, from the consumer's side, is described in [“Energy self-consumption in Belgium”](/en/guides/energy-self-consumption-belgium/).
 
-Since 17 April 2025 you can also generate a little yourself: a portable photovoltaic kit plugged into an ordinary socket is now legal in Belgium, and it moves house with you. The full calculation — and what a balcony's orientation does to it — is in [“Renting: the no-roof guide to solar”](/en/news/2026/09/16/tenant-solar-without-roof-guide/).
+Since 17 April 2025 you can also generate a little yourself: a portable photovoltaic kit plugged into an ordinary socket is now legal in Belgium, and it moves house with you. The full calculation — and what a balcony's orientation does to it — is in [“Renting: the no-roof guide to solar”](/en/guides/tenant-solar-without-roof-guide/).
 
 ## Key takeaways
 
@@ -304,7 +304,7 @@ Very little. According to the Test-Achats comparison of 28 May 2026, the injecti
 
 ### Battery or energy sharing: which one for your surplus?
 
-They are not competitors; they act in different places. A battery converts surplus into deferred self-consumption and lifts the self-consumption rate from 30-40% to **70-80%**, worth several hundred euros a year — but it costs **€4,250 to €7,250** for 5 to 10 kWh, Wallonia pays no storage premium, and its own payback runs close to fifteen years. Energy sharing yields less but costs no capital: it monetises what remains after self-consumption at a negotiated 3 to 14 c€/kWh instead of the injection tariff. The logical order is therefore to shift your usage first, share second, and only then consider a battery if the residual surplus still justifies one. The price grid per kilowatt-hour installed, and the declaration obligation that can break a pre-2024 compensation, are covered in ["Home battery: the price and the alternative"](/en/news/2026/09/22/home-battery-price-vs-energy-sharing/).
+They are not competitors; they act in different places. A battery converts surplus into deferred self-consumption and lifts the self-consumption rate from 30-40% to **70-80%**, worth several hundred euros a year — but it costs **€4,250 to €7,250** for 5 to 10 kWh, Wallonia pays no storage premium, and its own payback runs close to fifteen years. Energy sharing yields less but costs no capital: it monetises what remains after self-consumption at a negotiated 3 to 14 c€/kWh instead of the injection tariff. The logical order is therefore to shift your usage first, share second, and only then consider a battery if the residual surplus still justifies one. The price grid per kilowatt-hour installed, and the declaration obligation that can break a pre-2024 compensation, are covered in ["Home battery: the price and the alternative"](/en/guides/home-battery-price-vs-energy-sharing/).
 
 ### Can I share my electricity if I installed my panels after 2024?
 

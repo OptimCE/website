@@ -9,7 +9,7 @@ tags: [guide, community]
 lang: de
 ref: home-battery-vs-energy-sharing
 pillar: solaire-surplus
-permalink: /de/aktuelles/2026/09/22/hausbatterie-preis-oder-energieteilen/
+permalink: /de/ratgeber/hausbatterie-preis-oder-energieteilen/
 faq:
   - q: "Was kostet eine Hausbatterie in Belgien im Jahr 2026?"
     a: "Test-Achats, das keine Geräte verkauft, veröffentlicht eine Übersicht je installierter Kilowattstunde: rund 850 € je kWh für eine Batterie mit 5 kWh, rund 600 € je kWh für eine mit 15 kWh. Der Preis je Kilowattstunde sinkt also mit steigender Kapazität, weil Wechselrichter, Montage und Anschluss kaum von der Größe des Speicherpakets abhängen. In absoluten Zahlen liegt eine Batterie mit 5 kWh damit bei rund 4 250 €, eine mit 10 kWh bei rund 7 250 € und eine mit 15 kWh bei rund 9 000 €, Montage und Mehrwertsteuer inbegriffen. Zwei Präzisierungen wiegen schwerer als die Spanne selbst. Erstens ist die Kilowattstunde des Datenblatts nicht die nutzbare Kilowattstunde: Die Hersteller behalten eine Entladetiefenreserve ein, und der Wirkungsgrad im Lade- und Entladezyklus nimmt weitere 5 bis 10 % dessen weg, was hineingeht. Zweitens gilt der Mehrwertsteuersatz von 6 % nicht automatisch: Er setzt eine Wohnung von zehn Jahren oder älter und eine Lieferung mit Montage durch den Unternehmer voraus. Eine allein gekaufte Batterie ohne Installation bleibt bei 21 %."
@@ -29,7 +29,7 @@ Eine Hausbatterie mit 5 kWh kostet **850 € je installierter Kilowattstunde**. 
 
 In Euro übersetzt liegt eine Batterie mit 5 kWh damit bei rund 4 250 €, eine mit 10 kWh bei rund 7 250 €, eine mit 15 kWh bei rund 9 000 €. Und keine der drei belgischen Regionen zahlt einen Cent Prämie für ihren Kauf.
 
-Dieser Artikel wiederholt nicht, was auf dieser Website bereits anderswo steht. [„Solarüberschuss: die 5 Optionen im Vergleich"](/de/aktuelles/2026/08/18/solarer-ueberschuss-was-tun-belgien/) ordnet die fünf Verwertungswege eines Überschusses nach investiertem Euro und setzt die Batterie auf den letzten Platz; [„Solaranlage 2026: lohnt sie sich in Wallonien?"](/de/aktuelles/2026/08/11/solaranlage-rentabel-wallonien-2026/) begründet den bezifferten Referenzfall, den wir hier übernehmen; [„Solaranlage: tagsüber niemand zu Hause"](/de/aktuelles/2026/09/12/solaranlage-tagsueber-nicht-zu-hause/) zeigt, dass der Batteriereflex meist eine falsche Diagnose der Gleichzeitigkeit ist; [„Strom auf kurzem Weg: Anleitung für Wallonien"](/de/aktuelles/2026/08/25/strom-kurze-wege-anleitung/) legt die Viertelstundenregel dar, die alles Weitere bestimmt; [„Interner Verrechnungspreis für geteilten Strom"](/de/aktuelles/2026/07/20/strompreis-energiegemeinschaft/) erklärt, woher die Spanne von 3 bis 14 c€/kWh kommt; [„Stromrechnung senken: Wallonien 2026"](/de/aktuelles/2026/07/28/stromrechnung-senken-wallonien-2026/) beschreibt die ORES-Tarifliste 2026 und den Impact-Tarif.
+Dieser Artikel wiederholt nicht, was auf dieser Website bereits anderswo steht. [„Solarüberschuss: die 5 Optionen im Vergleich"](/de/ratgeber/solarer-ueberschuss-was-tun-belgien/) ordnet die fünf Verwertungswege eines Überschusses nach investiertem Euro und setzt die Batterie auf den letzten Platz; [„Solaranlage 2026: lohnt sie sich in Wallonien?"](/de/ratgeber/solaranlage-rentabel-wallonien/) begründet den bezifferten Referenzfall, den wir hier übernehmen; [„Solaranlage: tagsüber niemand zu Hause"](/de/ratgeber/solaranlage-tagsueber-nicht-zu-hause/) zeigt, dass der Batteriereflex meist eine falsche Diagnose der Gleichzeitigkeit ist; [„Strom auf kurzem Weg: Anleitung für Wallonien"](/de/ratgeber/strom-kurze-wege-anleitung/) legt die Viertelstundenregel dar, die alles Weitere bestimmt; [„Interner Verrechnungspreis für geteilten Strom"](/de/ratgeber/strompreis-energiegemeinschaft/) erklärt, woher die Spanne von 3 bis 14 c€/kWh kommt; [„Stromrechnung senken: Wallonien 2026"](/de/ratgeber/stromrechnung-senken-wallonien/) beschreibt die ORES-Tarifliste 2026 und den Impact-Tarif.
 
 **Die hier gestellte Frage ist eine andere: Was kauft der Scheck, den Sie unterschreiben, tatsächlich zurück, welche Verwaltungspflicht löst er aus, und was wird aus seiner Rendite, wenn Sie bereits am Energieteilen teilnehmen?**
 
@@ -78,7 +78,7 @@ An diesem Punkt ist Vorsicht geboten gegenüber dem, was Sie anderswo lesen. Meh
 
 ## Was sie einbringt, in unserem Referenzfall
 
-Wir übernehmen hier unverändert die vier Parameter des Falls, der in [„Solaranlage 2026: lohnt sie sich in Wallonien?"](/de/aktuelles/2026/08/11/solaranlage-rentabel-wallonien-2026/) aufgestellt wurde und im gesamten Korpus verwendet wird, damit die Zahlen dieser Website untereinander vergleichbar bleiben.
+Wir übernehmen hier unverändert die vier Parameter des Falls, der in [„Solaranlage 2026: lohnt sie sich in Wallonien?"](/de/ratgeber/solaranlage-rentabel-wallonien/) aufgestellt wurde und im gesamten Korpus verwendet wird, damit die Zahlen dieser Website untereinander vergleichbar bleiben.
 
 | Parameter | Wert |
 |---|---|
@@ -192,7 +192,7 @@ Die CWaPE selbst betont, dass das Thema über Batterien hinausgeht: Ein einfache
 
 Demgegenüber verlangt der andere Weg, einen Überschuss zu verwerten, überhaupt kein Kapital.
 
-Energieteilen bedeutet, Ihre eingespeiste Erzeugung anderen Abnahmestellen zuzuordnen — Nachbarn, einer Schule, einem Geschäft, einer Eigentümergemeinschaft —, die im selben Moment verbrauchen. Sie wechseln weder Lieferanten noch Erzeugungszähler noch Anlage — genau darum geht es in [„Strom sparen ohne Anbieterwechsel"](/de/aktuelles/2026/08/05/strom-sparen-ohne-anbieterwechsel/). Sie verhandeln einen internen Verrechnungspreis.
+Energieteilen bedeutet, Ihre eingespeiste Erzeugung anderen Abnahmestellen zuzuordnen — Nachbarn, einer Schule, einem Geschäft, einer Eigentümergemeinschaft —, die im selben Moment verbrauchen. Sie wechseln weder Lieferanten noch Erzeugungszähler noch Anlage — genau darum geht es in [„Strom sparen ohne Anbieterwechsel"](/de/ratgeber/strom-sparen-ohne-anbieterwechsel/). Sie verhandeln einen internen Verrechnungspreis.
 
 Dieser Preis liegt in einer vertretbaren Spanne von **3 bis 14 c€/kWh**: Die Untergrenze ist der Einspeisetarif, unterhalb dessen kein Erzeuger ein Interesse am Teilen hat; die Obergrenze ist die Energiekomponente, die der Verbraucher ohnehin zahlt. Dokumentierte belgische Fälle liegen bei etwa **6 c€/kWh**.
 
@@ -202,11 +202,11 @@ Das ist wenig. Wir sagen es lieber, statt es zu beschönigen: Das Teilen ersetzt
 
 Drei Grenzen müssen redlich benannt werden.
 
-**Die Gleichzeitigkeit.** Das Teilen wird in Viertelstundenscheiben berechnet: Ihre Mittagserzeugung kann nur Teilnehmern zugeordnet werden, die mittags verbrauchen. Die flämische Erfahrung zeigt, dass etwa 20 % der Einspeisung tatsächlich geteilt werden, statt der erhofften 40 %. Die Gruppe aus Tagesprofilen zusammenzustellen — Geschäft, Schule, Selbstständige im Homeoffice — ändert alles, und das ist Gegenstand unserer [Anleitung zum kurzen Weg](/de/aktuelles/2026/08/25/strom-kurze-wege-anleitung/).
+**Die Gleichzeitigkeit.** Das Teilen wird in Viertelstundenscheiben berechnet: Ihre Mittagserzeugung kann nur Teilnehmern zugeordnet werden, die mittags verbrauchen. Die flämische Erfahrung zeigt, dass etwa 20 % der Einspeisung tatsächlich geteilt werden, statt der erhofften 40 %. Die Gruppe aus Tagesprofilen zusammenzustellen — Geschäft, Schule, Selbstständige im Homeoffice — ändert alles, und das ist Gegenstand unserer [Anleitung zum kurzen Weg](/de/ratgeber/strom-kurze-wege-anleitung/).
 
 **Die Gebühren des Lieferanten.** Manche berechnen die Teilnahme an einer Teilung, von null bis rund 150 € im Jahr je Abnahmestelle. Bei einem Gewinn von 59 € reicht das, um die Operation zunichtezumachen. Das ist das Erste, was in Ihren Vertragsbedingungen zu prüfen ist.
 
-**Die Ermäßigung von 80 % gilt nicht für alle.** Die ORES-Tarifliste 2026 senkt den proportionalen Term auf geteilte Energie um 80 % **nur innerhalb desselben Gebäudes**. Für eine Teilung innerhalb einer Energiegemeinschaft ist die CWaPE eindeutig: Es gibt keine Tarifermäßigung. Die drei belgischen Statuten und ihre jeweiligen Perimeter sind in [„Energiegemeinschaften in Belgien: CER, CEC, CEL"](/de/aktuelles/2026/05/11/energiegemeinschaften-belgien/) dargelegt.
+**Die Ermäßigung von 80 % gilt nicht für alle.** Die ORES-Tarifliste 2026 senkt den proportionalen Term auf geteilte Energie um 80 % **nur innerhalb desselben Gebäudes**. Für eine Teilung innerhalb einer Energiegemeinschaft ist die CWaPE eindeutig: Es gibt keine Tarifermäßigung. Die drei belgischen Statuten und ihre jeweiligen Perimeter sind in [„Energiegemeinschaften in Belgien: CER, CEC, CEL"](/de/ratgeber/energiegemeinschaften-belgien/) dargelegt.
 
 Bleibt das Wesentliche: Das Teilen hat **keine Kapazitätsobergrenze und kostet in der Einrichtung nichts**. Eine Batterie hat die Kapazität, die man bezahlt hat.
 
@@ -218,7 +218,7 @@ Die gesetzliche Definition des Teilens, aus dem Dekret vom 5. Mai 2022 und dem E
 
 > die gesamte oder einen Teil der erzeugten und gegebenenfalls gespeicherten Energie innerhalb desselben Gebäudes oder durch die Energiegemeinschaft, die in das lokale Verteil- oder Übertragungsnetz eingespeist und innerhalb derselben Viertelstunde verbraucht wird.
 
-**„Und gegebenenfalls gespeichert"**: Strom, der aus einer Batterie kommt, kann geteilt werden. Das ist keine Duldung, es steht in der Definition. Die CWaPE veröffentlicht überdies eine eigene Anlage — eine ehrenwörtliche Erklärung zur Nutzung einer Speicheranlage — unter den Meldeformularen für eine Teilungsoperation, wie wir in unserem [Verzeichnis der Verwaltungsdokumente](/de/aktuelles/2026/08/12/energiegemeinschaft-verwaltungsdokumente-wallonien/) festgehalten haben.
+**„Und gegebenenfalls gespeichert"**: Strom, der aus einer Batterie kommt, kann geteilt werden. Das ist keine Duldung, es steht in der Definition. Die CWaPE veröffentlicht überdies eine eigene Anlage — eine ehrenwörtliche Erklärung zur Nutzung einer Speicheranlage — unter den Meldeformularen für eine Teilungsoperation, wie wir in unserem [Verzeichnis der Verwaltungsdokumente](/de/ratgeber/energiegemeinschaft-verwaltungsdokumente-wallonien/) festgehalten haben.
 
 Die Frage lautet also nicht, was man wählt. Sie lautet, was die Kombination tatsächlich einbringt.
 
@@ -299,7 +299,7 @@ Alles Vorstehende beschreibt Wallonien. Die beiden anderen Regionen verändern e
 4. **Der Prosumertarif bewegt sich nicht.** Beim kapazitätsbasierten Standardtarif schreibt die CWaPE, das Vorhandensein einer Batterie habe „keinen Einfluss" auf seine Höhe: 80,98 €/kWe ohne Mehrwertsteuer bleiben bei ORES geschuldet. Das gilt nur für dieses Regime — mit Kommunikationszähler und proportionalem Tarif senkt die Batterie die Netzkosten sehr wohl.
 5. **Die Meldung der Batterie ist gesetzliche Pflicht, und diese Meldung ist die Falle.** Bei einer Anlage von vor 2024, die noch unter der Kompensation steht, kann die vom Formular UP10 verlangte Zählerablesung eine Zwischenabrechnung auslösen und den Jahreszyklus unterbrechen. ORES vermeidet die Erfassung dieser Zählerstände, RESA übermittelt sie. Die CWaPE hat am 26. März 2026 eine Korrektur vorgeschlagen; sie ist noch nicht in Kraft.
 6. **Batterie und Teilen lassen sich rechtlich kombinieren, aber ihre Gewinne addieren sich nicht.** Das wallonische Recht erfasst „die erzeugte und gegebenenfalls gespeicherte Energie". In unserem Fall ergeben 59 € + 473 € nicht 532, sondern 497: 35 € im Jahr verflüchtigen sich, weil beide Vorrichtungen sich um denselben Überschuss streiten.
-7. **Für alle, die bereits teilen, bringt die Batterie 438 € statt 473 — und 381 €, wenn der Verrechnungspreis bei 10 c€ liegt.** Ihre Amortisation verschiebt sich dann von 14,8 auf 16,0 und weiter auf 18,4 Jahre. Die richtige Reihenfolge bleibt die, die wir seit [„Solarüberschuss: die 5 Optionen im Vergleich"](/de/aktuelles/2026/08/18/solarer-ueberschuss-was-tun-belgien/) vertreten: Nutzungen verschieben, dann teilen, und erst dann eine Batterie erwägen.
+7. **Für alle, die bereits teilen, bringt die Batterie 438 € statt 473 — und 381 €, wenn der Verrechnungspreis bei 10 c€ liegt.** Ihre Amortisation verschiebt sich dann von 14,8 auf 16,0 und weiter auf 18,4 Jahre. Die richtige Reihenfolge bleibt die, die wir seit [„Solarüberschuss: die 5 Optionen im Vergleich"](/de/ratgeber/solarer-ueberschuss-was-tun-belgien/) vertreten: Nutzungen verschieben, dann teilen, und erst dann eine Batterie erwägen.
 
 > ### Beginnen Sie mit dem, was nichts kostet
 >

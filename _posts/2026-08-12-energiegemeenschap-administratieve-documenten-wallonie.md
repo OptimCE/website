@@ -9,7 +9,7 @@ tags: [administrative, app, guide]
 lang: nl
 ref: cwape-administrative-documents
 pillar: communautes-energie
-permalink: /nl/nieuws/2026/08/12/energiegemeenschap-administratieve-documenten-wallonie/
+permalink: /nl/gidsen/energiegemeenschap-administratieve-documenten-wallonie/
 faq:
   - q: "Welke documenten hebt u nodig om een energiegemeenschap op te richten in Wallonië?"
     a: "Er zijn drie afzonderlijke pakketten. Om de gemeenschap op te richten: een kennisgeving aan de CWaPE, samen met de bijlage met de deelnemers en de productie-installaties en, als de gemeenschap een vennootschap of een vereniging is, de bijlage over de rechtspersonen. Om het delen te laten werken: een formulier voor het delen van elektriciteit dat bij de distributienetbeheerder wordt ingediend, de bijbehorende deelnemersbijlage en een verklaring op erewoord die elke deelnemer aan het delen ondertekent. Ten slotte een modelovereenkomst tussen de netbeheerder en de vertegenwoordiger, hetzij in de versie voor een energiegemeenschap, hetzij in de versie voor eenzelfde gebouw. De CWaPE publiceert bij beide hoofdformulieren ook een toelichtingsgids, en die is de moeite waard vóór u iets invult."
@@ -33,7 +33,7 @@ De omvang van de rem laat zich meten. De evaluatie van de CWaPE die in maart 202
 
 Eén ding is onlangs veranderd, en het is grotendeels onopgemerkt gebleven: **sinds 25 juni 2026** gebeuren de kennisgeving van de oprichting van een energiegemeenschap, de wijzigingen ervan en de indiening van de jaarlijkse rapportering via gedigitaliseerde formulieren op **monespace.wallonie.be**. Drie procedures op het ene portaal van het Gewest, terwijl de rest — alles wat het delen zelf betreft — bestanden blijven om te downloaden. De grens tussen beide werelden is niet intuïtief, en zij is vandaag de belangrijkste bron van verwarring.
 
-Dit artikel legt niet opnieuw uit wat een energiegemeenschap is, noch wat een CER van een CEC onderscheidt: dat staat in [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/). Het overloopt evenmin het oprichtingstraject, dat aan bod komt in [“Een energiegemeenschap oprichten in Wallonië”](/nl/nieuws/2026/05/11/energiegemeenschap-oprichten-wallonie/). Het beantwoordt drie precieze vragen: **welke documenten een Waalse energiegemeenschap moet opstellen, tegen wanneer, en wat voortaan automatisch kan worden voorbereid, gedateerd en bewaard.**
+Dit artikel legt niet opnieuw uit wat een energiegemeenschap is, noch wat een CER van een CEC onderscheidt: dat staat in [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/gidsen/energiegemeenschappen-belgie/). Het overloopt evenmin het oprichtingstraject, dat aan bod komt in [“Een energiegemeenschap oprichten in Wallonië”](/nl/gidsen/energiegemeenschap-oprichten-wallonie/). Het beantwoordt drie precieze vragen: **welke documenten een Waalse energiegemeenschap moet opstellen, tegen wanneer, en wat voortaan automatisch kan worden voorbereid, gedateerd en bewaard.**
 
 <img src="/assets/images/diagrams/administrative-dossier-nl.svg"
      alt="Schema van de levenscyclus van een administratief dossier van een energiegemeenschap in Wallonië: de bij de CWaPE ingediende kennisgeving opent een termijn van tien werkdagen waarin de regulator nagaat of het dossier volledig is; een volledig dossier ontvangt een ontvangstbevestiging die als bewijs van kennisgeving geldt, terwijl een onvolledig dossier binnen maximaal zes maanden vanaf de eerste ontvangstbevestiging moet worden vervolledigd, zo niet vervalt de kennisgeving. Voor de opgerichte gemeenschap gelden daarna twee terugkerende verplichtingen: elke wijziging van de oprichtingsvoorwaarden moet binnen vijftien werkdagen worden gemeld, en de jaarlijkse rapportering moet elk jaar uiterlijk op 1 september worden ingediend."
@@ -247,11 +247,11 @@ Kijk eerst naar de datum van vandaag ten opzichte van **1 september**. Is de jaa
 
 ### Ik ben een gemeenschap aan het oprichten
 
-Het kritieke punt is de teller van zes maanden, en die start bij de eerste ontvangstbevestiging. Verzamel de bijlagen vóór de indiening in plaats van erna: de lijst van deelnemers en installaties kost de meeste tijd, omdat zij van derden afhangt. De toelichtingsgidsen van de CWaPE zijn het halfuur waard dat zij kosten. Het volledige traject staat beschreven in [“Een energiegemeenschap oprichten in Wallonië”](/nl/nieuws/2026/05/11/energiegemeenschap-oprichten-wallonie/).
+Het kritieke punt is de teller van zes maanden, en die start bij de eerste ontvangstbevestiging. Verzamel de bijlagen vóór de indiening in plaats van erna: de lijst van deelnemers en installaties kost de meeste tijd, omdat zij van derden afhangt. De toelichtingsgidsen van de CWaPE zijn het halfuur waard dat zij kosten. Het volledige traject staat beschreven in [“Een energiegemeenschap oprichten in Wallonië”](/nl/gidsen/energiegemeenschap-oprichten-wallonie/).
 
 ### Ik wil aansluiten bij een gemeenschap
 
-U ondertekent een verklaring op erewoord, en uw leveringspunten komen voor in een bijlage die aan de regulator wordt bezorgd. De toetredingsvoorwaarden en de punten om na te kijken vóór u tekent, staan in [“Aansluiten bij een energiegemeenschap in Wallonië”](/nl/nieuws/2026/05/11/energiegemeenschap-aansluiten-wallonie/).
+U ondertekent een verklaring op erewoord, en uw leveringspunten komen voor in een bijlage die aan de regulator wordt bezorgd. De toetredingsvoorwaarden en de punten om na te kijken vóór u tekent, staan in [“Aansluiten bij een energiegemeenschap in Wallonië”](/nl/gidsen/energiegemeenschap-aansluiten-wallonie/).
 
 ### Ik beheer dit alles al in rekenbladen
 

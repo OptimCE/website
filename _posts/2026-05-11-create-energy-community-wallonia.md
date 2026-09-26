@@ -10,10 +10,10 @@ lang: en
 ref: create-energy-community-wallonia
 pillar: communautes-energie
 last_modified_at: 2026-09-03 06:00:00 +0200
-permalink: /en/news/2026/05/11/create-energy-community-wallonia/
+permalink: /en/guides/create-energy-community-wallonia/
 ---
 
-Wallonia is currently the Belgian region where energy communities are deploying fastest. The legal framework has been stable since 2022, the regulator (CWaPE) publishes a standard notification form, and the distribution system operators (DSOs) are tooled up: every ingredient is in place for a group of citizens, a municipality, a school or an industrial park to launch its own energy sharing. This guide walks through **the complete procedure**: from choosing the type of community to going live with your DSO. If you're not yet familiar with the concept itself, start with our article [“Energy communities in Belgium: CER, CEC, CEL”](/en/news/2026/05/11/energy-communities-belgium/) — it sets the vocabulary used here.
+Wallonia is currently the Belgian region where energy communities are deploying fastest. The legal framework has been stable since 2022, the regulator (CWaPE) publishes a standard notification form, and the distribution system operators (DSOs) are tooled up: every ingredient is in place for a group of citizens, a municipality, a school or an industrial park to launch its own energy sharing. This guide walks through **the complete procedure**: from choosing the type of community to going live with your DSO. If you're not yet familiar with the concept itself, start with our article [“Energy communities in Belgium: CER, CEC, CEL”](/en/guides/energy-communities-belgium/) — it sets the vocabulary used here.
 
 The guide targets two typical profiles: a **collective starting from scratch** (citizens, neighbourhood non-profit, municipality) and a **producer already equipped** (rooftop PV, cogeneration) who wants to valorise surplus to nearby neighbours or businesses. The procedure is the same; what differs is the upstream framing work.
 
@@ -59,7 +59,7 @@ This is the longest step, but it's also the one that determines the community's 
 1. **Who produces?** Identify the producer(s) (existing rooftop PV, new project, cogeneration…) and their delivery point (EAN).
 2. **Who consumes?** List the future consuming members, their estimated annual consumption and their EANs.
 3. **Where?** Map the locations to verify the proximity criterion (CER) or confirm it is not required (CEC).
-4. **How is the energy allocated?** Sketch the allocation key (static: fixed percentages; dynamic: proportional to real-time consumption). For a detailed overview of the keys accepted by CWaPE and their Brussels and Flanders counterparts, see our article [“Allocation key in Belgium: the 3 regions”](/en/news/2026/05/19/allocation-key-belgium/).
+4. **How is the energy allocated?** Sketch the allocation key (static: fixed percentages; dynamic: proportional to real-time consumption). For a detailed overview of the keys accepted by CWaPE and their Brussels and Flanders counterparts, see our article [“Allocation key in Belgium: the 3 regions”](/en/guides/allocation-key-belgium/).
 
 ### Choose a legal structure
 
@@ -213,7 +213,7 @@ Yes. **Local authorities** (municipalities, inter-municipal entities, public soc
 
 If creating a community from scratch feels too heavy, **joining an existing operation** is much faster — typically 6 to 12 weeks between first contact and first shared kilowatt-hour. See our practical guide:
 
-> **[Join an energy community in Wallonia](/en/news/2026/05/11/join-energy-community-wallonia/)**
+> **[Join an energy community in Wallonia](/en/guides/join-energy-community-wallonia/)**
 >
 > Who can join, where to find an open operation (OptimCE registry, SPW facilitator, Énergie commune), step-by-step enrolment and points to check before you sign.
 

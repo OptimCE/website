@@ -10,7 +10,7 @@ lang: en
 ref: solar-surplus-options
 pillar: solaire-surplus
 last_modified_at: 2026-09-22 06:00:00 +0200
-permalink: /en/news/2026/08/18/what-to-do-solar-surplus-belgium/
+permalink: /en/guides/what-to-do-solar-surplus-belgium/
 faq:
   - q: "Which option delivers the most per euro invested for a solar surplus?"
     a: "Controlling the hot-water tank, with no serious competition. A solar diverter fitted to an existing electric tank costs 400 to 900 euros, absorbs 800 to 1,400 kWh of surplus a year and pays for itself in one to three years. Measured against the volume it handles, that is roughly 0.65 euro of investment per kilowatt-hour absorbed each year, against roughly 5.65 euros for a home battery. The two zero-investment options, energy sharing and export, cannot be compared on that ground because their denominator is zero: they compete on unit value instead, 3 to 14 cents for sharing against 0.94 to 4.90 cents for export. The right strategy is therefore not to choose but to stack: absorb at full retail value whatever your appliances can take, share next, export the remainder."
@@ -32,7 +32,7 @@ Those 2,400 kWh are the real subject. Exported with no further arrangement, they
 
 Five options exist to act on that mismatch: export, heat domestic water, charge the car, store in a battery, share. They are almost always presented as a choice, when in fact they stack — and above all, **they only make sense if your meter rewards them**. Before comparing anything, you therefore need to know which metering regime you are in, because there are still tens of thousands of Belgian households for whom the right answer is: change nothing.
 
-This article does not redo the profitability calculation of a solar installation, covered in [“Solar panels 2026: still worth it in Wallonia?”](/en/news/2026/08/11/solar-panels-worth-it-wallonia-2026/). It does not re-explain self-consumption, defined in [“Energy self-consumption in Belgium”](/en/news/2026/06/05/energy-self-consumption-belgium/), nor how to set a price between participants, developed in [“Internal transfer price in an energy community”](/en/news/2026/07/20/energy-community-electricity-price/). Nor does it replay the regional availability test for sharing, carried out in [“Cheaper electricity without switching supplier”](/en/news/2026/08/05/cheaper-electricity-without-switching-supplier/), or the detail of the Walloon time bands, documented in [“Reduce your electricity bill: Wallonia 2026”](/en/news/2026/07/28/reduce-electricity-bill-wallonia-2026/). It does one thing those articles do not: it compares the five possible destinations of the surplus **appliance by appliance**, in euros invested per kilowatt-hour absorbed.
+This article does not redo the profitability calculation of a solar installation, covered in [“Solar panels 2026: still worth it in Wallonia?”](/en/guides/solar-panels-worth-it-wallonia/). It does not re-explain self-consumption, defined in [“Energy self-consumption in Belgium”](/en/guides/energy-self-consumption-belgium/), nor how to set a price between participants, developed in [“Internal transfer price in an energy community”](/en/guides/energy-community-electricity-price/). Nor does it replay the regional availability test for sharing, carried out in [“Cheaper electricity without switching supplier”](/en/guides/cheaper-electricity-without-switching-supplier/), or the detail of the Walloon time bands, documented in [“Reduce your electricity bill: Wallonia 2026”](/en/guides/reduce-electricity-bill-wallonia/). It does one thing those articles do not: it compares the five possible destinations of the surplus **appliance by appliance**, in euros invested per kilowatt-hour absorbed.
 
 <img src="/assets/images/diagrams/solar-surplus-ladder-en.svg"
      alt="Ladder of the five ways to use a solar surplus in Belgium in 2026: the hot-water tank absorbs 800 to 1,400 kWh a year for 400 to 900 euros of investment, electric-car charging 300 to 1,500 kWh for 0 to 2,500 euros, energy sharing the entire surplus for zero euros but at 3 to 14 cents per kilowatt-hour, export the remainder for zero euros at 1 to 5 cents, and a home battery around 1,400 kWh for 7,000 to 9,000 euros."
@@ -176,13 +176,13 @@ The effect is real: the self-consumption rate rises from 37.76 % to around 75 %,
 
 Against our metric: about **€5.65 of investment per kilowatt-hour absorbed each year**. Almost nine times the ratio of a hot-water tank.
 
-And there is nothing to expect from support schemes: **no Belgian region pays a home-storage premium in 2026**. Flanders ended its own on 31 March 2023, Wallonia never created one, and neither did Brussels. The price grid per kilowatt-hour installed, and the declaration obligation that can break a pre-2024 compensation, are covered in ["Home battery: the price and the alternative"](/en/news/2026/09/22/home-battery-price-vs-energy-sharing/).
+And there is nothing to expect from support schemes: **no Belgian region pays a home-storage premium in 2026**. Flanders ended its own on 31 March 2023, Wallonia never created one, and neither did Brussels. The price grid per kilowatt-hour installed, and the declaration obligation that can break a pre-2024 compensation, are covered in ["Home battery: the price and the alternative"](/en/guides/home-battery-price-vs-energy-sharing/).
 
 Three situations nevertheless straighten out the calculation, and they need naming precisely.
 
 **Flanders and its capaciteitstarief.** At €53.39 per kW per year excluding VAT on the average of the last twelve monthly peaks, shaving a 2 kW peak earns more than €100 a year that exists nowhere else in Belgium. It is the only region where a battery has a second revenue stream.
 
-**The Walloon Impact tariff.** Charging the battery in the ECO band to discharge it in the PIC band creates an arbitrage on the distribution term. But caution: we noted in [“Which electricity tariff to choose in Belgium?”](/en/news/2026/08/03/choose-electricity-tariff-belgium/) that **99 % of households with solar panels paid more under a dynamic contract**, with a median increase of 20 %, precisely because their surplus arrives when prices collapse.
+**The Walloon Impact tariff.** Charging the battery in the ECO band to discharge it in the PIC band creates an arbitrage on the distribution term. But caution: we noted in [“Which electricity tariff to choose in Belgium?”](/en/guides/choose-electricity-tariff-belgium/) that **99 % of households with solar panels paid more under a dynamic contract**, with a median increase of 20 %, precisely because their surplus arrives when prices collapse.
 
 **The need for autonomy.** Wanting to keep the lights on during an outage is a legitimate need. It is simply not a profitability calculation, and it should be budgeted as such.
 
@@ -230,7 +230,7 @@ Two readings emerge, and they cut against what is usually written.
 
 **The battery is the most expensive per kilowatt-hour absorbed, by a wide margin.** It costs close to nine times the ratio of a controlled hot-water tank for a comparable service. That is not an argument against batteries, it is an argument about the order in which you spend.
 
-This ranking assumes somebody can trigger the loads. For a household away from 08:00 to 18:00, the binding constraint is no longer price but time: 85.8% of output lands during the absence, and scheduling hits a ceiling that can be computed. That is the subject of [“Solar panels: nobody home during the day”](/en/news/2026/09/12/solar-panels-away-during-the-day/).
+This ranking assumes somebody can trigger the loads. For a household away from 08:00 to 18:00, the binding constraint is no longer price but time: 85.8% of output lands during the absence, and scheduling hits a ceiling that can be computed. That is the subject of [“Solar panels: nobody home during the day”](/en/guides/solar-panels-away-during-the-day/).
 
 ## The right answer is a stack, not a choice
 
@@ -287,7 +287,7 @@ Almost never in full, and the constraint is not technical but a matter of timing
 
 ### My Walloon installation predates 2024: what should I do with my surplus?
 
-Most often, nothing — and it is the least published piece of advice. A Walloon installation commissioned before 1 January 2024 keeps annual compensation **until 31 December 2030**. Your surplus is therefore already valued at full retail price, up to the level of your annual consumption. Raising your self-consumption then earns you nothing extra if you are on the capacity-based prosumer tariff, because that tariff is computed on your inverter rating rather than on your actual flows. A gain only appears in two situations: if you are on the proportional prosumer tariff thanks to a smart meter, where cutting your offtake cuts the contribution, and if your installation is **oversized**, meaning you generate more than you consume over the year, because that excess is paid for nowhere. The full arbitrage is set out in [“Solar panels 2026: still worth it in Wallonia?”](/en/news/2026/08/11/solar-panels-worth-it-wallonia-2026/).
+Most often, nothing — and it is the least published piece of advice. A Walloon installation commissioned before 1 January 2024 keeps annual compensation **until 31 December 2030**. Your surplus is therefore already valued at full retail price, up to the level of your annual consumption. Raising your self-consumption then earns you nothing extra if you are on the capacity-based prosumer tariff, because that tariff is computed on your inverter rating rather than on your actual flows. A gain only appears in two situations: if you are on the proportional prosumer tariff thanks to a smart meter, where cutting your offtake cuts the contribution, and if your installation is **oversized**, meaning you generate more than you consume over the year, because that excess is paid for nowhere. The full arbitrage is set out in [“Solar panels 2026: still worth it in Wallonia?”](/en/guides/solar-panels-worth-it-wallonia/).
 
 ### Is energy sharing available where I live, to make more of my surplus?
 

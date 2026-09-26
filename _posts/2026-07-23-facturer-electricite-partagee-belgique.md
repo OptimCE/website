@@ -9,6 +9,7 @@ tags: [community, administrative, guide]
 lang: fr
 ref: invoice-shared-electricity
 pillar: prix-facturation-communaute
+permalink: /guides/facturer-electricite-partagee-belgique/
 last_modified_at: 2026-08-27 06:00:00 +0200
 faq:
   - q: "Qui doit émettre la facture pour l'énergie partagée ?"
@@ -27,7 +28,7 @@ faq:
 
 Une communauté d'énergie partage des kWh — mais elle produit aussi des factures. Et c'est là que la confusion commence : chaque trimestre, le membre d'un partage reçoit non pas une, mais **deux factures**. L'une de son fournisseur habituel, l'autre de la communauté. Personne ne lui a expliqué laquelle couvre quoi, ni pourquoi les frais de réseau apparaissent toujours sur la première alors qu'il consomme de l'électricité « locale ».
 
-Cet article met de l'ordre dans les rôles. Qui a le droit — et l'obligation — d'émettre la facture de l'énergie partagée ? Que doit-elle contenir ? Quelle TVA s'y applique, et comment accises et certificats verts s'y logent ? Si vous cherchez plutôt *quel prix* inscrire au kWh, notre guide [« Prix de cession interne en communauté d'énergie »](/actualites/2026/07/20/prix-electricite-communaute-energie/) y répond en détail ; et si la clé de répartition vous est encore étrangère, commencez par notre article de référence [« Clé de répartition en Belgique : les 3 régions »](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/). Ici, une seule question : **qui facture quoi ?**
+Cet article met de l'ordre dans les rôles. Qui a le droit — et l'obligation — d'émettre la facture de l'énergie partagée ? Que doit-elle contenir ? Quelle TVA s'y applique, et comment accises et certificats verts s'y logent ? Si vous cherchez plutôt *quel prix* inscrire au kWh, notre guide [« Prix de cession interne en communauté d'énergie »](/guides/prix-electricite-communaute-energie/) y répond en détail ; et si la clé de répartition vous est encore étrangère, commencez par notre article de référence [« Clé de répartition en Belgique : les 3 régions »](/guides/cle-repartition-communaute-energie-belgique/). Ici, une seule question : **qui facture quoi ?**
 
 <img src="/assets/images/diagrams/two-invoices-fr.svg"
      alt="Deux cartes côte à côte : la facture du fournisseur et la facture du représentant du partage, avec ce que chacune contient."
@@ -46,7 +47,7 @@ Deux factures cohabitent donc, et elles ne portent pas sur la même chose :
 | **Réseau** | les frais de réseau sur **la totalité** des kWh prélevés, partagés compris | — |
 | **Taxes & accises** | taxes et surcharges régionales sur l'énergie résiduelle | TVA, accises et OSP de restitution des quotas de certificats verts sur l'énergie partagée |
 
-La ligne la plus contre-intuitive est celle du réseau : **les frais de réseau restent dus sur les kWh partagés**, et c'est votre fournisseur qui les facture, parce que l'électricité partagée transite malgré tout par le réseau public. Le partage change *qui vous vend l'énergie*, pas *par où elle passe*. C'est aussi pourquoi l'économie réelle se lit toujours sur les deux documents réunis, jamais sur la seule facture de partage — un mécanisme que détaille notre article sur [la réduction de la facture d'électricité grâce au partage](/actualites/2026/06/03/communaute-energie-reduire-facture-electricite/).
+La ligne la plus contre-intuitive est celle du réseau : **les frais de réseau restent dus sur les kWh partagés**, et c'est votre fournisseur qui les facture, parce que l'électricité partagée transite malgré tout par le réseau public. Le partage change *qui vous vend l'énergie*, pas *par où elle passe*. C'est aussi pourquoi l'économie réelle se lit toujours sur les deux documents réunis, jamais sur la seule facture de partage — un mécanisme que détaille notre article sur [la réduction de la facture d'électricité grâce au partage](/guides/communaute-energie-reduire-facture-electricite/).
 
 ## Le représentant du partage, émetteur de la facture de partage
 
@@ -54,11 +55,11 @@ Dans un partage d'énergie, un acteur porte la responsabilité de la facturation
 
 Le point qui surprend le plus les porteurs de projet : **le gestionnaire de réseau ne facture pas.** Il calcule le partage quart d'heure par quart d'heure, applique la clé de répartition choisie, puis transmet les volumes aux intervenants « pour permettre la facturation ». La facture, elle, s'établit ensuite « sur base des données de consommation reçues du gestionnaire de réseau en tenant compte de la clé de répartition choisie » ([CWaPE](https://www.cwape.be/node/6059)). Autrement dit : le réseau fournit la matière chiffrée, le représentant la transforme en documents.
 
-Cette répartition des rôles a une conséquence directe : **c'est le représentant qui porte les obligations** — émettre des factures en règle, appliquer la bonne TVA, tenir une comptabilité. Dans une copropriété ou un immeuble, ce rôle échoit le plus souvent au **syndic**, qui devient de fait l'émetteur des factures de partage pour l'ensemble des occupants. Nous rappelions déjà, dans notre [guide de création d'une communauté d'énergie en Wallonie](/actualites/2026/05/11/creer-communaute-energie-wallonie/), que c'est en phase d'exploitation que cette charge devient concrète.
+Cette répartition des rôles a une conséquence directe : **c'est le représentant qui porte les obligations** — émettre des factures en règle, appliquer la bonne TVA, tenir une comptabilité. Dans une copropriété ou un immeuble, ce rôle échoit le plus souvent au **syndic**, qui devient de fait l'émetteur des factures de partage pour l'ensemble des occupants. Nous rappelions déjà, dans notre [guide de création d'une communauté d'énergie en Wallonie](/guides/creer-communaute-energie-wallonie/), que c'est en phase d'exploitation que cette charge devient concrète.
 
 ## Ce que contient la facture de partage
 
-La facture du représentant est plus étroite que celle d'un fournisseur classique : elle ne porte que sur l'**énergie partagée**, valorisée au prix interne de la communauté — et non sur l'ensemble de votre consommation. Reste à savoir quel montant inscrire au kWh : c'est tout l'objet de notre guide [sur le prix de cession interne](/actualites/2026/07/20/prix-electricite-communaute-energie/), qui balise la fourchette défendable et cinq méthodes de calcul.
+La facture du représentant est plus étroite que celle d'un fournisseur classique : elle ne porte que sur l'**énergie partagée**, valorisée au prix interne de la communauté — et non sur l'ensemble de votre consommation. Reste à savoir quel montant inscrire au kWh : c'est tout l'objet de notre guide [sur le prix de cession interne](/guides/prix-electricite-communaute-energie/), qui balise la fourchette défendable et cinq méthodes de calcul.
 
 À ce prix de l'énergie s'ajoutent, sur cette même facture, « la TVA, les accises et l'obligation de service public de restitution des quotas de certificats verts » ([CWaPE](https://www.cwape.be/node/6063)). Ce qui **n'y figure pas**, en revanche, ce sont les frais de réseau : ils restent sur la facture du fournisseur, calculés sur la totalité des kWh prélevés. Une facture de partage bien faite le mentionne d'ailleurs explicitement — elle porte sur l'énergie partagée, hors frais de réseau.
 
@@ -135,7 +136,7 @@ La facturation d'un partage d'énergie n'est pas un mystère juridique : c'est u
 
 Le reste est une question d'exécution : trancher le régime de TVA avec un comptable, écrire une convention nette, et émettre chaque trimestre des documents en règle — à la main tant que c'est tenable, avec un outil dès que ça ne l'est plus.
 
-Côté ménage, la facture que vous continuez de recevoir de votre fournisseur se lit elle aussi ligne par ligne : nous la décortiquons dans [« Lire sa facture d'électricité ligne par ligne »](/actualites/2026/07/30/comprendre-facture-electricite-ligne-par-ligne/).
+Côté ménage, la facture que vous continuez de recevoir de votre fournisseur se lit elle aussi ligne par ligne : nous la décortiquons dans [« Lire sa facture d'électricité ligne par ligne »](/guides/comprendre-facture-electricite-ligne-par-ligne/).
 
 > ### Facturez votre communauté d'énergie avec OptimCE
 >

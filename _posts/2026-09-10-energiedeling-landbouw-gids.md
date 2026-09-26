@@ -32,7 +32,7 @@ Hier zit de anomalie. Onder de **dertien bij de CWaPE gemelde energiegemeenschap
 
 Dat is geen onverschilligheid, en het is geen informatieprobleem. Het is een tegenstrijdigheid die in de teksten staat: **twee besluiten van de Waalse Regering, met drie weken tussentijd genomen op 23 februari en 17 maart 2023, duwen precies de tegenovergestelde kant op.**
 
-Dit artikel doet niet over wat elders op deze site al geschreven staat: het verschil tussen de drie Belgische statuten wordt behandeld in [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/), de oprichtingsprocedure in [“Energiegemeenschap oprichten in Wallonië”](/nl/nieuws/2026/05/11/energiegemeenschap-oprichten-wallonie/), het samenstellen van een groep op basis van verbruiksprofiel in [“Stroom in de korte keten: de handleiding”](/nl/nieuws/2026/08/25/elektriciteit-korte-keten-handleiding/), de rendementsberekening van een huisinstallatie in [“Zonnepanelen 2026: nog rendabel in Wallonië?”](/nl/nieuws/2026/08/11/zonnepanelen-rendabel-wallonie-2026/), de rangschikking van de afzetmogelijkheden voor het overschot in [“Zonne-overschot: de 5 opties vergeleken”](/nl/nieuws/2026/08/18/wat-doen-met-je-zonne-overschot-belgie/), en het bepalen van de interne prijs in [“Interne overdrachtsprijs in een gemeenschap”](/nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/).
+Dit artikel doet niet over wat elders op deze site al geschreven staat: het verschil tussen de drie Belgische statuten wordt behandeld in [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/gidsen/energiegemeenschappen-belgie/), de oprichtingsprocedure in [“Energiegemeenschap oprichten in Wallonië”](/nl/gidsen/energiegemeenschap-oprichten-wallonie/), het samenstellen van een groep op basis van verbruiksprofiel in [“Stroom in de korte keten: de handleiding”](/nl/gidsen/elektriciteit-korte-keten-handleiding/), de rendementsberekening van een huisinstallatie in [“Zonnepanelen 2026: nog rendabel in Wallonië?”](/nl/gidsen/zonnepanelen-rendabel-wallonie/), de rangschikking van de afzetmogelijkheden voor het overschot in [“Zonne-overschot: de 5 opties vergeleken”](/nl/gidsen/wat-doen-met-je-zonne-overschot-belgie/), en het bepalen van de interne prijs in [“Interne overdrachtsprijs in een gemeenschap”](/nl/gidsen/prijs-elektriciteit-energiegemeenschap/).
 
 Het beantwoordt een vraag die die artikels niet stellen: **waarom behoort het best gelegen dak van landelijk Wallonië toe aan wie het minst nodig heeft wat het produceert, en wat moet er in welke volgorde gebeuren opdat dat overschot meer waard zou zijn dan het injectietarief?**
 
@@ -142,13 +142,13 @@ Twee regels verdienen commentaar.
 
 **Het pompstation is de meest onderschatte partner van landelijk Wallonië.** Het verbruikt overdag, het hele jaar door, met een last die grotendeels in de tijd verschuifbaar is — een reservoir om 13 uur vullen in plaats van om 3 uur kost niemand iets. En het wordt vrijwel altijd beheerd door de gemeente of een intercommunale, wat de governance vereenvoudigt. [“Energiegemeenschap: de gids voor gemeenten”](/nl/nieuws/2026/08/30/energiegemeenschap-gemeenten-gids/) behandelt het standpunt van de eigenaar-gemeente.
 
-De algemene methode — een groep samenstellen door verbruiksprofielen over elkaar te leggen in plaats van door geografische nabijheid — wordt uitgewerkt in [“Stroom in de korte keten: de handleiding”](/nl/nieuws/2026/08/25/elektriciteit-korte-keten-handleiding/). Ze geldt hier zoals elders, met één nuance: het landbouwdak is de enige landelijke producent die groot genoeg is om meerdere profielen tegelijk te bevoorraden.
+De algemene methode — een groep samenstellen door verbruiksprofielen over elkaar te leggen in plaats van door geografische nabijheid — wordt uitgewerkt in [“Stroom in de korte keten: de handleiding”](/nl/gidsen/elektriciteit-korte-keten-handleiding/). Ze geldt hier zoals elders, met één nuance: het landbouwdak is de enige landelijke producent die groot genoeg is om meerdere profielen tegelijk te bevoorraden.
 
 ### De sleutel die past
 
 Een vaste sleutel kent elke deelnemer een constant percentage van de productie toe, ongeacht wat hij werkelijk verbruikt. Bij een producent van wie het overschot met een factor tien schommelt tussen een dinsdag in januari en een zondag in juli, stuurt ze kilowattuur naar meters die er geen willen, en die volumes vallen terug op de injectie.
 
-De juiste reflex is een **dynamische verdeelsleutel** op basis van de verbruiksverhouding, die elk kwartier verdeelt naar rato van wat elke deelnemer op dat ogenblik verbruikt. De sleutelfamilies die de CWaPE erkent en hun tegenhangers in de twee andere gewesten staan in [“Verdeelsleutel in België: de 3 regio's”](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/).
+De juiste reflex is een **dynamische verdeelsleutel** op basis van de verbruiksverhouding, die elk kwartier verdeelt naar rato van wat elke deelnemer op dat ogenblik verbruikt. De sleutelfamilies die de CWaPE erkent en hun tegenhangers in de twee andere gewesten staan in [“Verdeelsleutel in België: de 3 regio's”](/nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/).
 
 ## Wat uw bedrijfstak verandert — het profiel, niet de oppervlakte
 
@@ -165,7 +165,7 @@ De oppervlakte van een loods volgt de **opslagbehoefte** van het bedrijf, nooit 
 
 De tabel leest eenvoudig. Een varkens- of pluimveebedrijf heeft er alle belang bij eerst zijn zelfverbruik te maximaliseren, want zomerventilatie is de beste zonneverbruiker die er in de landbouw bestaat. Een akkerbouwer zit in de omgekeerde situatie: zijn verbruikspiek duurt enkele weken in de zomer en met zijn productie kan hij de rest van het jaar bijna niets aanvangen. En een kale opslagloods is een perfect grensgeval — geen eigen verbruik, dus geen zelfverbruiksgrondslag, dus **helemaal geen landbouwsteun** voor zijn zonnepanelen.
 
-Zelfverbruik, het zelfverbruikspercentage en collectief zelfverbruik worden uiteengezet in [“Zelfverbruik van energie in België”](/nl/nieuws/2026/06/05/zelfverbruik-energie-belgie/).
+Zelfverbruik, het zelfverbruikspercentage en collectief zelfverbruik worden uiteengezet in [“Zelfverbruik van energie in België”](/nl/gidsen/zelfverbruik-energie-belgie/).
 
 ## U kunt geen zaken doen met de buur van hiertegenover
 
@@ -193,7 +193,7 @@ Artikel 24 biedt twee alternatieve criteria, en aan één voldoen volstaat:
 
 Het tweede criterium wordt vaak vergeten en is kostbaar op het platteland, waar gemeentegrenzen zelden vallen waar de kabels lopen. Een hoeve aan de rand van een gemeente deelt haar cabine vaak met het naburige gehucht, dat onder een andere gemeente valt. Vraag de netbeheerder welke cabine uw aansluiting voedt: het antwoord verruimt de kring van mogelijke partners soms aanzienlijk.
 
-De voor te leggen documenten en de bijbehorende termijnen staan in [“Energiegemeenschap: CWaPE-documenten en termijnen”](/nl/nieuws/2026/08/12/energiegemeenschap-administratieve-documenten-wallonie/).
+De voor te leggen documenten en de bijbehorende termijnen staan in [“Energiegemeenschap: CWaPE-documenten en termijnen”](/nl/gidsen/energiegemeenschap-administratieve-documenten-wallonie/).
 
 ## Het net kan nee zeggen, ook als het recht ja zegt
 

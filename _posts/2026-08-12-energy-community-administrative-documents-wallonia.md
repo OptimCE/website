@@ -9,7 +9,7 @@ tags: [administrative, app, guide]
 lang: en
 ref: cwape-administrative-documents
 pillar: communautes-energie
-permalink: /en/news/2026/08/12/energy-community-administrative-documents-wallonia/
+permalink: /en/guides/energy-community-administrative-documents-wallonia/
 faq:
   - q: "Which documents are needed to create an energy community in Wallonia?"
     a: "There are three distinct bundles. To constitute the community, a notification to the CWaPE, together with the annex listing participants and production installations and, if the community is a company or an association, the annex covering legal entities. To make sharing work, an electricity sharing form filed with the distribution system operator, its participant annex, and a sworn declaration signed by every person taking part in the sharing. Finally, a model agreement between the grid operator and the representative, in either its energy community version or its same-building version. The CWaPE also publishes an explanatory guide for each of the two main forms, and it is worth reading before filling in anything."
@@ -33,7 +33,7 @@ The scale of the obstacle is measurable. The CWaPE assessment reported in March 
 
 One thing changed recently, and it went largely unnoticed: **since 25 June 2026**, the notification of the creation of an energy community, its modifications and the filing of its annual report are carried out through digitalised forms hosted on **monespace.wallonie.be**. Three procedures on the Region's single portal, with everything else — everything touching sharing itself — remaining files to download. The border between the two worlds is not intuitive, and it is currently the main source of confusion.
 
-This article does not re-explain what an energy community is, nor what distinguishes a CER from a CEC: that is covered in [“Energy communities in Belgium: CER, CEC, CEL”](/en/news/2026/05/11/energy-communities-belgium/). Nor does it retrace the path to constitution, covered in [“Creating an energy community in Wallonia”](/en/news/2026/05/11/create-energy-community-wallonia/). It answers three precise questions: **which documents a Walloon energy community must produce, by when, and what can now be prepared, dated and archived automatically.**
+This article does not re-explain what an energy community is, nor what distinguishes a CER from a CEC: that is covered in [“Energy communities in Belgium: CER, CEC, CEL”](/en/guides/energy-communities-belgium/). Nor does it retrace the path to constitution, covered in [“Creating an energy community in Wallonia”](/en/guides/create-energy-community-wallonia/). It answers three precise questions: **which documents a Walloon energy community must produce, by when, and what can now be prepared, dated and archived automatically.**
 
 <img src="/assets/images/diagrams/administrative-dossier-en.svg"
      alt="Diagram of the life cycle of an energy community's administrative dossier in Wallonia: a notification filed with the CWaPE opens a ten-working-day window during which the regulator checks whether the dossier is complete; a complete dossier receives an acknowledgment that counts as proof of notification, while an incomplete dossier must be completed within a maximum of six months from the first acknowledgment, failing which the notification lapses. Two recurring obligations then apply to the constituted community: any change to the conditions of constitution must be notified within fifteen working days, and the annual report must be filed every year by 1 September at the latest."
@@ -247,11 +247,11 @@ Look first at today's date against **1 September**. If the annual report has not
 
 ### I am setting up a community
 
-The critical point is the six-month clock, and it starts at the first acknowledgment. Assemble the annexes before filing rather than after: the list of participants and installations is what takes longest, because it depends on third parties. The CWaPE's explanatory guides are worth the half hour they cost. The full path is described in [“Creating an energy community in Wallonia”](/en/news/2026/05/11/create-energy-community-wallonia/).
+The critical point is the six-month clock, and it starts at the first acknowledgment. Assemble the annexes before filing rather than after: the list of participants and installations is what takes longest, because it depends on third parties. The CWaPE's explanatory guides are worth the half hour they cost. The full path is described in [“Creating an energy community in Wallonia”](/en/guides/create-energy-community-wallonia/).
 
 ### I want to join a community
 
-You will sign a sworn declaration, and your delivery points will appear in an annex transmitted to the regulator. The eligibility conditions and the points to check before signing are detailed in [“Joining an energy community in Wallonia”](/en/news/2026/05/11/join-energy-community-wallonia/).
+You will sign a sworn declaration, and your delivery points will appear in an annex transmitted to the regulator. The eligibility conditions and the points to check before signing are detailed in [“Joining an energy community in Wallonia”](/en/guides/join-energy-community-wallonia/).
 
 ### I already manage all this in spreadsheets
 

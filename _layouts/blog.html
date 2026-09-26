@@ -3,8 +3,28 @@ layout: default
 ---
 {% assign lang = page.lang | default: site.lang %}
 {% assign t = site.data.i18n[lang] %}
-{% assign posts = site.posts | where: "lang", lang %}
-{% assign tag_slugs = "app,administrative,allocation-key,community,announcement,news,guide" | split: "," %}
+{% assign current_lang = site.languages | where: "code", lang | first %}
+{%- comment -%}
+  News only: guides and solutions have their own sections. page.hub_items is
+  resolved by _plugins/site_graph.rb (newest first).
+
+  The old tag filter lived in the query string (?tag=...), which search
+  engines never indexed. Its topics are now pillar pages; data-tag-redirects
+  maps each legacy tag to its new home, and assets/js/main.js redirects old
+  ?tag= links there. Tags missing from the map simply show the listing.
+{%- endcomment -%}
+{%- capture tag_redirects -%}{
+  {%- assign sep = "" -%}
+  {%- for pillar in site.data.pillars -%}
+    {%- assign pillar_ref = 'pillar-' | append: pillar.key -%}
+    {%- assign pillar_url = site.data.translations[pillar_ref][lang] -%}
+    {%- for tag in pillar.tags -%}
+      {%- if pillar_url -%}{{ sep }}{{ tag | jsonify }}:{{ pillar_url | relative_url | jsonify }}{%- assign sep = "," -%}{%- endif -%}
+    {%- endfor -%}
+  {%- endfor -%}
+  {{ sep }}"guide":{{ current_lang.guides_path | relative_url | jsonify }}
+  {%- if site.data.translations.features -%},"app":{{ current_lang.features_path | relative_url | jsonify }}{%- endif -%}
+}{%- endcapture -%}
 <section class="section">
   <div class="container">
     <div class="section__header">
@@ -12,17 +32,7 @@ layout: default
       <p class="section__subtitle">{{ t.blog.subtitle }}</p>
       {{ content }}
     </div>
-    <div class="blog-toolbar" data-blog-toolbar>
-      <div class="blog-toolbar__group">
-        <span class="blog-toolbar__label">{{ t.blog.filter_label }}</span>
-        <div class="blog-toolbar__pills" role="group" aria-label="{{ t.blog.filter_label }}">
-          <button type="button" class="blog-toolbar__pill blog-toolbar__pill--active" data-tag="" aria-pressed="true">{{ t.blog.all_tags }}</button>
-          {% for slug in tag_slugs %}
-            {% assign label = t.blog.tags[slug] | default: slug %}
-            <button type="button" class="blog-toolbar__pill" data-tag="{{ slug }}" aria-pressed="false">{{ label }}</button>
-          {% endfor %}
-        </div>
-      </div>
+    <div class="blog-toolbar" data-blog-toolbar data-tag-redirects="{{ tag_redirects | strip_newlines | escape }}">
       <div class="blog-toolbar__group blog-toolbar__group--sort">
         <label class="blog-toolbar__label" for="blog-sort">{{ t.blog.sort_label }}</label>
         <select id="blog-sort" class="blog-toolbar__sort" data-blog-sort>
@@ -32,9 +42,8 @@ layout: default
         </select>
       </div>
     </div>
-    <p class="blog-toolbar__empty" data-blog-empty hidden>{{ t.blog.no_results }}</p>
     <div class="grid grid--3col" data-blog-grid>
-      {% for post in posts %}
+      {% for post in page.hub_items %}
         {%- comment -%}
           heading_level=2: this page's H1 is the section title above, so the cards
           are the first subsection. On the homepage the same include sits under an

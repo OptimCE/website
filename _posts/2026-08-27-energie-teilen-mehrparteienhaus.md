@@ -31,7 +31,7 @@ Jedes dieser Gebäude besitzt ein gemeinschaftliches Dach, einen Zähler der Gem
 
 Tatsächlich zählte die CWaPE in ihrem Evaluierungsbericht vom 20. Februar 2025 nur **vier Teilungsaktivitäten innerhalb desselben Gebäudes** im gesamten wallonischen Gebiet. Vier.
 
-Dieser Artikel erklärt nicht erneut, was eine Energiegemeinschaft ist oder was eine CER von einer CEC oder einer CEL unterscheidet — das leistet [„Energiegemeinschaften in Belgien: CER, CEC, CEL“](/de/aktuelles/2026/05/11/energiegemeinschaften-belgien/). Er definiert weder den kollektiven Eigenverbrauch neu, dargelegt in [„Kollektiver Eigenverbrauch in Belgien“](/de/aktuelles/2026/06/05/eigenverbrauch-energie-belgien/), noch die Verteilungsmethoden, Region für Region verglichen in [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/). Er wiederholt weder die Mechanik der zwei Rechnungen, der Pflichtangaben und der Mehrwertsteuersätze, ausgeführt in [„Geteilten Strom in Belgien abrechnen“](/de/aktuelles/2026/07/23/geteilten-strom-abrechnen-belgien/), noch die Tabelle der vier Brüsseler Tarifperimeter und der wallonischen Ermäßigung von 80 %, erstellt in [„Strom sparen ohne Anbieterwechsel“](/de/aktuelles/2026/08/05/strom-sparen-ohne-anbieterwechsel/).
+Dieser Artikel erklärt nicht erneut, was eine Energiegemeinschaft ist oder was eine CER von einer CEC oder einer CEL unterscheidet — das leistet [„Energiegemeinschaften in Belgien: CER, CEC, CEL“](/de/ratgeber/energiegemeinschaften-belgien/). Er definiert weder den kollektiven Eigenverbrauch neu, dargelegt in [„Kollektiver Eigenverbrauch in Belgien“](/de/ratgeber/eigenverbrauch-energie-belgien/), noch die Verteilungsmethoden, Region für Region verglichen in [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/ratgeber/verteilungsschluessel-energiegemeinschaft-belgien/). Er wiederholt weder die Mechanik der zwei Rechnungen, der Pflichtangaben und der Mehrwertsteuersätze, ausgeführt in [„Geteilten Strom in Belgien abrechnen“](/de/ratgeber/geteilten-strom-abrechnen-belgien/), noch die Tabelle der vier Brüsseler Tarifperimeter und der wallonischen Ermäßigung von 80 %, erstellt in [„Strom sparen ohne Anbieterwechsel“](/de/ratgeber/strom-sparen-ohne-anbieterwechsel/).
 
 Er beantwortet eine Frage, die diese Artikel nicht stellen: **In einem Mehrparteienhaus blockiert nicht das Energierecht — sondern das Wohnungseigentumsrecht.**
 
@@ -50,7 +50,7 @@ Beim Teilen von Strom laufen die Kilowattstunden stets über das öffentliche Ne
 
 In Brüssel ordnet der Beschluss Brugel 285bis vom 4. November 2024, anwendbar vom 1. Januar 2025 bis zum 31. Dezember 2029, das Teilen innerhalb desselben Gebäudes dem günstigsten Perimeter des Rasters zu: Auf den geteilten Mengen fallen die Weiterberechnung des Transports, der Fixterm, der proportionale Term und der Term für entnommene Leistung sämtlich auf null. In Wallonien wendet das ORES-Raster 2026 **eine Ermäßigung von 80 % auf den proportionalen Term** für innerhalb desselben Gebäudes geteilte Energie an, ausgewiesen unter den Globalisierungscodes E216 in der Verteilung und E526 im Transport. Keine Ermäßigung auf den Reststrom, und überhaupt keine Ermäßigung für das Teilen innerhalb einer Energiegemeinschaft.
 
-Die vollständige Tabelle der vier Brüsseler Perimeter steht in [„Strom sparen ohne Anbieterwechsel“](/de/aktuelles/2026/08/05/strom-sparen-ohne-anbieterwechsel/); sie muss hier nicht wiederholt werden. Ergänzenswert ist hingegen, was das Gebäude über den Tarif hinaus beisteuert.
+Die vollständige Tabelle der vier Brüsseler Perimeter steht in [„Strom sparen ohne Anbieterwechsel“](/de/ratgeber/strom-sparen-ohne-anbieterwechsel/); sie muss hier nicht wiederholt werden. Ergänzenswert ist hingegen, was das Gebäude über den Tarif hinaus beisteuert.
 
 ### Der Zähler der Gemeinschaftsteile ist ein Tagesabnehmer, und das ist selten
 
@@ -64,7 +64,7 @@ Sibelga formuliert es treffend, wenn es beschreibt, wer im Fall eines Gebäudes 
 
 Der andere Vorteil liegt in der sozialen Zusammensetzung des Hauses. Ein Gebäude mit fünfzehn Wohnungen beherbergt typischerweise ein oder zwei Rentner, einen Telearbeiter, einen Selbstständigen, eine Familie mit kleinen Kindern, mehrere tagsüber abwesende Berufstätige und eine leerstehende Wohnung zwischen zwei Mietverhältnissen. Diese Heterogenität — erlitten, nicht gewählt — erzeugt eine aggregierte Kurve, die deutlich flacher ist als die einer Siedlung mit einheitlichem sozio-professionellem Profil.
 
-Das ist der Hauptgrund, weshalb ein Gebäude bei gleicher installierter Leistung besser absorbiert als ein Einfamilienhausviertel. Die Logik, eine Teilungsgruppe nach Zeitprofil statt nach Sympathie zusammenzustellen, wird in [„Strom auf kurzem Weg: Anleitung für Wallonien“](/de/aktuelles/2026/08/25/strom-kurze-wege-anleitung/) entwickelt; in einem Gebäude ist diese Zusammenstellung weitgehend bereits erfolgt.
+Das ist der Hauptgrund, weshalb ein Gebäude bei gleicher installierter Leistung besser absorbiert als ein Einfamilienhausviertel. Die Logik, eine Teilungsgruppe nach Zeitprofil statt nach Sympathie zusammenzustellen, wird in [„Strom auf kurzem Weg: Anleitung für Wallonien“](/de/ratgeber/strom-kurze-wege-anleitung/) entwickelt; in einem Gebäude ist diese Zusammenstellung weitgehend bereits erfolgt.
 
 ## Was das Energierecht von einer Eigentümergemeinschaft verlangt: sehr wenig
 
@@ -211,7 +211,7 @@ Derselbe Artikel verlangt, dass das Verhältnis zwischen Verwalter und Vereinigu
 
 Eine Teilungsaktivität zu führen ist jedoch keine symbolische Aufgabe. Der Betreiber der Teilung muss jedem Teilnehmer den geteilten Strom in Rechnung stellen, die Aktivität melden, jede Änderung anzeigen — Eintritt, Austritt, Wechsel der Verteilungsmethode — und die zugehörigen Netzentgelte einziehen, um sie an den Netzbetreiber weiterzuleiten. In Brüssel übermittelt Sibelga monatlich die nötigen Datendateien; jemand muss sie verarbeiten.
 
-Eine Versammlung, die die Anlage beschließt, ohne die Vergütung dieser Verwaltung zu beschließen, beschließt praktisch ein Projekt, das nie startet. Der Punkt muss ausdrücklich auf der Tagesordnung stehen, als bezifferte Zusatzleistung. Die entsprechende Dokumentenlast auf wallonischer Seite wird in [„Energiegemeinschaft: CWaPE-Dokumente und Fristen“](/de/aktuelles/2026/08/12/energiegemeinschaft-verwaltungsdokumente-wallonien/) ausgeführt.
+Eine Versammlung, die die Anlage beschließt, ohne die Vergütung dieser Verwaltung zu beschließen, beschließt praktisch ein Projekt, das nie startet. Der Punkt muss ausdrücklich auf der Tagesordnung stehen, als bezifferte Zusatzleistung. Die entsprechende Dokumentenlast auf wallonischer Seite wird in [„Energiegemeinschaft: CWaPE-Dokumente und Fristen“](/de/ratgeber/energiegemeinschaft-verwaltungsdokumente-wallonien/) ausgeführt.
 
 ### Die Übergabeliste, zu erstellen, bevor man sie braucht
 
@@ -243,13 +243,13 @@ Das ist das Argument für die Versammlung, und man beziffert es besser, als man 
 
 Ein Mietshaus wechselt ständig seine Bewohner. Jeder Auszug ist ein dem Netzbetreiber zu meldender Austritt, jeder Einzug ein anzubietender Beitritt. Daraus folgen drei Entwurfsprinzipien:
 
-- **Den Preis in der Versammlung beschließen, nicht Wohnung für Wohnung verhandeln.** Ein einziger, jährlich überprüfbarer Preis überlebt die Fluktuation; ein Mosaik individueller Preise überlebt den zweiten Umzug nicht. Die vertretbaren Methoden werden in [„Interner Verrechnungspreis für geteilten Strom“](/de/aktuelles/2026/07/20/strompreis-energiegemeinschaft/) verglichen.
-- **Einen Schlüssel wählen, der Ein- und Austritte auffängt.** Ein Schlüssel in festen Prozentsätzen muss bei jeder Bewegung neu gemeldet werden; ein verbrauchsproportionaler Schlüssel justiert sich selbst. Die Wahl zwischen beiden Logiken behandelt [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/).
+- **Den Preis in der Versammlung beschließen, nicht Wohnung für Wohnung verhandeln.** Ein einziger, jährlich überprüfbarer Preis überlebt die Fluktuation; ein Mosaik individueller Preise überlebt den zweiten Umzug nicht. Die vertretbaren Methoden werden in [„Interner Verrechnungspreis für geteilten Strom“](/de/ratgeber/strompreis-energiegemeinschaft/) verglichen.
+- **Einen Schlüssel wählen, der Ein- und Austritte auffängt.** Ein Schlüssel in festen Prozentsätzen muss bei jeder Bewegung neu gemeldet werden; ein verbrauchsproportionaler Schlüssel justiert sich selbst. Die Wahl zwischen beiden Logiken behandelt [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/ratgeber/verteilungsschluessel-energiegemeinschaft-belgien/).
 - **Beim Mietvertrag informieren.** Das Bestehen der Teilung, der geltende Preis und das Beitrittsverfahren gehören in die Unterlagen für den neuen Bewohner, ebenso wie die Hausordnung. Das ist der einzige Moment, in dem die Information einen einziehenden Mieter wirklich erreicht.
 
-Der Governance-Teil — Teilnehmer informieren, Abstimmungen organisieren, das Nachrichtenboard pflegen — wird in [„Mitglieder einer Energiegemeinschaft einbinden“](/de/aktuelles/2026/06/24/energiegemeinschaft-mitglieder-einbinden/) entwickelt.
+Der Governance-Teil — Teilnehmer informieren, Abstimmungen organisieren, das Nachrichtenboard pflegen — wird in [„Mitglieder einer Energiegemeinschaft einbinden“](/de/ratgeber/energiegemeinschaft-mitglieder-einbinden/) entwickelt.
 
-Dieser Abschnitt ist aus Sicht des Verwalters und der Versammlung geschrieben. Dasselbe Problem aus Sicht der Wohnung — was ein Mieter allein entscheiden kann und was ihm die Laufzeit seines Mietvertrags erlaubt — behandelt [„Mieter: Solarstrom ohne eigenes Dach“](/de/aktuelles/2026/09/16/solar-mieter-ohne-dach-leitfaden/).
+Dieser Abschnitt ist aus Sicht des Verwalters und der Versammlung geschrieben. Dasselbe Problem aus Sicht der Wohnung — was ein Mieter allein entscheiden kann und was ihm die Laufzeit seines Mietvertrags erlaubt — behandelt [„Mieter: Solarstrom ohne eigenes Dach“](/de/ratgeber/solar-mieter-ohne-dach-leitfaden/).
 
 ## Was das in Zahlen bedeutet, und die zwei steuerlichen Fallen
 
@@ -264,7 +264,7 @@ Nicht diese Leistung bestimmt den Gewinn, sondern der Anteil der Erzeugung, der 
 3. **Warmwasserbereiter und Wärmepumpen** — per Zeitschaltuhr oder vernetztem Thermostat verschiebbar, ohne Zutun der Bewohner;
 4. **Die Wohnungen** — der Rest, ungesteuert.
 
-Was eine Kilowattstunde Überschuss je nach Verwendung wert ist, wird in [„Solarüberschuss: die 5 Optionen im Vergleich“](/de/aktuelles/2026/08/18/solarer-ueberschuss-was-tun-belgien/) beziffert, die Gesamtwirtschaftlichkeit einer Anlage in [„Solaranlage 2026: lohnt sie sich in Wallonien?“](/de/aktuelles/2026/08/11/solaranlage-rentabel-wallonien-2026/).
+Was eine Kilowattstunde Überschuss je nach Verwendung wert ist, wird in [„Solarüberschuss: die 5 Optionen im Vergleich“](/de/ratgeber/solarer-ueberschuss-was-tun-belgien/) beziffert, die Gesamtwirtschaftlichkeit einer Anlage in [„Solaranlage 2026: lohnt sie sich in Wallonien?“](/de/ratgeber/solaranlage-rentabel-wallonien/).
 
 ### Falle Nr. 1: die 10 kVA der Mehrwertsteuer
 
@@ -274,7 +274,7 @@ Ein Privathaushalt, der den Überschuss seiner sechs Module teilt, liegt damit a
 
 Die Nuance, die Budgets rettet: Steuerpflicht bedeutet nicht automatisch, Mehrwertsteuer in Rechnung zu stellen. Es bleibt möglich, die Befreiungsregelung zu wählen, solange der Jahresumsatz unter 25 000 € bleibt, was auf die überwiegende Mehrheit der Teilungen im Gebäude zutrifft. Doch es muss dennoch **eine Mehrwertsteuernummer eröffnet und Listings eingereicht werden**, was unabhängig von der gewählten Konstruktion laufende Buchhaltungskosten hinzufügt. Es ist der Posten, der in den Budgets der Eigentümerversammlung am systematischsten vergessen wird.
 
-Die anwendbaren Sätze und die Pflichtangaben der Teilungsrechnung behandelt [„Geteilten Strom in Belgien abrechnen“](/de/aktuelles/2026/07/23/geteilten-strom-abrechnen-belgien/).
+Die anwendbaren Sätze und die Pflichtangaben der Teilungsrechnung behandelt [„Geteilten Strom in Belgien abrechnen“](/de/ratgeber/geteilten-strom-abrechnen-belgien/).
 
 ### Falle Nr. 2: Die Grünstromzertifikate wechseln am 1. April 2026 die Größenordnung
 

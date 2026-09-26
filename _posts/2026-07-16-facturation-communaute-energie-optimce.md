@@ -28,7 +28,7 @@ Une communauté d'énergie qui fonctionne produit deux choses : des kWh partagé
 
 Le principe est simple : vous fixez vos prix, vous choisissez une période, et OptimCE **génère les factures de tous les membres** à partir des données de répartition déjà présentes dans la plateforme — avec PDF, numérotation légale, communication structurée et suivi des paiements.
 
-Si la mécanique de la répartition est encore floue pour vous, commencez par notre article de référence [« Clé de répartition en Belgique : les 3 régions »](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/) — la facturation en est la suite directe.
+Si la mécanique de la répartition est encore floue pour vous, commencez par notre article de référence [« Clé de répartition en Belgique : les 3 régions »](/guides/cle-repartition-communaute-energie-belgique/) — la facturation en est la suite directe.
 
 ## Pourquoi la facturation interne est le maillon critique
 
@@ -38,18 +38,18 @@ Concrètement, cette charge retombe sur le gestionnaire de la communauté. Pour 
 
 - **reprendre les volumes exacts** par point de raccordement (EAN) ;
 - **appliquer le bon prix** à chaque profil, sans erreur de calcul ni d'arrondi ;
-- **produire un document en règle** : [TVA, mentions obligatoires](/actualites/2026/07/23/facturer-electricite-partagee-belgique/), numérotation continue ;
+- **produire un document en règle** : [TVA, mentions obligatoires](/guides/facturer-electricite-partagee-belgique/), numérotation continue ;
 - **joindre une communication de paiement** et réconcilier les virements reçus ;
 - **répondre aux questions** des membres sur leur décompte.
 
-À dix membres, c'est fastidieux ; à cinquante, intenable. Et l'enjeu dépasse l'administratif : une facturation claire et régulière est la première condition de la **confiance des membres** — c'est elle qui rend visible, noir sur blanc, l'avantage économique du partage. Nous l'écrivions déjà dans notre [guide de création d'une communauté d'énergie en Wallonie](/actualites/2026/05/11/creer-communaute-energie-wallonie/) : c'est en phase d'exploitation qu'un outil de gestion devient indispensable.
+À dix membres, c'est fastidieux ; à cinquante, intenable. Et l'enjeu dépasse l'administratif : une facturation claire et régulière est la première condition de la **confiance des membres** — c'est elle qui rend visible, noir sur blanc, l'avantage économique du partage. Nous l'écrivions déjà dans notre [guide de création d'une communauté d'énergie en Wallonie](/guides/creer-communaute-energie-wallonie/) : c'est en phase d'exploitation qu'un outil de gestion devient indispensable.
 
 ## Comment ça marche : du volume partagé à la facture
 
 Le module s'intègre au reste de la plateforme et suit un parcours en quatre étapes.
 
 1. **Les données sont déjà là.** La facturation s'appuie sur les données de répartition officielles déjà importées dans OptimCE : énergie partagée consommée et injection partagée, par EAN et par période. Rien à ressaisir, rien à exporter — la facturation lit les mêmes volumes que vos tableaux de bord.
-2. **Vous définissez vos prix.** Deux prix, en €/kWh, librement fixés par la communauté : le **prix de vente** de l'énergie partagée aux consommateurs et le **prix de rachat** de l'injection versé aux producteurs. Chaque prix peut s'appliquer globalement, par segment de clientèle (résidentiel, professionnel, industriel) ou à un EAN précis — la règle la plus spécifique l'emporte — et porte une période de validité. Reste à décider quels montants inscrire : notre guide [« Prix de cession interne en communauté d'énergie »](/actualites/2026/07/20/prix-electricite-communaute-energie/) détaille la fourchette défendable et cinq méthodes de calcul.
+2. **Vous définissez vos prix.** Deux prix, en €/kWh, librement fixés par la communauté : le **prix de vente** de l'énergie partagée aux consommateurs et le **prix de rachat** de l'injection versé aux producteurs. Chaque prix peut s'appliquer globalement, par segment de clientèle (résidentiel, professionnel, industriel) ou à un EAN précis — la règle la plus spécifique l'emporte — et porte une période de validité. Reste à décider quels montants inscrire : notre guide [« Prix de cession interne en communauté d'énergie »](/guides/prix-electricite-communaute-energie/) détaille la fourchette défendable et cinq méthodes de calcul.
 3. **Vous lancez un cycle de facturation.** Vous choisissez la période — mensuelle, trimestrielle, à votre convenance — et OptimCE vérifie que tout est en ordre avant de calculer : données de consommation présentes, coordonnées bancaires et dénomination légale de la communauté, tarif applicable, absence de doublon dans les données. Puis il **fige un instantané** de la répartition : les montants sont calculés sur des volumes gelés, traçables.
 4. **Vous relisez, puis vous émettez.** Le cycle produit un **brouillon par membre**, téléchargeable en PDF avec filigrane « proforma ». Vous vérifiez, puis vous émettez : la facture reçoit alors son numéro légal, sa communication structurée et sa date d'échéance.
 
@@ -96,7 +96,7 @@ Le suivi des paiements est intégré : vous enregistrez chaque versement — y c
 
 Chaque membre retrouve **ses propres factures** dans l'application et en télécharge le PDF quand il le souhaite. Plus besoin d'attendre un e-mail du gestionnaire ou de réclamer un récapitulatif : le document de référence est disponible, au même endroit, pour tout le monde.
 
-Rappelons le périmètre : la facture de la communauté couvre l'**énergie partagée**, valorisée au prix interne. L'énergie résiduelle — celle que le partage n'a pas couverte — reste facturée par le fournisseur de chaque membre, au tarif de son contrat. Ce sont les deux documents ensemble qui racontent l'économie réalisée ; notre article sur [la réduction de la facture d'électricité grâce au partage](/actualites/2026/06/03/communaute-energie-reduire-facture-electricite/) détaille ce mécanisme.
+Rappelons le périmètre : la facture de la communauté couvre l'**énergie partagée**, valorisée au prix interne. L'énergie résiduelle — celle que le partage n'a pas couverte — reste facturée par le fournisseur de chaque membre, au tarif de son contrat. Ce sont les deux documents ensemble qui racontent l'économie réalisée ; notre article sur [la réduction de la facture d'électricité grâce au partage](/guides/communaute-energie-reduire-facture-electricite/) détaille ce mécanisme.
 
 ## Une première version pensée pour la Wallonie — et la suite
 
@@ -108,7 +108,7 @@ Le module est disponible dès maintenant sur [app.optimce.be](https://app.optimc
 
 ## Conclusion
 
-Avec la facturation, OptimCE ferme la boucle : import des données, [choix et simulation de la clé de répartition](/actualites/2026/06/09/simuler-cle-repartition-optimce/), opérations de partage, et désormais les factures — la dernière étape qui transformait encore chaque trimestre en corvée de tableur. Les volumes deviennent des documents en règle, les paiements se suivent d'un coup d'œil, et chaque membre voit clairement ce que le partage lui apporte.
+Avec la facturation, OptimCE ferme la boucle : import des données, [choix et simulation de la clé de répartition](/guides/simuler-cle-repartition-optimce/), opérations de partage, et désormais les factures — la dernière étape qui transformait encore chaque trimestre en corvée de tableur. Les volumes deviennent des documents en règle, les paiements se suivent d'un coup d'œil, et chaque membre voit clairement ce que le partage lui apporte.
 
 > ### Facturez votre communauté d'énergie avec OptimCE
 >

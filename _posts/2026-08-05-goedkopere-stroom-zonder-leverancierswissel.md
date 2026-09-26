@@ -10,7 +10,7 @@ tags: [guide, administrative, community]
 lang: nl
 ref: cheaper-electricity-without-switching-supplier
 pillar: facture-electricite
-permalink: /nl/nieuws/2026/08/05/goedkopere-stroom-zonder-leverancierswissel/
+permalink: /nl/gidsen/goedkopere-stroom-zonder-leverancierswissel/
 faq:
   - q: "Kunt u minder betalen voor elektriciteit zonder van leverancier te veranderen?"
     a: "Ja, via energiedelen. Een deel van uw verbruik wordt geleverd door een lokale producent — een dak in de buurt, een wijkinstallatie — tegen een prijs die tussen de deelnemers is afgesproken, terwijl uw gebruikelijke leverancier de rest blijft factureren. Uw contract wordt niet opgezegd, uw meter blijft waar hij is en u installeert niets bij u thuis. De grens die u moet kennen: de besparing geldt alleen voor de energiecomponent van de kilowattuur die werkelijk gedeeld worden, ongeveer 38,5 % van de factuur volgens het CREG-dashboard van juni 2026. Netkosten en heffingen blijven verschuldigd, behalve in specifieke configuraties in Brussel en Wallonië."
@@ -32,7 +32,7 @@ Er bestaat nochtans een mechanisme dat de factuur verlaagt **zonder het contract
 
 De interessante vraag is dus niet "bestaat dat?". Ze luidt: **is het beschikbaar waar ik woon?** En daar valt het land in drie stukken uiteen. Twee cijfers volstaan om het probleem te schetsen: op 5 augustus 2026 telde Brugel **38 vergunde energiegemeenschappen** in het Brussels Hoofdstedelijk Gewest, met de recentste vergunning van 29 mei 2026. In Wallonië waren er dat **acht** in februari 2026, en de CWaPE-evaluatie van maart 2025 telde op het hele grondgebied **zeven deelverrichtingen**.
 
-Dit artikel legt niet opnieuw uit wat een energiegemeenschap is, noch wat een HEG van een BEG onderscheidt — dat staat in ["Energiegemeenschappen in België: HEG, BEG, LEG"](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/). Het behandelt evenmin de mechaniek van de twee facturen, beschreven in ["Gedeelde elektriciteit factureren in België"](/nl/nieuws/2026/07/23/gedeelde-elektriciteit-factureren-belgie/), noch de vergelijking met het sociaal tarief en het dynamische contract, behandeld in ["Welk elektriciteitstarief kiezen in België?"](/nl/nieuws/2026/08/03/elektriciteitstarief-kiezen-belgie/). Het beantwoordt een meer aardse vraag: **is energiedelen vandaag, daar waar u woont, een reële optie voor u** — en zo ja, in welke vorm.
+Dit artikel legt niet opnieuw uit wat een energiegemeenschap is, noch wat een HEG van een BEG onderscheidt — dat staat in ["Energiegemeenschappen in België: HEG, BEG, LEG"](/nl/gidsen/energiegemeenschappen-belgie/). Het behandelt evenmin de mechaniek van de twee facturen, beschreven in ["Gedeelde elektriciteit factureren in België"](/nl/gidsen/gedeelde-elektriciteit-factureren-belgie/), noch de vergelijking met het sociaal tarief en het dynamische contract, behandeld in ["Welk elektriciteitstarief kiezen in België?"](/nl/gidsen/elektriciteitstarief-kiezen-belgie/). Het beantwoordt een meer aardse vraag: **is energiedelen vandaag, daar waar u woont, een reële optie voor u** — en zo ja, in welke vorm.
 
 <img src="/assets/images/diagrams/energy-sharing-access-nl.svg"
      alt="Vergelijkende tabel van de toegang tot energiedelen in de drie Belgische gewesten: in Brussel zijn alle drie de vormen van delen operationeel, met een getrapte verlaging van de nettarieven; in Wallonië werken het delen in hetzelfde gebouw en in een gemeenschap, maar peer-to-peer blijft geblokkeerd bij gebrek aan een uitvoeringsbesluit; in Vlaanderen staan delen en verkopen voor iedereen open, maar zonder enige verlaging van de nettarieven."
@@ -43,7 +43,7 @@ Dit artikel legt niet opnieuw uit wat een energiegemeenschap is, noch wat een HE
 
 Laten we eerst de dubbelzinnigheid wegnemen, want de formulering wordt in de energiemarketing te pas en te onpas gebruikt.
 
-Energiedelen is een **administratieve en tarifaire verrichting**, geen fysieke. De elektronen veranderen niet van weg: ze blijven precies zoals voorheen over het openbare net stromen. Wat verandert, is de boekhouding. Om de vijftien minuten vergelijkt uw distributienetbeheerder wat een lokale producent heeft geïnjecteerd met wat elke deelnemer op datzelfde ogenblik heeft afgenomen, en kent hij elk van hen een deel van die productie toe volgens een vooraf afgesproken verdeelsleutel. Dat deel wordt u aangerekend tegen de prijs van de deelovereenkomst, en niet tegen de prijs van uw leverancier. Precies dat onderscheid tussen het administratieve en het fysieke circuit maakt een “groen” aanbod oncontroleerbaar en het delen controleerbaar: de analyse staat in [Groene stroom in België: echt groen?](/nl/nieuws/2026/08/22/groene-stroom-belgie-echt-groen/).
+Energiedelen is een **administratieve en tarifaire verrichting**, geen fysieke. De elektronen veranderen niet van weg: ze blijven precies zoals voorheen over het openbare net stromen. Wat verandert, is de boekhouding. Om de vijftien minuten vergelijkt uw distributienetbeheerder wat een lokale producent heeft geïnjecteerd met wat elke deelnemer op datzelfde ogenblik heeft afgenomen, en kent hij elk van hen een deel van die productie toe volgens een vooraf afgesproken verdeelsleutel. Dat deel wordt u aangerekend tegen de prijs van de deelovereenkomst, en niet tegen de prijs van uw leverancier. Precies dat onderscheid tussen het administratieve en het fysieke circuit maakt een “groen” aanbod oncontroleerbaar en het delen controleerbaar: de analyse staat in [Groene stroom in België: echt groen?](/nl/gidsen/groene-stroom-belgie-echt-groen/).
 
 Drie praktische gevolgen, en ze verklaren waarom de belofte standhoudt.
 
@@ -119,7 +119,7 @@ En vooral: **peer-to-peer — de eenvoudigste vorm, die in Brussel 47 projecten 
 
 Het kader beweegt niettemin: een besluit van de Waalse Regering van **5 februari 2026** wijzigde dat van 17 maart 2023 over energiegemeenschappen en energiedelen, en in februari 2026 waren acht gemeenschappen geregistreerd tegenover drie verrichtingen een jaar eerder.
 
-**Wat een Waal vandaag kan doen**, heel concreet: delen binnen hetzelfde gebouw, dat geen rechtspersoon vereist en de verlaging van 80 % van de proportionele term geniet — veruit de beste optie — of aansluiten bij een van de bestaande gemeenschappen. Delen met de buur aan de overkant is daarentegen niet mogelijk. De toegangsvoorwaarden en stappen staan in ["Aansluiten bij een energiegemeenschap in Wallonië"](/nl/nieuws/2026/05/11/energiegemeenschap-aansluiten-wallonie/); het oprichten van een structuur in ["Een energiegemeenschap oprichten in Wallonië"](/nl/nieuws/2026/05/11/energiegemeenschap-oprichten-wallonie/).
+**Wat een Waal vandaag kan doen**, heel concreet: delen binnen hetzelfde gebouw, dat geen rechtspersoon vereist en de verlaging van 80 % van de proportionele term geniet — veruit de beste optie — of aansluiten bij een van de bestaande gemeenschappen. Delen met de buur aan de overkant is daarentegen niet mogelijk. De toegangsvoorwaarden en stappen staan in ["Aansluiten bij een energiegemeenschap in Wallonië"](/nl/gidsen/energiegemeenschap-aansluiten-wallonie/); het oprichten van een structuur in ["Een energiegemeenschap oprichten in Wallonië"](/nl/gidsen/energiegemeenschap-oprichten-wallonie/).
 
 ### Vlaanderen: open voor iedereen, zonder enig netvoordeel
 
@@ -127,7 +127,7 @@ Vlaanderen vertoont het spiegelbeeld van Wallonië: het kader is open — delen 
 
 In december 2023 namen **7 779 toegangspunten** deel aan het delen of verkopen van energie, oftewel **0,2 %** van de Vlaamse toegangspunten, volgens de Fluvius-gegevens die de VREG publiceert. Twee belangrijke nuances bij dat cijfer: het bundelt delen *én* verkopen, en het is gedateerd. De VREG publiceert een **maandelijks bijgewerkt** dashboard (laatst vastgestelde update: 27 juli 2026) — bereidt u een beslissing voor, haal er dan de waarde van de lopende maand, in plaats van op deze te vertrouwen.
 
-De tweede Vlaamse les is nog nuttiger, want ze tempert de verwachtingen overal: de deelnemers slagen erin slechts ongeveer **20 % van de injectie** onderling te delen, waar de aanvankelijke theoretische ramingen op 40 % rekenden. Met andere woorden: **de helft van het potentieel gaat verloren in het tijdsverschil tussen productie en verbruik.** Dat is een sterk argument voor een goed opgebouwde verdeelsleutel, een onderwerp dat aan bod komt in ["Verdeelsleutel in België: de 3 gewesten"](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/).
+De tweede Vlaamse les is nog nuttiger, want ze tempert de verwachtingen overal: de deelnemers slagen erin slechts ongeveer **20 % van de injectie** onderling te delen, waar de aanvankelijke theoretische ramingen op 40 % rekenden. Met andere woorden: **de helft van het potentieel gaat verloren in het tijdsverschil tussen productie en verbruik.** Dat is een sterk argument voor een goed opgebouwde verdeelsleutel, een onderwerp dat aan bod komt in ["Verdeelsleutel in België: de 3 gewesten"](/nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/).
 
 Ten slotte berust het Vlaamse distributietarief sinds januari 2023 op het piekvermogen en niet meer op de afgenomen energie: er is dus **geen enkele verlaging van het nettarief** op gedeelde energie, in geen enkele configuratie. De winst blijft strikt beperkt tot het verschil tussen de interne prijs en de prijs van uw leverancier. De VREG signaleert bovendien dat sommige leveranciers **extra kosten** aanrekenen aan klanten die aan een deelverrichting deelnemen — na te gaan vóór u zich verbindt, want bij kleine volumes heffen die kosten het voordeel op.
 
@@ -141,7 +141,7 @@ Delen werkt in op het eerste blok. Niet op de drie andere — behalve in de bijz
 
 Daarom moet u wantrouwig staan tegenover elk percentage dat zonder noemer wordt genoemd. **"20 % besparing" betekent niets** zolang men niet weet of het percentage slaat op de totale factuur, op de energiecomponent, of op het gedeelde volume alleen.
 
-De gedocumenteerde grootteorde is daarentegen stabiel: voor een verbruiker die **500 kWh gedeelde energie per jaar** ontvangt, situeert het door Énergie Commune in het kader van Interreg Europe becijferde geval de besparing rond **145 € per jaar tegen het standaardtarief**, en rond **70 € voor een gezin dat al het sociaal tarief geniet** — het verschil verklaart zich doordat het sociaal tarief de energiecomponent al op een laag niveau aftopt. De hefbomen waaruit dat bedrag is samengesteld, worden ontleed in ["Uw elektriciteitsfactuur verlagen in een energiegemeenschap"](/nl/nieuws/2026/06/03/energiegemeenschap-elektriciteitsfactuur-verlagen/), en de manier om de interne prijs te bepalen in ["Interne overdrachtsprijs in een energiegemeenschap"](/nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/).
+De gedocumenteerde grootteorde is daarentegen stabiel: voor een verbruiker die **500 kWh gedeelde energie per jaar** ontvangt, situeert het door Énergie Commune in het kader van Interreg Europe becijferde geval de besparing rond **145 € per jaar tegen het standaardtarief**, en rond **70 € voor een gezin dat al het sociaal tarief geniet** — het verschil verklaart zich doordat het sociaal tarief de energiecomponent al op een laag niveau aftopt. De hefbomen waaruit dat bedrag is samengesteld, worden ontleed in ["Uw elektriciteitsfactuur verlagen in een energiegemeenschap"](/nl/gidsen/energiegemeenschap-elektriciteitsfactuur-verlagen/), en de manier om de interne prijs te bepalen in ["Interne overdrachtsprijs in een energiegemeenschap"](/nl/gidsen/prijs-elektriciteit-energiegemeenschap/).
 
 ### De vier Brusselse perimeters: de nuance die iedereen mist
 
@@ -180,7 +180,7 @@ De zes remmen die de CWaPE opsomt, komen voor een particulier neer op drie reali
 
 **Peer-to-peer, dat precies dat probleem zou omzeilen, is geblokkeerd.** Dat is het meest frustrerende punt van het Waalse dossier: de vorm die noch statuten noch bestuur vereist, en die in Brussel meer dan een derde van de projecten uitmaakt, wacht sinds 2022 op haar uitvoeringsbesluit.
 
-**Het businessmodel blijft weinig aantrekkelijk** zolang de tariefverlaging is voorbehouden aan hetzelfde gebouw. Een Waalse wijkverrichting draagt de volledige netkosten, wat de onderhandelbare interne prijs samendrukt tussen het injectietarief als bodem en de energiecomponent als plafond — een smalle vork, zoals [ons artikel over de interne overdrachtsprijs](/nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/) aantoont.
+**Het businessmodel blijft weinig aantrekkelijk** zolang de tariefverlaging is voorbehouden aan hetzelfde gebouw. Een Waalse wijkverrichting draagt de volledige netkosten, wat de onderhandelbare interne prijs samendrukt tussen het injectietarief als bodem en de energiecomponent als plafond — een smalle vork, zoals [ons artikel over de interne overdrachtsprijs](/nl/gidsen/prijs-elektriciteit-energiegemeenschap/) aantoont.
 
 Wat beweegt: het besluit van 5 februari 2026 wijzigde het kader van 2023, het aantal gemeenschappen is op één jaar meer dan verdubbeld, en de druk vanuit het werkveld is nu geformaliseerd. Niets daarvan deblokkeert peer-to-peer tot op vandaag. **Is dat uw configuratie, dan luidt het eerlijke antwoord: nog niet.**
 
@@ -194,7 +194,7 @@ Wat beweegt: het besluit van 5 februari 2026 wijzigde het kader van 2023, het aa
 
 **In alle drie de gevallen** gaat één vraag aan alle andere vooraf: **hoeveel kilowattuur zal de verdeelsleutel u werkelijk toekennen?** De Vlaamse ervaring — 20 % van de injectie effectief gedeeld tegenover de gehoopte 40 % — toont aan dat het daar is dat het wezenlijke zich afspeelt, veel meer dan bij de prijsonderhandeling.
 
-Zodra de vorm is gekozen, blijft de meest concrete vraag over: met wie. Omdat delen alleen binnen het kwartier van de productie telt, stelt u een perimeter samen op uurrooster en niet op sympathie — het onderwerp van [“Stroom in de korte keten: de handleiding”](/nl/nieuws/2026/08/25/elektriciteit-korte-keten-handleiding/).
+Zodra de vorm is gekozen, blijft de meest concrete vraag over: met wie. Omdat delen alleen binnen het kwartier van de productie telt, stelt u een perimeter samen op uurrooster en niet op sympathie — het onderwerp van [“Stroom in de korte keten: de handleiding”](/nl/gidsen/elektriciteit-korte-keten-handleiding/).
 
 ## Wat u moet onthouden
 
@@ -222,7 +222,7 @@ Ja, via energiedelen. Een deel van uw verbruik wordt geleverd door een lokale pr
 
 ### Moet u uw leveringscontract opzeggen om aan energiedelen te doen?
 
-Nee, en het zou zelfs onmogelijk zijn. Delen dekt nooit uw volledige verbruik: het werkt alleen tijdens de kwartieren waarin er lokale productie is. Alles wat niet gedekt is — 's nachts, in de winter, tijdens de pieken — blijft **restenergie** die uw leverancier normaal factureert. U moet dus een leveringscontract behouden, en u ontvangt **twee documenten**: uw gebruikelijke factuur, verminderd met het gedeelde volume, plus een afrekening voor de gedeelde energie, opgesteld door de vertegenwoordiger van het delen. De volledige mechaniek staat in ["Gedeelde elektriciteit factureren in België"](/nl/nieuws/2026/07/23/gedeelde-elektriciteit-factureren-belgie/).
+Nee, en het zou zelfs onmogelijk zijn. Delen dekt nooit uw volledige verbruik: het werkt alleen tijdens de kwartieren waarin er lokale productie is. Alles wat niet gedekt is — 's nachts, in de winter, tijdens de pieken — blijft **restenergie** die uw leverancier normaal factureert. U moet dus een leveringscontract behouden, en u ontvangt **twee documenten**: uw gebruikelijke factuur, verminderd met het gedeelde volume, plus een afrekening voor de gedeelde energie, opgesteld door de vertegenwoordiger van het delen. De volledige mechaniek staat in ["Gedeelde elektriciteit factureren in België"](/nl/gidsen/gedeelde-elektriciteit-factureren-belgie/).
 
 ### Kunt u in België elektriciteit delen met uw buren?
 
@@ -234,7 +234,7 @@ Ja, maar slechts in twee configuraties, en het gebruik blijft zeer beperkt. De e
 
 ### Hebt u een slimme meter nodig om aan energiedelen deel te nemen?
 
-Ja, zonder uitzondering, in alle drie de gewesten. Delen berust op de vergelijking van de meterstanden van alle deelnemers per kwartier: zonder kwartiermeting is het onmogelijk te weten hoeveel energie op hetzelfde ogenblik werd geïnjecteerd en verbruikt. **In Brussel is de vervanging van uw meter door een slimme meter gratis** voor deelnemers aan energiedelen, wat het door Brugel goedgekeurde niet-periodieke tariefblad bevestigt. In Wallonië vereist de CWaPE een communicerende elektronische meter of een AMR-meter, en houdt deelname in dat u **afziet van het voordeel van de compensatie** — een punt dat prosumenten betreft die vóór 2024 werden uitgerust. Die afweging is becijferd in “[Zonnepanelen 2026: nog rendabel in Wallonië?](/nl/nieuws/2026/08/11/zonnepanelen-rendabel-wallonie-2026/)”.
+Ja, zonder uitzondering, in alle drie de gewesten. Delen berust op de vergelijking van de meterstanden van alle deelnemers per kwartier: zonder kwartiermeting is het onmogelijk te weten hoeveel energie op hetzelfde ogenblik werd geïnjecteerd en verbruikt. **In Brussel is de vervanging van uw meter door een slimme meter gratis** voor deelnemers aan energiedelen, wat het door Brugel goedgekeurde niet-periodieke tariefblad bevestigt. In Wallonië vereist de CWaPE een communicerende elektronische meter of een AMR-meter, en houdt deelname in dat u **afziet van het voordeel van de compensatie** — een punt dat prosumenten betreft die vóór 2024 werden uitgerust. Die afweging is becijferd in “[Zonnepanelen 2026: nog rendabel in Wallonië?](/nl/gidsen/zonnepanelen-rendabel-wallonie/)”.
 
 ### Hoeveel kunt u besparen met energiedelen?
 

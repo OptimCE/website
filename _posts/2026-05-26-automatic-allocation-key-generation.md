@@ -9,14 +9,14 @@ tags: [allocation-key, app, guide]
 lang: en
 ref: optimce-allocation-key-generator
 pillar: cle-de-repartition
-permalink: /en/news/2026/05/26/automatic-allocation-key-generation/
+permalink: /en/guides/automatic-allocation-key-generation/
 ---
 
 Picking the **allocation key** that gets the most out of a community's local production is a deceptively hard call. The vocabulary is set by the regulator, the standard keys are listed in a CWaPE or Fluvius document, and yet the *right* choice depends on something none of those texts can tell you: the actual quarter-hourly profiles of your members. A residential neighbourhood with a single school behaves very differently from a business park with a baseload, and the same key can recover 70% of the available production in one community and barely 50% in another.
 
 OptimCE's **automatic allocation key generation module** is now live to take that decision out of gut-feel territory. Feed it a CSV of the community's real production and consumption data, and it returns a candidate key with an expected collective self-consumption rate — computed on your own data, not on a textbook example. Two **independent** algorithms ship today, both consuming the same CSV input: a **brute force** scan over the regionally validated standard keys, and **LOGAAS**, a hybrid linear-optimisation / genetic-algorithm approach developed by [**CeCoTePe**](https://cecotepe.be/) for the **Locomotrice** project. More algorithms can be added later.
 
-If you are still mapping the regional landscape — what CWaPE, BRUGEL and VREG accept as a valid key — start with our reference article [“Allocation key in Belgium: the 3 regions”](/en/news/2026/05/19/allocation-key-belgium/).
+If you are still mapping the regional landscape — what CWaPE, BRUGEL and VREG accept as a valid key — start with our reference article [“Allocation key in Belgium: the 3 regions”](/en/guides/allocation-key-belgium/).
 
 <img src="/assets/images/diagrams/allocation-key-flow-en.svg"
      alt="Five-step diagram: quarter-hourly data, generation or simulation, candidate key, member validation, submission to the grid operator."
@@ -72,7 +72,7 @@ Its limit is the catalogue itself. If a community's profiles are atypical — st
 
 Where brute force is bounded by the standard catalogue, LOGAAS searches a **broader space of candidate keys** — including non-standard combinations — by combining **linear optimisation** (to find the best ex-post allocation for a given iteration) with a **genetic algorithm** featuring **atypical speciation** (to find the best combination of percentages across the up to three allowed iterations, while preserving population diversity). The practical takeaway is that it can squeeze additional performance in cases where the standard families do not fit the profiles cleanly: highly heterogeneous member sets, seasonal industrial consumers paired with residential households, or large surplus producers that would otherwise re-inject most of their output on the public grid.
 
-LOGAAS' output is a candidate **non-standard key**. In Wallonia, that means the community goes through the **CWaPE authorisation route** before the DSO can apply it — see the [Belgium allocation-key article](/en/news/2026/05/19/allocation-key-belgium/) for the procedure. In Brussels and Flanders, the room for non-standard keys is narrower; the LOGAAS output there is typically used as a benchmark — what would the best achievable performance look like — against which the chosen standard key is judged.
+LOGAAS' output is a candidate **non-standard key**. In Wallonia, that means the community goes through the **CWaPE authorisation route** before the DSO can apply it — see the [Belgium allocation-key article](/en/guides/allocation-key-belgium/) for the procedure. In Brussels and Flanders, the room for non-standard keys is narrower; the LOGAAS output there is typically used as a benchmark — what would the best achievable performance look like — against which the chosen standard key is judged.
 
 Use LOGAAS when the brute-force result feels close but not quite enough, when the project economics depend on the last few percentage points of collective self-consumption, or when you want a quantified upper bound to inform an investment decision.
 
@@ -143,15 +143,15 @@ The automatic generation module turns the allocation-key choice from a textbook 
 
 To go further, see our companion guides:
 
-> **[Allocation key in Belgium: the 3 regions](/en/news/2026/05/19/allocation-key-belgium/)**
+> **[Allocation key in Belgium: the 3 regions](/en/guides/allocation-key-belgium/)**
 >
 > The regulatory primer — what CWaPE, BRUGEL and VREG accept, the three regional vocabularies, and how to pick a key family before letting OptimCE optimise inside it.
 
-> **[Create an energy community in Wallonia](/en/news/2026/05/11/create-energy-community-wallonia/)**
+> **[Create an energy community in Wallonia](/en/guides/create-energy-community-wallonia/)**
 >
 > Framing the project, choosing between CER and CEC, notifying CWaPE, and launching the sharing — where the allocation key fits in the file.
 
-> **[Join an energy community in Wallonia](/en/news/2026/05/11/join-energy-community-wallonia/)**
+> **[Join an energy community in Wallonia](/en/guides/join-energy-community-wallonia/)**
 >
 > Where to find an open operation, enrolment steps and what to check before signing the sharing agreement.
 

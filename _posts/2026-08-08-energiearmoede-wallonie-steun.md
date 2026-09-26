@@ -10,7 +10,7 @@ lang: nl
 ref: energy-poverty-wallonia-support
 pillar: facture-electricite
 last_modified_at: 2026-09-16 06:00:00 +0200
-permalink: /nl/nieuws/2026/08/08/energiearmoede-wallonie-steun/
+permalink: /nl/gidsen/energiearmoede-wallonie-steun/
 faq:
   - q: "Wat is energiearmoede en hoe wordt ze in België gemeten?"
     a: "Het gaat om de situatie van een gezin dat bijzondere moeilijkheden ondervindt om in zijn woning in zijn elementaire energiebehoeften te voorzien. Sinds het koninklijk besluit van 19 april 2024 hanteert België drie officiële indicatoren, berekend op de SILC-enquête van Statbel. De gemeten energiearmoede betreft gezinnen bij wie het aandeel van het inkomen dat naar energie gaat, meer dan het dubbele van de mediane verhouding bedraagt. De verborgen energiearmoede betreft gezinnen van wie de energie-uitgaven onder de helft van de mediaan van vergelijkbare gezinnen liggen: zij beperken zichzelf. De ervaren energiearmoede berust op de verklaring van het gezin zelf. In 2025 becijferde de FOD Economie deze op respectievelijk 14,6 %, 3,3 % en 3,9 %, samen 19,9 % — ongeveer één Belgisch gezin op vijf."
@@ -32,7 +32,7 @@ Er bestaat steun. Er is er zelfs veel: sociaal tarief, MEBAR, Sociaal Verwarming
 
 Bovenal bestaat er een scheefheid die weinig gidsen benoemen: net de brandstof waarmee **37,5 %** van de Waalse gezinnen verwarmt, wordt door geen enkel sociaal tarief gedekt. Het meest blootgestelde Waalse gezin is tegelijk het gezin dat de belangrijkste maatregel het minst beschermt.
 
-Dit artikel legt de structuur van de factuur niet opnieuw uit — dat gebeurt in [“Waarom uw elektriciteitsfactuur hoog blijft”](/nl/nieuws/2026/07/25/waarom-elektriciteitsfactuur-hoog-blijft-belgie/) — en evenmin de volledige lijst besparingsmaatregelen, becijferd in [“Elektriciteitsfactuur verlagen: Wallonië 2026”](/nl/nieuws/2026/07/28/elektriciteitsfactuur-verlagen-wallonie-2026/). Het herhaalt ook niet hoe het sociaal tarief werkt, behandeld in [“Welk elektriciteitstarief kiezen in België?”](/nl/nieuws/2026/08/03/elektriciteitstarief-kiezen-belgie/). Het beantwoordt een andere, socialere vraag: **wanneer de factuur onbetaalbaar wordt, wat bestaat er, wie opent het, en wat gebeurt er samen?**
+Dit artikel legt de structuur van de factuur niet opnieuw uit — dat gebeurt in [“Waarom uw elektriciteitsfactuur hoog blijft”](/nl/gidsen/waarom-elektriciteitsfactuur-hoog-blijft-belgie/) — en evenmin de volledige lijst besparingsmaatregelen, becijferd in [“Elektriciteitsfactuur verlagen: Wallonië 2026”](/nl/gidsen/elektriciteitsfactuur-verlagen-wallonie/). Het herhaalt ook niet hoe het sociaal tarief werkt, behandeld in [“Welk elektriciteitstarief kiezen in België?”](/nl/gidsen/elektriciteitstarief-kiezen-belgie/). Het beantwoordt een andere, socialere vraag: **wanneer de factuur onbetaalbaar wordt, wat bestaat er, wie opent het, en wat gebeurt er samen?**
 
 <img src="/assets/images/diagrams/energy-poverty-support-nl.svg"
      alt="Tabel van de zes belangrijkste energiesteunmaatregelen in Wallonië — sociaal tarief, Sociaal Verwarmingsfonds, MEBAR-premie, Gas-Elektriciteitsfonds, energietutor en gewaarborgde minimumlevering — afgezet tegen de drie verwarmingsbrandstoffen. De kolom stookolie is grotendeels ongedekt, terwijl 37,5 % van de Waalse gezinnen op die brandstof verwarmt, tegenover 7,5 % in Brussel."
@@ -75,7 +75,7 @@ Dat is het scherpste cijfer van het dossier en het cijfer waarop elk lokaal bele
 
 Twee vaststellingen vervolledigen het beeld, en ze doorprikken het idee dat energiearmoede alleen uitkeringsgerechtigden zou treffen. **40,3 %** van de gezinnen zonder arbeidsinkomen kent energiearmoede — maar ook **15,8 %** van de gezinnen met één arbeidsinkomen, en **43,0 %** van de gezinnen uit de “lagere” middenklasse. Werk hebben biedt geen bescherming.
 
-Daarmee staat een huurder toch niet zonder hefboom. Wat hij kan ondernemen zonder zijn woning te bezitten — en wat de afstand van het sociaal tarief op het gedeelde aandeel een beschermde klant kost — is becijferd in [“Huurder: zonne-energie zonder eigen dak”](/nl/nieuws/2026/09/16/zonne-energie-huurder-zonder-dak-gids/).
+Daarmee staat een huurder toch niet zonder hefboom. Wat hij kan ondernemen zonder zijn woning te bezitten — en wat de afstand van het sociaal tarief op het gedeelde aandeel een beschermde klant kost — is becijferd in [“Huurder: zonne-energie zonder eigen dak”](/nl/gidsen/zonne-energie-huurder-zonder-dak-gids/).
 
 ## De blinde vlek: stookolie
 
@@ -120,7 +120,7 @@ Het federale sociaal tarief is **de enige maatregel die voor de meeste rechthebb
 
 Daarnaast bestaat het Waalse statuut van **regionaal beschermde afnemer**, dat het sociaal tarief tot andere categorieën uitbreidt. Het veronderstelt twee dingen die vaak over het hoofd worden gezien: u moet **door uw distributienetbeheerder worden beleverd** en niet door een commerciële leverancier, en u moet die beheerder elk jaar een attest bezorgen. Het statuut is niet eens en voorgoed verworven.
 
-De details over de categorieën, de kwartaalbedragen en het samenspel tussen het federale en het regionale statuut vindt u in [“Welk elektriciteitstarief kiezen in België?”](/nl/nieuws/2026/08/03/elektriciteitstarief-kiezen-belgie/).
+De details over de categorieën, de kwartaalbedragen en het samenspel tussen het federale en het regionale statuut vindt u in [“Welk elektriciteitstarief kiezen in België?”](/nl/gidsen/elektriciteitstarief-kiezen-belgie/).
 
 ### De MEBAR-premie
 
@@ -130,7 +130,7 @@ Ze financiert concrete werken: vervanging van ramen of buitendeuren, isolatie, p
 
 Twee proceduretechnische punten beslissen over het welslagen van het dossier. Ten eerste: **u dient de aanvraag nooit rechtstreeks in** — het OCMW verzamelt de stukken, gaat de ontvankelijkheid na en bezorgt het dossier aan de Waalse Overheidsdienst. Ten tweede liggen tussen twee aanvragen minstens **vijf jaar**, en ze moeten verschillende investeringen betreffen — het loont dus de moeite de premie niet aan de eerste de beste post te besteden.
 
-MEBAR is de natuurlijke aanvulling op de klassieke woonpremies, die voorfinanciering en een audit veronderstellen: de overeenkomstige hefbomen staan in [de Waalse gids](/nl/nieuws/2026/07/28/elektriciteitsfactuur-verlagen-wallonie-2026/).
+MEBAR is de natuurlijke aanvulling op de klassieke woonpremies, die voorfinanciering en een audit veronderstellen: de overeenkomstige hefbomen staan in [de Waalse gids](/nl/gidsen/elektriciteitsfactuur-verlagen-wallonie/).
 
 ### Het Gas- en Elektriciteitsfonds
 
@@ -174,7 +174,7 @@ De tak **Réno WaTT'chers** is de uitvoering op het terrein: energiebegeleiding 
 
 ### De lokale platformen voor energetische renovatie
 
-De **PLRE** fungeren als lokaal informatie- en begeleidingsloket voor renovatiewerken, met bijzondere aandacht voor gezinnen in armoede. Ze vullen de Guichets Énergie Wallonie aan — 16 kantoren, een veertigtal adviseurs, gratis en neutraal, bereikbaar op het groene nummer 1718 — waarvan de rol in de tiende hefboom van de [Waalse gids](/nl/nieuws/2026/07/28/elektriciteitsfactuur-verlagen-wallonie-2026/) wordt beschreven.
+De **PLRE** fungeren als lokaal informatie- en begeleidingsloket voor renovatiewerken, met bijzondere aandacht voor gezinnen in armoede. Ze vullen de Guichets Énergie Wallonie aan — 16 kantoren, een veertigtal adviseurs, gratis en neutraal, bereikbaar op het groene nummer 1718 — waarvan de rol in de tiende hefboom van de [Waalse gids](/nl/gidsen/elektriciteitsfactuur-verlagen-wallonie/) wordt beschreven.
 
 ## Kan energiedelen gezinnen in armoede van dienst zijn?
 
@@ -192,13 +192,13 @@ De voornaamste les is niet technisch maar sociaal. De Société de Logements du 
 
 Twee beperkingen moeten worden benoemd, en ze wegen zwaar.
 
-**De uitrol blijft marginaal.** In februari 2026 waren in Wallonië acht energiegemeenschappen geregistreerd, en de in maart 2025 weergegeven evaluatie van de CWaPE telde over het hele grondgebied slechts zeven deeloperaties. Wij hebben die blokkering, hinderpalen inbegrepen, gedocumenteerd in [“Goedkopere stroom zonder leverancierswissel”](/nl/nieuws/2026/08/05/goedkopere-stroom-zonder-leverancierswissel/).
+**De uitrol blijft marginaal.** In februari 2026 waren in Wallonië acht energiegemeenschappen geregistreerd, en de in maart 2025 weergegeven evaluatie van de CWaPE telde over het hele grondgebied slechts zeven deeloperaties. Wij hebben die blokkering, hinderpalen inbegrepen, gedocumenteerd in [“Goedkopere stroom zonder leverancierswissel”](/nl/gidsen/goedkopere-stroom-zonder-leverancierswissel/).
 
 **En vooral: energiedelen levert het minst op aan wie het het hardst nodig heeft.** De CWaPE verplicht de residentiële afnemer **afstand te doen van het sociaal tarief op het aandeel elektriciteit dat hem wordt gedeeld**. De regelgevende logica is te begrijpen — men stapelt geen twee voorkeurprijzen op dezelfde kilowattuur — maar het effect is regressief. Voor 500 gedeelde kWh per jaar situeert de casus die Énergie Commune in het kader van Interreg Europe becijferde de winst rond **145 € voor een gezin op het standaardtarief, maar slechts 70 € voor een gezin dat al het sociaal tarief geniet**.
 
-Anders gezegd: **het gezin in armoede wint bij dezelfde operatie ongeveer half zoveel als zijn welgestelde buur.** Dat is een ontwerpvoorwaarde, geen noodlot: ze wordt gestuurd via de verdeelsleutel en de interne overdrachtsprijs, waarvan de verdedigbare vork wordt geanalyseerd in [“Interne overdrachtsprijs in een gemeenschap”](/nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/). Een gemeenschap die gezinnen in armoede wil betrekken, moet dit al in de overeenkomst verwerken en het niet bij de eerste afrekening ontdekken.
+Anders gezegd: **het gezin in armoede wint bij dezelfde operatie ongeveer half zoveel als zijn welgestelde buur.** Dat is een ontwerpvoorwaarde, geen noodlot: ze wordt gestuurd via de verdeelsleutel en de interne overdrachtsprijs, waarvan de verdedigbare vork wordt geanalyseerd in [“Interne overdrachtsprijs in een gemeenschap”](/nl/gidsen/prijs-elektriciteit-energiegemeenschap/). Een gemeenschap die gezinnen in armoede wil betrekken, moet dit al in de overeenkomst verwerken en het niet bij de eerste afrekening ontdekken.
 
-Wie toch wil starten, vindt de Waalse toegangsvoorwaarden in [“Toetreden tot een energiegemeenschap in Wallonië”](/nl/nieuws/2026/05/11/energiegemeenschap-aansluiten-wallonie/) en de werkelijke besparingshefbomen in [“Elektriciteitsfactuur verlagen met energiedelen”](/nl/nieuws/2026/06/03/energiegemeenschap-elektriciteitsfactuur-verlagen/).
+Wie toch wil starten, vindt de Waalse toegangsvoorwaarden in [“Toetreden tot een energiegemeenschap in Wallonië”](/nl/gidsen/energiegemeenschap-aansluiten-wallonie/) en de werkelijke besparingshefbomen in [“Elektriciteitsfactuur verlagen met energiedelen”](/nl/gidsen/energiegemeenschap-elektriciteitsfactuur-verlagen/).
 
 ## Wat een OCMW of een gemeente in gang kan zetten
 

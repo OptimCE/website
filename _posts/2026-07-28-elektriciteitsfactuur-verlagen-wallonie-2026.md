@@ -10,7 +10,7 @@ tags: [guide, administrative, community]
 lang: nl
 ref: reduce-electricity-bill-wallonia-2026
 pillar: facture-electricite
-permalink: /nl/nieuws/2026/07/28/elektriciteitsfactuur-verlagen-wallonie-2026/
+permalink: /nl/gidsen/elektriciteitsfactuur-verlagen-wallonie/
 faq:
   - q: "Hoe verlaagt u uw elektriciteitsfactuur in Wallonië in 2026?"
     a: "In volgorde van doeltreffendheid: vergelijk uw aanbod op CompaCWaPE, de gratis vergelijker van de Waalse regulator, waar het verschil tussen het goedkoopste en het duurste aanbod meer dan 200 € per jaar bedraagt. Ga na of u recht hebt op het sociaal tarief, dat voor een rechthebbend gezin in de orde van 400 € per jaar ligt. Kies daarna de juiste nettariefformule. Volgens de ORES-tarieflijst 2026 levert het verschuiven van een elektrische boiler van 1.800 kWh van het enkelvoudig tarief naar de ECO-uren van het Impact-tarief ongeveer 124 € inclusief btw per jaar op, en dat alleen al op de proportionele distributieterm. De eerste zes hefbomen in dit artikel vragen geen enkele investering."
@@ -26,7 +26,7 @@ faq:
     a: "Het werkt op de energiecomponent, niet op de netkosten of de heffingen, die op gedeelde elektriciteit verschuldigd blijven. Eén belangrijke uitzondering staat zwart op wit in de ORES-tarieflijst 2026: op gedeelde energie bij een deeloperatie binnen eenzelfde gebouw wordt een vermindering van 80 % op de proportionele term toegepast. Een mede-eigendom met een zonnedak zit daarmee in de beste positie van Wallonië, zonder dat er een rechtspersoon nodig is. Ga altijd na of uw leverancier kosten aanrekent voor uw deelname aan het delen: bij kleine gedeelde volumes doen die kosten de winst teniet."
 ---
 
-Uw elektriciteitsfactuur is niet gedaald, en dat verbeeldt u zich niet. De groothandelsprijzen zijn sinds 2022 ingestort, de accijnzen dalen op 1 augustus 2026, en toch beweegt de jaarafrekening nauwelijks. De reden is rekenkundig: de energiecomponent weegt slechts ongeveer 40 % van het totaal. We hebben die in euro's ontleed in [“Waarom uw elektriciteitsfactuur hoog blijft”](/nl/nieuws/2026/07/25/waarom-elektriciteitsfactuur-hoog-blijft-belgie/).
+Uw elektriciteitsfactuur is niet gedaald, en dat verbeeldt u zich niet. De groothandelsprijzen zijn sinds 2022 ingestort, de accijnzen dalen op 1 augustus 2026, en toch beweegt de jaarafrekening nauwelijks. De reden is rekenkundig: de energiecomponent weegt slechts ongeveer 40 % van het totaal. We hebben die in euro's ontleed in [“Waarom uw elektriciteitsfactuur hoog blijft”](/nl/gidsen/waarom-elektriciteitsfactuur-hoog-blijft-belgie/).
 
 Dit artikel legt het probleem niet opnieuw uit. Het somt op wat u **in Wallonië, in 2026** concreet kunt doen. Tien hefbomen, gerangschikt van de beste verhouding tussen opbrengst en inspanning tot de meest veeleisende. **De eerste zes kosten niets** — geen werken, geen materiaal, en voor de helft ervan zelfs geen gewoonteverandering.
 
@@ -74,7 +74,7 @@ Drie contractfamilies, drie manieren om het risico tussen u en uw leverancier te
 
 Het essentiële punt: dit is geen weddenschap op toekomstige prijzen, maar een keuze over **wie het risico draagt**. Als een afrekeningsfactuur van 300 € u in moeilijkheden zou brengen, is de vaste premie haar geld waard. Zo niet, dan is ze duur.
 
-De becijferde vergelijking van deze formules — samen met het sociaal tarief en energiedelen — staat in [“Welk elektriciteitstarief kiezen in België?”](/nl/nieuws/2026/08/03/elektriciteitstarief-kiezen-belgie/), dat de drie gewesten behandelt.
+De becijferde vergelijking van deze formules — samen met het sociaal tarief en energiedelen — staat in [“Welk elektriciteitstarief kiezen in België?”](/nl/gidsen/elektriciteitstarief-kiezen-belgie/), dat de drie gewesten behandelt.
 
 ## 3. Overstappen naar het nettarief dat bij uw uren past
 
@@ -145,7 +145,7 @@ Wie er recht op heeft, en hoe. De CWaPE is duidelijk: **alle beschermde klanten*
 
 Meteen ook een hardnekkig misverstand uit de wereld, want het circuleert nog volop: **het statuut van verhoogde tegemoetkoming alleen geeft geen recht meer op het sociaal tarief.** De uitbreiding uit de energiecrisis liep van 1 februari 2021 tot 30 juni 2023 en eindigde op **1 juli 2023** ([FOD Economie](https://economie.fgov.be/fr/themes/energie/energie-sociale/tarif-social-pour-lenergie)). Hebt u dat statuut zonder onder een van bovenstaande categorieën te vallen, dan geniet u het sociaal tarief niet, ook al was dat in 2022 wel zo.
 
-De reflex die u zich moet aanmeten: **als uw situatie verandert** — jobverlies, scheiding, ingang van een uitkering, intrek in een sociale woning — springt het sociaal tarief niet altijd vanzelf aan. Dat is een telefoontje waard. En als de factuur al onbetaalbaar is geworden, is het sociaal tarief maar één onderdeel van een ruimer geheel: [“Energiearmoede in Wallonië: welke steun?”](/nl/nieuws/2026/08/08/energiearmoede-wallonie-steun/) brengt in kaart wat het OCMW kan openen, van MEBAR tot het Sociaal Verwarmingsfonds.
+De reflex die u zich moet aanmeten: **als uw situatie verandert** — jobverlies, scheiding, ingang van een uitkering, intrek in een sociale woning — springt het sociaal tarief niet altijd vanzelf aan. Dat is een telefoontje waard. En als de factuur al onbetaalbaar is geworden, is het sociaal tarief maar één onderdeel van een ruimer geheel: [“Energiearmoede in Wallonië: welke steun?”](/nl/gidsen/energiearmoede-wallonie-steun/) brengt in kaart wat het OCMW kan openen, van MEBAR tot het Sociaal Verwarmingsfonds.
 
 ## 7. Woonpremies: het venster sluit op 30 september 2026
 
@@ -168,13 +168,13 @@ Het prosumententarief becijfert precies dat. Volgens de ORES-tarieflijst 2026 be
 - Dat forfait geldt enkel voor prosumenten **van wie de meter de werkelijke bruto-afname** van het net niet registreert.
 - Voor wie compensatie geniet **én** over een meter beschikt die die bruto-afname registreert, wordt het totaal van de netkosten **afgetopt** op het bedrag berekend op de netto-afname, vermeerderd met het prosumententarief. Het systeem behoudt dus automatisch de voor u voordeligste formule.
 
-De compensatie — de terugdraaiende teller — blijft verworven **tot 31 december 2030** voor installaties die vóór 1 januari 2024 in dienst zijn genomen. Daarna worden injectie en afname afzonderlijk gewaardeerd, en wordt de zelfverbruiksgraad de enige parameter die werkelijk telt. De volledige rendabiliteitsberekening onder dat nieuwe stelsel, en de afweging tussen de compensatie behouden of toetreden tot een energiedeling, staan in “[Zonnepanelen 2026: nog rendabel in Wallonië?](/nl/nieuws/2026/08/11/zonnepanelen-rendabel-wallonie-2026/)”.
+De compensatie — de terugdraaiende teller — blijft verworven **tot 31 december 2030** voor installaties die vóór 1 januari 2024 in dienst zijn genomen. Daarna worden injectie en afname afzonderlijk gewaardeerd, en wordt de zelfverbruiksgraad de enige parameter die werkelijk telt. De volledige rendabiliteitsberekening onder dat nieuwe stelsel, en de afweging tussen de compensatie behouden of toetreden tot een energiedeling, staan in “[Zonnepanelen 2026: nog rendabel in Wallonië?](/nl/gidsen/zonnepanelen-rendabel-wallonie/)”.
 
-**En de batterij?** Ze tilt een typische zelfverbruiksgraad van 30-40 % naar 70-80 %. Maar laten we feitelijk blijven: ze kost 4.250 tot 7.250 € voor 5 tot 10 kWh, **Wallonië keert geen enkele rechtstreekse premie uit voor thuisopslag**, en de terugverdientijd nadert vijftien jaar in een gangbaar woninggeval — vaak voorbij de waarborg. Wat in 2026 verandert, is het Impact-tarief: laden in het ECO-blok aan 2,71 c€/kWh om te ontladen in het PIC-blok aan 13,54 c€/kWh voegt een arbitrage-opbrengst toe die de klassieke berekening negeerde. Laat de simulatie met die hypothese opnieuw maken vóór u beslist. Het prijsoverzicht per geïnstalleerde kilowattuur en de aangifteplicht die een compensatie van vóór 2024 kan breken, komen aan bod in ["Thuisbatterij: de prijs en het alternatief"](/nl/nieuws/2026/09/22/thuisbatterij-prijs-of-energiedelen/).
+**En de batterij?** Ze tilt een typische zelfverbruiksgraad van 30-40 % naar 70-80 %. Maar laten we feitelijk blijven: ze kost 4.250 tot 7.250 € voor 5 tot 10 kWh, **Wallonië keert geen enkele rechtstreekse premie uit voor thuisopslag**, en de terugverdientijd nadert vijftien jaar in een gangbaar woninggeval — vaak voorbij de waarborg. Wat in 2026 verandert, is het Impact-tarief: laden in het ECO-blok aan 2,71 c€/kWh om te ontladen in het PIC-blok aan 13,54 c€/kWh voegt een arbitrage-opbrengst toe die de klassieke berekening negeerde. Laat de simulatie met die hypothese opnieuw maken vóór u beslist. Het prijsoverzicht per geïnstalleerde kilowattuur en de aangifteplicht die een compensatie van vóór 2024 kan breken, komen aan bod in ["Thuisbatterij: de prijs en het alternatief"](/nl/gidsen/thuisbatterij-prijs-of-energiedelen/).
 
-De rendabelste optie van alle koopt u ten slotte niet: het **collectief zelfverbruik**. Op schaal van een gebouw tilt een tussen de bewoners gedeeld zonnedak de zelfverbruiksgraad automatisch omhoog, omdat de verbruikscurves van meerdere gezinnen elkaar aanvullen. De mechanismen, indicatoren en configuraties staan beschreven in [“Zelfverbruik van energie in België”](/nl/nieuws/2026/06/05/zelfverbruik-energie-belgie/).
+De rendabelste optie van alle koopt u ten slotte niet: het **collectief zelfverbruik**. Op schaal van een gebouw tilt een tussen de bewoners gedeeld zonnedak de zelfverbruiksgraad automatisch omhoog, omdat de verbruikscurves van meerdere gezinnen elkaar aanvullen. De mechanismen, indicatoren en configuraties staan beschreven in [“Zelfverbruik van energie in België”](/nl/gidsen/zelfverbruik-energie-belgie/).
 
-Deze hefboom heeft een blinde vlek: hij veronderstelt dat er iemand is om te verbruiken. Staat het huis van 8 tot 18 uur leeg, dan is het toestel dat het meest opbrengt niet wat u zou verwachten, en het is vaak op het verkeerde tijdsignaal bedraad — zie [“Zonnepanelen: overdag niemand thuis”](/nl/nieuws/2026/09/12/zonnepanelen-overdag-niet-thuis/).
+Deze hefboom heeft een blinde vlek: hij veronderstelt dat er iemand is om te verbruiken. Staat het huis van 8 tot 18 uur leeg, dan is het toestel dat het meest opbrengt niet wat u zou verwachten, en het is vaak op het verkeerde tijdsignaal bedraad — zie [“Zonnepanelen: overdag niemand thuis”](/nl/gidsen/zonnepanelen-overdag-niet-thuis/).
 
 ## 9. Energiedelen: de optie die bijna niemand activeert
 
@@ -190,11 +190,11 @@ Wat het niet doet, laten we dat meteen zeggen: het verlaagt **noch de netkosten,
 
 Drie zaken om na te gaan vóór u zich verbindt:
 
-- **De afgesproken interne prijs.** Die bepaalt uw werkelijke winst, en wordt onderhandeld binnen een vork die onderaan begrensd wordt door het injectietarief en bovenaan door de energiecomponent van uw contract. De vijf berekeningsmethoden en een becijferd geval staan in [“Interne overdrachtsprijs in een gemeenschap”](/nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/).
+- **De afgesproken interne prijs.** Die bepaalt uw werkelijke winst, en wordt onderhandeld binnen een vork die onderaan begrensd wordt door het injectietarief en bovenaan door de energiecomponent van uw contract. De vijf berekeningsmethoden en een becijferd geval staan in [“Interne overdrachtsprijs in een gemeenschap”](/nl/gidsen/prijs-elektriciteit-energiegemeenschap/).
 - **Eventuele kosten van uw leverancier.** Niets belet hem uw deelname aan het delen aan te rekenen, en er werden bedragen tot ongeveer 150 € per jaar en per afnamepunt vastgesteld. Bij kleine gedeelde volumes doen die kosten de winst teniet. *(Vaststelling van Test-Aankoop van mei 2024 — na te gaan bij uw eigen leverancier vóór ondertekening.)*
-- **Wat u werkelijk zult ontvangen.** U blijft een factuur van uw leverancier krijgen, plus een afrekening voor de gedeelde energie. De grootteordes van de besparingen zijn becijferd in [“Elektriciteitsfactuur verlagen met energiedelen”](/nl/nieuws/2026/06/03/energiegemeenschap-elektriciteitsfactuur-verlagen/).
+- **Wat u werkelijk zult ontvangen.** U blijft een factuur van uw leverancier krijgen, plus een afrekening voor de gedeelde energie. De grootteordes van de besparingen zijn becijferd in [“Elektriciteitsfactuur verlagen met energiedelen”](/nl/gidsen/energiegemeenschap-elektriciteitsfactuur-verlagen/).
 
-Concreet kunt u in Wallonië toetreden tot een bestaande deeloperatie in plaats van er zelf een op te richten: de toelatingsvoorwaarden, waar u een open operatie vindt en welke doorlooptijd u mag verwachten, staan in [“Toetreden tot een energiegemeenschap in Wallonië”](/nl/nieuws/2026/05/11/energiegemeenschap-aansluiten-wallonie/).
+Concreet kunt u in Wallonië toetreden tot een bestaande deeloperatie in plaats van er zelf een op te richten: de toelatingsvoorwaarden, waar u een open operatie vindt en welke doorlooptijd u mag verwachten, staan in [“Toetreden tot een energiegemeenschap in Wallonië”](/nl/gidsen/energiegemeenschap-aansluiten-wallonie/).
 
 ## 10. De Energieloketten van Wallonië: 40 gratis adviseurs
 

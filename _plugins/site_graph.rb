@@ -8,12 +8,14 @@
 # sequence, instead of as separate generators:
 #
 #   1. i18n metadata    lang / locale / OG image on every page and post
-#   2. redirect table   _data/redirects.csv -> redirect_from on the target page
-#   3. translations     data["translations"] = { lang => url } for every ref
-#   4. hubs             pages that list other pages (pillars, guide index) get
-#                       their resolved lists and a last_modified_at that moves
-#                       when a listed page changes
-#   5. URL guard        two files writing the same URL fail the build
+#   2. sections         every post is a guide, a solution or a news item, and
+#                       must live under that section's path in its language
+#   3. redirect table   _data/redirects.csv -> redirect_from on the target page
+#   4. translations     data["translations"] = { lang => url } for every ref
+#   5. hubs             pages that list other pages (pillars, guide index, news
+#                       listings) get their resolved lists and a
+#                       last_modified_at that moves when a listed page changes
+#   6. URL guard        two files writing the same URL fail the build
 #
 # jekyll-redirect-from (:normal) then turns redirect_from into stub pages, and
 # jekyll-sitemap / jekyll-feed (:lowest) run after that.
@@ -24,6 +26,7 @@ module OptimCE
 
     def generate(site)
       I18nMetadata.apply(site)
+      Sections.apply(site)
       RedirectsTable.apply(site)
       Translations.apply(site)
       Hubs.apply(site)
@@ -87,6 +90,12 @@ module OptimCE
         end
       end
 
+      site.pages.select { |p| p.data["layout"] == "blog" }.each do |page|
+        news = posts.select { |p| p.data["section"] == "actualites" && p.data["lang"] == page.data["lang"] }
+        page.data["hub_items"] = news.sort_by { |p| -p.date.to_i }
+        page.data["last_modified_at"] = Dates.latest(page.data["last_modified_at"], page.data["hub_items"])
+      end
+
       site.pages.select { |p| p.data["layout"] == "guides" }.each do |page|
         lang = page.data["lang"]
         entries = pillars.filter_map do |pillar|
@@ -132,6 +141,31 @@ module OptimCE
   # Raised for content errors that must stop the build: a green build that
   # deploys a broken redirect or a duplicate URL is worse than a red one.
   class BuildError < StandardError; end
+
+  # A post is a guide when it names a pillar, a solution when it names a
+  # solution, and a news item otherwise. Its URL must sit under that section's
+  # path for its language, so a guide cannot silently keep a dated /actualites/
+  # URL (or a news item land under /guides/) because its permalink was
+  # forgotten.
+  module Sections
+    PATH_KEYS = { "guides" => "guides_path", "solutions" => "solutions_path", "actualites" => "blog_path" }.freeze
+
+    def self.apply(site)
+      languages = site.config["languages"] || []
+      site.posts.docs.each do |post|
+        section = if post.data["pillar"] then "guides"
+                  elsif post.data["solution"] then "solutions"
+                  else "actualites"
+                  end
+        post.data["section"] = section
+        entry = languages.find { |l| l["code"] == post.data["lang"] } || {}
+        prefix = entry[PATH_KEYS[section]].to_s
+        next if !prefix.empty? && post.url.start_with?(prefix)
+
+        raise BuildError, "#{post.relative_path}: a #{section} post must live under #{prefix} "                           "(its URL is #{post.url}) — set `permalink:`"
+      end
+    end
+  end
 
   # `_data/redirects.csv` is the single source of truth for moved URLs. Each
   # row (from, to) becomes a `redirect_from` entry on the page that now lives

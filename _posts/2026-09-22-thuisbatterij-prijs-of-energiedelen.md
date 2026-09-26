@@ -9,7 +9,7 @@ tags: [guide, community]
 lang: nl
 ref: home-battery-vs-energy-sharing
 pillar: solaire-surplus
-permalink: /nl/nieuws/2026/09/22/thuisbatterij-prijs-of-energiedelen/
+permalink: /nl/gidsen/thuisbatterij-prijs-of-energiedelen/
 faq:
   - q: "Wat kost een thuisbatterij in België in 2026?"
     a: "Test-Aankoop, dat geen materiaal verkoopt, publiceert een overzicht per geïnstalleerde kilowattuur: ongeveer 850 € per kWh voor een batterij van 5 kWh, ongeveer 600 € per kWh voor een van 15 kWh. De prijs per kilowattuur daalt dus naarmate de capaciteit stijgt, omdat de omvormer, de plaatsing en de aansluiting nauwelijks afhangen van de grootte van het pakket. In absolute cijfers komt een batterij van 5 kWh daarmee op ongeveer 4 250 €, een van 10 kWh op ongeveer 7 250 € en een van 15 kWh op ongeveer 9 000 €, plaatsing en btw inbegrepen. Twee preciseringen wegen zwaarder dan de vork zelf. Ten eerste is de kilowattuur op het technische blad niet de bruikbare kilowattuur: fabrikanten houden een ontlaaddieptemarge aan, en het heen-en-terugrendement neemt nog eens 5 tot 10 % weg van wat erin gaat. Ten tweede is het btw-tarief van 6 % niet automatisch: het veronderstelt een woning van tien jaar of ouder en een levering met plaatsing door de aannemer. Een batterij die u los koopt, zonder installatie, blijft op 21 %."
@@ -29,7 +29,7 @@ Een thuisbatterij van 5 kWh kost **850 € per geïnstalleerde kilowattuur**. Ee
 
 In euro vertaald komt een batterij van 5 kWh daarmee op ongeveer 4 250 €, een van 10 kWh op ongeveer 7 250 €, een van 15 kWh op ongeveer 9 000 €. En geen van de drie Belgische gewesten betaalt er één cent premie voor.
 
-Dit artikel herhaalt niet wat elders op deze site al staat. ["Zonne-overschot: de 5 opties vergeleken"](/nl/nieuws/2026/08/18/wat-doen-met-je-zonne-overschot-belgie/) rangschikt de vijf bestemmingen van een overschot per geïnvesteerde euro en zet de batterij op de laatste plaats; ["Zonnepanelen 2026: nog rendabel in Wallonië?"](/nl/nieuws/2026/08/11/zonnepanelen-rendabel-wallonie-2026/) legt het becijferde referentiegeval vast dat wij hier overnemen; ["Zonnepanelen: overdag niemand thuis"](/nl/nieuws/2026/09/12/zonnepanelen-overdag-niet-thuis/) toont dat de batterijreflex meestal een verkeerde diagnose van gelijktijdigheid is; ["Stroom in de korte keten: de handleiding"](/nl/nieuws/2026/08/25/elektriciteit-korte-keten-handleiding/) legt de kwartierregel uit die al de rest bepaalt; ["Interne overdrachtsprijs in een gemeenschap"](/nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/) verklaart waar de vork van 3 tot 14 c€/kWh vandaan komt; ["Elektriciteitsfactuur verlagen: Wallonië 2026"](/nl/nieuws/2026/07/28/elektriciteitsfactuur-verlagen-wallonie-2026/) beschrijft het ORES-rooster 2026 en het Impact-tarief.
+Dit artikel herhaalt niet wat elders op deze site al staat. ["Zonne-overschot: de 5 opties vergeleken"](/nl/gidsen/wat-doen-met-je-zonne-overschot-belgie/) rangschikt de vijf bestemmingen van een overschot per geïnvesteerde euro en zet de batterij op de laatste plaats; ["Zonnepanelen 2026: nog rendabel in Wallonië?"](/nl/gidsen/zonnepanelen-rendabel-wallonie/) legt het becijferde referentiegeval vast dat wij hier overnemen; ["Zonnepanelen: overdag niemand thuis"](/nl/gidsen/zonnepanelen-overdag-niet-thuis/) toont dat de batterijreflex meestal een verkeerde diagnose van gelijktijdigheid is; ["Stroom in de korte keten: de handleiding"](/nl/gidsen/elektriciteit-korte-keten-handleiding/) legt de kwartierregel uit die al de rest bepaalt; ["Interne overdrachtsprijs in een gemeenschap"](/nl/gidsen/prijs-elektriciteit-energiegemeenschap/) verklaart waar de vork van 3 tot 14 c€/kWh vandaan komt; ["Elektriciteitsfactuur verlagen: Wallonië 2026"](/nl/gidsen/elektriciteitsfactuur-verlagen-wallonie/) beschrijft het ORES-rooster 2026 en het Impact-tarief.
 
 **De vraag die hier gesteld wordt is een andere: wat koopt de cheque die u ondertekent werkelijk terug, welke administratieve verplichting brengt hij op gang, en wat wordt er van zijn rendement als u al aan energiedelen deelneemt?**
 
@@ -78,7 +78,7 @@ Wees op dit punt voorzichtig met wat u elders leest. Verschillende commerciële 
 
 ## Wat ze opbrengt, in ons referentiegeval
 
-Wij nemen hier ongewijzigd de vier parameters over van het geval dat in ["Zonnepanelen 2026: nog rendabel in Wallonië?"](/nl/nieuws/2026/08/11/zonnepanelen-rendabel-wallonie-2026/) werd vastgelegd en dat in het hele corpus wordt gebruikt, zodat de cijfers van deze site onderling vergelijkbaar blijven.
+Wij nemen hier ongewijzigd de vier parameters over van het geval dat in ["Zonnepanelen 2026: nog rendabel in Wallonië?"](/nl/gidsen/zonnepanelen-rendabel-wallonie/) werd vastgelegd en dat in het hele corpus wordt gebruikt, zodat de cijfers van deze site onderling vergelijkbaar blijven.
 
 | Parameter | Waarde |
 |---|---|
@@ -192,7 +192,7 @@ De CWaPE onderstreept zelf dat het onderwerp verder reikt dan batterijen: een ee
 
 Daartegenover vraagt de andere manier om een overschot te valoriseren helemaal geen kapitaal.
 
-Energiedelen betekent dat u uw geïnjecteerde productie toewijst aan andere afnamepunten — buren, een school, een handelszaak, een mede-eigendom — die op hetzelfde ogenblik verbruiken. U verandert van leverancier noch productiemeter noch installatie — dat is precies het onderwerp van ["Goedkopere stroom zonder leverancierswissel"](/nl/nieuws/2026/08/05/goedkopere-stroom-zonder-leverancierswissel/). U onderhandelt een interne overdrachtsprijs.
+Energiedelen betekent dat u uw geïnjecteerde productie toewijst aan andere afnamepunten — buren, een school, een handelszaak, een mede-eigendom — die op hetzelfde ogenblik verbruiken. U verandert van leverancier noch productiemeter noch installatie — dat is precies het onderwerp van ["Goedkopere stroom zonder leverancierswissel"](/nl/gidsen/goedkopere-stroom-zonder-leverancierswissel/). U onderhandelt een interne overdrachtsprijs.
 
 Die prijs ligt in een verdedigbare vork van **3 tot 14 c€/kWh**: de ondergrens is het injectietarief, waaronder geen enkele producent belang heeft bij delen; de bovengrens is de energiecomponent die de verbruiker toch al betaalt. Gedocumenteerde Belgische gevallen liggen rond **6 c€/kWh**.
 
@@ -202,11 +202,11 @@ Dat is weinig. Wij zeggen het liever dan het mooier voor te stellen: delen verva
 
 Drie grenzen moeten eerlijk worden benoemd.
 
-**De gelijktijdigheid.** Delen wordt per schijf van vijftien minuten berekend: uw productie van de middag kan enkel worden toegewezen aan deelnemers die 's middags verbruiken. De Vlaamse ervaring toont dat ongeveer 20 % van de injectie werkelijk wordt gedeeld, tegenover de 40 % die men hoopte. De groep samenstellen uit dagprofielen — een handelszaak, een school, een zelfstandige aan huis — verandert alles, en dat is het onderwerp van onze [handleiding voor de korte keten](/nl/nieuws/2026/08/25/elektriciteit-korte-keten-handleiding/).
+**De gelijktijdigheid.** Delen wordt per schijf van vijftien minuten berekend: uw productie van de middag kan enkel worden toegewezen aan deelnemers die 's middags verbruiken. De Vlaamse ervaring toont dat ongeveer 20 % van de injectie werkelijk wordt gedeeld, tegenover de 40 % die men hoopte. De groep samenstellen uit dagprofielen — een handelszaak, een school, een zelfstandige aan huis — verandert alles, en dat is het onderwerp van onze [handleiding voor de korte keten](/nl/gidsen/elektriciteit-korte-keten-handleiding/).
 
 **De kosten van de leverancier.** Sommige rekenen de deelname aan een deeloperatie aan, van nul tot ongeveer 150 € per jaar en per afnamepunt. Op een winst van 59 € volstaat dat om de hele operatie teniet te doen. Het is het eerste wat u in uw algemene voorwaarden moet nakijken.
 
-**De vermindering van 80 % is niet voor iedereen.** Het ORES-rooster 2026 verlaagt de proportionele term op gedeelde energie met 80 % **enkel binnen hetzelfde gebouw**. Voor delen binnen een energiegemeenschap is de CWaPE uitdrukkelijk: er bestaat geen tariefvermindering. De drie Belgische statuten en hun respectieve perimeters staan uitgelegd in ["Energiegemeenschappen in België: CER, CEC, CEL"](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/).
+**De vermindering van 80 % is niet voor iedereen.** Het ORES-rooster 2026 verlaagt de proportionele term op gedeelde energie met 80 % **enkel binnen hetzelfde gebouw**. Voor delen binnen een energiegemeenschap is de CWaPE uitdrukkelijk: er bestaat geen tariefvermindering. De drie Belgische statuten en hun respectieve perimeters staan uitgelegd in ["Energiegemeenschappen in België: CER, CEC, CEL"](/nl/gidsen/energiegemeenschappen-belgie/).
 
 Blijft het wezenlijke: delen kent **geen capaciteitsplafond en kost niets om op te zetten**. Een batterij heeft de capaciteit die men betaald heeft.
 
@@ -218,7 +218,7 @@ De wettelijke definitie van delen, uit het decreet van 5 mei 2022 en het besluit
 
 > het geheel of een deel van de energie die opgewekt en in voorkomend geval opgeslagen wordt binnen hetzelfde gebouw of door de energiegemeenschap, op het lokale distributie- of transportnet geïnjecteerd en binnen hetzelfde kwartier verbruikt.
 
-**"En in voorkomend geval opgeslagen"**: stroom die uit een batterij komt, mag gedeeld worden. Dat is geen gedoogbeleid, het staat in de definitie. De CWaPE publiceert bovendien een aparte bijlage — een verklaring op eer over het gebruik van een opslaginstallatie — bij de meldingsformulieren voor een deeloperatie, zoals wij vaststelden in onze [inventaris van de administratieve documenten](/nl/nieuws/2026/08/12/energiegemeenschap-administratieve-documenten-wallonie/).
+**"En in voorkomend geval opgeslagen"**: stroom die uit een batterij komt, mag gedeeld worden. Dat is geen gedoogbeleid, het staat in de definitie. De CWaPE publiceert bovendien een aparte bijlage — een verklaring op eer over het gebruik van een opslaginstallatie — bij de meldingsformulieren voor een deeloperatie, zoals wij vaststelden in onze [inventaris van de administratieve documenten](/nl/gidsen/energiegemeenschap-administratieve-documenten-wallonie/).
 
 De vraag is dus niet wat u kiest. Ze is wat de combinatie werkelijk opbrengt.
 
@@ -299,7 +299,7 @@ Alles wat voorafgaat beschrijft Wallonië. De twee andere gewesten veranderen ee
 4. **Het prosumententarief beweegt niet.** Op het capacitaire standaardtarief schrijft de CWaPE dat de aanwezigheid van een batterij "geen invloed" heeft op de hoogte ervan: 80,98 €/kWe exclusief btw blijven bij ORES verschuldigd. Dat geldt enkel voor dat regime — met een digitale meter en het proportionele tarief verlaagt de batterij de netkosten wel degelijk.
 5. **De batterij aangeven is een wettelijke verplichting, en die aangifte is de valstrik.** Bij een installatie van vóór 2024 die nog onder de compensatie valt, kan de meteropname die het formulier UP10 oplegt een tussentijdse afrekening uitlokken en de jaarcyclus breken. ORES vermijdt het inboeken van die meterstanden, RESA geeft ze door. De CWaPE stelde op 26 maart 2026 een correctie voor; ze is nog niet van kracht.
 6. **Batterij en delen laten zich wettelijk combineren, maar hun winsten tellen niet op.** Het Waalse recht slaat op "de opgewekte en in voorkomend geval opgeslagen energie". In ons geval geven 59 € + 473 € geen 532 maar 497: 35 € per jaar verdampt omdat beide inrichtingen om hetzelfde overschot strijden.
-7. **Voor wie al deelt, brengt de batterij 438 € op en geen 473 — en 381 € als de overdrachtsprijs 10 c€ bedraagt.** Haar terugverdientijd verschuift dan van 14,8 naar 16,0 en vervolgens 18,4 jaar. De juiste volgorde blijft die welke wij sinds ["Zonne-overschot: de 5 opties vergeleken"](/nl/nieuws/2026/08/18/wat-doen-met-je-zonne-overschot-belgie/) verdedigen: eerst uw gebruik verschuiven, dan delen, en pas daarna een batterij overwegen.
+7. **Voor wie al deelt, brengt de batterij 438 € op en geen 473 — en 381 € als de overdrachtsprijs 10 c€ bedraagt.** Haar terugverdientijd verschuift dan van 14,8 naar 16,0 en vervolgens 18,4 jaar. De juiste volgorde blijft die welke wij sinds ["Zonne-overschot: de 5 opties vergeleken"](/nl/gidsen/wat-doen-met-je-zonne-overschot-belgie/) verdedigen: eerst uw gebruik verschuiven, dan delen, en pas daarna een batterij overwegen.
 
 > ### Begin met wat niets kost
 >

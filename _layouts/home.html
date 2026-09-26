@@ -19,7 +19,7 @@ layout: default
       <p class="section__subtitle">{{ t.blog.subtitle }}</p>
     </div>
     <div class="grid grid--3col">
-      {% assign posts = site.posts | where: "lang", lang %}
+      {% assign posts = site.posts | where: "lang", lang | where: "section", "actualites" %}
       {% for post in posts limit:3 %}
         {% include post-card.html post=post %}
       {% endfor %}

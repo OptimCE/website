@@ -3,7 +3,7 @@ layout: post
 title: "Huurder: zonne-energie zonder eigen dak"
 date: 2026-09-16 06:00:00 +0200
 author: "Eric van OptimCE"
-permalink: /nl/nieuws/2026/09/16/zonne-energie-huurder-zonder-dak-gids/
+permalink: /nl/gidsen/zonne-energie-huurder-zonder-dak-gids/
 excerpt: "In Wallonië wordt 36,2 % van de woningen niet bewoond door de eigenaar, en bij appartementen is dat bijna zeven op de tien. Alles wat deze site over zonne-energie publiceerde, veronderstelt nochtans een dak dat u bezit. Sinds 17 april 2025 is dat niet langer de enige deur: een huurder mag een productie-installatie inpluggen die met hem meeverhuist. En wie ze aangeeft, krijgt gratis de meter geplaatst die op zijn beurt energiedeling opent. Beide wegen houden stand — op voorwaarde dat u eerst naar de duur van uw huurcontract kijkt en pas daarna naar het materiaal."
 description: "Eén Waalse woning op drie wordt niet door de eigenaar bewoond. Wat een huurder echt kan doen sinds de vrijgave van 17 april 2025."
 tags: [guide, community, administrative]
@@ -31,7 +31,7 @@ Want alles wat wij over fotovoltaïsche energie publiceerden, veronderstelt hetz
 
 Een huurder heeft geen van beide. Hij heeft geen toegang tot premies, hij tekent de offertes niet, hij stemt niet op de algemene vergadering. Het advies dat hij krijgt, als hij er al een krijgt, past in één zin: wacht tot u eigenaar bent. Sinds **17 april 2025** klopt die zin niet meer. Op die dag werden fotovoltaïsche kits van het type "plug & play" — één of twee panelen, een micro-omvormer, een stopcontact — in België toegelaten, na nergens toegelaten te zijn geweest. Een huurder kan sindsdien een productie-installatie bezitten. Sterker nog: ze kan worden gedemonteerd en vertrekt met hem mee.
 
-Dit artikel doet niet over wat elders op deze site al geschreven staat. [“Toetreden tot een energiegemeenschap in Wallonië”](/nl/nieuws/2026/05/11/energiegemeenschap-aansluiten-wallonie/) beschrijft de administratieve stappen en legt het beginsel al vast dat het delen de EAN-code volgt en niet de eigendomstitel; [“Energie delen in een appartementsgebouw”](/nl/nieuws/2026/08/27/energie-delen-appartementsgebouw/) behandelt de drie sloten uit het Burgerlijk Wetboek en de scheeftrekking tussen wie stemt en wie verbruikt, maar vanuit het standpunt van de syndicus; [“Zonnepanelen 2026: nog rendabel in Wallonië?”](/nl/nieuws/2026/08/11/zonnepanelen-rendabel-wallonie-2026/) rekent de rendabiliteit door van een dak van 4 kilowattpiek; [“Goedkopere stroom zonder leverancierswissel”](/nl/nieuws/2026/08/05/goedkopere-stroom-zonder-leverancierswissel/) vergelijkt hoe toegankelijk het delen werkelijk is in de drie gewesten; [“Energiearmoede in Wallonië: welke steun?”](/nl/nieuws/2026/08/08/energiearmoede-wallonie-steun/) documenteert waarom huurders het meest blootstaan; [“Zelfverbruik van energie in België”](/nl/nieuws/2026/06/05/zelfverbruik-energie-belgie/) legt de begrippen vast.
+Dit artikel doet niet over wat elders op deze site al geschreven staat. [“Toetreden tot een energiegemeenschap in Wallonië”](/nl/gidsen/energiegemeenschap-aansluiten-wallonie/) beschrijft de administratieve stappen en legt het beginsel al vast dat het delen de EAN-code volgt en niet de eigendomstitel; [“Energie delen in een appartementsgebouw”](/nl/nieuws/2026/08/27/energie-delen-appartementsgebouw/) behandelt de drie sloten uit het Burgerlijk Wetboek en de scheeftrekking tussen wie stemt en wie verbruikt, maar vanuit het standpunt van de syndicus; [“Zonnepanelen 2026: nog rendabel in Wallonië?”](/nl/gidsen/zonnepanelen-rendabel-wallonie/) rekent de rendabiliteit door van een dak van 4 kilowattpiek; [“Goedkopere stroom zonder leverancierswissel”](/nl/gidsen/goedkopere-stroom-zonder-leverancierswissel/) vergelijkt hoe toegankelijk het delen werkelijk is in de drie gewesten; [“Energiearmoede in Wallonië: welke steun?”](/nl/gidsen/energiearmoede-wallonie-steun/) documenteert waarom huurders het meest blootstaan; [“Zelfverbruik van energie in België”](/nl/gidsen/zelfverbruik-energie-belgie/) legt de begrippen vast.
 
 **De vraag die hier wordt gesteld is een andere: wanneer u noch het dak, noch de muren, noch het gebouw bezit, wat bezit u dan precies — en wat laat het Belgische recht daarmee toe?**
 
@@ -52,7 +52,7 @@ Het dak bezit u niet. De gevel bezit u niet. Op de gewestelijke investeringsprem
 
 U bezit twee dingen.
 
-Het eerste is een **EAN-code**: het toegangspunt, de meter, het contract op uw naam. Een administratief actief, het lijkt weinig voor te stellen, en toch is het het enige voorwerp waar het Belgische energierecht naar kijkt. De deelnemer aan een deling is niet de eigenaar van de muur, het is de houder van het toegangspunt. Dat beginsel staat al in onze [gids om tot een energiegemeenschap toe te treden](/nl/nieuws/2026/05/11/energiegemeenschap-aansluiten-wallonie/); wij nemen het hier als vertrekpunt, niet als besluit.
+Het eerste is een **EAN-code**: het toegangspunt, de meter, het contract op uw naam. Een administratief actief, het lijkt weinig voor te stellen, en toch is het het enige voorwerp waar het Belgische energierecht naar kijkt. De deelnemer aan een deling is niet de eigenaar van de muur, het is de houder van het toegangspunt. Dat beginsel staat al in onze [gids om tot een energiegemeenschap toe te treden](/nl/gidsen/energiegemeenschap-aansluiten-wallonie/); wij nemen het hier als vertrekpunt, niet als besluit.
 
 Het tweede is nieuw, en het rechtvaardigt dit artikel: sinds 17 april 2025 mag u **een productie-installatie bezitten die niet met het gebouw is verbonden**. Ze wordt geplaatst, ingeplugd, weer weggenomen. Juridisch is het een roerend goed. Praktisch is het de eerste keer dat een Belgische huurder elektriciteit kan produceren zonder een muur om toestemming te vragen.
 
@@ -268,7 +268,7 @@ Het kader verandert, en op punten die juist een huurder aanbelangen.
 
 **In Vlaanderen** werkt het delen tussen particulieren eveneens, en Fluvius heeft de digitale meters veel sneller uitgerold dan Wallonië — wat voor de meeste Vlaamse huurders de meterhorde wegneemt. De gewestelijke aanbeveling over de kits betreft het omvormervermogen, dat onder 800 W moet blijven; de melding is enkel onder bepaalde voorwaarden vereist, terwijl ze in Wallonië en Brussel stelselmatig is. Daar staat tegenover dat het Vlaamse capaciteitstarief aangrijpt op het afgenomen piekvermogen, wat het nut van een kleine productie anders doet lezen.
 
-De details gewest per gewest — en vooral de toets van de werkelijke toegankelijkheid, die niet samenvalt met de formele wettigheid — staan in [“Goedkopere stroom zonder leverancierswissel”](/nl/nieuws/2026/08/05/goedkopere-stroom-zonder-leverancierswissel/). Wij doen ze hier niet over.
+De details gewest per gewest — en vooral de toets van de werkelijke toegankelijkheid, die niet samenvalt met de formele wettigheid — staan in [“Goedkopere stroom zonder leverancierswissel”](/nl/gidsen/goedkopere-stroom-zonder-leverancierswissel/). Wij doen ze hier niet over.
 
 ## Verhuizen: wat meegaat, wat blijft
 

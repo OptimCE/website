@@ -10,7 +10,7 @@ tags: [guide, administrative, community]
 lang: en
 ref: cheaper-electricity-without-switching-supplier
 pillar: facture-electricite
-permalink: /en/news/2026/08/05/cheaper-electricity-without-switching-supplier/
+permalink: /en/guides/cheaper-electricity-without-switching-supplier/
 faq:
   - q: "Can you pay less for electricity without switching supplier?"
     a: "Yes, through energy sharing. Part of your consumption is supplied by a local producer — a neighbouring roof, a district installation — at a price agreed between participants, while your usual supplier keeps billing the rest. Your contract is not cancelled, your meter does not move and you install nothing at home. The limit worth knowing: the saving only applies to the energy component of the kilowatt-hours actually shared, roughly 38.5 % of the bill according to the CREG dashboard of June 2026. Network costs and taxes remain due, except in specific configurations in Brussels and Wallonia."
@@ -32,7 +32,7 @@ There is, however, a mechanism that lowers the bill **without touching the contr
 
 So the interesting question is not "does it exist?". It is: **is it available where I live?** And that is where the country splits in three. Two numbers frame the problem: as of 5 August 2026, Brugel listed **38 authorised energy communities** in the Brussels-Capital Region, the most recent authorisation dated 29 May 2026. In Wallonia, there were **8** in February 2026, and the CWaPE assessment of March 2025 counted **seven sharing operations** in total across the territory.
 
-This article does not re-explain what an energy community is, or what separates a REC from a CEC — that is covered in [“Energy communities in Belgium: REC, CEC, LEC”](/en/news/2026/05/11/energy-communities-belgium/). Nor does it detail the two-invoice mechanics, described in [“Who invoices shared electricity in Belgium”](/en/news/2026/07/23/who-invoices-shared-electricity-belgium/), or the comparison with the social tariff and dynamic contracts, handled in [“Which electricity tariff should you choose in Belgium?”](/en/news/2026/08/03/choose-electricity-tariff-belgium/). It answers a more down-to-earth question: **is energy sharing a real option for you, today, where you live** — and if so, in which form.
+This article does not re-explain what an energy community is, or what separates a REC from a CEC — that is covered in [“Energy communities in Belgium: REC, CEC, LEC”](/en/guides/energy-communities-belgium/). Nor does it detail the two-invoice mechanics, described in [“Who invoices shared electricity in Belgium”](/en/guides/who-invoices-shared-electricity-belgium/), or the comparison with the social tariff and dynamic contracts, handled in [“Which electricity tariff should you choose in Belgium?”](/en/guides/choose-electricity-tariff-belgium/). It answers a more down-to-earth question: **is energy sharing a real option for you, today, where you live** — and if so, in which form.
 
 <img src="/assets/images/diagrams/energy-sharing-access-en.svg"
      alt="Comparison table of access to energy sharing across the three Belgian regions: in Brussels all three forms of sharing are operational with a graduated network tariff reduction, in Wallonia same-building and community sharing work but peer-to-peer remains blocked for lack of an implementing order, in Flanders sharing and selling are open to everyone but without any network tariff reduction."
@@ -43,7 +43,7 @@ This article does not re-explain what an energy community is, or what separates 
 
 Let us clear up the ambiguity first, because the phrase is used loosely across energy marketing.
 
-Energy sharing is an **administrative and tariff operation**, not a physical one. The electrons do not change path: they keep flowing across the public grid exactly as before. What changes is the accounting. Every fifteen minutes, your distribution system operator compares what a local producer injected with what each participant drew at that same moment, then allocates each of them a share of that output according to an allocation key agreed in advance. That share is billed to you at the price set in the sharing agreement, not at your supplier's price. That same distinction between the administrative circuit and the physical one is exactly what makes a “green” offer unverifiable and sharing verifiable: the analysis is in [“Green electricity in Belgium: really green?”](/en/news/2026/08/22/green-electricity-belgium-really-green/).
+Energy sharing is an **administrative and tariff operation**, not a physical one. The electrons do not change path: they keep flowing across the public grid exactly as before. What changes is the accounting. Every fifteen minutes, your distribution system operator compares what a local producer injected with what each participant drew at that same moment, then allocates each of them a share of that output according to an allocation key agreed in advance. That share is billed to you at the price set in the sharing agreement, not at your supplier's price. That same distinction between the administrative circuit and the physical one is exactly what makes a “green” offer unverifiable and sharing verifiable: the analysis is in [“Green electricity in Belgium: really green?”](/en/guides/green-electricity-belgium-really-green/).
 
 Three practical consequences, and they explain why the promise holds.
 
@@ -119,7 +119,7 @@ Above all, **peer-to-peer — the simplest form, the one that accounts for 47 pr
 
 The framework is nonetheless moving: a Walloon Government order of **5 February 2026** amended the 2023 order on energy communities and sharing, and eight communities were listed in February 2026 against three operations a year earlier.
 
-**What a Walloon can do today**, concretely: same-building sharing, which requires no legal entity and earns the 80 % reduction of the proportional term — by far the best option — or joining one of the existing communities. Sharing with the neighbour across the street, on the other hand, is not possible. Eligibility conditions and procedures are detailed in [“Joining an energy community in Wallonia”](/en/news/2026/05/11/join-energy-community-wallonia/); setting up a structure in [“Creating an energy community in Wallonia”](/en/news/2026/05/11/create-energy-community-wallonia/).
+**What a Walloon can do today**, concretely: same-building sharing, which requires no legal entity and earns the 80 % reduction of the proportional term — by far the best option — or joining one of the existing communities. Sharing with the neighbour across the street, on the other hand, is not possible. Eligibility conditions and procedures are detailed in [“Joining an energy community in Wallonia”](/en/guides/join-energy-community-wallonia/); setting up a structure in [“Creating an energy community in Wallonia”](/en/guides/create-energy-community-wallonia/).
 
 ### Flanders: open to all, with no network advantage whatsoever
 
@@ -127,7 +127,7 @@ Flanders presents the mirror image of Wallonia: the framework is open — sharin
 
 In December 2023, **7,779 access points** took part in energy sharing or selling, i.e. **0.2 %** of Flemish access points, according to Fluvius data published by the VREG. Two important qualifications on that figure: it aggregates sharing *and* selling, and it is dated. The VREG publishes a dashboard **updated monthly** (latest update recorded: 27 July 2026) — if you are preparing a decision, go and take this month's value rather than relying on this one.
 
-The second Flemish lesson is more useful still, because it tempers expectations everywhere: participants only manage to share about **20 % of the injection** among themselves, where initial theoretical estimates assumed 40 %. In other words, **half the potential is lost to the timing gap between generation and consumption.** That is a strong argument for a well-built allocation key, a subject covered in [“Allocation keys in Belgium: the 3 regions”](/en/news/2026/05/19/allocation-key-belgium/).
+The second Flemish lesson is more useful still, because it tempers expectations everywhere: participants only manage to share about **20 % of the injection** among themselves, where initial theoretical estimates assumed 40 %. In other words, **half the potential is lost to the timing gap between generation and consumption.** That is a strong argument for a well-built allocation key, a subject covered in [“Allocation keys in Belgium: the 3 regions”](/en/guides/allocation-key-belgium/).
 
 Finally, since January 2023 the Flemish distribution tariff has been based on peak power rather than energy drawn: there is therefore **no network tariff reduction** on shared energy, in any configuration. The gain is strictly limited to the gap between the internal price and your supplier's price. The VREG also flags that some suppliers charge **extra fees** to customers taking part in sharing — worth checking before committing, because on small volumes those fees wipe out the benefit.
 
@@ -141,7 +141,7 @@ Sharing acts on the first block. Not on the other three — except in the specif
 
 This is why you should be wary of any percentage quoted without its denominator. **“20 % savings” means nothing** until you know whether the percentage applies to the total bill, to the energy component, or to the shared volume alone.
 
-The documented order of magnitude, on the other hand, is stable: for a consumer receiving **500 kWh of shared energy per year**, the case costed by Énergie Commune under Interreg Europe puts the saving at around **€145 per year at the standard tariff**, and around **€70 for a household already on the social tariff** — the gap being explained by the fact that the social tariff already caps the energy component at a low level. The levers making up that amount are broken down in [“Reducing your electricity bill in an energy community”](/en/news/2026/06/03/energy-community-reduce-electricity-bill/), and the way to set the internal price in [“The internal transfer price in an energy community”](/en/news/2026/07/20/energy-community-electricity-price/).
+The documented order of magnitude, on the other hand, is stable: for a consumer receiving **500 kWh of shared energy per year**, the case costed by Énergie Commune under Interreg Europe puts the saving at around **€145 per year at the standard tariff**, and around **€70 for a household already on the social tariff** — the gap being explained by the fact that the social tariff already caps the energy component at a low level. The levers making up that amount are broken down in [“Reducing your electricity bill in an energy community”](/en/guides/energy-community-reduce-electricity-bill/), and the way to set the internal price in [“The internal transfer price in an energy community”](/en/guides/energy-community-electricity-price/).
 
 ### The four Brussels perimeters: the nuance everyone misses
 
@@ -180,7 +180,7 @@ The six barriers listed by the CWaPE come down, for a private individual, to thr
 
 **Peer-to-peer, which would sidestep exactly that problem, is blocked.** This is the most frustrating point in the Walloon file: the form that requires neither articles of association nor governance, the one that accounts for more than a third of Brussels projects, has been waiting for its implementing order since 2022.
 
-**The business model remains unattractive** as long as the tariff reduction is reserved for same-building sharing. A Walloon district-scale operation bears the full network costs, which squeezes the negotiable internal price between the injection tariff as a floor and the energy component as a ceiling — a narrow band, as [our article on the internal transfer price](/en/news/2026/07/20/energy-community-electricity-price/) shows.
+**The business model remains unattractive** as long as the tariff reduction is reserved for same-building sharing. A Walloon district-scale operation bears the full network costs, which squeezes the negotiable internal price between the injection tariff as a floor and the energy component as a ceiling — a narrow band, as [our article on the internal transfer price](/en/guides/energy-community-electricity-price/) shows.
 
 What is moving: the order of 5 February 2026 amended the 2023 framework, the number of communities more than doubled in a year, and pressure from practitioners is now formalised. None of that unblocks peer-to-peer to date. **If that is your configuration, the honest answer is: not yet.**
 
@@ -194,7 +194,7 @@ What is moving: the order of 5 February 2026 amended the 2023 framework, the num
 
 **In all three cases**, one question precedes every other: **how many kilowatt-hours will the allocation key actually assign to you?** The Flemish experience — 20 % of injection effectively shared against 40 % hoped for — shows that this is where the outcome is decided, far more than in negotiating the price.
 
-Once the form is chosen, the most concrete question remains: with whom. Because sharing only counts inside the quarter hour of production, a perimeter is assembled by timetable rather than by affinity — the subject of [“Local electricity: the short-circuit guide”](/en/news/2026/08/25/local-electricity-short-circuit-guide/).
+Once the form is chosen, the most concrete question remains: with whom. Because sharing only counts inside the quarter hour of production, a perimeter is assembled by timetable rather than by affinity — the subject of [“Local electricity: the short-circuit guide”](/en/guides/local-electricity-short-circuit-guide/).
 
 ## Key takeaways
 
@@ -222,7 +222,7 @@ Yes, through energy sharing. Part of your consumption is supplied by a local pro
 
 ### Does energy sharing require cancelling your supply contract?
 
-No, and it would in fact be impossible. Sharing never covers your entire consumption: it only works during the quarter-hours when local production exists. Everything not covered — at night, in winter, at peak times — remains **residual energy** that your supplier bills normally. You must therefore keep a supply contract, and you receive **two documents**: your usual bill, reduced by the shared volume, plus a statement for the shared energy issued by the sharing representative. The full mechanics are set out in [“Who invoices shared electricity in Belgium”](/en/news/2026/07/23/who-invoices-shared-electricity-belgium/).
+No, and it would in fact be impossible. Sharing never covers your entire consumption: it only works during the quarter-hours when local production exists. Everything not covered — at night, in winter, at peak times — remains **residual energy** that your supplier bills normally. You must therefore keep a supply contract, and you receive **two documents**: your usual bill, reduced by the shared volume, plus a statement for the shared energy issued by the sharing representative. The full mechanics are set out in [“Who invoices shared electricity in Belgium”](/en/guides/who-invoices-shared-electricity-belgium/).
 
 ### Can you share electricity with your neighbour in Belgium?
 
@@ -234,7 +234,7 @@ Yes, but in two configurations only, and take-up remains very low. The CWaPE ass
 
 ### Do you need a smart meter to take part in energy sharing?
 
-Yes, without exception, in all three regions. Sharing relies on comparing every participant's meter readings in fifteen-minute intervals: without quarter-hourly metering, there is no way to know how much energy was injected and consumed at the same moment. **In Brussels, replacing your meter with a smart meter is free** for energy sharing participants, as confirmed by the non-periodic tariff grid approved by Brugel. In Wallonia, the CWaPE requires a communicating electronic meter or an AMR meter, and participation means **giving up the benefit of compensation** — a point that concerns prosumers equipped before 2024. That trade-off is quantified in [“Solar panels 2026: still worth it in Wallonia?”](/en/news/2026/08/11/solar-panels-worth-it-wallonia-2026/).
+Yes, without exception, in all three regions. Sharing relies on comparing every participant's meter readings in fifteen-minute intervals: without quarter-hourly metering, there is no way to know how much energy was injected and consumed at the same moment. **In Brussels, replacing your meter with a smart meter is free** for energy sharing participants, as confirmed by the non-periodic tariff grid approved by Brugel. In Wallonia, the CWaPE requires a communicating electronic meter or an AMR meter, and participation means **giving up the benefit of compensation** — a point that concerns prosumers equipped before 2024. That trade-off is quantified in [“Solar panels 2026: still worth it in Wallonia?”](/en/guides/solar-panels-worth-it-wallonia/).
 
 ### How much can you save with energy sharing?
 

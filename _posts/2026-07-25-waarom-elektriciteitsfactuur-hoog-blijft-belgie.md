@@ -10,7 +10,7 @@ lang: nl
 ref: why-electricity-bill-stays-high
 pillar: facture-electricite
 last_modified_at: 2026-08-05 10:00:00 +0200
-permalink: /nl/nieuws/2026/07/25/waarom-elektriciteitsfactuur-hoog-blijft-belgie/
+permalink: /nl/gidsen/waarom-elektriciteitsfactuur-hoog-blijft-belgie/
 faq:
   - q: "Waarom daalt mijn elektriciteitsfactuur niet terwijl de energieprijzen zijn gezakt?"
     a: "Omdat de energieprijs slechts ongeveer 40 % van uw factuur vertegenwoordigt. De CREG stelt het expliciet: de energiecomponent maakt ongeveer 40 % van de totale elektriciteitsfactuur uit. De overige 60 % bestaat uit gereguleerde nettarieven, taksen, accijnzen en btw. Een daling van 20 % op de energie haalt dus maar ongeveer 8 % van de factuur af — en als de nettarieven in hetzelfde jaar met 6 tot 8 % stijgen, zoals in 2026 in Wallonië en Brussel, wordt de winst opgeslorpt."
@@ -59,7 +59,7 @@ Drie onmiddellijke gevolgen, en zij verklaren het grootste deel van het onbehage
 
 - **Een daling van de energie wordt met factor tweeënhalf gedempt.** Zakt de prijs van de commodity met 20 %, dan zakt uw factuur maar met ongeveer 8 %. Op 1.293 € is dat een honderdtal euro — merkbaar, maar ver van wat krantenkoppen suggereren.
 - **De btw versterkt de stijgingen van de andere blokken.** Aan 6 % komt die bovenop de energie, het net en de meeste toeslagen. Elke verhoging van het nettarief wordt onderweg dus nog met 6 % opgetrokken. Twee opmerkelijke uitzonderingen: de Waalse aansluitingsvergoeding en de Vlaamse bijdrage aan het energiefonds zijn vrijgesteld (CREG).
-- **Het gewicht van het net verschilt sterk per plaats.** In Wallonië klimt het naar 32,7 % van de factuur, tegenover 24,6 % in Brussel (CREG, juni 2026, uitgewerkt in onze gids [“Interne overdrachtsprijs in energiegemeenschap”](/nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/)). Dezelfde ingreep levert dus niet hetzelfde resultaat van het ene gewest tot het andere.
+- **Het gewicht van het net verschilt sterk per plaats.** In Wallonië klimt het naar 32,7 % van de factuur, tegenover 24,6 % in Brussel (CREG, juni 2026, uitgewerkt in onze gids [“Interne overdrachtsprijs in energiegemeenschap”](/nl/gidsen/prijs-elektriciteit-energiegemeenschap/)). Dezelfde ingreep levert dus niet hetzelfde resultaat van het ene gewest tot het andere.
 
 ## De netkosten stijgen wanneer uw kWh dalen
 
@@ -158,7 +158,7 @@ Zo komen we bij de vraag die de lezers van deze blog bezighoudt. Als energie maa
 
 En één post die vrijwel geen enkele simulatie voorziet: **uw leverancier mag kosten aanrekenen voor uw deelname aan het delen.** Niets verbiedt dat, en de vastgestelde bedragen lopen op tot ongeveer 150 € per jaar en per leveringspunt. Op kleine gedeelde volumes vagen die kosten de winst weg — het was voor Test-Aankoop de reden om energiedelen in Wallonië en Vlaanderen niet langer aan te bevelen (beoordeling van mei 2024, opnieuw te controleren vóór elke beslissing).
 
-Wat koopt energiedelen dan werkelijk? Een **lagere en vooral stabielere** prijs op een deel van het energieblok, zonder van leverancier te veranderen of panelen te plaatsen. De spaarmechanismen, met cijfers, staan in [“Elektriciteitsfactuur verlagen met energiedelen”](/nl/nieuws/2026/06/03/energiegemeenschap-elektriciteitsfactuur-verlagen/); hoe u de interne prijs vastlegt, in [“Interne overdrachtsprijs in energiegemeenschap”](/nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/); en de keuze tussen individueel zelfverbruik, collectief zelfverbruik en een energiegemeenschap, in [“Zelfverbruik van energie in België”](/nl/nieuws/2026/06/05/zelfverbruik-energie-belgie/). Zit u nog bij de volumes eerder dan bij de euro's, dan legt ons referentieartikel [“Verdeelsleutel in België: de 3 regio's”](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/) uit hoe wordt bepaald welk deel van de lokale productie u toekomt.
+Wat koopt energiedelen dan werkelijk? Een **lagere en vooral stabielere** prijs op een deel van het energieblok, zonder van leverancier te veranderen of panelen te plaatsen. De spaarmechanismen, met cijfers, staan in [“Elektriciteitsfactuur verlagen met energiedelen”](/nl/gidsen/energiegemeenschap-elektriciteitsfactuur-verlagen/); hoe u de interne prijs vastlegt, in [“Interne overdrachtsprijs in energiegemeenschap”](/nl/gidsen/prijs-elektriciteit-energiegemeenschap/); en de keuze tussen individueel zelfverbruik, collectief zelfverbruik en een energiegemeenschap, in [“Zelfverbruik van energie in België”](/nl/gidsen/zelfverbruik-energie-belgie/). Zit u nog bij de volumes eerder dan bij de euro's, dan legt ons referentieartikel [“Verdeelsleutel in België: de 3 regio's”](/nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/) uit hoe wordt bepaald welk deel van de lokale productie u toekomt.
 
 ## Wat u moet onthouden
 
@@ -173,9 +173,9 @@ In afnemende orde van doeltreffendheid, dit is waarop u greep hebt:
 
 Wat u niet mag verwachten: dat de daling van de groothandelsprijzen of van de accijnzen duidelijk leesbaar wordt op uw jaarafrekening. Ze zit er wel in — verdund in een geheel waarvan ze slechts een fractie vormt.
 
-En zoekt u nu de lijst met stappen in plaats van de uitleg: onze gids [“Elektriciteitsfactuur verlagen: Wallonië 2026”](/nl/nieuws/2026/07/28/elektriciteitsfactuur-verlagen-wallonie-2026/) becijfert tien Waalse hefbomen op basis van de ORES-tarieflijst 2026 — zes daarvan kosten niets.
+En zoekt u nu de lijst met stappen in plaats van de uitleg: onze gids [“Elektriciteitsfactuur verlagen: Wallonië 2026”](/nl/gidsen/elektriciteitsfactuur-verlagen-wallonie/) becijfert tien Waalse hefbomen op basis van de ORES-tarieflijst 2026 — zes daarvan kosten niets.
 
-En gaat uw vraag voortaan over het document zelf — wat elke regel betekent, waar u de EAN-code leest, waarom een geschatte meterstand een stijging creëert die er niet is — dan ontcijfert onze gids [“Elektriciteitsfactuur lezen: regel per regel”](/nl/nieuws/2026/07/30/elektriciteitsfactuur-lezen-belgie/) de factuur post per post. En wilt u weten of energiedelen bij u überhaupt beschikbaar is, dan doet [“Goedkopere stroom zonder leverancierswissel”](/nl/nieuws/2026/08/05/goedkopere-stroom-zonder-leverancierswissel/) de test van de drie gewesten.
+En gaat uw vraag voortaan over het document zelf — wat elke regel betekent, waar u de EAN-code leest, waarom een geschatte meterstand een stijging creëert die er niet is — dan ontcijfert onze gids [“Elektriciteitsfactuur lezen: regel per regel”](/nl/gidsen/elektriciteitsfactuur-lezen-belgie/) de factuur post per post. En wilt u weten of energiedelen bij u überhaupt beschikbaar is, dan doet [“Goedkopere stroom zonder leverancierswissel”](/nl/gidsen/goedkopere-stroom-zonder-leverancierswissel/) de test van de drie gewesten.
 
 > ### Beheer uw energiedelen met OptimCE
 >
