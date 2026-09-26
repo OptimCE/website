@@ -8,6 +8,7 @@ description: "Voorwaarden, waar u een open deelactie vindt, de stappen om toe te
 tags: [community, administrative, guide]
 lang: nl
 ref: join-energy-community-wallonia
+pillar: communautes-energie
 last_modified_at: 2026-09-16 06:00:00 +0200
 permalink: /nl/nieuws/2026/05/11/energiegemeenschap-aansluiten-wallonie/
 ---

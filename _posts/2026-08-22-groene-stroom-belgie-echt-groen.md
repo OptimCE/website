@@ -9,6 +9,7 @@ description: "Garanties van oorsprong, residuele mix, greenwashing: wat een Belg
 tags: [guide, community, administrative]
 lang: nl
 ref: green-electricity-claims
+pillar: facture-electricite
 permalink: /nl/nieuws/2026/08/22/groene-stroom-belgie-echt-groen/
 faq:
   - q: "Bewijst een garantie van oorsprong dat de stroom die ik verbruik hernieuwbaar is?"

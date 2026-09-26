@@ -9,6 +9,8 @@ nav:
   blog: "Aktuelles"
   about: "Über uns"
   glossary: "Glossar"
+  guides: "Ratgeber"
+  solutions: "Lösungen"
   get_started: "Loslegen"
   github: "GitHub"
   links: "Links"
@@ -161,6 +163,15 @@ blog:
     announcement: "Ankündigung"
     news: "Neuigkeiten"
     guide: "Anleitung"
+
+# Guides: index page and pillar pages
+guides:
+  title: "Ratgeber"
+  pillar_link: "Zum Thema"
+  count_one: "Ratgeber"
+  count_other: "Ratgeber"
+  more_guides: "Weitere Ratgeber"
+  other_pillars: "Weitere Themen"
 
 # Glossary
 glossary:

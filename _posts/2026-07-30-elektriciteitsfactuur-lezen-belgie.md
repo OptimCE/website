@@ -9,6 +9,7 @@ description: "De vijf sinds 2022 verplichte rubrieken, voorschot tegenover jaara
 tags: [guide, administrative, community]
 lang: nl
 ref: read-electricity-bill-belgium
+pillar: facture-electricite
 permalink: /nl/nieuws/2026/07/30/elektriciteitsfactuur-lezen-belgie/
 faq:
   - q: "Welke vijf rubrieken zijn verplicht op een Belgische energiefactuur?"

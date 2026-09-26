@@ -9,6 +9,7 @@ description: "Sozialtarif, Nachttarif, dynamischer Vertrag oder Energiegemeinsch
 tags: [guide, administrative, community]
 lang: de
 ref: choose-electricity-tariff-belgium
+pillar: facture-electricite
 permalink: /de/aktuelles/2026/08/03/stromtarif-belgien-waehlen/
 faq:
   - q: "Welcher Stromtarif ist 2026 in Belgien am günstigsten?"

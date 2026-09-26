@@ -8,6 +8,7 @@ description: "850 € le kilowattheure, aucune prime, et une déclaration obliga
 tags: [guide, community]
 lang: fr
 ref: home-battery-vs-energy-sharing
+pillar: solaire-surplus
 faq:
   - q: "Combien coûte une batterie domestique en Belgique en 2026 ?"
     a: "Test-Achats, qui ne vend pas de matériel, publie une grille au kilowattheure installé : environ 850 € par kWh pour une batterie de 5 kWh, environ 600 € par kWh pour une batterie de 15 kWh. Le prix au kilowattheure baisse donc quand la capacité augmente, parce que l'onduleur, la pose et le raccordement ne dépendent presque pas de la taille du pack. En euros absolus, cela place une batterie de 5 kWh autour de 4 250 €, une batterie de 10 kWh autour de 7 250 € et une batterie de 15 kWh autour de 9 000 €, pose et TVA comprises. Deux précisions comptent plus que la fourchette elle-même. D'abord, le kilowattheure annoncé sur la fiche technique n'est pas le kilowattheure utilisable : les constructeurs réservent une marge de profondeur de décharge, et le rendement aller-retour retire encore 5 à 10 % de ce qui entre. Ensuite, le taux de TVA de 6 % n'est pas automatique : il suppose un logement de dix ans ou plus et une fourniture avec pose par l'entrepreneur. Une batterie achetée seule, sans installation, reste à 21 %."

@@ -9,6 +9,7 @@ description: "Tien concrete, becijferde en gestaafde hefbomen om uw elektricitei
 tags: [guide, administrative, community]
 lang: nl
 ref: reduce-electricity-bill-wallonia-2026
+pillar: facture-electricite
 permalink: /nl/nieuws/2026/07/28/elektriciteitsfactuur-verlagen-wallonie-2026/
 faq:
   - q: "Hoe verlaagt u uw elektriciteitsfactuur in Wallonië in 2026?"

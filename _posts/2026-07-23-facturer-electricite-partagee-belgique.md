@@ -8,6 +8,7 @@ description: "Deux factures coexistent dans un partage d'énergie. Qui émet quo
 tags: [community, administrative, guide]
 lang: fr
 ref: invoice-shared-electricity
+pillar: prix-facturation-communaute
 last_modified_at: 2026-08-27 06:00:00 +0200
 faq:
   - q: "Qui doit émettre la facture pour l'énergie partagée ?"

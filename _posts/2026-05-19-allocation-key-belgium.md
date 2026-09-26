@@ -8,6 +8,7 @@ description: "Key types accepted by CWaPE, BRUGEL and VREG, what changes between
 tags: [allocation-key, administrative]
 lang: en
 ref: allocation-key-belgium
+pillar: cle-de-repartition
 last_modified_at: 2026-07-20 10:00:00 +0200
 permalink: /en/news/2026/05/19/allocation-key-belgium/
 ---

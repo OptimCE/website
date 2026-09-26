@@ -8,6 +8,7 @@ description: "Notification, annual report, grid operator agreements: which docum
 tags: [administrative, app, guide]
 lang: en
 ref: cwape-administrative-documents
+pillar: communautes-energie
 permalink: /en/news/2026/08/12/energy-community-administrative-documents-wallonia/
 faq:
   - q: "Which documents are needed to create an energy community in Wallonia?"

@@ -8,6 +8,7 @@ description: "What the internal price covers, the defensible range between injec
 tags: [community, administrative, guide]
 lang: en
 ref: internal-price-shared-energy
+pillar: prix-facturation-communaute
 permalink: /en/news/2026/07/20/energy-community-electricity-price/
 last_modified_at: 2026-07-25 10:00:00 +0200
 faq:

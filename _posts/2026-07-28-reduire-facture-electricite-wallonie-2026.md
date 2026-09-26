@@ -9,6 +9,7 @@ description: "Dix leviers concrets, chiffrés et sourcés pour alléger sa factu
 tags: [guide, administrative, community]
 lang: fr
 ref: reduce-electricity-bill-wallonia-2026
+pillar: facture-electricite
 faq:
   - q: "Comment réduire sa facture d'électricité en Wallonie en 2026 ?"
     a: "Par ordre d'efficacité : comparez votre offre sur le CompaCWaPE, le comparateur gratuit du régulateur wallon, où l'écart entre la meilleure et la pire offre dépasse 200 € par an ; vérifiez votre droit au tarif social, qui vaut de l'ordre de 400 € par an pour un ménage éligible ; puis choisissez la bonne formule de tarif de réseau. Sur la grille ORES 2026, déplacer un chauffe-eau de 1 800 kWh du monohoraire vers les heures ECO du tarif Impact représente environ 124 € TVAC par an sur le seul terme proportionnel de distribution. Les six premiers leviers de cet article ne demandent aucun investissement."

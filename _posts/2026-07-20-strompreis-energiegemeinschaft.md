@@ -8,6 +8,7 @@ description: "Was der interne Preis abdeckt, die vertretbare Spanne zwischen Ein
 tags: [community, administrative, guide]
 lang: de
 ref: internal-price-shared-energy
+pillar: prix-facturation-communaute
 permalink: /de/aktuelles/2026/07/20/strompreis-energiegemeinschaft/
 last_modified_at: 2026-07-25 10:00:00 +0200
 faq:

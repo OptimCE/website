@@ -8,6 +8,7 @@ description: "Eligibility conditions, where to find an open sharing operation, t
 tags: [community, administrative, guide]
 lang: en
 ref: join-energy-community-wallonia
+pillar: communautes-energie
 last_modified_at: 2026-09-16 06:00:00 +0200
 permalink: /en/news/2026/05/11/join-energy-community-wallonia/
 ---

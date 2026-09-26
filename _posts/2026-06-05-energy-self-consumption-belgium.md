@@ -8,6 +8,7 @@ description: "The self-consumption rate and how to raise it, collective self-con
 tags: [community]
 lang: en
 ref: self-consumption-belgium
+pillar: communautes-energie
 last_modified_at: 2026-09-16 06:00:00 +0200
 permalink: /en/news/2026/06/05/energy-self-consumption-belgium/
 faq:

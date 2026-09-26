@@ -8,6 +8,7 @@ description: "Conditions d'éligibilité, où trouver une opération de partage 
 tags: [community, administrative, guide]
 lang: fr
 ref: join-energy-community-wallonia
+pillar: communautes-energie
 last_modified_at: 2026-09-16 06:00:00 +0200
 ---
 

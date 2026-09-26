@@ -9,6 +9,7 @@ description: "The five sections mandated since 2022, instalments versus the annu
 tags: [guide, administrative, community]
 lang: en
 ref: read-electricity-bill-belgium
+pillar: facture-electricite
 permalink: /en/news/2026/07/30/read-electricity-bill-belgium/
 faq:
   - q: "What are the five mandatory sections of a Belgian energy bill?"

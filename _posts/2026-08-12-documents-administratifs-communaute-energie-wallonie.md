@@ -8,6 +8,7 @@ description: "Notification, rapportage annuel, conventions GRD : quels documents
 tags: [administrative, app, guide]
 lang: fr
 ref: cwape-administrative-documents
+pillar: communautes-energie
 faq:
   - q: "Quels documents faut-il pour créer une communauté d'énergie en Wallonie ?"
     a: "Il faut distinguer trois paquets. Pour constituer la communauté, une notification à la CWaPE, accompagnée de l'annexe listant les participants et les installations de production et, si la communauté est une société ou une association, de l'annexe relative aux personnes morales. Pour faire fonctionner le partage, un formulaire de partage d'électricité déposé auprès du gestionnaire de réseau, son annexe de participants et une déclaration sur l'honneur signée par chaque personne prenant part au partage. Enfin, une convention-type entre le gestionnaire de réseau et le représentant, dans sa version communauté d'énergie ou dans sa version même bâtiment. La CWaPE publie aussi un guide explicatif pour chacun des deux formulaires principaux, et il vaut la peine de le lire avant de remplir quoi que ce soit."

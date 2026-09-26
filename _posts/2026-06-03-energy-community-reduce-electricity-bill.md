@@ -8,6 +8,7 @@ description: "The real savings levers, a worked example, what differs between Wa
 tags: [community]
 lang: en
 ref: reduce-electricity-bill
+pillar: facture-electricite
 last_modified_at: 2026-08-05 10:00:00 +0200
 permalink: /en/news/2026/06/03/energy-community-reduce-electricity-bill/
 ---

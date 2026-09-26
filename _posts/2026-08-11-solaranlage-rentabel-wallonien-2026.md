@@ -8,6 +8,7 @@ description: "Lohnt sich eine Photovoltaikanlage in Wallonien 2026 ohne Kompensa
 tags: [guide, administrative, community]
 lang: de
 ref: solar-panels-worth-it-wallonia-2026
+pillar: solaire-surplus
 last_modified_at: 2026-09-22 06:00:00 +0200
 permalink: /de/aktuelles/2026/08/11/solaranlage-rentabel-wallonien-2026/
 faq:

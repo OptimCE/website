@@ -9,6 +9,7 @@ description: "Social tariff, night rate, dynamic contract or energy community: w
 tags: [guide, administrative, community]
 lang: en
 ref: choose-electricity-tariff-belgium
+pillar: facture-electricite
 permalink: /en/news/2026/08/03/choose-electricity-tariff-belgium/
 faq:
   - q: "Which electricity tariff is the most advantageous in Belgium in 2026?"

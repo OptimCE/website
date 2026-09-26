@@ -8,6 +8,7 @@ description: "Sleuteltypes erkend door CWaPE, BRUGEL en VREG, de verschillen tus
 tags: [allocation-key, administrative]
 lang: nl
 ref: allocation-key-belgium
+pillar: cle-de-repartition
 last_modified_at: 2026-07-20 10:00:00 +0200
 permalink: /nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/
 ---

@@ -9,6 +9,7 @@ description: "Tarif social, bihoraire, contrat dynamique ou communauté d'énerg
 tags: [guide, administrative, community]
 lang: fr
 ref: choose-electricity-tariff-belgium
+pillar: facture-electricite
 faq:
   - q: "Quel tarif d'électricité est le plus avantageux en Belgique en 2026 ?"
     a: "Il n'existe pas de réponse unique, parce que les formules n'agissent pas sur les mêmes lignes de la facture. Le tarif social est de loin le plus avantageux quand on y a droit : 24,927 c€/kWh TVA comprise en monohoraire au troisième trimestre 2026, contre un prix all-in moyen de 36,94 c€/kWh relevé par la CREG en juin 2026 — mais c'est un statut, pas un choix. Pour tous les autres, l'ordre est le suivant : vérifier son droit au tarif social, comparer son contrat actuel au marché, choisir la formule de tarif de réseau adaptée à ses horaires, et n'envisager un contrat dynamique que si l'on dispose d'une flexibilité réelle. Le partage d'énergie s'ajoute par-dessus, sans changer de fournisseur."

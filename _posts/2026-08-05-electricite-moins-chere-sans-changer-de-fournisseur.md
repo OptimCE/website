@@ -9,6 +9,7 @@ description: "Le partage d'énergie fait baisser la facture sans résilier son c
 tags: [guide, administrative, community]
 lang: fr
 ref: cheaper-electricity-without-switching-supplier
+pillar: facture-electricite
 faq:
   - q: "Peut-on payer son électricité moins cher sans changer de fournisseur ?"
     a: "Oui, par le partage d'énergie. Le principe est qu'une partie de votre consommation vous est fournie par un producteur local — une toiture voisine, une installation de quartier — à un prix convenu entre participants, tandis que votre fournisseur habituel continue de vous facturer le reste. Votre contrat n'est pas résilié, vous ne déménagez pas de compteur et vous n'installez rien chez vous. La limite à connaître : l'économie ne porte que sur la composante énergie des kilowattheures effectivement partagés, soit environ 38,5 % de la facture selon le tableau de bord CREG de juin 2026. Les coûts de réseau et les taxes restent dus, sauf configurations particulières à Bruxelles et en Wallonie."

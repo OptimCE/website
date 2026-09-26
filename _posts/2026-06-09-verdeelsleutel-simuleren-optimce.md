@@ -8,6 +8,7 @@ description: "Simuleer een sleutel op uw eigen data en meet zelfverbruik, surplu
 tags: [allocation-key, app, news]
 lang: nl
 ref: optimce-allocation-key-simulation
+pillar: cle-de-repartition
 permalink: /nl/nieuws/2026/06/09/verdeelsleutel-simuleren-optimce/
 faq:
   - q: "Wat betekent het om een verdeelsleutel te simuleren?"

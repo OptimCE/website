@@ -9,6 +9,7 @@ description: "What the RED II and IEMD directives set out, how Belgium, France a
 tags: [community, administrative, guide]
 lang: en
 ref: energy-communities-europe
+pillar: communautes-energie
 permalink: /en/news/2026/03/05/energy-communities-europe/
 faq:
   - q: "What is the difference between a renewable energy community and a citizen energy community?"

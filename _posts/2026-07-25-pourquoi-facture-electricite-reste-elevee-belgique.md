@@ -8,6 +8,7 @@ description: "L'énergie ne pèse que 40 % de la facture. Décomposition des qua
 tags: [community, administrative, guide]
 lang: fr
 ref: why-electricity-bill-stays-high
+pillar: facture-electricite
 last_modified_at: 2026-08-05 10:00:00 +0200
 faq:
   - q: "Pourquoi ma facture d'électricité ne baisse-t-elle pas alors que les prix de l'énergie ont baissé ?"

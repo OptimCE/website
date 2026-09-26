@@ -8,6 +8,7 @@ description: "850 € je Kilowattstunde, keine Prämie, und eine Pflichtmeldung,
 tags: [guide, community]
 lang: de
 ref: home-battery-vs-energy-sharing
+pillar: solaire-surplus
 permalink: /de/aktuelles/2026/09/22/hausbatterie-preis-oder-energieteilen/
 faq:
   - q: "Was kostet eine Hausbatterie in Belgien im Jahr 2026?"

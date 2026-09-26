@@ -9,6 +9,7 @@ description: "Die fünf seit 2022 vorgeschriebenen Abschnitte, Abschlag gegen Ja
 tags: [guide, administrative, community]
 lang: de
 ref: read-electricity-bill-belgium
+pillar: facture-electricite
 permalink: /de/aktuelles/2026/07/30/stromrechnung-lesen-belgien/
 faq:
   - q: "Welche fünf Abschnitte sind auf einer belgischen Energierechnung vorgeschrieben?"

@@ -8,6 +8,7 @@ description: "CER, CEC and CEL: what sets them apart, how energy sharing works, 
 tags: [community, administrative]
 lang: en
 ref: energy-communities-belgium
+pillar: communautes-energie
 last_modified_at: 2026-07-20 10:00:00 +0200
 permalink: /en/news/2026/05/11/energy-communities-belgium/
 ---

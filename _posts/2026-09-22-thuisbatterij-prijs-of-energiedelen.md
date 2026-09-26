@@ -8,6 +8,7 @@ description: "850 € per kilowattuur, geen premie, en een verplichte melding di
 tags: [guide, community]
 lang: nl
 ref: home-battery-vs-energy-sharing
+pillar: solaire-surplus
 permalink: /nl/nieuws/2026/09/22/thuisbatterij-prijs-of-energiedelen/
 faq:
   - q: "Wat kost een thuisbatterij in België in 2026?"

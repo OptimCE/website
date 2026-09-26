@@ -9,6 +9,7 @@ description: "Was die Richtlinien RED II und IEMD vorsehen, wie Belgien, Frankre
 tags: [community, administrative, guide]
 lang: de
 ref: energy-communities-europe
+pillar: communautes-energie
 permalink: /de/aktuelles/2026/03/05/energiegemeinschaften-europa/
 faq:
   - q: "Was ist der Unterschied zwischen einer Erneuerbare-Energien-Gemeinschaft und einer Bürgerenergiegemeinschaft?"

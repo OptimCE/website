@@ -9,6 +9,7 @@ description: "Guarantees of origin, residual mix, greenwashing: what a Belgian g
 tags: [guide, community, administrative]
 lang: en
 ref: green-electricity-claims
+pillar: facture-electricite
 permalink: /en/news/2026/08/22/green-electricity-belgium-really-green/
 faq:
   - q: "Does a guarantee of origin prove that the electricity I consume is renewable?"

@@ -10,6 +10,7 @@ description: "85.8% of your output arrives while the house is empty. What really
 tags: [guide, community]
 lang: en
 ref: solar-away-during-day
+pillar: solaire-surplus
 faq:
   - q: "How much of my solar output is really wasted if I work away from home?"
     a: "Nothing is wasted in the strict sense: whatever you do not consume is fed into the grid and paid for. What is lost is the gap in value between the two. A kilowatt-hour you consume yourself spares you the retail price, 36.94 c€/kWh including VAT on the CREG reading of June 2026 that we use across all our articles. The same kilowatt-hour exported earns you something in the order of 3.5 c€/kWh. The gap is 33.44 c€, a ratio of more than ten to one. On a 4 kilowatt-peak system producing 3,800 kWh a year at the reference self-consumption rate of 37.76%, that means 1,435 kWh worth 530 € and 2,365 kWh exported for 83 €: 613 € a year in total, in which the exported share carries 62% of the volume and 13.5% of the revenue. A household away during the day sits below that average, around 30% according to the Belgian readings available. The question is therefore not whether you are wasting anything, but how many of those 2,365 kilowatt-hours you can move to the 36.94 c€ side, and at what cost."

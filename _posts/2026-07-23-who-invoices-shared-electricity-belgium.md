@@ -8,6 +8,7 @@ description: "Two invoices coexist in energy sharing. Who issues what, which VAT
 tags: [community, administrative, guide]
 lang: en
 ref: invoice-shared-electricity
+pillar: prix-facturation-communaute
 permalink: /en/news/2026/07/23/who-invoices-shared-electricity-belgium/
 last_modified_at: 2026-08-27 06:00:00 +0200
 faq:

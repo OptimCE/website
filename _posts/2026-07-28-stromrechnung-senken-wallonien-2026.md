@@ -9,6 +9,7 @@ description: "Zehn konkrete, belegte Hebel zur Senkung der Stromrechnung in Wall
 tags: [guide, administrative, community]
 lang: de
 ref: reduce-electricity-bill-wallonia-2026
+pillar: facture-electricite
 permalink: /de/aktuelles/2026/07/28/stromrechnung-senken-wallonien-2026/
 faq:
   - q: "Wie lässt sich die Stromrechnung in Wallonien 2026 senken?"

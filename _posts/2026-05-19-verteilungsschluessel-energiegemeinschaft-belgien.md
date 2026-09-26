@@ -8,6 +8,7 @@ description: "Von CWaPE, BRUGEL und VREG anerkannte Schlüsseltypen, die Untersc
 tags: [allocation-key, administrative]
 lang: de
 ref: allocation-key-belgium
+pillar: cle-de-repartition
 last_modified_at: 2026-07-20 10:00:00 +0200
 permalink: /de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/
 ---

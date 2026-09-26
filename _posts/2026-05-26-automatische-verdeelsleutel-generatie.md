@@ -8,6 +8,7 @@ description: "Twee algoritmes — brute force op standaardsleutels en LOGAAS —
 tags: [allocation-key, app, guide]
 lang: nl
 ref: optimce-allocation-key-generator
+pillar: cle-de-repartition
 permalink: /nl/nieuws/2026/05/26/automatische-verdeelsleutel-generatie/
 ---
 

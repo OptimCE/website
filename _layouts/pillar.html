@@ -1,0 +1,57 @@
+---
+layout: default
+---
+{%- comment -%}
+  Pillar page: the thematic hub of a group of guides.
+  Front matter: pillar (key in _data/pillars.yml), title, subtitle,
+  description, sections [{ title, refs }]. The body is the introduction.
+  page.hub_sections and page.hub_neighbours are resolved by
+  _plugins/site_graph.rb (a section ref that matches no guide fails the build).
+{%- endcomment -%}
+{% assign lang = page.lang | default: site.lang %}
+{% assign t = site.data.i18n[lang] %}
+<article class="page pillar">
+  <header class="page__header section">
+    <div class="container container--narrow">
+      {% include breadcrumb.html %}
+      <h1 class="page__title">{{ page.title }}</h1>
+      {% if page.subtitle %}
+        <p class="page__subtitle">{{ page.subtitle }}</p>
+      {% endif %}
+    </div>
+  </header>
+  <div class="page__content section pillar__intro">
+    <div class="container container--narrow">
+      {{ content }}
+    </div>
+  </div>
+  {% for group in page.hub_sections %}
+  <section class="section pillar__section">
+    <div class="container">
+      <h2 class="pillar__section-title">{{ group.title }}</h2>
+      <div class="grid grid--3col">
+        {% for post in group.posts %}
+          {% include post-card.html post=post heading_level=3 summary="description" %}
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+  {% endfor %}
+  {% if page.hub_neighbours.size > 0 %}
+  <section class="section pillar__section pillar__neighbours">
+    <div class="container">
+      <h2 class="pillar__section-title">{{ t.guides.other_pillars }}</h2>
+      <div class="grid grid--2col">
+        {% for neighbour in page.hub_neighbours %}
+        <div class="feature-card">
+          <h3 class="feature-card__title">
+            <a href="{{ neighbour.url | relative_url }}">{{ neighbour.title }}</a>
+          </h3>
+          <p class="feature-card__description">{{ neighbour.subtitle | default: neighbour.description }}</p>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+  {% endif %}
+</article>

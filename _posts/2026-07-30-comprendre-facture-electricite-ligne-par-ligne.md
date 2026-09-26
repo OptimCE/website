@@ -9,6 +9,7 @@ description: "Les cinq sections imposées depuis 2022, l'acompte face au décomp
 tags: [guide, administrative, community]
 lang: fr
 ref: read-electricity-bill-belgium
+pillar: facture-electricite
 faq:
   - q: "Quelles sont les cinq sections obligatoires d'une facture d'énergie en Belgique ?"
     a: "L'arrêté royal du 9 décembre 2021, en vigueur depuis le 1er janvier 2022, impose cinq sections à toute facture adressée à un client résidentiel : A « informations essentielles relatives au contrat », B « combien, quand et comment dois-je payer », C « j'ai une question à poser », D « comparer contrat et changer » et E « gérer la consommation d'énergie ». Ces sections sont les mêmes chez tous les fournisseurs actifs en Belgique, parce qu'elles transposent l'article 18 et l'annexe I de la directive européenne 2019/944. Une facture qui ne les contient pas n'est pas conforme."

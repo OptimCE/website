@@ -9,6 +9,7 @@ description: "Eine wallonische Wohnung von dreien wird nicht vom Eigentümer bew
 tags: [guide, community, administrative]
 lang: de
 ref: tenant-solar-without-roof
+pillar: solaire-surplus
 faq:
   - q: "Darf ein Mieter Solarmodule installieren?"
     a: "Auf dem Dach nicht: Es gehört dem Eigentümer, und nichts im wallonischen Dekret vom 15. März 2018 über den Wohnungsmietvertrag gibt dem Mieter ein Recht, daran zu rühren. Seit dem 17. April 2025 ist jedoch ein Photovoltaik-Set vom Typ „Plug & Play“ — ein oder zwei Module und ein Mikrowechselrichter, eingesteckt in eine gewöhnliche Steckdose — in Belgien zulässig. Die CWaPE hat das in einer Mitteilung vom selben Tag festgehalten. Ein solches Set ist nicht mit dem Gebäude verbunden: Es wird aufgestellt, es lässt sich abbauen, und es zieht mit Ihnen um. Es ist die einzige Stromerzeugung, die ein Mieter selbst besitzen kann. Drei Vorbehalte allerdings. Das Set muss vor der Inbetriebnahme über das Formular UP10 beim Verteilernetzbetreiber gemeldet werden. Die CWaPE empfiehlt — ohne es zur rechtlichen Bedingung zu machen —, den Eigentümer zu informieren und sein Einverständnis einzuholen, und weist darauf hin, dass der Mietvertrag entsprechende Klauseln enthalten kann. Schließlich hängt der Ertrag vollständig davon ab, wo Sie das Set anbringen können: Ein Südbalkon hat nichts mit einem Nordbalkon gemein, und die wallonische Energieverwaltung veröffentlicht eine Ertragsspanne von 200 bis 1 038 kWh je Kilowatt-Peak und Jahr."

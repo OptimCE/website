@@ -8,6 +8,7 @@ description: "The four degrees of the energy short circuit in Wallonia, what the
 tags: [guide, community]
 lang: en
 ref: local-electricity-short-circuit
+pillar: facture-electricite
 last_modified_at: 2026-09-10 06:00:00 +0200
 permalink: /en/news/2026/08/25/local-electricity-short-circuit-guide/
 faq:

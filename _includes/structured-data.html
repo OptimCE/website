@@ -15,8 +15,8 @@
     #software      one global product entity, shared @id across all 4 homepages
     #person        the article byline; emitted with #article so it is never orphaned
     #article       posts
-    #webpage       about / glossary
-    #breadcrumb    everything except the homepages
+    #webpage       about (AboutPage), pillar and guide index pages (CollectionPage)
+    #breadcrumb    everything except the homepages (trail: _includes/breadcrumb.html)
     #faq           posts declaring `faq:` front matter
     #terms         glossary index pages
 {%- endcomment -%}
@@ -179,36 +179,42 @@
       Post URLs are five segments deep, so this is the only machine-readable
       signal of where a post sits in the site.
     {%- endcomment -%}
+    {%- if page.layout == 'pillar' or page.layout == 'guides' -%}
+    {%- comment -%}
+      Hub pages: a CollectionPage whose ItemList mirrors what the page lists
+      (page.hub_items, resolved by _plugins/site_graph.rb in display order).
+    {%- endcomment -%}
+    ,{
+      "@type": "CollectionPage",
+      "@id": {{ page_url | append: '#webpage' | jsonify }},
+      "url": {{ page_url | jsonify }},
+      "name": {{ page.title | jsonify }},
+      "description": {{ page.description | jsonify }},
+      "inLanguage": {{ lang | jsonify }},
+      "isPartOf": { "@id": {{ website_id | jsonify }} },
+      "breadcrumb": { "@id": {{ page_url | append: '#breadcrumb' | jsonify }} },
+      "mainEntity": {
+        "@type": "ItemList",
+        "numberOfItems": {{ page.hub_items.size }},
+        "itemListElement": [
+          {%- for item in page.hub_items %}
+          {
+            "@type": "ListItem",
+            "position": {{ forloop.index }},
+            "url": {{ item.url | absolute_url | jsonify }},
+            "name": {{ item.title | jsonify }}
+          }{%- unless forloop.last %},{%- endunless %}
+          {%- endfor %}
+        ]
+      }
+    }
+    {%- endif -%}
     {%- if page.ref != 'home' and page.ref -%}
     ,{
       "@type": "BreadcrumbList",
       "@id": {{ page_url | append: '#breadcrumb' | jsonify }},
       "itemListElement": [
-        {
-          "@type": "ListItem",
-          "position": 1,
-          "name": {{ t.nav.home | jsonify }},
-          "item": {{ home_url | jsonify }}
-        }
-        {%- if page.layout == 'post' -%}
-        ,{
-          "@type": "ListItem",
-          "position": 2,
-          "name": {{ t.nav.blog | jsonify }},
-          "item": {{ cl.blog_path | absolute_url | jsonify }}
-        },
-        {
-          "@type": "ListItem",
-          "position": 3,
-          "name": {{ page.title | jsonify }}
-        }
-        {%- else -%}
-        ,{
-          "@type": "ListItem",
-          "position": 2,
-          "name": {{ page.title | jsonify }}
-        }
-        {%- endif -%}
+        {%- include breadcrumb.html format="jsonld" -%}
       ]
     }
     {%- endif -%}

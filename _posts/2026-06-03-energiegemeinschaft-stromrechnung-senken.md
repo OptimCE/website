@@ -8,6 +8,7 @@ description: "Woher die Ersparnis wirklich kommt, ein Rechenbeispiel, die Unters
 tags: [community]
 lang: de
 ref: reduce-electricity-bill
+pillar: facture-electricite
 last_modified_at: 2026-08-05 10:00:00 +0200
 permalink: /de/aktuelles/2026/06/03/energiegemeinschaft-stromrechnung-senken/
 ---

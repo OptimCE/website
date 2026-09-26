@@ -9,6 +9,7 @@ description: "Ten concrete, costed and sourced levers to cut your electricity bi
 tags: [guide, administrative, community]
 lang: en
 ref: reduce-electricity-bill-wallonia-2026
+pillar: facture-electricite
 permalink: /en/news/2026/07/28/reduce-electricity-bill-wallonia-2026/
 faq:
   - q: "How can I reduce my electricity bill in Wallonia in 2026?"

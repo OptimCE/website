@@ -9,6 +9,7 @@ description: "Sociaal tarief, nachttarief, dynamisch contract of energiegemeensc
 tags: [guide, administrative, community]
 lang: nl
 ref: choose-electricity-tariff-belgium
+pillar: facture-electricite
 permalink: /nl/nieuws/2026/08/03/elektriciteitstarief-kiezen-belgie/
 faq:
   - q: "Welk elektriciteitstarief is in 2026 het voordeligst in België?"

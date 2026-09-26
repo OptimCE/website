@@ -8,6 +8,7 @@ description: "Without compensation, is a Walloon solar installation still profit
 tags: [guide, administrative, community]
 lang: en
 ref: solar-panels-worth-it-wallonia-2026
+pillar: solaire-surplus
 last_modified_at: 2026-09-22 06:00:00 +0200
 permalink: /en/news/2026/08/11/solar-panels-worth-it-wallonia-2026/
 faq:

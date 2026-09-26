@@ -8,6 +8,7 @@ description: "Zwei Algorithmen — Brute-Force über alle Standardschlüssel und
 tags: [allocation-key, app, guide]
 lang: de
 ref: optimce-allocation-key-generator
+pillar: cle-de-repartition
 permalink: /de/aktuelles/2026/05/26/automatische-verteilungsschluessel-generierung/
 ---
 

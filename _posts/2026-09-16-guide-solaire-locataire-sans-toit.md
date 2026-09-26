@@ -8,6 +8,7 @@ description: "Un logement wallon sur trois n'est pas occupé par son propriétai
 tags: [guide, community, administrative]
 lang: fr
 ref: tenant-solar-without-roof
+pillar: solaire-surplus
 faq:
   - q: "Un locataire peut-il installer des panneaux solaires ?"
     a: "Sur la toiture, non : elle appartient au propriétaire et rien dans le décret wallon du 15 mars 2018 relatif au bail d'habitation ne donne au preneur le droit d'y toucher. Mais depuis le 17 avril 2025, un kit photovoltaïque « Plug & Play » — un ou deux panneaux, un micro-onduleur, branchés sur une prise de courant ordinaire — est autorisé en Belgique. La CWaPE l'a acté dans une communication du même jour. Ce kit n'est pas un immeuble par incorporation : il se pose, il se démonte, et il repart avec vous. C'est la seule production d'électricité qu'un locataire peut posséder en propre. Trois réserves, cependant. Le kit doit être déclaré à votre gestionnaire de réseau avant sa mise en service, via le formulaire UP10. La CWaPE recommande — sans en faire une condition légale — de prévenir votre propriétaire et d'obtenir son accord, et rappelle que le bail peut contenir des clauses à ce sujet. Enfin le rendement dépend entièrement de l'endroit où vous pouvez le poser : un balcon plein sud n'a rien à voir avec un balcon plein nord, et le SPW Énergie publie une fourchette de productible allant de 200 à 1 038 kWh par kilowatt-crête et par an."

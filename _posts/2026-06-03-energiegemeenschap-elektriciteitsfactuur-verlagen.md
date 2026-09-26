@@ -8,6 +8,7 @@ description: "Waar de besparing echt vandaan komt, een rekenvoorbeeld, de versch
 tags: [community]
 lang: nl
 ref: reduce-electricity-bill
+pillar: facture-electricite
 last_modified_at: 2026-08-05 10:00:00 +0200
 permalink: /nl/nieuws/2026/06/03/energiegemeenschap-elektriciteitsfactuur-verlagen/
 ---

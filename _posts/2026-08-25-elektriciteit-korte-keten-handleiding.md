@@ -8,6 +8,7 @@ description: "De vier gradaties van de korte keten voor stroom in Wallonië, wat
 tags: [guide, community]
 lang: nl
 ref: local-electricity-short-circuit
+pillar: facture-electricite
 last_modified_at: 2026-09-10 06:00:00 +0200
 permalink: /nl/nieuws/2026/08/25/elektriciteit-korte-keten-handleiding/
 faq:

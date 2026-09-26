@@ -8,6 +8,7 @@ description: "Deux algorithmes — brute force sur les clés standards et LOGAAS
 tags: [allocation-key, app, guide]
 lang: fr
 ref: optimce-allocation-key-generator
+pillar: cle-de-repartition
 # Pinned explicitly, like the three translations. Before `timezone` was set in
 # _config.yml the 00:00 +0200 date built as 05/25 on the UTC CI runner, so that
 # URL is live and indexed — its redirect lives in _data/redirects.csv.

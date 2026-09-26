@@ -8,6 +8,7 @@ description: "CER- of CEC-model, juridische structuur, melding bij CWaPE en opst
 tags: [community, administrative, guide]
 lang: nl
 ref: create-energy-community-wallonia
+pillar: communautes-energie
 last_modified_at: 2026-09-03 06:00:00 +0200
 permalink: /nl/nieuws/2026/05/11/energiegemeenschap-oprichten-wallonie/
 ---

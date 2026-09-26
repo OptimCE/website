@@ -8,6 +8,7 @@ description: "29,2 % van de Waalse gezinnen kent energiearmoede. Welke steun bes
 tags: [guide, administrative, community]
 lang: nl
 ref: energy-poverty-wallonia-support
+pillar: facture-electricite
 last_modified_at: 2026-09-16 06:00:00 +0200
 permalink: /nl/nieuws/2026/08/08/energiearmoede-wallonie-steun/
 faq:

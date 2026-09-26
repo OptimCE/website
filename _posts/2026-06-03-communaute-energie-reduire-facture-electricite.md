@@ -8,6 +8,7 @@ description: "Les leviers d'économie réels, un exemple chiffré, ce qui change
 tags: [community]
 lang: fr
 ref: reduce-electricity-bill
+pillar: facture-electricite
 last_modified_at: 2026-08-05 10:00:00 +0200
 ---
 

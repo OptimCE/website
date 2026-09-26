@@ -8,6 +8,7 @@ description: "29.2% of Walloon households face energy poverty. Which support sch
 tags: [guide, administrative, community]
 lang: en
 ref: energy-poverty-wallonia-support
+pillar: facture-electricite
 last_modified_at: 2026-09-16 06:00:00 +0200
 permalink: /en/news/2026/08/08/energy-poverty-wallonia-support/
 faq:

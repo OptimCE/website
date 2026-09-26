@@ -9,6 +9,7 @@ description: "One Walloon home in three is not owner-occupied. What a tenant can
 tags: [guide, community, administrative]
 lang: en
 ref: tenant-solar-without-roof
+pillar: solaire-surplus
 faq:
   - q: "Can a tenant install solar panels?"
     a: "Not on the roof: it belongs to the landlord, and nothing in the Walloon decree of 15 March 2018 on residential leases gives the tenant any right to touch it. But since 17 April 2025, a plug & play photovoltaic kit — one or two panels and a micro-inverter, plugged into an ordinary socket — has been legal in Belgium. The CWaPE set this out in a communication issued the same day. Such a kit is not incorporated into the building: it is set down, it comes apart, and it leaves with you. It is the only electricity generation a tenant can own outright. Three caveats, though. The kit must be declared to your distribution system operator before commissioning, using the UP10 form. The CWaPE recommends — without making it a legal condition — that you inform your landlord and obtain their agreement, and notes that the lease may contain clauses on the subject. Finally, the yield depends entirely on where you can put it: a south-facing balcony has nothing in common with a north-facing one, and the Walloon energy administration publishes a yield range running from 200 to 1,038 kWh per kilowatt-peak per year."

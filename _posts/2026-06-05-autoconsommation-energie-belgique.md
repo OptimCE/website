@@ -8,6 +8,7 @@ description: "Taux d'autoconsommation et comment l'augmenter, autoconsommation c
 tags: [community]
 lang: fr
 ref: self-consumption-belgium
+pillar: communautes-energie
 last_modified_at: 2026-09-16 06:00:00 +0200
 faq:
   - q: "Qu'est-ce que le taux d'autoconsommation ?"

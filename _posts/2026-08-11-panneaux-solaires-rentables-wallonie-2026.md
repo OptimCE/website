@@ -8,6 +8,7 @@ description: "Sans compensation, une installation photovoltaïque wallonne est-e
 tags: [guide, administrative, community]
 lang: fr
 ref: solar-panels-worth-it-wallonia-2026
+pillar: solaire-surplus
 last_modified_at: 2026-09-22 06:00:00 +0200
 faq:
   - q: "Les panneaux solaires sont-ils encore rentables en Wallonie en 2026 ?"

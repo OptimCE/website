@@ -8,6 +8,7 @@ description: "Two algorithms — brute force over standard keys and LOGAAS — t
 tags: [allocation-key, app, guide]
 lang: en
 ref: optimce-allocation-key-generator
+pillar: cle-de-repartition
 permalink: /en/news/2026/05/26/automatic-allocation-key-generation/
 ---
 

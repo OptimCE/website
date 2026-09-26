@@ -8,6 +8,7 @@ description: "29,2 % des ménages wallons sont en précarité énergétique. Que
 tags: [guide, administrative, community]
 lang: fr
 ref: energy-poverty-wallonia-support
+pillar: facture-electricite
 last_modified_at: 2026-09-16 06:00:00 +0200
 faq:
   - q: "Qu'est-ce que la précarité énergétique et comment se mesure-t-elle en Belgique ?"

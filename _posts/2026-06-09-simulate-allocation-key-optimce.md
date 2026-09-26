@@ -8,6 +8,7 @@ description: "Simulate a key on your own data and measure self-consumption, surp
 tags: [allocation-key, app, news]
 lang: en
 ref: optimce-allocation-key-simulation
+pillar: cle-de-repartition
 permalink: /en/news/2026/06/09/simulate-allocation-key-optimce/
 faq:
   - q: "What does it mean to simulate an allocation key?"

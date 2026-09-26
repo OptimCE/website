@@ -9,6 +9,7 @@ description: "Energiedelen verlaagt uw factuur zonder uw contract op te zeggen. 
 tags: [guide, administrative, community]
 lang: nl
 ref: cheaper-electricity-without-switching-supplier
+pillar: facture-electricite
 permalink: /nl/nieuws/2026/08/05/goedkopere-stroom-zonder-leverancierswissel/
 faq:
   - q: "Kunt u minder betalen voor elektriciteit zonder van leverancier te veranderen?"

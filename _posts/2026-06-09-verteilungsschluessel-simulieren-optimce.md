@@ -8,6 +8,7 @@ description: "Simulieren Sie einen Schlüssel auf Ihren Daten und messen Sie Eig
 tags: [allocation-key, app, news]
 lang: de
 ref: optimce-allocation-key-simulation
+pillar: cle-de-repartition
 permalink: /de/aktuelles/2026/06/09/verteilungsschluessel-simulieren-optimce/
 faq:
   - q: "Was bedeutet es, einen Aufteilungsschlüssel zu simulieren?"

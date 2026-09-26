@@ -8,6 +8,7 @@ description: "Kennisgeving, jaarlijkse rapportering, overeenkomsten: welke docum
 tags: [administrative, app, guide]
 lang: nl
 ref: cwape-administrative-documents
+pillar: communautes-energie
 permalink: /nl/nieuws/2026/08/12/energiegemeenschap-administratieve-documenten-wallonie/
 faq:
   - q: "Welke documenten hebt u nodig om een energiegemeenschap op te richten in Wallonië?"

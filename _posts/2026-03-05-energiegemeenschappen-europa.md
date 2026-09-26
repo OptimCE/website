@@ -9,6 +9,7 @@ description: "Wat de richtlijnen RED II en IEMD bepalen, hoe België, Frankrijk 
 tags: [community, administrative, guide]
 lang: nl
 ref: energy-communities-europe
+pillar: communautes-energie
 permalink: /nl/nieuws/2026/03/05/energiegemeenschappen-europa/
 faq:
   - q: "Wat is het verschil tussen een hernieuwbare-energiegemeenschap en een burgerenergiegemeenschap?"

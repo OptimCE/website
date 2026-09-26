@@ -8,6 +8,7 @@ description: "Nieuwsbord, polls en participatief bestuur: zo houdt u uw leden ge
 tags: [community, app]
 lang: nl
 ref: engage-energy-community
+pillar: communautes-energie
 permalink: /nl/nieuws/2026/06/24/energiegemeenschap-leden-betrekken/
 faq:
   - q: "Wat is het verschil tussen een bericht en een poll?"

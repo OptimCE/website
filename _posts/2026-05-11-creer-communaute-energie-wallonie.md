@@ -8,6 +8,7 @@ description: "Modèle CER ou CEC, structure juridique, notification à la CWaPE 
 tags: [community, administrative, guide]
 lang: fr
 ref: create-energy-community-wallonia
+pillar: communautes-energie
 last_modified_at: 2026-09-03 06:00:00 +0200
 ---
 

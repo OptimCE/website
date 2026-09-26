@@ -8,6 +8,7 @@ description: "Energie macht nur 40 % der Rechnung aus. Die vier Blöcke aufgesch
 tags: [community, administrative, guide]
 lang: de
 ref: why-electricity-bill-stays-high
+pillar: facture-electricite
 last_modified_at: 2026-08-05 10:00:00 +0200
 permalink: /de/aktuelles/2026/07/25/warum-stromrechnung-hoch-bleibt-belgien/
 faq:

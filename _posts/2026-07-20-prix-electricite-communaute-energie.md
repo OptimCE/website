@@ -8,6 +8,7 @@ description: "Ce que le prix interne couvre, la fourchette défendable entre tar
 tags: [community, administrative, guide]
 lang: fr
 ref: internal-price-shared-energy
+pillar: prix-facturation-communaute
 last_modified_at: 2026-07-25 10:00:00 +0200
 faq:
   - q: "Qui fixe le prix de l'électricité partagée dans une communauté d'énergie ?"

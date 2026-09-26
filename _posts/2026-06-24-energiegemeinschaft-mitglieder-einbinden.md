@@ -8,6 +8,7 @@ description: "Nachrichtenboard, Abstimmungen und partizipative Governance: So ha
 tags: [community, app]
 lang: de
 ref: engage-energy-community
+pillar: communautes-energie
 permalink: /de/aktuelles/2026/06/24/energiegemeinschaft-mitglieder-einbinden/
 faq:
   - q: "Was ist der Unterschied zwischen einem Beitrag und einer Abstimmung?"

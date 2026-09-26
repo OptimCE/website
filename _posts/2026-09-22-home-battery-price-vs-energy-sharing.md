@@ -8,6 +8,7 @@ description: "850 € per kilowatt-hour, no subsidy anywhere, and a mandatory de
 tags: [guide, community]
 lang: en
 ref: home-battery-vs-energy-sharing
+pillar: solaire-surplus
 permalink: /en/news/2026/09/22/home-battery-price-vs-energy-sharing/
 faq:
   - q: "How much does a home battery cost in Belgium in 2026?"

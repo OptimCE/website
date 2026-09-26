@@ -9,6 +9,7 @@ description: "Eén Waalse woning op drie wordt niet door de eigenaar bewoond. Wa
 tags: [guide, community, administrative]
 lang: nl
 ref: tenant-solar-without-roof
+pillar: solaire-surplus
 faq:
   - q: "Mag een huurder zonnepanelen plaatsen?"
     a: "Op het dak niet: dat behoort de eigenaar toe, en niets in het Waalse decreet van 15 maart 2018 betreffende de woninghuurovereenkomst geeft de huurder het recht eraan te komen. Sinds 17 april 2025 is een fotovoltaïsche kit van het type \"plug & play\" — één of twee panelen en een micro-omvormer, ingeplugd in een gewoon stopcontact — in België wel toegelaten. De CWaPE heeft dat vastgelegd in een mededeling van dezelfde dag. Zo'n kit is niet met het gebouw verbonden: hij wordt geplaatst, hij kan worden gedemonteerd en hij vertrekt met u mee. Het is de enige elektriciteitsproductie die een huurder zelf kan bezitten. Wel drie voorbehouden. De kit moet vóór de indienstneming bij uw distributienetbeheerder worden aangegeven met het formulier UP10. De CWaPE beveelt aan — zonder er een wettelijke voorwaarde van te maken — dat u de eigenaar verwittigt en zijn akkoord vraagt, en wijst erop dat de huurovereenkomst hierover bepalingen kan bevatten. Ten slotte hangt de opbrengst volledig af van de plaats waar u de kit kwijt kunt: een balkon op het zuiden heeft niets gemeen met een balkon op het noorden, en de Waalse energieadministratie publiceert een opbrengstvork van 200 tot 1 038 kWh per kilowattpiek per jaar."

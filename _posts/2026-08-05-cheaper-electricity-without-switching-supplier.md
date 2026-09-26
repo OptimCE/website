@@ -9,6 +9,7 @@ description: "Energy sharing lowers your bill without cancelling your contract. 
 tags: [guide, administrative, community]
 lang: en
 ref: cheaper-electricity-without-switching-supplier
+pillar: facture-electricite
 permalink: /en/news/2026/08/05/cheaper-electricity-without-switching-supplier/
 faq:
   - q: "Can you pay less for electricity without switching supplier?"

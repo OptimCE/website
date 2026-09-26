@@ -8,6 +8,7 @@ description: "News board, polls and participatory governance: how to keep member
 tags: [community, app]
 lang: en
 ref: engage-energy-community
+pillar: communautes-energie
 permalink: /en/news/2026/06/24/engage-energy-community-members/
 faq:
   - q: "What's the difference between a news post and a poll?"

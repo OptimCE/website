@@ -8,6 +8,7 @@ description: "Zelfverbruiksgraad en hoe u die verhoogt, collectief zelfverbruik,
 tags: [community]
 lang: nl
 ref: self-consumption-belgium
+pillar: communautes-energie
 last_modified_at: 2026-09-16 06:00:00 +0200
 permalink: /nl/nieuws/2026/06/05/zelfverbruik-energie-belgie/
 faq:

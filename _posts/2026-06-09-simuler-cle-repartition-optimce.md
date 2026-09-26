@@ -8,6 +8,7 @@ description: "Simulez une clé sur vos propres données et mesurez autoconsommat
 tags: [allocation-key, app, news]
 lang: fr
 ref: optimce-allocation-key-simulation
+pillar: cle-de-repartition
 faq:
   - q: "Qu'est-ce que la simulation d'une clé de répartition ?"
     a: "C'est le fait de rejouer des données réelles de production et de consommation à travers une clé de répartition choisie, sans l'appliquer en production, pour mesurer à l'avance ses indicateurs : autoconsommation collective, surplus, taux d'autosuffisance et taux de partage. C'est un outil de test « et si ? » avant de décider."

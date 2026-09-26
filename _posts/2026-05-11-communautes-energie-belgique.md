@@ -8,6 +8,7 @@ description: "CER, CEC et CEL : ce qui les distingue, comment fonctionne le part
 tags: [community, administrative]
 lang: fr
 ref: energy-communities-belgium
+pillar: communautes-energie
 last_modified_at: 2026-07-20 10:00:00 +0200
 ---
 

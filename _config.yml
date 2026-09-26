@@ -14,6 +14,8 @@ lang: "fr"
 timezone: "Europe/Brussels"
 
 # Supported languages
+# Every section path is language-owned: scripts/check_seo.py flags a post that
+# links into another language's paths.
 # `locale` is the Open Graph territory code; jekyll-seo-tag reads it from
 # page.locale, which _plugins/i18n_metadata.rb sets from these values.
 languages:
@@ -25,6 +27,10 @@ languages:
     features_anchor: "#fonctionnalites"
     privacy_path: "/confidentialite/"
     glossary_path: "/glossaire/"
+    guides_path: "/guides/"
+    solutions_path: "/solutions/"
+    features_path: "/fonctionnalites/"
+    author_path: "/a-propos/eric-ugo-paque/"
   - code: en
     locale: "en_GB"
     prefix: "/en"
@@ -33,6 +39,10 @@ languages:
     features_anchor: "#features"
     privacy_path: "/en/privacy/"
     glossary_path: "/en/glossary/"
+    guides_path: "/en/guides/"
+    solutions_path: "/en/solutions/"
+    features_path: "/en/features/"
+    author_path: "/en/about/eric-ugo-paque/"
   - code: de
     locale: "de_DE"
     prefix: "/de"
@@ -41,6 +51,10 @@ languages:
     features_anchor: "#funktionen"
     privacy_path: "/de/datenschutz/"
     glossary_path: "/de/glossar/"
+    guides_path: "/de/ratgeber/"
+    solutions_path: "/de/loesungen/"
+    features_path: "/de/funktionen/"
+    author_path: "/de/about/eric-ugo-paque/"
   - code: nl
     locale: "nl_BE"
     prefix: "/nl"
@@ -49,6 +63,10 @@ languages:
     features_anchor: "#functies"
     privacy_path: "/nl/privacy/"
     glossary_path: "/nl/woordenlijst/"
+    guides_path: "/nl/gidsen/"
+    solutions_path: "/nl/oplossingen/"
+    features_path: "/nl/functies/"
+    author_path: "/nl/about/eric-ugo-paque/"
 
 # Author
 # `type: Organization` — "OptimCE" is a project team, not a person, and

@@ -10,6 +10,7 @@ description: "85,8 % Ihres Stroms entstehen, während das Haus leer ist. Was sic
 tags: [guide, community]
 lang: de
 ref: solar-away-during-day
+pillar: solaire-surplus
 faq:
   - q: "Wie viel meines Solarstroms geht wirklich verloren, wenn ich auswärts arbeite?"
     a: "Streng genommen geht nichts verloren: Was Sie nicht verbrauchen, wird ins Netz eingespeist und vergütet. Verloren geht der Wertunterschied zwischen beidem. Eine Kilowattstunde, die Sie selbst verbrauchen, erspart Ihnen den Einkauf zum Endkundenpreis, also 36,94 c€/kWh inklusive Mehrwertsteuer nach der CREG-Erhebung vom Juni 2026, die wir in allen unseren Artikeln verwenden. Dieselbe eingespeiste Kilowattstunde bringt Ihnen rund 3,5 c€/kWh. Der Abstand beträgt 33,44 c€, ein Verhältnis von mehr als zehn zu eins. Bei einer Anlage von 4 Kilowatt-Peak mit 3 800 kWh Jahresproduktion und der Referenz-Eigenverbrauchsquote von 37,76 % entspricht das 1 435 kWh im Wert von 530 € und 2 365 eingespeisten kWh für 83 €: insgesamt 613 € im Jahr, wobei der eingespeiste Anteil 62 % der Menge und 13,5 % des Ertrags ausmacht. Ein tagsüber abwesender Haushalt liegt eher unter diesem Mittelwert, nach den verfügbaren belgischen Erhebungen bei etwa 30 %. Die Frage lautet also nicht, ob Sie etwas verschwenden, sondern wie viele dieser 2 365 Kilowattstunden Sie auf die Seite zu 36,94 c€ verschieben können und zu welchem Preis."

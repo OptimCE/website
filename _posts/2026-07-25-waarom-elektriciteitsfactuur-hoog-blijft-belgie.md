@@ -8,6 +8,7 @@ description: "Energie is maar 40 % van de factuur. De vier blokken uitgesplitst,
 tags: [community, administrative, guide]
 lang: nl
 ref: why-electricity-bill-stays-high
+pillar: facture-electricite
 last_modified_at: 2026-08-05 10:00:00 +0200
 permalink: /nl/nieuws/2026/07/25/waarom-elektriciteitsfactuur-hoog-blijft-belgie/
 faq:

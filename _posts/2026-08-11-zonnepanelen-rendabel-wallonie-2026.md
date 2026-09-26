@@ -8,6 +8,7 @@ description: "Is een fotovoltaïsche installatie in Wallonië in 2026 nog rendab
 tags: [guide, administrative, community]
 lang: nl
 ref: solar-panels-worth-it-wallonia-2026
+pillar: solaire-surplus
 last_modified_at: 2026-09-22 06:00:00 +0200
 permalink: /nl/nieuws/2026/08/11/zonnepanelen-rendabel-wallonie-2026/
 faq:

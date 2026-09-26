@@ -8,6 +8,7 @@ description: "Types de clés reconnues par la CWaPE, BRUGEL et le VREG, ce qui c
 tags: [allocation-key, administrative]
 lang: fr
 ref: allocation-key-belgium
+pillar: cle-de-repartition
 last_modified_at: 2026-07-20 10:00:00 +0200
 ---
 

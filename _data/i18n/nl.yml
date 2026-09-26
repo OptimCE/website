@@ -9,6 +9,8 @@ nav:
   blog: "Nieuws"
   about: "Over ons"
   glossary: "Woordenlijst"
+  guides: "Gidsen"
+  solutions: "Oplossingen"
   get_started: "Beginnen"
   github: "GitHub"
   links: "Links"
@@ -162,6 +164,15 @@ blog:
     announcement: "Aankondiging"
     news: "Nieuws"
     guide: "Gids"
+
+# Guides: index page and pillar pages
+guides:
+  title: "Gidsen"
+  pillar_link: "Naar het thema"
+  count_one: "gids"
+  count_other: "gidsen"
+  more_guides: "Meer gidsen"
+  other_pillars: "Andere thema's"
 
 # Glossary
 glossary:

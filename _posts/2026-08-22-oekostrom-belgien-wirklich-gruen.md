@@ -9,6 +9,7 @@ description: "Herkunftsnachweise, Residualmix, Greenwashing: was ein belgisches 
 tags: [guide, community, administrative]
 lang: de
 ref: green-electricity-claims
+pillar: facture-electricite
 permalink: /de/aktuelles/2026/08/22/oekostrom-belgien-wirklich-gruen/
 faq:
   - q: "Belegt ein Herkunftsnachweis, dass der Strom, den ich verbrauche, erneuerbar ist?"

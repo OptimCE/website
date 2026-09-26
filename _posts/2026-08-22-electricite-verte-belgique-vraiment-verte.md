@@ -9,6 +9,7 @@ description: "Garanties d'origine, mix résiduel, greenwashing : ce que prouve v
 tags: [guide, community, administrative]
 lang: fr
 ref: green-electricity-claims
+pillar: facture-electricite
 faq:
   - q: "Une garantie d'origine prouve-t-elle que l'électricité que je consomme est renouvelable ?"
     a: "Non, et ce n'est pas son objet. Une garantie d'origine prouve qu'un mégawattheure renouvelable a été produit quelque part dans l'Espace économique européen, à un moment donné, et que personne d'autre que vous ne le revendique. Elle ne prouve rien sur les électrons qui entrent chez vous, pour trois raisons cumulatives. Elle se vend indépendamment de l'électricité elle-même, comme l'écrit le SPW Énergie : le producteur peut vendre son courant à un acheteur et son certificat à un autre. Elle reste valable douze mois, ce qui autorise un certificat émis en février à verdir une consommation de novembre. Et elle circule sur une trentaine de territoires européens, ce qui autorise un barrage norvégien à verdir un radiateur liégeois. Le marquage vert de votre facture est donc un titre comptable valide, pas une description physique de votre alimentation."

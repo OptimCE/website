@@ -10,7 +10,10 @@
 #   1. i18n metadata    lang / locale / OG image on every page and post
 #   2. redirect table   _data/redirects.csv -> redirect_from on the target page
 #   3. translations     data["translations"] = { lang => url } for every ref
-#   4. URL guard        two files writing the same URL fail the build
+#   4. hubs             pages that list other pages (pillars, guide index) get
+#                       their resolved lists and a last_modified_at that moves
+#                       when a listed page changes
+#   5. URL guard        two files writing the same URL fail the build
 #
 # jekyll-redirect-from (:normal) then turns redirect_from into stub pages, and
 # jekyll-sitemap / jekyll-feed (:lowest) run after that.
@@ -23,7 +26,106 @@ module OptimCE
       I18nMetadata.apply(site)
       RedirectsTable.apply(site)
       Translations.apply(site)
+      Hubs.apply(site)
       UrlGuard.apply(site)
+    end
+  end
+
+  # Coerces the date types YAML front matter produces (Date, Time or String)
+  # to Time, so that they compare.
+  module Dates
+    def self.to_time(value)
+      case value
+      when Time then value
+      when Date then value.to_time
+      when String then Jekyll::Utils.parse_date(value)
+      end
+    end
+
+    # The later of the page's own last_modified_at and the dates of the pages
+    # it lists. A hub's content changes when a listed page appears or changes,
+    # so its sitemap lastmod (and IndexNow) must follow.
+    def self.latest(own, docs)
+      stamps = docs.map { |d| to_time(d.data["last_modified_at"]) || to_time(d.data["date"]) }
+      ([to_time(own)] + stamps).compact.max
+    end
+  end
+
+  # Resolves what hub pages list, once, in Ruby rather than with Liquid `where`
+  # scans, and fails the build on a section entry that matches no guide.
+  #
+  #   layout: pillar   hub_sections = [{ "title", "posts" }], from the page's
+  #                    `sections` front matter; guides of the pillar that no
+  #                    section lists land in a trailing "more guides" group,
+  #                    so a new guide is never invisible. hub_neighbours = the
+  #                    other pillar pages of the same language.
+  #   layout: guides   hub_pillars = [{ "page", "label", "posts" }] in
+  #                    _data/pillars.yml order.
+  #
+  # Both also get hub_items (flat list of listed pages, for the ItemList in
+  # the JSON-LD) and a computed last_modified_at.
+  module Hubs
+    def self.apply(site)
+      posts = site.posts.docs
+      pillars = Array(site.data["pillars"])
+      pillar_keys = pillars.map { |p| p["key"] }
+
+      posts.each do |post|
+        key = post.data["pillar"]
+        next if key.nil? || pillar_keys.include?(key)
+
+        raise BuildError, "#{post.relative_path}: unknown pillar #{key.inspect} (see _data/pillars.yml)"
+      end
+
+      pillar_pages = site.pages.select { |p| p.data["layout"] == "pillar" }
+      pillar_pages.each { |page| resolve_pillar(site, page, posts) }
+      pillar_pages.each do |page|
+        page.data["hub_neighbours"] = pillar_keys.filter_map do |key|
+          next if key == page.data["pillar"]
+
+          pillar_pages.find { |p| p.data["pillar"] == key && p.data["lang"] == page.data["lang"] }
+        end
+      end
+
+      site.pages.select { |p| p.data["layout"] == "guides" }.each do |page|
+        lang = page.data["lang"]
+        entries = pillars.filter_map do |pillar|
+          pillar_page = pillar_pages.find { |p| p.data["pillar"] == pillar["key"] && p.data["lang"] == lang }
+          next unless pillar_page
+
+          { "page" => pillar_page, "label" => pillar.dig("label", lang),
+            "posts" => pillar_page.data["hub_items"] }
+        end
+        page.data["hub_pillars"] = entries
+        page.data["hub_items"] = entries.map { |e| e["page"] }
+        page.data["last_modified_at"] = Dates.latest(page.data["last_modified_at"], page.data["hub_items"])
+      end
+    end
+
+    def self.resolve_pillar(site, page, posts)
+      key = page.data["pillar"]
+      lang = page.data["lang"]
+      mine = posts.select { |p| p.data["pillar"] == key && p.data["lang"] == lang }
+      by_ref = mine.to_h { |p| [p.data["ref"], p] }
+
+      sections = Array(page.data["sections"]).map do |section|
+        docs = Array(section["refs"]).map do |ref|
+          by_ref[ref] || raise(BuildError, "#{page.relative_path}: section #{section["title"].inspect} " \
+                                           "lists #{ref.inspect}, which is not a #{lang} guide of pillar #{key}")
+        end
+        { "title" => section["title"], "posts" => docs }
+      end
+
+      listed = sections.flat_map { |s| s["posts"] }
+      rest = (mine - listed).sort_by { |p| -p.date.to_i }
+      unless rest.empty?
+        title = site.data.dig("i18n", lang, "guides", "more_guides")
+        sections << { "title" => title, "posts" => rest }
+      end
+
+      page.data["hub_sections"] = sections
+      page.data["hub_items"] = sections.flat_map { |s| s["posts"] }
+      page.data["last_modified_at"] = Dates.latest(page.data["last_modified_at"], page.data["hub_items"])
     end
   end
 

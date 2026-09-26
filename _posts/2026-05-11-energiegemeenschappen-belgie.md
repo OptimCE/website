@@ -8,6 +8,7 @@ description: "CER, CEC en CEL: de verschillen, hoe energiedelen werkt, de rol va
 tags: [community, administrative]
 lang: nl
 ref: energy-communities-belgium
+pillar: communautes-energie
 last_modified_at: 2026-07-20 10:00:00 +0200
 permalink: /nl/nieuws/2026/05/11/energiegemeenschappen-belgie/
 ---

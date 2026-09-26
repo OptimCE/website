@@ -8,6 +8,7 @@ description: "Tableau d'actualités, sondages et gouvernance participative : com
 tags: [community, app]
 lang: fr
 ref: engage-energy-community
+pillar: communautes-energie
 faq:
   - q: "Quelle est la différence entre une actualité et un sondage ?"
     a: "Une actualité (ou publication) est une information descendante : le gestionnaire informe les membres — assemblée, travaux, résultats du partage, échéances. Un sondage est participatif : il pose une question et recueille le vote des membres pour éclairer ou prendre une décision collective."

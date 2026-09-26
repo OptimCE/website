@@ -10,6 +10,7 @@ description: "85,8 % van uw productie valt terwijl het huis leeg staat. Wat er z
 tags: [guide, community]
 lang: nl
 ref: solar-away-during-day
+pillar: solaire-surplus
 faq:
   - q: "Hoeveel van mijn zonnestroom gaat er echt verloren als ik buitenshuis werk?"
     a: "Strikt genomen gaat er niets verloren: wat u niet verbruikt, wordt op het net geïnjecteerd en vergoed. Wat verloren gaat, is het waardeverschil tussen beide. Een kilowattuur dat u zelf verbruikt, bespaart u de aankoop tegen de detailhandelsprijs, oftewel 36,94 c€/kWh inclusief btw volgens de CREG-meting van juni 2026 die wij in al onze artikelen gebruiken. Datzelfde geïnjecteerde kilowattuur levert u ongeveer 3,5 c€/kWh op. Het verschil bedraagt 33,44 c€, een verhouding van meer dan tien op één. Bij een installatie van 4 kilowattpiek die 3 800 kWh per jaar produceert tegen de referentiezelfverbruiksgraad van 37,76 %, komt dat neer op 1 435 kWh ter waarde van 530 € en 2 365 geïnjecteerde kWh voor 83 €: samen 613 € per jaar, waarbij het geïnjecteerde deel 62 % van het volume en 13,5 % van de opbrengst uitmaakt. Een gezin dat overdag afwezig is, zit eerder onder dat gemiddelde, rond 30 % volgens de beschikbare Belgische metingen. De vraag is dus niet of u verspilt, maar hoeveel van die 2 365 kilowattuur u naar de kant van 36,94 c€ kunt verschuiven, en tegen welke prijs."

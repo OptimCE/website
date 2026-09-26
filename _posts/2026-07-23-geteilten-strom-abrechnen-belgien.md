@@ -8,6 +8,7 @@ description: "Bei der Energieteilung existieren zwei Rechnungen. Wer stellt was 
 tags: [community, administrative, guide]
 lang: de
 ref: invoice-shared-electricity
+pillar: prix-facturation-communaute
 permalink: /de/aktuelles/2026/07/23/geteilten-strom-abrechnen-belgien/
 last_modified_at: 2026-08-27 06:00:00 +0200
 faq:

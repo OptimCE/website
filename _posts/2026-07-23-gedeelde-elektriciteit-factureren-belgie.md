@@ -8,6 +8,7 @@ description: "Bij energiedelen bestaan twee facturen naast elkaar. Wie stelt wat
 tags: [community, administrative, guide]
 lang: nl
 ref: invoice-shared-electricity
+pillar: prix-facturation-communaute
 permalink: /nl/nieuws/2026/07/23/gedeelde-elektriciteit-factureren-belgie/
 last_modified_at: 2026-08-27 06:00:00 +0200
 faq:

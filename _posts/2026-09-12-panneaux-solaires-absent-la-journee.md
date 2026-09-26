@@ -9,6 +9,7 @@ description: "85,8 % de votre production tombe quand la maison est vide. Ce qui 
 tags: [guide, community]
 lang: fr
 ref: solar-away-during-day
+pillar: solaire-surplus
 faq:
   - q: "Combien de ma production solaire est réellement perdue si je travaille à l'extérieur ?"
     a: "Rien n'est perdu au sens strict : ce que vous ne consommez pas est injecté sur le réseau et rémunéré. Ce qui se perd, c'est l'écart de valeur entre les deux. Un kilowattheure que vous consommez vous-même vous évite d'acheter au prix de détail, soit 36,94 c€/kWh TVAC sur le relevé CREG de juin 2026 utilisé dans l'ensemble de nos articles. Le même kilowattheure injecté vous rapporte de l'ordre de 3,5 c€/kWh. L'écart est de 33,44 c€, soit un rapport de plus de dix. Sur une installation de 4 kilowatts-crête produisant 3 800 kWh par an au taux d'autoconsommation de référence de 37,76 %, cela représente 1 435 kWh valorisés à 530 € et 2 365 kWh injectés pour 83 € : au total 613 € par an, dont la part injectée pèse 62 % du volume et 13,5 % du revenu. Un ménage absent en journée se situe plutôt sous cette moyenne, autour de 30 % selon les relevés belges disponibles. La question n'est donc pas de savoir si vous gaspillez, mais combien de ces 2 365 kilowattheures vous pouvez faire basculer du côté à 36,94 c€, et à quel coût."

@@ -8,6 +8,7 @@ description: "Injecter, boiler, voiture, batterie, partage : ce que vaut vraimen
 tags: [guide, community]
 lang: fr
 ref: solar-surplus-options
+pillar: solaire-surplus
 last_modified_at: 2026-09-22 06:00:00 +0200
 faq:
   - q: "Quelle option rapporte le plus par euro investi pour valoriser un surplus solaire ?"

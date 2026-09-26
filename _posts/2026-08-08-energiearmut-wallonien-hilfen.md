@@ -8,6 +8,7 @@ description: "29,2 % der wallonischen Haushalte sind von Energiearmut betroffen.
 tags: [guide, administrative, community]
 lang: de
 ref: energy-poverty-wallonia-support
+pillar: facture-electricite
 last_modified_at: 2026-09-16 06:00:00 +0200
 permalink: /de/aktuelles/2026/08/08/energiearmut-wallonien-hilfen/
 faq:

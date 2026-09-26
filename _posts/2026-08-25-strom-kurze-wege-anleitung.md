@@ -8,6 +8,7 @@ description: "Die vier Stufen des kurzen Wegs beim Strom in Wallonien, was sie w
 tags: [guide, community]
 lang: de
 ref: local-electricity-short-circuit
+pillar: facture-electricite
 last_modified_at: 2026-09-10 06:00:00 +0200
 permalink: /de/aktuelles/2026/08/25/strom-kurze-wege-anleitung/
 faq:

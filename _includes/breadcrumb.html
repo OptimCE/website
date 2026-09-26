@@ -1,0 +1,89 @@
+{%- comment -%}
+  Breadcrumb trail, computed once and rendered two ways:
+    {% include breadcrumb.html %}                  visible <nav>
+    {% include breadcrumb.html format="jsonld" %}  BreadcrumbList items
+
+  Trail:
+    guide (post with `pillar`)   Home > Guides > <pillar> > page
+    solution (post w/ solution)  Home > Solutions > page
+    other post                   Home > News > page
+    page with breadcrumb_parent  Home > <parent> > page
+    any other page               Home > page
+  `breadcrumb_parent` names a section present in both site.languages
+  (<name>_path) and the i18n nav block (nav.<name>): guides, glossary, about…
+  The last crumb is `breadcrumb_title`, falling back to the page title.
+{%- endcomment -%}
+{%- assign bc_lang = page.lang | default: site.lang -%}
+{%- assign bc_t = site.data.i18n[bc_lang] -%}
+{%- assign bc_cl = site.languages | where: "code", bc_lang | first -%}
+{%- assign bc_home = bc_cl.prefix | append: '/' -%}
+{%- assign bc1_name = "" -%}
+{%- assign bc1_url = "" -%}
+{%- assign bc2_name = "" -%}
+{%- assign bc2_url = "" -%}
+{%- if page.layout == 'post' -%}
+  {%- if page.pillar -%}
+    {%- assign bc1_name = bc_t.nav.guides -%}
+    {%- assign bc1_url = bc_cl.guides_path -%}
+    {%- assign bc_pillar = site.data.pillars | where: "key", page.pillar | first -%}
+    {%- assign bc_pillar_ref = 'pillar-' | append: page.pillar -%}
+    {%- assign bc2_name = bc_pillar.label[bc_lang] -%}
+    {%- assign bc2_url = site.data.translations[bc_pillar_ref][bc_lang] -%}
+  {%- elsif page.solution -%}
+    {%- assign bc1_name = bc_t.nav.solutions -%}
+    {%- assign bc1_url = bc_cl.solutions_path -%}
+  {%- else -%}
+    {%- assign bc1_name = bc_t.nav.blog -%}
+    {%- assign bc1_url = bc_cl.blog_path -%}
+  {%- endif -%}
+{%- elsif page.breadcrumb_parent -%}
+  {%- assign bc_path_key = page.breadcrumb_parent | append: '_path' -%}
+  {%- assign bc1_name = bc_t.nav[page.breadcrumb_parent] -%}
+  {%- assign bc1_url = bc_cl[bc_path_key] -%}
+{%- endif -%}
+{%- assign bc_last = page.breadcrumb_title | default: page.title -%}
+{%- if include.format == "jsonld" -%}
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": {{ bc_t.nav.home | jsonify }},
+          "item": {{ bc_home | absolute_url | jsonify }}
+        }
+        {%- if bc1_url and bc1_url != "" -%}
+        ,{
+          "@type": "ListItem",
+          "position": 2,
+          "name": {{ bc1_name | jsonify }},
+          "item": {{ bc1_url | absolute_url | jsonify }}
+        }
+        {%- endif -%}
+        {%- if bc2_url and bc2_url != "" -%}
+        ,{
+          "@type": "ListItem",
+          "position": 3,
+          "name": {{ bc2_name | jsonify }},
+          "item": {{ bc2_url | absolute_url | jsonify }}
+        }
+        {%- endif -%}
+        {%- assign bc_pos = 2 -%}
+        {%- if bc1_url and bc1_url != "" -%}{%- assign bc_pos = bc_pos | plus: 1 -%}{%- endif -%}
+        {%- if bc2_url and bc2_url != "" -%}{%- assign bc_pos = bc_pos | plus: 1 -%}{%- endif -%}
+        ,{
+          "@type": "ListItem",
+          "position": {{ bc_pos }},
+          "name": {{ bc_last | jsonify }}
+        }
+{%- else -%}
+<nav class="breadcrumb" aria-label="{{ bc_t.a11y.breadcrumb }}">
+  <ol class="breadcrumb__list">
+    <li class="breadcrumb__item"><a href="{{ bc_home | relative_url }}">{{ bc_t.nav.home }}</a></li>
+    {%- if bc1_url and bc1_url != "" %}
+    <li class="breadcrumb__item"><a href="{{ bc1_url | relative_url }}">{{ bc1_name }}</a></li>
+    {%- endif %}
+    {%- if bc2_url and bc2_url != "" %}
+    <li class="breadcrumb__item"><a href="{{ bc2_url | relative_url }}">{{ bc2_name }}</a></li>
+    {%- endif %}
+    <li class="breadcrumb__item" aria-current="page">{{ bc_last }}</li>
+  </ol>
+</nav>
+{%- endif -%}

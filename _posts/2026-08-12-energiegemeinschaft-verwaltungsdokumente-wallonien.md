@@ -8,6 +8,7 @@ description: "Meldung, Jahresbericht, Netzbetreibervertrag: welche Dokumente ein
 tags: [administrative, app, guide]
 lang: de
 ref: cwape-administrative-documents
+pillar: communautes-energie
 permalink: /de/aktuelles/2026/08/12/energiegemeinschaft-verwaltungsdokumente-wallonien/
 faq:
   - q: "Welche Dokumente braucht man zur Gründung einer Energiegemeinschaft in Wallonien?"

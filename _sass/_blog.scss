@@ -451,3 +451,97 @@
     }
   }
 }
+
+// Breadcrumb (posts, hub pages, glossary terms)
+.breadcrumb {
+  margin-bottom: var(--space-6);
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+}
+
+.breadcrumb__list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--space-1) var(--space-2);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.breadcrumb__item {
+  max-width: 100%;
+
+  a {
+    color: var(--color-text-muted);
+
+    &:hover {
+      color: var(--color-primary);
+      text-decoration: none;
+    }
+  }
+
+  // Long article titles stay on one line rather than repeating the H1 below.
+  &[aria-current="page"] {
+    max-width: 32ch;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+}
+
+.breadcrumb__item + .breadcrumb__item::before {
+  content: "›";
+  margin-right: var(--space-2);
+  color: var(--color-gray-300);
+}
+
+// Pillar pages and guide index
+.pillar__intro {
+  padding-bottom: var(--space-8);
+}
+
+.pillar__section {
+  padding-top: var(--space-8);
+  padding-bottom: var(--space-8);
+}
+
+.pillar__section-title {
+  margin-bottom: var(--space-6);
+}
+
+.pillar__neighbours {
+  background-color: var(--color-bg-alt);
+  padding-bottom: var(--space-16);
+}
+
+.guides-index .section__intro {
+  max-width: var(--container-narrow);
+  margin-left: auto;
+  margin-right: auto;
+  color: var(--color-text-muted);
+}
+
+.guides-index__pillar {
+  display: flex;
+  flex-direction: column;
+
+  .feature-card__title a {
+    color: var(--color-gray-900);
+
+    &:hover {
+      color: var(--color-primary);
+      text-decoration: none;
+    }
+  }
+}
+
+.guides-index__list {
+  flex: 1;
+  margin: var(--space-4) 0;
+  padding-left: var(--space-6);
+
+  li {
+    margin-bottom: var(--space-2);
+  }
+}

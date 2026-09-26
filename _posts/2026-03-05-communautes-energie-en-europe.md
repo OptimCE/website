@@ -9,6 +9,7 @@ description: "Ce que prévoient les directives RED II et IEMD, comment la Belgiq
 tags: [community, administrative, guide]
 lang: fr
 ref: energy-communities-europe
+pillar: communautes-energie
 faq:
   - q: "Quelle est la différence entre une CER et une CEC ?"
     a: "Une communauté d'énergie renouvelable (CER) relève de la directive RED II : elle ne porte que sur l'énergie renouvelable et ses membres doivent se trouver à proximité des installations de production. Une communauté énergétique citoyenne (CEC) relève de la directive sur le marché intérieur de l'électricité : elle est neutre sur le plan technologique, ne couvre que l'électricité, et n'impose aucun critère de proximité géographique. Dans les deux cas, le contrôle effectif doit rester entre les mains de personnes physiques, d'autorités locales ou de petites entreprises."

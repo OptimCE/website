@@ -8,6 +8,7 @@ description: "Injecteren, boiler, auto, batterij of delen: wat een kilowattuur z
 tags: [guide, community]
 lang: nl
 ref: solar-surplus-options
+pillar: solaire-surplus
 last_modified_at: 2026-09-22 06:00:00 +0200
 permalink: /nl/nieuws/2026/08/18/wat-doen-met-je-zonne-overschot-belgie/
 faq:

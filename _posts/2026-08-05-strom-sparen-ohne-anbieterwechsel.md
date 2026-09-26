@@ -9,6 +9,7 @@ description: "Energieteilung senkt Ihre Stromrechnung, ohne den Vertrag zu künd
 tags: [guide, administrative, community]
 lang: de
 ref: cheaper-electricity-without-switching-supplier
+pillar: facture-electricite
 permalink: /de/aktuelles/2026/08/05/strom-sparen-ohne-anbieterwechsel/
 faq:
   - q: "Kann man Strom günstiger beziehen, ohne den Anbieter zu wechseln?"

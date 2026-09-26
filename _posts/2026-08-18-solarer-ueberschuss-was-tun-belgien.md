@@ -8,6 +8,7 @@ description: "Einspeisen, Boiler, Auto, Batterie oder Teilen: was eine Kilowatts
 tags: [guide, community]
 lang: de
 ref: solar-surplus-options
+pillar: solaire-surplus
 last_modified_at: 2026-09-22 06:00:00 +0200
 permalink: /de/aktuelles/2026/08/18/solarer-ueberschuss-was-tun-belgien/
 faq:

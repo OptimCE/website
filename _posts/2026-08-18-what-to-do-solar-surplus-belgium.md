@@ -8,6 +8,7 @@ description: "Export, water tank, car, battery or sharing: what a kilowatt-hour 
 tags: [guide, community]
 lang: en
 ref: solar-surplus-options
+pillar: solaire-surplus
 last_modified_at: 2026-09-22 06:00:00 +0200
 permalink: /en/news/2026/08/18/what-to-do-solar-surplus-belgium/
 faq:

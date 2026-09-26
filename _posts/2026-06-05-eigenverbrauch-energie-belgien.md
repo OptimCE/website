@@ -8,6 +8,7 @@ description: "Eigenverbrauchsquote und wie man sie erhöht, kollektiver Eigenver
 tags: [community]
 lang: de
 ref: self-consumption-belgium
+pillar: communautes-energie
 last_modified_at: 2026-09-16 06:00:00 +0200
 permalink: /de/aktuelles/2026/06/05/eigenverbrauch-energie-belgien/
 faq:

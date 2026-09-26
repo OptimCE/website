@@ -8,6 +8,7 @@ description: "Les quatre degrés du circuit court énergétique en Wallonie, ce 
 tags: [guide, community]
 lang: fr
 ref: local-electricity-short-circuit
+pillar: facture-electricite
 last_modified_at: 2026-09-10 06:00:00 +0200
 faq:
   - q: "Puis-je acheter l'électricité de mon voisin d'en face en Wallonie ?"
