@@ -207,7 +207,7 @@ Ja voor een **CEC** (geen geografische beperking). Voor een **CER** moet het nab
 
 ### Kunnen een school, een gemeente of een bedrijventerrein deelnemen?
 
-Ja. **Lokale overheden** (gemeenten, intercommunales, OCMW's — en **alle scholen, ongeacht hun net**) en **kmo's** zijn uitdrukkelijk toegelaten om toe te treden tot een CER of CEC. Voor openbare gebouwen kan de gemeente zowel producent (dak-PV van de school) als verbruiker zijn via haar andere gebouwen. Het traject dat eigen is aan een lokaal bestuur — perimeter, rechtsvorm, overheidsopdracht en de valkuil van het sociaal tarief — wordt uitvoerig behandeld in [“Energiegemeenschap: de gids voor gemeenten”](/nl/nieuws/2026/08/30/energiegemeenschap-gemeenten-gids/). Het schoolstatuut is echter ruimer dan men denkt en hangt niet af van de inrichtende macht: dat is het onderwerp van [“Scholen: de gids voor energiedelen”](/nl/nieuws/2026/09/03/energiedeling-school-gids/).
+Ja. **Lokale overheden** (gemeenten, intercommunales, OCMW's — en **alle scholen, ongeacht hun net**) en **kmo's** zijn uitdrukkelijk toegelaten om toe te treden tot een CER of CEC. Voor openbare gebouwen kan de gemeente zowel producent (dak-PV van de school) als verbruiker zijn via haar andere gebouwen. Het traject dat eigen is aan een lokaal bestuur — perimeter, rechtsvorm, overheidsopdracht en de valkuil van het sociaal tarief — wordt uitvoerig behandeld in [“Energiegemeenschap: de gids voor gemeenten”](/nl/oplossingen/gemeenten/). Het schoolstatuut is echter ruimer dan men denkt en hangt niet af van de inrichtende macht: dat is het onderwerp van [“Scholen: de gids voor energiedelen”](/nl/oplossingen/scholen/).
 
 ## Liever toetreden tot een bestaande gemeenschap?
 

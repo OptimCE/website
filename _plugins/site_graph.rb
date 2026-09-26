@@ -64,6 +64,8 @@ module OptimCE
   #                    other pillar pages of the same language.
   #   layout: guides   hub_pillars = [{ "page", "label", "posts" }] in
   #                    _data/pillars.yml order.
+  #   layout: solutions  the solution posts, in _data/solutions.yml order.
+  #   layout: blog     the news posts, newest first.
   #
   # Both also get hub_items (flat list of listed pages, for the ItemList in
   # the JSON-LD) and a computed last_modified_at.
@@ -88,6 +90,13 @@ module OptimCE
 
           pillar_pages.find { |p| p.data["pillar"] == key && p.data["lang"] == page.data["lang"] }
         end
+      end
+
+      solution_keys = Array(site.data["solutions"]).map { |s| s["key"] }
+      site.pages.select { |p| p.data["layout"] == "solutions" }.each do |page|
+        mine = posts.select { |p| p.data["solution"] && p.data["lang"] == page.data["lang"] }
+        page.data["hub_items"] = mine.sort_by { |p| solution_keys.index(p.data["solution"]) || solution_keys.size }
+        page.data["last_modified_at"] = Dates.latest(page.data["last_modified_at"], page.data["hub_items"])
       end
 
       site.pages.select { |p| p.data["layout"] == "blog" }.each do |page|
@@ -152,7 +161,13 @@ module OptimCE
 
     def self.apply(site)
       languages = site.config["languages"] || []
+      solution_keys = Array(site.data["solutions"]).map { |s| s["key"] }
       site.posts.docs.each do |post|
+        key = post.data["solution"]
+        if key && !solution_keys.include?(key)
+          raise BuildError, "#{post.relative_path}: unknown solution #{key.inspect} (see _data/solutions.yml)"
+        end
+
         section = if post.data["pillar"] then "guides"
                   elsif post.data["solution"] then "solutions"
                   else "actualites"

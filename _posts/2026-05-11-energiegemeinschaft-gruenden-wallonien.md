@@ -207,7 +207,7 @@ Ja bei einer **CEC** (keine geografische Begrenzung). Bei einer **CER** muss das
 
 ### Können eine Schule, eine Gemeinde oder ein Gewerbepark teilnehmen?
 
-Ja. **Gebietskörperschaften** (Gemeinden, Interkommunalen, ÖSHZ — und **alle Schulen, unabhängig von ihrem Netz**) und **KMU** sind ausdrücklich berechtigt, einer CER oder CEC beizutreten. Bei öffentlichen Gebäuden kann die Gemeinde gleichzeitig Erzeuger (Dach-PV der Schule) und Verbraucher über ihre anderen Gebäude sein. Der eigene Weg einer lokalen Behörde — Perimeter, Rechtsform, öffentlicher Auftrag und die Falle des Sozialtarifs — wird in [„Energiegemeinschaft: Leitfaden für Gemeinden“](/de/aktuelles/2026/08/30/energiegemeinschaft-gemeinde-leitfaden/) ausführlich behandelt. Der Schulstatus ist hingegen weiter, als man annimmt, und hängt nicht vom Schulträger ab: darum geht es in [„Schulen: der Leitfaden zum Energieteilen“](/de/aktuelles/2026/09/03/energiegemeinschaft-schule-leitfaden/).
+Ja. **Gebietskörperschaften** (Gemeinden, Interkommunalen, ÖSHZ — und **alle Schulen, unabhängig von ihrem Netz**) und **KMU** sind ausdrücklich berechtigt, einer CER oder CEC beizutreten. Bei öffentlichen Gebäuden kann die Gemeinde gleichzeitig Erzeuger (Dach-PV der Schule) und Verbraucher über ihre anderen Gebäude sein. Der eigene Weg einer lokalen Behörde — Perimeter, Rechtsform, öffentlicher Auftrag und die Falle des Sozialtarifs — wird in [„Energiegemeinschaft: Leitfaden für Gemeinden“](/de/loesungen/gemeinden/) ausführlich behandelt. Der Schulstatus ist hingegen weiter, als man annimmt, und hängt nicht vom Schulträger ab: darum geht es in [„Schulen: der Leitfaden zum Energieteilen“](/de/loesungen/schulen/).
 
 ## Möchten Sie lieber einer bestehenden Gemeinschaft beitreten?
 

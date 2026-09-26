@@ -212,7 +212,7 @@ Deze rubriek richt zich tot professionals, niet tot gezinnen. Vijf hefbomen, van
 
 **Een bestaand collectief format overnemen in plaats van er een te bedenken.** Empreintes verspreidt de Eco Watchers-methodiek uitdrukkelijk, en Objectif 2050 begeleidt lokale besturen bij Réno WaTT'chers. De instrumenten zijn uitgeschreven, getest en overdraagbaar.
 
-**Energiedelen pas achteraan in de volgorde plaatsen.** De opzet vergt communicerende meters, een overeenkomst en een verdeelsleutel, en levert gezinnen op het sociaal tarief minder op. Ze is zinvol waar een openbaar dak of een sociaal woningpatrimonium bestaat — het geval Ans — maar ze is niet het startpunt van een beleid tegen energiearmoede. De opzet bekeken vanuit de gemeente, inclusief de berekening van wat het sociaal tarief op gedeelde kilowattuur doet verliezen, wordt uitvoerig behandeld in [“Energiegemeenschap: de gids voor gemeenten”](/nl/nieuws/2026/08/30/energiegemeenschap-gemeenten-gids/).
+**Energiedelen pas achteraan in de volgorde plaatsen.** De opzet vergt communicerende meters, een overeenkomst en een verdeelsleutel, en levert gezinnen op het sociaal tarief minder op. Ze is zinvol waar een openbaar dak of een sociaal woningpatrimonium bestaat — het geval Ans — maar ze is niet het startpunt van een beleid tegen energiearmoede. De opzet bekeken vanuit de gemeente, inclusief de berekening van wat het sociaal tarief op gedeelde kilowattuur doet verliezen, wordt uitvoerig behandeld in [“Energiegemeenschap: de gids voor gemeenten”](/nl/oplossingen/gemeenten/).
 
 ## Wat u moet onthouden
 

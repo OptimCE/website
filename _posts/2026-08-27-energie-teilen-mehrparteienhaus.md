@@ -2,14 +2,15 @@
 layout: post
 title: "Energie teilen im Mehrparteienhaus"
 date: 2026-08-27 06:00:00 +0200
-last_modified_at: 2026-09-16 06:00:00 +0200
+last_modified_at: 2026-09-26 06:00:00 +0200
 author: "Eric, OptimCE"
 excerpt: "616 135 Wohnungen in Brüssel und Wallonien liegen in einem Mehrparteienhaus. Im Februar 2025 zählte die CWaPE vier Teilungsaktivitäten innerhalb desselben Gebäudes in Wallonien. Vier. Am Energierecht liegt es nicht: Es verlangt eine Vereinbarung und ein Formular, ohne Rechtsperson und ohne Genehmigung. Entschieden wird in Wahrheit durch drei Artikel aus Buch 3 des Zivilgesetzbuches — wer die Module besitzen darf, mit welcher Mehrheit, und wie lange der Verwalter unterschreiben darf."
 description: "Drei Artikel des Zivilgesetzbuchs entscheiden, ob Ihr Gebäude Strom teilen kann: Eigentum an den Modulen, Mehrheit in der Versammlung, Mandat des Verwalters."
 tags: [guide, community, administrative]
 lang: de
 ref: energy-sharing-condominium
-permalink: /de/aktuelles/2026/08/27/energie-teilen-mehrparteienhaus/
+solution: coproprietes
+permalink: /de/loesungen/mehrparteienhaeuser/
 faq:
   - q: "Darf eine Wohnungseigentümergemeinschaft den Strom ihres Daches unter den Wohnungen teilen?"
     a: "Ja, und es ist die leichteste Form der belgischen Regelung. In Brüssel wie in Wallonien verlangt das Teilen innerhalb desselben Gebäudes weder eine Rechtsperson noch eine Genehmigung des Regulierers: Eine Vereinbarung zwischen den Teilnehmern und eine Meldung beim Verteilernetzbetreiber genügen. Die vier Bedingungen sind auf beiden Seiten der Regionsgrenze dieselben: Die Teilnehmer befinden sich im Gebäude, die Erzeugungsanlage liegt in oder auf diesem Gebäude, der geteilte Strom stammt aus erneuerbaren Quellen, und jeder Teilnehmer behält seinen Liefervertrag. Die Schwierigkeit besteht also nicht darin, die Erlaubnis zum Teilen zu erhalten. Sie besteht darin zu entscheiden, wem die Anlage gehört, die dieses Teilen speist — und diese Frage gehört ins Zivilgesetzbuch, nicht ins Energierecht."
@@ -313,6 +314,30 @@ Projekte, die scheitern, irren fast nie in der Technik. Sie irren in der Reihenf
 | **Jährlich** | Preis, Schlüssel und Teilnehmerliste überprüfen; berichten | Eine Teilung wird gesteuert, nicht bloß installiert |
 
 Der kritische Pfad ist weder die Abstimmung noch die Verwaltung: Es sind **die intelligenten Zähler**. In einem Haus, in dem mehrere Teilnehmer noch keinen haben, ist das der einzige Schritt, den kein Versammlungsbeschluss beschleunigen kann. Er sollte am Tag nach der Abstimmung angestoßen werden, nicht erst bei der Meldung.
+
+## Was OptimCE für Sie tut
+
+Das Teilen in einem Gebäude entscheidet sich in der Viertelstunde und wird über Jahre verwaltet,
+über Umzüge und Verwalterwechsel hinweg. OptimCE übernimmt den wiederkehrenden Teil:
+
+- **Messen, bevor abgestimmt wird.** Simulieren Sie einen Aufteilungsschlüssel auf den
+  Viertelstundenverbräuchen der Wohnungen und des Zählers der Gemeinschaftsteile: Eigenverbrauch
+  und Überschuss werden sichtbar, bevor Sie die Eigentümerversammlung einberufen. Das Modul zur
+  automatischen Generierung schlägt zudem einen Kandidatenschlüssel vor.
+- **Die Teilnehmerliste führen.** Eigentümer, Bewohner, Lieferstellen und Zähler werden an einem
+  Ort geführt; jede Version des Schlüssels wird archiviert und die Zustimmung der Mitglieder
+  nachverfolgt.
+- **Die Unterlagen vorbereiten.** Für ein wallonisches Gebäude werden die Dokumente der CWaPE aus
+  diesen Daten vorausgefüllt und die Fristen berechnet. Die Einreichung bleibt Ihre Sache.
+- **Den geteilten Strom abrechnen.** Das Abrechnungsmodul, ausgelegt auf den wallonischen Rahmen,
+  erstellt die Rechnungen der Bewohner und die Abrechnung für den Eigentümer der Anlage, mit
+  Zahlungsverfolgung.
+- **Informieren und befragen.** Mit dem Nachrichtenboard und den Abstimmungen können Sie die
+  Teilnehmer zum Beispiel vor einer Änderung des Schlüssels befragen.
+
+Die Anwendung ist während der Alphaphase kostenlos.
+
+**[OptimCE-App öffnen →](https://app.optimce.be)**
 
 ## Was Sie mitnehmen sollten
 

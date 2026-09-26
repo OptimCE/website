@@ -1,0 +1,35 @@
+# ==================================================================
+# Solutions — one complete guide per type of project holder.
+# ------------------------------------------------------------------
+# A post joins with `solution: <key>` and a permalink under the language's
+# solutions_path (/solutions/, /en/solutions/, /de/loesungen/, /nl/oplossingen/).
+# The solutions index lists them in this order; `label` names the audience.
+# ==================================================================
+
+- key: coproprietes
+  label:
+    fr: "Copropriétés"
+    en: "Condominiums"
+    de: "Mehrparteienhäuser"
+    nl: "Appartementsgebouwen"
+
+- key: ecoles
+  label:
+    fr: "Écoles"
+    en: "Schools"
+    de: "Schulen"
+    nl: "Scholen"
+
+- key: communes
+  label:
+    fr: "Communes"
+    en: "Municipalities"
+    de: "Gemeinden"
+    nl: "Gemeenten"
+
+- key: agriculteurs
+  label:
+    fr: "Exploitations agricoles"
+    en: "Farms"
+    de: "Landwirtschaft"
+    nl: "Landbouw"

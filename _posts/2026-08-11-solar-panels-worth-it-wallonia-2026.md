@@ -73,7 +73,7 @@ There is **no direct regional premium and no green certificate left** for a new 
 
 In other words: the profitability of a Walloon installation in 2026 no longer depends on any meaningful public support. It depends entirely on what you do with your production.
 
-This article is about households. Above 10 kW the picture changes: green certificates still exist, under the CPMA regime, and a farm holding can add regional investment aid on top — but only on the share it self-consumes. The case of a large professional roof is covered in [“Farm roofs: the energy-sharing guide”](/en/news/2026/09/10/farm-solar-energy-sharing-guide/).
+This article is about households. Above 10 kW the picture changes: green certificates still exist, under the CPMA regime, and a farm holding can add regional investment aid on top — but only on the share it self-consumes. The case of a large professional roof is covered in [“Farm roofs: the energy-sharing guide”](/en/solutions/farms/).
 
 ## The 2026 profitability calculation, line by line
 

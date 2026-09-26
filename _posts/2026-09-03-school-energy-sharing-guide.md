@@ -2,13 +2,15 @@
 layout: post
 title: "Schools: a guide to energy sharing"
 date: 2026-09-03 06:00:00 +0200
+last_modified_at: 2026-09-26 06:00:00 +0200
 author: "Eric from OptimCE"
 excerpt: "A school in the subsidised free network is a private-law non-profit. No elected mandate, no regional supervision, no territorial competence. And yet the Walloon Government listed it among the “local authorities” — alongside municipalities, public social welfare centres and provinces. The reason is spelled out in one sentence from the SPW Énergie that nobody quotes. That status changes everything: it makes the school the only non-public building in Wallonia that can set up its own energy community without waiting for anyone."
 description: "Every Walloon school is a “local authority” since 26 February 2026. What that status unlocks, and how to monetise a roof that produces when empty."
 tags: [guide, community, administrative]
 lang: en
 ref: school-energy-sharing
-permalink: /en/news/2026/09/03/school-energy-sharing-guide/
+solution: ecoles
+permalink: /en/solutions/schools/
 faq:
   - q: "Can a school in the subsidised free network really be a member of a renewable energy community?"
     a: "Yes, and without having to demonstrate anything at all. Article 4 of the Walloon Government decree of 17 March 2023 lists among local authorities “establishments of primary and secondary education, ordinary and specialised, organised or subsidised by the French Community, the Flemish Community or the German-speaking Community, located in the territory of the Walloon Region”. The decisive word is “subsidised”: it covers the denominational and non-denominational free network as much as the subsidised official one. The SPW Énergie sets out the reasoning explicitly: schools in the official network were already included by virtue of the nature of their organising authority, and it was “in order not to create discrimination between school networks” that all schools were added. University colleges and universities are covered separately. The practical consequence is considerable: where a small or medium-sized enterprise must prove that participation in an energy community is not its main activity, a school has nothing to prove at all — it enters through the local-authority door."
@@ -28,7 +30,7 @@ The Wallonia-Brussels Federation has more than **13,000 school buildings**. Half
 
 Here is the anomaly. A school in the subsidised free network is a private-law non-profit association. No elected mandate, no regional supervision, no territorial competence. Legally it looks like any other association. And yet, when the Walloon Government drew up the list of **local authorities** entitled to control an energy community, it put schools on it — next to municipalities, provinces, public social welfare centres and inter-municipal companies.
 
-This article does not redo what is already written elsewhere on this site: the difference between the three Belgian statuses is covered in [“Energy communities in Belgium: CER, CEC, CEL”](/en/guides/energy-communities-belgium/), the creation procedure in [“Create an energy community in Wallonia”](/en/guides/create-energy-community-wallonia/), the owning municipality's point of view in [“Energy communities: a guide for municipalities”](/en/news/2026/08/30/municipal-energy-community-guide/), how to compose a group by hourly profile in [“Local electricity: the short-circuit guide”](/en/guides/local-electricity-short-circuit-guide/), the ranking of surplus outlets in [“Solar surplus: the 5 options compared”](/en/guides/what-to-do-solar-surplus-belgium/), the profitability calculation of an installation in [“Solar panels 2026: still worth it in Wallonia?”](/en/guides/solar-panels-worth-it-wallonia/), and the setting of the internal price in [“Internal transfer price in an energy community”](/en/guides/energy-community-electricity-price/).
+This article does not redo what is already written elsewhere on this site: the difference between the three Belgian statuses is covered in [“Energy communities in Belgium: CER, CEC, CEL”](/en/guides/energy-communities-belgium/), the creation procedure in [“Create an energy community in Wallonia”](/en/guides/create-energy-community-wallonia/), the owning municipality's point of view in [“Energy communities: a guide for municipalities”](/en/solutions/municipalities/), how to compose a group by hourly profile in [“Local electricity: the short-circuit guide”](/en/guides/local-electricity-short-circuit-guide/), the ranking of surplus outlets in [“Solar surplus: the 5 options compared”](/en/guides/what-to-do-solar-surplus-belgium/), the profitability calculation of an installation in [“Solar panels 2026: still worth it in Wallonia?”](/en/guides/solar-panels-worth-it-wallonia/), and the setting of the internal price in [“Internal transfer price in an energy community”](/en/guides/energy-community-electricity-price/).
 
 It answers a question none of those articles asks: **why does Walloon law grant a school — any school, whatever its network — a status that no shop, no small enterprise and no condominium obtains, and what can it actually do with it?**
 
@@ -212,7 +214,7 @@ Article 3 of the decree of 17 March 2023 settles it. A building corresponds eith
 
 > 1° a fixed, covered and closed immovable construction comprising at least two parts intended for autonomous use; 2° several fixed, covered and closed immovable constructions belonging to one and the same condominium.
 
-The second case is closed from the outset for the vast majority of schools: **a school is almost never a condominium**. The organising authority is sole owner, or occupies property belonging to a single public body. There are no private lots, no common parts within the meaning of the Civil Code, and therefore no association of co-owners. The route that works for an apartment block — set out in [“Energy sharing in a condominium: the guide”](/en/news/2026/08/27/energy-sharing-condominium-guide/) — does not open here.
+The second case is closed from the outset for the vast majority of schools: **a school is almost never a condominium**. The organising authority is sole owner, or occupies property belonging to a single public body. There are no private lots, no common parts within the meaning of the Civil Code, and therefore no association of co-owners. The route that works for an apartment block — set out in [“Energy sharing in a condominium: the guide”](/en/solutions/condominiums/) — does not open here.
 
 That leaves the first case, which requires **two autonomous parts under a single covered and closed construction**. A canopy, a playground, a covered outdoor passage do not join two buildings into one. Two blocks separated by twenty metres of playground remain two buildings, even on the same cadastral parcel, even under the same administrative roof.
 
@@ -340,6 +342,26 @@ At 3.5 c€, the marginal kilowatt-peak pays back in about forty years, that is,
 **Trap 3 — Forgetting to reserve green certificates.** Reservation precedes the works. Afterwards it is lost.
 
 **Trap 4 — Signing third-party investment with no sharing clause.** The surplus is then assigned to the operator for ten to fifteen years, and that is exactly the volume sharing was meant to monetise.
+
+## What OptimCE does for you
+
+Everything turns on the calendar: what your partners absorb while the school is empty. OptimCE
+helps you measure it, then run the operation:
+
+- **Test the group before you form it.** Simulate an allocation key on the quarter-hourly data of
+  the school and its partners: self-consumption, surplus and sharing rate are shown time step by
+  time step, holidays included. The automatic generation module can also propose a candidate key.
+- **Keep the list of participants.** Members, supply points and meters are held in one place;
+  every version of the key is recorded and members' acceptance is tracked.
+- **Prepare the paperwork.** The CWaPE documents are pre-filled and the deadlines are calculated.
+  Filing them remains your responsibility.
+- **Find partners and keep them informed.** Publish the operation in the application's public
+  registry, then inform the school community and the neighbours with the news board and polls.
+- **Invoice the shared electricity** under the Walloon framework, with payment tracking.
+
+The application is free during the alpha phase.
+
+**[Open the OptimCE app →](https://app.optimce.be)**
 
 ## What to remember
 

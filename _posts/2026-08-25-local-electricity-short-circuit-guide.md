@@ -176,7 +176,7 @@ Here, concretely, is how a perimeter that holds gets built.
 
 The producer is rarely the hard part. An available roof can be found: municipal school, sports hall, care home, industrial-estate SME, farm building, recent apartment block, council depot. These buildings have surface area, an identifiable owner and, often, a direct budgetary interest.
 
-The Walloon textbook case makes the point: Soleil d'Aubange, the first renewable energy community recognised in Wallonia, was built around installations carried by the municipality, with the support of a local action group and a specialist non-profit. What that arrangement asks precisely of a municipality — and why the legal perimeter of a Walloon renewable energy community already follows the municipal boundary — is developed in [“Energy communities: a guide for municipalities”](/en/news/2026/08/30/municipal-energy-community-guide/).
+The Walloon textbook case makes the point: Soleil d'Aubange, the first renewable energy community recognised in Wallonia, was built around installations carried by the municipality, with the support of a local action group and a specialist non-profit. What that arrangement asks precisely of a municipality — and why the legal perimeter of a Walloon renewable energy community already follows the municipal boundary — is developed in [“Energy communities: a guide for municipalities”](/en/solutions/municipalities/).
 
 The classic mistake is to stop there — to size the installation on the roof's potential rather than on the group's daytime absorption capacity. An oversized roof facing a group that sleeps through the day does not produce a short circuit: it produces injection.
 
@@ -197,9 +197,9 @@ This is the list the brochures never give. Ranked by capacity to consume during 
 
 The useful reading of this table is not “take the first ones and drop the last”. A project needs commuter households: they are its social base, they vote at the general meeting, they carry the thing. But **if the group is made up of nothing else, there is no short circuit, there is an association.**
 
-One row in this table deserves an article of its own. The school is the only profile whose trough is seasonal rather than hourly — seven weeks of closure at peak output — and it is also the only participant that Walloon law automatically ranks among local authorities, whatever its network: [“Schools: a guide to energy sharing”](/en/news/2026/09/03/school-energy-sharing-guide/).
+One row in this table deserves an article of its own. The school is the only profile whose trough is seasonal rather than hourly — seven weeks of closure at peak output — and it is also the only participant that Walloon law automatically ranks among local authorities, whatever its network: [“Schools: a guide to energy sharing”](/en/solutions/schools/).
 
-That table lists consumers. In the countryside the missing question is the producer's: the largest available roof belongs neither to the municipality nor to the school, but to a farmer — and the regional aid that would finance the panels stops exactly where sharing begins. That is the subject of [“Farm roofs: the energy-sharing guide”](/en/news/2026/09/10/farm-solar-energy-sharing-guide/).
+That table lists consumers. In the countryside the missing question is the producer's: the largest available roof belongs neither to the municipality nor to the school, but to a farmer — and the regional aid that would finance the panels stops exactly where sharing begins. That is the subject of [“Farm roofs: the energy-sharing guide”](/en/solutions/farms/).
 
 ### What the 2026 tariff reform changes in your favour
 

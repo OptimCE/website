@@ -176,7 +176,7 @@ Hier staat concreet hoe een perimeter ontstaat die standhoudt.
 
 De producent is zelden het moeilijke punt. Een beschikbaar dak vindt u wel: gemeenteschool, sporthal, woonzorgcentrum, kmo op een bedrijventerrein, landbouwgebouw, recent appartementsgebouw, gemeentelijke werkplaats. Die gebouwen hebben oppervlakte, een identificeerbare eigenaar en vaak een rechtstreeks budgettair belang.
 
-Het Waalse schoolvoorbeeld toont het goed: Soleil d'Aubange, de eerste in Wallonië erkende hernieuwbare energiegemeenschap, werd opgebouwd rond installaties gedragen door de gemeente, met de steun van een plaatselijke actiegroep en een gespecialiseerde vzw. Wat die opzet precies van een gemeente vraagt — en waarom de wettelijke perimeter van een Waalse hernieuwbare-energiegemeenschap al de gemeentegrens volgt — wordt uitgewerkt in [“Energiegemeenschap: de gids voor gemeenten”](/nl/nieuws/2026/08/30/energiegemeenschap-gemeenten-gids/).
+Het Waalse schoolvoorbeeld toont het goed: Soleil d'Aubange, de eerste in Wallonië erkende hernieuwbare energiegemeenschap, werd opgebouwd rond installaties gedragen door de gemeente, met de steun van een plaatselijke actiegroep en een gespecialiseerde vzw. Wat die opzet precies van een gemeente vraagt — en waarom de wettelijke perimeter van een Waalse hernieuwbare-energiegemeenschap al de gemeentegrens volgt — wordt uitgewerkt in [“Energiegemeenschap: de gids voor gemeenten”](/nl/oplossingen/gemeenten/).
 
 De klassieke fout bestaat erin daarbij te blijven — de installatie te dimensioneren op het potentieel van het dak in plaats van op het opnamevermogen van de groep overdag. Een overgedimensioneerd dak tegenover een groep die overdag slaapt, brengt geen korte keten voort: het brengt injectie voort.
 
@@ -197,9 +197,9 @@ Dat is de lijst die brochures nooit geven. Geordend naar het vermogen om te verb
 
 De nuttige lezing van deze tabel is niet “neem de eerste en laat de laatste vallen”. Een project heeft pendelgezinnen nodig: zij vormen de sociale basis, zij stemmen op de algemene vergadering, zij dragen het geheel. Maar **als de groep uit niets anders bestaat, is er geen korte keten, er is een vereniging.**
 
-Eén regel van deze tabel verdient een eigen artikel. De school is het enige profiel waarvan de dip seizoensgebonden is in plaats van uurgebonden — zeven weken sluiting op de productiepiek — en tegelijk de enige deelnemer die het Waalse recht ambtshalve tot de lokale overheden rekent, ongeacht zijn net: [“Scholen: de gids voor energiedelen”](/nl/nieuws/2026/09/03/energiedeling-school-gids/).
+Eén regel van deze tabel verdient een eigen artikel. De school is het enige profiel waarvan de dip seizoensgebonden is in plaats van uurgebonden — zeven weken sluiting op de productiepiek — en tegelijk de enige deelnemer die het Waalse recht ambtshalve tot de lokale overheden rekent, ongeacht zijn net: [“Scholen: de gids voor energiedelen”](/nl/oplossingen/scholen/).
 
-Deze tabel somt verbruikers op. Op het platteland ontbreekt de vraag naar de producent: het grootste beschikbare dak behoort noch aan de gemeente noch aan de school toe, maar aan een landbouwer — en de gewestelijke steun die zijn panelen zou financieren, stopt precies waar het delen begint. Daarover gaat [“Landbouwloods: de gids voor energiedelen”](/nl/nieuws/2026/09/10/energiedeling-landbouw-gids/).
+Deze tabel somt verbruikers op. Op het platteland ontbreekt de vraag naar de producent: het grootste beschikbare dak behoort noch aan de gemeente noch aan de school toe, maar aan een landbouwer — en de gewestelijke steun die zijn panelen zou financieren, stopt precies waar het delen begint. Daarover gaat [“Landbouwloods: de gids voor energiedelen”](/nl/oplossingen/landbouw/).
 
 ### Wat de tariefhervorming van 2026 in uw voordeel verandert
 

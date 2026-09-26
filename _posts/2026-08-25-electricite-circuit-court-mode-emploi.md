@@ -176,7 +176,7 @@ Voici, concrètement, comment se construit un périmètre qui tient.
 
 Le producteur est rarement le point dur. Une toiture disponible se trouve : école communale, hall omnisports, maison de repos, PME de zoning, bâtiment agricole, copropriété récente, atelier communal. Ces bâtiments ont de la surface, un propriétaire identifiable et, souvent, un intérêt budgétaire direct.
 
-Le cas d'école wallon le montre bien : la première communauté d'énergie renouvelable reconnue en Wallonie, Soleil d'Aubange, s'est construite autour d'installations portées par la commune, avec l'appui d'un groupe d'action locale et d'une ASBL spécialisée. Ce que ce montage demande précisément à une commune — et pourquoi le périmètre légal d'une CER wallonne épouse déjà la limite communale — est développé dans [« Communauté d'énergie : le guide des communes »](/actualites/2026/08/30/communaute-energie-communale-guide/).
+Le cas d'école wallon le montre bien : la première communauté d'énergie renouvelable reconnue en Wallonie, Soleil d'Aubange, s'est construite autour d'installations portées par la commune, avec l'appui d'un groupe d'action locale et d'une ASBL spécialisée. Ce que ce montage demande précisément à une commune — et pourquoi le périmètre légal d'une CER wallonne épouse déjà la limite communale — est développé dans [« Communauté d'énergie : le guide des communes »](/solutions/communes/).
 
 L'erreur classique consiste à s'arrêter là — à dimensionner l'installation sur le potentiel de la toiture plutôt que sur la capacité d'absorption diurne du groupe. Une toiture surdimensionnée face à un groupe qui dort la journée ne produit pas un circuit court : elle produit de l'injection.
 
@@ -197,9 +197,9 @@ C'est la liste que les brochures ne donnent jamais. Classée par capacité à co
 
 La lecture utile de ce tableau n'est pas « il faut les premiers et pas les derniers ». Un projet a besoin de ménages de navetteurs : ils sont l'assise sociale, ils votent en assemblée générale, ils portent le projet. Mais **si le groupe n'est composé que d'eux, il n'y a pas de circuit court, il y a une association.**
 
-Une ligne de ce tableau mérite un article à elle seule. L'école est le seul profil dont le creux est saisonnier plutôt qu'horaire — sept semaines de fermeture au pic de production —, et c'est aussi le seul participant que le droit wallon range d'office parmi les autorités locales, quel que soit son réseau : [« Écoles : le guide du partage d'énergie »](/actualites/2026/09/03/partage-energie-ecole-guide/).
+Une ligne de ce tableau mérite un article à elle seule. L'école est le seul profil dont le creux est saisonnier plutôt qu'horaire — sept semaines de fermeture au pic de production —, et c'est aussi le seul participant que le droit wallon range d'office parmi les autorités locales, quel que soit son réseau : [« Écoles : le guide du partage d'énergie »](/solutions/ecoles/).
 
-Ce tableau recense des consommateurs. En zone rurale, c'est la question du producteur qui manque : le plus grand toit disponible n'appartient ni à la commune ni à l'école, mais à un agriculteur — et l'aide régionale qui financerait ses panneaux s'arrête exactement là où le partage commence. C'est l'objet de [« Hangar agricole : le guide du partage d'énergie »](/actualites/2026/09/10/partage-energie-agriculteur-hangar-solaire/).
+Ce tableau recense des consommateurs. En zone rurale, c'est la question du producteur qui manque : le plus grand toit disponible n'appartient ni à la commune ni à l'école, mais à un agriculteur — et l'aide régionale qui financerait ses panneaux s'arrête exactement là où le partage commence. C'est l'objet de [« Hangar agricole : le guide du partage d'énergie »](/solutions/agriculteurs/).
 
 ### Ce que la réforme tarifaire de 2026 change en votre faveur
 

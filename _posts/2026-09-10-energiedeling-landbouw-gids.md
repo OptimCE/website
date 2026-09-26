@@ -2,13 +2,15 @@
 layout: post
 title: "Landbouwloods: de gids voor energiedelen"
 date: 2026-09-10 06:00:00 +0200
+last_modified_at: 2026-09-26 06:00:00 +0200
 author: "Eric van OptimCE"
 excerpt: "Een landbouwloods draagt tussen 100 en 350 kilowattpiek. Het is het grootste beschikbare dak van landelijk Wallonië, het best georiënteerde en het eenvoudigst uit te rusten: panelen op het dak hebben er geen stedenbouwkundige vergunning nodig, ongeacht hun vermogen. Toch is van de dertien bij de CWaPE gemelde energiegemeenschappen er geen enkele op een landbouwbedrijf gebouwd. Dat is geen onverschilligheid. Twee besluiten van de Waalse Regering, met drie weken tussentijd genomen in februari en maart 2023, duwen precies de tegenovergestelde kant op: het eerste subsidieert landbouwzonne-energie enkel in verhouding tot het zelfverbruikte deel, het tweede organiseert het delen van het overschot."
 description: "Twee Waalse besluiten uit 2023 spreken elkaar tegen: de landbouwsteun stopt waar het delen begint. Wat een loodsdak echt opbrengt."
 tags: [guide, community, administrative]
 lang: nl
 ref: farm-energy-sharing
-permalink: /nl/nieuws/2026/09/10/energiedeling-landbouw-gids/
+solution: agriculteurs
+permalink: /nl/oplossingen/landbouw/
 faq:
   - q: "Kan een landbouwer een eigen energiegemeenschap oprichten, of moet hij op zijn gemeente wachten?"
     a: "Hij kan er een oprichten, maar hij geniet niet de kortere weg die een school of een gemeente heeft. Een hernieuwbare-energiegemeenschap laat slechts drie categorieën leden toe: natuurlijke personen, lokale overheden, en kleine of middelgrote ondernemingen waarvan de voornaamste commerciële of professionele activiteit niet de deelname aan een of meer energiegemeenschappen is. Een landbouwer valt onder de eerste of de derde categorie, naargelang de vorm waarin hij uitbaat: als natuurlijke persoon, of als landbouwvennootschap of bv. In beide gevallen is hij een gewoon lid en kan hij het initiatief nemen, de daadwerkelijke zeggenschap over de gemeenschap uitoefenen en er de belangrijkste producent van zijn. Het verschil met de school ligt in de bewijslast: artikel 4 van het besluit van 17 maart 2023 rangschikt scholen onder de lokale overheden, wat hen van elke toets vrijstelt. Het landbouwbedrijf komt binnen langs de kmo-deur en moet dus kunnen aantonen dat energie niet zijn hoofdberoep is. Voor een bedrijf dat melk, granen of vlees produceert, is dat bewijs onmiddellijk geleverd en levert het geen enkel praktisch probleem op. Het wordt wel een echte kwestie op de dag dat de energieactiviteit zo groot wordt dat ze de omzet gaat domineren — een zeldzaam scenario op een dak, een veel minder zeldzaam scenario bij biomethanisatie."
@@ -101,7 +103,7 @@ Artikel 3 van het besluit van 17 maart 2023 omschrijft het gebouw als:
 
 De tweede tak is meteen gesloten: een landbouwbedrijf is vrijwel nooit een mede-eigendom. De eerste beschrijft daarentegen een configuratie die de Waalse landelijke bouwkunst twee eeuwen lang in serie heeft voortgebracht: **het woonhuis, de stal en de schuur aaneengebouwd in één doorlopende constructie**, de vierkantshoeve, het gemengde woon-bedrijfsgebouw. Twee delen bestemd voor autonoom gebruik onder een en dezelfde overdekte en gesloten constructie: aan de definitie is voldaan.
 
-Dat is een situatie die noch een school, noch een appartementsgebouw in de wijk, noch een gemeente bij benadering zo vaak tegenkomt. [“Scholen: de gids voor energiedelen”](/nl/nieuws/2026/09/03/energiedeling-school-gids/) toont waarom twee blokken gescheiden door een speelplaats twee gebouwen blijven; [“Energie delen in een appartementsgebouw”](/nl/nieuws/2026/08/27/energie-delen-appartementsgebouw/) zet de weg via de mede-eigendom uiteen, die hier niet opengaat. De hoeve valt daarentegen geregeld onder het eerste geval van artikel 3 — en niemand zegt het haar.
+Dat is een situatie die noch een school, noch een appartementsgebouw in de wijk, noch een gemeente bij benadering zo vaak tegenkomt. [“Scholen: de gids voor energiedelen”](/nl/oplossingen/scholen/) toont waarom twee blokken gescheiden door een speelplaats twee gebouwen blijven; [“Energie delen in een appartementsgebouw”](/nl/oplossingen/appartementsgebouwen/) zet de weg via de mede-eigendom uiteen, die hier niet opengaat. De hoeve valt daarentegen geregeld onder het eerste geval van artikel 3 — en niemand zegt het haar.
 
 Toch één waarschuwing: een stalen loods die veertig meter verderop op het erf staat, voldoet niet aan de voorwaarde, ook niet op hetzelfde kadastrale perceel, ook niet bij dezelfde eigenaar. Paragraaf 2 van datzelfde artikel hecht de bijgebouwen wel aan het gebouw — garages, tuinen, parkings, terreinen — op hetzelfde perceel of met gemeenschappelijke toegang, maar een bijgebouw is geen tweede gebouw: die bepaling dient de inplanting, niet de kwalificatie van het deelregime.
 
@@ -140,7 +142,7 @@ Twee regels verdienen commentaar.
 
 **De school en de camping vullen elkaar aan, ze concurreren niet.** De school neemt zeer goed op van september tot juni en verdwijnt zeven weken in juli en augustus — dat is het hele onderwerp van onze schoolgids. De camping, het toeristische logies en de landelijke horeca doen precies het omgekeerde. Een goed samengestelde landelijke deelgroep bevat ze allebei.
 
-**Het pompstation is de meest onderschatte partner van landelijk Wallonië.** Het verbruikt overdag, het hele jaar door, met een last die grotendeels in de tijd verschuifbaar is — een reservoir om 13 uur vullen in plaats van om 3 uur kost niemand iets. En het wordt vrijwel altijd beheerd door de gemeente of een intercommunale, wat de governance vereenvoudigt. [“Energiegemeenschap: de gids voor gemeenten”](/nl/nieuws/2026/08/30/energiegemeenschap-gemeenten-gids/) behandelt het standpunt van de eigenaar-gemeente.
+**Het pompstation is de meest onderschatte partner van landelijk Wallonië.** Het verbruikt overdag, het hele jaar door, met een last die grotendeels in de tijd verschuifbaar is — een reservoir om 13 uur vullen in plaats van om 3 uur kost niemand iets. En het wordt vrijwel altijd beheerd door de gemeente of een intercommunale, wat de governance vereenvoudigt. [“Energiegemeenschap: de gids voor gemeenten”](/nl/oplossingen/gemeenten/) behandelt het standpunt van de eigenaar-gemeente.
 
 De algemene methode — een groep samenstellen door verbruiksprofielen over elkaar te leggen in plaats van door geografische nabijheid — wordt uitgewerkt in [“Stroom in de korte keten: de handleiding”](/nl/gidsen/elektriciteit-korte-keten-handleiding/). Ze geldt hier zoals elders, met één nuance: het landbouwdak is de enige landelijke producent die groot genoeg is om meerdere profielen tegelijk te bevoorraden.
 
@@ -237,6 +239,27 @@ De redenering die daaruit volgt, luidt als volgt. Zolang het overschot het injec
 **3. Het vezelcementdak.** Een aanzienlijk deel van het Waalse loodsenbestand is gedekt met asbesthoudend vezelcement. Daar legt men geen zonnepanelen op: er moet eerst worden geasbestverwijderd en opnieuw gedekt, en die kost gaat de energie-investering vooraf in plaats van er bovenop te komen. Ze moet van meet af aan in het financieringsplan worden opgenomen, anders stelt men halverwege het project vast dat het budget verdubbeld is.
 
 **4. De overdracht van het bedrijf.** Een zonne-installatie is een actief met een levensduur van twintig tot vijfentwintig jaar, en de steunregeling verplicht de investering meerdere jaren na de toekenning in stand te houden. Een uitgerust dak op een gebouw dat van eigenaar zal veranderen, of een derde-investeerderscontract dat over de overname heen loopt, onderhandelt beter wanneer de vraag bij de ondertekening is gesteld dan bij de erfopvolging.
+
+## Wat OptimCE voor u doet
+
+Een landbouwdak wordt beoordeeld op de middaglast van zijn deelnemers, van de oogst tot in het
+diepst van januari. OptimCE helpt u die te meten en de deelactie daarna te beheren:
+
+- **Simuleren voordat u het dak vastlegt.** Importeer de kwartierproductie en het verbruik van de
+  beoogde deelnemers, test daarna een sleutel of laat de generatiemodule er een voorstellen:
+  zelfverbruik, overschot en deelgraad verschijnen kwartier per kwartier.
+- **De lijst van deelnemers bijhouden.** Leden, leveringspunten en meters staan op één plek; elke
+  versie van de sleutel wordt bewaard en de aanvaarding door de leden wordt opgevolgd.
+- **De documenten voorbereiden.** De documenten van de CWaPE worden vooraf ingevuld en de termijnen
+  worden berekend. Het indienen blijft uw zaak.
+- **Deelnemers vinden.** Publiceer de deelactie in het publiek register van de applicatie, waar
+  iedereen een deelactie kan zoeken die openstaat voor nieuwe leden.
+- **De gedeelde elektriciteit factureren** binnen het Waalse kader, afrekening voor de producent
+  inbegrepen, met opvolging van de betalingen.
+
+De applicatie is gratis tijdens de alfafase.
+
+**[De OptimCE-app openen →](https://app.optimce.be)**
 
 ## Wat u moet onthouden
 

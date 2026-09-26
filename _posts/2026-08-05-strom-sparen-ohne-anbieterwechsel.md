@@ -168,7 +168,7 @@ In der Wallonie ist die Logik dieselbe, das Anwendungsfeld jedoch deutlich enger
 
 Daraus folgt ein sehr praktischer Schluss für wallonische Leserinnen und Leser: **Wenn Sie in einem Miteigentum mit nutzbarem Dach wohnen, befinden Sie sich in der besten Konstellation des Landes nach Brüssel** — ohne juristische Person und mit 80 % weniger auf dem Arbeitspreisanteil der geteilten Mengen. In der Wallonie ist es die einzige Gestaltung, die administrative Einfachheit mit einem Netzvorteil verbindet.
 
-Die Eigentümerversammlung muss allerdings erst beschließen können. Dort ändert das Vorhaben seine Natur: Die gewählte Eigentumskonstruktion bestimmt die zu erreichende Mehrheit — zwei Drittel oder vier Fünftel — und die Vereinigung der Miteigentümer darf die Module nicht selbst besitzen. Dieser Weg wird in [„Energie teilen im Mehrparteienhaus“](/de/aktuelles/2026/08/27/energie-teilen-mehrparteienhaus/) beschrieben.
+Die Eigentümerversammlung muss allerdings erst beschließen können. Dort ändert das Vorhaben seine Natur: Die gewählte Eigentumskonstruktion bestimmt die zu erreichende Mehrheit — zwei Drittel oder vier Fünftel — und die Vereinigung der Miteigentümer darf die Module nicht selbst besitzen. Dieser Weg wird in [„Energie teilen im Mehrparteienhaus“](/de/loesungen/mehrparteienhaeuser/) beschrieben.
 
 ## Was die Wallonie blockiert und was sie lösen könnte
 

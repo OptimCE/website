@@ -106,7 +106,7 @@ Three specific points:
 - **The syndic can bill its management.** The administrative work — participant entries and exits, invoice issuing, follow-up — can be handled and billed by the syndic, or outsourced. Nothing requires it to be free.
 - **The schedule can follow the accounting year.** It is possible to align the sharing invoicing with the co-ownership's accounting rhythm, rather than opening a parallel cycle.
 
-What this section does not cover is the question that precedes it: **who owns the installation, and by what majority the general meeting decided it.** The assets of the association of co-owners are bounded by article 3.86, § 3, of the Civil Code, and the majority threshold depends on the structure chosen — two thirds or four fifths. The full path is set out in [“Energy sharing in a condominium: the guide”](/en/news/2026/08/27/energy-sharing-condominium-guide/).
+What this section does not cover is the question that precedes it: **who owns the installation, and by what majority the general meeting decided it.** The assets of the association of co-owners are bounded by article 3.86, § 3, of the Civil Code, and the majority threshold depends on the structure chosen — two thirds or four fifths. The full path is set out in [“Energy sharing in a condominium: the guide”](/en/solutions/condominiums/).
 
 Finally, one item never to forget in the reckoning: **your supplier may bill fees for your participation in sharing.** The CWaPE confirms nothing prohibits it ([CWaPE](https://www.cwape.be/node/6060)), and the amounts recorded reach around €150 per year and per supply point. On small shared volumes, these fees can wipe out the gain: they belong in the simulation, not on the invoice as a surprise.
 

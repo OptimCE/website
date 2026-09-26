@@ -176,7 +176,7 @@ Hier steht konkret, wie ein tragfähiger Perimeter entsteht.
 
 Der Erzeuger ist selten der schwierige Punkt. Ein verfügbares Dach findet sich: Gemeindeschule, Sporthalle, Pflegeheim, KMU im Gewerbegebiet, Landwirtschaftsgebäude, jüngerer Wohnbau, Bauhof. Diese Gebäude haben Fläche, einen identifizierbaren Eigentümer und häufig ein unmittelbares Haushaltsinteresse.
 
-Das wallonische Musterbeispiel zeigt es gut: Soleil d'Aubange, die erste in Wallonien anerkannte erneuerbare Energiegemeinschaft, entstand rund um Anlagen, die von der Gemeinde getragen wurden, mit Unterstützung einer lokalen Aktionsgruppe und einer spezialisierten Vereinigung. Was diese Konstruktion einer Gemeinde genau abverlangt — und warum der rechtliche Perimeter einer wallonischen Erneuerbare-Energie-Gemeinschaft bereits der Gemeindegrenze folgt — wird in [„Energiegemeinschaft: Leitfaden für Gemeinden“](/de/aktuelles/2026/08/30/energiegemeinschaft-gemeinde-leitfaden/) entfaltet.
+Das wallonische Musterbeispiel zeigt es gut: Soleil d'Aubange, die erste in Wallonien anerkannte erneuerbare Energiegemeinschaft, entstand rund um Anlagen, die von der Gemeinde getragen wurden, mit Unterstützung einer lokalen Aktionsgruppe und einer spezialisierten Vereinigung. Was diese Konstruktion einer Gemeinde genau abverlangt — und warum der rechtliche Perimeter einer wallonischen Erneuerbare-Energie-Gemeinschaft bereits der Gemeindegrenze folgt — wird in [„Energiegemeinschaft: Leitfaden für Gemeinden“](/de/loesungen/gemeinden/) entfaltet.
 
 Der klassische Fehler besteht darin, dort stehen zu bleiben — die Anlage nach dem Potenzial des Daches zu bemessen statt nach der Aufnahmefähigkeit der Gruppe bei Tag. Ein überdimensioniertes Dach vor einer Gruppe, die tagsüber schläft, erzeugt keinen kurzen Weg: Es erzeugt Einspeisung.
 
@@ -197,9 +197,9 @@ Das ist die Liste, die Broschüren nie liefern. Geordnet nach der Fähigkeit, w�
 
 Die nützliche Lesart dieser Tabelle lautet nicht „die ersten nehmen und die letzten weglassen“. Ein Projekt braucht Pendlerhaushalte: Sie sind die soziale Basis, sie stimmen in der Generalversammlung ab, sie tragen das Vorhaben. Aber **wenn die Gruppe aus nichts anderem besteht, gibt es keinen kurzen Weg, sondern einen Verein.**
 
-Eine Zeile dieser Tabelle verdient einen eigenen Artikel. Die Schule ist das einzige Profil, dessen Loch saisonal statt stündlich ist — sieben Wochen Schließung im Produktionsmaximum —, und zugleich der einzige Teilnehmer, den das wallonische Recht von Amts wegen zu den lokalen Behörden zählt, unabhängig von seinem Netz: [„Schulen: der Leitfaden zum Energieteilen“](/de/aktuelles/2026/09/03/energiegemeinschaft-schule-leitfaden/).
+Eine Zeile dieser Tabelle verdient einen eigenen Artikel. Die Schule ist das einzige Profil, dessen Loch saisonal statt stündlich ist — sieben Wochen Schließung im Produktionsmaximum —, und zugleich der einzige Teilnehmer, den das wallonische Recht von Amts wegen zu den lokalen Behörden zählt, unabhängig von seinem Netz: [„Schulen: der Leitfaden zum Energieteilen“](/de/loesungen/schulen/).
 
-Diese Tabelle listet Verbraucher auf. Auf dem Land fehlt die Frage nach dem Erzeuger: Das größte verfügbare Dach gehört weder der Gemeinde noch der Schule, sondern einem Landwirt — und die regionale Beihilfe, die seine Module finanzieren würde, endet genau dort, wo das Teilen beginnt. Davon handelt [„Landwirte: der Leitfaden zum Energieteilen“](/de/aktuelles/2026/09/10/energiegemeinschaft-landwirtschaft-leitfaden/).
+Diese Tabelle listet Verbraucher auf. Auf dem Land fehlt die Frage nach dem Erzeuger: Das größte verfügbare Dach gehört weder der Gemeinde noch der Schule, sondern einem Landwirt — und die regionale Beihilfe, die seine Module finanzieren würde, endet genau dort, wo das Teilen beginnt. Davon handelt [„Landwirte: der Leitfaden zum Energieteilen“](/de/loesungen/landwirtschaft/).
 
 ### Was die Tarifreform 2026 zu Ihren Gunsten ändert
 

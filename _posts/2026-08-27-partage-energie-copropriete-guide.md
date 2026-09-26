@@ -2,13 +2,15 @@
 layout: post
 title: "Partage d'énergie en copropriété : le guide"
 date: 2026-08-27 06:00:00 +0200
-last_modified_at: 2026-09-16 06:00:00 +0200
+last_modified_at: 2026-09-26 06:00:00 +0200
 author: "Eric d'OptimCE"
 excerpt: "616 135 logements bruxellois et wallons se trouvent dans un immeuble à appartements. En février 2025, la CWaPE recensait quatre opérations de partage au sein d'un même bâtiment en Wallonie. Quatre. Le droit de l'énergie n'y est pour rien : il demande une convention et un formulaire, sans personne morale ni autorisation. Ce sont trois articles du livre 3 du Code civil qui décident réellement — qui peut posséder les panneaux, à quelle majorité, et pour combien de temps le syndic peut signer."
 description: "Trois articles du Code civil décident si votre immeuble peut partager son électricité : propriété des panneaux, majorité en AG, mandat du syndic."
 tags: [guide, community, administrative]
 lang: fr
 ref: energy-sharing-condominium
+solution: coproprietes
+permalink: /solutions/coproprietes/
 faq:
   - q: "Une copropriété peut-elle partager l'électricité de sa toiture entre les appartements ?"
     a: "Oui, et c'est la forme la plus légère du dispositif belge. À Bruxelles comme en Wallonie, le partage au sein d'un même bâtiment ne demande ni personne morale ni autorisation du régulateur : une convention entre les participants et une déclaration au gestionnaire de réseau suffisent. Les quatre conditions sont les mêmes des deux côtés de la frontière régionale : les participants sont situés dans le bâtiment, l'installation de production est dans ou sur ce bâtiment, l'électricité partagée est d'origine renouvelable, et chaque participant conserve son contrat de fourniture. La difficulté n'est donc pas d'obtenir l'autorisation de partager, elle est de décider qui possède l'installation qui alimente ce partage — et cette question relève du Code civil, pas du droit de l'énergie."
@@ -312,6 +314,28 @@ Les projets qui échouent ne se trompent presque jamais sur la technique. Ils se
 | **Chaque année** | Revoir le prix, la clé, la liste des participants ; rapporter | Un partage se pilote, il ne se pose pas |
 
 Le chemin critique n'est ni le vote ni l'administration : ce sont **les compteurs intelligents**. Dans un immeuble où plusieurs participants n'en ont pas encore, c'est la seule étape qu'aucune décision d'assemblée ne peut accélérer. Elle mérite d'être lancée dès le lendemain du vote, pas au moment de la déclaration.
+
+## Ce qu'OptimCE fait pour vous
+
+Le partage d'un immeuble se gagne au quart d'heure et se gère sur des années, au fil des
+déménagements et des changements de syndic. OptimCE prend en charge la partie répétitive :
+
+- **Mesurer avant de voter.** Simulez une clé de répartition sur les consommations au quart d'heure
+  des logements et du compteur des communs : l'autoconsommation et le surplus apparaissent avant la
+  convocation de l'assemblée. Le module de génération automatique propose aussi une clé candidate.
+- **Tenir la liste des participants.** Propriétaires, occupants, points de fourniture et compteurs
+  sont centralisés ; chaque version de la clé est historisée et l'acceptation par les membres est
+  suivie.
+- **Préparer les documents.** Pour un immeuble wallon, les documents de la CWaPE sont préremplis à
+  partir de ces données et les échéances sont calculées. Le dépôt reste de votre ressort.
+- **Facturer l'énergie partagée.** Le module de facturation, conçu pour le cadre wallon, établit les
+  factures des occupants et le décompte du propriétaire de l'installation, avec suivi des paiements.
+- **Informer et consulter.** Le tableau d'actualités et les sondages servent, par exemple, à
+  consulter les participants avant de modifier la clé.
+
+L'application est gratuite pendant la phase alpha.
+
+**[Ouvrir l'application OptimCE →](https://app.optimce.be)**
 
 ## Ce qu'il faut retenir
 

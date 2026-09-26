@@ -212,7 +212,7 @@ Cette section s'adresse aux professionnels plutôt qu'aux ménages. Cinq leviers
 
 **Reprendre un format collectif existant plutôt que d'en créer un.** Empreintes essaime explicitement la méthodologie Eco Watchers, et Objectif 2050 accompagne des collectivités sur Réno WaTT'chers. Les outils sont écrits, testés et transférables.
 
-**Ne mettre le partage d'énergie qu'en fin de séquence.** Le montage suppose des compteurs communicants, une convention, une clé de répartition, et il rapporte moins aux ménages au tarif social. Il est pertinent quand une toiture publique ou un parc de logements sociaux existe — le cas d'Ans — mais il n'est pas le point d'entrée d'une politique de lutte contre la précarité énergétique. Le montage vu du côté de la commune, y compris le calcul de ce que le tarif social fait perdre sur les kilowattheures partagés, est détaillé dans [« Communauté d'énergie : le guide des communes »](/actualites/2026/08/30/communaute-energie-communale-guide/).
+**Ne mettre le partage d'énergie qu'en fin de séquence.** Le montage suppose des compteurs communicants, une convention, une clé de répartition, et il rapporte moins aux ménages au tarif social. Il est pertinent quand une toiture publique ou un parc de logements sociaux existe — le cas d'Ans — mais il n'est pas le point d'entrée d'une politique de lutte contre la précarité énergétique. Le montage vu du côté de la commune, y compris le calcul de ce que le tarif social fait perdre sur les kilowattheures partagés, est détaillé dans [« Communauté d'énergie : le guide des communes »](/solutions/communes/).
 
 ## Ce qu'il faut retenir
 

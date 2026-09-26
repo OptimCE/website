@@ -2,14 +2,15 @@
 layout: post
 title: "Energy sharing in a condominium: the guide"
 date: 2026-08-27 06:00:00 +0200
-last_modified_at: 2026-09-16 06:00:00 +0200
+last_modified_at: 2026-09-26 06:00:00 +0200
 author: "Eric from OptimCE"
 excerpt: "616,135 Brussels and Walloon homes sit inside an apartment building. In February 2025, the CWaPE counted four same-building sharing operations in Wallonia. Four. Energy law is not the reason: it asks for an agreement and a form, with no legal entity and no authorisation. The real decisions are made by three articles of Book 3 of the Civil Code — who may own the panels, at what majority, and how long the managing agent may sign for."
 description: "Three Civil Code articles decide whether your building can share its electricity: who owns the panels, the majority needed, the managing agent's mandate."
 tags: [guide, community, administrative]
 lang: en
 ref: energy-sharing-condominium
-permalink: /en/news/2026/08/27/energy-sharing-condominium-guide/
+solution: coproprietes
+permalink: /en/solutions/condominiums/
 faq:
   - q: "Can a condominium share the electricity from its roof between the apartments?"
     a: "Yes, and it is the lightest arrangement in Belgian law. In Brussels as in Wallonia, sharing within the same building requires neither a legal entity nor an authorisation from the regulator: an agreement between the participants and a declaration to the distribution system operator are enough. The four conditions are identical on both sides of the regional border: participants are located in the building, the generation installation is in or on that building, the shared electricity is renewable, and every participant keeps a supply contract. The difficulty is therefore not obtaining permission to share. It is deciding who owns the installation that feeds the sharing — and that question belongs to the Civil Code, not to energy law."
@@ -313,6 +314,27 @@ Projects that fail almost never get the technology wrong. They get the order wro
 | **Every year** | Review the price, the key, the participant list; report | A sharing operation is steered, not installed and forgotten |
 
 The critical path is neither the vote nor the paperwork: it is **the smart meters**. In a building where several participants still lack one, that is the only step no meeting decision can accelerate. It deserves to be launched the day after the vote, not at declaration time.
+
+## What OptimCE does for you
+
+Sharing in a building is won in the quarter-hour and managed over years, through house moves and
+changes of managing agent. OptimCE takes care of the repetitive part:
+
+- **Measure before the vote.** Simulate an allocation key on the quarter-hourly consumption of the
+  flats and of the common-areas meter: self-consumption and surplus show up before you convene the
+  general meeting. The automatic generation module can also propose a candidate key.
+- **Keep the list of participants.** Owners, occupants, supply points and meters are held in one
+  place; every version of the key is recorded and members' acceptance is tracked.
+- **Prepare the paperwork.** For a Walloon building, the CWaPE documents are pre-filled from that
+  data and the deadlines are calculated. Filing them remains your responsibility.
+- **Invoice the shared electricity.** The billing module, built for the Walloon framework, issues
+  the occupants' invoices and the statement for the installation's owner, with payment tracking.
+- **Inform and consult.** The news board and polls let you, for example, consult participants
+  before changing the key.
+
+The application is free during the alpha phase.
+
+**[Open the OptimCE app →](https://app.optimce.be)**
 
 ## Key takeaways
 

@@ -2,13 +2,15 @@
 layout: post
 title: "Landwirte: der Leitfaden zum Energieteilen"
 date: 2026-09-10 06:00:00 +0200
+last_modified_at: 2026-09-26 06:00:00 +0200
 author: "Eric, OptimCE"
 excerpt: "Eine Landwirtschaftshalle trägt zwischen 100 und 350 Kilowatt-Peak. Es ist das größte verfügbare Dach der ländlichen Wallonie, das am besten ausgerichtete und das am einfachsten zu bestückende: Module auf dem Dach brauchen dort keine Städtebaugenehmigung, gleich welcher Leistung. Und doch ist von den dreizehn bei der CWaPE gemeldeten Energiegemeinschaften keine einzige an einen landwirtschaftlichen Betrieb angelehnt. Das ist keine Gleichgültigkeit. Zwei Erlasse der Wallonischen Regierung, im Abstand von drei Wochen im Februar und März 2023 verabschiedet, ziehen in genau entgegengesetzte Richtungen: Der erste fördert Photovoltaik nur im Verhältnis zum selbst verbrauchten Teil, der zweite organisiert das Teilen des Überschusses."
 description: "Zwei wallonische Erlasse von 2023 widersprechen sich: Die Agrarbeihilfe endet dort, wo das Teilen beginnt. Was ein Hallendach wirklich einbringt."
 tags: [guide, community, administrative]
 lang: de
 ref: farm-energy-sharing
-permalink: /de/aktuelles/2026/09/10/energiegemeinschaft-landwirtschaft-leitfaden/
+solution: agriculteurs
+permalink: /de/loesungen/landwirtschaft/
 faq:
   - q: "Kann ein Landwirt eine eigene Energiegemeinschaft gründen, oder muss er auf seine Gemeinde warten?"
     a: "Er kann sie gründen, hat aber nicht die Abkürzung, über die eine Schule oder eine Gemeinde verfügt. Eine Erneuerbare-Energie-Gemeinschaft lässt nur drei Kategorien von Mitgliedern zu: natürliche Personen, lokale Behörden sowie kleine und mittlere Unternehmen, deren gewerbliche oder berufliche Haupttätigkeit nicht die Beteiligung an einer oder mehreren Energiegemeinschaften ist. Ein Landwirt fällt je nach Rechtsform des Betriebs unter die erste oder die dritte Kategorie: als natürliche Person oder als landwirtschaftliche Gesellschaft beziehungsweise Kapitalgesellschaft. In beiden Fällen ist er reguläres Mitglied, kann die Initiative ergreifen, die tatsächliche Kontrolle über die Gemeinschaft ausüben und ihr wichtigster Erzeuger sein. Der Unterschied zur Schule liegt in der Beweislast: Artikel 4 des Erlasses vom 17. März 2023 zählt Schulen zu den lokalen Behörden, was sie von jedem Nachweis befreit. Der landwirtschaftliche Betrieb tritt durch die KMU-Tür ein und muss daher belegen können, dass Energie nicht sein Hauptgeschäft ist. Für einen Betrieb, der Milch, Getreide oder Fleisch erzeugt, ist der Nachweis unmittelbar und praktisch unproblematisch. Zu einer echten Frage wird er an dem Tag, an dem die Energietätigkeit so groß wird, dass sie den Umsatz dominiert — auf einem Dach ein seltenes Szenario, in der Biomethanisierung ein weit weniger seltenes."
@@ -101,7 +103,7 @@ Artikel 3 des Erlasses vom 17. März 2023 definiert das Gebäude als:
 
 Der zweite Zweig ist von vornherein geschlossen: Ein landwirtschaftlicher Betrieb ist fast nie Miteigentum. Der erste beschreibt dagegen eine Konstellation, die die wallonische Landbaukunst zwei Jahrhunderte lang in Serie hervorgebracht hat: **Wohnhaus, Stall und Scheune in durchgehender Bauweise aneinandergereiht**, der Vierkanthof, das gemischte Wohn- und Betriebsgebäude. Zwei zur eigenständigen Nutzung bestimmte Teile unter einem überdachten und geschlossenen Bauwerk: Die Definition ist erfüllt.
 
-Das ist eine Lage, der weder eine Schule noch ein Mehrparteienhaus im Quartier noch eine Gemeinde annähernd so häufig begegnet. [„Schulen: der Leitfaden zum Energieteilen“](/de/aktuelles/2026/09/03/energiegemeinschaft-schule-leitfaden/) zeigt, warum zwei durch einen Schulhof getrennte Blöcke zwei Gebäude bleiben; [„Energie teilen im Mehrparteienhaus“](/de/aktuelles/2026/08/27/energie-teilen-mehrparteienhaus/) legt den Weg über das Miteigentum dar, der sich hier nicht öffnet. Der Hof dagegen fällt regelmäßig unter den ersten Fall des Artikels 3 — und niemand sagt es ihm.
+Das ist eine Lage, der weder eine Schule noch ein Mehrparteienhaus im Quartier noch eine Gemeinde annähernd so häufig begegnet. [„Schulen: der Leitfaden zum Energieteilen“](/de/loesungen/schulen/) zeigt, warum zwei durch einen Schulhof getrennte Blöcke zwei Gebäude bleiben; [„Energie teilen im Mehrparteienhaus“](/de/loesungen/mehrparteienhaeuser/) legt den Weg über das Miteigentum dar, der sich hier nicht öffnet. Der Hof dagegen fällt regelmäßig unter den ersten Fall des Artikels 3 — und niemand sagt es ihm.
 
 Allerdings Vorsicht: Eine vierzig Meter entfernt im Hof errichtete Stahlhalle erfüllt die Bedingung nicht, auch nicht auf derselben Katasterparzelle, auch nicht bei identischem Eigentümer. Absatz 2 desselben Artikels ordnet dem Gebäude zwar seine Nebenanlagen zu — Garagen, Gärten, Parkplätze, Grundstücke — auf derselben Parzelle oder mit gemeinsamem Zugang, aber eine Nebenanlage ist kein zweites Gebäude: Diese Bestimmung dient der Standortfrage, nicht der Einordnung in die Teilungsregelung.
 
@@ -140,7 +142,7 @@ Zwei Zeilen verdienen einen Kommentar.
 
 **Schule und Campingplatz ergänzen einander, sie konkurrieren nicht.** Die Schule nimmt von September bis Juni sehr gut auf und verschwindet im Juli und August für sieben Wochen — das ist das ganze Thema unseres Schulleitfadens. Campingplatz, touristische Beherbergung und ländliche Gastronomie tun genau das Gegenteil. Eine gut zusammengesetzte ländliche Teilungsgruppe enthält beide.
 
-**Das Pumpwerk ist der am meisten unterschätzte Partner der ländlichen Wallonie.** Es verbraucht tagsüber, das ganze Jahr über, mit einer weitgehend zeitlich verschiebbaren Last — einen Speicher um 13 Uhr statt um 3 Uhr zu füllen kostet niemanden etwas. Und es wird fast immer von der Gemeinde oder einem interkommunalen Verband betrieben, was die Governance vereinfacht. [„Energiegemeinschaft: Leitfaden für Gemeinden“](/de/aktuelles/2026/08/30/energiegemeinschaft-gemeinde-leitfaden/) behandelt die Sicht der eigentümerin Gemeinde.
+**Das Pumpwerk ist der am meisten unterschätzte Partner der ländlichen Wallonie.** Es verbraucht tagsüber, das ganze Jahr über, mit einer weitgehend zeitlich verschiebbaren Last — einen Speicher um 13 Uhr statt um 3 Uhr zu füllen kostet niemanden etwas. Und es wird fast immer von der Gemeinde oder einem interkommunalen Verband betrieben, was die Governance vereinfacht. [„Energiegemeinschaft: Leitfaden für Gemeinden“](/de/loesungen/gemeinden/) behandelt die Sicht der eigentümerin Gemeinde.
 
 Die allgemeine Methode — eine Gruppe durch Überlagerung von Lastprofilen statt durch geografische Nähe zusammenzustellen — wird in [„Strom auf kurzem Weg: Anleitung für Wallonien“](/de/ratgeber/strom-kurze-wege-anleitung/) entwickelt. Sie gilt hier wie anderswo, mit einer Nuance: Das Hallendach ist der einzige ländliche Erzeuger, der groß genug ist, um mehrere Profile gleichzeitig zu versorgen.
 
@@ -237,6 +239,28 @@ Die daraus folgende Überlegung lautet so: Solange der Überschuss den Einspeise
 **3. Das Faserzementdach.** Ein erheblicher Teil des wallonischen Hallenbestands ist mit asbesthaltigem Faserzement gedeckt. Darauf verlegt man keine Photovoltaik: Es muss zuerst asbestsaniert und neu gedeckt werden, und diese Kosten gehen der Energieinvestition voraus, statt sich ihr hinzuzufügen. Sie sind von Anfang an in den Finanzierungsplan aufzunehmen, sonst stellt man mitten im Projekt fest, dass sich das Budget verdoppelt hat.
 
 **4. Die Hofübergabe.** Eine Photovoltaikanlage ist ein Vermögenswert mit zwanzig- bis fünfundzwanzigjähriger Lebensdauer, und die Beihilferegelung verlangt, die Investition mehrere Jahre nach der Gewährung aufrechtzuerhalten. Ein bestücktes Dach auf einem Gebäude, das den Besitzer wechseln wird, oder ein Drittinvestorenvertrag, der über die Übergabe hinausläuft, verhandelt sich besser, wenn die Frage bei der Unterschrift gestellt wurde, als bei der Erbfolge.
+
+## Was OptimCE für Sie tut
+
+Ein landwirtschaftliches Dach misst sich an der Mittagslast seiner Teilnehmer, von der Ernte bis
+zum tiefsten Januar. OptimCE hilft Ihnen, sie zu messen und die Operation danach zu führen:
+
+- **Simulieren, bevor Sie das Dach bestücken.** Importieren Sie die Viertelstundenproduktion und
+  die Verbräuche der vorgesehenen Teilnehmer, testen Sie dann einen Schlüssel oder lassen Sie das
+  Generierungsmodul einen vorschlagen: Eigenverbrauch, Überschuss und Teilungsquote erscheinen
+  Viertelstunde für Viertelstunde.
+- **Die Teilnehmerliste führen.** Mitglieder, Lieferstellen und Zähler werden an einem Ort geführt;
+  jede Version des Schlüssels wird archiviert und die Zustimmung der Mitglieder nachverfolgt.
+- **Die Unterlagen vorbereiten.** Die Dokumente der CWaPE werden vorausgefüllt und die Fristen
+  berechnet. Die Einreichung bleibt Ihre Sache.
+- **Teilnehmer finden.** Veröffentlichen Sie die Operation im öffentlichen Register der Anwendung,
+  in dem jeder nach einer für neue Mitglieder offenen Operation suchen kann.
+- **Den geteilten Strom abrechnen** im wallonischen Rahmen, einschließlich der Abrechnung für den
+  Erzeuger, mit Zahlungsverfolgung.
+
+Die Anwendung ist während der Alphaphase kostenlos.
+
+**[OptimCE-App öffnen →](https://app.optimce.be)**
 
 ## Was Sie mitnehmen sollten
 

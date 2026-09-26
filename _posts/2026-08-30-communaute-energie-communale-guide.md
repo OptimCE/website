@@ -2,13 +2,15 @@
 layout: post
 title: "Communauté d'énergie : le guide des communes"
 date: 2026-08-30 06:00:00 +0200
-last_modified_at: 2026-09-10 06:00:00 +0200
+last_modified_at: 2026-09-26 06:00:00 +0200
 author: "Eric d'OptimCE"
 excerpt: "262 communes wallonnes. Treize communautés d'énergie au dossier complet chez la CWaPE, dont six seulement partagent réellement de l'électricité. Ce n'est pas un déficit d'ambition : c'est que presque personne n'a remarqué ce que le droit wallon dit déjà. Le premier des deux critères de proximité d'une communauté d'énergie renouvelable, c'est « le territoire d'une seule et même commune ». La Wallonie est la seule des trois régions où le législateur a tracé lui-même le périmètre — et il l'a fait passer par la limite communale."
 description: "En Wallonie, le périmètre d'une communauté d'énergie renouvelable, c'est le territoire communal. Ce que la commune peut y faire, et à quel prix."
 tags: [guide, community, administrative]
 lang: fr
 ref: municipal-energy-community
+solution: communes
+permalink: /solutions/communes/
 faq:
   - q: "Une commune peut-elle créer seule une communauté d'énergie ?"
     a: "Non, et c'est voulu. Une communauté d'énergie est une personne morale distincte de ses membres, qui doit être effectivement contrôlée par des participants situés à proximité et rester autonome vis-à-vis d'eux. Une structure dont la commune serait l'unique membre et l'unique décideur ne satisferait ni la condition de contrôle effectif par une pluralité de participants, ni la condition d'autonomie : ce serait un service communal déguisé, pas une communauté d'énergie. La commune peut en revanche prendre l'initiative, financer l'installation de production, mettre ses toitures à disposition et occuper une place au conseil d'administration. C'est exactement le montage retenu par la Ville d'Aubange, dont l'ASBL réunit la Ville et six citoyens membres fondateurs. Si l'objectif est de partager uniquement entre bâtiments dont la commune est titulaire, la communauté d'énergie n'est d'ailleurs pas le seul chemin possible — mais dès qu'un tiers entre dans le partage, elle le devient."
@@ -139,7 +141,7 @@ Un plan d'action pour l'énergie durable et le climat s'organise autour de trois
 
 Une communauté d'énergie alimente la deuxième famille de façon directe. Mais son intérêt propre est ailleurs, et il tient en une phrase : **c'est l'action qui mobilise des toitures que la commune ne possède pas.** Une prime communale à l'isolation agit sur le bâti privé en espérant que quelqu'un la demande. Une communauté d'énergie donne à un propriétaire privé une raison économique d'investir dans sa propre toiture, puisqu'elle lui offre un débouché à 3-14 centimes pour un surplus qui lui rapporte 1-5 centimes. L'effet de levier sort du patrimoine communal, ce qui est rare.
 
-En commune rurale, ce propriétaire privé a presque toujours un nom : c'est un agriculteur, et son hangar porte le plus grand toit disponible du territoire. Ce que ce toit peut et ne peut pas faire — et pourquoi l'aide agricole wallonne s'arrête là où le partage commence — est détaillé dans [« Hangar agricole : le guide du partage d'énergie »](/actualites/2026/09/10/partage-energie-agriculteur-hangar-solaire/).
+En commune rurale, ce propriétaire privé a presque toujours un nom : c'est un agriculteur, et son hangar porte le plus grand toit disponible du territoire. Ce que ce toit peut et ne peut pas faire — et pourquoi l'aide agricole wallonne s'arrête là où le partage commence — est détaillé dans [« Hangar agricole : le guide du partage d'énergie »](/solutions/agriculteurs/).
 
 Elle coche par ailleurs, dans le même mouvement, une case sociale et une case de participation citoyenne — les deux chapitres que les plans climat remplissent habituellement avec des actions de sensibilisation.
 
@@ -250,7 +252,7 @@ Or deux bâtiments communaux distincts ne forment pas un même bâtiment. L'éco
 
 La conséquence est nette : **la seule composante sur laquelle une communauté d'énergie crée de la valeur est la composante énergie.** C'est réel, mais c'est borné, et cela explique pourquoi la bande de prix défendable plafonne à 14 centimes et non à 37.
 
-Corollaire utile : si un bâtiment communal comporte plusieurs compteurs — un complexe scolaire, un immeuble de logements communaux — le partage *à l'intérieur* de ce bâtiment relève du régime intra-bâtiment, sans personne morale ni autorisation, et avec la réduction de 80 %. C'est souvent la première opération à monter, avant même de penser à la communauté. Le mécanisme est décrit dans [« Partage d'énergie en copropriété : le guide »](/actualites/2026/08/27/partage-energie-copropriete-guide/). Attention toutefois : le cas d'une école est plus étroit qu'il n'y paraît, parce qu'elle n'est presque jamais une copropriété — voir [« Écoles : le guide du partage d'énergie »](/actualites/2026/09/03/partage-energie-ecole-guide/).
+Corollaire utile : si un bâtiment communal comporte plusieurs compteurs — un complexe scolaire, un immeuble de logements communaux — le partage *à l'intérieur* de ce bâtiment relève du régime intra-bâtiment, sans personne morale ni autorisation, et avec la réduction de 80 %. C'est souvent la première opération à monter, avant même de penser à la communauté. Le mécanisme est décrit dans [« Partage d'énergie en copropriété : le guide »](/solutions/coproprietes/). Attention toutefois : le cas d'une école est plus étroit qu'il n'y paraît, parce qu'elle n'est presque jamais une copropriété — voir [« Écoles : le guide du partage d'énergie »](/solutions/ecoles/).
 
 ### Piège n° 2 : le tarif social se perd sur les kilowattheures partagés
 
@@ -287,6 +289,28 @@ La **constitution de la personne morale et la participation de la commune** rel�
 La **convention de partage** n'est pas un marché public : c'est un contrat de répartition d'un volume produit, dont le prix se fixe librement entre participants.
 
 La qualification exacte dépend du montage. C'est une question à poser au service juridique de la commune ou à l'Union des Villes et Communes de Wallonie **avant** la délibération. Le facilitateur du SPW, gratuit, est le bon premier interlocuteur pour dégrossir.
+
+## Ce qu'OptimCE fait pour vous
+
+Une commune réunit plusieurs bâtiments, plusieurs partenaires et des habitants qui entrent et
+sortent de la communauté. OptimCE rassemble cette gestion au même endroit :
+
+- **Choisir la clé sur des données réelles.** Importez les courbes au quart d'heure des bâtiments
+  communaux et des participants, puis simulez une clé ou laissez le module de génération en
+  proposer une : l'autoconsommation et le surplus apparaissent avant le passage au collège.
+- **Tenir la liste des participants.** Membres, points de fourniture et compteurs sont centralisés ;
+  chaque version de la clé est historisée et l'acceptation par les membres est suivie.
+- **Préparer les démarches wallonnes.** Les documents de la CWaPE sont préremplis à partir de ces
+  données, les échéances sont calculées et le tableau de bord signale celles qui approchent. Le
+  dépôt reste du ressort de la communauté.
+- **Faire connaître l'opération.** Publiez-la dans le registre public de l'application, où les
+  habitants cherchent une opération ouverte près de chez eux, puis informez et consultez les
+  membres avec le tableau d'actualités et les sondages.
+- **Facturer l'énergie partagée** dans le cadre wallon, avec suivi des paiements.
+
+L'application est gratuite pendant la phase alpha.
+
+**[Ouvrir l'application OptimCE →](https://app.optimce.be)**
 
 ## Ce qu'il faut retenir
 

@@ -2,12 +2,15 @@
 layout: post
 title: "Écoles : le guide du partage d'énergie"
 date: 2026-09-03 06:00:00 +0200
+last_modified_at: 2026-09-26 06:00:00 +0200
 author: "Eric d'OptimCE"
 excerpt: "Une école du réseau libre est une ASBL de droit privé. Elle n'a pas de mandat électif, pas de tutelle régionale, pas de compétence territoriale. Et pourtant, le Gouvernement wallon l'a rangée parmi les « autorités locales » — au même titre qu'une commune, un CPAS ou une province. La raison tient en une phrase du SPW Énergie que personne ne cite. Ce statut change tout : il fait de l'école le seul bâtiment non public de Wallonie qui peut monter sa propre communauté d'énergie sans attendre personne."
 description: "Toute école wallonne est une « autorité locale » depuis le 26 février 2026. Ce que ce statut débloque, et comment valoriser un toit qui produit à vide."
 tags: [guide, community, administrative]
 lang: fr
 ref: school-energy-sharing
+solution: ecoles
+permalink: /solutions/ecoles/
 faq:
   - q: "Une école du réseau libre peut-elle vraiment être membre d'une communauté d'énergie renouvelable ?"
     a: "Oui, et sans avoir à démontrer quoi que ce soit. L'article 4 de l'arrêté du Gouvernement wallon du 17 mars 2023 range parmi les autorités locales « les établissements de l'enseignement fondamental et de l'enseignement secondaire, ordinaires et spécialisés, organisés ou subventionnés par la Communauté française, la Communauté flamande ou la Communauté germanophone, situés sur le territoire de la Région wallonne ». Le mot décisif est « subventionnés » : il couvre le réseau libre confessionnel et non confessionnel aussi bien que l'officiel subventionné. Le SPW Énergie explique le raisonnement noir sur blanc : les écoles du réseau officiel étaient déjà incluses au vu de la nature de leur pouvoir organisateur, et c'est « afin de ne pas créer de discrimination entre réseaux scolaires » que toutes les écoles ont été ajoutées. Les hautes écoles et les universités sont visées séparément. La conséquence pratique est considérable : là où une PME doit prouver que la participation à une communauté d'énergie n'est pas son activité principale, une école n'a rien à prouver du tout — elle entre par la porte des autorités locales."
@@ -27,7 +30,7 @@ La Fédération Wallonie-Bruxelles compte plus de **13 000 bâtiments scolaires*
 
 Voici l'anomalie. Une école du réseau libre est une ASBL de droit privé. Pas de mandat électif, pas de tutelle régionale, aucune compétence territoriale. Elle ressemble juridiquement à n'importe quelle association. Et pourtant, quand le Gouvernement wallon a dressé la liste des **autorités locales** habilitées à contrôler une communauté d'énergie, il l'y a mise — à côté des communes, des provinces, des CPAS et des intercommunales.
 
-Cet article ne refait pas ce qui est déjà écrit ailleurs sur ce site : la différence entre les trois statuts belges est traitée dans [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/guides/communautes-energie-belgique/), la procédure de création dans [« Créer une communauté d'énergie en Wallonie »](/guides/creer-communaute-energie-wallonie/), le point de vue de la commune propriétaire dans [« Communauté d'énergie : le guide des communes »](/actualites/2026/08/30/communaute-energie-communale-guide/), la composition d'un groupe par profil horaire dans [« Électricité en circuit court : le mode d'emploi »](/guides/electricite-circuit-court-mode-emploi/), le classement des débouchés du surplus dans [« Surplus solaire : les 5 options comparées »](/guides/que-faire-surplus-solaire-belgique/), le calcul de rentabilité d'une installation dans [« Panneaux solaires 2026 : rentables en Wallonie ? »](/guides/panneaux-solaires-rentables-wallonie/), et la fixation du prix interne dans [« Prix de cession interne en communauté d'énergie »](/guides/prix-electricite-communaute-energie/).
+Cet article ne refait pas ce qui est déjà écrit ailleurs sur ce site : la différence entre les trois statuts belges est traitée dans [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/guides/communautes-energie-belgique/), la procédure de création dans [« Créer une communauté d'énergie en Wallonie »](/guides/creer-communaute-energie-wallonie/), le point de vue de la commune propriétaire dans [« Communauté d'énergie : le guide des communes »](/solutions/communes/), la composition d'un groupe par profil horaire dans [« Électricité en circuit court : le mode d'emploi »](/guides/electricite-circuit-court-mode-emploi/), le classement des débouchés du surplus dans [« Surplus solaire : les 5 options comparées »](/guides/que-faire-surplus-solaire-belgique/), le calcul de rentabilité d'une installation dans [« Panneaux solaires 2026 : rentables en Wallonie ? »](/guides/panneaux-solaires-rentables-wallonie/), et la fixation du prix interne dans [« Prix de cession interne en communauté d'énergie »](/guides/prix-electricite-communaute-energie/).
 
 Il répond à une question que ces articles ne posent pas : **pourquoi le droit wallon accorde-t-il à une école — n'importe laquelle, quel que soit son réseau — un statut que ni un commerce, ni une PME, ni une copropriété n'obtiennent, et qu'est-ce qu'elle peut en faire concrètement ?**
 
@@ -211,7 +214,7 @@ L'article 3 de l'arrêté du 17 mars 2023 tranche. Un bâtiment correspond soit 
 
 > 1° à une construction immobilière fixe, couverte et fermée comportant au moins deux parties destinées à être utilisées de manière autonome ; 2° à plusieurs constructions immobilières fixes, couvertes et fermées relevant d'une même copropriété.
 
-Le second cas est fermé d'emblée pour l'immense majorité des écoles : **une école n'est presque jamais une copropriété**. Le pouvoir organisateur est propriétaire unique, ou occupant d'un bien appartenant à un pouvoir public unique. Il n'y a ni lots privatifs, ni parties communes au sens du Code civil, donc aucune association des copropriétaires. La voie qui fonctionne pour un immeuble à appartements — détaillée dans [« Partage d'énergie en copropriété : le guide »](/actualites/2026/08/27/partage-energie-copropriete-guide/) — ne s'ouvre pas ici.
+Le second cas est fermé d'emblée pour l'immense majorité des écoles : **une école n'est presque jamais une copropriété**. Le pouvoir organisateur est propriétaire unique, ou occupant d'un bien appartenant à un pouvoir public unique. Il n'y a ni lots privatifs, ni parties communes au sens du Code civil, donc aucune association des copropriétaires. La voie qui fonctionne pour un immeuble à appartements — détaillée dans [« Partage d'énergie en copropriété : le guide »](/solutions/coproprietes/) — ne s'ouvre pas ici.
 
 Reste le premier cas, qui exige **deux parties autonomes sous une seule construction couverte et fermée**. Un préau, une cour de récréation, un passage extérieur couvert ne relient pas deux bâtiments en un seul. Deux blocs séparés par vingt mètres de cour restent deux bâtiments, même sur la même parcelle cadastrale, même sous le même toit administratif.
 
@@ -339,6 +342,28 @@ La lecture de ce tableau est la conclusion de l'article.
 **Piège n° 3 — Oublier la réservation des certificats verts.** Elle précède les travaux. Après, c'est perdu.
 
 **Piège n° 4 — Signer un tiers-investissement sans clause de partage.** Le surplus est alors attribué à l'opérateur pour dix à quinze ans, et c'est exactement le volume que le partage devait valoriser.
+
+## Ce qu'OptimCE fait pour vous
+
+Tout se joue sur le calendrier : ce que vos partenaires absorbent quand l'école est vide. OptimCE
+vous aide à le mesurer, puis à gérer l'opération :
+
+- **Tester le groupe avant de le constituer.** Simulez une clé de répartition sur les données au
+  quart d'heure de l'école et de ses partenaires : l'autoconsommation, le surplus et le taux de
+  partage s'affichent pas de temps par pas de temps, vacances comprises. Le module de génération
+  automatique propose aussi une clé candidate.
+- **Tenir la liste des participants.** Membres, points de fourniture et compteurs sont centralisés ;
+  chaque version de la clé est historisée et l'acceptation par les membres est suivie.
+- **Préparer les documents.** Les documents de la CWaPE sont préremplis et les échéances sont
+  calculées. Le dépôt reste de votre ressort.
+- **Trouver des partenaires et les informer.** Publiez l'opération dans le registre public de
+  l'application, puis informez la communauté scolaire et les voisins avec le tableau d'actualités
+  et les sondages.
+- **Facturer l'énergie partagée** dans le cadre wallon, avec suivi des paiements.
+
+L'application est gratuite pendant la phase alpha.
+
+**[Ouvrir l'application OptimCE →](https://app.optimce.be)**
 
 ## Ce qu'il faut retenir
 

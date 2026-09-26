@@ -96,7 +96,7 @@ The principle of self-consumption is identical everywhere, but the actors and th
 - **Co-ownerships and apartment buildings**, an ideal configuration for an in-building sharing operation.
 - **SMEs and local authorities**, whose roof space and daytime consumption profiles suit self-consumption particularly well. [Beci](https://www.beci.be/blog/esg-34/les-communautes-denergie-pour-lautoconsommation-collective-2086) highlights the economic case for Brussels businesses.
 
-The apartment-building configuration deserves its own guide: it combines the most favourable tariff perimeter in the country with three locks of condominium law that energy law never mentions. They are reviewed in [“Energy sharing in a condominium: the guide”](/en/news/2026/08/27/energy-sharing-condominium-guide/).
+The apartment-building configuration deserves its own guide: it combines the most favourable tariff perimeter in the country with three locks of condominium law that energy law never mentions. They are reviewed in [“Energy sharing in a condominium: the guide”](/en/solutions/condominiums/).
 
 Tenants have since gained a second option: since 17 April 2025, a portable photovoltaic kit plugged into a socket has been legal in Belgium. The two routes — receiving shared energy, or generating your own without owning a roof — are compared in [“Renting: the no-roof guide to solar”](/en/guides/tenant-solar-without-roof-guide/).
 

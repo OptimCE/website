@@ -2,14 +2,15 @@
 layout: post
 title: "Energiegemeinschaft: Leitfaden für Gemeinden"
 date: 2026-08-30 06:00:00 +0200
-last_modified_at: 2026-09-10 06:00:00 +0200
+last_modified_at: 2026-09-26 06:00:00 +0200
 author: "Eric, OptimCE"
 excerpt: "262 wallonische Gemeinden. Dreizehn Energiegemeinschaften mit vollständiger Akte bei der CWaPE, von denen nur sechs tatsächlich Strom teilen. Das ist kein Mangel an Ehrgeiz: es hat nur kaum jemand bemerkt, was das wallonische Recht bereits sagt. Das erste der beiden Nähekriterien einer Erneuerbare-Energie-Gemeinschaft lautet wörtlich „das Gebiet einer einzigen und derselben Gemeinde“. Wallonien ist die einzige der drei Regionen, in der der Gesetzgeber den Perimeter selbst gezogen hat — entlang der Gemeindegrenze."
 description: "In Wallonien ist der Perimeter einer Erneuerbare-Energie-Gemeinschaft das Gemeindegebiet. Was die Gemeinde damit tun kann und zu welchem Preis."
 tags: [guide, community, administrative]
 lang: de
 ref: municipal-energy-community
-permalink: /de/aktuelles/2026/08/30/energiegemeinschaft-gemeinde-leitfaden/
+solution: communes
+permalink: /de/loesungen/gemeinden/
 faq:
   - q: "Kann eine Gemeinde allein eine Energiegemeinschaft gründen?"
     a: "Nein, und das ist so gewollt. Eine Energiegemeinschaft ist eine von ihren Mitgliedern getrennte juristische Person, die tatsächlich von Teilnehmern in der Nähe kontrolliert werden und gegenüber diesen autonom bleiben muss. Eine Struktur, in der die Gemeinde einziges Mitglied und einziger Entscheidungsträger wäre, würde weder die Bedingung der tatsächlichen Kontrolle durch eine Mehrzahl von Teilnehmern noch die Bedingung der Autonomie erfüllen: sie wäre eine verkappte Gemeindedienststelle, keine Energiegemeinschaft. Die Gemeinde kann dagegen die Initiative ergreifen, die Erzeugungsanlage finanzieren, ihre Dächer zur Verfügung stellen und einen Sitz im Verwaltungsrat einnehmen. Genau dieses Modell hat die Stadt Aubange gewählt, deren VoG die Stadt und sechs Gründungsmitglieder aus der Bürgerschaft vereint. Geht es nur darum, zwischen Zählpunkten zu teilen, die der Gemeinde selbst gehören, ist die Energiegemeinschaft nicht der einzige Weg — sobald jedoch ein Dritter an der Teilung beteiligt ist, wird sie es."
@@ -140,7 +141,7 @@ Ein Aktionsplan für nachhaltige Energie und Klima gliedert sich um drei Zielfam
 
 Eine Energiegemeinschaft speist die zweite Familie unmittelbar. Ihr eigentlicher Reiz liegt jedoch anderswo, und er passt in einen Satz: **sie ist die Maßnahme, die Dächer mobilisiert, die der Gemeinde nicht gehören.** Eine kommunale Dämmprämie wirkt auf den privaten Bestand und hofft, dass jemand sie beantragt. Eine Energiegemeinschaft gibt einem privaten Eigentümer einen wirtschaftlichen Grund, in sein eigenes Dach zu investieren, denn sie bietet ihm einen Absatz zu 3-14 Cent für einen Überschuss, der ihm 1-5 Cent einbringt. Der Hebel verlässt den kommunalen Bestand, was selten ist.
 
-In einer ländlichen Gemeinde hat dieser private Eigentümer fast immer einen Namen: einen Landwirt, dessen Halle das größte verfügbare Dach der Gegend trägt. Was dieses Dach kann und was nicht — und warum die wallonische Agrarbeihilfe dort endet, wo das Teilen beginnt — steht in [„Landwirte: der Leitfaden zum Energieteilen“](/de/aktuelles/2026/09/10/energiegemeinschaft-landwirtschaft-leitfaden/).
+In einer ländlichen Gemeinde hat dieser private Eigentümer fast immer einen Namen: einen Landwirt, dessen Halle das größte verfügbare Dach der Gegend trägt. Was dieses Dach kann und was nicht — und warum die wallonische Agrarbeihilfe dort endet, wo das Teilen beginnt — steht in [„Landwirte: der Leitfaden zum Energieteilen“](/de/loesungen/landwirtschaft/).
 
 Sie hakt im selben Zug ein soziales Feld und ein Bürgerbeteiligungsfeld ab — die beiden Kapitel, die Klimapläne sonst mit Sensibilisierungsaktionen füllen.
 
@@ -251,7 +252,7 @@ Zwei getrennte Gemeindegebäude bilden jedoch kein selbes Gebäude. Die Schule u
 
 Die Folge ist eindeutig: **der einzige Bestandteil, auf dem eine Energiegemeinschaft Wert schafft, ist der Energiebestandteil.** Das ist real, aber begrenzt, und es erklärt, warum die vertretbare Preisspanne bei 14 Cent endet und nicht bei 37.
 
-Ein nützlicher Zusatz: verfügt ein Gemeindegebäude über mehrere Zähler — ein Schulkomplex, ein kommunales Wohngebäude — fällt die Teilung *innerhalb* dieses Gebäudes unter das Gebäuderegime, ohne juristische Person und ohne Genehmigung, und mit der Ermäßigung von 80 %. Das ist oft die erste Operation, noch bevor an eine Gemeinschaft zu denken ist. Der Mechanismus wird in [„Energie teilen im Mehrparteienhaus“](/de/aktuelles/2026/08/27/energie-teilen-mehrparteienhaus/) beschrieben. Ein Vorbehalt: der Fall einer Schule ist enger, als er scheint, denn eine Schule ist fast nie eine Miteigentümergemeinschaft — siehe [„Schulen: der Leitfaden zum Energieteilen“](/de/aktuelles/2026/09/03/energiegemeinschaft-schule-leitfaden/).
+Ein nützlicher Zusatz: verfügt ein Gemeindegebäude über mehrere Zähler — ein Schulkomplex, ein kommunales Wohngebäude — fällt die Teilung *innerhalb* dieses Gebäudes unter das Gebäuderegime, ohne juristische Person und ohne Genehmigung, und mit der Ermäßigung von 80 %. Das ist oft die erste Operation, noch bevor an eine Gemeinschaft zu denken ist. Der Mechanismus wird in [„Energie teilen im Mehrparteienhaus“](/de/loesungen/mehrparteienhaeuser/) beschrieben. Ein Vorbehalt: der Fall einer Schule ist enger, als er scheint, denn eine Schule ist fast nie eine Miteigentümergemeinschaft — siehe [„Schulen: der Leitfaden zum Energieteilen“](/de/loesungen/schulen/).
 
 ### Falle Nr. 2: der Sozialtarif geht auf geteilten Kilowattstunden verloren
 
@@ -288,6 +289,29 @@ Die **Gründung der juristischen Person und die Beteiligung der Gemeinde** richt
 Die **Teilungsvereinbarung** ist kein öffentlicher Auftrag: sie ist ein Vertrag über die Aufteilung einer erzeugten Menge zu einem frei vereinbarten Preis.
 
 Die genaue Einordnung hängt vom Modell ab. Es ist eine Frage an den Rechtsdienst der Gemeinde oder an die Vereinigung der Städte und Gemeinden Walloniens **vor** dem Beschluss. Der kostenlose Fazilitator des Öffentlichen Dienstes der Wallonie ist der richtige erste Ansprechpartner, um das Feld zu bereiten.
+
+## Was OptimCE für Sie tut
+
+Eine Gemeinde vereint mehrere Gebäude, mehrere Partner und Einwohner, die der Gemeinschaft
+beitreten und sie wieder verlassen. OptimCE bündelt diese Verwaltung an einem Ort:
+
+- **Den Schlüssel anhand echter Daten wählen.** Importieren Sie die Viertelstundenkurven der
+  Gemeindegebäude und der Teilnehmer, simulieren Sie dann einen Schlüssel oder lassen Sie das
+  Generierungsmodul einen vorschlagen: Eigenverbrauch und Überschuss werden sichtbar, bevor die
+  Vorlage ins Kollegium geht.
+- **Die Teilnehmerliste führen.** Mitglieder, Lieferstellen und Zähler werden an einem Ort geführt;
+  jede Version des Schlüssels wird archiviert und die Zustimmung der Mitglieder nachverfolgt.
+- **Die wallonischen Verfahren vorbereiten.** Die Dokumente der CWaPE werden aus diesen Daten
+  vorausgefüllt, die Fristen berechnet, und das Dashboard meldet die nahenden. Die Einreichung
+  bleibt Sache der Gemeinschaft.
+- **Die Operation bekannt machen.** Veröffentlichen Sie sie im öffentlichen Register der
+  Anwendung, in dem Einwohner nach einer offenen Operation in ihrer Nähe suchen, und informieren
+  und befragen Sie die Mitglieder dann über das Nachrichtenboard und die Abstimmungen.
+- **Den geteilten Strom abrechnen** im wallonischen Rahmen, mit Zahlungsverfolgung.
+
+Die Anwendung ist während der Alphaphase kostenlos.
+
+**[OptimCE-App öffnen →](https://app.optimce.be)**
 
 ## Was Sie sich merken sollten
 

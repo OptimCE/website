@@ -15,7 +15,7 @@
     #software      one global product entity, shared @id across all 4 homepages
     #person        the article byline; emitted with #article so it is never orphaned
     #article       posts
-    #webpage       about (AboutPage), pillar and guide index pages (CollectionPage)
+    #webpage       about (AboutPage), pillar, guide and solution indexes (CollectionPage)
     #breadcrumb    everything except the homepages (trail: _includes/breadcrumb.html)
     #faq           posts declaring `faq:` front matter
     #terms         glossary index pages
@@ -179,7 +179,7 @@
       Post URLs are five segments deep, so this is the only machine-readable
       signal of where a post sits in the site.
     {%- endcomment -%}
-    {%- if page.layout == 'pillar' or page.layout == 'guides' -%}
+    {%- if page.layout == 'pillar' or page.layout == 'guides' or page.layout == 'solutions' -%}
     {%- comment -%}
       Hub pages: a CollectionPage whose ItemList mirrors what the page lists
       (page.hub_items, resolved by _plugins/site_graph.rb in display order).

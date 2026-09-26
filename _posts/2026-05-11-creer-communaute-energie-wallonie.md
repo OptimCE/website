@@ -207,7 +207,7 @@ Oui pour une **CEC** (pas de limite géographique). Pour une **CER**, le critèr
 
 ### Une école, une commune ou un parc d'entreprises peuvent-ils participer ?
 
-Oui. Les **autorités locales** (communes, intercommunales, CPAS — et **toutes les écoles, quel que soit leur réseau**) et les **PME** sont explicitement autorisées à rejoindre une CER ou une CEC. Pour les bâtiments publics, la commune peut être à la fois productrice (toiture PV de l'école) et consommatrice via ses autres bâtiments. Le parcours propre à un pouvoir local — périmètre, forme juridique, marché public et piège du tarif social — est détaillé dans [« Communauté d'énergie : le guide des communes »](/actualites/2026/08/30/communaute-energie-communale-guide/). Le statut scolaire, lui, est plus large qu'on ne le croit et ne dépend pas du pouvoir organisateur : c'est l'objet de [« Écoles : le guide du partage d'énergie »](/actualites/2026/09/03/partage-energie-ecole-guide/).
+Oui. Les **autorités locales** (communes, intercommunales, CPAS — et **toutes les écoles, quel que soit leur réseau**) et les **PME** sont explicitement autorisées à rejoindre une CER ou une CEC. Pour les bâtiments publics, la commune peut être à la fois productrice (toiture PV de l'école) et consommatrice via ses autres bâtiments. Le parcours propre à un pouvoir local — périmètre, forme juridique, marché public et piège du tarif social — est détaillé dans [« Communauté d'énergie : le guide des communes »](/solutions/communes/). Le statut scolaire, lui, est plus large qu'on ne le croit et ne dépend pas du pouvoir organisateur : c'est l'objet de [« Écoles : le guide du partage d'énergie »](/solutions/ecoles/).
 
 ## Vous préférez rejoindre une communauté existante ?
 

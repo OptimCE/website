@@ -2,13 +2,15 @@
 layout: post
 title: "Schulen: der Leitfaden zum Energieteilen"
 date: 2026-09-03 06:00:00 +0200
+last_modified_at: 2026-09-26 06:00:00 +0200
 author: "Eric, OptimCE"
 excerpt: "Eine Schule des freien subventionierten Netzes ist eine privatrechtliche VoG. Kein Wahlmandat, keine regionale Aufsicht, keine Gebietshoheit. Und dennoch hat die Wallonische Regierung sie zu den „lokalen Behörden“ gezählt — neben Gemeinden, ÖSHZ und Provinzen. Der Grund steht in einem Satz des SPW Énergie, den niemand zitiert. Dieser Status ändert alles: er macht die Schule zum einzigen nichtöffentlichen Gebäude Walloniens, das seine eigene Energiegemeinschaft gründen kann, ohne auf irgendjemanden zu warten."
 description: "Jede wallonische Schule ist seit dem 26. Februar 2026 eine „lokale Behörde“. Was dieser Status ermöglicht und wie ein leeres Dach Ertrag bringt."
 tags: [guide, community, administrative]
 lang: de
 ref: school-energy-sharing
-permalink: /de/aktuelles/2026/09/03/energiegemeinschaft-schule-leitfaden/
+solution: ecoles
+permalink: /de/loesungen/schulen/
 faq:
   - q: "Kann eine Schule des freien Netzes wirklich Mitglied einer Erneuerbare-Energie-Gemeinschaft sein?"
     a: "Ja, und ohne irgendetwas nachweisen zu müssen. Artikel 4 des Erlasses der Wallonischen Regierung vom 17. März 2023 zählt zu den lokalen Behörden „die Einrichtungen des Grund- und Sekundarschulwesens, des Regel- und des Förderschulwesens, die von der Französischen Gemeinschaft, der Flämischen Gemeinschaft oder der Deutschsprachigen Gemeinschaft organisiert oder subventioniert werden und sich auf dem Gebiet der Wallonischen Region befinden“. Das entscheidende Wort ist „subventioniert“: es erfasst das konfessionelle und das nichtkonfessionelle freie Netz ebenso wie das offizielle subventionierte. Das SPW Énergie legt die Begründung ausdrücklich dar: die Schulen des offiziellen Netzes waren aufgrund der Natur ihres Schulträgers bereits erfasst, und es geschah „um keine Diskriminierung zwischen den Schulnetzen zu schaffen“, dass alle Schulen aufgenommen wurden. Hochschulen und Universitäten sind gesondert erfasst. Die praktische Folge ist erheblich: wo ein kleines oder mittleres Unternehmen nachweisen muss, dass die Beteiligung an einer Energiegemeinschaft nicht seine Haupttätigkeit ist, muss eine Schule überhaupt nichts nachweisen — sie tritt durch die Tür der lokalen Behörden ein."
@@ -28,7 +30,7 @@ Die Föderation Wallonie-Brüssel zählt mehr als **13 000 Schulgebäude**. Die 
 
 Hier die Anomalie. Eine Schule des freien subventionierten Netzes ist eine privatrechtliche Vereinigung ohne Gewinnerzielungsabsicht. Kein Wahlmandat, keine regionale Aufsicht, keine Gebietshoheit. Rechtlich sieht sie aus wie jede andere Vereinigung. Und doch hat die Wallonische Regierung sie, als sie die Liste der **lokalen Behörden** aufstellte, die eine Energiegemeinschaft kontrollieren dürfen, dort aufgeführt — neben Gemeinden, Provinzen, ÖSHZ und Interkommunalen.
 
-Dieser Artikel wiederholt nicht, was auf dieser Website bereits steht: der Unterschied zwischen den drei belgischen Statusformen wird in [„Energiegemeinschaften in Belgien: CER, CEC, CEL“](/de/ratgeber/energiegemeinschaften-belgien/) behandelt, das Gründungsverfahren in [„Energiegemeinschaft in der Wallonie gründen“](/de/ratgeber/energiegemeinschaft-gruenden-wallonien/), die Sicht der Eigentümergemeinde in [„Energiegemeinschaft: Leitfaden für Gemeinden“](/de/aktuelles/2026/08/30/energiegemeinschaft-gemeinde-leitfaden/), die Zusammenstellung einer Gruppe nach Stundenprofil in [„Strom auf kurzem Weg: Anleitung für Wallonien“](/de/ratgeber/strom-kurze-wege-anleitung/), die Rangfolge der Überschussverwertung in [„Solarüberschuss: die 5 Optionen im Vergleich“](/de/ratgeber/solarer-ueberschuss-was-tun-belgien/), die Wirtschaftlichkeitsrechnung einer Anlage in [„Solaranlage 2026: lohnt sie sich in Wallonien?“](/de/ratgeber/solaranlage-rentabel-wallonien/) und die Festlegung des internen Preises in [„Interner Verrechnungspreis für geteilten Strom“](/de/ratgeber/strompreis-energiegemeinschaft/).
+Dieser Artikel wiederholt nicht, was auf dieser Website bereits steht: der Unterschied zwischen den drei belgischen Statusformen wird in [„Energiegemeinschaften in Belgien: CER, CEC, CEL“](/de/ratgeber/energiegemeinschaften-belgien/) behandelt, das Gründungsverfahren in [„Energiegemeinschaft in der Wallonie gründen“](/de/ratgeber/energiegemeinschaft-gruenden-wallonien/), die Sicht der Eigentümergemeinde in [„Energiegemeinschaft: Leitfaden für Gemeinden“](/de/loesungen/gemeinden/), die Zusammenstellung einer Gruppe nach Stundenprofil in [„Strom auf kurzem Weg: Anleitung für Wallonien“](/de/ratgeber/strom-kurze-wege-anleitung/), die Rangfolge der Überschussverwertung in [„Solarüberschuss: die 5 Optionen im Vergleich“](/de/ratgeber/solarer-ueberschuss-was-tun-belgien/), die Wirtschaftlichkeitsrechnung einer Anlage in [„Solaranlage 2026: lohnt sie sich in Wallonien?“](/de/ratgeber/solaranlage-rentabel-wallonien/) und die Festlegung des internen Preises in [„Interner Verrechnungspreis für geteilten Strom“](/de/ratgeber/strompreis-energiegemeinschaft/).
 
 Er beantwortet eine Frage, die keiner dieser Artikel stellt: **warum gewährt das wallonische Recht einer Schule — jeder Schule, ganz gleich welchen Netzes — einen Status, den weder ein Geschäft noch ein KMU noch eine Miteigentümergemeinschaft erhält, und was kann sie konkret damit anfangen?**
 
@@ -212,7 +214,7 @@ Artikel 3 des Erlasses vom 17. März 2023 entscheidet die Frage. Ein Gebäude en
 
 > 1° einer festen, überdachten und geschlossenen unbeweglichen Konstruktion mit mindestens zwei zur eigenständigen Nutzung bestimmten Teilen; 2° mehreren festen, überdachten und geschlossenen unbeweglichen Konstruktionen, die zu ein und derselben Miteigentümergemeinschaft gehören.
 
-Der zweite Fall ist für die überwiegende Mehrheit der Schulen von vornherein verschlossen: **eine Schule ist fast nie eine Miteigentümergemeinschaft**. Der Schulträger ist Alleineigentümer oder Nutzer eines Gutes, das einer einzigen öffentlichen Stelle gehört. Es gibt weder Sondereigentum noch Gemeinschaftsteile im Sinne des Zivilgesetzbuchs, also auch keine Miteigentümervereinigung. Der Weg, der für ein Mehrparteienhaus funktioniert — beschrieben in [„Energie teilen im Mehrparteienhaus“](/de/aktuelles/2026/08/27/energie-teilen-mehrparteienhaus/) —, steht hier nicht offen.
+Der zweite Fall ist für die überwiegende Mehrheit der Schulen von vornherein verschlossen: **eine Schule ist fast nie eine Miteigentümergemeinschaft**. Der Schulträger ist Alleineigentümer oder Nutzer eines Gutes, das einer einzigen öffentlichen Stelle gehört. Es gibt weder Sondereigentum noch Gemeinschaftsteile im Sinne des Zivilgesetzbuchs, also auch keine Miteigentümervereinigung. Der Weg, der für ein Mehrparteienhaus funktioniert — beschrieben in [„Energie teilen im Mehrparteienhaus“](/de/loesungen/mehrparteienhaeuser/) —, steht hier nicht offen.
 
 Bleibt der erste Fall, der **zwei eigenständige Teile unter einer einzigen überdachten und geschlossenen Konstruktion** verlangt. Ein Vordach, ein Schulhof, ein überdachter Außengang verbinden nicht zwei Gebäude zu einem. Zwei Blöcke, die zwanzig Meter Schulhof trennen, bleiben zwei Gebäude, auch auf derselben Katasterparzelle, auch unter demselben Verwaltungsdach.
 
@@ -340,6 +342,28 @@ Bei 3,5 c€ amortisiert sich das marginale Kilowatt-Peak in rund vierzig Jahren
 **Falle Nr. 3 — Die Reservierung der Grünstromzertifikate vergessen.** Sie geht den Arbeiten voraus. Danach ist sie verloren.
 
 **Falle Nr. 4 — Ein Drittinvestment ohne Teilungsklausel unterschreiben.** Der Überschuss ist dann für zehn bis fünfzehn Jahre dem Betreiber zugewiesen, und genau dieses Volumen sollte das Teilen verwerten.
+
+## Was OptimCE für Sie tut
+
+Alles hängt vom Kalender ab: davon, was Ihre Partner aufnehmen, während die Schule leer steht.
+OptimCE hilft Ihnen, das zu messen und die Operation danach zu führen:
+
+- **Die Gruppe testen, bevor Sie sie bilden.** Simulieren Sie einen Aufteilungsschlüssel auf den
+  Viertelstundendaten der Schule und ihrer Partner: Eigenverbrauch, Überschuss und Teilungsquote
+  erscheinen Zeitschritt für Zeitschritt, Ferien inbegriffen. Das Modul zur automatischen
+  Generierung schlägt zudem einen Kandidatenschlüssel vor.
+- **Die Teilnehmerliste führen.** Mitglieder, Lieferstellen und Zähler werden an einem Ort geführt;
+  jede Version des Schlüssels wird archiviert und die Zustimmung der Mitglieder nachverfolgt.
+- **Die Unterlagen vorbereiten.** Die Dokumente der CWaPE werden vorausgefüllt und die Fristen
+  berechnet. Die Einreichung bleibt Ihre Sache.
+- **Partner finden und informieren.** Veröffentlichen Sie die Operation im öffentlichen Register
+  der Anwendung und informieren Sie die Schulgemeinschaft und die Nachbarn über das
+  Nachrichtenboard und die Abstimmungen.
+- **Den geteilten Strom abrechnen** im wallonischen Rahmen, mit Zahlungsverfolgung.
+
+Die Anwendung ist während der Alphaphase kostenlos.
+
+**[OptimCE-App öffnen →](https://app.optimce.be)**
 
 ## Was Sie mitnehmen sollten
 

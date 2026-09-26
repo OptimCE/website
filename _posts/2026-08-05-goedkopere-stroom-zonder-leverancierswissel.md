@@ -168,7 +168,7 @@ In Wallonië is de logica dezelfde, maar het toepassingsveld veel enger: de **ve
 
 Vandaar een zeer praktische conclusie voor een Waalse lezer: **woont u in een mede-eigendom met een bruikbaar dak, dan bevindt u zich in de beste configuratie van het land na Brussel** — zonder rechtspersoon op te richten, en met 80 % minder op de proportionele term voor de gedeelde volumes. In Wallonië is het de enige opzet die administratieve eenvoud met een netvoordeel combineert.
 
-Dan moet de algemene vergadering nog kunnen beslissen. Daar verandert het dossier van aard: de gekozen eigendomsstructuur bepaalt de te halen meerderheid — twee derde of vier vijfde — en de vereniging van mede-eigenaars mag de panelen niet zelf bezitten. Dat traject staat in [“Energie delen in een appartementsgebouw”](/nl/nieuws/2026/08/27/energie-delen-appartementsgebouw/).
+Dan moet de algemene vergadering nog kunnen beslissen. Daar verandert het dossier van aard: de gekozen eigendomsstructuur bepaalt de te halen meerderheid — twee derde of vier vijfde — en de vereniging van mede-eigenaars mag de panelen niet zelf bezitten. Dat traject staat in [“Energie delen in een appartementsgebouw”](/nl/oplossingen/appartementsgebouwen/).
 
 ## Wat Wallonië blokkeert, en wat het zou kunnen deblokkeren
 

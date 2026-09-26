@@ -207,7 +207,7 @@ Yes for a **CEC** (no geographic limit). For a **CER**, the Walloon decree's pro
 
 ### Can a school, a municipality or an industrial park join?
 
-Yes. **Local authorities** (municipalities, inter-municipal entities, public social welfare centres — and **every school, whatever its network**) and **SMEs** are explicitly allowed to join a CER or a CEC. For public buildings, the municipality can be both producer (school rooftop PV) and consumer through its other buildings. The route specific to a local authority — perimeter, legal form, public procurement and the social-tariff trap — is detailed in [“Energy communities: a guide for municipalities”](/en/news/2026/08/30/municipal-energy-community-guide/). The school status, however, is broader than assumed and does not depend on the organising authority: that is the subject of [“Schools: a guide to energy sharing”](/en/news/2026/09/03/school-energy-sharing-guide/).
+Yes. **Local authorities** (municipalities, inter-municipal entities, public social welfare centres — and **every school, whatever its network**) and **SMEs** are explicitly allowed to join a CER or a CEC. For public buildings, the municipality can be both producer (school rooftop PV) and consumer through its other buildings. The route specific to a local authority — perimeter, legal form, public procurement and the social-tariff trap — is detailed in [“Energy communities: a guide for municipalities”](/en/solutions/municipalities/). The school status, however, is broader than assumed and does not depend on the organising authority: that is the subject of [“Schools: a guide to energy sharing”](/en/solutions/schools/).
 
 ## Would you rather join an existing community?
 

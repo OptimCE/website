@@ -73,7 +73,7 @@ Er bestaat **geen directe gewestelijke premie en geen groenestroomcertificaat me
 
 Met andere woorden: de rendabiliteit van een Waalse installatie hangt in 2026 van geen enkele noemenswaardige overheidssteun meer af. Ze hangt volledig af van wat u met uw productie doet.
 
-Dit artikel gaat over woningen. Boven 10 kW verandert het beeld: groenestroomcertificaten bestaan nog, onder het CPMA-regime, en een landbouwbedrijf kan er gewestelijke investeringssteun bovenop krijgen — maar enkel op het deel dat het zelf verbruikt. Het geval van een groot professioneel dak wordt behandeld in [“Landbouwloods: de gids voor energiedelen”](/nl/nieuws/2026/09/10/energiedeling-landbouw-gids/).
+Dit artikel gaat over woningen. Boven 10 kW verandert het beeld: groenestroomcertificaten bestaan nog, onder het CPMA-regime, en een landbouwbedrijf kan er gewestelijke investeringssteun bovenop krijgen — maar enkel op het deel dat het zelf verbruikt. Het geval van een groot professioneel dak wordt behandeld in [“Landbouwloods: de gids voor energiedelen”](/nl/oplossingen/landbouw/).
 
 ## De rendabiliteitsberekening 2026, post per post
 

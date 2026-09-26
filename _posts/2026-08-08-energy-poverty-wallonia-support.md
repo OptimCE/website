@@ -212,7 +212,7 @@ This section addresses professionals rather than households. Five levers, from q
 
 **Reuse an existing collective format rather than inventing one.** Empreintes explicitly spreads the Eco Watchers methodology, and Objectif 2050 supports local authorities on Réno WaTT'chers. The tools are written, tested and transferable.
 
-**Put energy sharing at the end of the sequence, not the start.** The setup requires smart meters, an agreement and an allocation key, and it pays less to households on the social tariff. It makes sense where a public roof or a social housing stock exists — the Ans case — but it is not the entry point of an energy poverty policy. The setup seen from the municipality's side, including the arithmetic of what the social tariff loses on shared kilowatt-hours, is detailed in [“Energy communities: a guide for municipalities”](/en/news/2026/08/30/municipal-energy-community-guide/).
+**Put energy sharing at the end of the sequence, not the start.** The setup requires smart meters, an agreement and an allocation key, and it pays less to households on the social tariff. It makes sense where a public roof or a social housing stock exists — the Ans case — but it is not the entry point of an energy poverty policy. The setup seen from the municipality's side, including the arithmetic of what the social tariff loses on shared kilowatt-hours, is detailed in [“Energy communities: a guide for municipalities”](/en/solutions/municipalities/).
 
 ## Key takeaways
 

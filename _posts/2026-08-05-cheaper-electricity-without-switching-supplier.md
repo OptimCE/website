@@ -168,7 +168,7 @@ In Wallonia the logic is the same but the scope far narrower: the **80 % reducti
 
 Hence a very practical conclusion for a Walloon reader: **if you live in a co-ownership with a usable roof, you are in the best configuration in the country after Brussels** — no legal entity to create, and 80 % off the proportional term on shared volumes. In Wallonia, it is the only arrangement that combines administrative simplicity with a network advantage.
 
-The general meeting still has to be able to decide. That is where the file changes nature: the ownership structure chosen sets the majority to reach — two thirds or four fifths — and the association of co-owners may not own the panels itself. That path is set out in [“Energy sharing in a condominium: the guide”](/en/news/2026/08/27/energy-sharing-condominium-guide/).
+The general meeting still has to be able to decide. That is where the file changes nature: the ownership structure chosen sets the majority to reach — two thirds or four fifths — and the association of co-owners may not own the panels itself. That path is set out in [“Energy sharing in a condominium: the guide”](/en/solutions/condominiums/).
 
 ## What is blocking Wallonia, and what might unblock it
 

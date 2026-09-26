@@ -2,14 +2,15 @@
 layout: post
 title: "Energie delen in een appartementsgebouw"
 date: 2026-08-27 06:00:00 +0200
-last_modified_at: 2026-09-16 06:00:00 +0200
+last_modified_at: 2026-09-26 06:00:00 +0200
 author: "Eric van OptimCE"
 excerpt: "616 135 Brusselse en Waalse woningen liggen in een appartementsgebouw. In februari 2025 telde de CWaPE vier deelactiviteiten binnen eenzelfde gebouw in Wallonië. Vier. Het energierecht treft geen schuld: het vraagt een overeenkomst en een formulier, zonder rechtspersoon en zonder vergunning. Het zijn drie artikelen uit boek 3 van het Burgerlijk Wetboek die werkelijk beslissen — wie de panelen mag bezitten, met welke meerderheid, en hoelang de syndicus mag tekenen."
 description: "Drie artikelen uit het Burgerlijk Wetboek bepalen of uw gebouw stroom kan delen: eigendom van de panelen, meerderheid in de AV, mandaat van de syndicus."
 tags: [guide, community, administrative]
 lang: nl
 ref: energy-sharing-condominium
-permalink: /nl/nieuws/2026/08/27/energie-delen-appartementsgebouw/
+solution: coproprietes
+permalink: /nl/oplossingen/appartementsgebouwen/
 faq:
   - q: "Mag een mede-eigendom de stroom van haar dak delen tussen de appartementen?"
     a: "Ja, en het is de lichtste vorm van de Belgische regeling. Zowel in Brussel als in Wallonië vereist het delen binnen eenzelfde gebouw geen rechtspersoon en geen vergunning van de regulator: een overeenkomst tussen de deelnemers en een verklaring bij de netbeheerder volstaan. De vier voorwaarden zijn aan beide zijden van de gewestgrens dezelfde: de deelnemers bevinden zich in het gebouw, de productie-installatie ligt in of op dat gebouw, de gedeelde stroom is hernieuwbaar, en elke deelnemer behoudt zijn leveringscontract. De moeilijkheid is dus niet de toestemming om te delen. Ze bestaat erin te beslissen wie eigenaar is van de installatie die dat delen voedt — en die vraag valt onder het Burgerlijk Wetboek, niet onder het energierecht."
@@ -313,6 +314,30 @@ Projecten die mislukken, vergissen zich bijna nooit in de techniek. Ze vergissen
 | **Elk jaar** | Prijs, sleutel en deelnemerslijst herzien; rapporteren | Een deelactiviteit stuurt men, men plaatst ze niet |
 
 Het kritieke pad is noch de stemming noch de administratie: het zijn **de slimme meters**. In een gebouw waar meerdere deelnemers er nog geen hebben, is dat de enige stap die geen enkele beslissing van de vergadering kan versnellen. Ze verdient het de dag na de stemming te worden opgestart, niet op het ogenblik van de aangifte.
+
+## Wat OptimCE voor u doet
+
+Delen in een gebouw wordt gewonnen per kwartier en jarenlang beheerd, over verhuizingen en
+wisselingen van syndicus heen. OptimCE neemt het repetitieve deel voor zijn rekening:
+
+- **Meten vóór de stemming.** Simuleer een verdeelsleutel op het kwartierverbruik van de
+  appartementen en van de meter van de gemeenschappelijke delen: zelfverbruik en overschot worden
+  zichtbaar nog vóór u de algemene vergadering bijeenroept. De module voor automatische generatie
+  stelt ook een kandidaat-sleutel voor.
+- **De lijst van deelnemers bijhouden.** Eigenaars, bewoners, leveringspunten en meters staan op
+  één plek; elke versie van de sleutel wordt bewaard en de aanvaarding door de leden wordt
+  opgevolgd.
+- **De documenten voorbereiden.** Voor een Waals gebouw worden de documenten van de CWaPE op basis
+  van die gegevens vooraf ingevuld en worden de termijnen berekend. Het indienen blijft uw zaak.
+- **De gedeelde elektriciteit factureren.** De facturatiemodule, ontworpen voor het Waalse kader,
+  stelt de facturen van de bewoners en de afrekening voor de eigenaar van de installatie op, met
+  opvolging van de betalingen.
+- **Informeren en raadplegen.** Met het nieuwsbord en de polls kunt u de deelnemers bijvoorbeeld
+  raadplegen voordat u de sleutel wijzigt.
+
+De applicatie is gratis tijdens de alfafase.
+
+**[De OptimCE-app openen →](https://app.optimce.be)**
 
 ## Wat u moet onthouden
 

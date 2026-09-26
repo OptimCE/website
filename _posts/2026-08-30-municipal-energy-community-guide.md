@@ -2,14 +2,15 @@
 layout: post
 title: "Energy communities: a guide for municipalities"
 date: 2026-08-30 06:00:00 +0200
-last_modified_at: 2026-09-10 06:00:00 +0200
+last_modified_at: 2026-09-26 06:00:00 +0200
 author: "Eric from OptimCE"
 excerpt: "262 Walloon municipalities. Thirteen energy communities with a complete file at the CWaPE, of which only six actually share any electricity. This is not a shortage of ambition: it is that almost nobody has noticed what Walloon law already says. The first of the two proximity criteria for a renewable energy community is literally “the territory of one single and same municipality”. Wallonia is the only one of the three regions where the legislator drew the perimeter itself — and drew it along the municipal boundary."
 description: "In Wallonia, the perimeter of a renewable energy community is the municipal territory. What a municipality can do with it, and at what price."
 tags: [guide, community, administrative]
 lang: en
 ref: municipal-energy-community
-permalink: /en/news/2026/08/30/municipal-energy-community-guide/
+solution: communes
+permalink: /en/solutions/municipalities/
 faq:
   - q: "Can a municipality create an energy community on its own?"
     a: "No, and that is deliberate. An energy community is a legal entity distinct from its members, which must be effectively controlled by participants located nearby and must remain autonomous from them. A structure in which the municipality is the sole member and the sole decision-maker would satisfy neither the condition of effective control by a plurality of participants nor the condition of autonomy: it would be a municipal department in disguise, not an energy community. The municipality can, however, take the initiative, finance the generation installation, make its roofs available and hold a seat on the board. That is exactly the arrangement chosen by the City of Aubange, whose non-profit association brings together the City and six founding citizen members. If the aim is to share only between metering points the municipality itself holds, the energy community is not the only available route — but as soon as a third party joins the sharing, it becomes one."
@@ -140,7 +141,7 @@ A sustainable energy and climate action plan is organised around three families 
 
 An energy community feeds the second family directly. But its own interest lies elsewhere, and it fits in one sentence: **it is the action that mobilises roofs the municipality does not own.** A municipal insulation grant acts on private buildings and hopes somebody applies. An energy community gives a private owner an economic reason to invest in their own roof, since it offers an outlet at 3-14 cents for a surplus that earns them 1-5 cents. The leverage leaves the municipal estate, which is rare.
 
-In a rural municipality that private owner almost always has a name: a farmer, whose shed carries the largest available roof in the area. What that roof can and cannot do — and why Walloon farm aid stops where sharing begins — is set out in [“Farm roofs: the energy-sharing guide”](/en/news/2026/09/10/farm-solar-energy-sharing-guide/).
+In a rural municipality that private owner almost always has a name: a farmer, whose shed carries the largest available roof in the area. What that roof can and cannot do — and why Walloon farm aid stops where sharing begins — is set out in [“Farm roofs: the energy-sharing guide”](/en/solutions/farms/).
 
 It also ticks, in the same movement, a social box and a citizen-participation box — the two chapters that climate plans usually fill with awareness campaigns.
 
@@ -251,7 +252,7 @@ Yet two distinct municipal buildings do not form one same building. The school a
 
 The consequence is clear-cut: **the only component on which an energy community creates value is the energy component.** That is real, but it is bounded, and it explains why the defensible price band tops out at 14 cents and not at 37.
 
-A useful corollary: if a municipal building has several meters — a school complex, a block of municipal housing — sharing *inside* that building falls under the same-building regime, with no legal entity and no authorisation, and with the 80 % reduction. It is often the first operation to set up, before even thinking about a community. The mechanism is described in [“Energy sharing in a condominium: the guide”](/en/news/2026/08/27/energy-sharing-condominium-guide/). One caveat: the case of a school is narrower than it looks, because a school is almost never a condominium — see [“Schools: a guide to energy sharing”](/en/news/2026/09/03/school-energy-sharing-guide/).
+A useful corollary: if a municipal building has several meters — a school complex, a block of municipal housing — sharing *inside* that building falls under the same-building regime, with no legal entity and no authorisation, and with the 80 % reduction. It is often the first operation to set up, before even thinking about a community. The mechanism is described in [“Energy sharing in a condominium: the guide”](/en/solutions/condominiums/). One caveat: the case of a school is narrower than it looks, because a school is almost never a condominium — see [“Schools: a guide to energy sharing”](/en/solutions/schools/).
 
 ### Trap no. 2: the social tariff is lost on shared kilowatt-hours
 
@@ -288,6 +289,28 @@ Three distinct operations, three different regimes, and a frequent confusion.
 **The sharing agreement** is not a public contract: it is an agreement on how a produced volume is allocated, at a freely set price.
 
 The exact classification depends on the arrangement. It is a question to put to the municipality's legal department or to the Union of Walloon Cities and Municipalities **before** the resolution. The Walloon public service facilitator, free of charge, is the right first port of call to clear the ground.
+
+## What OptimCE does for you
+
+A municipality brings together several buildings, several partners and residents who join and
+leave the community. OptimCE keeps that management in one place:
+
+- **Choose the key on real data.** Import the quarter-hourly curves of the municipal buildings and
+  of the participants, then simulate a key or let the generation module propose one:
+  self-consumption and surplus show up before the proposal goes to the executive.
+- **Keep the list of participants.** Members, supply points and meters are held in one place;
+  every version of the key is recorded and members' acceptance is tracked.
+- **Prepare the Walloon procedures.** The CWaPE documents are pre-filled from that data, the
+  deadlines are calculated and the dashboard flags the ones coming up. Filing them remains the
+  community's responsibility.
+- **Make the operation known.** Publish it in the application's public registry, where residents
+  look for an open operation near them, then inform and consult members with the news board and
+  polls.
+- **Invoice the shared electricity** under the Walloon framework, with payment tracking.
+
+The application is free during the alpha phase.
+
+**[Open the OptimCE app →](https://app.optimce.be)**
 
 ## What to remember
 

@@ -1,0 +1,34 @@
+---
+layout: default
+---
+{%- comment -%}
+  Solutions index: one card per audience guide, in _data/solutions.yml
+  order. page.hub_items is resolved by _plugins/site_graph.rb.
+{%- endcomment -%}
+{% assign lang = page.lang | default: site.lang %}
+{% assign t = site.data.i18n[lang] %}
+<section class="section guides-index">
+  <div class="container">
+    <div class="section__header">
+      {% include breadcrumb.html %}
+      <h1 class="section__title">{{ page.title }}</h1>
+      {% if page.subtitle %}
+        <p class="section__subtitle">{{ page.subtitle }}</p>
+      {% endif %}
+      {{ content }}
+    </div>
+    <div class="grid grid--2col">
+      {% for post in page.hub_items %}
+      {% assign solution = site.data.solutions | where: "key", post.solution | first %}
+      <div class="feature-card guides-index__pillar">
+        <span class="commitment-card__label">{{ solution.label[lang] }}</span>
+        <h2 class="feature-card__title">
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h2>
+        <p class="feature-card__description">{{ post.description }}</p>
+        <a class="post-card__link" href="{{ post.url | relative_url }}">{{ t.blog.read_more }} &rarr;</a>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

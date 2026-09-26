@@ -96,7 +96,7 @@ Le principe de l'autoconsommation est identique partout, mais les acteurs et l'�
 - **Les copropriétés et immeubles à appartements**, configuration idéale pour une opération de partage intra-bâtiment.
 - **Les PME et les autorités locales**, dont les surfaces de toiture et les profils de consommation diurnes se prêtent particulièrement bien à l'autoconsommation. L'analyse de [Beci](https://www.beci.be/blog/esg-34/les-communautes-denergie-pour-lautoconsommation-collective-2086) souligne l'intérêt économique pour les entreprises bruxelloises.
 
-La configuration de l'immeuble mérite d'ailleurs son propre mode d'emploi : elle cumule le meilleur périmètre tarifaire du pays et trois verrous du droit de la copropriété que le droit de l'énergie ne mentionne nulle part. Ils sont passés en revue dans [« Partage d'énergie en copropriété : le guide »](/actualites/2026/08/27/partage-energie-copropriete-guide/).
+La configuration de l'immeuble mérite d'ailleurs son propre mode d'emploi : elle cumule le meilleur périmètre tarifaire du pays et trois verrous du droit de la copropriété que le droit de l'énergie ne mentionne nulle part. Ils sont passés en revue dans [« Partage d'énergie en copropriété : le guide »](/solutions/coproprietes/).
 
 Le cas des locataires a depuis gagné une seconde option : depuis le 17 avril 2025, un kit photovoltaïque mobile branché sur une prise est légal en Belgique. Les deux voies — recevoir de l'énergie partagée, ou produire soi-même sans posséder de toit — sont comparées dans [« Locataire : le guide du solaire sans toit »](/guides/guide-solaire-locataire-sans-toit/).
 

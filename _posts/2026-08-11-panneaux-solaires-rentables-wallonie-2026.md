@@ -73,7 +73,7 @@ Il n'existe **plus de prime régionale directe ni de certificat vert** pour une 
 
 Autrement dit : la rentabilité d'une installation wallonne en 2026 ne dépend plus d'aucun soutien public significatif. Elle dépend entièrement de ce que vous faites de votre production.
 
-Cet article traite du résidentiel. Au-delà de 10 kW, le tableau change : les certificats verts existent toujours, sous le régime CPMA, et une exploitation agricole peut y ajouter une aide régionale à l'investissement — mais uniquement sur la part qu'elle autoconsomme. Le cas d'une grande toiture professionnelle est traité dans [« Hangar agricole : le guide du partage d'énergie »](/actualites/2026/09/10/partage-energie-agriculteur-hangar-solaire/).
+Cet article traite du résidentiel. Au-delà de 10 kW, le tableau change : les certificats verts existent toujours, sous le régime CPMA, et une exploitation agricole peut y ajouter une aide régionale à l'investissement — mais uniquement sur la part qu'elle autoconsomme. Le cas d'une grande toiture professionnelle est traité dans [« Hangar agricole : le guide du partage d'énergie »](/solutions/agriculteurs/).
 
 ## Le calcul de rentabilité 2026, poste par poste
 

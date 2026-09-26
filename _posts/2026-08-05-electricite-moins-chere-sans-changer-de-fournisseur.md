@@ -168,7 +168,7 @@ En Wallonie, la logique est la même mais le champ est bien plus étroit : la r�
 
 D'où une conclusion très pratique pour un lecteur wallon : **si vous vivez en copropriété avec une toiture exploitable, vous êtes dans la meilleure configuration du pays après Bruxelles** — sans personne morale à créer, avec 80 % du terme proportionnel en moins sur les volumes partagés. C'est, en Wallonie, le seul montage qui cumule simplicité administrative et avantage réseau.
 
-Encore faut-il que l'assemblée générale puisse décider. C'est là que le dossier change de nature : le montage de propriété retenu fixe la majorité à atteindre — deux tiers ou quatre cinquièmes — et l'association des copropriétaires ne peut pas posséder les panneaux elle-même. Ce parcours est détaillé dans [« Partage d'énergie en copropriété : le guide »](/actualites/2026/08/27/partage-energie-copropriete-guide/).
+Encore faut-il que l'assemblée générale puisse décider. C'est là que le dossier change de nature : le montage de propriété retenu fixe la majorité à atteindre — deux tiers ou quatre cinquièmes — et l'association des copropriétaires ne peut pas posséder les panneaux elle-même. Ce parcours est détaillé dans [« Partage d'énergie en copropriété : le guide »](/solutions/coproprietes/).
 
 ## Ce qui bloque en Wallonie, et ce qui pourrait débloquer
 
