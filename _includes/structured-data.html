@@ -13,6 +13,7 @@
     #organization  site-wide constant, referenced by every other node
     #website       one per language tree (so inLanguage stays truthful)
     #software      one global product entity, shared @id across all 4 homepages
+                   and the features pages (with featureList)
     #person        the article byline; emitted with #article so it is never orphaned
     #article       posts
     #webpage       about (AboutPage), pillar, guide and solution indexes (CollectionPage)
@@ -69,7 +70,11 @@
       "inLanguage": {{ lang | jsonify }},
       "publisher": { "@id": {{ org_id | jsonify }} }
     }
-    {%- if page.ref == 'home' -%}
+    {%- if page.ref == 'home' or page.ref == 'features' -%}
+    {%- comment -%}
+      One global product entity (#software), described on the homepages and,
+      with its feature list, on the features pages.
+    {%- endcomment -%}
     ,{
       "@type": "SoftwareApplication",
       "@id": {{ software_id | jsonify }},
@@ -85,6 +90,24 @@
         "priceCurrency": "EUR"
       },
       "publisher": { "@id": {{ org_id | jsonify }} }
+      {%- if page.feature_list -%}
+      ,"featureList": {{ page.feature_list | jsonify }}
+      ,"softwareHelp": { "@type": "CreativeWork", "url": "https://guide.optimce.be" }
+      {%- endif -%}
+    }
+    {%- endif -%}
+    {%- if page.ref == 'features' -%}
+    ,{
+      "@type": "WebPage",
+      "@id": {{ page_url | append: '#webpage' | jsonify }},
+      "url": {{ page_url | jsonify }},
+      "name": {{ page.title | jsonify }},
+      "description": {{ page.description | jsonify }},
+      "inLanguage": {{ lang | jsonify }},
+      "isPartOf": { "@id": {{ website_id | jsonify }} },
+      "about": { "@id": {{ software_id | jsonify }} },
+      "mainEntity": { "@id": {{ software_id | jsonify }} },
+      "breadcrumb": { "@id": {{ page_url | append: '#breadcrumb' | jsonify }} }
     }
     {%- endif -%}
     {%- if page.layout == 'post' -%}

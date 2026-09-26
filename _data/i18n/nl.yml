@@ -30,6 +30,7 @@ hero:
 features:
   title: "Functies"
   subtitle: "Alles wat u nodig heeft om uw energiegemeenschap te beheren"
+  see_all: "Alle functies bekijken"
   items:
     - icon: "users"
       title: "Ledenbeheer"

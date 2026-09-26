@@ -30,6 +30,7 @@ hero:
 features:
   title: "Features"
   subtitle: "Everything you need to manage your energy community"
+  see_all: "See all features"
   items:
     - icon: "users"
       title: "Member management"

@@ -30,6 +30,7 @@ hero:
 features:
   title: "Funktionen"
   subtitle: "Alles, was Sie zur Verwaltung Ihrer Energiegemeinschaft brauchen"
+  see_all: "Alle Funktionen ansehen"
   items:
     - icon: "users"
       title: "Mitgliederverwaltung"
