@@ -2241,8 +2241,8 @@
   definition:
     fr: "Énergie qu'une installation photovoltaïque produit en un an par unité de puissance installée, exprimée en kWh/kWc. En Wallonie, l'ordre de grandeur retenu est de 950 à 1 000 kWh/kWc par an pour une toiture plein sud inclinée à 35° et non ombragée."
     en: "The energy a solar installation produces in a year per unit of installed capacity, expressed in kWh/kWp. In Wallonia the accepted order of magnitude is 950 to 1,000 kWh/kWp a year for an unshaded, due-south roof at 35°."
-    de: "Energie, die eine Photovoltaikanlage in einem Jahr je Einheit installierter Leistung erzeugt, ausgedrückt in kWh/kWp. In Wallonien gilt als Größenordnung 950 bis 1.000 kWh/kWp pro Jahr für ein unverschattetes, nach Süden ausgerichtetes Dach mit 35° Neigung."
-    nl: "Energie die een fotovoltaïsche installatie in een jaar produceert per eenheid geïnstalleerd vermogen, uitgedrukt in kWh/kWp. In Wallonië geldt als orde van grootte 950 tot 1.000 kWh/kWp per jaar voor een onbeschaduwd dak pal zuid met een helling van 35°."
+    de: "Energie, die eine Photovoltaikanlage in einem Jahr je Einheit installierter Leistung erzeugt, ausgedrückt in kWh/kWp. In Wallonien gilt als Größenordnung 950 bis 1 000 kWh/kWp pro Jahr für ein unverschattetes, nach Süden ausgerichtetes Dach mit 35° Neigung."
+    nl: "Energie die een fotovoltaïsche installatie in een jaar produceert per eenheid geïnstalleerd vermogen, uitgedrukt in kWh/kWp. In Wallonië geldt als orde van grootte 950 tot 1 000 kWh/kWp per jaar voor een onbeschaduwd dak pal zuid met een helling van 35°."
   alias:
     fr: ["productivité annuelle", "kWh/kWc"]
     en: ["annual yield", "kWh/kWp"]
@@ -2373,8 +2373,8 @@
   definition:
     fr: "Capacité d'un véhicule électrique à restituer l'énergie de sa batterie vers le logement (V2H) ou vers le réseau (V2G). En Belgique en 2026, l'offre reste marginale : bornes bidirectionnelles à 4 000-8 000 €, peu de modèles compatibles et cadre normatif de raccordement non stabilisé."
     en: "The ability of an electric vehicle to return energy from its battery to the home (V2H) or to the grid (V2G). In Belgium in 2026 the offering remains marginal: bidirectional charge points at €4,000-8,000, few compatible models and an unsettled connection standards framework."
-    de: "Fähigkeit eines Elektrofahrzeugs, Energie aus seiner Batterie an das Haus (V2H) oder das Netz (V2G) zurückzugeben. In Belgien bleibt das Angebot 2026 marginal: bidirektionale Ladestationen für 4.000-8.000 €, wenige kompatible Modelle und ein nicht stabilisierter normativer Anschlussrahmen."
-    nl: "Het vermogen van een elektrisch voertuig om energie uit zijn batterij terug te geven aan de woning (V2H) of aan het net (V2G). In België blijft het aanbod in 2026 marginaal: bidirectionele laadpalen aan 4.000-8.000 €, weinig compatibele modellen en een niet-gestabiliseerd normatief aansluitkader."
+    de: "Fähigkeit eines Elektrofahrzeugs, Energie aus seiner Batterie an das Haus (V2H) oder das Netz (V2G) zurückzugeben. In Belgien bleibt das Angebot 2026 marginal: bidirektionale Ladestationen für 4 000-8 000 €, wenige kompatible Modelle und ein nicht stabilisierter normativer Anschlussrahmen."
+    nl: "Het vermogen van een elektrisch voertuig om energie uit zijn batterij terug te geven aan de woning (V2H) of aan het net (V2G). In België blijft het aanbod in 2026 marginaal: bidirectionele laadpalen aan 4 000-8 000 €, weinig compatibele modellen en een niet-gestabiliseerd normatief aansluitkader."
   alias:
     fr: ["V2G", "V2H", "vehicle-to-grid", "vehicle-to-home"]
     en: ["V2G", "V2H", "vehicle-to-grid", "vehicle-to-home"]
