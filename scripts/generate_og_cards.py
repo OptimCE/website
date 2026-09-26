@@ -115,6 +115,16 @@ def wrap_balanced(font: ImageFont.FreeTypeFont, text: str, max_w: int) -> list[s
     words = text.split()
     if ink_width(font, text) <= max_w:
         return [text]
+    # French high punctuation is set off by a space but must never start a
+    # line ("Communautés d'énergie" / ": rejoindre…"): glue it to the word
+    # before, so the search can only break after it.
+    glued: list[str] = []
+    for word in words:
+        if glued and word in (":", ";", "!", "?", "»"):
+            glued[-1] += " " + word
+        else:
+            glued.append(word)
+    words = glued
 
     for n in range(2, len(words) + 1):
         best, best_cost = None, None
