@@ -125,6 +125,8 @@ defaults:
     values:
       layout: "post"
       lang: "fr"
+      # Links the byline to the author page (_data/authors.yml).
+      author_id: "eric"
       # Demote jekyll-seo-tag's node from BlogPosting to WebPage so it stops
       # competing with the Article entity in _includes/structured-data.html.
       # The gem's JSON-LD block cannot be suppressed, but its type is overridable.

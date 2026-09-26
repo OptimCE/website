@@ -103,6 +103,12 @@ module OptimCE
         page.data["last_modified_at"] = Dates.latest(page.data["last_modified_at"], page.data["hub_items"])
       end
 
+      # Author pages list their author's articles.
+      site.pages.select { |p| p.data["ref"] == "author" }.each do |page|
+        mine = posts.select { |p| p.data["lang"] == page.data["lang"] && p.data["author_id"] == page.data["author_id"] }
+        page.data["last_modified_at"] = Dates.latest(page.data["last_modified_at"], mine)
+      end
+
       site.pages.select { |p| p.data["layout"] == "blog" }.each do |page|
         news = posts.select { |p| p.data["section"] == "actualites" && p.data["lang"] == page.data["lang"] }
         page.data["hub_items"] = news.sort_by { |p| -p.date.to_i }

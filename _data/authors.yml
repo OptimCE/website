@@ -1,0 +1,12 @@
+# ==================================================================
+# Authors — keyed by the `author_id` of posts and author pages.
+# ------------------------------------------------------------------
+# Posts get `author_id: eric` by default (_config.yml defaults); their
+# `author:` front matter stays the byline text ("Eric d'OptimCE", ...),
+# which now links to the author page (languages[].author_path).
+# `github` feeds the Person node's sameAs in the JSON-LD.
+# ==================================================================
+
+eric:
+  name: "Eric Ugo Paque"
+  github: "https://github.com/Radisio"

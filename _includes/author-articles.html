@@ -1,0 +1,14 @@
+{%- comment -%}
+  Articles signed by the page's author (page.author_id), in the page's
+  language, newest first: guides, solutions and news alike.
+{%- endcomment -%}
+{%- assign aa_lang = page.lang | default: site.lang -%}
+{%- assign aa_posts = site.posts | where: "lang", aa_lang | where: "author_id", page.author_id -%}
+<ul class="author-articles">
+  {%- for post in aa_posts %}
+  <li>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <span class="text-muted">— {% include localized-date.html date=post.date lang=aa_lang %}</span>
+  </li>
+  {%- endfor %}
+</ul>

@@ -14,7 +14,8 @@
     #website       one per language tree (so inLanguage stays truthful)
     #software      one global product entity, shared @id across all 4 homepages
                    and the features pages (with featureList)
-    #person        the article byline; emitted with #article so it is never orphaned
+    #person        the author (_data/authors.yml): on posts, with #article, and on
+                   the author pages, with the ProfilePage
     #article       posts
     #webpage       about (AboutPage), pillar, guide and solution indexes (CollectionPage)
     #breadcrumb    everything except the homepages (trail: _includes/breadcrumb.html)
@@ -111,19 +112,42 @@
       "breadcrumb": { "@id": {{ page_url | append: '#breadcrumb' | jsonify }} }
     }
     {%- endif -%}
-    {%- if page.layout == 'post' -%}
+    {%- if page.layout == 'post' or page.ref == 'author' -%}
     {%- comment -%}
-      The person the byline names. `name` is the bare first name, not the
-      localised `author:` front matter ("Eric d'OptimCE", "Eric, OptimCE", …),
-      because that string carries the affiliation for human readers while the
-      organisation is already expressed by the publisher edge.
+      The person the byline names (_data/authors.yml), one global node. `name`
+      is the full name, not the localised `author:` front matter ("Eric
+      d'OptimCE", "Eric, OptimCE", …), which carries the affiliation for human
+      readers; the affiliation edge says it here. `url` is the French author
+      page for every language, so the entity has a single canonical address.
     {%- endcomment -%}
+    {%- assign author = site.data.authors[page.author_id] | default: site.data.authors.eric -%}
+    {%- assign fr_lang = site.languages | where: "code", "fr" | first -%}
     ,{
       "@type": "Person",
       "@id": {{ person_id | jsonify }},
-      "name": "Eric"
-    },
-    {
+      "name": {{ author.name | jsonify }},
+      "url": {{ fr_lang.author_path | absolute_url | jsonify }},
+      "affiliation": { "@id": {{ org_id | jsonify }} }
+      {%- if author.github -%}
+      ,"sameAs": [{{ author.github | jsonify }}]
+      {%- endif -%}
+    }
+    {%- endif -%}
+    {%- if page.ref == 'author' -%}
+    ,{
+      "@type": "ProfilePage",
+      "@id": {{ page_url | append: '#webpage' | jsonify }},
+      "url": {{ page_url | jsonify }},
+      "name": {{ page.title | jsonify }},
+      "description": {{ page.description | jsonify }},
+      "inLanguage": {{ lang | jsonify }},
+      "isPartOf": { "@id": {{ website_id | jsonify }} },
+      "mainEntity": { "@id": {{ person_id | jsonify }} },
+      "breadcrumb": { "@id": {{ page_url | append: '#breadcrumb' | jsonify }} }
+    }
+    {%- endif -%}
+    {%- if page.layout == 'post' -%}
+    ,{
       "@type": "Article",
       "@id": {{ page_url | append: '#article' | jsonify }},
       "headline": {{ page.title | jsonify }},

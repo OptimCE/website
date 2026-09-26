@@ -14,7 +14,11 @@ layout: default
           {{ t.blog.published_on }} {% include localized-date.html date=page.date lang=lang %}
         </time>
         {% if page.author %}
-          &middot; {{ t.blog.by_author }} <span>{{ page.author }}</span>
+          {% if page.author_id and site.data.authors[page.author_id] %}
+            &middot; {{ t.blog.by_author }} <a href="{{ current_lang.author_path | relative_url }}" rel="author">{{ page.author }}</a>
+          {% else %}
+            &middot; {{ t.blog.by_author }} <span>{{ page.author }}</span>
+          {% endif %}
         {% endif %}
       </p>
       {% if page.last_modified_at %}
