@@ -31,9 +31,9 @@
   {%- assign source_href = term.source_url -%}
   {%- assign source_external = true -%}
   {%- if term.source_ref and term.source_ref != "" -%}
-    {%- assign source_page = site.pages | where: "ref", term.source_ref | where: "lang", lang | first -%}
-    {%- if source_page -%}
-      {%- assign source_href = source_page.url | relative_url -%}
+    {%- assign source_page_url = site.data.translations[term.source_ref][lang] -%}
+    {%- if source_page_url -%}
+      {%- assign source_href = source_page_url | relative_url -%}
       {%- assign source_external = false -%}
     {%- endif -%}
   {%- endif %}

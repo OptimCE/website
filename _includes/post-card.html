@@ -25,7 +25,7 @@
     </div>
   {% endif %}
   {% if post.ref %}
-    {% assign translations = site.posts | where: "ref", post.ref %}
+    {% assign translations = post.translations %}
     {% if translations.size > 1 %}
     {%- comment -%}
       Without aria-label these are two-character links ("FR", "EN", ...). On the
@@ -34,13 +34,13 @@
     {%- endcomment -%}
     {%- comment -%}
       Looping site.languages keeps the badge order identical on every card;
-      `translations` alone comes back in collection order, which varies per ref.
+      the translations map itself is unordered.
     {%- endcomment -%}
     <div class="post-card__langs" role="group" aria-label="{{ t.a11y.available_languages }}">
       {% for l in site.languages %}
-        {% assign translation = translations | where: "lang", l.code | first %}
-        {% if translation %}
-        <a href="{{ translation.url | relative_url }}"
+        {% assign translation_url = translations[l.code] %}
+        {% if translation_url %}
+        <a href="{{ translation_url | relative_url }}"
            lang="{{ l.code }}"
            hreflang="{{ l.code }}"
            aria-label="{{ t.languages[l.code] }}"

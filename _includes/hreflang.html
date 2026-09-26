@@ -3,25 +3,21 @@
   including a self-referencing tag, plus x-default pointing at the FR version.
   Skipped if page has no `ref` (e.g. 404, feed.xml).
 
-  Iterates site.languages rather than the matched translations directly: a
-  `where: "ref"` lookup returns them in collection order, which differs from one
-  family to the next, so the language order would otherwise be arbitrary on
-  every page. site.languages is the single canonical order (fr, en, de, nl),
-  shared with the translation nav, the card badges and the language switcher.
+  page.translations ({ lang => url }) is built once per build by
+  _plugins/site_graph.rb. Iterating site.languages, not the map, keeps one
+  canonical order (fr, en, de, nl), shared with the translation nav, the card
+  badges and the language switcher.
 {%- endcomment -%}
 {%- if page.ref -%}
-  {%- assign translation_pages = site.pages | where: "ref", page.ref -%}
-  {%- assign translation_posts = site.posts | where: "ref", page.ref -%}
-  {%- assign translations = translation_pages | concat: translation_posts -%}
+  {%- assign hreflang_map = page.translations -%}
   {%- for l in site.languages -%}
-    {%- assign t = translations | where: "lang", l.code | first -%}
-    {%- if t -%}
-<link rel="alternate" hreflang="{{ l.code }}" href="{{ t.url | absolute_url }}" />
+    {%- assign hreflang_url = hreflang_map[l.code] -%}
+    {%- if hreflang_url -%}
+<link rel="alternate" hreflang="{{ l.code }}" href="{{ hreflang_url | absolute_url }}" />
     {%- endif -%}
   {%- endfor -%}
-  {%- assign fr_page = translations | where: "lang", "fr" | first -%}
-  {%- if fr_page -%}
-<link rel="alternate" hreflang="x-default" href="{{ fr_page.url | absolute_url }}" />
+  {%- if hreflang_map.fr -%}
+<link rel="alternate" hreflang="x-default" href="{{ hreflang_map.fr | absolute_url }}" />
   {%- endif -%}
   {%- comment -%}
     og:locale:alternate. jekyll-seo-tag never emits this tag, so there is nothing
@@ -30,11 +26,8 @@
     truth as the loop below.
   {%- endcomment -%}
   {%- for l in site.languages -%}
-    {%- if l.code != page.lang and l.locale -%}
-      {%- assign t = translations | where: "lang", l.code | first -%}
-      {%- if t -%}
+    {%- if l.code != page.lang and l.locale and hreflang_map[l.code] -%}
 <meta property="og:locale:alternate" content="{{ l.locale }}" />
-      {%- endif -%}
     {%- endif -%}
   {%- endfor -%}
 {%- endif -%}

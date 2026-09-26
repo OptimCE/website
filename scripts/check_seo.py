@@ -29,13 +29,16 @@ DESC_MIN = 70
 DESC_MAX = 160
 
 LANG_PREFIXES = {"en": "/en/", "de": "/de/", "nl": "/nl/"}
-# Language-owned path segments. A page in one language linking into another
-# language's blog is a leak the link checker cannot see: the target resolves.
-BLOG_PATHS = {
-    "fr": "/actualites/",
-    "en": "/en/news/",
-    "de": "/de/aktuelles/",
-    "nl": "/nl/nieuws/",
+# Paths owned by one language. A post in one language linking into another
+# language's pages is a leak the link checker cannot see: the target resolves.
+# EN/DE/NL live under their prefix; French has none, so each of its top-level
+# sections is listed.
+LANG_OWNED_PATHS = {
+    "fr": ("/actualites/", "/guides/", "/solutions/", "/fonctionnalites/",
+           "/glossaire/", "/a-propos/", "/confidentialite/"),
+    "en": ("/en/",),
+    "de": ("/de/",),
+    "nl": ("/nl/",),
 }
 
 RE_JSONLD = re.compile(
@@ -194,15 +197,17 @@ def check_source_links(root: pathlib.Path, rep: Report) -> None:
             continue
         lang = lang_m.group(1).strip("\"'")
         body = raw[fm.end():]
-        for other, prefix in BLOG_PATHS.items():
+        for other, prefixes in LANG_OWNED_PATHS.items():
             if other == lang:
                 continue
-            for m in re.finditer(re.escape(f"]({prefix}"), body):
-                line = body[: m.start()].count("\n") + 1
-                rep.error(
-                    f"_posts/{md.name}:{line}: lang={lang} post links into "
-                    f"{other} path {prefix}"
-                )
+            for prefix in prefixes:
+                pattern = re.escape(f"]({prefix}") + "|" + re.escape(f'href="{prefix}')
+                for m in re.finditer(pattern, body):
+                    line = body[: m.start()].count("\n") + 1
+                    rep.error(
+                        f"_posts/{md.name}:{line}: lang={lang} post links into "
+                        f"{other} path {prefix}"
+                    )
 
 
 def check_glossary_freshness(root: pathlib.Path, rep: Report) -> None:

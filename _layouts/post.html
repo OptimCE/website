@@ -35,18 +35,17 @@ layout: default
         </div>
       {% endif %}
       {% if page.ref %}
-        {% assign translations = site.posts | where: "ref", page.ref %}
+        {% assign translations = page.translations %}
         {% if translations.size > 1 %}
         {%- comment -%}
-          Looping site.languages, not `translations`: the latter comes back in
-          collection order, which differs per family and made the language order
-          jump around from one article to the next.
+          Looping site.languages, not `translations`: one canonical language
+          order on every article (the map itself is unordered).
         {%- endcomment -%}
         <nav class="post__translations" aria-label="{{ t.a11y.translations }}">
           {% for l in site.languages %}
-            {% assign translation = translations | where: "lang", l.code | first %}
-            {% if translation and l.code != lang %}
-              <a href="{{ translation.url | relative_url }}"
+            {% assign translation_url = translations[l.code] %}
+            {% if translation_url and l.code != lang %}
+              <a href="{{ translation_url | relative_url }}"
                  lang="{{ l.code }}" hreflang="{{ l.code }}"
                  class="post__translation-link">
                 {{ t.languages[l.code] }}

@@ -3,8 +3,10 @@
 require "set"
 
 # Derives per-page language metadata that _config.yml `defaults` cannot express.
+# Runs as step 1 of the build orchestrator (_plugins/site_graph.rb), so that the
+# steps after it can rely on a correct `lang`.
 #
-# All 68 posts live in one flat _posts/ directory, so a `defaults` scope cannot
+# All posts live in one flat _posts/ directory, so a `defaults` scope cannot
 # discriminate them by language — only by path, which is identical for all of
 # them. Without this generator the site-wide `lang: "fr"` default silently
 # applies to any EN/DE/NL file whose front matter forgets `lang:`, producing a
@@ -18,11 +20,12 @@ require "set"
 #             hook for og:locale — no hand-rolled meta tag, no duplication.
 #   image.alt - localised, so og:image:alt and twitter:image:alt render at all.
 module OptimCE
-  class I18nMetadata < Jekyll::Generator
-    safe true
-    priority :high
-
+  class I18nMetadata
     DEFAULT_LANG = "fr"
+
+    def self.apply(site)
+      new.generate(site)
+    end
 
     def generate(site)
       @site = site

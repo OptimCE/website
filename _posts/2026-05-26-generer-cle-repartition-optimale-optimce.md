@@ -10,10 +10,8 @@ lang: fr
 ref: optimce-allocation-key-generator
 # Pinned explicitly, like the three translations. Before `timezone` was set in
 # _config.yml the 00:00 +0200 date built as 05/25 on the UTC CI runner, so that
-# URL is live and indexed — hence the redirect.
+# URL is live and indexed — its redirect lives in _data/redirects.csv.
 permalink: /actualites/2026/05/26/generer-cle-repartition-optimale-optimce/
-redirect_from:
-  - /actualites/2026/05/25/generer-cle-repartition-optimale-optimce/
 ---
 
 Choisir la **clé de répartition** qui tire le meilleur d'une production locale est plus difficile qu'il n'y paraît. Le vocabulaire est posé par le régulateur, les clés standards sont listées dans un document CWaPE ou Fluvius, et pourtant le *bon* choix dépend de ce qu'aucun de ces textes ne peut vous dire : les profils réels, au quart d'heure, de vos membres. Un quartier résidentiel avec une seule école se comporte très différemment d'un parc d'entreprises avec une charge de base, et une même clé peut récupérer 70 % de la production disponible dans une communauté et à peine 50 % dans une autre.

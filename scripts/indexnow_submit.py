@@ -63,6 +63,8 @@ def compute_diff(sitemap_urls, state):
     """Submit URLs absent from state, or whose lastmod changed.
 
     A URL with no lastmod is submitted once (when first seen) and never again.
+    `removed` lists URLs known from a previous run but gone from the sitemap:
+    moved (now a redirect stub) or deleted.
     """
     to_submit = []
     for url, lastmod in sitemap_urls.items():
@@ -115,9 +117,19 @@ def main(argv=None):
 
     print(f"[indexnow] sitemap={args.sitemap} host={args.host} state={args.state}")
     print(f"[indexnow] total={len(sitemap_urls)} known={len(state)} "
-          f"to_submit={len(to_submit)} stale_in_state={len(removed)}")
+          f"to_submit={len(to_submit)} removed={len(removed)}")
     for u in to_submit:
         print(f"[indexnow]   + {u}  (lastmod={sitemap_urls[u]})")
+    for u in removed:
+        print(f"[indexnow]   - {u}  (gone from the sitemap)")
+
+    # URLs that left the sitemap are submitted once as well. IndexNow accepts
+    # added, updated and deleted URLs alike; notifying the old address of a
+    # moved page makes the engines re-crawl it and find the redirect, instead
+    # of keeping it indexed until their next scheduled visit. After a
+    # successful submission they are pruned from the state below, so they are
+    # never sent again.
+    batch_urls = to_submit + removed
 
     if args.dry_run:
         print("[indexnow] dry-run: no network call, state left unchanged.")
@@ -126,19 +138,18 @@ def main(argv=None):
     # Rebuild state from the current (filtered) sitemap so removed URLs are pruned.
     new_state = dict(sitemap_urls)
 
-    if not to_submit:
+    if not batch_urls:
         print("[indexnow] Nothing to submit.")
         if new_state != state:
             write_state(args.state, new_state)
-            print(f"[indexnow] Pruned {len(removed)} stale URL(s) from state.")
         return 0
 
     if not args.key:
         print("[indexnow] ERROR: no key (set INDEXNOW_KEY or --key).", file=sys.stderr)
         return 1
 
-    for i in range(0, len(to_submit), BATCH_SIZE):
-        batch = to_submit[i:i + BATCH_SIZE]
+    for i in range(0, len(batch_urls), BATCH_SIZE):
+        batch = batch_urls[i:i + BATCH_SIZE]
         payload = {"host": args.host, "key": args.key,
                    "keyLocation": key_location, "urlList": batch}
         print(f"[indexnow] POST {len(batch)} URL(s) -> {INDEXNOW_ENDPOINT}")
@@ -159,8 +170,8 @@ def main(argv=None):
             return 1
 
     write_state(args.state, new_state)
-    print(f"[indexnow] Submitted {len(to_submit)} URL(s); state updated "
-          f"({len(new_state)} tracked).")
+    print(f"[indexnow] Submitted {len(to_submit)} new/changed and {len(removed)} "
+          f"removed URL(s); state updated ({len(new_state)} tracked).")
     return 0
 
 
