@@ -11,8 +11,11 @@ nav:
   glossary: "Glossar"
   guides: "Ratgeber"
   solutions: "Lösungen"
+  join: "Einer Gemeinschaft beitreten"
+  manage: "Gemeinschaft verwalten oder gründen"
+  join_short: "Beitreten"
+  manage_short: "Verwalten oder gründen"
   get_started: "Loslegen"
-  github: "GitHub"
   links: "Links"
   guide: "Benutzerhandbuch"
   privacy: "Datenschutz"
@@ -23,8 +26,6 @@ hero:
   subtitle: >-
     OptimCE vereinfacht die Verwaltung von Mitgliedern, Zählern und der
     Energieverteilung in Ihrer Erneuerbare-Energien-Gemeinschaft.
-  cta_primary: "Jetzt starten"
-  cta_secondary: "Auf GitHub ansehen"
 
 # Features Section
 features:
@@ -161,6 +162,12 @@ guides:
   count_other: "Ratgeber"
   more_guides: "Weitere Ratgeber"
   other_pillars: "Weitere Themen"
+
+# End-of-guide block (_includes/cta-communaute.html)
+cta_communaute:
+  title: "Einer Energiegemeinschaft in Ihrer Nähe beitreten"
+  text: "Durchsuchen Sie in der OptimCE-App die Teilungsoperationen, die für neue Mitglieder offen sind, und nehmen Sie Kontakt mit der passenden auf."
+  button: "Gemeinschaft finden"
 
 # Glossary
 glossary:

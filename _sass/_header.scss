@@ -1,5 +1,11 @@
 // Site header and navigation
 
+// Width from which the full menu (eight sections) and the two audience
+// buttons sit on one line in every language; below it, the hamburger menu.
+// Measured on the German header, the longest: logo, menu and buttons take
+// about 1 120 px, which the container only offers from the xl breakpoint.
+$bp-header: $bp-xl;
+
 .skip-link {
   position: absolute;
   top: -100%;
@@ -54,7 +60,7 @@
   display: none;
   margin-left: auto;
 
-  @media (min-width: $bp-lg) {
+  @media (min-width: $bp-header) {
     display: block;
   }
 }
@@ -66,7 +72,7 @@
 
   a {
     display: block;
-    padding: var(--space-2) var(--space-3);
+    padding: var(--space-2) var(--space-2);
     color: var(--color-text);
     font-weight: var(--weight-medium);
     font-size: var(--text-sm);
@@ -92,7 +98,7 @@
   align-items: center;
   gap: var(--space-3);
 
-  @media (min-width: $bp-lg) {
+  @media (min-width: $bp-header) {
     display: flex;
   }
 }
@@ -113,7 +119,7 @@
   border-radius: var(--radius-sm);
   transition: background-color var(--transition-fast);
 
-  @media (min-width: $bp-lg) {
+  @media (min-width: $bp-header) {
     display: none;
   }
 
@@ -155,7 +161,7 @@
   border-bottom: 1px solid var(--color-border);
   padding: var(--space-4) var(--space-6) var(--space-6);
 
-  @media (min-width: $bp-lg) {
+  @media (min-width: $bp-header) {
     display: none !important;
   }
 
@@ -276,7 +282,7 @@
 
 // Prevent body scroll when mobile menu is open
 body.menu-open {
-  @media (max-width: $bp-lg) {
+  @media (max-width: $bp-header) {
     overflow: hidden;
   }
 }

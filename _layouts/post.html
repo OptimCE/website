@@ -55,6 +55,10 @@ layout: default
   <div class="post__content section">
     <div class="container container--narrow">
       {{ content | glossary_autolink: lang }}
+      {% assign post_pillar = site.data.pillars | where: "key", page.pillar | first %}
+      {% if post_pillar and post_pillar.cta_communaute %}
+        {% include cta-communaute.html %}
+      {% endif %}
     </div>
   </div>
 </article>

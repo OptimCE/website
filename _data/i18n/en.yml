@@ -11,8 +11,11 @@ nav:
   glossary: "Glossary"
   guides: "Guides"
   solutions: "Solutions"
+  join: "Join a community"
+  manage: "Manage or create a community"
+  join_short: "Join"
+  manage_short: "Manage or create"
   get_started: "Get Started"
-  github: "GitHub"
   links: "Links"
   guide: "User Guide"
   privacy: "Privacy"
@@ -23,8 +26,6 @@ hero:
   subtitle: >-
     OptimCE simplifies the management of members, meters and energy sharing
     within your renewable energy community.
-  cta_primary: "Get started now"
-  cta_secondary: "View on GitHub"
 
 # Features Section
 features:
@@ -161,6 +162,12 @@ guides:
   count_other: "guides"
   more_guides: "More guides"
   other_pillars: "Other topics"
+
+# End-of-guide block (_includes/cta-communaute.html)
+cta_communaute:
+  title: "Join an energy community near you"
+  text: "Browse the sharing operations open to new members in the OptimCE app and get in touch with the one that suits you."
+  button: "Find a community"
 
 # Glossary
 glossary:

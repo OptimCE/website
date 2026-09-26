@@ -1,0 +1,15 @@
+{%- comment -%}
+  End-of-guide invitation for households: join an energy community nearby.
+  Shown on every guide whose pillar sets `cta_communaute: true` in
+  _data/pillars.yml. The target is site.cta.join_url (_config.yml): the
+  application for now, the public directory of communities later.
+{%- endcomment -%}
+{%- assign cc_lang = page.lang | default: site.lang -%}
+{%- assign cc_t = site.data.i18n[cc_lang].cta_communaute -%}
+<aside class="post-cta cta-communaute" aria-labelledby="cta-communaute-title">
+  <h2 id="cta-communaute-title">{{ cc_t.title }}</h2>
+  <p>{{ cc_t.text }}</p>
+  <p class="post-cta__actions">
+    <a class="btn btn-primary btn--lg" href="{{ site.cta.join_url }}">{{ cc_t.button }}</a>
+  </p>
+</aside>

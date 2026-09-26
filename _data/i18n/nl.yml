@@ -11,8 +11,11 @@ nav:
   glossary: "Woordenlijst"
   guides: "Gidsen"
   solutions: "Oplossingen"
+  join: "Aansluiten bij een gemeenschap"
+  manage: "Een gemeenschap beheren of oprichten"
+  join_short: "Aansluiten"
+  manage_short: "Beheren of oprichten"
   get_started: "Beginnen"
-  github: "GitHub"
   links: "Links"
   guide: "Gebruikershandleiding"
   privacy: "Privacy"
@@ -23,8 +26,6 @@ hero:
   subtitle: >-
     OptimCE vereenvoudigt het beheer van leden, meters en energiedeling
     binnen uw hernieuwbare-energiegemeenschap.
-  cta_primary: "Nu beginnen"
-  cta_secondary: "Bekijk op GitHub"
 
 # Features Section
 features:
@@ -162,6 +163,12 @@ guides:
   count_other: "gidsen"
   more_guides: "Meer gidsen"
   other_pillars: "Andere thema's"
+
+# End-of-guide block (_includes/cta-communaute.html)
+cta_communaute:
+  title: "Aansluiten bij een energiegemeenschap in uw buurt"
+  text: "Blader in de OptimCE-app door de deelacties die openstaan voor nieuwe leden en neem contact op met de deelactie die bij u past."
+  button: "Een gemeenschap vinden"
 
 # Glossary
 glossary:
