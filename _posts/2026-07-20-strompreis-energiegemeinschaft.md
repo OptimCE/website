@@ -23,7 +23,7 @@ faq:
   - q: "Braucht es eine Liefergenehmigung, um den Mitgliedern geteilte Energie zu verkaufen?"
     a: "Nein, innerhalb des Teilungsperimeters. In der Wallonie stellt der SPW klar, dass geteilter Strom nicht als Liefervorgang gilt. In Brüssel sagt die Ordonnanz ausdrücklich, dass die Gemeinschaft „für den in ihrem Inneren geteilten Strom nicht den Pflichten unterliegt, die den Lieferanten obliegen“. Die Befreiung endet am Perimeter der Teilnehmer: Ein Verkauf darüber hinaus fällt unter die Genehmigungspflicht."
   - q: "Welche Mehrwertsteuer gilt für geteilten Strom?"
-    a: "6 % für private Mitglieder und 21 % für gewerbliche Mitglieder: Eine Gemeinschaft mit gemischter Mitgliedschaft fakturiert also zu zwei Sätzen. Unter 25.000 € Jahresumsatz exkl. MwSt. kann die Kleinunternehmerregelung greifen. Lassen Sie Ihre Situation vom FÖD Finanzen oder von Ihrem Buchhalter prüfen."
+    a: "6 % für private Mitglieder und 21 % für gewerbliche Mitglieder: Eine Gemeinschaft mit gemischter Mitgliedschaft fakturiert also zu zwei Sätzen. Unter 25 000 € Jahresumsatz exkl. MwSt. kann die Kleinunternehmerregelung greifen. Lassen Sie Ihre Situation vom FÖD Finanzen oder von Ihrem Buchhalter prüfen."
   - q: "Wie oft sollte der Preis überprüft werden?"
     a: "Mindestens einmal jährlich, in der Generalversammlung — so hält es die Brüsseler Gemeinschaft Énergie Solidaire du Balai. Ein eingefrorener Preis benachteiligt am Ende immer jemanden, während sich der Markt bewegt: entweder die Erzeuger, wenn die Preise steigen, oder die Verbraucher, wenn sie einbrechen."
 ---
@@ -38,7 +38,7 @@ Wenn Ihnen die Mechanik der Energieteilung noch fremd ist, beginnen Sie mit unse
 
 Das ist der Irrtum Nummer eins, und er vergiftet die Generalversammlungen: zu glauben, ein interner Preis von 14 c€/kWh lasse die Mitglieder 14 c€/kWh zahlen. Dem ist nicht so.
 
-Eine belgische Stromrechnung gliedert sich in vier Blöcke. Hier ihr tatsächliches Gewicht laut dem monatlichen Dashboard der CREG für **Juni 2026** (typisches Haushaltsprofil, 3.500 kWh/Jahr, Eintarif):
+Eine belgische Stromrechnung gliedert sich in vier Blöcke. Hier ihr tatsächliches Gewicht laut dem monatlichen Dashboard der CREG für **Juni 2026** (typisches Haushaltsprofil, 3 500 kWh/Jahr, Eintarif):
 
 | Komponente | Belgien | Flandern | Brüssel | Wallonie |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ Zwei praktische Folgen:
 
 Zum vereinbarten Preis kommen auf der Rechnung der Gemeinschaft selbst „die Mehrwertsteuer, die Akzisen und die gemeinwirtschaftliche Verpflichtung zur Rückgabe der Quoten an grünen Zertifikaten“ hinzu ([CWaPE](https://www.cwape.be/node/6063)). Wer diese Rechnung ausstellt und welche Angaben sie tragen muss, ist Gegenstand unseres Leitfadens [„Geteilten Strom in Belgien abrechnen“](/de/ratgeber/geteilten-strom-abrechnen-belgien/). Zwei Präzisierungen, über die viele Projekte stolpern:
 
-- **Die Mehrwertsteuer ist nicht einheitlich.** Der ermäßigte Satz von **6 % gilt für die Lieferung von Strom an einen Privatkunden**, gegenüber **21 % für einen gewerblichen Kunden**: Eine Gemeinschaft mit gemischter Mitgliedschaft muss also damit rechnen, zu zwei Sätzen zu fakturieren. Unter 25.000 € Jahresumsatz exkl. MwSt. kann die [Kleinunternehmerregelung](https://finances.belgium.be/fr/entreprises/tva/assujettissement-tva/regime-franchise-taxe) greifen. Kein Rundschreiben behandelt die Energieteilung ausdrücklich: Lassen Sie Ihre Situation vor der ersten Rechnung von Ihrem Buchhalter bestätigen.
+- **Die Mehrwertsteuer ist nicht einheitlich.** Der ermäßigte Satz von **6 % gilt für die Lieferung von Strom an einen Privatkunden**, gegenüber **21 % für einen gewerblichen Kunden**: Eine Gemeinschaft mit gemischter Mitgliedschaft muss also damit rechnen, zu zwei Sätzen zu fakturieren. Unter 25 000 € Jahresumsatz exkl. MwSt. kann die [Kleinunternehmerregelung](https://finances.belgium.be/fr/entreprises/tva/assujettissement-tva/regime-franchise-taxe) greifen. Kein Rundschreiben behandelt die Energieteilung ausdrücklich: Lassen Sie Ihre Situation vor der ersten Rechnung von Ihrem Buchhalter bestätigen.
 - **Den Bundesbeitrag gibt es nicht mehr.** Er wurde zum 31. Dezember 2021 abgeschafft und in die Sonderakzise überführt ([CREG](https://www.creg.be/fr/a-z-index/cotisation-federale)). Viele kursierende Dokumente erwähnen ihn noch: Übernehmen Sie ihn nicht in Ihre Simulationen.
 
 ## Die Netzentgelte sinken fast nie
@@ -105,7 +105,7 @@ Das *energiedelen* ist im flämischen Energiedekret als die **„kosteloos“** 
 
 Die ganze Preisdiskussion beruht auf einer einfachen Überlegung: **Jede Partei hat eine Alternative, und der Preis muss für beide besser sein als diese Alternative.**
 
-- **Die Untergrenze ist das, was der Erzeuger ohne die Gemeinschaft erhielte**: sein Einspeisetarif. In Belgien existiert kein regulierter Einspeisetarif — es ist ein kommerzieller Preis. Erhebung vom Mai 2026: **0,94 bis 4,90 c€/kWh** in Flandern und der Wallonie, 1,40 bis 4,81 c€/kWh in Brüssel ([Test-Achats](https://www.test-achats.be/maison-energie/energie-renouvelable/news/cout-energie-solaire-injectee)). Und diese Untergrenze kann negativ werden: Nahezu **29.000 flämische Prosumer** hatten 2025 mindestens einen Monat lang einen negativen Rückkauftarif — sie mussten für das Einspeisen *zahlen*.
+- **Die Untergrenze ist das, was der Erzeuger ohne die Gemeinschaft erhielte**: sein Einspeisetarif. In Belgien existiert kein regulierter Einspeisetarif — es ist ein kommerzieller Preis. Erhebung vom Mai 2026: **0,94 bis 4,90 c€/kWh** in Flandern und der Wallonie, 1,40 bis 4,81 c€/kWh in Brüssel ([Test-Achats](https://www.test-achats.be/maison-energie/energie-renouvelable/news/cout-energie-solaire-injectee)). Und diese Untergrenze kann negativ werden: Nahezu **29 000 flämische Prosumer** hatten 2025 mindestens einen Monat lang einen negativen Rückkauftarif — sie mussten für das Einspeisen *zahlen*.
 - **Die Obergrenze ist das, was der Verbraucher bereits zahlt**, allein für die Energiekomponente seines Vertrags: in der Größenordnung von **14 c€/kWh**.
 
 Zwischen 3 und 14 c€/kWh gewinnen alle. Darunter fährt der Erzeuger besser, wenn er die Gemeinschaft verlässt. Darüber der Verbraucher ebenso. **Der interne Verrechnungspreis ist also keine moralische Frage: Er ist eine Aufteilung des Überschusses, und die einzige echte Frage lautet, in welchem Verhältnis.**
@@ -238,7 +238,7 @@ Nein, **innerhalb des Teilungsperimeters**. In der Wallonie stellt der SPW klar,
 
 ### Welche Mehrwertsteuer gilt für geteilten Strom?
 
-**6 % für private Mitglieder und 21 % für gewerbliche Mitglieder**: Eine Gemeinschaft mit gemischter Mitgliedschaft fakturiert also zu zwei Sätzen. Unter 25.000 € Jahresumsatz exkl. MwSt. kann die Kleinunternehmerregelung greifen. Lassen Sie Ihre Situation vom FÖD Finanzen oder von Ihrem Buchhalter prüfen.
+**6 % für private Mitglieder und 21 % für gewerbliche Mitglieder**: Eine Gemeinschaft mit gemischter Mitgliedschaft fakturiert also zu zwei Sätzen. Unter 25 000 € Jahresumsatz exkl. MwSt. kann die Kleinunternehmerregelung greifen. Lassen Sie Ihre Situation vom FÖD Finanzen oder von Ihrem Buchhalter prüfen.
 
 ### Wie oft sollte der Preis überprüft werden?
 
@@ -259,4 +259,4 @@ Nein, **innerhalb des Teilungsperimeters**. In der Wallonie stellt der SPW klar,
 - [Renouvelle — Beispielrechnungen zur Wirtschaftlichkeit einer Stromteilung in der Wallonie](https://www.renouvelle.be/fr/exemples-calculs-de-rentabilite-economique-dun-partage-delectricite-en-wallonie/) — praktizierte interne Preise und Auswirkung der Lieferantengebühren.
 - [Test-Achats — Kosten des ins Netz eingespeisten Solarstroms](https://www.test-achats.be/maison-energie/energie-renouvelable/news/cout-energie-solaire-injectee) — Spanne der Einspeisetarife in Belgien, Mai 2026.
 - [Elexys — BELIX, Monatsmittel des belgischen Day-Ahead-Markts](https://www.elexys.be/en/insights/belix-average-day-ahead-spot-be) — Großhandelspreise Base, Peak und Off-Peak.
-- [FÖD Finanzen — Steuerbefreiungsregelung](https://finances.belgium.be/fr/entreprises/tva/assujettissement-tva/regime-franchise-taxe) — Schwelle von 25.000 € für Kleinunternehmen.
+- [FÖD Finanzen — Steuerbefreiungsregelung](https://finances.belgium.be/fr/entreprises/tva/assujettissement-tva/regime-franchise-taxe) — Schwelle von 25 000 € für Kleinunternehmen.

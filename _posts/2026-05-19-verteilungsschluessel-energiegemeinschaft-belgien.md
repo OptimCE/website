@@ -127,7 +127,7 @@ Kein Schlüssel ist universell „der beste“. Die richtige Wahl hängt vom Pro
 
 ### 2. Wie unterschiedlich sind die Verbrauchsprofile?
 
-Ein Wohnviertel mit ähnlichen Profilen (~3.500 kWh/Jahr pro Haushalt) funktioniert hervorragend mit einem **egalitären festen Schlüssel**. Sobald jedoch ein Großverbraucher hinzukommt — eine Schule, eine Gemeinde, ein KMU — ist strikte Gleichheit nicht mehr optimal: Der dem Großverbraucher zugewiesene Anteil bleibt unausgenutzt, während seine Nachbarn ihren Überschuss weiter zum Markttarif zahlen. In diesem Fall holt ein **dynamischer / Prorata- / optimaler Schlüssel** zurück, was sonst verloren ginge.
+Ein Wohnviertel mit ähnlichen Profilen (~3 500 kWh/Jahr pro Haushalt) funktioniert hervorragend mit einem **egalitären festen Schlüssel**. Sobald jedoch ein Großverbraucher hinzukommt — eine Schule, eine Gemeinde, ein KMU — ist strikte Gleichheit nicht mehr optimal: Der dem Großverbraucher zugewiesene Anteil bleibt unausgenutzt, während seine Nachbarn ihren Überschuss weiter zum Markttarif zahlen. In diesem Fall holt ein **dynamischer / Prorata- / optimaler Schlüssel** zurück, was sonst verloren ginge.
 
 ### 3. Welche finanzielle Vorhersehbarkeit erwarten die Mitglieder?
 

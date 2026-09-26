@@ -17,11 +17,11 @@ faq:
   - q: "Wie rechnet man geteilten Strom in einem Gebäude in Belgien ab?"
     a: "Der Vertreter der Energieteilung — in einer Eigentümergemeinschaft häufig der Hausverwalter (Syndic) — übernimmt die vom Netzbetreiber übermittelten geteilten Mengen je EAN, wendet den in der Vereinbarung festgelegten internen Preis an und stellt dann je Mitglied eine Rechnung aus, mit MwSt., lückenloser Nummerierung und strukturierter Mitteilung. In der Wallonie genießt das Teilen innerhalb eines einzigen Gebäudes zusätzlich eine Ermäßigung von 80 % auf die proportionalen Bestandteile des Netztarifs — ein Vorteil, der dem Gebäude vorbehalten ist, nicht der Gemeinschaft."
   - q: "Welcher MwSt.-Satz gilt für geteilten Strom?"
-    a: "6 % für private Mitglieder und 21 % für gewerbliche Mitglieder: Eine Gemeinschaft mit gemischter Mitgliedschaft fakturiert also zu zwei Sätzen. Unter 25.000 € Jahresumsatz exkl. MwSt. kann die Kleinunternehmerregelung von der MwSt.-Verrechnung befreien. Kein Rundschreiben behandelt die Energieteilung ausdrücklich: Lassen Sie Ihre Situation vor der ersten Rechnung vom FÖD Finanzen oder Ihrem Buchhalter prüfen."
+    a: "6 % für private Mitglieder und 21 % für gewerbliche Mitglieder: Eine Gemeinschaft mit gemischter Mitgliedschaft fakturiert also zu zwei Sätzen. Unter 25 000 € Jahresumsatz exkl. MwSt. kann die Kleinunternehmerregelung von der MwSt.-Verrechnung befreien. Kein Rundschreiben behandelt die Energieteilung ausdrücklich: Lassen Sie Ihre Situation vor der ersten Rechnung vom FÖD Finanzen oder Ihrem Buchhalter prüfen."
   - q: "Was ist der Unterschied zwischen der Rechnung des Lieferanten und der Teilungsrechnung?"
     a: "Sie decken nicht dieselbe Energie ab. Die Rechnung des Lieferanten betrifft die Restenergie — die das Teilen nicht abgedeckt hat — sowie die Netzentgelte (berechnet auf die gesamten bezogenen kWh) und die regionalen Steuern. Die Rechnung des Vertreters der Energieteilung betrifft nur die geteilte Energie, bewertet zum internen Preis, zuzüglich MwSt., Akzisen und der gemeinwirtschaftlichen Verpflichtung zur Rückgabe der Quoten grüner Zertifikate."
   - q: "Muss die Gemeinschaft mehrwertsteuerpflichtig werden?"
-    a: "Sobald sie ihren Mitgliedern Energie in Rechnung stellt, übt die Gemeinschaft grundsätzlich eine mehrwertsteuerpflichtige wirtschaftliche Tätigkeit aus. Die Kleinunternehmerregelung (Jahresumsatz unter 25.000 € exkl. MwSt.) kann sie dennoch von der MwSt.-Verrechnung befreien. Das ist eine Entscheidung, die mit einem Buchhalter je Struktur zu treffen ist: Sie bestimmt die Angaben auf Ihren Rechnungen und Ihre Meldepflichten."
+    a: "Sobald sie ihren Mitgliedern Energie in Rechnung stellt, übt die Gemeinschaft grundsätzlich eine mehrwertsteuerpflichtige wirtschaftliche Tätigkeit aus. Die Kleinunternehmerregelung (Jahresumsatz unter 25 000 € exkl. MwSt.) kann sie dennoch von der MwSt.-Verrechnung befreien. Das ist eine Entscheidung, die mit einem Buchhalter je Struktur zu treffen ist: Sie bestimmt die Angaben auf Ihren Rechnungen und Ihre Meldepflichten."
   - q: "Was muss eine Rechnung über geteilte Energie enthalten?"
     a: "Die Angaben einer ordnungsgemäßen belgischen Rechnung: eine Nummer in einer fortlaufenden, lückenlosen Reihe, das Ausstellungsdatum und die Fälligkeit, Identität und Mehrwertsteuernummer von Aussteller und Empfänger, die Aufschlüsselung der geteilten kWh je EAN multipliziert mit dem Einheitspreis, den Betrag ohne MwSt., den MwSt.-Satz und -Betrag sowie eine strukturierte Mitteilung und die IBAN der Gemeinschaft. Eine ausgestellte Rechnung wird nie durch Bearbeitung korrigiert: Man stellt eine Gutschrift aus, die sie storniert, und fakturiert neu."
 ---
@@ -72,7 +72,7 @@ Sobald eine Gemeinschaft ihren Mitgliedern Energie in Rechnung stellt, übt sie 
 
 Eine praktische Folge, die oft zu spät entdeckt wird: Eine Gemeinschaft mit gemischter Mitgliedschaft — Haushalte *und* Unternehmen — muss **zu zwei Sätzen fakturieren**. Der Preis pro kWh ist derselbe; die darauf angewandte MwSt. nicht.
 
-Bleibt die Frage der Registrierung. Grundsätzlich macht die Tätigkeit der Energieabrechnung die Struktur mehrwertsteuerpflichtig, mit den damit verbundenen Pflichten: Identifizierung, Rechnungsangaben, Erklärungen. Doch unter **25.000 € Jahresumsatz exkl. MwSt.** kann die [Kleinunternehmerregelung](https://finances.belgium.be/fr/entreprises/tva/assujettissement-tva/regime-franchise-taxe) die Gemeinschaft von der MwSt.-Verrechnung befreien — der Fall vieler kleiner Teilungen. Es existiert **kein eigenes Rundschreiben zur Energieteilung**: Legen Sie Ihre Regelung nicht anhand eines Forenbeitrags oder einer online gefundenen Vorlage fest. Lassen Sie Ihre Situation vom [FÖD Finanzen](https://finances.belgium.be/fr/entreprises/tva) oder Ihrem Buchhalter prüfen, **bevor** Sie die erste Rechnung ausstellen — es ist die Entscheidung, die alle folgenden Angaben bestimmt.
+Bleibt die Frage der Registrierung. Grundsätzlich macht die Tätigkeit der Energieabrechnung die Struktur mehrwertsteuerpflichtig, mit den damit verbundenen Pflichten: Identifizierung, Rechnungsangaben, Erklärungen. Doch unter **25 000 € Jahresumsatz exkl. MwSt.** kann die [Kleinunternehmerregelung](https://finances.belgium.be/fr/entreprises/tva/assujettissement-tva/regime-franchise-taxe) die Gemeinschaft von der MwSt.-Verrechnung befreien — der Fall vieler kleiner Teilungen. Es existiert **kein eigenes Rundschreiben zur Energieteilung**: Legen Sie Ihre Regelung nicht anhand eines Forenbeitrags oder einer online gefundenen Vorlage fest. Lassen Sie Ihre Situation vom [FÖD Finanzen](https://finances.belgium.be/fr/entreprises/tva) oder Ihrem Buchhalter prüfen, **bevor** Sie die erste Rechnung ausstellen — es ist die Entscheidung, die alle folgenden Angaben bestimmt.
 
 ## Akzisen und grüne Zertifikate: die Abgaben, die der Vertreter weitergibt
 
@@ -156,7 +156,7 @@ Der Vertreter der Energieteilung — in einer Eigentümergemeinschaft häufig de
 
 ### Welcher MwSt.-Satz gilt für geteilten Strom?
 
-**6 % für private Mitglieder und 21 % für gewerbliche Mitglieder**: Eine Gemeinschaft mit gemischter Mitgliedschaft fakturiert also zu zwei Sätzen. Unter 25.000 € Jahresumsatz exkl. MwSt. kann die Kleinunternehmerregelung von der MwSt.-Verrechnung befreien. Kein Rundschreiben behandelt die Energieteilung ausdrücklich: Lassen Sie Ihre Situation vor der ersten Rechnung vom FÖD Finanzen oder Ihrem Buchhalter prüfen.
+**6 % für private Mitglieder und 21 % für gewerbliche Mitglieder**: Eine Gemeinschaft mit gemischter Mitgliedschaft fakturiert also zu zwei Sätzen. Unter 25 000 € Jahresumsatz exkl. MwSt. kann die Kleinunternehmerregelung von der MwSt.-Verrechnung befreien. Kein Rundschreiben behandelt die Energieteilung ausdrücklich: Lassen Sie Ihre Situation vor der ersten Rechnung vom FÖD Finanzen oder Ihrem Buchhalter prüfen.
 
 ### Was ist der Unterschied zwischen der Rechnung des Lieferanten und der Teilungsrechnung?
 
@@ -164,7 +164,7 @@ Sie decken nicht dieselbe Energie ab. Die Rechnung des **Lieferanten** betrifft 
 
 ### Muss die Gemeinschaft mehrwertsteuerpflichtig werden?
 
-Sobald sie ihren Mitgliedern Energie in Rechnung stellt, übt die Gemeinschaft grundsätzlich eine mehrwertsteuerpflichtige wirtschaftliche Tätigkeit aus. Die Kleinunternehmerregelung (Jahresumsatz unter 25.000 € exkl. MwSt.) kann sie dennoch von der MwSt.-Verrechnung befreien. Das ist eine Entscheidung, die mit einem Buchhalter je Struktur zu treffen ist: Sie bestimmt die Angaben auf Ihren Rechnungen und Ihre Meldepflichten.
+Sobald sie ihren Mitgliedern Energie in Rechnung stellt, übt die Gemeinschaft grundsätzlich eine mehrwertsteuerpflichtige wirtschaftliche Tätigkeit aus. Die Kleinunternehmerregelung (Jahresumsatz unter 25 000 € exkl. MwSt.) kann sie dennoch von der MwSt.-Verrechnung befreien. Das ist eine Entscheidung, die mit einem Buchhalter je Struktur zu treffen ist: Sie bestimmt die Angaben auf Ihren Rechnungen und Ihre Meldepflichten.
 
 ### Was muss eine Rechnung über geteilte Energie enthalten?
 
@@ -180,5 +180,5 @@ Die Angaben einer ordnungsgemäßen belgischen Rechnung: eine Nummer in einer fo
 - [ORES / Federia — Erläuternder Abrechnungsleitfaden für den Vertreter einer Energieteilung](https://media.ores.be/ores-cms/vi2eqxam/ores_guide_explicatif_facturation_representant_partage_energie_fr.pdf) — Empfang der Dateien, Lesen der Daten und Ausstellung der Rechnungen durch den Vertreter.
 - [Test-Achats — Die Energieteilung](https://www.test-achats.be/maison-energie/energie-renouvelable/dossier/partage-energie) — Verbraucherdossier mit konkretem Gebäudefall und doppelter Abrechnung.
 - [FÖD Finanzen — MwSt.](https://finances.belgium.be/fr/entreprises/tva) — Pflichten zur Rechnungsstellung, Buchführung und MwSt. für belgische Unternehmen und juristische Personen.
-- [FÖD Finanzen — Steuerbefreiungsregelung](https://finances.belgium.be/fr/entreprises/tva/assujettissement-tva/regime-franchise-taxe) — Schwelle von 25.000 € für Kleinunternehmen.
+- [FÖD Finanzen — Steuerbefreiungsregelung](https://finances.belgium.be/fr/entreprises/tva/assujettissement-tva/regime-franchise-taxe) — Schwelle von 25 000 € für Kleinunternehmen.
 - [CREG — Föderaler Beitrag](https://www.creg.be/fr/a-z-index/cotisation-federale) — Abschaffung am 31. Dezember 2021.

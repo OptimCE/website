@@ -127,7 +127,7 @@ Geen enkele sleutel is universeel “het beste”. De juiste keuze hangt af van 
 
 ### 2. Hoe divers zijn de verbruiksprofielen?
 
-Een woonwijk met vergelijkbare profielen (~3.500 kWh/jaar per gezin) werkt zeer goed met een **egalitaire vaste sleutel**. Maar zodra een grootverbruiker toetreedt — een school, een gemeente, een kmo — is strikte gelijkheid niet meer optimaal: het aandeel toegewezen aan de grootverbruiker wordt onderbenut, terwijl zijn buren hun overschot aan markttarief blijven betalen. In dat geval recupereert een **dynamische / prorata / optimale sleutel** wat anders verloren zou gaan.
+Een woonwijk met vergelijkbare profielen (~3 500 kWh/jaar per gezin) werkt zeer goed met een **egalitaire vaste sleutel**. Maar zodra een grootverbruiker toetreedt — een school, een gemeente, een kmo — is strikte gelijkheid niet meer optimaal: het aandeel toegewezen aan de grootverbruiker wordt onderbenut, terwijl zijn buren hun overschot aan markttarief blijven betalen. In dat geval recupereert een **dynamische / prorata / optimale sleutel** wat anders verloren zou gaan.
 
 ### 3. Welke financiële voorspelbaarheid verwachten de leden?
 

@@ -13,20 +13,20 @@ last_modified_at: 2026-09-22 06:00:00 +0200
 permalink: /de/ratgeber/solaranlage-rentabel-wallonien/
 faq:
   - q: "Lohnen sich Solaranlagen in Wallonien 2026 noch?"
-    a: "Ja, aber mit längerer Amortisationszeit als zur Zeit der Kompensation und deutlich abhängiger von Ihrem Verbrauchsprofil. Bei einem illustrativen Fall von 4 kWp für 6.000 € inklusive Mehrwertsteuer, mit 3.800 kWh Jahresertrag und einer Eigenverbrauchsquote von 37,76 %, liegt der Jahresgewinn bei rund 613 € — davon 530 € aus Strom, den Sie nicht mehr bezahlen, und nur 83 € aus dem Verkauf des Überschusses. Das ergibt rund zehn Jahre, gegenüber sechs Jahren, die die Wallonische Region 2023 für eine Anlage mit 40 % Eigenverbrauch nannte. Der Unterschied zwischen einer guten und einer schlechten Anlage liegt nicht mehr im Angebotspreis, sondern im Anteil der Produktion, den Sie selbst verbrauchen."
+    a: "Ja, aber mit längerer Amortisationszeit als zur Zeit der Kompensation und deutlich abhängiger von Ihrem Verbrauchsprofil. Bei einem illustrativen Fall von 4 kWp für 6 000 € inklusive Mehrwertsteuer, mit 3 800 kWh Jahresertrag und einer Eigenverbrauchsquote von 37,76 %, liegt der Jahresgewinn bei rund 613 € — davon 530 € aus Strom, den Sie nicht mehr bezahlen, und nur 83 € aus dem Verkauf des Überschusses. Das ergibt rund zehn Jahre, gegenüber sechs Jahren, die die Wallonische Region 2023 für eine Anlage mit 40 % Eigenverbrauch nannte. Der Unterschied zwischen einer guten und einer schlechten Anlage liegt nicht mehr im Angebotspreis, sondern im Anteil der Produktion, den Sie selbst verbrauchen."
   - q: "Was passiert mit meiner Anlage nach dem 31. Dezember 2030?"
     a: "Wurde Ihre Anlage vor dem 1. Januar 2024 in Betrieb genommen, gilt die Kompensation bis zum 31. Dezember 2030. An diesem Tag endet sie, und Ihre Anlage fällt in die allgemeine Regelung: Entnahme und Einspeisung werden getrennt gezählt, abgerechnet wird auf die Bruttoentnahme, und der Überschuss wird zum Einspeisetarif Ihres Lieferanten verkauft. Konkret sinkt der Wert jeder überschüssigen Kilowattstunde von etwa 37 Cent auf etwa 3. Deshalb wird die Frage des Energieteilens, die für Sie heute nicht dringend ist, zu diesem Termin zwangsläufig aktuell. Es lohnt sich, schon jetzt zu wissen, welche Teilungsvorhaben es in Ihrer Nähe gibt."
   - q: "Muss man auf die Kompensation verzichten, um am Energieteilen teilzunehmen?"
     a: "Ja, und das ist der am wenigsten bekannte Punkt der ganzen Frage. Die CWaPE knüpft die Teilnahme an ein Energieteilen an zwei Bedingungen: einen elektronischen Kommunikationszähler oder AMR-Zähler zu besitzen und auf den Vorteil der Kompensation zu verzichten. ORES bestätigt es aus Sicht des Netzbetreibers: Wer seine Einspeisung verkauft oder einem Teilungsvorhaben beitritt, wechselt automatisch in die Vermarktungsregelung der Einspeisung. Die jährliche Kompensation ist mit dem Teilen schlicht unvereinbar, denn dieses beruht auf einem sofortigen Abgleich zwischen Erzeugung und Verbrauch, Viertelstunde für Viertelstunde. Bei einer ab 2024 in Betrieb genommenen Anlage stellt sich die Frage nicht: Es gibt nichts aufzugeben."
   - q: "Wie viel ist mein Solarüberschuss wert, wenn ich ihn nicht teile?"
-    a: "Sehr wenig. Laut dem Vergleich von Test-Achats vom 28. Mai 2026 reicht der Einspeisetarif in Flandern und Wallonien von 0,94 c€/kWh bei Mega Zen Fixed bis 4,90 c€/kWh bei Energy Knights und Eneco, im Mittel 3 bis 4 Cent. Bei 2.500 eingespeisten kWh macht der Abstand zwischen bestem und schlechtestem Vertrag 23 bis 122 € im Jahr aus. Keiner dieser Tarife ist in Belgien reguliert, und mehrere folgen dem Großhandelsmarkt — was dynamische Verträge genau in den Stunden, in denen Ihr Dach am meisten produziert, Null- oder sogar Negativpreisen aussetzt."
+    a: "Sehr wenig. Laut dem Vergleich von Test-Achats vom 28. Mai 2026 reicht der Einspeisetarif in Flandern und Wallonien von 0,94 c€/kWh bei Mega Zen Fixed bis 4,90 c€/kWh bei Energy Knights und Eneco, im Mittel 3 bis 4 Cent. Bei 2 500 eingespeisten kWh macht der Abstand zwischen bestem und schlechtestem Vertrag 23 bis 122 € im Jahr aus. Keiner dieser Tarife ist in Belgien reguliert, und mehrere folgen dem Großhandelsmarkt — was dynamische Verträge genau in den Stunden, in denen Ihr Dach am meisten produziert, Null- oder sogar Negativpreisen aussetzt."
   - q: "Batterie oder Energieteilen: was lohnt sich für den Überschuss?"
-    a: "Beides konkurriert nicht, sondern wirkt an verschiedenen Stellen. Eine Batterie wandelt Überschuss in zeitversetzten Eigenverbrauch und hebt die Eigenverbrauchsquote von 30-40 % auf 70-80 %, was mehrere hundert Euro im Jahr wert ist — sie kostet aber 4.250 bis 7.250 € für 5 bis 10 kWh, Wallonien zahlt keine Speicherprämie, und ihre eigene Amortisation liegt bei knapp fünfzehn Jahren. Das Energieteilen bringt weniger, kostet aber kein Kapital: Es verwertet, was nach dem Eigenverbrauch übrig bleibt, zu ausgehandelten 3 bis 14 c€/kWh statt zum Einspeisetarif. Die logische Reihenfolge lautet daher: zuerst den Verbrauch verschieben, dann teilen, und erst dann eine Batterie erwägen, wenn der Restüberschuss es noch rechtfertigt."
+    a: "Beides konkurriert nicht, sondern wirkt an verschiedenen Stellen. Eine Batterie wandelt Überschuss in zeitversetzten Eigenverbrauch und hebt die Eigenverbrauchsquote von 30-40 % auf 70-80 %, was mehrere hundert Euro im Jahr wert ist — sie kostet aber 4 250 bis 7 250 € für 5 bis 10 kWh, Wallonien zahlt keine Speicherprämie, und ihre eigene Amortisation liegt bei knapp fünfzehn Jahren. Das Energieteilen bringt weniger, kostet aber kein Kapital: Es verwertet, was nach dem Eigenverbrauch übrig bleibt, zu ausgehandelten 3 bis 14 c€/kWh statt zum Einspeisetarif. Die logische Reihenfolge lautet daher: zuerst den Verbrauch verschieben, dann teilen, und erst dann eine Batterie erwägen, wenn der Restüberschuss es noch rechtfertigt."
   - q: "Kann ich meinen Strom teilen, wenn ich nach 2024 installiert habe?"
     a: "Ja, und das ist der günstigste Fall. Eine ab dem 1. Januar 2024 in Betrieb genommene Anlage hat bereits einen Zweirichtungszähler und genießt keine Kompensation: Sie müssen also nichts aufgeben, um einem Teilungsvorhaben beizutreten. Das einzige Hindernis ist das Angebot, und es ist in Wallonien dünn — die im März 2025 veröffentlichte Bewertung der CWaPE zählte 4 Teilungsvorhaben innerhalb desselben Gebäudes und 3 innerhalb einer Energiegemeinschaft, und das Peer-to-Peer-Teilen bleibt mangels Ausführungserlass funktionslos. Offen sind zwei Wege: das Teilen innerhalb desselben Gebäudes, das nach der ORES-Tarifliste 2026 eine Ermäßigung von 80 % auf den proportionalen Term genießt, und der Beitritt zu einer bestehenden Gemeinschaft."
 ---
 
-Die Frage passt in einen Satz, und ganz Wallonien stellt sie sich seit zwei Jahren: **lohnt sich das überhaupt noch?** Die kollektive Antwort liegt bereits vor, und sie ist messbar. Nach der von Renouvelle am 16. Februar 2026 veröffentlichten Bilanz hat Wallonien 2025 nur **rund 100 MWp** Photovoltaikleistung zugebaut. Um sein Ziel von 5.100 GWh pro Jahr zu erreichen — also etwa **6 GWp installiert bis 2030** — wären **500 bis 600 pro Jahr** nötig. Der wallonische Markt läuft damit mit weniger als einem Fünftel des erforderlichen Tempos.
+Die Frage passt in einen Satz, und ganz Wallonien stellt sie sich seit zwei Jahren: **lohnt sich das überhaupt noch?** Die kollektive Antwort liegt bereits vor, und sie ist messbar. Nach der von Renouvelle am 16. Februar 2026 veröffentlichten Bilanz hat Wallonien 2025 nur **rund 100 MWp** Photovoltaikleistung zugebaut. Um sein Ziel von 5 100 GWh pro Jahr zu erreichen — also etwa **6 GWp installiert bis 2030** — wären **500 bis 600 pro Jahr** nötig. Der wallonische Markt läuft damit mit weniger als einem Fünftel des erforderlichen Tempos.
 
 Das ist kein Technologie- und kein Materialpreisproblem: Module waren nie günstiger, und Belgien überschritt Ende 2025 die **12,8 GWp**, mit mehr als 10 TWh Ertrag, laut ELIA rund 13 % des nationalen Stromverbrauchs. Es ist ein Problem des **Geschäftsmodells**. Seit dem 1. Januar 2024 genießt eine neue wallonische Anlage keine Kompensation mehr; es gibt weder eine direkte regionale Prämie noch ein grünes Zertifikat für Privathaushalte. Und vor allem: Eine Kilowattstunde, die Sie selbst verbrauchen, bringt Ihnen etwa **37 Cent**, dieselbe ins Netz eingespeiste Kilowattstunde **3**.
 
@@ -67,7 +67,7 @@ Für eine neue private Photovoltaikanlage in Wallonien gibt es **weder eine dire
 | Instrument | Was es ist | Bedingungen |
 |---|---|---|
 | **6 % Mehrwertsteuer** | Statt 21 % | Wohnung mindestens 10 Jahre alt, Lieferung **und** Montage durch den Unternehmer, Bescheinigung des Kunden. Ein Verkauf ohne Montage bleibt bei 21 %. |
-| **Rénoprêt** | Zinsloses Darlehen, bis 60.000 € | Über die SWCS, unter Einkommens- und Arbeitsbedingungen |
+| **Rénoprêt** | Zinsloses Darlehen, bis 60 000 € | Über die SWCS, unter Einkommens- und Arbeitsbedingungen |
 | **Einspeisetarif** | Vergütung des Überschusses | Nicht reguliert, von jedem Lieferanten frei festgelegt |
 | **Gemeindeprämien** | Unterschiedlich, oft einige hundert Euro | Im Einzelfall bei der Gemeinde zu prüfen |
 
@@ -84,11 +84,11 @@ Nehmen wir einen konkreten Fall. **Er ist illustrativ**: Ihr Dach, Ihr Verbrauch
 | Parameter | Angesetzter Wert | Herkunft |
 |---|---|---|
 | Installierte Leistung | 4 kWp | Übliche Wohnhausgröße |
-| Gesamtkosten | **6.000 € brutto** | Test-Achats setzt die besten Angebote unter 1.250 €/kWp an; die reale Marktspanne reicht von 1.250 bis 1.800 €/kWp |
-| Ertrag | 950 kWh/kWp/Jahr → **3.800 kWh/Jahr** | Süd, 35°, ohne Verschattung — Annahmen des wallonischen Simulators von Énergie Commune |
-| Eigenverbrauchsquote | **37,76 %** → 1.435 kWh | Standardwert desselben Simulators; Test-Achats nennt 30 bis 50 % ohne Batterie |
-| Eingespeister Überschuss | **2.365 kWh** | Der Rest |
-| Vermiedener Strompreis | **36,94 c€/kWh** all-in | CREG-Dashboard, Juni 2026, Wohnprofil 3.500 kWh/Jahr |
+| Gesamtkosten | **6 000 € brutto** | Test-Achats setzt die besten Angebote unter 1 250 €/kWp an; die reale Marktspanne reicht von 1 250 bis 1 800 €/kWp |
+| Ertrag | 950 kWh/kWp/Jahr → **3 800 kWh/Jahr** | Süd, 35°, ohne Verschattung — Annahmen des wallonischen Simulators von Énergie Commune |
+| Eigenverbrauchsquote | **37,76 %** → 1 435 kWh | Standardwert desselben Simulators; Test-Achats nennt 30 bis 50 % ohne Batterie |
+| Eingespeister Überschuss | **2 365 kWh** | Der Rest |
+| Vermiedener Strompreis | **36,94 c€/kWh** all-in | CREG-Dashboard, Juni 2026, Wohnprofil 3 500 kWh/Jahr |
 | Einspeisetarif | **3,5 c€/kWh** | Von Test-Achats am 28. Mai 2026 genannter Mittelwert (Spanne 0,94 bis 4,90) |
 | Inbetriebnahme | 2026 | Also ohne Kompensation, mit Zweirichtungszähler |
 
@@ -96,11 +96,11 @@ Nehmen wir einen konkreten Fall. **Er ist illustrativ**: Ihr Dach, Ihr Verbrauch
 
 | Posten | Menge | Einheitswert | Jahresgewinn |
 |---|---|---|---|
-| Selbst verbrauchter Strom | 1.435 kWh | 36,94 c€ | **530 €** |
-| Eingespeister Überschuss | 2.365 kWh | 3,5 c€ | **83 €** |
-| **Gesamt** | 3.800 kWh | | **613 €** |
+| Selbst verbrauchter Strom | 1 435 kWh | 36,94 c€ | **530 €** |
+| Eingespeister Überschuss | 2 365 kWh | 3,5 c€ | **83 €** |
+| **Gesamt** | 3 800 kWh | | **613 €** |
 
-Einfache Amortisation: **6.000 / 613 ≈ 9,8 Jahre**. Zum Vergleich die **sechs Jahre**, die die Wallonische Region im Oktober 2023 für eine Anlage mit 40 % Eigenverbrauch nannte — eine Differenz, die im Wesentlichen auf den seitherigen Wertverfall des Überschusses zurückgeht.
+Einfache Amortisation: **6 000 / 613 ≈ 9,8 Jahre**. Zum Vergleich die **sechs Jahre**, die die Wallonische Region im Oktober 2023 für eine Anlage mit 40 % Eigenverbrauch nannte — eine Differenz, die im Wesentlichen auf den seitherigen Wertverfall des Überschusses zurückgeht.
 
 Die Rechnung bleibt bewusst einfach: Sie lässt die Strompreisinflation (2,5 %/Jahr in den Annahmen des wallonischen Simulators), die Moduldegradation (0,5 %/Jahr), den Wechselrichtertausch um das zwölfte Jahr und die Wartung außen vor. Diese Posten gleichen sich teilweise aus und ändern das Ergebnis nicht.
 
@@ -137,7 +137,7 @@ Es gibt nur drei mögliche Antworten, und es lohnt sich, sie nebeneinanderzustel
 |---|---|---|---|
 | Was es bewirkt | An den Lieferanten verkaufen | Verbrauch zeitlich verschieben | An andere Teilnehmer eines Teilungsvorhabens abgeben |
 | Wert je kWh | **0,94 bis 4,90 c€** | ≈ 36,94 c€ (zeitversetzter Eigenverbrauch) | **3 bis 14 c€** |
-| Investition | 0 € | **4.250 bis 7.250 €** für 5 bis 10 kWh | 0 € |
+| Investition | 0 € | **4 250 bis 7 250 €** für 5 bis 10 kWh | 0 € |
 | Wallonische Förderung | keine | **keine Speicherprämie** | keine, aber −80 % auf den proportionalen Term im selben Gebäude |
 | Eigene Amortisation | — | **knapp fünfzehn Jahre** | sofort |
 | Überall verfügbar | ja | ja | **nein** — siehe unten |
@@ -147,9 +147,9 @@ Drei Lesarten, und sie laufen nicht in die gewohnte Richtung.
 
 ### Die Batterie wirkt, ist aber teuer
 
-Das ist die vorherrschende Antwort von Vergleichsportalen und Installateuren, und sie ist nicht falsch: Eine Batterie hebt die Eigenverbrauchsquote von 30-40 % auf **70-80 %**. In unserem Fall bringt der Sprung von 37,76 % auf 75 % zusätzliche 1.415 kWh Eigenverbrauch, also **+473 € im Jahr**, abzüglich der auf diese Kilowattstunden entgangenen Einspeisevergütung.
+Das ist die vorherrschende Antwort von Vergleichsportalen und Installateuren, und sie ist nicht falsch: Eine Batterie hebt die Eigenverbrauchsquote von 30-40 % auf **70-80 %**. In unserem Fall bringt der Sprung von 37,76 % auf 75 % zusätzliche 1 415 kWh Eigenverbrauch, also **+473 € im Jahr**, abzüglich der auf diese Kilowattstunden entgangenen Einspeisevergütung.
 
-Aber 7.000 € für 473 € Jahresgewinn bedeuten **fast fünfzehn Jahre** Amortisation allein für die Batterie — etwa ihre Lebensdauer, und während Wallonien **keine Speicherprämie** zahlt, anders als Flandern bis 2023. Die oft genannten zehn bis dreizehn Jahre setzen einen größeren Überschuss als unseren voraus oder die Arbitrage zwischen den Bändern des Impact-Tarifs: Laden im ECO-Band mit 2,71 c€/kWh, Entladen im SPITZEN-Band mit 13,54 c€/kWh der ORES-Tarifliste 2026. Die Rechnung bessert sich auch, wenn Sie tagsüber außer Haus sind.
+Aber 7 000 € für 473 € Jahresgewinn bedeuten **fast fünfzehn Jahre** Amortisation allein für die Batterie — etwa ihre Lebensdauer, und während Wallonien **keine Speicherprämie** zahlt, anders als Flandern bis 2023. Die oft genannten zehn bis dreizehn Jahre setzen einen größeren Überschuss als unseren voraus oder die Arbitrage zwischen den Bändern des Impact-Tarifs: Laden im ECO-Band mit 2,71 c€/kWh, Entladen im SPITZEN-Band mit 13,54 c€/kWh der ORES-Tarifliste 2026. Die Rechnung bessert sich auch, wenn Sie tagsüber außer Haus sind.
 
 ### Die Einspeisung ist gratis, aber lächerlich
 
@@ -176,7 +176,7 @@ Das vertretbare Band liegt also bei **3 bis 14 c€/kWh**. Der dokumentierte bel
 
 ### Die Wirkung auf den Beispielfall
 
-Nehmen wir unsere 2.365 kWh Überschuss erneut.
+Nehmen wir unsere 2 365 kWh Überschuss erneut.
 
 | Verwendung des Überschusses | Einheitspreis | Ertrag des Überschusses | Jahresgewinn gesamt | Amortisation |
 |---|---|---|---|---|
@@ -208,29 +208,29 @@ Für eine Anlage nach 2024 kostet das nichts: Es gibt nichts aufzugeben. Für ei
 
 ### Die Abwägung in Zahlen
 
-Nehmen wir unseren Haushalt erneut, diesmal mit einer Anlage von 2022, die die Kompensation bis zum 31. Dezember 2030 behält. Er verbraucht 3.500 kWh im Jahr und erzeugt 3.800 kWh.
+Nehmen wir unseren Haushalt erneut, diesmal mit einer Anlage von 2022, die die Kompensation bis zum 31. Dezember 2030 behält. Er verbraucht 3 500 kWh im Jahr und erzeugt 3 800 kWh.
 
 | | **In der Kompensation bleiben** | **Verzichten und zu 6 c€ teilen** |
 |---|---|---|
-| Zum vollen Preis bewerteter Strom | 3.500 kWh (jährliche Kompensation) | 1.435 kWh (tatsächlicher Eigenverbrauch) |
-| Entsprechender Gewinn | 1.293 € | 530 € |
-| Bewerteter Überschuss | 300 kWh **unvergütet** | 2.365 kWh × 6 c€ = 142 € |
+| Zum vollen Preis bewerteter Strom | 3 500 kWh (jährliche Kompensation) | 1 435 kWh (tatsächlicher Eigenverbrauch) |
+| Entsprechender Gewinn | 1 293 € | 530 € |
+| Bewerteter Überschuss | 300 kWh **unvergütet** | 2 365 kWh × 6 c€ = 142 € |
 | Prosumer-Tarif | − 343 € (4 kWe × 85,84 € brutto) | in der Bruttoentnahme enthalten |
 | **Netto-Jahresgewinn** | **≈ 950 €** | **≈ 672 €** |
 
-Der Verzicht würde diesen Haushalt **rund 278 € im Jahr** kosten, bis Ende 2030 knapp **1.200 €**. Die Schlussfolgerung ist eindeutig: **nicht verzichten.**
+Der Verzicht würde diesen Haushalt **rund 278 € im Jahr** kosten, bis Ende 2030 knapp **1 200 €**. Die Schlussfolgerung ist eindeutig: **nicht verzichten.**
 
 ### Es sei denn, Ihre Anlage ist überdimensioniert
 
 Und hier kommt die Umkehr, die niemand veröffentlicht. Die Kompensation bewertet Ihre Erzeugung **nur bis zur Höhe Ihres eigenen Jahresverbrauchs**. Alles darüber hinaus wird nicht vergütet: Es geht kostenlos ans Netz.
 
-Nehmen wir also ein zweites Profil, das bei Haushalten mit großzügigem Zubau 2022-2023 sehr verbreitet ist: **6 kWp, 5.700 kWh Erzeugung, 2.500 kWh Verbrauch.**
+Nehmen wir also ein zweites Profil, das bei Haushalten mit großzügigem Zubau 2022-2023 sehr verbreitet ist: **6 kWp, 5 700 kWh Erzeugung, 2 500 kWh Verbrauch.**
 
 | | **In der Kompensation bleiben** | **Verzichten und zu 6 c€ teilen** |
 |---|---|---|
-| Zum vollen Preis bewerteter Strom | 2.500 kWh (durch den Verbrauch gedeckelt) | ≈ 1.425 kWh (25 % Eigenverbrauch) |
+| Zum vollen Preis bewerteter Strom | 2 500 kWh (durch den Verbrauch gedeckelt) | ≈ 1 425 kWh (25 % Eigenverbrauch) |
 | Entsprechender Gewinn | 924 € | 526 € |
-| Bewerteter Überschuss | 3.200 kWh **verloren** | 4.275 kWh × 6 c€ = 257 € |
+| Bewerteter Überschuss | 3 200 kWh **verloren** | 4 275 kWh × 6 c€ = 257 € |
 | Prosumer-Tarif | − 515 € (6 kWe × 85,84 € brutto) | in der Bruttoentnahme enthalten |
 | **Netto-Jahresgewinn** | **≈ 409 €** | **≈ 783 €** |
 
@@ -268,11 +268,11 @@ Seit dem 17. April 2025 können Sie auch selbst ein wenig erzeugen: Ein mobiles 
 
 ## Das Wichtigste in Kürze
 
-1. **Ja, es lohnt sich noch — rund zehn Jahre Amortisation** bei einem illustrativen Fall von 4 kWp für 6.000 €, gegenüber sechs Jahren, die 2023 genannt wurden. Die Differenz stammt fast vollständig aus dem Wertverfall des Überschusses.
+1. **Ja, es lohnt sich noch — rund zehn Jahre Amortisation** bei einem illustrativen Fall von 4 kWp für 6 000 €, gegenüber sechs Jahren, die 2023 genannt wurden. Die Differenz stammt fast vollständig aus dem Wertverfall des Überschusses.
 2. **62 % der Erzeugung bringen nur 13,5 % des Ertrags.** Dort und nirgends sonst entscheidet sich 2026 die Rentabilität einer wallonischen Anlage.
 3. **Der Einspeisetarif ist unreguliert und nicht steuerbar**: 0,94 bis 4,90 c€/kWh je nach Lieferant, im Mittel 3 bis 4 Cent, strukturell fallend.
 4. **Das Teilen verzwei- bis verdreifacht den Wert des Überschusses** und nimmt ein bis zwei Jahre von der Amortisation, ohne Investition. Es ist der einzige kostenlose Hebel auf die 62 %.
-5. **Eine Batterie bringt mehr, kostet aber 4.250 bis 7.250 €**, ohne wallonische Prämie, bei einer eigenen Amortisation von über zehn Jahren — in unserem Fall fast fünfzehn. Sie ergänzt das Teilen, statt mit ihm zu konkurrieren.
+5. **Eine Batterie bringt mehr, kostet aber 4 250 bis 7 250 €**, ohne wallonische Prämie, bei einer eigenen Amortisation von über zehn Jahren — in unserem Fall fast fünfzehn. Sie ergänzt das Teilen, statt mit ihm zu konkurrieren.
 6. **Die Teilnahme am Teilen bedeutet den endgültigen Verzicht auf die Kompensation.** Bei einer Anlage nach 2024 kostet das nichts. Bei einer älteren kann es rund 278 € im Jahr kosten — oder 374 € einbringen, wenn die Anlage überdimensioniert ist.
 7. **Der 31. Dezember 2030 stellt alle gleich.** An diesem Tag entfällt die Kompensation für alle, und die Frage des Überschusses wird die einzige, die zählt.
 
@@ -288,7 +288,7 @@ Was man nicht erwarten darf: Das Energieteilen macht aus einer schlechten Anlage
 
 ### Lohnen sich Solaranlagen in Wallonien 2026 noch?
 
-Ja, aber mit längerer Amortisationszeit als zur Zeit der Kompensation und deutlich abhängiger von Ihrem Verbrauchsprofil. Bei einem illustrativen Fall von 4 kWp für 6.000 € inklusive Mehrwertsteuer, mit 3.800 kWh Jahresertrag und einer Eigenverbrauchsquote von 37,76 %, liegt der Jahresgewinn bei rund **613 €** — davon 530 € aus Strom, den Sie nicht mehr bezahlen, und nur 83 € aus dem Verkauf des Überschusses. Das ergibt rund **zehn Jahre**, gegenüber sechs Jahren, die die Wallonische Region 2023 für eine Anlage mit 40 % Eigenverbrauch nannte. Der Unterschied zwischen einer guten und einer schlechten Anlage liegt nicht mehr im Angebotspreis, sondern im Anteil der Produktion, den Sie selbst verbrauchen.
+Ja, aber mit längerer Amortisationszeit als zur Zeit der Kompensation und deutlich abhängiger von Ihrem Verbrauchsprofil. Bei einem illustrativen Fall von 4 kWp für 6 000 € inklusive Mehrwertsteuer, mit 3 800 kWh Jahresertrag und einer Eigenverbrauchsquote von 37,76 %, liegt der Jahresgewinn bei rund **613 €** — davon 530 € aus Strom, den Sie nicht mehr bezahlen, und nur 83 € aus dem Verkauf des Überschusses. Das ergibt rund **zehn Jahre**, gegenüber sechs Jahren, die die Wallonische Region 2023 für eine Anlage mit 40 % Eigenverbrauch nannte. Der Unterschied zwischen einer guten und einer schlechten Anlage liegt nicht mehr im Angebotspreis, sondern im Anteil der Produktion, den Sie selbst verbrauchen.
 
 ### Was passiert mit meiner Anlage nach dem 31. Dezember 2030?
 
@@ -300,11 +300,11 @@ Ja, und das ist der am wenigsten bekannte Punkt der ganzen Frage. Die CWaPE knü
 
 ### Wie viel ist mein Solarüberschuss wert, wenn ich ihn nicht teile?
 
-Sehr wenig. Laut dem Vergleich von Test-Achats vom 28. Mai 2026 reicht der Einspeisetarif in Flandern und Wallonien von **0,94 c€/kWh** bei Mega Zen Fixed bis **4,90 c€/kWh** bei Energy Knights und Eneco, im Mittel 3 bis 4 Cent. Bei 2.500 eingespeisten kWh macht der Abstand zwischen bestem und schlechtestem Vertrag 23 bis 122 € im Jahr aus. Keiner dieser Tarife ist in Belgien reguliert, und mehrere folgen dem Großhandelsmarkt — was dynamische Verträge genau in den Stunden, in denen Ihr Dach am meisten produziert, Null- oder sogar Negativpreisen aussetzt.
+Sehr wenig. Laut dem Vergleich von Test-Achats vom 28. Mai 2026 reicht der Einspeisetarif in Flandern und Wallonien von **0,94 c€/kWh** bei Mega Zen Fixed bis **4,90 c€/kWh** bei Energy Knights und Eneco, im Mittel 3 bis 4 Cent. Bei 2 500 eingespeisten kWh macht der Abstand zwischen bestem und schlechtestem Vertrag 23 bis 122 € im Jahr aus. Keiner dieser Tarife ist in Belgien reguliert, und mehrere folgen dem Großhandelsmarkt — was dynamische Verträge genau in den Stunden, in denen Ihr Dach am meisten produziert, Null- oder sogar Negativpreisen aussetzt.
 
 ### Batterie oder Energieteilen: was lohnt sich für den Überschuss?
 
-Beides konkurriert nicht, sondern wirkt an verschiedenen Stellen. Eine Batterie wandelt Überschuss in zeitversetzten Eigenverbrauch und hebt die Eigenverbrauchsquote von 30-40 % auf **70-80 %**, was mehrere hundert Euro im Jahr wert ist — sie kostet aber **4.250 bis 7.250 €** für 5 bis 10 kWh, Wallonien zahlt keine Speicherprämie, und ihre eigene Amortisation liegt bei knapp fünfzehn Jahren. Das Energieteilen bringt weniger, kostet aber kein Kapital: Es verwertet, was nach dem Eigenverbrauch übrig bleibt, zu ausgehandelten 3 bis 14 c€/kWh statt zum Einspeisetarif. Die logische Reihenfolge lautet daher: zuerst den Verbrauch verschieben, dann teilen, und erst dann eine Batterie erwägen, wenn der Restüberschuss es noch rechtfertigt. Die Preisübersicht je installierter Kilowattstunde und die Meldepflicht, die eine Kompensation von vor 2024 unterbrechen kann, behandelt [„Hausbatterie: Preis und Alternative"](/de/ratgeber/hausbatterie-preis-oder-energieteilen/).
+Beides konkurriert nicht, sondern wirkt an verschiedenen Stellen. Eine Batterie wandelt Überschuss in zeitversetzten Eigenverbrauch und hebt die Eigenverbrauchsquote von 30-40 % auf **70-80 %**, was mehrere hundert Euro im Jahr wert ist — sie kostet aber **4 250 bis 7 250 €** für 5 bis 10 kWh, Wallonien zahlt keine Speicherprämie, und ihre eigene Amortisation liegt bei knapp fünfzehn Jahren. Das Energieteilen bringt weniger, kostet aber kein Kapital: Es verwertet, was nach dem Eigenverbrauch übrig bleibt, zu ausgehandelten 3 bis 14 c€/kWh statt zum Einspeisetarif. Die logische Reihenfolge lautet daher: zuerst den Verbrauch verschieben, dann teilen, und erst dann eine Batterie erwägen, wenn der Restüberschuss es noch rechtfertigt. Die Preisübersicht je installierter Kilowattstunde und die Meldepflicht, die eine Kompensation von vor 2024 unterbrechen kann, behandelt [„Hausbatterie: Preis und Alternative"](/de/ratgeber/hausbatterie-preis-oder-energieteilen/).
 
 ### Kann ich meinen Strom teilen, wenn ich nach 2024 installiert habe?
 
@@ -318,11 +318,11 @@ Ja, und das ist der günstigste Fall. Eine ab dem 1. Januar 2024 in Betrieb geno
 - [CWaPE — Der Prosumer-Tarif](https://www.cwape.be/node/148) — Definition des Tarifs, Inkrafttreten am 1. Januar 2020, standardmäßige Anwendung auf Prosumer ohne Zweirichtungszähler und Befreiung geschützter Kunden mit Sozialtarif.
 - [CWaPE — Energieteilen](https://www.cwape.be/node/5618) — Seite aktualisiert am 20. November 2025: in Wallonien verfügbare Formen des Teilens, Melde- oder Genehmigungsverfahren, Berechnung der geteilten Mengen je Viertelstunde und zulässige Aufteilungsschlüssel; Liste der genehmigten Vorhaben.
 - [CWaPE — ORES, periodische Entnahmetarife 2026](https://www.cwape.be/sites/default/files/cwape-documents/ORES%20-%20Tarifs%20p%C3%A9riodiques%20de%20pr%C3%A9l%C3%A8vement%202026_0.pdf) — am 18. Dezember 2025 genehmigte Tarifliste, gültig vom 1. Januar bis 31. Dezember 2026: Prosumer-Term von 80,9813336 €/kWe ohne Mehrwertsteuer, Impact-Bänder ECO mit 2,71 c€/kWh und SPITZE mit 13,54 c€/kWh sowie die dem Teilen innerhalb desselben Gebäudes vorbehaltene Ermäßigung von 80 % auf den proportionalen Term.
-- [Test-Achats — Wert des ins Netz eingespeisten Solarstroms](https://www.test-achats.be/maison-energie/energie-renouvelable/news/cout-energie-solaire-injectee) — Vergleich vom 28. Mai 2026: Einspeisetarife von 0,94 c€/kWh (Mega Zen Fixed) bis 4,90 c€/kWh (Energy Knights, Eneco) in Flandern und Wallonien, Mittelwert 3 bis 4 Cent, Spanne von 23 bis 122 € im Jahr bei 2.500 eingespeisten kWh und Warnung vor variablen Verträgen, die die Abnahme des Überschusses in Rechnung stellen können.
-- [Test-Achats — Photovoltaik: immer noch interessant?](https://www.test-achats.be/maison-energie/energie-renouvelable/dossier/panneaux-photovoltaiques-toujours-interessant) — Quelle der Preisgrößenordnungen (beste Angebote unter 1.250 €/kWp all-in) und der Eigenverbrauchsquote von 30 bis 50 % ohne Speicher.
-- [Renouvelle — Photovoltaik in Belgien 2025: Ambitionen wiederbeleben](https://www.renouvelle.be/fr/photovoltaique-belgique-2025-bilan-ambitions/) — Bilanz vom 16. Februar 2026: rund 900 MWp Zubau in Belgien und nur 100 MWp in Wallonien im Jahr 2025, wallonisches Ziel von 5.100 GWh/Jahr bzw. rund 6 GWp bis 2030, erforderliches Tempo von 500 bis 600 MWp pro Jahr und ausdrücklicher Zusammenhang zwischen dem Rückgang und dem Ende der öffentlichen Förderung.
+- [Test-Achats — Wert des ins Netz eingespeisten Solarstroms](https://www.test-achats.be/maison-energie/energie-renouvelable/news/cout-energie-solaire-injectee) — Vergleich vom 28. Mai 2026: Einspeisetarife von 0,94 c€/kWh (Mega Zen Fixed) bis 4,90 c€/kWh (Energy Knights, Eneco) in Flandern und Wallonien, Mittelwert 3 bis 4 Cent, Spanne von 23 bis 122 € im Jahr bei 2 500 eingespeisten kWh und Warnung vor variablen Verträgen, die die Abnahme des Überschusses in Rechnung stellen können.
+- [Test-Achats — Photovoltaik: immer noch interessant?](https://www.test-achats.be/maison-energie/energie-renouvelable/dossier/panneaux-photovoltaiques-toujours-interessant) — Quelle der Preisgrößenordnungen (beste Angebote unter 1 250 €/kWp all-in) und der Eigenverbrauchsquote von 30 bis 50 % ohne Speicher.
+- [Renouvelle — Photovoltaik in Belgien 2025: Ambitionen wiederbeleben](https://www.renouvelle.be/fr/photovoltaique-belgique-2025-bilan-ambitions/) — Bilanz vom 16. Februar 2026: rund 900 MWp Zubau in Belgien und nur 100 MWp in Wallonien im Jahr 2025, wallonisches Ziel von 5 100 GWh/Jahr bzw. rund 6 GWp bis 2030, erforderliches Tempo von 500 bis 600 MWp pro Jahr und ausdrücklicher Zusammenhang zwischen dem Rückgang und dem Ende der öffentlichen Förderung.
 - [Renouvelle — Photovoltaik-Observatorium](https://www.renouvelle.be/fr/faits-chiffres/observatoire-photovoltaique/) — belgischer Anlagenpark von 12,8 GWp Ende 2025, mehr als 10 TWh Erzeugung laut ELIA, rund 13 % des nationalen Stromverbrauchs.
-- [Énergie Commune — Wallonischer Photovoltaik-Finanzsimulator](https://sifpv.energiecommune.be/) — Werkzeug von Énergie Commune (ehemals APERe) mit Unterstützung der Wallonischen Region: Annahmen von rund 1.000 kWh/kWp/Jahr Ertrag, Performance Ratio 85 %, Degradation 0,5 %/Jahr, Lebensdauer 25 Jahre, Wechselrichtertausch im zwölften Jahr und die in unserem Beispielfall verwendete Standard-Eigenverbrauchsquote von 37,76 %.
-- [CREG — Monatliches Dashboard](https://www.creg.be/fr/professionnels/fonctionnement-et-monitoring-du-marche/tableau-de-bord) — All-in-Preis von 36,94 c€/kWh für ein Wohnprofil von 3.500 kWh/Jahr im Eintarif und Aufteilung 38,5 / 29,7 / 26,1 / 5,7 % auf Energie, Netz, Steuern und Mehrwertsteuer (hier verwendete Ausgabe Juni 2026).
+- [Énergie Commune — Wallonischer Photovoltaik-Finanzsimulator](https://sifpv.energiecommune.be/) — Werkzeug von Énergie Commune (ehemals APERe) mit Unterstützung der Wallonischen Region: Annahmen von rund 1 000 kWh/kWp/Jahr Ertrag, Performance Ratio 85 %, Degradation 0,5 %/Jahr, Lebensdauer 25 Jahre, Wechselrichtertausch im zwölften Jahr und die in unserem Beispielfall verwendete Standard-Eigenverbrauchsquote von 37,76 %.
+- [CREG — Monatliches Dashboard](https://www.creg.be/fr/professionnels/fonctionnement-et-monitoring-du-marche/tableau-de-bord) — All-in-Preis von 36,94 c€/kWh für ein Wohnprofil von 3 500 kWh/Jahr im Eintarif und Aufteilung 38,5 / 29,7 / 26,1 / 5,7 % auf Energie, Netz, Steuern und Mehrwertsteuer (hier verwendete Ausgabe Juni 2026).
 - [Renouvelle — Teilen und Energiegemeinschaften in Wallonien: die Stellungnahme der CWaPE](https://www.renouvelle.be/fr/partage-et-communautes-energie-en-wallonie-avis-de-la-cwape/) — Bewertung vom 18. März 2025: 4 Teilungsvorhaben innerhalb desselben Gebäudes und 3 innerhalb einer Energiegemeinschaft, sechs vom Regulierer benannte Hemmnisse und die Schlussfolgerung, dass die Ziele der europäischen Richtlinien nicht erreicht werden.
 - [UVCW — Energiegemeinschaften: die Wallonische Regierung erweitert den Begriff der „lokalen Behörde“](https://www.uvcw.be/energie/actus/art-9974) — tatsächlicher Gegenstand des Erlasses der Wallonischen Regierung vom 5. Februar 2026, veröffentlicht im Belgischen Staatsblatt am 25. Februar 2026: Wiederherstellung von Artikel 4 des Erlasses vom 17. März 2023, den der Staatsrat am 28. März 2025 für nichtig erklärt hatte, ohne Auswirkung auf das Peer-to-Peer-Teilen.
