@@ -7,15 +7,18 @@
 # reads the output of the one before it, so they run here, in one fixed
 # sequence, instead of as separate generators:
 #
-#   1. i18n metadata    lang / locale / OG image on every page and post
-#   2. sections         every post is a guide, a solution or a news item, and
+#   1. glossary pages   one page per glossary term and language
+#                       (_plugins/glossary_pages.rb), before everything below
+#                       so the new pages go through every step
+#   2. i18n metadata    lang / locale / OG image on every page and post
+#   3. sections         every post is a guide, a solution or a news item, and
 #                       must live under that section's path in its language
-#   3. redirect table   _data/redirects.csv -> redirect_from on the target page
-#   4. translations     data["translations"] = { lang => url } for every ref
-#   5. hubs             pages that list other pages (pillars, guide index, news
+#   4. redirect table   _data/redirects.csv -> redirect_from on the target page
+#   5. translations     data["translations"] = { lang => url } for every ref
+#   6. hubs             pages that list other pages (pillars, guide index, news
 #                       listings) get their resolved lists and a
 #                       last_modified_at that moves when a listed page changes
-#   6. URL guard        two files writing the same URL fail the build
+#   7. URL guard        two files writing the same URL fail the build
 #
 # jekyll-redirect-from (:normal) then turns redirect_from into stub pages, and
 # jekyll-sitemap / jekyll-feed (:lowest) run after that.
@@ -25,6 +28,7 @@ module OptimCE
     priority :highest
 
     def generate(site)
+      GlossaryPages.apply(site)
       I18nMetadata.apply(site)
       Sections.apply(site)
       RedirectsTable.apply(site)

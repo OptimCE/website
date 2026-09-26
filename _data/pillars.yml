@@ -10,8 +10,9 @@
 # - cta_communaute   show the "join an energy community" block at the end of
 #                    the pillar's guides (_includes/cta-communaute.html)
 # - tags             legacy ?tag= values that now redirect to this pillar
-# - categories       glossary categories whose terms fall back to this pillar
-#                    when no guide of any pillar cites them
+# - categories       glossary categories whose term pages recommend this
+#                    pillar ("Go further"); a term can override it with
+#                    `pilier:` in _data/glossary.yml
 # ==================================================================
 
 - key: communautes-energie
@@ -22,7 +23,7 @@
     nl: "Energiegemeenschappen"
   cta_communaute: true
   tags: [community, administrative]
-  categories: [gouvernance, juridique, modele, partage, regulateur, territoire, reglementaire]
+  categories: [gouvernance, juridique, modele, partage, regulateur, territoire]
 
 - key: cle-de-repartition
   label:
@@ -52,7 +53,7 @@
     nl: "Elektriciteitsfactuur"
   cta_communaute: true
   tags: []
-  categories: [facturation, marche, reseau]
+  categories: [facturation, marche, reseau, reglementaire]
 
 - key: solaire-surplus
   label:

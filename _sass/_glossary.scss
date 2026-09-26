@@ -109,6 +109,14 @@
   dfn {
     font-style: normal;
   }
+
+  a {
+    color: inherit;
+
+    &:hover {
+      color: var(--color-primary);
+    }
+  }
 }
 
 .glossary-card__category {
@@ -158,8 +166,40 @@
   }
 }
 
+// Glossary term pages
+.glossary-term__category {
+  margin-bottom: var(--space-3);
+}
+
+.glossary-term dfn {
+  font-style: normal;
+}
+
+.glossary-term__definition {
+  font-size: var(--text-lg);
+  line-height: var(--leading-normal);
+}
+
+.page__content .glossary-term__chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+  padding-left: 0;
+  list-style: none;
+
+  li {
+    margin-bottom: 0;
+  }
+}
+
+.glossary-term__back {
+  margin-top: var(--space-10);
+  font-size: var(--text-sm);
+}
+
 // In-article glossary cross-links (auto-linked first occurrence of each term).
 // Distinguished from regular reference links by a dotted underline + help cursor.
+.glossary-term__definition a.glossary-link,
 .post__content a.glossary-link {
   text-decoration: none;
   border-bottom: 1px dotted var(--color-primary);

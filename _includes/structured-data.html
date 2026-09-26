@@ -19,7 +19,8 @@
     #webpage       about (AboutPage), pillar, guide and solution indexes (CollectionPage)
     #breadcrumb    everything except the homepages (trail: _includes/breadcrumb.html)
     #faq           posts declaring `faq:` front matter
-    #terms         glossary index pages
+    #terms         glossary index pages (DefinedTermSet)
+    #term          glossary term pages (DefinedTerm, also listed in #terms)
 {%- endcomment -%}
 {%- assign lang = page.lang | default: site.lang | default: 'fr' -%}
 {%- assign t = site.data.i18n[lang] -%}
@@ -185,16 +186,54 @@
       "isPartOf": { "@id": {{ website_id | jsonify }} },
       "hasDefinedTerm": [
         {%- for term in site.data.glossary %}
+        {%- assign term_page_url = site.data.glossary_pages[lang][term.slug] -%}
+        {%- if term_page_url -%}
+          {%- capture term_url -%}{{ term_page_url | absolute_url }}{%- endcapture -%}
+          {%- assign term_id = term_url | append: '#term' -%}
+        {%- else -%}
+          {%- capture term_url -%}{{ page_url | append: '#' | append: term.slug }}{%- endcapture -%}
+          {%- assign term_id = term_url -%}
+        {%- endif %}
         {
           "@type": "DefinedTerm",
-          "@id": {{ page_url | append: '#' | append: term.slug | jsonify }},
+          "@id": {{ term_id | jsonify }},
           "name": {{ term.terme[lang] | default: term.terme.fr | jsonify }},
           "description": {{ term.definition[lang] | default: term.definition.fr | jsonify }},
-          "url": {{ page_url | append: '#' | append: term.slug | jsonify }},
+          "url": {{ term_url | jsonify }},
           "inDefinedTermSet": { "@id": {{ page_url | append: '#terms' | jsonify }} }
         }{%- unless forloop.last %},{%- endunless %}
         {%- endfor %}
       ]
+    }
+    {%- endif -%}
+    {%- if page.layout == 'glossary-term' -%}
+    {%- comment -%}
+      A term page: the DefinedTerm (same @id as in the index's DefinedTermSet)
+      and the WebPage about it.
+    {%- endcomment -%}
+    {%- capture glossary_index_url -%}{{ cl.glossary_path | absolute_url }}{%- endcapture -%}
+    ,{
+      "@type": "DefinedTerm",
+      "@id": {{ page_url | append: '#term' | jsonify }},
+      "name": {{ page.term_name | jsonify }},
+      "description": {{ page.term_definition | jsonify }},
+      "url": {{ page_url | jsonify }},
+      "inLanguage": {{ lang | jsonify }},
+      {%- if page.term_aliases.size > 0 %}
+      "alternateName": {{ page.term_aliases | jsonify }},
+      {%- endif %}
+      "inDefinedTermSet": { "@id": {{ glossary_index_url | append: '#terms' | jsonify }} }
+    },
+    {
+      "@type": "WebPage",
+      "@id": {{ page_url | append: '#webpage' | jsonify }},
+      "url": {{ page_url | jsonify }},
+      "name": {{ page.title | jsonify }},
+      "description": {{ page.description | jsonify }},
+      "inLanguage": {{ lang | jsonify }},
+      "isPartOf": { "@id": {{ website_id | jsonify }} },
+      "mainEntity": { "@id": {{ page_url | append: '#term' | jsonify }} },
+      "breadcrumb": { "@id": {{ page_url | append: '#breadcrumb' | jsonify }} }
     }
     {%- endif -%}
     {%- comment -%}

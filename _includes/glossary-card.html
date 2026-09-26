@@ -10,11 +10,16 @@
 {%- assign definition = term.definition[lang] | default: term.definition.fr -%}
 {%- assign aliases_list = term.alias[lang] -%}
 {%- assign category_label = t.glossary.categories[term.categorie] | default: term.categorie -%}
+{%- comment -%}
+  Terms with their own page (_plugins/glossary_pages.rb) link to it; the
+  card keeps id="<slug>" so that old /glossaire/#slug links still land here.
+{%- endcomment -%}
+{%- assign term_page_url = site.data.glossary_pages[lang][term.slug] -%}
 {%- assign aliases_str = aliases_list | join: ", " -%}
 {%- capture search_index -%}{{ name }} {{ aliases_str }} {{ definition }} {{ category_label }} {{ term.tags | join: " " }}{%- endcapture -%}
 <article class="glossary-card" id="{{ term.slug }}" data-term="{{ name | downcase }}" data-category="{{ term.categorie }}" data-search="{{ search_index | strip_newlines | downcase | strip }}">
   <div class="glossary-card__head">
-    <h2 class="glossary-card__term"><dfn>{{ name }}</dfn></h2>
+    <h2 class="glossary-card__term"><dfn>{% if term_page_url %}<a href="{{ term_page_url | relative_url }}">{{ name }}</a>{% else %}{{ name }}{% endif %}</dfn></h2>
     <span class="glossary-card__category">{{ category_label }}</span>
   </div>
   <p class="glossary-card__definition">{{ definition }}</p>

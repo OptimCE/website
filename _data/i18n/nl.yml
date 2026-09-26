@@ -186,6 +186,17 @@ glossary:
   count_label: "termen"
   alias_label: "Ook genoemd:"
   source_label: "Bron:"
+  # Term pages (_layouts/glossary-term.html, _plugins/glossary_pages.rb)
+  term:
+    title_format: "%{name}: definitie"
+    description_suffix: "Definitie en artikelen die de term gebruiken, in de woordenlijst van OptimCE."
+    category: "Categorie"
+    cited: "Termen in deze definitie"
+    related: "In dezelfde categorie"
+    used_in: "Artikelen die deze term gebruiken"
+    go_further: "Verder lezen"
+    back: "Terug naar de woordenlijst"
+    see_page: "Naar de fiche"
   categories:
     autoconsommation: "Zelfverbruik"
     calcul: "Berekening"

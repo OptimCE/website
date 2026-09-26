@@ -1,10 +1,12 @@
 # frozen_string_literal: true
 #
-# Glossary auto-linking (Round 2)
-# --------------------------------
+# Glossary auto-linking
+# ---------------------
 # Liquid filter `glossary_autolink` applied to the post body in _layouts/post.html.
 # For each article it links the FIRST occurrence of each glossary term (or alias)
-# to that language's glossary anchor (/glossaire/#slug, /en/glossary/#slug, ...).
+# to that term's page (/glossaire/<slug>/, /en/glossary/<slug>/, ...) when the
+# term has one, and to its anchor on the glossary index otherwise. The link
+# keeps the definition as its title attribute.
 #
 # Non-destructive: it transforms rendered HTML only, never the markdown source,
 # and auto-applies to future posts. Remove this file to disable the feature.
@@ -18,6 +20,13 @@
 #  - Straight (') and curly (’) apostrophes are treated as equivalent.
 #  - Canonical terms win over aliases when a phrase maps to several entries.
 #  - A small blocklist skips over-generic / ambiguous slugs.
+#
+# Scanning is the expensive part (it dominated the build before this was
+# split), so it is done once per (language, HTML) and memoised as tokens: plain
+# text runs and matched terms. _plugins/glossary_pages.rb scans every post
+# before rendering to learn which terms are used where; the filter then only
+# turns the memoised tokens into links. Both caches are dropped on every
+# rebuild (`jekyll serve`), so glossary edits are never served stale.
 
 require "strscan"
 
@@ -27,10 +36,24 @@ module Jekyll
     # Slugs we never auto-link (too short / ambiguous / generic in running prose).
     BLOCKLIST = %w[ce].freeze
 
-    @cache = {}
+    @index = {}
+    @tokens = {}
+    # { lang => { slug => url } } for terms that have their own page; set by
+    # _plugins/glossary_pages.rb. Terms missing here link to the index anchor.
+    @term_urls = {}
+
+    class << self
+      attr_accessor :term_urls
+
+      def reset
+        @index = {}
+        @tokens = {}
+        @term_urls = {}
+      end
+    end
 
     def self.index_for(site, lang)
-      @cache[lang] ||= build_index(site, lang)
+      @index[lang] ||= build_index(site, lang)
     end
 
     def self.glossary_path(site, lang)
@@ -55,118 +78,146 @@ module Jekyll
 
     def self.build_index(site, lang)
       data = site.data["glossary"] || []
-      path = glossary_path(site, lang)
       seen = {}
       entries = []
+      definitions = {}
 
-      add = lambda do |phrase, slug, definition|
+      add = lambda do |phrase, slug|
         return if phrase.nil?
+
         phrase = phrase.to_s.strip
         return if phrase.empty?
+
         key = phrase.downcase
         return if seen[key]
+
         seen[key] = true
-        entries << {
-          slug: slug,
-          definition: definition.to_s,
-          regex: build_regex(phrase, !acronym?(phrase)),
-          length: phrase.length
-        }
+        entries << { slug: slug, regex: build_regex(phrase, !acronym?(phrase)), length: phrase.length }
       end
 
       # Pass 1: canonical term names (preferred owner of a phrase).
       data.each do |term|
         slug = term["slug"]
         next if slug.nil? || BLOCKLIST.include?(slug)
-        name = term.dig("terme", lang) || term.dig("terme", "fr")
-        definition = term.dig("definition", lang) || term.dig("definition", "fr")
-        add.call(name, slug, definition)
+
+        definitions[slug] = (term.dig("definition", lang) || term.dig("definition", "fr")).to_s
+        add.call(term.dig("terme", lang) || term.dig("terme", "fr"), slug)
       end
       # Pass 2: aliases (only if the phrase isn't already owned).
       data.each do |term|
         slug = term["slug"]
         next if slug.nil? || BLOCKLIST.include?(slug)
-        definition = term.dig("definition", lang) || term.dig("definition", "fr")
-        Array(term.dig("alias", lang)).each { |a| add.call(a, slug, definition) }
+
+        Array(term.dig("alias", lang)).each { |a| add.call(a, slug) }
       end
 
       # Longest phrases first: "communauté d'énergie renouvelable" beats "communauté".
       entries.sort_by! { |e| -e[:length] }
-      { entries: entries, path: path }
+      { entries: entries, definitions: definitions, path: glossary_path(site, lang) }
     end
 
     def self.escape_attr(str)
       str.gsub("&", "&amp;").gsub('"', "&quot;").gsub("<", "&lt;").gsub(">", "&gt;")
     end
 
-    # Link the first occurrence of each not-yet-linked phrase within one text run.
-    def self.link_text(text, entries, linked, path)
-      out = +""
+    # Split one text run into plain strings and { slug:, text: } matches, each
+    # not-yet-linked term matched at its first occurrence.
+    def self.scan_text(text, entries, linked, out)
       pos = 0
       len = text.length
       while pos < len
         best = nil
         entries.each do |e|
           next if linked[e[:slug]]
+
           m = e[:regex].match(text, pos)
           next unless m
+
           ms = m.begin(0)
           me = m.end(0)
           if best.nil? || ms < best[:start] || (ms == best[:start] && (me - ms) > (best[:finish] - best[:start]))
-            best = { start: ms, finish: me, slug: e[:slug], definition: e[:definition] }
+            best = { start: ms, finish: me, slug: e[:slug] }
           end
         end
         break if best.nil?
-        out << text[pos...best[:start]]
-        matched = text[best[:start]...best[:finish]]
-        out << %(<a class="glossary-link" href="#{path}##{best[:slug]}" title="#{escape_attr(best[:definition])}">#{matched}</a>)
+
+        out << text[pos...best[:start]] if best[:start] > pos
+        out << { slug: best[:slug], text: text[best[:start]...best[:finish]] }
         linked[best[:slug]] = true
         pos = best[:finish]
       end
       out << text[pos..-1] if pos < len
-      out
     end
 
-    def self.process(html, site, lang)
-      return html if html.nil? || html.empty?
-      idx = index_for(site, lang)
-      entries = idx[:entries]
-      return html if entries.empty?
-      path = idx[:path]
-
-      linked = {}
-      result = +""
-      scanner = StringScanner.new(html)
-      skip_depth = 0
-
-      until scanner.eos?
-        if (tag = scanner.scan(/<[^>]+>/))
-          result << tag
-          name = tag[/\A<\s*\/?\s*([a-zA-Z][a-zA-Z0-9]*)/, 1]&.downcase
-          if name && SKIP_TAGS.include?(name) && !tag.end_with?("/>")
-            if tag =~ /\A<\s*\//
-              skip_depth -= 1 if skip_depth > 0
-            else
-              skip_depth += 1
+    # Tokens for one HTML fragment: an array of strings (markup and text,
+    # emitted verbatim) and { slug:, text: } hashes (terms to link). `exclude`
+    # is a slug never to link — a term page must not link to itself.
+    def self.tokens(html, site, lang, exclude = nil)
+      key = [lang, exclude, html]
+      @tokens[key] ||= begin
+        idx = index_for(site, lang)
+        linked = {}
+        linked[exclude] = true if exclude
+        out = []
+        scanner = StringScanner.new(html)
+        skip_depth = 0
+        until scanner.eos?
+          if (tag = scanner.scan(/<[^>]+>/))
+            out << tag
+            name = tag[/\A<\s*\/?\s*([a-zA-Z][a-zA-Z0-9]*)/, 1]&.downcase
+            if name && SKIP_TAGS.include?(name) && !tag.end_with?("/>")
+              if tag =~ /\A<\s*\//
+                skip_depth -= 1 if skip_depth.positive?
+              else
+                skip_depth += 1
+              end
             end
+          elsif (text = scanner.scan(/[^<]+/))
+            skip_depth.positive? ? out << text : scan_text(text, idx[:entries], linked, out)
+          else
+            out << scanner.getch
           end
-        elsif (text = scanner.scan(/[^<]+/))
-          result << (skip_depth > 0 ? text : link_text(text, entries, linked, path))
-        else
-          result << scanner.getch
         end
+        out.freeze
       end
-      result
+    end
+
+    # Slugs the filter would link in this HTML.
+    def self.linked_slugs(html, site, lang, exclude = nil)
+      tokens(html, site, lang, exclude).filter_map { |t| t[:slug] if t.is_a?(Hash) }
+    end
+
+    def self.href(site, lang, slug)
+      url = @term_urls.dig(lang, slug)
+      return "#{site.config["baseurl"]}#{url}" if url
+
+      "#{site.config["baseurl"]}#{glossary_path(site, lang)}##{slug}"
+    end
+
+    def self.process(html, site, lang, exclude = nil)
+      return html if html.nil? || html.empty?
+
+      idx = index_for(site, lang)
+      tokens(html, site, lang, exclude).map do |t|
+        next t if t.is_a?(String)
+
+        %(<a class="glossary-link" href="#{href(site, lang, t[:slug])}" ) +
+          %(title="#{escape_attr(idx[:definitions][t[:slug]])}">#{t[:text]}</a>)
+      end.join
     end
   end
 
   module GlossaryFilter
-    def glossary_autolink(html, lang = nil)
+    def glossary_autolink(html, lang = nil, exclude = nil)
       site = @context.registers[:site]
       lang ||= site.config["lang"] || "fr"
-      Jekyll::GlossaryAutolink.process(html.to_s, site, lang)
+      Jekyll::GlossaryAutolink.process(html.to_s, site, lang, exclude)
     end
   end
+end
+
+Jekyll::Hooks.register :site, :after_reset do |_site|
+  Jekyll::GlossaryAutolink.reset
 end
 
 Liquid::Template.register_filter(Jekyll::GlossaryFilter)

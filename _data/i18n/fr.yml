@@ -186,6 +186,17 @@ glossary:
   count_label: "termes"
   alias_label: "Aussi appelé :"
   source_label: "Source :"
+  # Term pages (_layouts/glossary-term.html, _plugins/glossary_pages.rb)
+  term:
+    title_format: "%{name} : définition"
+    description_suffix: "Définition et articles qui l'utilisent, dans le glossaire OptimCE."
+    category: "Catégorie"
+    cited: "Termes cités dans cette définition"
+    related: "Dans la même catégorie"
+    used_in: "Articles qui utilisent ce terme"
+    go_further: "Pour aller plus loin"
+    back: "Retour au glossaire"
+    see_page: "Voir la fiche"
   categories:
     autoconsommation: "Autoconsommation"
     calcul: "Calcul"
