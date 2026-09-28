@@ -41,7 +41,7 @@ Simuleren betekent net **die beslissing uit het buikgevoel halen**. U meet het r
 
 ## Wat de simulatie mogelijk maakt
 
-De functie is ingebouwd in de **module "Verdeelsleutels"** van de open-source kern van OptimCE. De gebruikersflow telt slechts enkele stappen:
+De functie is ingebouwd in de **module “Verdeelsleutels”** van de open-source kern van OptimCE. De gebruikersflow telt slechts enkele stappen:
 
 1. **Importeer een CSV** met verbruiksdata per tijdstap (vaak per kwartier) voor elk lid en productiedata voor elke producent van de deeloperatie. Elke regel van het bestand komt overeen met één tijdstap.
 2. **Kies een verdeelsleutel** om te testen — een standaardsleutel voor uw regio, een bestaande sleutel van de gemeenschap, of een scenario dat u wilt verkennen.
@@ -77,7 +77,7 @@ De **zelfvoorzieningsgraad** wordt aan de **verbruikszijde** gemeten: het aandee
 
 ### De deelgraad en de lezing per iteratie
 
-De **deelgraad** toont hoeveel van de beschikbare injectie effectief **via de sleutel onder de leden werd verdeeld**. Hier komt de lezing **per iteratie** van pas. Veel sleutels verdelen in meerdere rondes: een eerste ronde verdeelt de energie volgens de regel, daarna wordt de energie die een lid niet verbruikte **in de volgende ronde herverdeeld** onder wie nog vraag heeft (dat is het principe van "meerdere rondes", relatieve of optimale sleutels). De simulatie toont hoe de deelgraad **bij elke iteratie vordert**, tot de deelbare injectie is uitgeput — u ziet precies wat de opeenvolgende rondes toevoegen.
+De **deelgraad** toont hoeveel van de beschikbare injectie effectief **via de sleutel onder de leden werd verdeeld**. Hier komt de lezing **per iteratie** van pas. Veel sleutels verdelen in meerdere rondes: een eerste ronde verdeelt de energie volgens de regel, daarna wordt de energie die een lid niet verbruikte **in de volgende ronde herverdeeld** onder wie nog vraag heeft (dat is het principe van “meerdere rondes”, relatieve of optimale sleutels). De simulatie toont hoe de deelgraad **bij elke iteratie vordert**, tot de deelbare injectie is uitgeput — u ziet precies wat de opeenvolgende rondes toevoegen.
 
 Om verwarring te vermijden, vat deze tabel samen waar elke indicator zich bevindt:
 
@@ -115,7 +115,7 @@ Het zijn twee complementaire toepassingen, geen concurrenten:
 
 | | Simulatie | Automatische generatie |
 |---|---|---|
-| Gestelde vraag | "Wat geeft *deze* sleutel op deze data?" | "*Welke* sleutel is het best voor deze data?" |
+| Gestelde vraag | “Wat geeft *deze* sleutel op deze data?” | “*Welke* sleutel is het best voor deze data?” |
 | Invoer | Een gekozen sleutel + een CSV | Een CSV |
 | Uitvoer | De KPI's van de geteste sleutel | Eén (of meer) geoptimaliseerde kandidaat-sleutel(s) |
 | Typisch gebruik | Scenario's vergelijken, begrijpen, verantwoorden | Een goed startpunt vinden |
@@ -142,7 +142,7 @@ Het simuleren van een verdeelsleutel brengt één eenvoudige maar doorslaggevend
 
 ### Wat betekent het om een verdeelsleutel te simuleren?
 
-Het betekent reële productie- en verbruiksdata door een gekozen verdeelsleutel spelen, **zonder die in productie toe te passen**, om de indicatoren vooraf te meten: collectief zelfverbruik, surplus, zelfvoorzieningsgraad en deelgraad. Het is een "wat-als"-test voordat u beslist.
+Het betekent reële productie- en verbruiksdata door een gekozen verdeelsleutel spelen, **zonder die in productie toe te passen**, om de indicatoren vooraf te meten: collectief zelfverbruik, surplus, zelfvoorzieningsgraad en deelgraad. Het is een “wat-als”-test voordat u beslist.
 
 ### Wat is het verschil tussen een verdeelsleutel simuleren en genereren?
 
@@ -152,7 +152,7 @@ Het betekent reële productie- en verbruiksdata door een gekozen verdeelsleutel 
 
 De **zelfverbruiksgraad** wordt aan de productiezijde gemeten: het aandeel van de lokaal geproduceerde energie dat door de leden wordt verbruikt. De **zelfvoorzieningsgraad** wordt aan de verbruikszijde gemeten: het aandeel van het verbruik van de leden dat door lokale productie wordt gedekt. De **deelgraad** toont hoeveel van de injectie via de sleutel effectief onder de leden werd verdeeld.
 
-### Wat betekenen de resultaten "per iteratie"?
+### Wat betekenen de resultaten “per iteratie”?
 
 Veel sleutels verdelen energie in meerdere rondes (iteraties): een eerste ronde verdeelt volgens de regel, daarna wordt de niet-verbruikte energie in de volgende ronde herverdeeld. De simulatie toont het resultaat **globaal**, **per tijdstap** en **per iteratie**, zodat u ziet hoe het delen ronde na ronde vordert.
 
@@ -162,7 +162,7 @@ Een **CSV**-bestand met het verbruik per tijdstap (vaak per kwartier) van elk li
 
 ### Verandert de simulatie mijn verdeelsleutel in productie?
 
-Nee. De simulatie is een berekening "buiten productie": ze raakt noch aan de sleutel die de netbeheerder toepast, noch aan uw reële data. U test zoveel scenario's als u wilt zonder enig effect op de lopende deeloperatie.
+Nee. De simulatie is een berekening “buiten productie”: ze raakt noch aan de sleutel die de netbeheerder toepast, noch aan uw reële data. U test zoveel scenario's als u wilt zonder enig effect op de lopende deeloperatie.
 
 ## Bronnen
 

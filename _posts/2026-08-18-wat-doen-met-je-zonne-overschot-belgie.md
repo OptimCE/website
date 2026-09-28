@@ -164,7 +164,7 @@ Op onze maatstaf: ongeveer **2,17 € investering per kilowattuur dat jaarlijks 
 
 ### V2H en V2G: nog niet
 
-De autobatterij gebruiken om het huis te voeden, of zelfs terug te injecteren op het net, zou het probleem in één klap oplossen. In België is dat in 2026 geen consumentenoptie: bidirectionele laadpalen kosten **4 000 tot 8 000 €**, zeer weinig voertuigmodellen zijn compatibel, het normatieve aansluitkader is niet gestabiliseerd en de uitrol blijft bij pilootprojecten. Koop vandaag geen auto en geen laadpaal voor die functie. Het prijsoverzicht per geïnstalleerde kilowattuur en de aangifteplicht die een compensatie van vóór 2024 kan breken, komen aan bod in ["Thuisbatterij: de prijs en het alternatief"](/nl/gidsen/thuisbatterij-prijs-of-energiedelen/).
+De autobatterij gebruiken om het huis te voeden, of zelfs terug te injecteren op het net, zou het probleem in één klap oplossen. In België is dat in 2026 geen consumentenoptie: bidirectionele laadpalen kosten **4 000 tot 8 000 €**, zeer weinig voertuigmodellen zijn compatibel, het normatieve aansluitkader is niet gestabiliseerd en de uitrol blijft bij pilootprojecten. Koop vandaag geen auto en geen laadpaal voor die functie. Het prijsoverzicht per geïnstalleerde kilowattuur en de aangifteplicht die een compensatie van vóór 2024 kan breken, komen aan bod in [“Thuisbatterij: de prijs en het alternatief”](/nl/gidsen/thuisbatterij-prijs-of-energiedelen/).
 
 ## Optie 4 — De thuisbatterij: doeltreffend, duur en slecht ondersteund
 
@@ -253,7 +253,7 @@ Drie profielen tonen wat die volgorde concreet oplevert.
 
 ## Wat u moet onthouden
 
-1. **De eerste vraag is niet "welke optie" maar "welk meetregime".** Een Waalse installatie van vóór 2024 behoudt de compensatie tot 31 december 2030: haar overschot wordt al tegen de volle prijs gewaardeerd, en vier van de vijf opties zouden er niets opbrengen.
+1. **De eerste vraag is niet “welke optie” maar “welk meetregime”.** Een Waalse installatie van vóór 2024 behoudt de compensatie tot 31 december 2030: haar overschot wordt al tegen de volle prijs gewaardeerd, en vier van de vijf opties zouden er niets opbrengen.
 2. **Een geïnjecteerde kilowattuur is 0,94 tot 4,90 cent waard, dezelfde kilowattuur zelf verbruikt ongeveer 37.** Het hele onderwerp zit in dat verschil, en het hangt alleen van het gebruiksuur af.
 3. **De warmwaterboiler heeft de beste verhouding van het klassement.** Een zonnerouter van 400 tot 900 € neemt 800 tot 1 400 kWh per jaar op en verdient zichzelf terug in één tot drie jaar, oftewel ongeveer 0,65 € investering per kilowattuur dat jaarlijks wordt opgenomen.
 4. **Een warmtepompboiler neemt ongeveer drie keer minder overschot op dan een gestuurde weerstandsboiler**, precies omdat zijn prestatiecoëfficiënt drie keer beter is. Uitstekend toestel, slechte overschotopnemer.
