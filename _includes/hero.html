@@ -4,15 +4,24 @@
 {%- comment -%}
   Two entries, one per audience: households join a community (cta.join_url,
   the app until the public directory exists); project holders manage or
-  create one (the features page, which links to the app).
+  create one (the features page, which links to the app). Then the site's
+  signature: the quarter-hour grid.
 {%- endcomment %}
 <section class="hero">
-  <div class="container hero__content">
-    <h1 class="hero__title">{{ t.hero.title }}</h1>
-    <p class="hero__subtitle">{{ t.hero.subtitle }}</p>
-    <div class="hero__actions">
-      <a href="{{ site.cta.join_url }}" class="btn btn-white btn--lg">{{ t.nav.join }}</a>
-      <a href="{{ current_lang.features_path | relative_url }}" class="btn btn-white-outline btn--lg">{{ t.nav.manage }}</a>
+  <div class="container">
+    <div class="hero__copy">
+      <h1 class="hero__title">{{ t.hero.title }}</h1>
+      <p class="hero__subtitle">{{ t.hero.subtitle }}</p>
+      <div class="hero__actions">
+        <a href="{{ site.cta.join_url }}" class="btn btn-primary btn--lg">{{ t.nav.join }}</a>
+        <a href="{{ current_lang.features_path | relative_url }}" class="btn btn-outline btn--lg">{{ t.nav.manage }}</a>
+      </div>
+      <p class="hero__oss">
+        <a href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener">
+          {% include icon.html name="github" %}<span>{{ t.hero.oss_note }}</span>
+        </a>
+      </p>
     </div>
+    {% include quarter-hour-grid.html %}
   </div>
 </section>

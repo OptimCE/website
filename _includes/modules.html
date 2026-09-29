@@ -1,0 +1,50 @@
+{% assign lang = page.lang | default: site.lang %}
+{% assign t = site.data.i18n[lang] %}
+{% assign current_lang = site.languages | where: "code", lang | first %}
+{% assign features_id = current_lang.features_anchor | remove: "#" %}
+{%- comment -%}
+  What the application does, module by module, grouped by what a community
+  manager is doing. Carries the features anchor (#fonctionnalites, #features,
+  #funktionen, #functies) that the old homepage section used.
+  Screenshot: the manager dashboard of the alpha, from the user guide's
+  captures (test data, said in the caption). French capture on the French
+  page, English elsewhere until German and Dutch captures exist.
+{%- endcomment %}
+{% if lang == "fr" %}{% assign shot_lang = "fr" %}{% else %}{% assign shot_lang = "en" %}{% endif %}
+<section id="{{ features_id }}" class="section section--alt modules">
+  <div class="container">
+    <header class="section__header">
+      <h2 class="section__title">{{ t.modules.title }}</h2>
+      <p class="section__subtitle">{{ t.modules.subtitle }}</p>
+    </header>
+    <div class="modules__groups">
+      {% for group in t.modules.groups %}
+      <div class="module-group">
+        <h3 class="module-group__title">{{ group.name }}</h3>
+        <ul class="module-group__list" role="list">
+          {% for item in group.items %}
+          <li>
+            <span class="module-group__name">{{ item.title }}</span>
+            <span class="module-group__text">{{ item.text }}</span>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endfor %}
+    </div>
+    <figure class="product-shot">
+      <div class="product-shot__frame">
+        {%- assign shot = '/assets/images/product/dashboard-' | append: shot_lang -%}
+        <img src="{{ shot | append: '.webp' | relative_url }}"
+             srcset="{{ shot | append: '-800.webp' | relative_url }} 800w, {{ shot | append: '.webp' | relative_url }} 1290w"
+             sizes="(min-width: 1320px) 1256px, calc(100vw - 2rem)"
+             alt="{{ t.modules.shot_alt }}" width="1290" height="712" loading="lazy" decoding="async">
+      </div>
+      <figcaption>{{ t.modules.shot_caption }}</figcaption>
+    </figure>
+    <div class="modules__footer">
+      <p class="modules__note">{{ t.modules.note }}</p>
+      <a class="btn btn-outline" href="{{ current_lang.features_path | relative_url }}">{{ t.features.see_all }}</a>
+    </div>
+  </div>
+</section>

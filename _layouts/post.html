@@ -4,65 +4,105 @@ layout: default
 {% assign lang = page.lang | default: site.lang %}
 {% assign t = site.data.i18n[lang] %}
 {% assign current_lang = site.languages | where: "code", lang | first %}
+{% assign post_pillar = site.data.pillars | where: "key", page.pillar | first %}
 <article class="post">
-  <header class="post__header section">
-    <div class="container container--narrow">
-      {% include breadcrumb.html %}
-      <h1 class="post__title">{{ page.title }}</h1>
-      <p class="post__meta">
-        <time datetime="{{ page.date | date_to_xmlschema }}">
-          {{ t.blog.published_on }} {% include localized-date.html date=page.date lang=lang %}
-        </time>
-        {% if page.author %}
-          {% if page.author_id and site.data.authors[page.author_id] %}
-            &middot; {{ t.blog.by_author }} <a href="{{ current_lang.author_path | relative_url }}" rel="author">{{ page.author }}</a>
-          {% else %}
-            &middot; {{ t.blog.by_author }} <span>{{ page.author }}</span>
+  <header class="post__header">
+    <div class="container post__grid">
+      <div class="post__heading">
+        {% include breadcrumb.html %}
+        {% if page.pillar or page.solution %}
+          <div class="post__tags">
+            {% include pillar-badge.html %}
+          </div>
+        {% endif %}
+        <h1 class="post__title">{{ page.title | fr_spacing: lang }}</h1>
+        <div class="post__byline">
+          <p class="post__meta">
+            <time datetime="{{ page.date | date_to_xmlschema }}">{{ t.blog.published_on }} {% include localized-date.html date=page.date lang=lang %}</time>
+            {%- if page.author %}
+              {% if page.author_id and site.data.authors[page.author_id] -%}
+                {{ t.blog.by_author }} <a href="{{ current_lang.author_path | relative_url }}" rel="author">{{ page.author }}</a>
+              {%- else -%}
+                {{ t.blog.by_author }} <span>{{ page.author }}</span>
+              {%- endif %}
+            {%- endif %}
+          </p>
+          {% if page.last_modified_at %}
+            <p class="post__meta post__meta--updated">
+              <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{{ t.blog.updated_on }} {% include localized-date.html date=page.last_modified_at lang=lang %}</time>
+            </p>
           {% endif %}
-        {% endif %}
-      </p>
-      {% if page.last_modified_at %}
-        <p class="post__meta post__meta--updated">
-          <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">
-            {{ t.blog.updated_on }} {% include localized-date.html date=page.last_modified_at lang=lang %}
-          </time>
-        </p>
-      {% endif %}
-      {% if page.pillar or page.solution %}
-        <div class="post__tags">
-          {% include pillar-badge.html %}
-        </div>
-      {% endif %}
-      {% if page.ref %}
-        {% assign translations = page.translations %}
-        {% if translations.size > 1 %}
-        {%- comment -%}
-          Looping site.languages, not `translations`: one canonical language
-          order on every article (the map itself is unordered).
-        {%- endcomment -%}
-        <nav class="post__translations" aria-label="{{ t.a11y.translations }}">
-          {% for l in site.languages %}
-            {% assign translation_url = translations[l.code] %}
-            {% if translation_url and l.code != lang %}
-              <a href="{{ translation_url | relative_url }}"
-                 lang="{{ l.code }}" hreflang="{{ l.code }}"
-                 class="post__translation-link">
-                {{ t.languages[l.code] }}
-              </a>
+          {% if page.ref %}
+            {% assign translations = page.translations %}
+            {% if translations.size > 1 %}
+            {%- comment -%}
+              Looping site.languages, not `translations`: one canonical language
+              order on every article (the map itself is unordered).
+            {%- endcomment -%}
+            <nav class="post__translations" aria-label="{{ t.a11y.translations }}">
+              {% for l in site.languages %}
+                {% assign translation_url = translations[l.code] %}
+                {% if translation_url and l.code != lang %}
+                  <a href="{{ translation_url | relative_url }}"
+                     lang="{{ l.code }}" hreflang="{{ l.code }}"
+                     class="post__translation-link">
+                    {{ t.languages[l.code] }}
+                  </a>
+                {% endif %}
+              {% endfor %}
+            </nav>
             {% endif %}
-          {% endfor %}
-        </nav>
-        {% endif %}
-      {% endif %}
+          {% endif %}
+        </div>
+      </div>
     </div>
   </header>
-  <div class="post__content section">
-    <div class="container container--narrow">
-      {{ content | glossary_autolink: lang }}
-      {% assign post_pillar = site.data.pillars | where: "key", page.pillar | first %}
+
+  <div class="container post__grid post__body">
+    <div class="post__content">
+      {{ content | glossary_autolink: lang | fr_spacing: lang }}
       {% if post_pillar and post_pillar.cta_communaute %}
         {% include cta-communaute.html %}
       {% endif %}
     </div>
+
+    {%- comment -%}
+      The rail: "On this page", listed here from the article's own H2s
+      (kramdown gives each an id) when there are at least three, so it works
+      without JavaScript and appears without shifting the page; main.js opens
+      it on wide screens and marks the current section. Then, on guides and
+      solutions, the entry that fits the reader: households join a community
+      (pillars with cta_communaute), project holders go to the features page.
+    {%- endcomment %}
+    {%- assign toc_parts = content | split: '<h2 id="' %}
+    <aside class="post__rail">
+      <div class="post__rail-inner">
+        {% if toc_parts.size > 3 %}
+        <nav class="toc" data-toc aria-label="{{ t.post.on_this_page }}">
+          <details class="toc__details">
+            <summary class="toc__title">{{ t.post.on_this_page }}{% include icon.html name="chevron-down" class="toc__chevron" %}</summary>
+            <ol class="toc__list" data-toc-list>
+              {%- for toc_part in toc_parts offset: 1 %}
+                {%- assign toc_id = toc_part | split: '"' | first %}
+                {%- assign toc_title = toc_part | split: '</h2>' | first | remove_first: toc_id | remove_first: '">' | strip_html | strip %}
+              <li><a href="#{{ toc_id }}">{{ toc_title | fr_spacing: lang }}</a></li>
+              {%- endfor %}
+            </ol>
+          </details>
+        </nav>
+        {% endif %}
+        {% if page.pillar or page.solution %}
+          <div class="rail-card">
+            {% if post_pillar and post_pillar.cta_communaute %}
+              <p class="rail-card__text">{{ t.post.rail_join }}</p>
+              <a class="btn btn-outline btn--sm" href="{{ site.cta.join_url }}" aria-label="{{ t.nav.join }}">{{ t.nav.join_short }}</a>
+            {% else %}
+              <p class="rail-card__text">{{ t.post.rail_manage }}</p>
+              <a class="btn btn-outline btn--sm" href="{{ current_lang.features_path | relative_url }}" aria-label="{{ t.nav.manage }}">{{ t.nav.manage_short }}</a>
+            {% endif %}
+          </div>
+        {% endif %}
+      </div>
+    </aside>
   </div>
 </article>

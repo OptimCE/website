@@ -1,9 +1,21 @@
 // ============================================
-// COLOR PALETTE (derived from OptimCE logo)
+// DESIGN TOKENS
+//
+// Colour chart: the OptimCE greens (the logo's, shared with the app), the
+// Bootstrap-derived greys, and for the dark theme the app's own dark surfaces
+// (monorepo/crm-frontend preset.ts). The one accent is the app's surplus amber.
+// Nothing outside this chart. Every text/background pair used below is WCAG AA
+// (checked 2026-09-29); the energy series and the quarter-hour ramp were
+// checked for colour-blind separation as well. DESIGN.md explains the roles.
+//
+// Names that inline styles depend on must stay: --text-5xl, --weight-bold,
+// --color-primary, --space-4 and --space-8 (404 page), --text-sm.
 // ============================================
 
 :root {
-  // Brand greens (dark to light)
+  color-scheme: light;
+
+  // --- Chart: brand greens (dark to light) ---
   --color-green-950: #072508;
   --color-green-900: #0d3b11;
   --color-green-800: #145218;
@@ -16,53 +28,111 @@
   --color-green-100: #c8e6c9;
   --color-green-50:  #e8f5e9;
 
-  // Neutrals
+  // --- Chart: neutrals ---
   --color-white:    #FFFFFF;
   --color-gray-50:  #f8faf8;
   --color-gray-100: #ECEFF1;
   --color-gray-200: #DEE2E6;
   --color-gray-300: #ADB5BD;
+  --color-gray-400: #868E96;   // 3.3:1 on white: input and control borders
   --color-gray-600: #495057;
   --color-gray-700: #343A40;
   --color-gray-800: #212529;
   --color-gray-900: #0e120e;
 
-  // Semantic colors
-  --color-primary:       var(--color-green-700);
-  --color-primary-hover: var(--color-green-800);
-  --color-primary-light: var(--color-green-50);
-  --color-accent:        var(--color-green-400);
-  --color-text:          var(--color-gray-800);
-  --color-text-muted:    var(--color-gray-600);
-  --color-text-inverse:  var(--color-white);
-  --color-bg:            var(--color-white);
-  --color-bg-alt:        var(--color-gray-50);
-  --color-border:        var(--color-gray-200);
-  --color-surface:       var(--color-white);
+  // --- Chart: the app's dark surfaces (dark theme) ---
+  --color-night-950: #0e120e;
+  --color-night-900: #181e18;
+  --color-night-800: #252d26;
+  --color-night-700: #374038;
+  --color-night-600: #4a5a4c;
+  --color-night-500: #6e7e70;
+  --color-night-400: #9ba89d;
+  --color-night-200: #e2e8e3;
+  --color-night-100: #f0f4f0;
+  --color-night-tint: #152a16;  // green-600 mixed 22% into night-950
 
-  // Typography
-  --font-body:    'Source Sans 3', 'Source Sans 3 Fallback', -apple-system, BlinkMacSystemFont, sans-serif;
+  // --- Chart: the app's surplus amber (sun, "now") ---
+  --color-amber-500: #f59e0b;
+  --color-amber-600: #d97706;
+
+  // --- Roles ---
+  --color-primary:        var(--color-green-700);  // buttons, links (7.9:1)
+  --color-primary-hover:  var(--color-green-800);
+  --color-primary-light:  var(--color-green-50);   // tinted surfaces
+  --color-on-primary:     var(--color-white);
+  --color-accent:         var(--color-green-400);
+  --color-sun:            var(--color-amber-500);  // never text on white (2.2:1)
+  --color-text:           var(--color-gray-800);
+  --color-heading:        var(--color-gray-900);
+  --color-text-muted:     var(--color-gray-600);   // 8.2:1
+  --color-text-inverse:   var(--color-white);
+  --color-bg:             var(--color-white);
+  --color-bg-alt:         var(--color-gray-50);
+  --color-surface:        var(--color-white);
+  --color-surface-raised: var(--color-white);
+  --color-border:         var(--color-gray-200);   // decorative hairlines
+  --color-border-strong:  var(--color-gray-400);   // controls, 3:1
+  --color-tint:           var(--color-green-50);   // callouts, chips
+  --color-tint-text:      var(--color-green-700);
+  --color-focus:          var(--color-green-700);
+  --color-code-bg:        var(--color-night-950);
+  --color-code-border:    transparent;
+  --color-code-text:      var(--color-night-200);
+  --color-code-muted:     var(--color-night-400);
+  --color-code-string:    var(--color-green-300);
+  --color-code-keyword:   var(--color-amber-500);
+  --color-error:          #b3261e;
+
+  // --- Energy series and the quarter-hour grid ---
+  --energy-shared:  var(--color-green-600);
+  --energy-surplus: var(--color-amber-500);
+  --qh-empty:  var(--color-gray-100);
+  --qh-future: var(--color-gray-50);
+  --qh-1: var(--color-green-300);
+  --qh-2: var(--color-green-500);
+  --qh-3: var(--color-green-600);
+  --qh-4: var(--color-green-700);
+  --qh-now: var(--color-amber-500);
+  --qh-label: var(--color-gray-600);
+
+  // --- Typography ---
+  --font-body:    'Source Sans 3', 'Source Sans 3 Fallback', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   --font-heading: 'Plus Jakarta Sans', 'Plus Jakarta Sans Fallback', var(--font-body);
-  --font-mono:    'JetBrains Mono', 'Fira Code', monospace;
+  --font-mono:    ui-monospace, 'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace;
 
-  --text-sm:  0.875rem;
+  --text-xs:   0.75rem;
+  --text-sm:   0.875rem;
   --text-base: 1rem;
-  --text-lg:  1.125rem;
-  --text-xl:  1.25rem;
-  --text-2xl: 1.5rem;
-  --text-3xl: 1.875rem;
-  --text-4xl: 2.25rem;
-  --text-5xl: 3rem;
+  --text-lg:   1.125rem;
+  --text-xl:   1.25rem;
+  --text-2xl:  1.5rem;
+  --text-3xl:  1.875rem;
+  --text-4xl:  2.25rem;
+  --text-5xl:  3rem;
 
-  --leading-tight:  1.25;
+  // Fluid scale (2026 redesign)
+  --text-body:    1.0625rem;
+  --text-prose:   1.125rem;
+  --text-h3:      1.25rem;
+  --text-h2:      clamp(1.5rem, 1.33rem + 0.7vw, 1.875rem);
+  --text-h1:      clamp(2rem, 1.62rem + 1.6vw, 2.75rem);
+  --text-display: clamp(2.5rem, 1.75rem + 3.2vw, 4rem);
+
+  --leading-tight:  1.2;
   --leading-normal: 1.6;
+  --leading-prose:  1.65;
 
-  --weight-normal:   400;
-  --weight-medium:   500;
-  --weight-semibold: 600;
-  --weight-bold:     700;
+  --tracking-display: -0.03em;
+  --tracking-heading: -0.02em;
 
-  // Spacing (8px base)
+  --weight-normal:    400;
+  --weight-medium:    500;
+  --weight-semibold:  600;
+  --weight-bold:      700;
+  --weight-extrabold: 800;
+
+  // --- Spacing (8px base) ---
   --space-1:  0.25rem;
   --space-2:  0.5rem;
   --space-3:  0.75rem;
@@ -75,25 +145,81 @@
   --space-16: 4rem;
   --space-20: 5rem;
   --space-24: 6rem;
+  --space-section: clamp(3rem, 2rem + 4vw, 6rem);
+  --gutter: clamp(1rem, 0.5rem + 2.5vw, 2rem);
 
-  // Layout
-  --container-max:    1200px;
+  // --- Layout ---
+  --container-max:    1320px;  // shared by header and content (see $bp-header)
   --container-narrow: 800px;
-  --header-height:    72px;
+  --measure:          38rem;   // article column, about 72 characters a line
+  --rail-width:       15rem;
+  --header-height:    64px;
 
-  // Borders & Shadows
+  // --- Radii: by hierarchy ---
   --radius-sm:   4px;
-  --radius-md:   8px;
-  --radius-lg:   12px;
+  --radius-chip: 6px;
+  --radius-md:   8px;   // controls
+  --radius-lg:   12px;  // cards, panels
   --radius-full: 9999px;
 
-  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.05);
-  --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.07);
-  --shadow-lg: 0 10px 25px rgba(0, 0, 0, 0.1);
+  // Only floating layers (the language menu) cast a shadow; everything else
+  // is flat with hairline borders.
+  --shadow-sm: 0 1px 2px rgba(14, 18, 14, 0.05);
+  --shadow-md: 0 8px 24px rgba(14, 18, 14, 0.12), 0 2px 6px rgba(14, 18, 14, 0.08);
+  --shadow-lg: 0 16px 40px rgba(14, 18, 14, 0.14);
 
-  // Transitions
+  // --- Motion ---
   --transition-fast: 150ms ease;
   --transition-base: 250ms ease;
+}
+
+// --- Dark theme ---
+// Follows the system setting unless the visitor picks a theme with the toggle
+// (data-theme on <html>, set before first paint by head.html from
+// localStorage 'oce-theme', the key guide.optimce.be uses).
+@mixin theme-dark {
+  color-scheme: dark;
+  --color-primary:        var(--color-green-400);  // 8.0:1 on night-950
+  --color-primary-hover:  var(--color-green-300);
+  --color-primary-light:  var(--color-night-tint);
+  --color-on-primary:     var(--color-night-950);
+  --color-text:           var(--color-night-100);
+  --color-heading:        var(--color-night-100);
+  --color-text-muted:     var(--color-night-400);  // 7.6:1
+  --color-text-inverse:   var(--color-night-950);
+  --color-bg:             var(--color-night-950);
+  --color-bg-alt:         var(--color-night-900);
+  --color-surface:        var(--color-night-900);
+  --color-surface-raised: var(--color-night-800);
+  --color-border:         var(--color-night-700);
+  --color-border-strong:  var(--color-night-500);
+  --color-tint:           var(--color-night-tint);
+  --color-tint-text:      var(--color-green-300);
+  --color-focus:          var(--color-green-300);
+  --color-code-bg:        var(--color-night-900);
+  --color-code-border:    var(--color-night-700);
+  --color-error:          #f28b82;
+
+  --energy-surplus: var(--color-amber-600);
+  --qh-empty:  var(--color-night-800);
+  --qh-future: var(--color-night-900);
+  --qh-1: var(--color-green-800);
+  --qh-2: var(--color-green-600);
+  --qh-3: var(--color-green-500);
+  --qh-4: var(--color-green-300);
+  --qh-label: var(--color-night-400);
+
+  --shadow-md: 0 8px 24px rgba(0, 0, 0, 0.45), 0 2px 6px rgba(0, 0, 0, 0.3);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    @include theme-dark;
+  }
+}
+
+:root[data-theme="dark"] {
+  @include theme-dark;
 }
 
 // SCSS breakpoint variables

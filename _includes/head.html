@@ -1,14 +1,23 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- comment -%}
+    Theme before first paint: a theme picked with the header switch (stored as
+    'oce-theme', like guide.optimce.be) wins over the system setting. Inline and
+    first on purpose, so the page never flashes the other theme.
+  {%- endcomment %}
+  <script>(function(){try{var t=localStorage.getItem('oce-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0e120e" media="(prefers-color-scheme: dark)">
   {% seo %}
   {%- if page.noindex %}
   <meta name="robots" content="noindex,follow">
   {%- endif %}
   {% include hreflang.html %}
   {% include structured-data.html %}
-  <link rel="preload" as="font" type="font/woff2" href="{{ '/assets/fonts/source-sans-3-400.woff2' | relative_url }}" crossorigin>
-  <link rel="preload" as="font" type="font/woff2" href="{{ '/assets/fonts/plus-jakarta-sans-700.woff2' | relative_url }}" crossorigin>
+  <link rel="preload" as="font" type="font/woff2" href="{{ '/assets/fonts/source-sans-3-var.woff2' | relative_url }}" crossorigin>
+  <link rel="preload" as="font" type="font/woff2" href="{{ '/assets/fonts/plus-jakarta-sans-var.woff2' | relative_url }}" crossorigin>
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
   <link rel="icon" type="image/svg+xml" href="{{ '/assets/images/logo.svg' | relative_url }}">
   <script defer src="https://cloud.umami.is/script.js" data-website-id="fbdc87e9-b8de-4ce6-81ed-946097789914"></script>

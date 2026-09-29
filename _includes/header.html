@@ -6,19 +6,32 @@
 <header class="site-header" role="banner">
   <div class="container site-header__inner">
     <a href="{{ lang_prefix | append: '/' | relative_url }}" class="site-header__logo" aria-label="OptimCE - {{ t.nav.home }}">
-      <img src="{{ '/assets/images/logo.svg' | relative_url }}" alt="OptimCE" width="45" height="40">
+      <img src="{{ '/assets/images/logo.svg' | relative_url }}" alt="" width="36" height="32">
+      <span class="site-header__wordmark">OptimCE</span>
     </a>
 
+    {%- comment -%}
+      The desktop bar leaves out Home: the logo is the way home, and the room
+      goes to the GitHub link and the theme switch. The mobile menu and the
+      footer keep the full list.
+    {%- endcomment %}
     <nav class="site-nav" aria-label="{{ t.a11y.nav_main }}">
       <ul class="site-nav__list">
-        {% include nav-links.html current=true %}
+        {% include nav-links.html current=true home=false %}
       </ul>
     </nav>
 
+    <div class="site-header__tools">
+      <a class="icon-button site-header__github" href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener" aria-label="{{ t.a11y.github }}" title="{{ t.a11y.github }}">
+        {% include icon.html name="github" %}
+      </a>
+      {% include theme-toggle.html %}
+    </div>
+
     {%- comment -%}
       The two audience entries (households join a community; project holders
-      manage or create one). Short labels keep eight menu items and two
-      buttons on one line; the accessible name carries the full label.
+      manage or create one). Short labels keep the menu and two buttons on one
+      line; the accessible name carries the full label.
     {%- endcomment %}
     <div class="site-header__actions">
       {% include language-switcher.html id="desktop" %}
@@ -30,7 +43,7 @@
       main.js has no front matter, so it cannot read `t`. The two labels ride in
       on data-* attributes, matching the pattern already used by the newsletter
       form, and main.js swaps aria-label on toggle.
-    {%- endcomment -%}
+    {%- endcomment %}
     <button class="hamburger" aria-expanded="false" aria-controls="mobile-menu"
             aria-label="{{ t.a11y.menu_open }}"
             data-label-open="{{ t.a11y.menu_open }}"
@@ -47,9 +60,15 @@
         {% include nav-links.html current=true %}
       </ul>
       <div class="mobile-menu__actions">
+        <a href="{{ site.cta.join_url }}" class="btn btn-outline btn--lg">{{ t.nav.join }}</a>
+        <a href="{{ current_lang.features_path | relative_url }}" class="btn btn-primary btn--lg">{{ t.nav.manage }}</a>
+      </div>
+      <div class="mobile-menu__footer">
         {% include language-switcher.html id="mobile" %}
-        <a href="{{ site.cta.join_url }}" class="btn btn-outline">{{ t.nav.join }}</a>
-        <a href="{{ current_lang.features_path | relative_url }}" class="btn btn-primary">{{ t.nav.manage }}</a>
+        <a class="mobile-menu__github" href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener">
+          {% include icon.html name="github" %}
+          <span>GitHub</span>
+        </a>
       </div>
     </nav>
   </div>

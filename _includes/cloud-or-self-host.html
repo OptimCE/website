@@ -1,0 +1,42 @@
+{% assign lang = page.lang | default: site.lang %}
+{% assign t = site.data.i18n[lang] %}
+{%- comment -%}
+  The two ways to run OptimCE, and what stays free. Replaces the former
+  commitment cards and the developers band. No install commands here: the
+  development monorepo is not the way to deploy, and installation belongs to
+  the developer documentation (site.developers_url in _config.yml; its button
+  shows once that address is set).
+{%- endcomment %}
+<section class="section hosting">
+  <div class="container">
+    <header class="section__header">
+      <h2 class="section__title">{{ t.hosting.title }}</h2>
+      <p class="section__subtitle">{{ t.hosting.subtitle }}</p>
+    </header>
+    <div class="hosting__grid">
+      <div class="hosting-option">
+        <div class="hosting-option__intro">
+          <p class="hosting-option__label">{{ t.hosting.cloud.label }}</p>
+          <h3 class="hosting-option__title">{{ t.hosting.cloud.title }}</h3>
+          <p class="hosting-option__text">{{ t.hosting.cloud.text }}</p>
+        </div>
+        <a class="btn btn-primary" href="{{ site.cta.app_url }}">{{ t.hosting.cloud.cta }}</a>
+      </div>
+      <div class="hosting-option">
+        <div class="hosting-option__intro">
+          <p class="hosting-option__label">{{ t.hosting.self.label }}</p>
+          <h3 class="hosting-option__title">{{ t.hosting.self.title }}</h3>
+          <p class="hosting-option__text">{{ t.hosting.self.text }}</p>
+        </div>
+        {% if site.developers_url and site.developers_url != "" %}
+        <a class="btn btn-outline" href="{{ site.developers_url }}">{{ t.hosting.self.docs }}</a>
+        {% endif %}
+        <ul class="hosting-option__links" role="list">
+          <li><a href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener">{% include icon.html name="github" %}{{ t.hosting.self.github }}</a></li>
+          <li><a href="https://hosted.weblate.org/engage/optimce/" target="_blank" rel="noopener">{% include icon.html name="language" %}{{ t.hosting.self.translate }}</a></li>
+        </ul>
+      </div>
+    </div>
+    <p class="hosting__stack">{{ t.hosting.stack }}</p>
+  </div>
+</section>

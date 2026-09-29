@@ -88,6 +88,11 @@ cta:
   join_url: "https://app.optimce.be"
   app_url: "https://app.optimce.be"
 
+# Developer documentation (installation, configuration, API), linked from the
+# homepage's self-hosting card (_includes/cloud-or-self-host.html). The button
+# shows only when this is set, so no link points at a site that is not online.
+developers_url: ""
+
 # Raster logo for structured data (Google's image guidance prefers it over SVG).
 logo: /assets/images/logo-512.png
 
@@ -157,4 +162,5 @@ exclude:
   - vendor
   - scripts
   - README.md
+  - DESIGN.md
   - LICENSE

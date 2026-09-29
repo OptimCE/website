@@ -19,111 +19,131 @@ nav:
   links: "Links"
   guide: "Gebruikershandleiding"
   privacy: "Privacy"
-
-# Hero Section
+# Hero (_includes/hero.html) and the quarter-hour grid
+# (_includes/quarter-hour-grid.html). In grid strings, assets/js/main.js fills
+# {time} {n} {kwh} {members} {date}; {h}/{hh} = hour, {m} = minutes.
 hero:
-  title: "Het open source platform voor het beheer van uw energiegemeenschap"
+  title: "Uw energiegemeenschap, beheerd tot op het kwartier"
   subtitle: >-
-    OptimCE vereenvoudigt het beheer van leden, meters en energiedeling
-    binnen uw hernieuwbare-energiegemeenschap.
+    OptimCE is het open source platform dat de leden, meters, verdeelsleutels
+    en facturatie van uw gemeenschap samenbrengt. Gebruik het online of host
+    het zelf.
+  oss_note: "Vrije software onder de Apache 2.0-licentie, op GitHub"
+  grid:
+    legend_label: "Gedeelde energie per kwartier"
+    legend_none: "geen"
+    legend_more: "veel"
+    readout_static: "Elk vakje is een kwartier: 96 per dag."
+    readout_day: "Het is {time}: kwartier {n} van 96. In dit voorbeeld wordt {kwh} kWh gedeeld tussen {members} gezinnen."
+    readout_idle: "Het is {time}: kwartier {n} van 96. Te weinig zon om te delen: het net neemt het over."
+    tooltip: "{date}, {time}: {kwh} kWh gedeeld"
+    time_format: "{h}.{m} uur"
+    hour_format: "{h} uur"
+    aria_label: "Raster van 28 dagen op 96 kwartieren: de in het voorbeeld gedeelde energie, van de oudste dag bovenaan tot vandaag onderaan."
+    poster_alt: "Raster van 28 dagen op 96 kwartieren: de in het voorbeeld gedeelde energie, in juni."
+    caption: >-
+      Voorbeeld: een dak van 24 kWp en 12 gezinnen in Namen. Productie
+      berekend met PVGIS en het weer van 2023 op dezelfde data; verbruik
+      volgens een typisch profiel van 3 500 kWh per gezin per jaar.
+    table_summary: "Toon de cijfers van deze 28 dagen"
+    table_day: "Dag"
+    table_shared: "Gedeelde energie"
+    table_best: "Beste kwartier"
+    table_best_format: "{kwh} kWh om {time}"
 
-# Features Section
+# Features: title and link kept for the modules section and the features page
 features:
   title: "Functies"
   subtitle: "Alles wat u nodig heeft om uw energiegemeenschap te beheren"
   see_all: "Alle functies bekijken"
-  items:
-    - icon: "users"
-      title: "Ledenbeheer"
-      description: >-
-        Onboarding, rollen, gemeenschap-gebruiker koppelingen.
-        Beheer eenvoudig alle deelnemers van uw gemeenschap.
-    - icon: "meter"
-      title: "Meterbeheer"
-      description: >-
-        Volg de energiemeters van elk lid
-        en centraliseer verbruiks- en productiegegevens.
-    - icon: "key"
-      title: "Verdeelsleutels"
-      description: >-
-        Configureer verdeelsleutels en deeloperaties
-        om energie onder de leden te verdelen.
-    - icon: "building"
-      title: "Multi-gemeenschap"
-      description: >-
-        Eén instantie voor meerdere energiegemeenschappen.
-        Ingebouwde multi-tenant architectuur.
-    - icon: "puzzle"
-      title: "Uitbreidbare modules"
-      description: >-
-        Gebeurtenisgestuurde integratie (SQS) waarmee u
-        tools van derden kunt aansluiten, zoals een energiebeheersysteem.
-    - icon: "open-source"
-      title: "Open source"
-      description: >-
-        Open en transparante broncode. Draag bij, controleer
-        en pas het platform aan uw behoeften aan.
 
-# Why OptimCE
-why:
-  title: "Waarom OptimCE?"
-  subtitle: "Een oplossing ontworpen voor Europese energiegemeenschappen"
-  points:
-    - title: "Open source en transparant"
-      description: >-
-        Open, controleerbare en aanpasbare broncode.
-        Geen vendor lock-in.
-    - title: "Ontworpen voor het Europese kader"
-      description: >-
-        In overeenstemming met de Europese richtlijnen voor hernieuwbare-energiegemeenschappen
-        en burgerenergiegemeenschappen.
-    - title: "Eenvoudig te implementeren"
-      description: >-
-        Snelle installatie. Meertalige interface (FR, EN, NL, DE)
-        en schaalbare architectuur.
+# How it works (_includes/how-it-works.html)
+how:
+  title: "Hoe het werkt"
+  subtitle: "Drie stappen, van de inschrijving van de leden tot de factuur."
+  steps:
+    - title: "Schrijf de leden en hun meters in"
+      text: >-
+        Elk lid sluit zich met zijn meter aan bij de gemeenschap. OptimCE
+        brengt de meetgegevens samen, kwartier per kwartier.
+    - title: "Kies de verdeelsleutel"
+      text: >-
+        Stel hem op in een tabel of stap voor stap en vergelijk met de
+        simulatie meerdere scenario's op uw eigen gegevens.
+    - title: "Factureer en rapporteer"
+      text: >-
+        Voor elke facturatieperiode factureert OptimCE de gedeelde energie aan
+        elk lid en bereidt het de dossiers voor de Waalse regulator (CWaPE)
+        voor.
 
-# Commitment
-commitment:
-  title: "Gratis, open, en gebouwd om dat te blijven"
-  subtitle: >-
-    OptimCE bevindt zich in de alpha-fase en maakt deel uit van een lopend onderzoeksproject.
-    Dit zijn onze toezeggingen, vandaag en op lange termijn.
-  cards:
-    - icon: "rocket"
-      label: "Vandaag"
-      title: "Gratis tijdens de alpha"
-      description: >-
-        De gehoste SaaS op app.optimce.be is gratis te gebruiken tijdens de alpha-fase.
-        Zoals bij veel open source projecten, kan de gehoste versie later overstappen
-        op betaalde plannen — u wordt ruim van tevoren op de hoogte gesteld.
-        Self-hosting blijft hoe dan ook gratis.
-    - icon: "code"
-      label: "Voor altijd"
-      title: "Altijd open source"
-      description: >-
-        De volledige broncode is uitgebracht onder Apache 2.0 en blijft open.
-        Controleer, fork, draag bij — geen propriëtaire kern, geen ommezwaai.
-    - icon: "server"
-      label: "Voor altijd"
-      title: "Self-hosting altijd gratis"
-      description: >-
-        Draai OptimCE op uw eigen infrastructuur zonder enige beperking.
-        De open source kern blijft volledig — geen betaalde niveaus, geen functionaliteiten op slot.
-        Betaalde ondersteuning of diensten kunnen er los van bestaan, maar nooit als slot op de open source zelf.
+# Application modules (_includes/modules.html)
+modules:
+  title: "Wat de app doet"
+  subtitle: "De modules van OptimCE, van het ledenregister tot de dossiers voor de CWaPE."
+  groups:
+    - name: "Gemeenschap"
+      items:
+        - title: "Leden"
+          text: "Lidmaatschappen, rollen, bankgegevens en documenten van elk lid."
+        - title: "Meters en kaart"
+          text: "Elke meter met zijn kwartierwaarden, als lijst of op de kaart."
+        - title: "Openbare gids"
+          text: "Stel uw gemeenschap voor, zodat nieuwe leden haar vinden."
+    - name: "Delen"
+      items:
+        - title: "Verdeelsleutels"
+          text: "In een tabel of met een stapsgewijze assistent."
+        - title: "Simulatie"
+          text: "Zelfverbruik, overschot en deelgraad van meerdere scenario's naast elkaar."
+        - title: "Realtime gegevens"
+          text: "Productie en vermogen, uitgelezen van digitale meters."
+    - name: "Beheer"
+      items:
+        - title: "Facturatie"
+          text: "Tarieven, facturatierondes, creditnota's en opvolging van betalingen."
+        - title: "CWaPE-dossiers"
+          text: "Termijnen, tijdlijn en gegenereerde formulieren voor de Waalse regulator."
+        - title: "Nieuws en peilingen"
+          text: "Informeer uw leden en raadpleeg hen in de app."
+  note: >-
+    Eén installatie kan meerdere gemeenschappen herbergen, en tools van derden
+    koppelen aan haar gebeurtenissen (NATS).
+  shot_alt: "Het dashboard van een beheerder in OptimCE: aandachtspunten, gedeelde energie, deelacties, nieuwe leden en recente activiteit."
+  shot_caption: "Het dashboard van een beheerder in de alphaversie, met testgegevens (Engelstalige interface)."
 
-# For Developers
-developers:
-  title: "Voor ontwikkelaars"
-  subtitle: "Gebouwd met moderne, open technologieën"
-  description: >-
-    Angular frontend, Node.js/TypeScript en FastAPI backend,
-    gebeurtenisgestuurde architectuur. Draag bij op GitHub of integreer
-    OptimCE in uw eigen tools via de REST API.
-  cta: "Bijdragen op GitHub"
+# Hosting (_includes/cloud-or-self-host.html)
+hosting:
+  title: "Bij ons of bij u"
+  subtitle: "Dezelfde software, uitgebracht onder de Apache 2.0-licentie. U kiest wie ze host."
+  cloud:
+    label: "Gratis tijdens de alpha"
+    title: "app.optimce.be"
+    text: >-
+      De gehoste versie, meteen klaar voor gebruik: niets te installeren, niets
+      te onderhouden. Wordt ze ooit betalend, dan hoort u het ruim op voorhand.
+    cta: "De app openen"
+  self:
+    label: "Voor altijd gratis"
+    title: "Op uw eigen servers"
+    text: >-
+      Alle code is open: geen uitgeklede versie, geen propriëtaire kern. U
+      houdt de controle over uw gegevens en staat zelf in voor de hosting.
+    docs: "Documentatie voor ontwikkelaars"
+    github: "Broncode op GitHub"
+    translate: "Vertalen op Weblate"
+  stack: "Onder de motorkap: Angular, Node.js en FastAPI, NATS-gebeurtenissen, een REST API."
+
+# Ways into the guides (_includes/guide-entry.html)
+home_guides:
+  title: "Begrijpen voor u begint"
+  subtitle: "Gidsen met bronnen over de elektriciteitsfactuur, zonne-energie en energiedelen in België."
+  topics: "Per thema"
+  audiences: "Per type project"
+  all_guides: "Alle gidsen"
+  all_solutions: "Alle oplossingen"
 
 # Newsletter
 newsletter:
-  eyebrow: "Nieuwsbrief"
   title: "Wees als eerste op de hoogte"
   subtitle: >-
     Nieuwe functies, vroege toegang tot de alpha en projectupdates —
@@ -169,6 +189,12 @@ cta_communaute:
   title: "Aansluiten bij een energiegemeenschap in uw buurt"
   text: "Blader in de OptimCE-app door de deelacties die openstaan voor nieuwe leden en neem contact op met de deelactie die bij u past."
   button: "Een gemeenschap vinden"
+
+# Article page (_layouts/post.html)
+post:
+  on_this_page: "Op deze pagina"
+  rail_join: "Een energiegemeenschap in uw buurt?"
+  rail_manage: "Werkt u aan een project voor energiedelen?"
 
 # Glossary
 glossary:
@@ -293,6 +319,7 @@ footer:
   newsletter_title: "Nieuwsbrief"
   license: "Apache 2-licentie"
   copyright: "OptimCE. Alle rechten voorbehouden."
+  credits: "Voortgekomen uit Locomotrice, een Waals onderzoeksproject (2023–2026), gefinancierd door het Win2Wal-programma en getrokken door de Universiteit van Luik (BEMS-lab) en CECOTEPE."
 
 # 404
 not_found:
@@ -318,6 +345,8 @@ a11y:
   translations: "Vertalingen van dit artikel"
   breadcrumb: "Kruimelpad"
   available_languages: "Beschikbare talen"
+  github: "OptimCE op GitHub"
+  theme_dark: "Donker thema"
 
 # Open Graph / social sharing
 og:

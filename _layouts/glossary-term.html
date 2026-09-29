@@ -12,7 +12,7 @@ layout: default
 {% assign t = site.data.i18n[lang] %}
 {% assign current_lang = site.languages | where: "code", lang | first %}
 <article class="page glossary-term">
-  <header class="page__header section">
+  <header class="page__header">
     <div class="container container--narrow">
       {% include breadcrumb.html %}
       <p class="glossary-term__category">
@@ -21,9 +21,9 @@ layout: default
       <h1 class="page__title"><dfn>{{ page.term_name }}</dfn></h1>
     </div>
   </header>
-  <div class="page__content section">
+  <div class="page__content">
     <div class="container container--narrow">
-      <p class="glossary-term__definition">{{ page.term_definition_html }}</p>
+      <p class="glossary-term__definition">{{ page.term_definition_html | fr_spacing: lang }}</p>
       {% if page.term_aliases.size > 0 %}
         <p class="glossary-card__aliases"><span class="glossary-card__aliases-label">{{ t.glossary.alias_label }}</span> {{ page.term_aliases | join: ", " }}</p>
       {% endif %}
@@ -35,7 +35,7 @@ layout: default
 
       {% if page.term_cited.size > 0 %}
         <h2>{{ t.glossary.term.cited }}</h2>
-        <ul class="glossary-term__chips">
+        <ul class="glossary-term__chips" role="list">
           {% for item in page.term_cited %}
             <li><a class="post__tag" href="{{ item.url | relative_url }}">{{ item.name }}</a></li>
           {% endfor %}
@@ -44,7 +44,7 @@ layout: default
 
       {% if page.term_related.size > 0 %}
         <h2>{{ t.glossary.term.related }}</h2>
-        <ul class="glossary-term__chips">
+        <ul class="glossary-term__chips" role="list">
           {% for item in page.term_related %}
             <li><a class="post__tag" href="{{ item.url | relative_url }}">{{ item.name }}</a></li>
           {% endfor %}
@@ -53,9 +53,9 @@ layout: default
 
       {% if page.term_backlinks.size > 0 %}
         <h2>{{ t.glossary.term.used_in }}</h2>
-        <ul class="glossary-term__articles">
+        <ul class="glossary-term__articles" role="list">
           {% for post in page.term_backlinks %}
-            <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+            <li><a href="{{ post.url | relative_url }}">{{ post.title | fr_spacing: lang }}</a></li>
           {% endfor %}
         </ul>
       {% endif %}
@@ -63,13 +63,13 @@ layout: default
       {% if page.term_pillar %}
         <h2>{{ t.glossary.term.go_further }}</h2>
         <p>
-          <a href="{{ page.term_pillar.url | relative_url }}"><strong>{{ page.term_pillar.title }}</strong></a>
+          <a href="{{ page.term_pillar.url | relative_url }}"><strong>{{ page.term_pillar.title | fr_spacing: lang }}</strong></a>
           — {{ page.term_pillar.subtitle | default: page.term_pillar.description }}
         </p>
       {% endif %}
 
       <p class="glossary-term__back">
-        <a href="{{ current_lang.glossary_path | append: '#' | append: page.term_key | relative_url }}">&larr; {{ t.glossary.term.back }}</a>
+        <a href="{{ current_lang.glossary_path | append: '#' | append: page.term_key | relative_url }}">{% include icon.html name="chevron-left" %}{{ t.glossary.term.back }}</a>
       </p>
     </div>
   </div>

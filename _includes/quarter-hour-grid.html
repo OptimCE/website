@@ -1,0 +1,56 @@
+{%- comment -%}
+  The homepage grid: shared energy in each of the 96 quarter-hours of the
+  28 days that end today, for an example community. Data and method:
+  _data/quarter_hours.json, built by scripts/build_quarter_hours.py (PVGIS
+  production, a documented household profile). main.js draws it in the
+  reader's language and time (Europe/Brussels), marks the current
+  quarter-hour, fills today's row once (not under reduced motion) and builds
+  the table below, which is the accessible view of the same numbers.
+  Without JavaScript, the static poster (four weeks up to 21 June) shows.
+{%- endcomment -%}
+{%- assign qg_lang = page.lang | default: site.lang -%}
+{%- assign qg_t = site.data.i18n[qg_lang].hero.grid -%}
+{%- assign qg_cl = site.languages | where: "code", qg_lang | first -%}
+{%- assign qg = site.data.quarter_hours -%}
+<figure class="qh" data-qh
+  data-locale="{{ qg_cl.locale | replace: '_', '-' }}"
+  data-members="{{ qg.members }}"
+  data-step="{{ qg.step_wh }}"
+  data-levels="{{ qg.levels_wh | join: ',' }}"
+  data-time-format="{{ qg_t.time_format }}"
+  data-hour-format="{{ qg_t.hour_format }}"
+  data-readout-day="{{ qg_t.readout_day | escape }}"
+  data-readout-idle="{{ qg_t.readout_idle | escape }}"
+  data-tip="{{ qg_t.tooltip | escape }}"
+  data-col-day="{{ qg_t.table_day | escape }}"
+  data-col-shared="{{ qg_t.table_shared | escape }}"
+  data-col-best="{{ qg_t.table_best | escape }}"
+  data-best-format="{{ qg_t.table_best_format | escape }}">
+  <p class="qh__readout">
+    <span class="qh__now-swatch" aria-hidden="true"></span>
+    <span data-qh-readout>{{ qg_t.readout_static }}</span>
+  </p>
+  <div class="qh__canvas" data-qh-canvas role="img" aria-label="{{ qg_t.aria_label | escape }}">
+    <noscript><img src="{{ '/assets/images/quarter-hours-poster.svg' | relative_url }}" alt="{{ qg_t.poster_alt | escape }}" width="960" height="280"></noscript>
+  </div>
+  <div class="qh__tip" data-qh-tip hidden></div>
+  <figcaption class="qh__caption">
+    <span class="qh__legend" aria-hidden="true">
+      <span class="qh__legend-label">{{ qg_t.legend_label }}</span>
+      <span>{{ qg_t.legend_none }}</span>
+      <span class="qh__swatch qh__swatch--0"></span><span class="qh__swatch qh__swatch--1"></span><span class="qh__swatch qh__swatch--2"></span><span class="qh__swatch qh__swatch--3"></span><span class="qh__swatch qh__swatch--4"></span>
+      <span>{{ qg_t.legend_more }}</span>
+    </span>
+    <span class="qh__source">{{ qg_t.caption }}</span>
+  </figcaption>
+  <details class="qh__data" data-qh-table-wrap hidden>
+    <summary>{{ qg_t.table_summary }}</summary>
+    <div class="qh__table-scroll">
+      <table>
+        <thead><tr data-qh-table-head></tr></thead>
+        <tbody data-qh-table></tbody>
+      </table>
+    </div>
+  </details>
+  <script type="application/json" data-qh-data>{{ qg.days | jsonify }}</script>
+</figure>

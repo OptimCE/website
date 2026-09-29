@@ -2,7 +2,9 @@
   Site sections as <li> items, in menu order: Home, Features, Guides,
   Solutions, Glossary, News, About, User guide. Shared by the desktop menu,
   the mobile menu and the footer so the three never drift apart.
-  Params: current (true to mark the current section with aria-current).
+  Params:
+    current  true to mark the current section with aria-current
+    home     false to leave out Home (the desktop bar, where the logo is home)
   A section is current when the page URL starts with that section's path for
   the page's language (_config.yml languages[].<section>_path).
 {%- endcomment -%}
@@ -11,7 +13,9 @@
 {%- assign nav_cl = site.languages | where: "code", nav_lang | first -%}
 {%- assign nav_home = nav_cl.prefix | append: '/' -%}
 {%- assign nav_sections = "features,guides,solutions,glossary,blog,about" | split: "," %}
+{%- unless include.home == false %}
 <li><a href="{{ nav_home | relative_url }}"{% if include.current and page.url == nav_home %} aria-current="page"{% endif %}>{{ nav_t.nav.home }}</a></li>
+{%- endunless %}
 {%- for nav_key in nav_sections %}
   {%- assign nav_path_key = nav_key | append: '_path' -%}
   {%- assign nav_path = nav_cl[nav_path_key] -%}

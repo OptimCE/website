@@ -7,8 +7,8 @@
 <ul class="author-articles">
   {%- for post in aa_posts %}
   <li>
-    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    <span class="text-muted">— {% include localized-date.html date=post.date lang=aa_lang %}</span>
+    <a href="{{ post.url | relative_url }}">{{ post.title | fr_spacing: aa_lang }}</a>
+    <span class="text-muted">{% include localized-date.html date=post.date lang=aa_lang %}</span>
   </li>
   {%- endfor %}
 </ul>
