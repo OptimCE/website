@@ -36,7 +36,7 @@
     <div class="site-header__actions">
       {% include language-switcher.html id="desktop" %}
       <a href="{{ site.cta.join_url }}" class="btn btn-outline btn--sm" aria-label="{{ t.nav.join }}">{{ t.nav.join_short }}</a>
-      <a href="{{ current_lang.features_path | relative_url }}" class="btn btn-primary btn--sm" aria-label="{{ t.nav.manage }}">{{ t.nav.manage_short }}</a>
+      <a href="{{ site.cta.app_url }}" class="btn btn-primary btn--sm" aria-label="{{ t.nav.manage }}">{{ t.nav.manage_short }}</a>
     </div>
 
     {%- comment -%}
@@ -61,7 +61,7 @@
       </ul>
       <div class="mobile-menu__actions">
         <a href="{{ site.cta.join_url }}" class="btn btn-outline btn--lg">{{ t.nav.join }}</a>
-        <a href="{{ current_lang.features_path | relative_url }}" class="btn btn-primary btn--lg">{{ t.nav.manage }}</a>
+        <a href="{{ site.cta.app_url }}" class="btn btn-primary btn--lg">{{ t.nav.manage }}</a>
       </div>
       <div class="mobile-menu__footer">
         {% include language-switcher.html id="mobile" %}

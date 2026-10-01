@@ -81,9 +81,9 @@ author:
 # community" block at the end of guides, and the features page.
 #   join_url  households looking for a community. The application for now;
 #             the public directory of communities will replace it.
-#   app_url   the application, for project holders and managers.
-# "Manage or create a community" leads first to the features page of the
-# visitor's language (languages[].features_path), which then links to app_url.
+#   app_url   the application, for project holders and managers: any account
+#             can create a community there. "Manage or create a community"
+#             leads straight to it; the features page stays in the menu.
 cta:
   join_url: "https://app.optimce.be"
   app_url: "https://app.optimce.be"

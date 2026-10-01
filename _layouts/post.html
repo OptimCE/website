@@ -98,7 +98,7 @@ layout: default
               <a class="btn btn-outline btn--sm" href="{{ site.cta.join_url }}" aria-label="{{ t.nav.join }}">{{ t.nav.join_short }}</a>
             {% else %}
               <p class="rail-card__text">{{ t.post.rail_manage }}</p>
-              <a class="btn btn-outline btn--sm" href="{{ current_lang.features_path | relative_url }}" aria-label="{{ t.nav.manage }}">{{ t.nav.manage_short }}</a>
+              <a class="btn btn-outline btn--sm" href="{{ site.cta.app_url }}" aria-label="{{ t.nav.manage }}">{{ t.nav.manage_short }}</a>
             {% endif %}
           </div>
         {% endif %}

@@ -1,11 +1,10 @@
 {% assign lang = page.lang | default: site.lang %}
 {% assign t = site.data.i18n[lang] %}
-{% assign current_lang = site.languages | where: "code", lang | first %}
 {%- comment -%}
-  Two entries, one per audience: households join a community (cta.join_url,
-  the app until the public directory exists); project holders manage or
-  create one (the features page, which links to the app). Then the site's
-  signature: the quarter-hour grid.
+  Two entries, one per audience, both into the application: households join
+  a community (cta.join_url, the app until the public directory exists);
+  project holders manage or create one (cta.app_url: any account can create
+  a community there). Then the site's signature: the quarter-hour grid.
 {%- endcomment %}
 <section class="hero">
   <div class="container">
@@ -15,7 +14,7 @@
         <p class="hero__subtitle">{{ t.hero.subtitle }}</p>
         <div class="hero__actions">
           <a href="{{ site.cta.join_url }}" class="btn btn-primary btn--lg">{{ t.nav.join }}</a>
-          <a href="{{ current_lang.features_path | relative_url }}" class="btn btn-outline btn--lg">{{ t.nav.manage }}</a>
+          <a href="{{ site.cta.app_url }}" class="btn btn-outline btn--lg">{{ t.nav.manage }}</a>
         </div>
         <p class="hero__oss">
           <a href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener">
