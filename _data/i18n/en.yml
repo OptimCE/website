@@ -107,7 +107,7 @@ modules:
   note: >-
     One installation can host several communities, and third-party tools plug
     into its events (NATS).
-  shot_alt: "A manager's dashboard in OptimCE: things to check, energy shared, sharing operations, members joining and recent activity."
+  shot_alt: "A manager's dashboard in OptimCE, with the things to check and the energy shared."
   shot_caption: "A manager's dashboard in the alpha version, with test data."
 
 # Hosting (_includes/cloud-or-self-host.html)

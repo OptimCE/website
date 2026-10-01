@@ -107,7 +107,7 @@ modules:
   note: >-
     Une même installation peut accueillir plusieurs communautés, et des outils
     tiers se branchent sur ses événements (NATS).
-  shot_alt: "Le tableau de bord d'un gestionnaire dans OptimCE : points à vérifier, énergie partagée, opérations de partage, arrivées de membres et activité récente."
+  shot_alt: "Le tableau de bord d'un gestionnaire dans OptimCE, avec les points à vérifier et l'énergie partagée."
   shot_caption: "Le tableau de bord d'un gestionnaire, dans la version alpha, avec des données de test."
 
 # Hosting (_includes/cloud-or-self-host.html)

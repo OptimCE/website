@@ -108,7 +108,7 @@ modules:
   note: >-
     Eén installatie kan meerdere gemeenschappen herbergen, en tools van derden
     koppelen aan haar gebeurtenissen (NATS).
-  shot_alt: "Het dashboard van een beheerder in OptimCE: aandachtspunten, gedeelde energie, deelacties, nieuwe leden en recente activiteit."
+  shot_alt: "Het dashboard van een beheerder in OptimCE, met de aandachtspunten en de gedeelde energie."
   shot_caption: "Het dashboard van een beheerder in de alphaversie, met testgegevens (Engelstalige interface)."
 
 # Hosting (_includes/cloud-or-self-host.html)

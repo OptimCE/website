@@ -152,6 +152,17 @@ content rules require.
 
 `.hub-block` on the guide and solution indexes.
 
+### Product shot (homepage)
+
+- The manager's dashboard from the user guide's tour captures, built by
+  `scripts/build_product_shots.py`. Rerun it when the tour is captured again.
+- Phones (below 768px) get the phone capture, at about its real size (24rem
+  at most). From 768px, visitors get the desktop capture.
+- It is one `<picture>`: the browser downloads only the image it shows, and
+  each source declares its size, so nothing moves while it loads.
+- Both images show the same screen, so one alt text serves both. Keep it to
+  what the shorter phone crop shows.
+
 ### Hosting cards (homepage)
 
 Two cards of equal weight: app.optimce.be, and self-hosting. The self-hosting

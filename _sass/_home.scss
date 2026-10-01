@@ -367,6 +367,12 @@
 .product-shot {
   margin: var(--space-12) 0 0;
 
+  // Phones get the app's phone layout (modules.html), at about its real
+  // size: stretched across a small tablet it would take more than a screen.
+  @media (max-width: ($bp-md - 1px)) {
+    max-width: 24rem;
+  }
+
   figcaption {
     margin-top: var(--space-3);
     font-size: var(--text-sm);

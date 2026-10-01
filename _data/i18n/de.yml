@@ -109,7 +109,7 @@ modules:
   note: >-
     Eine Installation kann mehrere Gemeinschaften beherbergen, und
     Drittanbieter-Tools docken an ihre Ereignisse an (NATS).
-  shot_alt: "Das Dashboard einer Verwaltung in OptimCE: zu prüfende Punkte, geteilte Energie, Teilungsoperationen, neue Mitglieder und letzte Aktivitäten."
+  shot_alt: "Das Dashboard einer Verwaltung in OptimCE, mit den zu prüfenden Punkten und der geteilten Energie."
   shot_caption: "Das Dashboard einer Verwaltung in der Alpha-Version, mit Testdaten (englische Oberfläche)."
 
 # Hosting (_includes/cloud-or-self-host.html)
