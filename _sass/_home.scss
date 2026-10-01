@@ -9,8 +9,23 @@
   padding-bottom: var(--space-4);
 }
 
+// Stacked up to $bp-header, where the full header appears. From there the
+// title and the lead share the width of the grid below, side by side, on a
+// common last line. Any narrower and the French buttons stack beside a much
+// shorter title.
 .hero__copy {
   max-width: 48rem;
+
+  @media (min-width: $bp-header) {
+    display: grid;
+    // The title column never narrows below its longest word (German
+    // "Energiegemeinschaft,"): the lead gives way instead.
+    grid-template-columns: minmax(min-content, 1fr) minmax(0, 1fr);
+    column-gap: var(--space-16);
+    align-items: end;
+    align-items: last baseline;
+    max-width: none;
+  }
 }
 
 .hero__title {
@@ -20,6 +35,13 @@
   font-weight: var(--weight-bold);
   line-height: 1.04;
   letter-spacing: var(--tracking-display);
+
+  // Half the width: the size follows the column up to 4rem, so "Votre
+  // communauté" keeps one line.
+  @media (min-width: $bp-header) {
+    margin-bottom: 0;
+    font-size: min(4rem, 4.5vw);
+  }
 }
 
 .hero__subtitle {
@@ -34,6 +56,16 @@
   display: flex;
   flex-wrap: wrap;
   gap: var(--space-3);
+
+  // Beside the title, the buttons fill the lead's measure: one row when they
+  // fit, otherwise stacked at equal width (German, Dutch).
+  @media (min-width: $bp-header) {
+    max-width: 36rem; // .hero__subtitle
+
+    .btn {
+      flex: 1 0 auto;
+    }
+  }
 }
 
 .hero__oss {

@@ -9,9 +9,11 @@ layout: default
   <div class="container">
     <header class="hub__header">
       <h1>{{ t.glossary.title }}</h1>
-      <p class="section__subtitle">{{ t.glossary.subtitle }}</p>
-      {% if t.glossary.intro %}<p class="glossary-intro">{{ t.glossary.intro }}</p>{% endif %}
-      {{ content }}
+      <div class="hub__lead">
+        <p class="section__subtitle">{{ t.glossary.subtitle }}</p>
+        {% if t.glossary.intro %}<p class="glossary-intro">{{ t.glossary.intro }}</p>{% endif %}
+        {{ content }}
+      </div>
     </header>
 
     <div class="glossary-toolbar" data-glossary-toolbar>

@@ -115,6 +115,14 @@ content rules require.
 
 - One container, 1320px (`.container`), for the header and the content.
   Article pages centre a 38rem column and a 15rem rail.
+- Page openers use the full width on desktop, the title on the left and the
+  lead on the right; below that they stack.
+  - Home hero, from 1280px (`$bp-header`): the title and the lead share a
+    last line, and the buttons fill the lead. When the labels are too long
+    for one row (German, Dutch), the buttons stack at equal width.
+  - Guide, solution, news and glossary indexes, from 1200px (`$bp-xl`): the
+    header repeats the columns of the grid below it. The title takes the
+    first column and the lead starts on the second.
 - The full header shows from 1280px (`$bp-header`); the GitHub icon joins from
   1440px.
 - The header was measured on 2026-09-29. Dutch is the longest: 1 172px without
