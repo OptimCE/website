@@ -8,13 +8,14 @@ description: "Voorwaarden, waar u een open deelactie vindt, de stappen om toe te
 tags: [community, administrative, guide]
 lang: nl
 ref: join-energy-community-wallonia
+pillar: communautes-energie
 last_modified_at: 2026-09-16 06:00:00 +0200
-permalink: /nl/nieuws/2026/05/11/energiegemeenschap-aansluiten-wallonie/
+permalink: /nl/gidsen/energiegemeenschap-aansluiten-wallonie/
 ---
 
 In Wallonië zijn energiegemeenschappen geen marginaal experiment meer: honderden deelacties zijn actief of in voorbereiding op melding. Het wettelijke kader is stabiel, de distributienetbeheerders (ORES, RESA, AIEG) zijn voorbereid, en het merendeel van de meters is al digitaal. Voor de meeste burgers, kmo's en lokale overheden blijft één concrete drempel: **hoe vindt u een gemeenschap die nieuwe leden aanvaardt**, en **wat moet u controleren vóór u tekent**?
 
-Deze gids is bedoeld voor dat publiek. Niet voor projectleiders die een gemeenschap willen oprichten — daarvoor verwijzen we naar onze [stap-voor-stap-oprichtingsgids](/nl/nieuws/2026/05/11/energiegemeenschap-oprichten-wallonie/) — noch voor wie het concept nog moet ontdekken — begin in dat geval met [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/). Hij richt zich tot iedereen die **wil toetreden tot een bestaande deelactie** en wil weten hoe dat precies in zijn werk gaat.
+Deze gids is bedoeld voor dat publiek. Niet voor projectleiders die een gemeenschap willen oprichten — daarvoor verwijzen we naar onze [stap-voor-stap-oprichtingsgids](/nl/gidsen/energiegemeenschap-oprichten-wallonie/) — noch voor wie het concept nog moet ontdekken — begin in dat geval met [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/gidsen/energiegemeenschappen-belgie/). Hij richt zich tot iedereen die **wil toetreden tot een bestaande deelactie** en wil weten hoe dat precies in zijn werk gaat.
 
 Aan het einde van dit artikel weet u **wie kan aansluiten**, **waar een open deelactie te vinden**, **welke stappen** u doorloopt tussen het eerste contact en de eerste gedeelde kilowattuur, en **welke punten u moet nakijken** in de overeenkomst vóór u tekent.
 
@@ -49,7 +50,7 @@ Het Waalse kader, vastgelegd in het decreet van 5 mei 2022 en verduidelijkt door
 
 Elke particulier kan toetreden, of hij nu eigenaar of huurder is. Het delen volgt het **EAN van het leveringspunt**, niet de eigendomsakte: uw statuut speelt geen rol zolang de meter op uw naam staat. Bent u huurder en gaat de overeenkomst verder dan uw huurperiode, dan is het goede praktijk — geen wettelijke verplichting — om de eigenaar te informeren.
 
-Een huurder heeft evenwel eigen beperkingen, te beginnen met een toetredingstermijn die bijna gelijk is aan zijn opzegtermijn. Ze staan uitgewerkt in [“Huurder: zonne-energie zonder eigen dak”](/nl/nieuws/2026/09/16/zonne-energie-huurder-zonder-dak-gids/).
+Een huurder heeft evenwel eigen beperkingen, te beginnen met een toetredingstermijn die bijna gelijk is aan zijn opzegtermijn. Ze staan uitgewerkt in [“Huurder: zonne-energie zonder eigen dak”](/nl/gidsen/zonne-energie-huurder-zonder-dak-gids/).
 
 ### Kmo's en zelfstandigen
 
@@ -65,7 +66,7 @@ Voor u kunt toetreden, moeten op uw leveringspunt drie technische voorwaarden ve
 
 - **Digitale meter**: verplicht. Hebt u er nog geen, dan plaatst de DNB (ORES, RESA of AIEG) hem **gratis**, doorgaans binnen 60 dagen. Zie de [gids energiedelen van AIEG](https://www.aieg.be/le-partage-denergie) voor de technische details aan netzijde.
 - **Identificeerbaar EAN**: uw leveringspuntnummer, 18 cijfers beginnend met `541449...`. Het staat op elke elektriciteitsfactuur, in de rubriek “technische gegevens” of “leveringspunt”.
-- **Geografisch bereik**: vereist voor een **CER** (u moet binnen de nabijheidsperimeter van de producenten liggen), niet vereist voor een **CEC**. Voor de herinnering CER vs CEC, zie de [vergelijkingstabel in ons moederartikel](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/).
+- **Geografisch bereik**: vereist voor een **CER** (u moet binnen de nabijheidsperimeter van de producenten liggen), niet vereist voor een **CEC**. Voor de herinnering CER vs CEC, zie de [vergelijkingstabel in ons moederartikel](/nl/gidsen/energiegemeenschappen-belgie/).
 
 ## Waar vindt u een energiegemeenschap in Wallonië?
 
@@ -130,7 +131,7 @@ Om uw EAN terug te vinden, kijkt u naar de rubriek “leveringspunt” of “tec
 
 De **deelovereenkomst** is het interne contract dat alle leden bindt: zij legt de interne prijs, de verdeelsleutel, de governance, de toetredings- en uittredingsvoorwaarden en de geschillenregeling vast. In deze fase *stelt u hem niet op* — u **treedt toe tot een bestaande tekst**. Lees hem zorgvuldig en vraag de gemeenschap om elke onduidelijke clausule toe te lichten.
 
-Voor een volledige beschrijving van wat er in een deelovereenkomst staat, zie het [overeenkomstige hoofdstuk in onze oprichtingsgids](/nl/nieuws/2026/05/11/energiegemeenschap-oprichten-wallonie/); we herhalen het detail hier niet.
+Voor een volledige beschrijving van wat er in een deelovereenkomst staat, zie het [overeenkomstige hoofdstuk in onze oprichtingsgids](/nl/gidsen/energiegemeenschap-oprichten-wallonie/); we herhalen het detail hier niet.
 
 ### Stap 4 — Formaliteiten van aansluiting bij de rechtspersoon
 
@@ -158,11 +159,11 @@ Toetreden betekent dat u tekent en — in sommige gevallen — uw vermogen engag
 
 ### Type gemeenschap — CER of CEC?
 
-De gevolgen verschillen. **CER**: alleen hernieuwbare bronnen, geografische nabijheid vereist, warmte delen mogelijk. **CEC**: alle bronnen, geen geografische beperking, alleen elektriciteit. De gedetailleerde herhaling staat in de [vergelijkingstabel van het moederartikel](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/).
+De gevolgen verschillen. **CER**: alleen hernieuwbare bronnen, geografische nabijheid vereist, warmte delen mogelijk. **CEC**: alle bronnen, geen geografische beperking, alleen elektriciteit. De gedetailleerde herhaling staat in de [vergelijkingstabel van het moederartikel](/nl/gidsen/energiegemeenschappen-belgie/).
 
 ### Verdeelsleutel — statisch of dynamisch?
 
-Een **statische** sleutel kent elk lid een vast percentage van het delen toe (eenvoudig, voorspelbaar). Een **dynamische** sleutel verdeelt evenredig met het reële verbruik om de 15 minuten (rechtvaardiger, maar variabel van maand tot maand). Vraag **hoe de sleutel wordt herzien**: jaarlijks, bij elke algemene vergadering, bij elke aankomst van een nieuw lid? Voor het detail van de drie standaardsleutels gevalideerd door CWaPE en de vergelijking met Brussel en Vlaanderen, zie onze gids [“Verdeelsleutel in België: de 3 regio's”](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/).
+Een **statische** sleutel kent elk lid een vast percentage van het delen toe (eenvoudig, voorspelbaar). Een **dynamische** sleutel verdeelt evenredig met het reële verbruik om de 15 minuten (rechtvaardiger, maar variabel van maand tot maand). Vraag **hoe de sleutel wordt herzien**: jaarlijks, bij elke algemene vergadering, bij elke aankomst van een nieuw lid? Voor het detail van de drie standaardsleutels gevalideerd door CWaPE en de vergelijking met Brussel en Vlaanderen, zie onze gids [“Verdeelsleutel in België: de 3 regio's”](/nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/).
 
 ### Interne prijs — hoe wordt hij onderhandeld?
 
@@ -236,11 +237,11 @@ Drie kanalen om de stap te zetten:
 
 ## Wilt u liever oprichten dan toetreden?
 
-> **[Energiegemeenschap oprichten in Wallonië](/nl/nieuws/2026/05/11/energiegemeenschap-oprichten-wallonie/)**
+> **[Energiegemeenschap oprichten in Wallonië](/nl/gidsen/energiegemeenschap-oprichten-wallonie/)**
 >
 > Keuze tussen CER en CEC, projectstructurering, melding aan de CWaPE, ontvangstbevestiging en opstart van het delen met ORES, RESA of AIEG.
 
-Voor de algemene context — wat is een energiegemeenschap, wat zijn de Europese grondslagen — zie het artikel [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/).
+Voor de algemene context — wat is een energiegemeenschap, wat zijn de Europese grondslagen — zie het artikel [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/gidsen/energiegemeenschappen-belgie/).
 
 ## Bronnen
 

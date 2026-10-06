@@ -9,7 +9,8 @@ description: "What the RED II and IEMD directives set out, how Belgium, France a
 tags: [community, administrative, guide]
 lang: en
 ref: energy-communities-europe
-permalink: /en/news/2026/03/05/energy-communities-europe/
+pillar: communautes-energie
+permalink: /en/guides/energy-communities-europe/
 faq:
   - q: "What is the difference between a renewable energy community and a citizen energy community?"
     a: "A renewable energy community (REC) comes from the RED II directive: it covers renewable energy only, and its members must be located in proximity to the generation assets. A citizen energy community (CEC) comes from the internal electricity market directive: it is technology-neutral, covers electricity only, and imposes no geographic proximity requirement. In both cases effective control must remain with natural persons, local authorities or small enterprises."
@@ -86,7 +87,7 @@ A directive sets a result, not a directly applicable rule. Each Member State cho
 
 Energy is a **regional** competence. Wallonia, Brussels and Flanders each apply their own decree or ordinance, with their own regulator — CWaPE, BRUGEL, VREG — and their own families of allocation keys. A Brussels community and a Walloon community do not follow the same rules, even though both derive from the same directives.
 
-The detail of the three frameworks, the CER, CEC and CEL statuses and the role of the grid operator are covered in our reference article: [“Energy communities in Belgium: CER, CEC, CEL”](/en/news/2026/05/11/energy-communities-belgium/).
+The detail of the three frameworks, the CER, CEC and CEL statuses and the role of the grid operator are covered in our reference article: [“Energy communities in Belgium: CER, CEC, CEL”](/en/guides/energy-communities-belgium/).
 
 ### France — collective self-consumption as the entry point
 
@@ -110,9 +111,9 @@ The contrast is instructive: where France sets a kilometre perimeter and Belgium
 
 The European framework determines what you are allowed to do. The national framework determines **how you have to prove it**. In practice, three operational consequences:
 
-- **The allocation key is not a free choice.** Each region or country recognises its own families of keys, and stepping outside the catalogue usually requires an authorisation. See [“Allocation key in Belgium: the 3 regions”](/en/news/2026/05/19/allocation-key-belgium/).
-- **Invoicing depends on the status.** Who issues which invoice, and at what VAT rate, follows from the national regime. See [“Invoicing shared electricity in Belgium”](/en/news/2026/07/23/who-invoices-shared-electricity-belgium/).
-- **Effective control has to stay demonstrable.** This is a continuing governance requirement, not a box ticked at incorporation. See [“Engaging energy community members”](/en/news/2026/06/24/engage-energy-community-members/).
+- **The allocation key is not a free choice.** Each region or country recognises its own families of keys, and stepping outside the catalogue usually requires an authorisation. See [“Allocation key in Belgium: the 3 regions”](/en/guides/allocation-key-belgium/).
+- **Invoicing depends on the status.** Who issues which invoice, and at what VAT rate, follows from the national regime. See [“Invoicing shared electricity in Belgium”](/en/guides/who-invoices-shared-electricity-belgium/).
+- **Effective control has to stay demonstrable.** This is a continuing governance requirement, not a box ticked at incorporation. See [“Engaging energy community members”](/en/guides/engage-energy-community-members/).
 
 This is exactly what [OptimCE](/en/about/) manages: members, meters, allocation keys and regulatory reporting, on an architecture built for national frameworks that diverge.
 
@@ -142,11 +143,11 @@ Because a directive sets a result to achieve, not a directly applicable rule. Ea
 
 The European framework sets the principle; the concrete decisions are taken at national and regional level.
 
-> **[Energy communities in Belgium: CER, CEC, CEL](/en/news/2026/05/11/energy-communities-belgium/)**
+> **[Energy communities in Belgium: CER, CEC, CEL](/en/guides/energy-communities-belgium/)**
 >
 > The three Belgian statuses, energy sharing, and the role of the regulator and the grid operator.
 
-> **[Create an energy community in Wallonia](/en/news/2026/05/11/create-energy-community-wallonia/)**
+> **[Create an energy community in Wallonia](/en/guides/create-energy-community-wallonia/)**
 >
 > From choosing the model through to starting the sharing with your grid operator.
 

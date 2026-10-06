@@ -8,6 +8,8 @@ description: "Ce que le prix interne couvre, la fourchette défendable entre tar
 tags: [community, administrative, guide]
 lang: fr
 ref: internal-price-shared-energy
+pillar: prix-facturation-communaute
+permalink: /guides/prix-electricite-communaute-energie/
 last_modified_at: 2026-07-25 10:00:00 +0200
 faq:
   - q: "Qui fixe le prix de l'électricité partagée dans une communauté d'énergie ?"
@@ -30,7 +32,7 @@ Un propriétaire de panneaux solaires revend aujourd'hui son surplus entre **0,9
 
 Reste la question que tout porteur de projet finit par poser, souvent trop tard : **quel prix inscrire dans la convention ?** Aucun régulateur belge ne publie de réponse. Ni la CWaPE, ni BRUGEL, ni la Vlaamse Nutsregulator ne diffusent de méthode de calcul ou de tarif de référence. Cet article comble ce vide : ce que le prix interne couvre réellement, entre quelles bornes il doit tomber, cinq méthodes pour le construire, un cas belge entièrement chiffré, et ce que le cadre autorise dans chaque région.
 
-Si la mécanique du partage vous est encore étrangère, commencez par notre article de référence [« Clé de répartition en Belgique : les 3 régions »](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/) : la clé décide *combien de kWh* reviennent à chacun, le prix décide *combien d'euros*.
+Si la mécanique du partage vous est encore étrangère, commencez par notre article de référence [« Clé de répartition en Belgique : les 3 régions »](/guides/cle-repartition-communaute-energie-belgique/) : la clé décide *combien de kWh* reviennent à chacun, le prix décide *combien d'euros*.
 
 ## Le prix de cession interne ne remplace qu'un tiers de la facture
 
@@ -55,14 +57,14 @@ Deux conséquences pratiques :
 
 ### Ce que le représentant facture en plus du prix
 
-Au prix convenu s'ajoutent, sur la facture de la communauté elle-même, « la TVA, les accises et l'obligation de service public de restitution des quotas de certificats verts » ([CWaPE](https://www.cwape.be/node/6063)). Qui émet cette facture et quelles mentions elle doit porter font l'objet de notre guide [« Facturer l'électricité partagée en Belgique »](/actualites/2026/07/23/facturer-electricite-partagee-belgique/). Deux précisions qui font trébucher beaucoup de projets :
+Au prix convenu s'ajoutent, sur la facture de la communauté elle-même, « la TVA, les accises et l'obligation de service public de restitution des quotas de certificats verts » ([CWaPE](https://www.cwape.be/node/6063)). Qui émet cette facture et quelles mentions elle doit porter font l'objet de notre guide [« Facturer l'électricité partagée en Belgique »](/guides/facturer-electricite-partagee-belgique/). Deux précisions qui font trébucher beaucoup de projets :
 
 - **La TVA n'est pas uniforme.** Le taux réduit de **6 % vise la fourniture d'électricité à un client particulier**, contre **21 % pour un client professionnel** : une communauté aux membres mixtes doit donc s'attendre à facturer à deux taux. En dessous de 25 000 € de chiffre d'affaires hors TVA par an, le [régime de franchise des petites entreprises](https://finances.belgium.be/fr/entreprises/tva/assujettissement-tva/regime-franchise-taxe) peut s'appliquer. Aucune circulaire ne traite spécifiquement du partage d'énergie : faites valider votre situation par votre comptable avant la première facture.
 - **La cotisation fédérale n'existe plus.** Elle a été supprimée au 31 décembre 2021 et absorbée dans le droit d'accise spécial ([CREG](https://www.creg.be/fr/a-z-index/cotisation-federale)). Beaucoup de documents en circulation la mentionnent encore : ne la reprenez pas dans vos simulations.
 
 ## Les frais de réseau ne baissent presque jamais
 
-L'idée qu'une communauté d'énergie bénéficie de tarifs de réseau réduits est très répandue. Elle est surtout **fausse dans le cas le plus courant**. Nous décortiquons par ailleurs, bloc par bloc, [pourquoi une facture d'électricité belge reste élevée malgré la baisse des prix](/actualites/2026/07/25/pourquoi-facture-electricite-reste-elevee-belgique/) — coûts de réseau, taxes et marge fournisseur compris. Le détail par région :
+L'idée qu'une communauté d'énergie bénéficie de tarifs de réseau réduits est très répandue. Elle est surtout **fausse dans le cas le plus courant**. Nous décortiquons par ailleurs, bloc par bloc, [pourquoi une facture d'électricité belge reste élevée malgré la baisse des prix](/guides/pourquoi-facture-electricite-reste-elevee-belgique/) — coûts de réseau, taxes et marge fournisseur compris. Le détail par région :
 
 | Région | Réduction des tarifs réseau sur les kWh partagés |
 |---|---|

@@ -1,0 +1,23 @@
+{% assign lang = page.lang | default: site.lang %}
+{% assign t = site.data.i18n[lang] %}
+{%- comment -%}
+  The three steps of running a community in OptimCE. Numbered because they
+  are a sequence.
+{%- endcomment %}
+<section class="section how">
+  <div class="container">
+    <header class="section__header">
+      <h2 class="section__title">{{ t.how.title }}</h2>
+      <p class="section__subtitle">{{ t.how.subtitle }}</p>
+    </header>
+    <ol class="steps" role="list">
+      {% for step in t.how.steps %}
+      <li class="step">
+        <span class="step__number" aria-hidden="true">{{ forloop.index }}</span>
+        <h3 class="step__title">{{ step.title }}</h3>
+        <p class="step__text">{{ step.text }}</p>
+      </li>
+      {% endfor %}
+    </ol>
+  </div>
+</section>

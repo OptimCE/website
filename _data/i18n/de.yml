@@ -9,116 +9,144 @@ nav:
   blog: "Aktuelles"
   about: "Über uns"
   glossary: "Glossar"
+  guides: "Ratgeber"
+  solutions: "Lösungen"
+  join: "Einer Gemeinschaft beitreten"
+  manage: "Gemeinschaft verwalten oder gründen"
+  join_short: "Beitreten"
+  manage_short: "Verwalten oder gründen"
   get_started: "Loslegen"
-  github: "GitHub"
   links: "Links"
   guide: "Benutzerhandbuch"
   privacy: "Datenschutz"
-
-# Hero Section
+# Hero (_includes/hero.html) and the quarter-hour grid
+# (_includes/quarter-hour-grid.html). In grid strings, assets/js/main.js fills
+# {time} {n} {kwh} {members} {date}; {h}/{hh} = hour, {m} = minutes.
 hero:
-  title: "Die Open-Source-Plattform zur Verwaltung Ihrer Energiegemeinschaft"
+  title: "Ihre Energiegemeinschaft, verwaltet auf die Viertelstunde genau"
   subtitle: >-
-    OptimCE vereinfacht die Verwaltung von Mitgliedern, Zählern und der
-    Energieverteilung in Ihrer Erneuerbare-Energien-Gemeinschaft.
-  cta_primary: "Jetzt starten"
-  cta_secondary: "Auf GitHub ansehen"
+    OptimCE ist die Open-Source-Plattform, die Mitglieder, Zähler,
+    Aufteilungsschlüssel und Abrechnung Ihrer Gemeinschaft zusammenführt.
+    Nutzen Sie sie online oder betreiben Sie sie selbst.
+  oss_note: "Freie Software unter der Apache-2.0-Lizenz, auf GitHub"
+  grid:
+    legend_label: "Geteilte Energie pro Viertelstunde"
+    legend_none: "keine"
+    legend_more: "viel"
+    readout_static: "Jedes Feld ist eine Viertelstunde: 96 pro Tag."
+    readout_day: "Es ist {time}: Viertelstunde {n} von 96. In diesem Beispiel werden {kwh} kWh unter {members} Haushalten geteilt."
+    readout_idle: "Es ist {time}: Viertelstunde {n} von 96. Zu wenig Sonne zum Teilen: Das Netz übernimmt."
+    tooltip: "{date}, {time}: {kwh} kWh geteilt"
+    time_format: "{hh}:{m} Uhr"
+    hour_format: "{h} Uhr"
+    aria_label: "Raster aus 28 Tagen und 96 Viertelstunden: die im Beispiel geteilte Energie, vom ältesten Tag oben bis heute unten."
+    poster_alt: "Raster aus 28 Tagen und 96 Viertelstunden: die im Beispiel geteilte Energie, im Juni."
+    caption: >-
+      Beispiel: ein Dach mit 24 kWp und 12 Haushalte in Namur. Erzeugung
+      berechnet mit PVGIS und dem Wetter von 2023 an denselben Tagen;
+      Verbrauch nach einem typischen Profil von 3 500 kWh pro Haushalt und Jahr.
+    table_summary: "Zahlen dieser 28 Tage anzeigen"
+    table_day: "Tag"
+    table_shared: "Geteilte Energie"
+    table_best: "Stärkste Viertelstunde"
+    table_best_format: "{kwh} kWh um {time}"
 
-# Features Section
+# Features: title and link kept for the modules section and the features page
 features:
   title: "Funktionen"
   subtitle: "Alles, was Sie zur Verwaltung Ihrer Energiegemeinschaft brauchen"
-  items:
-    - icon: "users"
-      title: "Mitgliederverwaltung"
-      description: >-
-        Onboarding, Rollen, Gemeinschaft-Nutzer-Verknüpfungen.
-        Verwalten Sie alle Teilnehmer Ihrer Gemeinschaft einfach.
-    - icon: "meter"
-      title: "Zählerverwaltung"
-      description: >-
-        Verfolgen Sie die Energiezähler jedes Mitglieds
-        und zentralisieren Sie Verbrauchs- und Produktionsdaten.
-    - icon: "key"
-      title: "Aufteilungsschlüssel"
-      description: >-
-        Konfigurieren Sie Aufteilungsschlüssel und Sharing-Operationen,
-        um Energie unter den Mitgliedern zu verteilen.
-    - icon: "building"
-      title: "Multi-Gemeinschaft"
-      description: >-
-        Eine einzige Instanz für mehrere Energiegemeinschaften.
-        Integrierte Multi-Tenant-Architektur.
-    - icon: "puzzle"
-      title: "Erweiterbare Module"
-      description: >-
-        Ereignisgesteuerte Integration (NATS) zum Anschluss von
-        Drittanbieter-Tools wie einem Energiemanagementsystem.
-    - icon: "open-source"
-      title: "Open Source"
-      description: >-
-        Offener und transparenter Quellcode. Tragen Sie bei, prüfen Sie
-        und passen Sie die Plattform an Ihre Bedürfnisse an.
+  see_all: "Alle Funktionen ansehen"
 
-# Why OptimCE
-why:
-  title: "Warum OptimCE?"
-  subtitle: "Eine Lösung für europäische Energiegemeinschaften"
-  points:
-    - title: "Open Source und transparent"
-      description: >-
-        Offener, überprüfbarer und anpassbarer Quellcode.
-        Kein Vendor-Lock-in.
-    - title: "Für den europäischen Rahmen konzipiert"
-      description: >-
-        Konform mit den europäischen Richtlinien zu Erneuerbare-Energien-Gemeinschaften
-        und Bürgerenergiegemeinschaften.
-    - title: "Einfach bereitzustellen"
-      description: >-
-        Schnelle Installation. Mehrsprachige Oberfläche (FR, EN, NL, DE)
-        und skalierbare Architektur.
+# How it works (_includes/how-it-works.html)
+how:
+  title: "So funktioniert es"
+  subtitle: "Drei Schritte, von der Anmeldung der Mitglieder bis zur Rechnung."
+  steps:
+    - title: "Mitglieder und Zähler erfassen"
+      text: >-
+        Jedes Mitglied tritt der Gemeinschaft mit seinem Zähler bei. OptimCE
+        führt die Messwerte zusammen, Viertelstunde für Viertelstunde.
+    - title: "Den Aufteilungsschlüssel wählen"
+      text: >-
+        Legen Sie ihn in einer Tabelle oder Schritt für Schritt an und
+        vergleichen Sie mit der Simulation mehrere Szenarien auf Ihren eigenen
+        Daten.
+    - title: "Abrechnen und berichten"
+      text: >-
+        Für jeden Abrechnungszeitraum rechnet OptimCE die geteilte Energie mit
+        jedem Mitglied ab und bereitet die Unterlagen für die wallonische
+        Regulierungsbehörde (CWaPE) vor.
 
-# Commitment
-commitment:
-  title: "Kostenlos, offen — und dafür gebaut, es zu bleiben"
-  subtitle: >-
-    OptimCE befindet sich in der Alpha-Phase und ist Teil eines laufenden Forschungsprojekts.
-    Das sind unsere Zusagen, heute und langfristig.
-  cards:
-    - icon: "rocket"
-      label: "Heute"
-      title: "Während der Alpha kostenlos"
-      description: >-
-        Die gehostete SaaS unter app.optimce.be ist während der Alpha-Phase kostenlos nutzbar.
-        Wie bei vielen Open-Source-Projekten kann die gehostete Version später auf bezahlte
-        Tarife umstellen — Sie werden frühzeitig informiert. Self-Hosting bleibt in jedem Fall kostenlos.
-    - icon: "code"
-      label: "Für immer"
-      title: "Open Source, immer"
-      description: >-
-        Der gesamte Quellcode wird unter Apache 2.0 veröffentlicht und bleibt offen.
-        Prüfen, forken, beitragen — kein proprietärer Kern, kein Wortbruch.
-    - icon: "server"
-      label: "Für immer"
-      title: "Self-Hosting immer kostenlos"
-      description: >-
-        Betreiben Sie OptimCE auf Ihrer eigenen Infrastruktur ohne jede Einschränkung.
-        Der Open-Source-Kern bleibt vollständig — keine bezahlten Stufen, keine gesperrten Funktionen.
-        Bezahlter Support oder Services können separat existieren, aber niemals als Sperre für den Open-Source-Kern selbst.
+# Application modules (_includes/modules.html)
+modules:
+  title: "Was die App kann"
+  subtitle: "Die Module von OptimCE, vom Mitgliederverzeichnis bis zu den Unterlagen für die CWaPE."
+  groups:
+    - name: "Gemeinschaft"
+      items:
+        - title: "Mitglieder"
+          text: "Mitgliedschaften, Rollen, Bankdaten und Dokumente jedes Mitglieds."
+        - title: "Zähler und Karte"
+          text: "Jeder Zähler mit seinen Viertelstundenwerten, als Liste oder auf der Karte."
+        - title: "Öffentliches Verzeichnis"
+          text: "Stellen Sie Ihre Gemeinschaft vor, damit neue Mitglieder sie finden."
+    - name: "Teilen"
+      items:
+        - title: "Aufteilungsschlüssel"
+          text: "In einer Tabelle oder mit einem Schritt-für-Schritt-Assistenten."
+        - title: "Simulation"
+          text: "Eigenverbrauch, Überschuss und Teilungsquote mehrerer Szenarien im Vergleich."
+        - title: "Echtzeitdaten"
+          text: "Erzeugung und Leistung, von intelligenten Zählern ausgelesen."
+    - name: "Verwaltung"
+      items:
+        - title: "Abrechnung"
+          text: "Tarife, Abrechnungsläufe, Gutschriften und Zahlungsverfolgung."
+        - title: "CWaPE-Unterlagen"
+          text: "Fristen, Zeitleiste und erzeugte Formulare für die wallonische Regulierungsbehörde."
+        - title: "Neuigkeiten und Umfragen"
+          text: "Informieren Sie Ihre Mitglieder und befragen Sie sie in der App."
+  note: >-
+    Eine Installation kann mehrere Gemeinschaften beherbergen, und
+    Drittanbieter-Tools docken an ihre Ereignisse an (NATS).
+  shot_alt: "Das Dashboard einer Verwaltung in OptimCE, mit den zu prüfenden Punkten und der geteilten Energie."
+  shot_caption: "Das Dashboard einer Verwaltung in der Alpha-Version, mit Testdaten (englische Oberfläche)."
 
-# For Developers
-developers:
-  title: "Für Entwickler"
-  subtitle: "Gebaut mit modernen, offenen Technologien"
-  description: >-
-    Angular-Frontend, Node.js/TypeScript- und FastAPI-Backend,
-    ereignisgesteuerte Architektur. Tragen Sie auf GitHub bei oder integrieren Sie
-    OptimCE über die REST-API in Ihre eigenen Tools.
-  cta: "Auf GitHub beitragen"
+# Hosting (_includes/cloud-or-self-host.html)
+hosting:
+  title: "Bei uns oder bei Ihnen"
+  subtitle: "Dieselbe Software, veröffentlicht unter der Apache-2.0-Lizenz. Sie entscheiden, wer sie betreibt."
+  cloud:
+    label: "Kostenlos während der Alpha"
+    title: "app.optimce.be"
+    text: >-
+      Die gehostete Version, sofort nutzbar: nichts zu installieren, nichts zu
+      warten. Sollte sie eines Tages kostenpflichtig werden, erfahren Sie es
+      frühzeitig.
+    cta: "App öffnen"
+  self:
+    label: "Für immer kostenlos"
+    title: "Auf Ihren Servern"
+    text: >-
+      Der gesamte Code ist offen: keine abgespeckte Version, kein proprietärer
+      Kern. Sie behalten die Kontrolle über Ihre Daten und kümmern sich selbst
+      um den Betrieb.
+    docs: "Entwicklerdokumentation"
+    github: "Quellcode auf GitHub"
+    translate: "Auf Weblate übersetzen"
+  stack: "Unter der Haube: Angular, Node.js und FastAPI, NATS-Ereignisse, eine REST-API."
+
+# Ways into the guides (_includes/guide-entry.html)
+home_guides:
+  title: "Verstehen, bevor Sie loslegen"
+  subtitle: "Ratgeber mit Quellen zu Stromrechnung, Solarstrom und Energieteilung in Belgien."
+  topics: "Nach Thema"
+  audiences: "Nach Projektart"
+  all_guides: "Alle Ratgeber"
+  all_solutions: "Alle Lösungen"
 
 # Newsletter
 newsletter:
-  eyebrow: "Newsletter"
   title: "Erfahren Sie es als Erste"
   subtitle: >-
     Neue Funktionen, früher Zugang zur Alpha und Projekt-Updates —
@@ -141,26 +169,35 @@ blog:
   all_posts: "Alle Neuigkeiten anzeigen"
   published_on: "Veröffentlicht am"
   by_author: "von"
-  back_to_blog: "Zurück zu Aktuelles"
   older_posts: "Ältere Beiträge"
   newer_posts: "Neuere Beiträge"
   updated_on: "Aktualisiert am"
-  filter_label: "Nach Tag filtern"
   sort_label: "Sortieren nach"
-  all_tags: "Alle"
-  no_results: "Keine Artikel entsprechen diesem Filter."
   sort:
     newest: "Neueste zuerst"
     oldest: "Älteste zuerst"
     updated: "Kürzlich aktualisiert"
-  tags:
-    app: "OptimCE-App"
-    administrative: "Verwaltung"
-    allocation-key: "Aufteilungsschlüssel"
-    community: "Energiegemeinschaft"
-    announcement: "Ankündigung"
-    news: "Neuigkeiten"
-    guide: "Anleitung"
+
+# Guides: index page and pillar pages
+guides:
+  title: "Ratgeber"
+  pillar_link: "Zum Thema"
+  count_one: "Ratgeber"
+  count_other: "Ratgeber"
+  more_guides: "Weitere Ratgeber"
+  other_pillars: "Weitere Themen"
+
+# End-of-guide block (_includes/cta-communaute.html)
+cta_communaute:
+  title: "Einer Energiegemeinschaft in Ihrer Nähe beitreten"
+  text: "Durchsuchen Sie in der OptimCE-App die Teilungsoperationen, die für neue Mitglieder offen sind, und nehmen Sie Kontakt mit der passenden auf."
+  button: "Gemeinschaft finden"
+
+# Article page (_layouts/post.html)
+post:
+  on_this_page: "Auf dieser Seite"
+  rail_join: "Eine Energiegemeinschaft in Ihrer Nähe?"
+  rail_manage: "Sie planen ein Projekt zur Energieteilung?"
 
 # Glossary
 glossary:
@@ -178,6 +215,17 @@ glossary:
   count_label: "Begriffe"
   alias_label: "Auch genannt:"
   source_label: "Quelle:"
+  # Term pages (_layouts/glossary-term.html, _plugins/glossary_pages.rb)
+  term:
+    title_format: "%{name}: Definition"
+    description_suffix: "Definition und Artikel, die den Begriff verwenden, im OptimCE-Glossar."
+    category: "Kategorie"
+    cited: "In dieser Definition verwendete Begriffe"
+    related: "In derselben Kategorie"
+    used_in: "Artikel, die diesen Begriff verwenden"
+    go_further: "Weiterlesen"
+    back: "Zurück zum Glossar"
+    see_page: "Zum Eintrag"
   categories:
     autoconsommation: "Eigenverbrauch"
     calcul: "Berechnung"
@@ -265,6 +313,7 @@ about:
     Ob Entwickler, Designer, Übersetzer oder einfach begeistert
     von Energiegemeinschaften — Sie können auf vielfältige Weise beitragen.
   contribute_cta: "Projekt auf GitHub ansehen"
+  author_intro: "Die Ratgeber und Neuigkeiten dieser Website schreibt"
 
 # Footer
 footer:
@@ -275,6 +324,7 @@ footer:
   newsletter_title: "Newsletter"
   license: "Apache-2-Lizenz"
   copyright: "OptimCE. Alle Rechte vorbehalten."
+  credits: "Entstanden aus Locomotrice, einem wallonischen Forschungsprojekt (2023–2026), gefördert durch das Programm Win2Wal und getragen von der Universität Lüttich (BEMS-Labor) und dem CECOTEPE."
 
 # 404
 not_found:
@@ -300,6 +350,8 @@ a11y:
   translations: "Übersetzungen dieses Artikels"
   breadcrumb: "Brotkrümelnavigation"
   available_languages: "Verfügbare Sprachen"
+  github: "OptimCE auf GitHub"
+  theme_dark: "Dunkles Design"
 
 # Open Graph / social sharing
 og:

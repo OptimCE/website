@@ -20,16 +20,8 @@
   <ul class="lang-switcher__list" id="{{ switcher_id }}">
     {% for l in site.languages %}
       {% assign target_url = l.prefix | append: '/' %}
-      {% if ref %}
-        {% assign translated_pages = site.pages | where: "ref", ref | where: "lang", l.code %}
-        {% if translated_pages.size > 0 %}
-          {% assign target_url = translated_pages.first.url %}
-        {% else %}
-          {% assign translated_posts = site.posts | where: "ref", ref | where: "lang", l.code %}
-          {% if translated_posts.size > 0 %}
-            {% assign target_url = translated_posts.first.url %}
-          {% endif %}
-        {% endif %}
+      {% if ref and page.translations[l.code] %}
+        {% assign target_url = page.translations[l.code] %}
       {% endif %}
       <li>
         <a href="{{ target_url | relative_url }}"{% if lang == l.code %} aria-current="true"{% endif %}>

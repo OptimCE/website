@@ -8,7 +8,8 @@ description: "850 € per kilowatt-hour, no subsidy anywhere, and a mandatory de
 tags: [guide, community]
 lang: en
 ref: home-battery-vs-energy-sharing
-permalink: /en/news/2026/09/22/home-battery-price-vs-energy-sharing/
+pillar: solaire-surplus
+permalink: /en/guides/home-battery-price-vs-energy-sharing/
 faq:
   - q: "How much does a home battery cost in Belgium in 2026?"
     a: "Test-Achats, which sells no equipment, publishes a grid per kilowatt-hour installed: around 850 € per kWh for a 5 kWh battery, around 600 € per kWh for a 15 kWh one. The price per kilowatt-hour therefore falls as capacity rises, because the inverter, the installation and the connection barely depend on the size of the pack. In absolute terms, that puts a 5 kWh battery at around 4,250 €, a 10 kWh battery at around 7,250 € and a 15 kWh battery at around 9,000 €, fitting and VAT included. Two qualifications matter more than the range itself. First, the kilowatt-hour on the datasheet is not the usable kilowatt-hour: manufacturers reserve a depth-of-discharge margin, and round-trip efficiency removes another 5 to 10% of what goes in. Second, the 6% VAT rate is not automatic: it requires a dwelling ten years old or more and a supply-with-fitting operation by the contractor. A battery bought on its own, without installation, stays at 21%."
@@ -28,7 +29,7 @@ A 5 kWh home battery costs **850 € per kilowatt-hour installed**. A 15 kWh bat
 
 Translated into euros, it puts a 5 kWh battery at around 4,250 €, a 10 kWh one at around 7,250 €, a 15 kWh one at around 9,000 €. And none of the three Belgian regions pays a single cent of subsidy to buy them.
 
-This article does not redo what is already written elsewhere on this site. ["Solar surplus: the 5 options compared"](/en/news/2026/08/18/what-to-do-solar-surplus-belgium/) ranks the five outlets for a surplus by euro invested and puts the battery last; ["Solar panels 2026: still worth it in Wallonia?"](/en/news/2026/08/11/solar-panels-worth-it-wallonia-2026/) establishes the costed reference case we reuse here; ["Solar panels: nobody home during the day"](/en/news/2026/09/12/solar-panels-away-during-the-day/) shows that the battery reflex is most often a mistaken diagnosis of simultaneity; ["Local electricity: the short-circuit guide"](/en/news/2026/08/25/local-electricity-short-circuit-guide/) sets out the quarter-hour rule that governs everything else; ["Internal transfer price in an energy community"](/en/news/2026/07/20/energy-community-electricity-price/) explains where the 3 to 14 c€/kWh band comes from; ["Reduce your electricity bill: Wallonia 2026"](/en/news/2026/07/28/reduce-electricity-bill-wallonia-2026/) details the ORES 2026 grid and the Impact tariff.
+This article does not redo what is already written elsewhere on this site. ["Solar surplus: the 5 options compared"](/en/guides/what-to-do-solar-surplus-belgium/) ranks the five outlets for a surplus by euro invested and puts the battery last; ["Solar panels 2026: still worth it in Wallonia?"](/en/guides/solar-panels-worth-it-wallonia/) establishes the costed reference case we reuse here; ["Solar panels: nobody home during the day"](/en/guides/solar-panels-away-during-the-day/) shows that the battery reflex is most often a mistaken diagnosis of simultaneity; ["Local electricity: the short-circuit guide"](/en/guides/local-electricity-short-circuit-guide/) sets out the quarter-hour rule that governs everything else; ["Internal transfer price in an energy community"](/en/guides/energy-community-electricity-price/) explains where the 3 to 14 c€/kWh band comes from; ["Reduce your electricity bill: Wallonia 2026"](/en/guides/reduce-electricity-bill-wallonia/) details the ORES 2026 grid and the Impact tariff.
 
 **The question asked here is different: what does the cheque you sign actually buy back, what administrative obligation does it trigger, and what happens to its return if you already take part in energy sharing?**
 
@@ -77,7 +78,7 @@ On this point, treat what you read elsewhere with caution. Several commercial pa
 
 ## What it returns, on our reference case
 
-We reuse here, unchanged, the four parameters of the case established in ["Solar panels 2026: still worth it in Wallonia?"](/en/news/2026/08/11/solar-panels-worth-it-wallonia-2026/) and used across the whole corpus, so that the figures on this site stay comparable with one another.
+We reuse here, unchanged, the four parameters of the case established in ["Solar panels 2026: still worth it in Wallonia?"](/en/guides/solar-panels-worth-it-wallonia/) and used across the whole corpus, so that the figures on this site stay comparable with one another.
 
 | Parameter | Value |
 |---|---|
@@ -191,7 +192,7 @@ The CWaPE itself stresses that the subject goes beyond batteries: a simple **req
 
 On the other side, the alternative way of valuing a surplus requires no capital at all.
 
-Energy sharing means allocating your injected production to other supply points — neighbours, a school, a shop, a condominium — that consume at the same moment. You change neither supplier, nor production meter, nor installation — which is the whole point of ["Cheaper electricity without switching supplier"](/en/news/2026/08/05/cheaper-electricity-without-switching-supplier/). You negotiate an internal transfer price.
+Energy sharing means allocating your injected production to other supply points — neighbours, a school, a shop, a condominium — that consume at the same moment. You change neither supplier, nor production meter, nor installation — which is the whole point of ["Cheaper electricity without switching supplier"](/en/guides/cheaper-electricity-without-switching-supplier/). You negotiate an internal transfer price.
 
 That price sits in a defensible band of **3 to 14 c€/kWh**: the floor is the injection tariff, below which no producer has any interest in sharing; the ceiling is the energy component the consumer already pays. Documented Belgian cases sit around **6 c€/kWh**.
 
@@ -201,11 +202,11 @@ That is little. We prefer to say so rather than dress it up: sharing does not re
 
 Three limits must be stated honestly.
 
-**Simultaneity.** Sharing is calculated in fifteen-minute slots: your midday production can only be allocated to participants consuming at midday. The Flemish experience shows that around 20% of injection is actually shared, against the 40% hoped for. Building the group from daytime profiles — a shop, a school, a self-employed person working from home — changes everything, and that is the subject of our [short-circuit guide](/en/news/2026/08/25/local-electricity-short-circuit-guide/).
+**Simultaneity.** Sharing is calculated in fifteen-minute slots: your midday production can only be allocated to participants consuming at midday. The Flemish experience shows that around 20% of injection is actually shared, against the 40% hoped for. Building the group from daytime profiles — a shop, a school, a self-employed person working from home — changes everything, and that is the subject of our [short-circuit guide](/en/guides/local-electricity-short-circuit-guide/).
 
 **Supplier fees.** Some charge for participation in a sharing scheme, from zero to around 150 € a year per supply point. On a gain of 59 €, that is enough to wipe out the operation. It is the first thing to check in your terms and conditions.
 
-**The 80% reduction is not for everyone.** The ORES 2026 grid cuts the proportional term on shared energy by 80% **only within the same building**. For sharing within an energy community, the CWaPE is explicit: there is no tariff reduction. The three Belgian statuses and their respective perimeters are set out in ["Energy communities in Belgium: CER, CEC, CEL"](/en/news/2026/05/11/energy-communities-belgium/).
+**The 80% reduction is not for everyone.** The ORES 2026 grid cuts the proportional term on shared energy by 80% **only within the same building**. For sharing within an energy community, the CWaPE is explicit: there is no tariff reduction. The three Belgian statuses and their respective perimeters are set out in ["Energy communities in Belgium: CER, CEC, CEL"](/en/guides/energy-communities-belgium/).
 
 What remains is the essential point: sharing has **no capacity ceiling and costs nothing to set up**. A battery has the capacity you paid for.
 
@@ -217,7 +218,7 @@ The legal definition of sharing, from the decree of 5 May 2022 and the Walloon G
 
 > all or part of the energy produced, and where applicable stored, within the same building or by the energy community, injected into the local distribution or transmission network and consumed within the same quarter-hour.
 
-**"And where applicable stored"**: electricity coming out of a battery can be shared. This is not a tolerance, it is written into the definition. The CWaPE also publishes a dedicated annex — a sworn declaration on the use of a storage installation — among the notification forms for a sharing operation, as we noted in our [inventory of administrative documents](/en/news/2026/08/12/energy-community-administrative-documents-wallonia/).
+**"And where applicable stored"**: electricity coming out of a battery can be shared. This is not a tolerance, it is written into the definition. The CWaPE also publishes a dedicated annex — a sworn declaration on the use of a storage installation — among the notification forms for a sharing operation, as we noted in our [inventory of administrative documents](/en/guides/energy-community-administrative-documents-wallonia/).
 
 The question is therefore not which to choose. It is what the combination actually returns.
 
@@ -298,7 +299,7 @@ Everything above describes Wallonia. The other two regions change part of the ca
 4. **The prosumer tariff does not move.** On the default capacity-based tariff, the CWaPE writes that the presence of a battery has "no influence" on its level: 80.98 €/kWe excluding VAT remain due at ORES. This holds only on that regime — with a smart meter and the proportional tariff, a battery does genuinely lower network costs.
 5. **Declaring the battery is a legal obligation, and that declaration is the trap.** For a pre-2024 installation still under compensation, the meter reading required by the UP10 form can trigger an interim settlement invoice and break the annual cycle. ORES avoids encoding those readings, RESA passes them on. The CWaPE proposed a fix on 26 March 2026; it is not yet in force.
 6. **A battery and sharing combine legally, but their gains do not add up.** Walloon law covers "energy produced, and where applicable stored". On our case, 59 € + 473 € gives 497 € and not 532: 35 € a year evaporate because both devices compete for the same surplus.
-7. **For anyone already sharing, the battery returns 438 € and not 473 — and 381 € if the transfer price is 10 c€.** Its payback then moves from 14.8 to 16.0 and then 18.4 years. The right sequence remains the one we have defended since ["Solar surplus: the 5 options compared"](/en/news/2026/08/18/what-to-do-solar-surplus-belgium/): shift your usage, then share, then and only then consider a battery.
+7. **For anyone already sharing, the battery returns 438 € and not 473 — and 381 € if the transfer price is 10 c€.** Its payback then moves from 14.8 to 16.0 and then 18.4 years. The right sequence remains the one we have defended since ["Solar surplus: the 5 options compared"](/en/guides/what-to-do-solar-surplus-belgium/): shift your usage, then share, then and only then consider a battery.
 
 > ### Start with what costs nothing
 >

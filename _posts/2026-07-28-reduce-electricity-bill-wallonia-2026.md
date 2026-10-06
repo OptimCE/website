@@ -9,7 +9,8 @@ description: "Ten concrete, costed and sourced levers to cut your electricity bi
 tags: [guide, administrative, community]
 lang: en
 ref: reduce-electricity-bill-wallonia-2026
-permalink: /en/news/2026/07/28/reduce-electricity-bill-wallonia-2026/
+pillar: facture-electricite
+permalink: /en/guides/reduce-electricity-bill-wallonia/
 faq:
   - q: "How can I reduce my electricity bill in Wallonia in 2026?"
     a: "In order of effectiveness: compare your offer on CompaCWaPE, the Walloon regulator's free comparator, where the gap between the cheapest and the most expensive offer exceeds €200 a year; check whether you qualify for the social tariff, worth roughly €400 a year for an eligible household; then pick the right network tariff formula. On the ORES 2026 schedule, moving a 1,800 kWh water heater from the single-rate tariff to the Impact ECO band is worth about €124 including VAT per year on the distribution proportional term alone. The first six levers in this article require no investment at all."
@@ -25,7 +26,7 @@ faq:
     a: "It acts on the energy component, not on network costs or taxes, which remain payable on shared electricity. One important exception is written into the ORES 2026 tariff schedule itself: an 80% reduction on the proportional term applies to energy shared within a single building. A block of flats with a solar roof is therefore in the best position in Wallonia, with no need to set up a legal entity. Always check whether your supplier charges fees for your participation in sharing: on small shared volumes those fees can wipe out the gain."
 ---
 
-Your electricity bill has not gone down, and that is not your imagination. Wholesale prices have collapsed since 2022, excise duties fall on 1 August 2026, and yet the annual statement barely moves. The reason is arithmetic: the energy component accounts for only about 40% of the total, and we broke it down in euros in [“Why your electricity bill stays high in Belgium”](/en/news/2026/07/25/why-electricity-bill-still-high-belgium/).
+Your electricity bill has not gone down, and that is not your imagination. Wholesale prices have collapsed since 2022, excise duties fall on 1 August 2026, and yet the annual statement barely moves. The reason is arithmetic: the energy component accounts for only about 40% of the total, and we broke it down in euros in [“Why your electricity bill stays high in Belgium”](/en/guides/why-electricity-bill-still-high-belgium/).
 
 This article does not re-explain the problem. It lists what you can actually do, **in Wallonia, in 2026**. Ten levers, ranked from the best return on effort to the most demanding. **The first six cost nothing** — no works, no hardware, and for half of them no change of habit either.
 
@@ -73,7 +74,7 @@ Three families of contract, three ways of splitting the risk between you and you
 
 The key point: this is not a bet on future prices, it is a choice about **who carries the risk**. If a €300 settlement invoice would put you in difficulty, the fixed premium is worth paying. Otherwise it is expensive.
 
-The costed comparison of these formulas — together with the social tariff and energy sharing — is set out in [“Which electricity tariff to choose in Belgium?”](/en/news/2026/08/03/choose-electricity-tariff-belgium/), which covers all three regions.
+The costed comparison of these formulas — together with the social tariff and energy sharing — is set out in [“Which electricity tariff to choose in Belgium?”](/en/guides/choose-electricity-tariff-belgium/), which covers all three regions.
 
 ## 3. Move to the network tariff that matches your hours
 
@@ -144,7 +145,7 @@ Who is entitled, and how. CWaPE is clear: **all protected customers** are entitl
 
 One misconception to clear up while we are here, because it is still widely repeated: **increased-reimbursement status alone no longer opens entitlement to the social tariff.** The extension introduced during the energy crisis ran from 1 February 2021 to 30 June 2023 and came to an end on **1 July 2023** ([FPS Economy](https://economie.fgov.be/fr/themes/energie/energie-sociale/tarif-social-pour-lenergie)). If you hold that status without falling into one of the categories above, you are not on the social tariff, even if you were in 2022.
 
-The reflex to have: **if your situation has changed** — job loss, separation, a new allowance coming into force, moving into social housing — the social tariff does not always trigger by itself. That is worth a phone call. And if the bill has already become unpayable, the social tariff is only one piece of a wider system: [“Energy poverty in Wallonia: available support”](/en/news/2026/08/08/energy-poverty-wallonia-support/) maps what the CPAS can open, from MEBAR to the Social Heating Fund.
+The reflex to have: **if your situation has changed** — job loss, separation, a new allowance coming into force, moving into social housing — the social tariff does not always trigger by itself. That is worth a phone call. And if the bill has already become unpayable, the social tariff is only one piece of a wider system: [“Energy poverty in Wallonia: available support”](/en/guides/energy-poverty-wallonia-support/) maps what the CPAS can open, from MEBAR to the Social Heating Fund.
 
 ## 7. Habitation grants: the window closes on 30 September 2026
 
@@ -167,13 +168,13 @@ The prosumer tariff prices exactly that. On the ORES 2026 schedule it stands at 
 - This flat charge applies only to prosumers **whose meter does not record actual gross withdrawals** from the grid.
 - For those who benefit from compensation **and** have a meter that records those gross withdrawals, total network costs are **capped** at the amount calculated on net withdrawals plus the prosumer tariff. In other words, the system automatically keeps whichever formula favours you.
 
-Compensation — the meter that runs backwards — remains secured **until 31 December 2030** for installations commissioned before 1 January 2024. After that, injection and withdrawal will be valued separately, and the self-consumption rate becomes the only parameter that really counts. The full profitability calculation under that new regime, and the trade-off between keeping compensation and joining an energy sharing operation, are set out in [“Solar panels 2026: still worth it in Wallonia?”](/en/news/2026/08/11/solar-panels-worth-it-wallonia-2026/).
+Compensation — the meter that runs backwards — remains secured **until 31 December 2030** for installations commissioned before 1 January 2024. After that, injection and withdrawal will be valued separately, and the self-consumption rate becomes the only parameter that really counts. The full profitability calculation under that new regime, and the trade-off between keeping compensation and joining an energy sharing operation, are set out in [“Solar panels 2026: still worth it in Wallonia?”](/en/guides/solar-panels-worth-it-wallonia/).
 
-**And batteries?** A battery lifts a typical self-consumption rate from 30–40% to 70–80%. But let us be factual: it costs €4,250 to €7,250 for 5 to 10 kWh, **Wallonia pays no direct grant for domestic storage**, and payback approaches fifteen years on a typical residential case — often beyond the warranty. What changes in 2026 is the Impact tariff: charging in the ECO band at 2.71 c€/kWh to discharge in the PIC band at 13.54 c€/kWh adds an arbitrage revenue the classic calculation ignored. Have the simulation redone on that assumption before deciding. The price grid per kilowatt-hour installed, and the declaration obligation that can break a pre-2024 compensation, are covered in ["Home battery: the price and the alternative"](/en/news/2026/09/22/home-battery-price-vs-energy-sharing/).
+**And batteries?** A battery lifts a typical self-consumption rate from 30–40% to 70–80%. But let us be factual: it costs €4,250 to €7,250 for 5 to 10 kWh, **Wallonia pays no direct grant for domestic storage**, and payback approaches fifteen years on a typical residential case — often beyond the warranty. What changes in 2026 is the Impact tariff: charging in the ECO band at 2.71 c€/kWh to discharge in the PIC band at 13.54 c€/kWh adds an arbitrage revenue the classic calculation ignored. Have the simulation redone on that assumption before deciding. The price grid per kilowatt-hour installed, and the declaration obligation that can break a pre-2024 compensation, are covered in ["Home battery: the price and the alternative"](/en/guides/home-battery-price-vs-energy-sharing/).
 
-Finally, the most profitable option of all cannot be bought: **collective self-consumption**. At building scale, a solar roof shared between occupants mechanically raises the self-consumption rate, because several households' load curves complement one another. The mechanisms, indicators and configurations are set out in [“Collective self-consumption in Belgium”](/en/news/2026/06/05/energy-self-consumption-belgium/).
+Finally, the most profitable option of all cannot be bought: **collective self-consumption**. At building scale, a solar roof shared between occupants mechanically raises the self-consumption rate, because several households' load curves complement one another. The mechanisms, indicators and configurations are set out in [“Collective self-consumption in Belgium”](/en/guides/energy-self-consumption-belgium/).
 
-This lever has a blind spot: it assumes somebody is there to consume. When the house is empty from 08:00 to 18:00, the appliance that pays best is not the one you would expect, and it is often wired to the wrong time signal — see [“Solar panels: nobody home during the day”](/en/news/2026/09/12/solar-panels-away-during-the-day/).
+This lever has a blind spot: it assumes somebody is there to consume. When the house is empty from 08:00 to 18:00, the appliance that pays best is not the one you would expect, and it is often wired to the wrong time signal — see [“Solar panels: nobody home during the day”](/en/guides/solar-panels-away-during-the-day/).
 
 ## 9. Energy sharing: the option almost nobody activates
 
@@ -189,11 +190,11 @@ What it does not do, to be clear from the outset: it reduces **neither network c
 
 Three things to check before committing:
 
-- **The agreed internal price.** It determines your real gain, and it is negotiated within a range bounded by the injection tariff below and the energy component of your contract above. The five calculation methods and a costed case appear in [“Internal transfer price in an energy community”](/en/news/2026/07/20/energy-community-electricity-price/).
+- **The agreed internal price.** It determines your real gain, and it is negotiated within a range bounded by the injection tariff below and the energy component of your contract above. The five calculation methods and a costed case appear in [“Internal transfer price in an energy community”](/en/guides/energy-community-electricity-price/).
 - **Possible supplier fees.** Nothing stops your supplier charging for your participation in sharing, and amounts of up to about €150 a year per supply point have been recorded. On small shared volumes those fees wipe out the gain. *(Test-Achats finding dated May 2024 — check with your own supplier before signing.)*
-- **What you will actually receive.** You will keep receiving an invoice from your supplier, plus a statement for the shared energy. The orders of magnitude of the savings are quantified in [“How an energy community reduces your electricity bill”](/en/news/2026/06/03/energy-community-reduce-electricity-bill/).
+- **What you will actually receive.** You will keep receiving an invoice from your supplier, plus a statement for the shared energy. The orders of magnitude of the savings are quantified in [“How an energy community reduces your electricity bill”](/en/guides/energy-community-reduce-electricity-bill/).
 
-In practice, in Wallonia you can join an existing sharing operation rather than create one: eligibility conditions, where to find an open operation and the lead time to expect are set out in [“Joining an energy community in Wallonia”](/en/news/2026/05/11/join-energy-community-wallonia/).
+In practice, in Wallonia you can join an existing sharing operation rather than create one: eligibility conditions, where to find an open operation and the lead time to expect are set out in [“Joining an energy community in Wallonia”](/en/guides/join-energy-community-wallonia/).
 
 ## 10. The Walloon Energy Desks: 40 free advisers
 

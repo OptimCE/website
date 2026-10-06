@@ -8,7 +8,8 @@ description: "What the internal price covers, the defensible range between injec
 tags: [community, administrative, guide]
 lang: en
 ref: internal-price-shared-energy
-permalink: /en/news/2026/07/20/energy-community-electricity-price/
+pillar: prix-facturation-communaute
+permalink: /en/guides/energy-community-electricity-price/
 last_modified_at: 2026-07-25 10:00:00 +0200
 faq:
   - q: "Who sets the price of shared electricity in an energy community?"
@@ -31,7 +32,7 @@ A solar panel owner today sells their surplus for between **0.94 and 4.90 c€/k
 
 Which leaves the question every project lead ends up asking, often too late: **what price do you write into the agreement?** No Belgian regulator publishes an answer. Neither CWaPE, nor BRUGEL, nor the Vlaamse Nutsregulator issues a calculation method or a reference tariff. This article fills that gap: what the internal price really covers, the bounds it has to fall between, five methods for building it, a fully costed Belgian case, and what each regional framework allows.
 
-If the mechanics of sharing are still unfamiliar, start with our reference article [“Allocation key in Belgium: the 3 regions”](/en/news/2026/05/19/allocation-key-belgium/): the allocation key decides *how many kWh* each member receives, the price decides *how many euros*.
+If the mechanics of sharing are still unfamiliar, start with our reference article [“Allocation key in Belgium: the 3 regions”](/en/guides/allocation-key-belgium/): the allocation key decides *how many kWh* each member receives, the price decides *how many euros*.
 
 ## The internal transfer price replaces only a third of the bill
 
@@ -56,14 +57,14 @@ Two practical consequences:
 
 ### What the representative invoices on top of the price
 
-On the community's own invoice, the agreed price is joined by "VAT, excise duties and the public service obligation to surrender green certificate quotas" ([CWaPE](https://www.cwape.be/node/6063)). Who issues this invoice, and which mentions it must carry, is the subject of our guide [“Invoicing shared electricity in Belgium”](/en/news/2026/07/23/who-invoices-shared-electricity-belgium/). Two details that trip up a lot of projects:
+On the community's own invoice, the agreed price is joined by "VAT, excise duties and the public service obligation to surrender green certificate quotas" ([CWaPE](https://www.cwape.be/node/6063)). Who issues this invoice, and which mentions it must carry, is the subject of our guide [“Invoicing shared electricity in Belgium”](/en/guides/who-invoices-shared-electricity-belgium/). Two details that trip up a lot of projects:
 
 - **VAT is not uniform.** The reduced **6% rate applies to electricity supplied to a residential customer**, against **21% for a business customer**: a community with mixed membership should therefore expect to invoice at two rates. Below €25,000 in annual turnover excluding VAT, the [small business exemption scheme](https://finances.belgium.be/fr/entreprises/tva/assujettissement-tva/regime-franchise-taxe) may apply. No circular deals specifically with energy sharing: have your situation validated by your accountant before the first invoice.
 - **The federal levy no longer exists.** It was abolished on 31 December 2021 and absorbed into the special excise duty ([CREG](https://www.creg.be/fr/a-z-index/cotisation-federale)). Plenty of documents still in circulation mention it: leave it out of your simulations.
 
 ## Grid fees almost never go down
 
-The idea that an energy community enjoys reduced network charges is widespread. It is above all **wrong in the most common case**. We also take apart, block by block, [why a Belgian electricity bill stays high despite falling prices](/en/news/2026/07/25/why-electricity-bill-still-high-belgium/) — network costs, taxes and supplier margin included. Region by region:
+The idea that an energy community enjoys reduced network charges is widespread. It is above all **wrong in the most common case**. We also take apart, block by block, [why a Belgian electricity bill stays high despite falling prices](/en/guides/why-electricity-bill-still-high-belgium/) — network costs, taxes and supplier margin included. Region by region:
 
 | Region | Reduction in network charges on shared kWh |
 |---|---|

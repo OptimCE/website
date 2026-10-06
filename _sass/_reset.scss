@@ -8,10 +8,12 @@
   padding: 0;
 }
 
+// 100% (not none): stops iOS from inflating text in landscape without
+// blocking the reader's own text zoom.
 html {
-  -moz-text-size-adjust: none;
-  -webkit-text-size-adjust: none;
-  text-size-adjust: none;
+  -moz-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
 }
 
 body {
@@ -31,6 +33,7 @@ button,
 textarea,
 select {
   font: inherit;
+  color: inherit;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -44,4 +47,8 @@ a {
 ul[role="list"],
 ol[role="list"] {
   list-style: none;
+}
+
+[hidden] {
+  display: none !important;
 }

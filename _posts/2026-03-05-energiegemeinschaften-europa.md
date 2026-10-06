@@ -9,7 +9,8 @@ description: "Was die Richtlinien RED II und IEMD vorsehen, wie Belgien, Frankre
 tags: [community, administrative, guide]
 lang: de
 ref: energy-communities-europe
-permalink: /de/aktuelles/2026/03/05/energiegemeinschaften-europa/
+pillar: communautes-energie
+permalink: /de/ratgeber/energiegemeinschaften-europa/
 faq:
   - q: "Was ist der Unterschied zwischen einer Erneuerbare-Energien-Gemeinschaft und einer Bürgerenergiegemeinschaft?"
     a: "Eine Erneuerbare-Energien-Gemeinschaft (EEG) stammt aus der Richtlinie RED II: Sie umfasst ausschließlich erneuerbare Energie, und ihre Mitglieder müssen sich in der Nähe der Erzeugungsanlagen befinden. Eine Bürgerenergiegemeinschaft (BEG) stammt aus der Strombinnenmarktrichtlinie: Sie ist technologieneutral, umfasst nur Strom und kennt kein geografisches Näheerfordernis. In beiden Fällen muss die tatsächliche Kontrolle bei natürlichen Personen, lokalen Behörden oder Kleinunternehmen bleiben."
@@ -86,7 +87,7 @@ Eine Richtlinie gibt ein Ergebnis vor, keine unmittelbar anwendbare Regel. Jeder
 
 Energie ist eine **regionale** Zuständigkeit. Wallonie, Brüssel und Flandern wenden jeweils ihr eigenes Dekret oder ihre eigene Ordonnanz an, mit eigener Regulierungsbehörde — CWaPE, BRUGEL, VREG — und eigenen Familien von Aufteilungsschlüsseln. Eine Brüsseler und eine wallonische Gemeinschaft folgen nicht denselben Regeln, obwohl beide aus denselben Richtlinien stammen.
 
-Die Einzelheiten der drei Rahmen, die Status CER, CEC und CEL sowie die Rolle des Netzbetreibers behandelt unser Referenzartikel: [„Energiegemeinschaften in Belgien: CER, CEC, CEL“](/de/aktuelles/2026/05/11/energiegemeinschaften-belgien/).
+Die Einzelheiten der drei Rahmen, die Status CER, CEC und CEL sowie die Rolle des Netzbetreibers behandelt unser Referenzartikel: [„Energiegemeinschaften in Belgien: CER, CEC, CEL“](/de/ratgeber/energiegemeinschaften-belgien/).
 
 ### Frankreich — die kollektive Eigenversorgung als Einstieg
 
@@ -110,9 +111,9 @@ Der Kontrast ist aufschlussreich: Wo Frankreich einen Umkreis in Kilometern fest
 
 Der europäische Rahmen bestimmt, was Sie dürfen. Der nationale Rahmen bestimmt, **wie Sie es nachweisen müssen**. Konkret drei operative Folgen:
 
-- **Der Aufteilungsschlüssel ist nicht frei wählbar.** Jede Region und jedes Land erkennt eigene Schlüsselfamilien an, und ein Abweichen vom Katalog erfordert meist eine Genehmigung. Siehe [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/).
-- **Die Abrechnung hängt vom Status ab.** Wer welche Rechnung ausstellt und zu welchem MwSt.-Satz, folgt aus dem nationalen Regime. Siehe [„Geteilten Strom in Belgien abrechnen“](/de/aktuelles/2026/07/23/geteilten-strom-abrechnen-belgien/).
-- **Die tatsächliche Kontrolle muss nachweisbar bleiben.** Das ist eine fortlaufende Governance-Anforderung, kein bei der Gründung abgehaktes Kästchen. Siehe [„Mitglieder einer Energiegemeinschaft einbinden“](/de/aktuelles/2026/06/24/energiegemeinschaft-mitglieder-einbinden/).
+- **Der Aufteilungsschlüssel ist nicht frei wählbar.** Jede Region und jedes Land erkennt eigene Schlüsselfamilien an, und ein Abweichen vom Katalog erfordert meist eine Genehmigung. Siehe [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/ratgeber/verteilungsschluessel-energiegemeinschaft-belgien/).
+- **Die Abrechnung hängt vom Status ab.** Wer welche Rechnung ausstellt und zu welchem MwSt.-Satz, folgt aus dem nationalen Regime. Siehe [„Geteilten Strom in Belgien abrechnen“](/de/ratgeber/geteilten-strom-abrechnen-belgien/).
+- **Die tatsächliche Kontrolle muss nachweisbar bleiben.** Das ist eine fortlaufende Governance-Anforderung, kein bei der Gründung abgehaktes Kästchen. Siehe [„Mitglieder einer Energiegemeinschaft einbinden“](/de/ratgeber/energiegemeinschaft-mitglieder-einbinden/).
 
 Genau das verwaltet [OptimCE](/de/about/): Mitglieder, Zähler, Aufteilungsschlüssel und regulatorisches Reporting — auf einer Architektur, die für auseinanderlaufende nationale Rahmen gebaut ist.
 
@@ -142,11 +143,11 @@ Weil eine Richtlinie ein Ergebnis vorgibt, keine unmittelbar anwendbare Regel. J
 
 Der europäische Rahmen setzt das Prinzip; entschieden wird auf nationaler und regionaler Ebene.
 
-> **[Energiegemeinschaften in Belgien: CER, CEC, CEL](/de/aktuelles/2026/05/11/energiegemeinschaften-belgien/)**
+> **[Energiegemeinschaften in Belgien: CER, CEC, CEL](/de/ratgeber/energiegemeinschaften-belgien/)**
 >
 > Die drei belgischen Status, die Energieteilung und die Rolle von Regulator und Netzbetreiber.
 
-> **[Energiegemeinschaft in der Wallonie gründen](/de/aktuelles/2026/05/11/energiegemeinschaft-gruenden-wallonien/)**
+> **[Energiegemeinschaft in der Wallonie gründen](/de/ratgeber/energiegemeinschaft-gruenden-wallonien/)**
 >
 > Von der Modellwahl bis zum Start der Energieteilung mit Ihrem Netzbetreiber.
 

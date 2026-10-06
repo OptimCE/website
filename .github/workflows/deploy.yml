@@ -36,6 +36,11 @@ jobs:
         # Malformed JSON-LD, an over-long <title> and a cross-language link all
         # produce a green build and a successful deploy. Nothing else catches them.
         run: python scripts/check_seo.py --site _site
+      - name: Site integrity
+        # Redirect table, internal links, hreflang groups, sitemap coverage,
+        # JSON-LD references and unpublished editorial markers: checks that need
+        # the whole built site at once.
+        run: python scripts/check_site.py --site _site
       - name: Minify JavaScript
         run: npx --yes terser _site/assets/js/main.js -o _site/assets/js/main.js -c -m
       - uses: actions/upload-pages-artifact@v3

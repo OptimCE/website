@@ -2,14 +2,15 @@
 layout: post
 title: "Energiegemeinschaft: Leitfaden für Gemeinden"
 date: 2026-08-30 06:00:00 +0200
-last_modified_at: 2026-09-10 06:00:00 +0200
+last_modified_at: 2026-09-26 06:00:00 +0200
 author: "Eric, OptimCE"
 excerpt: "262 wallonische Gemeinden. Dreizehn Energiegemeinschaften mit vollständiger Akte bei der CWaPE, von denen nur sechs tatsächlich Strom teilen. Das ist kein Mangel an Ehrgeiz: es hat nur kaum jemand bemerkt, was das wallonische Recht bereits sagt. Das erste der beiden Nähekriterien einer Erneuerbare-Energie-Gemeinschaft lautet wörtlich „das Gebiet einer einzigen und derselben Gemeinde“. Wallonien ist die einzige der drei Regionen, in der der Gesetzgeber den Perimeter selbst gezogen hat — entlang der Gemeindegrenze."
 description: "In Wallonien ist der Perimeter einer Erneuerbare-Energie-Gemeinschaft das Gemeindegebiet. Was die Gemeinde damit tun kann und zu welchem Preis."
 tags: [guide, community, administrative]
 lang: de
 ref: municipal-energy-community
-permalink: /de/aktuelles/2026/08/30/energiegemeinschaft-gemeinde-leitfaden/
+solution: communes
+permalink: /de/loesungen/gemeinden/
 faq:
   - q: "Kann eine Gemeinde allein eine Energiegemeinschaft gründen?"
     a: "Nein, und das ist so gewollt. Eine Energiegemeinschaft ist eine von ihren Mitgliedern getrennte juristische Person, die tatsächlich von Teilnehmern in der Nähe kontrolliert werden und gegenüber diesen autonom bleiben muss. Eine Struktur, in der die Gemeinde einziges Mitglied und einziger Entscheidungsträger wäre, würde weder die Bedingung der tatsächlichen Kontrolle durch eine Mehrzahl von Teilnehmern noch die Bedingung der Autonomie erfüllen: sie wäre eine verkappte Gemeindedienststelle, keine Energiegemeinschaft. Die Gemeinde kann dagegen die Initiative ergreifen, die Erzeugungsanlage finanzieren, ihre Dächer zur Verfügung stellen und einen Sitz im Verwaltungsrat einnehmen. Genau dieses Modell hat die Stadt Aubange gewählt, deren VoG die Stadt und sechs Gründungsmitglieder aus der Bürgerschaft vereint. Geht es nur darum, zwischen Zählpunkten zu teilen, die der Gemeinde selbst gehören, ist die Energiegemeinschaft nicht der einzige Weg — sobald jedoch ein Dritter an der Teilung beteiligt ist, wird sie es."
@@ -29,7 +30,7 @@ Wallonien zählt **262 Gemeinden**. Am 3. September 2026 führt die CWaPE **drei
 
 Lesen Sie nun ihre Namen: *Soleil d'Aubange*, *DURBUY 1*, *LASNENERGIE*, *Soleil de Rixensart*, *Courants de Gaume*, *Communauté d'énergie partagée by BEP*. Das sind keine Start-up-Namen. Das sind Namen von Gebieten. Die wallonische Bewegung der Energiegemeinschaften ist faktisch eine Bewegung lokaler Behörden — sie betrifft heute jedoch eine von zwanzig Gemeinden.
 
-Dieser Artikel wiederholt nicht, was auf dieser Website bereits steht: der Unterschied zwischen den drei belgischen Statuten wird in [„Energiegemeinschaften in Belgien: CER, CEC, CEL“](/de/aktuelles/2026/05/11/energiegemeinschaften-belgien/) behandelt, das allgemeine Gründungsverfahren in [„Energiegemeinschaft in der Wallonie gründen“](/de/aktuelles/2026/05/11/energiegemeinschaft-gruenden-wallonien/), die Dokumente und Fristen der Regulierungsbehörde in [„Energiegemeinschaft: CWaPE-Dokumente und Fristen“](/de/aktuelles/2026/08/12/energiegemeinschaft-verwaltungsdokumente-wallonien/), die interne Preisbildung in [„Interner Verrechnungspreis für geteilten Strom“](/de/aktuelles/2026/07/20/strompreis-energiegemeinschaft/), die Schlüssel in [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/) und die Stufen des kurzen Weges in [„Strom auf kurzem Weg: Anleitung für Wallonien“](/de/aktuelles/2026/08/25/strom-kurze-wege-anleitung/).
+Dieser Artikel wiederholt nicht, was auf dieser Website bereits steht: der Unterschied zwischen den drei belgischen Statuten wird in [„Energiegemeinschaften in Belgien: CER, CEC, CEL“](/de/ratgeber/energiegemeinschaften-belgien/) behandelt, das allgemeine Gründungsverfahren in [„Energiegemeinschaft in der Wallonie gründen“](/de/ratgeber/energiegemeinschaft-gruenden-wallonien/), die Dokumente und Fristen der Regulierungsbehörde in [„Energiegemeinschaft: CWaPE-Dokumente und Fristen“](/de/ratgeber/energiegemeinschaft-verwaltungsdokumente-wallonien/), die interne Preisbildung in [„Interner Verrechnungspreis für geteilten Strom“](/de/ratgeber/strompreis-energiegemeinschaft/), die Schlüssel in [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/ratgeber/verteilungsschluessel-energiegemeinschaft-belgien/) und die Stufen des kurzen Weges in [„Strom auf kurzem Weg: Anleitung für Wallonien“](/de/ratgeber/strom-kurze-wege-anleitung/).
 
 Er beantwortet eine Frage, die diese Artikel nicht stellen: **Was macht im wallonischen Recht die Gemeinde zur Standardgröße einer Energiegemeinschaft — und was ändert das für ein Kollegium, das einen Klimaplan ohne Budget abwägen muss?**
 
@@ -78,7 +79,7 @@ Das erste Kriterium ist eine wallonische Besonderheit. Es lohnt sich, sie zu ver
 
 Weder die europäischen Richtlinien noch die Brüsseler Ordonnanz definieren die Nähe: in Brüssel müssen die Mitglieder der Gemeinschaft die Kriterien in ihrer eigenen Satzung festlegen. Flandern verfährt vergleichbar und knüpft den Perimeter an die Ziele der Gemeinschaft. **Wallonien ist die einzige der drei Regionen, in der der Gesetzgeber den Perimeter selbst gezogen hat und in der er ihn entlang der Gemeindegrenze gezogen hat.**
 
-Die vollständigen regionalen Einzelheiten stehen in [„Energiegemeinschaften in Belgien: CER, CEC, CEL“](/de/aktuelles/2026/05/11/energiegemeinschaften-belgien/) und, für die Schlüssel, in [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/); sie hier zu wiederholen wäre müßig. Eine Klarstellung zum Werkzeug, um deutlich zu sein: das Dokumentenmodul von OptimCE kennt heute nur die CWaPE. Eine Brüsseler oder flämische Gemeinde kann die Plattform für Mitglieder, Zähler und Schlüssel nutzen, nicht aber für ihre regulatorischen Dokumente.
+Die vollständigen regionalen Einzelheiten stehen in [„Energiegemeinschaften in Belgien: CER, CEC, CEL“](/de/ratgeber/energiegemeinschaften-belgien/) und, für die Schlüssel, in [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/ratgeber/verteilungsschluessel-energiegemeinschaft-belgien/); sie hier zu wiederholen wäre müßig. Eine Klarstellung zum Werkzeug, um deutlich zu sein: das Dokumentenmodul von OptimCE kennt heute nur die CWaPE. Eine Brüsseler oder flämische Gemeinde kann die Plattform für Mitglieder, Zähler und Schlüssel nutzen, nicht aber für ihre regulatorischen Dokumente.
 
 ## Drei Gründe, es zu tun, die nichts mit Ökologie zu tun haben
 
@@ -108,7 +109,7 @@ Diese Tabelle ist ein Grund zur Hoffnung, nicht zum Aufgeben: je schlechter das 
 
 Ohne weiteren Schritt ins Netz eingespeist, bringt eine Überschuss-Kilowattstunde heute je nach Versorger zwischen **0,94 und 4,90 Cent** — ein Faktor fünf, für einen Tarif, der in Belgien nirgends reguliert ist. Geteilt bewegt sich dieselbe Kilowattstunde in einer vertretbaren Spanne von **3 bis 14 Cent**, deren Untergrenze genau der Einspeisetarif ist (darunter hat der Erzeuger kein Interesse zu teilen) und deren Obergrenze der Energiebestandteil ist, den der Teilnehmer seinem Versorger ohnehin zahlt.
 
-Die vollständige Herleitung mit den fünf verglichenen Optionen steht in [„Solarüberschuss: die 5 Optionen im Vergleich“](/de/aktuelles/2026/08/18/solarer-ueberschuss-was-tun-belgien/), die Methode der Preisbildung in [„Interner Verrechnungspreis für geteilten Strom“](/de/aktuelles/2026/07/20/strompreis-energiegemeinschaft/). Für eine Gemeinde genügt die Größenordnung: **die Teilung verdoppelt den Wert des Überschusses, für null Euro zusätzliche Investition.**
+Die vollständige Herleitung mit den fünf verglichenen Optionen steht in [„Solarüberschuss: die 5 Optionen im Vergleich“](/de/ratgeber/solarer-ueberschuss-was-tun-belgien/), die Methode der Preisbildung in [„Interner Verrechnungspreis für geteilten Strom“](/de/ratgeber/strompreis-energiegemeinschaft/). Für eine Gemeinde genügt die Größenordnung: **die Teilung verdoppelt den Wert des Überschusses, für null Euro zusätzliche Investition.**
 
 Was das in echten Euro bedeutet, sehen wir weiter unten. Sagen wir gleich: es ist nicht das, was das Dach bezahlen wird.
 
@@ -140,7 +141,7 @@ Ein Aktionsplan für nachhaltige Energie und Klima gliedert sich um drei Zielfam
 
 Eine Energiegemeinschaft speist die zweite Familie unmittelbar. Ihr eigentlicher Reiz liegt jedoch anderswo, und er passt in einen Satz: **sie ist die Maßnahme, die Dächer mobilisiert, die der Gemeinde nicht gehören.** Eine kommunale Dämmprämie wirkt auf den privaten Bestand und hofft, dass jemand sie beantragt. Eine Energiegemeinschaft gibt einem privaten Eigentümer einen wirtschaftlichen Grund, in sein eigenes Dach zu investieren, denn sie bietet ihm einen Absatz zu 3-14 Cent für einen Überschuss, der ihm 1-5 Cent einbringt. Der Hebel verlässt den kommunalen Bestand, was selten ist.
 
-In einer ländlichen Gemeinde hat dieser private Eigentümer fast immer einen Namen: einen Landwirt, dessen Halle das größte verfügbare Dach der Gegend trägt. Was dieses Dach kann und was nicht — und warum die wallonische Agrarbeihilfe dort endet, wo das Teilen beginnt — steht in [„Landwirte: der Leitfaden zum Energieteilen“](/de/aktuelles/2026/09/10/energiegemeinschaft-landwirtschaft-leitfaden/).
+In einer ländlichen Gemeinde hat dieser private Eigentümer fast immer einen Namen: einen Landwirt, dessen Halle das größte verfügbare Dach der Gegend trägt. Was dieses Dach kann und was nicht — und warum die wallonische Agrarbeihilfe dort endet, wo das Teilen beginnt — steht in [„Landwirte: der Leitfaden zum Energieteilen“](/de/loesungen/landwirtschaft/).
 
 Sie hakt im selben Zug ein soziales Feld und ein Bürgerbeteiligungsfeld ab — die beiden Kapitel, die Klimapläne sonst mit Sensibilisierungsaktionen füllen.
 
@@ -212,7 +213,7 @@ Einige zeitsparende Präzisierungen:
 
 **Zu Entscheidung 2.** Das Auswahlkriterium für Teilnehmer ist nicht die Begeisterung, sondern das Verbrauchsprofil. Die Teilung wird **je Viertelstunde** berechnet: eine mittags erzeugte Kilowattstunde kann nur einem Teilnehmer zugewiesen werden, der mittags verbraucht. Ein Geschäft, eine Kita, ein Selbstständiger im Homeoffice oder ein Altenheim nehmen viel auf; ein Haushalt, dessen beide Erwachsene auswärts arbeiten, nimmt werktags fast nichts auf. Die Gruppe zusammenzustellen, bevor simuliert wurde, was sie tatsächlich aufnimmt, führt zwangsläufig zu einem enttäuschenden Schlüssel.
 
-**Zu Entscheidung 4.** Seit dem **25. Juni 2026** laufen die Anmeldung der Gründung einer Energiegemeinschaft, ihre Änderungen und die jährliche Berichterstattung über Online-Formulare auf `monespace.wallonie.be`. Die CWaPE hat **zehn Werktage**, um die Vollständigkeit der Akte zu bestätigen, und eine unvollständige Akte kann binnen **sechs Monaten** ergänzt werden. Die Einzelheiten der beizubringenden Unterlagen behandelt [„Energiegemeinschaft: CWaPE-Dokumente und Fristen“](/de/aktuelles/2026/08/12/energiegemeinschaft-verwaltungsdokumente-wallonien/).
+**Zu Entscheidung 4.** Seit dem **25. Juni 2026** laufen die Anmeldung der Gründung einer Energiegemeinschaft, ihre Änderungen und die jährliche Berichterstattung über Online-Formulare auf `monespace.wallonie.be`. Die CWaPE hat **zehn Werktage**, um die Vollständigkeit der Akte zu bestätigen, und eine unvollständige Akte kann binnen **sechs Monaten** ergänzt werden. Die Einzelheiten der beizubringenden Unterlagen behandelt [„Energiegemeinschaft: CWaPE-Dokumente und Fristen“](/de/ratgeber/energiegemeinschaft-verwaltungsdokumente-wallonien/).
 
 **Zu Entscheidung 7.** Die jährliche Berichterstattung fällt auf den **1. September**, jedes Jahr, für alle Gemeinschaften. Es ist keine gleitende Frist, die an das Gründungsdatum anknüpft: es ist ein festes Datum, und es ist die Pflicht, die junge Strukturen am ehesten vergessen.
 
@@ -251,7 +252,7 @@ Zwei getrennte Gemeindegebäude bilden jedoch kein selbes Gebäude. Die Schule u
 
 Die Folge ist eindeutig: **der einzige Bestandteil, auf dem eine Energiegemeinschaft Wert schafft, ist der Energiebestandteil.** Das ist real, aber begrenzt, und es erklärt, warum die vertretbare Preisspanne bei 14 Cent endet und nicht bei 37.
 
-Ein nützlicher Zusatz: verfügt ein Gemeindegebäude über mehrere Zähler — ein Schulkomplex, ein kommunales Wohngebäude — fällt die Teilung *innerhalb* dieses Gebäudes unter das Gebäuderegime, ohne juristische Person und ohne Genehmigung, und mit der Ermäßigung von 80 %. Das ist oft die erste Operation, noch bevor an eine Gemeinschaft zu denken ist. Der Mechanismus wird in [„Energie teilen im Mehrparteienhaus“](/de/aktuelles/2026/08/27/energie-teilen-mehrparteienhaus/) beschrieben. Ein Vorbehalt: der Fall einer Schule ist enger, als er scheint, denn eine Schule ist fast nie eine Miteigentümergemeinschaft — siehe [„Schulen: der Leitfaden zum Energieteilen“](/de/aktuelles/2026/09/03/energiegemeinschaft-schule-leitfaden/).
+Ein nützlicher Zusatz: verfügt ein Gemeindegebäude über mehrere Zähler — ein Schulkomplex, ein kommunales Wohngebäude — fällt die Teilung *innerhalb* dieses Gebäudes unter das Gebäuderegime, ohne juristische Person und ohne Genehmigung, und mit der Ermäßigung von 80 %. Das ist oft die erste Operation, noch bevor an eine Gemeinschaft zu denken ist. Der Mechanismus wird in [„Energie teilen im Mehrparteienhaus“](/de/loesungen/mehrparteienhaeuser/) beschrieben. Ein Vorbehalt: der Fall einer Schule ist enger, als er scheint, denn eine Schule ist fast nie eine Miteigentümergemeinschaft — siehe [„Schulen: der Leitfaden zum Energieteilen“](/de/loesungen/schulen/).
 
 ### Falle Nr. 2: der Sozialtarif geht auf geteilten Kilowattstunden verloren
 
@@ -267,7 +268,7 @@ Drei Wege bleiben offen, und sie sind besser:
 - Haushalte in Schwierigkeiten ansprechen, die den Sozialtarif **nicht** beziehen — eine zahlreiche und schlecht abgedeckte Gruppe.
 - Die Teilung als **Ergänzung** zum Sozialtarif behandeln, auf den Zeitfenstern, in denen der Haushalt ohnehin verbraucht, und seinen Schlüsselanteil so bemessen, dass der soziale Vorteil nicht ausgehöhlt wird.
 
-Der Überblick über die bestehenden Hilfen und die Rolle des Sozialhilfezentrums als Eingangstor stehen in [„Energiearmut in Wallonien: Hilfen im Überblick“](/de/aktuelles/2026/08/08/energiearmut-wallonien-hilfen/); die Abwägungen zwischen den Tarifen, darunter der Sozialtarif, in [„Welchen Stromtarif in Belgien wählen?“](/de/aktuelles/2026/08/03/stromtarif-belgien-waehlen/).
+Der Überblick über die bestehenden Hilfen und die Rolle des Sozialhilfezentrums als Eingangstor stehen in [„Energiearmut in Wallonien: Hilfen im Überblick“](/de/ratgeber/energiearmut-wallonien-hilfen/); die Abwägungen zwischen den Tarifen, darunter der Sozialtarif, in [„Welchen Stromtarif in Belgien wählen?“](/de/ratgeber/stromtarif-belgien-waehlen/).
 
 ### Falle Nr. 3: die Gemeinde wird zur Stromverkäuferin
 
@@ -275,7 +276,7 @@ Strom gegen Entgelt zu teilen heißt, ein Gut zu verkaufen. Daraus folgen Pflich
 
 Die Energiegemeinschaft ist von **den meisten Mehrwertsteuerpflichten befreit** — sie stellt ihren Teilnehmern keine Mehrwertsteuer in Rechnung — muss jedoch gleichwohl **eine Mehrwertsteuernummer erhalten**; unterhalb von 25 000 € Jahresumsatz steht die Kleinunternehmerregelung offen. Auf der Erzeugungsseite muss sich jede Person mit Anlagen einer kumulierten Leistung von mehr als **10 kVA** für den Verkauf ihrer Einspeisung mehrwertsteuerlich registrieren: eine Gemeinde, die mehrere Dächer ausrüstet, überschreitet diese Schwelle sehr schnell. **Akzisen und föderale Abgaben** schließlich bleiben vom Endverbraucher geschuldet, in derselben Höhe wie bei Strom von einem klassischen Versorger.
 
-Erforderlich ist außerdem eine **Teilungsvereinbarung** zwischen den Teilnehmern, die den Aufteilungsschlüssel, die Kosten des geteilten Stroms, die zur Verfügung gestellten Anlagen und die Abrechnungsmodalitäten durch den Vertreter der Teilung festlegt. Die Abrechnungsmechanik — zwei nebeneinander bestehende Rechnungen, Pflichtangaben, Behandlung der Mehrwertsteuer — behandelt [„Geteilten Strom in Belgien abrechnen“](/de/aktuelles/2026/07/23/geteilten-strom-abrechnen-belgien/). Das Praxisblatt zu Aubange führt die steuerliche und administrative Integration (Mehrwertsteuer, Akzisen, Vereinbarungen) ausdrücklich unter den Herausforderungen des Projekts auf: es ist kein Detail am Ende des Weges.
+Erforderlich ist außerdem eine **Teilungsvereinbarung** zwischen den Teilnehmern, die den Aufteilungsschlüssel, die Kosten des geteilten Stroms, die zur Verfügung gestellten Anlagen und die Abrechnungsmodalitäten durch den Vertreter der Teilung festlegt. Die Abrechnungsmechanik — zwei nebeneinander bestehende Rechnungen, Pflichtangaben, Behandlung der Mehrwertsteuer — behandelt [„Geteilten Strom in Belgien abrechnen“](/de/ratgeber/geteilten-strom-abrechnen-belgien/). Das Praxisblatt zu Aubange führt die steuerliche und administrative Integration (Mehrwertsteuer, Akzisen, Vereinbarungen) ausdrücklich unter den Herausforderungen des Projekts auf: es ist kein Detail am Ende des Weges.
 
 ### Falle Nr. 4: öffentliche Aufträge und Aufsicht
 
@@ -288,6 +289,29 @@ Die **Gründung der juristischen Person und die Beteiligung der Gemeinde** richt
 Die **Teilungsvereinbarung** ist kein öffentlicher Auftrag: sie ist ein Vertrag über die Aufteilung einer erzeugten Menge zu einem frei vereinbarten Preis.
 
 Die genaue Einordnung hängt vom Modell ab. Es ist eine Frage an den Rechtsdienst der Gemeinde oder an die Vereinigung der Städte und Gemeinden Walloniens **vor** dem Beschluss. Der kostenlose Fazilitator des Öffentlichen Dienstes der Wallonie ist der richtige erste Ansprechpartner, um das Feld zu bereiten.
+
+## Was OptimCE für Sie tut
+
+Eine Gemeinde vereint mehrere Gebäude, mehrere Partner und Einwohner, die der Gemeinschaft
+beitreten und sie wieder verlassen. OptimCE bündelt diese Verwaltung an einem Ort:
+
+- **Den Schlüssel anhand echter Daten wählen.** Importieren Sie die Viertelstundenkurven der
+  Gemeindegebäude und der Teilnehmer, simulieren Sie dann einen Schlüssel oder lassen Sie das
+  Generierungsmodul einen vorschlagen: Eigenverbrauch und Überschuss werden sichtbar, bevor die
+  Vorlage ins Kollegium geht.
+- **Die Teilnehmerliste führen.** Mitglieder, Lieferstellen und Zähler werden an einem Ort geführt;
+  jede Version des Schlüssels wird archiviert und die Zustimmung der Mitglieder nachverfolgt.
+- **Die wallonischen Verfahren vorbereiten.** Die Dokumente der CWaPE werden aus diesen Daten
+  vorausgefüllt, die Fristen berechnet, und das Dashboard meldet die nahenden. Die Einreichung
+  bleibt Sache der Gemeinschaft.
+- **Die Operation bekannt machen.** Veröffentlichen Sie sie im öffentlichen Register der
+  Anwendung, in dem Einwohner nach einer offenen Operation in ihrer Nähe suchen, und informieren
+  und befragen Sie die Mitglieder dann über das Nachrichtenboard und die Abstimmungen.
+- **Den geteilten Strom abrechnen** im wallonischen Rahmen, mit Zahlungsverfolgung.
+
+Die Anwendung ist während der Alphaphase kostenlos.
+
+**[OptimCE-App öffnen →](https://app.optimce.be)**
 
 ## Was Sie sich merken sollten
 

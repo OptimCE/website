@@ -8,8 +8,9 @@ description: "CER, CEC und CEL: die Unterschiede, wie Energieteilung funktionier
 tags: [community, administrative]
 lang: de
 ref: energy-communities-belgium
+pillar: communautes-energie
 last_modified_at: 2026-07-20 10:00:00 +0200
-permalink: /de/aktuelles/2026/05/11/energiegemeinschaften-belgien/
+permalink: /de/ratgeber/energiegemeinschaften-belgien/
 ---
 
 Energiegemeinschaften stehen im Zentrum der belgischen Energiewende. Von der Europäischen Union vorgegeben und von jeder Region — Wallonie, Brüssel, Flandern — eigenständig umgesetzt, ermöglichen sie es Bürgerinnen und Bürgern, Unternehmen und lokalen Behörden, ihre eigene Energie zu erzeugen, zu teilen und zu verbrauchen. Dieser Artikel stellt die drei offiziellen Formen (CER, CEC, CEL) vor, erläutert, wie Energieteilung tatsächlich funktioniert, präsentiert die wichtigsten Akteure und fasst die finanziellen und ökologischen Vorteile zusammen.
@@ -107,7 +108,7 @@ Privatpersonen, KMU und lokale Behörden können teilnehmen. Die Teilnahme ist o
 
 ### Wie wird mein Rabatt berechnet?
 
-Der VNB analysiert Ihre 15-Minuten-Daten, wendet den von der Gemeinschaft festgelegten **Aufteilungsschlüssel** an und teilt Ihrem Lieferanten mit, wie viel geteilte Energie Ihnen zugewiesen wurde. Dieser Anteil wird zum innerhalb der Gemeinschaft ausgehandelten Tarif abgerechnet, in der Regel unter dem Marktpreis. Für die Details der in jeder Region akzeptierten Schlüsseltypen siehe unseren Leitfaden [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/).
+Der VNB analysiert Ihre 15-Minuten-Daten, wendet den von der Gemeinschaft festgelegten **Aufteilungsschlüssel** an und teilt Ihrem Lieferanten mit, wie viel geteilte Energie Ihnen zugewiesen wurde. Dieser Anteil wird zum innerhalb der Gemeinschaft ausgehandelten Tarif abgerechnet, in der Regel unter dem Marktpreis. Für die Details der in jeder Region akzeptierten Schlüsseltypen siehe unseren Leitfaden [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/ratgeber/verteilungsschluessel-energiegemeinschaft-belgien/).
 
 ### Gibt es eine geografische Beschränkung?
 
@@ -133,7 +134,7 @@ Flandern verfügt über einen gleichwertigen Rahmen unter Aufsicht des **VREG**,
 
 **In der Wallonie** ist der Rahmen seit 2022 stabil und das Verfahren vollständig dokumentiert. Wir haben einen eigenen Schritt-für-Schritt-Leitfaden verfasst:
 
-> **[Energiegemeinschaft in der Wallonie gründen](/de/aktuelles/2026/05/11/energiegemeinschaft-gruenden-wallonien/)**
+> **[Energiegemeinschaft in der Wallonie gründen](/de/ratgeber/energiegemeinschaft-gruenden-wallonien/)**
 >
 > Wahl zwischen CER und CEC, Projektstrukturierung, Meldung bei der CWaPE, Empfangsbestätigung und Start der Teilung mit ORES, RESA oder AIEG.
 
@@ -145,7 +146,7 @@ Flandern verfügt über einen gleichwertigen Rahmen unter Aufsicht des **VREG**,
 
 **In der Wallonie** suchen Hunderte von Teilungsoperationen aktiv neue Mitglieder. Sie müssen keine eigene Gemeinschaft gründen, um von der Teilung zu profitieren — ein praktischer Leitfaden führt Sie Schritt für Schritt zum Beitritt zu einer bestehenden Operation in wenigen Wochen.
 
-> **[Energiegemeinschaft in der Wallonie beitreten](/de/aktuelles/2026/05/11/energiegemeinschaft-beitreten-wallonien/)**
+> **[Energiegemeinschaft in der Wallonie beitreten](/de/ratgeber/energiegemeinschaft-beitreten-wallonien/)**
 >
 > Wer beitreten kann, wo eine offene Operation finden (OptimCE-Register, SPW-Facilitator, Énergie commune), Beitrittsschritte und Punkte zur Beachtung vor der Unterzeichnung.
 

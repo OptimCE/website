@@ -8,7 +8,8 @@ description: "Simuleer een sleutel op uw eigen data en meet zelfverbruik, surplu
 tags: [allocation-key, app, news]
 lang: nl
 ref: optimce-allocation-key-simulation
-permalink: /nl/nieuws/2026/06/09/verdeelsleutel-simuleren-optimce/
+pillar: cle-de-repartition
+permalink: /nl/gidsen/verdeelsleutel-simuleren-optimce/
 faq:
   - q: "Wat betekent het om een verdeelsleutel te simuleren?"
     a: "Het betekent reële productie- en verbruiksdata door een gekozen verdeelsleutel spelen, zonder die in productie toe te passen, om de indicatoren vooraf te meten: collectief zelfverbruik, surplus, zelfvoorzieningsgraad en deelgraad. Het is een 'wat-als'-test voordat u beslist."
@@ -28,7 +29,7 @@ Een **verdeelsleutel** kiezen betekent kwartier per kwartier beslissen wie welk 
 
 Het idee is eenvoudig: u importeert een dataset, u kiest een sleutel, en de simulatie speelt elke tijdstap door die sleutel om u het **zelfverbruik**, het **surplus**, de **zelfvoorzieningsgraad** en de **deelgraad** terug te geven — globaal, per tijdstap en per iteratie. U test een scenario zonder het toe te passen, zonder risico, en u beslist op basis van cijfers in plaats van buikgevoel.
 
-Is het begrip verdeelsleutel nieuw voor u, begin dan met ons referentieartikel [“Verdeelsleutel in België: de 3 regio's”](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/) — het zet het vocabulaire uiteen dat hier wordt gebruikt.
+Is het begrip verdeelsleutel nieuw voor u, begin dan met ons referentieartikel [“Verdeelsleutel in België: de 3 regio's”](/nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/) — het zet het vocabulaire uiteen dat hier wordt gebruikt.
 
 ## Waarom een verdeelsleutel simuleren?
 
@@ -36,11 +37,11 @@ Een verdeelsleutel is niet neutraal: afhankelijk van de verbruiks- en productiep
 
 Het probleem is dat **op buikgevoel beslissen riskant is**. Productiecurves van zonne-energie en verbruiksprofielen kruisen elkaar op niet-triviale wijze op de 15-minutenstap; met het blote oog is het onmogelijk te voorspellen of sleutel A het over een volledig jaar van sleutel B wint. En de inzet is concreet: elk punt zelfverbruik dat u wint, is surplus dat niet langer tegen een lage prijs wordt geïnjecteerd, dus meer waarde die in de gemeenschap blijft.
 
-Simuleren betekent net **die beslissing uit het buikgevoel halen**. U meet het reële effect van een sleutel op de indicatoren die ertoe doen — zelfverbruik, surplus, zelfvoorziening, deelgraad — voordat u zich tot iets verbindt. Om te begrijpen waarom die indicatoren centraal staan in de waarde van een gemeenschap, zie ons artikel [“Zelfverbruik van energie in België”](/nl/nieuws/2026/06/05/zelfverbruik-energie-belgie/).
+Simuleren betekent net **die beslissing uit het buikgevoel halen**. U meet het reële effect van een sleutel op de indicatoren die ertoe doen — zelfverbruik, surplus, zelfvoorziening, deelgraad — voordat u zich tot iets verbindt. Om te begrijpen waarom die indicatoren centraal staan in de waarde van een gemeenschap, zie ons artikel [“Zelfverbruik van energie in België”](/nl/gidsen/zelfverbruik-energie-belgie/).
 
 ## Wat de simulatie mogelijk maakt
 
-De functie is ingebouwd in de **module "Verdeelsleutels"** van de open-source kern van OptimCE. De gebruikersflow telt slechts enkele stappen:
+De functie is ingebouwd in de **module “Verdeelsleutels”** van de open-source kern van OptimCE. De gebruikersflow telt slechts enkele stappen:
 
 1. **Importeer een CSV** met verbruiksdata per tijdstap (vaak per kwartier) voor elk lid en productiedata voor elke producent van de deeloperatie. Elke regel van het bestand komt overeen met één tijdstap.
 2. **Kies een verdeelsleutel** om te testen — een standaardsleutel voor uw regio, een bestaande sleutel van de gemeenschap, of een scenario dat u wilt verkennen.
@@ -76,7 +77,7 @@ De **zelfvoorzieningsgraad** wordt aan de **verbruikszijde** gemeten: het aandee
 
 ### De deelgraad en de lezing per iteratie
 
-De **deelgraad** toont hoeveel van de beschikbare injectie effectief **via de sleutel onder de leden werd verdeeld**. Hier komt de lezing **per iteratie** van pas. Veel sleutels verdelen in meerdere rondes: een eerste ronde verdeelt de energie volgens de regel, daarna wordt de energie die een lid niet verbruikte **in de volgende ronde herverdeeld** onder wie nog vraag heeft (dat is het principe van "meerdere rondes", relatieve of optimale sleutels). De simulatie toont hoe de deelgraad **bij elke iteratie vordert**, tot de deelbare injectie is uitgeput — u ziet precies wat de opeenvolgende rondes toevoegen.
+De **deelgraad** toont hoeveel van de beschikbare injectie effectief **via de sleutel onder de leden werd verdeeld**. Hier komt de lezing **per iteratie** van pas. Veel sleutels verdelen in meerdere rondes: een eerste ronde verdeelt de energie volgens de regel, daarna wordt de energie die een lid niet verbruikte **in de volgende ronde herverdeeld** onder wie nog vraag heeft (dat is het principe van “meerdere rondes”, relatieve of optimale sleutels). De simulatie toont hoe de deelgraad **bij elke iteratie vordert**, tot de deelbare injectie is uitgeput — u ziet precies wat de opeenvolgende rondes toevoegen.
 
 Om verwarring te vermijden, vat deze tabel samen waar elke indicator zich bevindt:
 
@@ -94,7 +95,7 @@ De simulatie is nuttig in elke fase van het leven van een energiegemeenschap.
 - **Vóór de start.** U vergelijkt meerdere kandidaat-sleutels op historische of geschatte data en kiest die welke de doelstellingen van het project het best dient, met kennis van zaken.
 - **Tijdens het ontwerp.** U maakt expliciet de afweging tussen **billijkheid** (een leesbare, voorspelbare sleutel voor de leden) en **globale prestatie** (een sleutel die het collectieve zelfverbruik maximaliseert), met cijfers ter ondersteuning.
 - **Tijdens de werking.** U meet het effect van een **nieuwe dataset** of een **wijziging van profielen** (een lid plaatst een warmtepomp, een ander een laadpaal) op de indicatoren — zonder iets te breken in de lopende operatie.
-- **Bij het bijwerken van de sleutel.** Wanneer een **lid toetreedt of vertrekt**, simuleert u de herberekende sleutel voordat u ze indient, om te controleren of ze performant blijft. Ons artikel over de [verdeelsleutel in België](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/) beschrijft de procedure om een sleutel na de start te wijzigen, en de [gids om een gemeenschap op te richten in Wallonië](/nl/nieuws/2026/05/11/energiegemeenschap-oprichten-wallonie/) plaatst die stap in het regulatordossier.
+- **Bij het bijwerken van de sleutel.** Wanneer een **lid toetreedt of vertrekt**, simuleert u de herberekende sleutel voordat u ze indient, om te controleren of ze performant blijft. Ons artikel over de [verdeelsleutel in België](/nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/) beschrijft de procedure om een sleutel na de start te wijzigen, en de [gids om een gemeenschap op te richten in Wallonië](/nl/gidsen/energiegemeenschap-oprichten-wallonie/) plaatst die stap in het regulatordossier.
 
 ## De waarde voor gemeenschappen
 
@@ -104,7 +105,7 @@ Voor een gemeenschapsbeheerder, een facilitator of een projectontwikkelaar veran
 - **Pedagogie.** Door op reële data te zien *waarom* de ene sleutel beter werkt dan de andere, begrijpen en aanvaarden de leden de keuze gemakkelijker. De simulatie maakt van een abstracte technische discussie een concrete demonstratie.
 - **Een sterk argument.** Voor een algemene vergadering, een netbeheerder of een regulator weegt een sleutel verdedigen met cijfers — uit de eigen data van de gemeenschap — veel zwaarder dan een principiële aanbeveling.
 
-Het is ook een hefboom om lokale productie te valoriseren, en dus om de [elektriciteitsfactuur van de leden te verlagen](/nl/nieuws/2026/06/03/energiegemeenschap-elektriciteitsfactuur-verlagen/): elk vermeden surpluspunt is waarde die in de gemeenschap blijft.
+Het is ook een hefboom om lokale productie te valoriseren, en dus om de [elektriciteitsfactuur van de leden te verlagen](/nl/gidsen/energiegemeenschap-elektriciteitsfactuur-verlagen/): elk vermeden surpluspunt is waarde die in de gemeenschap blijft.
 
 ## Simulatie en automatische generatie: twee complementaire tools
 
@@ -114,18 +115,18 @@ Het zijn twee complementaire toepassingen, geen concurrenten:
 
 | | Simulatie | Automatische generatie |
 |---|---|---|
-| Gestelde vraag | "Wat geeft *deze* sleutel op deze data?" | "*Welke* sleutel is het best voor deze data?" |
+| Gestelde vraag | “Wat geeft *deze* sleutel op deze data?” | “*Welke* sleutel is het best voor deze data?” |
 | Invoer | Een gekozen sleutel + een CSV | Een CSV |
 | Uitvoer | De KPI's van de geteste sleutel | Eén (of meer) geoptimaliseerde kandidaat-sleutel(s) |
 | Typisch gebruik | Scenario's vergelijken, begrijpen, verantwoorden | Een goed startpunt vinden |
 
-In de praktijk genereert u om een solide kandidaat te vinden en simuleert u vervolgens om zijn gedrag te begrijpen, varianten te vergelijken en hem te verdedigen. Voor de details van de algoritmes, zie [“Verdeelsleutel automatisch genereren”](/nl/nieuws/2026/05/26/automatische-verdeelsleutel-generatie/).
+In de praktijk genereert u om een solide kandidaat te vinden en simuleert u vervolgens om zijn gedrag te begrijpen, varianten te vergelijken en hem te verdedigen. Voor de details van de algoritmes, zie [“Verdeelsleutel automatisch genereren”](/nl/gidsen/automatische-verdeelsleutel-generatie/).
 
 ## Energiegemeenschappen in België, in het kort
 
 Een **energiegemeenschap** brengt producenten en verbruikers samen die lokaal hernieuwbare productie delen. Het delen is administratief: digitale meters worden afgelezen op een **15-minutenstap**, en de **distributienetbeheerder (DNB)** past de gekozen verdeelsleutel toe om elk lid een aandeel van de geïnjecteerde energie toe te wijzen. België erkent verschillende vormen — HEG, BEG en, in Brussel, LEG — onder toezicht van de regionale regulatoren ([Brugel](https://energysharing.brugel.brussels) in Brussel, met [Sibelga](https://www.sibelga.be/nl/aansluitingen-meters/hernieuwbare-energie/energie-delen) als netbeheerder).
 
-In dit landschap is de verdeelsleutel de centrale parameter van de prestatie van een gemeenschap — en de simulatie beantwoordt een reële behoefte: **het delen van energie structureren en begrijpen** voordat men zich ertoe verbindt. Voor het volledige overzicht van de juridische vormen, zie [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/).
+In dit landschap is de verdeelsleutel de centrale parameter van de prestatie van een gemeenschap — en de simulatie beantwoordt een reële behoefte: **het delen van energie structureren en begrijpen** voordat men zich ertoe verbindt. Voor het volledige overzicht van de juridische vormen, zie [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/gidsen/energiegemeenschappen-belgie/).
 
 ## Conclusie
 
@@ -141,7 +142,7 @@ Het simuleren van een verdeelsleutel brengt één eenvoudige maar doorslaggevend
 
 ### Wat betekent het om een verdeelsleutel te simuleren?
 
-Het betekent reële productie- en verbruiksdata door een gekozen verdeelsleutel spelen, **zonder die in productie toe te passen**, om de indicatoren vooraf te meten: collectief zelfverbruik, surplus, zelfvoorzieningsgraad en deelgraad. Het is een "wat-als"-test voordat u beslist.
+Het betekent reële productie- en verbruiksdata door een gekozen verdeelsleutel spelen, **zonder die in productie toe te passen**, om de indicatoren vooraf te meten: collectief zelfverbruik, surplus, zelfvoorzieningsgraad en deelgraad. Het is een “wat-als”-test voordat u beslist.
 
 ### Wat is het verschil tussen een verdeelsleutel simuleren en genereren?
 
@@ -151,7 +152,7 @@ Het betekent reële productie- en verbruiksdata door een gekozen verdeelsleutel 
 
 De **zelfverbruiksgraad** wordt aan de productiezijde gemeten: het aandeel van de lokaal geproduceerde energie dat door de leden wordt verbruikt. De **zelfvoorzieningsgraad** wordt aan de verbruikszijde gemeten: het aandeel van het verbruik van de leden dat door lokale productie wordt gedekt. De **deelgraad** toont hoeveel van de injectie via de sleutel effectief onder de leden werd verdeeld.
 
-### Wat betekenen de resultaten "per iteratie"?
+### Wat betekenen de resultaten “per iteratie”?
 
 Veel sleutels verdelen energie in meerdere rondes (iteraties): een eerste ronde verdeelt volgens de regel, daarna wordt de niet-verbruikte energie in de volgende ronde herverdeeld. De simulatie toont het resultaat **globaal**, **per tijdstap** en **per iteratie**, zodat u ziet hoe het delen ronde na ronde vordert.
 
@@ -161,7 +162,7 @@ Een **CSV**-bestand met het verbruik per tijdstap (vaak per kwartier) van elk li
 
 ### Verandert de simulatie mijn verdeelsleutel in productie?
 
-Nee. De simulatie is een berekening "buiten productie": ze raakt noch aan de sleutel die de netbeheerder toepast, noch aan uw reële data. U test zoveel scenario's als u wilt zonder enig effect op de lopende deeloperatie.
+Nee. De simulatie is een berekening “buiten productie”: ze raakt noch aan de sleutel die de netbeheerder toepast, noch aan uw reële data. U test zoveel scenario's als u wilt zonder enig effect op de lopende deeloperatie.
 
 ## Bronnen
 

@@ -2,14 +2,15 @@
 layout: post
 title: "Energie delen in een appartementsgebouw"
 date: 2026-08-27 06:00:00 +0200
-last_modified_at: 2026-09-16 06:00:00 +0200
+last_modified_at: 2026-09-26 06:00:00 +0200
 author: "Eric van OptimCE"
 excerpt: "616 135 Brusselse en Waalse woningen liggen in een appartementsgebouw. In februari 2025 telde de CWaPE vier deelactiviteiten binnen eenzelfde gebouw in Wallonië. Vier. Het energierecht treft geen schuld: het vraagt een overeenkomst en een formulier, zonder rechtspersoon en zonder vergunning. Het zijn drie artikelen uit boek 3 van het Burgerlijk Wetboek die werkelijk beslissen — wie de panelen mag bezitten, met welke meerderheid, en hoelang de syndicus mag tekenen."
 description: "Drie artikelen uit het Burgerlijk Wetboek bepalen of uw gebouw stroom kan delen: eigendom van de panelen, meerderheid in de AV, mandaat van de syndicus."
 tags: [guide, community, administrative]
 lang: nl
 ref: energy-sharing-condominium
-permalink: /nl/nieuws/2026/08/27/energie-delen-appartementsgebouw/
+solution: coproprietes
+permalink: /nl/oplossingen/appartementsgebouwen/
 faq:
   - q: "Mag een mede-eigendom de stroom van haar dak delen tussen de appartementen?"
     a: "Ja, en het is de lichtste vorm van de Belgische regeling. Zowel in Brussel als in Wallonië vereist het delen binnen eenzelfde gebouw geen rechtspersoon en geen vergunning van de regulator: een overeenkomst tussen de deelnemers en een verklaring bij de netbeheerder volstaan. De vier voorwaarden zijn aan beide zijden van de gewestgrens dezelfde: de deelnemers bevinden zich in het gebouw, de productie-installatie ligt in of op dat gebouw, de gedeelde stroom is hernieuwbaar, en elke deelnemer behoudt zijn leveringscontract. De moeilijkheid is dus niet de toestemming om te delen. Ze bestaat erin te beslissen wie eigenaar is van de installatie die dat delen voedt — en die vraag valt onder het Burgerlijk Wetboek, niet onder het energierecht."
@@ -31,7 +32,7 @@ Elk van die gebouwen heeft een gemeenschappelijk dak, een meter van de gemeensch
 
 In werkelijkheid telde de CWaPE in haar evaluatierapport van 20 februari 2025 slechts **vier deelactiviteiten binnen eenzelfde gebouw** op het volledige Waalse grondgebied. Vier.
 
-Dit artikel legt niet opnieuw uit wat een energiegemeenschap is, noch wat een CER van een CEC of een CEL onderscheidt — dat gebeurt in [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/). Het herdefinieert het collectieve zelfverbruik niet, uiteengezet in [“Zelfverbruik van energie in België”](/nl/nieuws/2026/06/05/zelfverbruik-energie-belgie/), noch de verdeelmethodes, gewest per gewest vergeleken in [“Verdeelsleutel in België: de 3 regio's”](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/). Het herhaalt evenmin de mechaniek van de twee facturen, de verplichte vermeldingen en de btw-tarieven, beschreven in [“Gedeelde elektriciteit factureren in België”](/nl/nieuws/2026/07/23/gedeelde-elektriciteit-factureren-belgie/), noch de tabel van de vier Brusselse tariefperimeters en de Waalse korting van 80 %, opgesteld in [“Goedkopere stroom zonder leverancierswissel”](/nl/nieuws/2026/08/05/goedkopere-stroom-zonder-leverancierswissel/).
+Dit artikel legt niet opnieuw uit wat een energiegemeenschap is, noch wat een CER van een CEC of een CEL onderscheidt — dat gebeurt in [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/gidsen/energiegemeenschappen-belgie/). Het herdefinieert het collectieve zelfverbruik niet, uiteengezet in [“Zelfverbruik van energie in België”](/nl/gidsen/zelfverbruik-energie-belgie/), noch de verdeelmethodes, gewest per gewest vergeleken in [“Verdeelsleutel in België: de 3 regio's”](/nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/). Het herhaalt evenmin de mechaniek van de twee facturen, de verplichte vermeldingen en de btw-tarieven, beschreven in [“Gedeelde elektriciteit factureren in België”](/nl/gidsen/gedeelde-elektriciteit-factureren-belgie/), noch de tabel van de vier Brusselse tariefperimeters en de Waalse korting van 80 %, opgesteld in [“Goedkopere stroom zonder leverancierswissel”](/nl/gidsen/goedkopere-stroom-zonder-leverancierswissel/).
 
 Het beantwoordt een vraag die deze artikelen niet stellen: **in een appartementsgebouw blokkeert niet het energierecht — maar het recht van de mede-eigendom.**
 
@@ -50,7 +51,7 @@ Bij het delen van stroom lopen de kilowattuur altijd over het openbare net, en d
 
 In Brussel plaatst de beslissing Brugel 285bis van 4 november 2024, van toepassing van 1 januari 2025 tot 31 december 2029, het delen binnen eenzelfde gebouw in de gunstigste perimeter van het raster: op de gedeelde volumes vallen de doorrekening van het transport, de vaste term, de proportionele term en de term afgenomen vermogen allemaal terug tot nul. In Wallonië past het ORES-raster 2026 **een korting van 80 % toe op de proportionele term** voor energie gedeeld binnen eenzelfde gebouw, geïdentificeerd onder de globaliseringscodes E216 in distributie en E526 in transport. Geen korting op de residuele stroom, en helemaal geen korting voor het delen binnen een energiegemeenschap.
 
-De volledige tabel van de vier Brusselse perimeters staat in [“Goedkopere stroom zonder leverancierswissel”](/nl/nieuws/2026/08/05/goedkopere-stroom-zonder-leverancierswissel/); die hoeft hier niet te worden overgedaan. Wat wel de moeite waard is om toe te voegen, is wat het gebouw specifiek bijbrengt bovenop het tarief.
+De volledige tabel van de vier Brusselse perimeters staat in [“Goedkopere stroom zonder leverancierswissel”](/nl/gidsen/goedkopere-stroom-zonder-leverancierswissel/); die hoeft hier niet te worden overgedaan. Wat wel de moeite waard is om toe te voegen, is wat het gebouw specifiek bijbrengt bovenop het tarief.
 
 ### De meter van de gemeenschappelijke delen is een dagabsorbeerder, en dat is zeldzaam
 
@@ -64,7 +65,7 @@ Sibelga verwoordt het overigens uitstekend bij de beschrijving van wie de deelne
 
 Het andere voordeel schuilt in de sociale samenstelling van het gebouw. Een gebouw met vijftien appartementen herbergt doorgaans een of twee gepensioneerden, een telewerker, een zelfstandige, een gezin met jonge kinderen, meerdere overdag afwezige werkenden en een leegstaande woning tussen twee huurders. Die heterogeniteit — ondergaan, niet gekozen — levert een geaggregeerde curve op die veel vlakker is dan die van een verkaveling bewoond door hetzelfde socio-professionele profiel.
 
-Dat is de belangrijkste reden waarom een gebouw bij gelijk geïnstalleerd vermogen beter absorbeert dan een villawijk. De logica om een deelgroep samen te stellen op uurrooster in plaats van op affiniteit wordt uitgewerkt in [“Stroom in de korte keten: de handleiding”](/nl/nieuws/2026/08/25/elektriciteit-korte-keten-handleiding/); in een gebouw is die samenstelling grotendeels al gebeurd.
+Dat is de belangrijkste reden waarom een gebouw bij gelijk geïnstalleerd vermogen beter absorbeert dan een villawijk. De logica om een deelgroep samen te stellen op uurrooster in plaats van op affiniteit wordt uitgewerkt in [“Stroom in de korte keten: de handleiding”](/nl/gidsen/elektriciteit-korte-keten-handleiding/); in een gebouw is die samenstelling grotendeels al gebeurd.
 
 ## Wat het energierecht van een mede-eigendom vraagt: heel weinig
 
@@ -211,7 +212,7 @@ Datzelfde artikel legt op dat de verhouding tussen de syndicus en de vereniging 
 
 Het beheer van een deelactiviteit is nochtans geen symbolische taak. De beheerder moet de gedeelde stroom aan elke deelnemer factureren, de activiteit aangeven, elke wijziging melden — instap, uitstap, wijziging van verdeelmethode — en de bijhorende netkosten innen om ze aan de netbeheerder door te storten. In Brussel bezorgt Sibelga elke maand de nodige gegevensbestanden; er moet iemand zijn om die te verwerken.
 
-Een vergadering die de installatie goedkeurt zonder de vergoeding voor dat beheer goed te keuren, keurt in de praktijk een project goed dat nooit zal starten. Het punt moet uitdrukkelijk op de agenda staan, als becijferde aanvullende prestatie. De overeenkomstige documentaire last aan Waalse zijde wordt uitgewerkt in [“Energiegemeenschap: CWaPE-documenten en termijnen”](/nl/nieuws/2026/08/12/energiegemeenschap-administratieve-documenten-wallonie/).
+Een vergadering die de installatie goedkeurt zonder de vergoeding voor dat beheer goed te keuren, keurt in de praktijk een project goed dat nooit zal starten. Het punt moet uitdrukkelijk op de agenda staan, als becijferde aanvullende prestatie. De overeenkomstige documentaire last aan Waalse zijde wordt uitgewerkt in [“Energiegemeenschap: CWaPE-documenten en termijnen”](/nl/gidsen/energiegemeenschap-administratieve-documenten-wallonie/).
 
 ### De overdrachtslijst, op te stellen vóór ze nodig is
 
@@ -243,13 +244,13 @@ Dat is het argument voor de vergadering, en men kan het beter becijferen dan uit
 
 Een huurgebouw wisselt voortdurend van bewoners. Elke verhuizing is een uitstap van een deelnemer die aan de netbeheerder moet worden gemeld, en elke aankomst een aansluiting die moet worden voorgesteld. Daaruit volgen drie ontwerpprincipes:
 
-- **Stem de prijs in de algemene vergadering, onderhandel hem niet appartement per appartement.** Eén prijs, jaarlijks herzienbaar, overleeft de rotatie; een mozaïek van individuele prijzen overleeft de tweede verhuizing niet. De verdedigbare methodes worden vergeleken in [“Interne overdrachtsprijs in een gemeenschap”](/nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/).
-- **Kies een sleutel die in- en uitstap opvangt.** Een sleutel in vaste percentages moet bij elke beweging opnieuw worden gemeld; een sleutel evenredig met het verbruik stelt zichzelf bij. De keuze tussen beide logica's wordt behandeld in [“Verdeelsleutel in België: de 3 regio's”](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/).
+- **Stem de prijs in de algemene vergadering, onderhandel hem niet appartement per appartement.** Eén prijs, jaarlijks herzienbaar, overleeft de rotatie; een mozaïek van individuele prijzen overleeft de tweede verhuizing niet. De verdedigbare methodes worden vergeleken in [“Interne overdrachtsprijs in een gemeenschap”](/nl/gidsen/prijs-elektriciteit-energiegemeenschap/).
+- **Kies een sleutel die in- en uitstap opvangt.** Een sleutel in vaste percentages moet bij elke beweging opnieuw worden gemeld; een sleutel evenredig met het verbruik stelt zichzelf bij. De keuze tussen beide logica's wordt behandeld in [“Verdeelsleutel in België: de 3 regio's”](/nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/).
 - **Informeer op het ogenblik van de huurovereenkomst.** Het bestaan van de deelactiviteit, de geldende prijs en de aansluitingsprocedure moeten in het dossier voor de nieuwe bewoner staan, net als het reglement van inwendige orde. Dat is het enige moment waarop de informatie een intredende huurder echt bereikt.
 
-Het bestuurluik — deelnemers informeren, stemmingen organiseren, het nieuwsoverzicht bijhouden — wordt uitgewerkt in [“Leden van een energiegemeenschap betrekken”](/nl/nieuws/2026/06/24/energiegemeenschap-leden-betrekken/).
+Het bestuurluik — deelnemers informeren, stemmingen organiseren, het nieuwsoverzicht bijhouden — wordt uitgewerkt in [“Leden van een energiegemeenschap betrekken”](/nl/gidsen/energiegemeenschap-leden-betrekken/).
 
-Deze afdeling is geschreven vanuit het standpunt van de syndicus en de algemene vergadering. Hetzelfde probleem gezien vanuit het appartement — wat een huurder alleen kan beslissen, en wat de duur van zijn huurovereenkomst hem toelaat te verwachten — komt aan bod in [“Huurder: zonne-energie zonder eigen dak”](/nl/nieuws/2026/09/16/zonne-energie-huurder-zonder-dak-gids/).
+Deze afdeling is geschreven vanuit het standpunt van de syndicus en de algemene vergadering. Hetzelfde probleem gezien vanuit het appartement — wat een huurder alleen kan beslissen, en wat de duur van zijn huurovereenkomst hem toelaat te verwachten — komt aan bod in [“Huurder: zonne-energie zonder eigen dak”](/nl/gidsen/zonne-energie-huurder-zonder-dak-gids/).
 
 ## Wat het in cijfers oplevert, en de twee fiscale valkuilen
 
@@ -264,7 +265,7 @@ Niet dat vermogen bepaalt de winst, wel het aandeel van de productie dat **binne
 3. **De boilers en warmtepompen** — verplaatsbaar met een klok of een verbonden thermostaat, zonder tussenkomst van de bewoners;
 4. **De woningen** — de rest, ondergaan.
 
-Wat een kilowattuur overschot waard is naargelang het gebruik ervan, wordt becijferd in [“Zonne-overschot: de 5 opties vergeleken”](/nl/nieuws/2026/08/18/wat-doen-met-je-zonne-overschot-belgie/), en de globale rendabiliteit van een installatie in [“Zonnepanelen 2026: nog rendabel in Wallonië?”](/nl/nieuws/2026/08/11/zonnepanelen-rendabel-wallonie-2026/).
+Wat een kilowattuur overschot waard is naargelang het gebruik ervan, wordt becijferd in [“Zonne-overschot: de 5 opties vergeleken”](/nl/gidsen/wat-doen-met-je-zonne-overschot-belgie/), en de globale rendabiliteit van een installatie in [“Zonnepanelen 2026: nog rendabel in Wallonië?”](/nl/gidsen/zonnepanelen-rendabel-wallonie/).
 
 ### Valkuil nr. 1: de 10 kVA van de btw
 
@@ -274,7 +275,7 @@ Een particulier die het overschot van zijn zes panelen deelt, valt dus buiten he
 
 De nuance die budgetten redt: btw-plicht betekent niet automatisch btw aanrekenen. Men kan nog altijd kiezen voor de vrijstellingsregeling als de jaaromzet onder 25 000 € blijft, wat voor de overgrote meerderheid van deelactiviteiten in gebouwen het geval is. Maar er moet toch **een btw-nummer worden geopend en listings worden ingediend**, wat een terugkerende boekhoudkost toevoegt, welke constructie ook wordt gekozen. Het is de post die het meest systematisch uit de budgetten van de algemene vergadering wordt vergeten.
 
-De toepasselijke tarieven en de verplichte vermeldingen van de deelfactuur worden behandeld in [“Gedeelde elektriciteit factureren in België”](/nl/nieuws/2026/07/23/gedeelde-elektriciteit-factureren-belgie/).
+De toepasselijke tarieven en de verplichte vermeldingen van de deelfactuur worden behandeld in [“Gedeelde elektriciteit factureren in België”](/nl/gidsen/gedeelde-elektriciteit-factureren-belgie/).
 
 ### Valkuil nr. 2: de groenestroomcertificaten veranderen van schaal op 1 april 2026
 
@@ -313,6 +314,30 @@ Projecten die mislukken, vergissen zich bijna nooit in de techniek. Ze vergissen
 | **Elk jaar** | Prijs, sleutel en deelnemerslijst herzien; rapporteren | Een deelactiviteit stuurt men, men plaatst ze niet |
 
 Het kritieke pad is noch de stemming noch de administratie: het zijn **de slimme meters**. In een gebouw waar meerdere deelnemers er nog geen hebben, is dat de enige stap die geen enkele beslissing van de vergadering kan versnellen. Ze verdient het de dag na de stemming te worden opgestart, niet op het ogenblik van de aangifte.
+
+## Wat OptimCE voor u doet
+
+Delen in een gebouw wordt gewonnen per kwartier en jarenlang beheerd, over verhuizingen en
+wisselingen van syndicus heen. OptimCE neemt het repetitieve deel voor zijn rekening:
+
+- **Meten vóór de stemming.** Simuleer een verdeelsleutel op het kwartierverbruik van de
+  appartementen en van de meter van de gemeenschappelijke delen: zelfverbruik en overschot worden
+  zichtbaar nog vóór u de algemene vergadering bijeenroept. De module voor automatische generatie
+  stelt ook een kandidaat-sleutel voor.
+- **De lijst van deelnemers bijhouden.** Eigenaars, bewoners, leveringspunten en meters staan op
+  één plek; elke versie van de sleutel wordt bewaard en de aanvaarding door de leden wordt
+  opgevolgd.
+- **De documenten voorbereiden.** Voor een Waals gebouw worden de documenten van de CWaPE op basis
+  van die gegevens vooraf ingevuld en worden de termijnen berekend. Het indienen blijft uw zaak.
+- **De gedeelde elektriciteit factureren.** De facturatiemodule, ontworpen voor het Waalse kader,
+  stelt de facturen van de bewoners en de afrekening voor de eigenaar van de installatie op, met
+  opvolging van de betalingen.
+- **Informeren en raadplegen.** Met het nieuwsbord en de polls kunt u de deelnemers bijvoorbeeld
+  raadplegen voordat u de sleutel wijzigt.
+
+De applicatie is gratis tijdens de alfafase.
+
+**[De OptimCE-app openen →](https://app.optimce.be)**
 
 ## Wat u moet onthouden
 

@@ -13,12 +13,15 @@
     #organization  site-wide constant, referenced by every other node
     #website       one per language tree (so inLanguage stays truthful)
     #software      one global product entity, shared @id across all 4 homepages
-    #person        the article byline; emitted with #article so it is never orphaned
+                   and the features pages (with featureList)
+    #person        the author (_data/authors.yml): on posts, with #article, and on
+                   the author pages, with the ProfilePage
     #article       posts
-    #webpage       about / glossary
-    #breadcrumb    everything except the homepages
+    #webpage       about (AboutPage), pillar, guide and solution indexes (CollectionPage)
+    #breadcrumb    everything except the homepages (trail: _includes/breadcrumb.html)
     #faq           posts declaring `faq:` front matter
-    #terms         glossary index pages
+    #terms         glossary index pages (DefinedTermSet)
+    #term          glossary term pages (DefinedTerm, also listed in #terms)
 {%- endcomment -%}
 {%- assign lang = page.lang | default: site.lang | default: 'fr' -%}
 {%- assign t = site.data.i18n[lang] -%}
@@ -69,7 +72,11 @@
       "inLanguage": {{ lang | jsonify }},
       "publisher": { "@id": {{ org_id | jsonify }} }
     }
-    {%- if page.ref == 'home' -%}
+    {%- if page.ref == 'home' or page.ref == 'features' -%}
+    {%- comment -%}
+      One global product entity (#software), described on the homepages and,
+      with its feature list, on the features pages.
+    {%- endcomment -%}
     ,{
       "@type": "SoftwareApplication",
       "@id": {{ software_id | jsonify }},
@@ -85,21 +92,62 @@
         "priceCurrency": "EUR"
       },
       "publisher": { "@id": {{ org_id | jsonify }} }
+      {%- if page.feature_list -%}
+      ,"featureList": {{ page.feature_list | jsonify }}
+      ,"softwareHelp": { "@type": "CreativeWork", "url": "https://guide.optimce.be" }
+      {%- endif -%}
     }
     {%- endif -%}
-    {%- if page.layout == 'post' -%}
+    {%- if page.ref == 'features' -%}
+    ,{
+      "@type": "WebPage",
+      "@id": {{ page_url | append: '#webpage' | jsonify }},
+      "url": {{ page_url | jsonify }},
+      "name": {{ page.title | jsonify }},
+      "description": {{ page.description | jsonify }},
+      "inLanguage": {{ lang | jsonify }},
+      "isPartOf": { "@id": {{ website_id | jsonify }} },
+      "about": { "@id": {{ software_id | jsonify }} },
+      "mainEntity": { "@id": {{ software_id | jsonify }} },
+      "breadcrumb": { "@id": {{ page_url | append: '#breadcrumb' | jsonify }} }
+    }
+    {%- endif -%}
+    {%- if page.layout == 'post' or page.ref == 'author' -%}
     {%- comment -%}
-      The person the byline names. `name` is the bare first name, not the
-      localised `author:` front matter ("Eric d'OptimCE", "Eric, OptimCE", …),
-      because that string carries the affiliation for human readers while the
-      organisation is already expressed by the publisher edge.
+      The person the byline names (_data/authors.yml), one global node. `name`
+      is the full name, not the localised `author:` front matter ("Eric
+      d'OptimCE", "Eric, OptimCE", …), which carries the affiliation for human
+      readers; the affiliation edge says it here. `url` is the French author
+      page for every language, so the entity has a single canonical address.
     {%- endcomment -%}
+    {%- assign author = site.data.authors[page.author_id] | default: site.data.authors.eric -%}
+    {%- assign fr_lang = site.languages | where: "code", "fr" | first -%}
     ,{
       "@type": "Person",
       "@id": {{ person_id | jsonify }},
-      "name": "Eric"
-    },
-    {
+      "name": {{ author.name | jsonify }},
+      "url": {{ fr_lang.author_path | absolute_url | jsonify }},
+      "affiliation": { "@id": {{ org_id | jsonify }} }
+      {%- if author.github -%}
+      ,"sameAs": [{{ author.github | jsonify }}]
+      {%- endif -%}
+    }
+    {%- endif -%}
+    {%- if page.ref == 'author' -%}
+    ,{
+      "@type": "ProfilePage",
+      "@id": {{ page_url | append: '#webpage' | jsonify }},
+      "url": {{ page_url | jsonify }},
+      "name": {{ page.title | jsonify }},
+      "description": {{ page.description | jsonify }},
+      "inLanguage": {{ lang | jsonify }},
+      "isPartOf": { "@id": {{ website_id | jsonify }} },
+      "mainEntity": { "@id": {{ person_id | jsonify }} },
+      "breadcrumb": { "@id": {{ page_url | append: '#breadcrumb' | jsonify }} }
+    }
+    {%- endif -%}
+    {%- if page.layout == 'post' -%}
+    ,{
       "@type": "Article",
       "@id": {{ page_url | append: '#article' | jsonify }},
       "headline": {{ page.title | jsonify }},
@@ -162,16 +210,54 @@
       "isPartOf": { "@id": {{ website_id | jsonify }} },
       "hasDefinedTerm": [
         {%- for term in site.data.glossary %}
+        {%- assign term_page_url = site.data.glossary_pages[lang][term.slug] -%}
+        {%- if term_page_url -%}
+          {%- capture term_url -%}{{ term_page_url | absolute_url }}{%- endcapture -%}
+          {%- assign term_id = term_url | append: '#term' -%}
+        {%- else -%}
+          {%- capture term_url -%}{{ page_url | append: '#' | append: term.slug }}{%- endcapture -%}
+          {%- assign term_id = term_url -%}
+        {%- endif %}
         {
           "@type": "DefinedTerm",
-          "@id": {{ page_url | append: '#' | append: term.slug | jsonify }},
+          "@id": {{ term_id | jsonify }},
           "name": {{ term.terme[lang] | default: term.terme.fr | jsonify }},
           "description": {{ term.definition[lang] | default: term.definition.fr | jsonify }},
-          "url": {{ page_url | append: '#' | append: term.slug | jsonify }},
+          "url": {{ term_url | jsonify }},
           "inDefinedTermSet": { "@id": {{ page_url | append: '#terms' | jsonify }} }
         }{%- unless forloop.last %},{%- endunless %}
         {%- endfor %}
       ]
+    }
+    {%- endif -%}
+    {%- if page.layout == 'glossary-term' -%}
+    {%- comment -%}
+      A term page: the DefinedTerm (same @id as in the index's DefinedTermSet)
+      and the WebPage about it.
+    {%- endcomment -%}
+    {%- capture glossary_index_url -%}{{ cl.glossary_path | absolute_url }}{%- endcapture -%}
+    ,{
+      "@type": "DefinedTerm",
+      "@id": {{ page_url | append: '#term' | jsonify }},
+      "name": {{ page.term_name | jsonify }},
+      "description": {{ page.term_definition | jsonify }},
+      "url": {{ page_url | jsonify }},
+      "inLanguage": {{ lang | jsonify }},
+      {%- if page.term_aliases.size > 0 %}
+      "alternateName": {{ page.term_aliases | jsonify }},
+      {%- endif %}
+      "inDefinedTermSet": { "@id": {{ glossary_index_url | append: '#terms' | jsonify }} }
+    },
+    {
+      "@type": "WebPage",
+      "@id": {{ page_url | append: '#webpage' | jsonify }},
+      "url": {{ page_url | jsonify }},
+      "name": {{ page.title | jsonify }},
+      "description": {{ page.description | jsonify }},
+      "inLanguage": {{ lang | jsonify }},
+      "isPartOf": { "@id": {{ website_id | jsonify }} },
+      "mainEntity": { "@id": {{ page_url | append: '#term' | jsonify }} },
+      "breadcrumb": { "@id": {{ page_url | append: '#breadcrumb' | jsonify }} }
     }
     {%- endif -%}
     {%- comment -%}
@@ -179,36 +265,42 @@
       Post URLs are five segments deep, so this is the only machine-readable
       signal of where a post sits in the site.
     {%- endcomment -%}
+    {%- if page.layout == 'pillar' or page.layout == 'guides' or page.layout == 'solutions' -%}
+    {%- comment -%}
+      Hub pages: a CollectionPage whose ItemList mirrors what the page lists
+      (page.hub_items, resolved by _plugins/site_graph.rb in display order).
+    {%- endcomment -%}
+    ,{
+      "@type": "CollectionPage",
+      "@id": {{ page_url | append: '#webpage' | jsonify }},
+      "url": {{ page_url | jsonify }},
+      "name": {{ page.title | jsonify }},
+      "description": {{ page.description | jsonify }},
+      "inLanguage": {{ lang | jsonify }},
+      "isPartOf": { "@id": {{ website_id | jsonify }} },
+      "breadcrumb": { "@id": {{ page_url | append: '#breadcrumb' | jsonify }} },
+      "mainEntity": {
+        "@type": "ItemList",
+        "numberOfItems": {{ page.hub_items.size }},
+        "itemListElement": [
+          {%- for item in page.hub_items %}
+          {
+            "@type": "ListItem",
+            "position": {{ forloop.index }},
+            "url": {{ item.url | absolute_url | jsonify }},
+            "name": {{ item.title | jsonify }}
+          }{%- unless forloop.last %},{%- endunless %}
+          {%- endfor %}
+        ]
+      }
+    }
+    {%- endif -%}
     {%- if page.ref != 'home' and page.ref -%}
     ,{
       "@type": "BreadcrumbList",
       "@id": {{ page_url | append: '#breadcrumb' | jsonify }},
       "itemListElement": [
-        {
-          "@type": "ListItem",
-          "position": 1,
-          "name": {{ t.nav.home | jsonify }},
-          "item": {{ home_url | jsonify }}
-        }
-        {%- if page.layout == 'post' -%}
-        ,{
-          "@type": "ListItem",
-          "position": 2,
-          "name": {{ t.nav.blog | jsonify }},
-          "item": {{ cl.blog_path | absolute_url | jsonify }}
-        },
-        {
-          "@type": "ListItem",
-          "position": 3,
-          "name": {{ page.title | jsonify }}
-        }
-        {%- else -%}
-        ,{
-          "@type": "ListItem",
-          "position": 2,
-          "name": {{ page.title | jsonify }}
-        }
-        {%- endif -%}
+        {%- include breadcrumb.html format="jsonld" -%}
       ]
     }
     {%- endif -%}

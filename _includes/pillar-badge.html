@@ -1,0 +1,21 @@
+{%- comment -%}
+  Section badge for a post: its pillar (guides) or the Solutions index. It
+  replaces the old ?tag= chips, which pointed at a client-side filter that
+  search engines could not index.
+  Params: post (defaults to page), class (CSS class of the link).
+{%- endcomment -%}
+{%- assign pb_post = include.post | default: page -%}
+{%- assign pb_lang = pb_post.lang | default: site.lang -%}
+{%- assign pb_class = include.class | default: "post__tag" -%}
+{%- if pb_post.pillar -%}
+  {%- assign pb_pillar = site.data.pillars | where: "key", pb_post.pillar | first -%}
+  {%- assign pb_ref = 'pillar-' | append: pb_post.pillar -%}
+  {%- assign pb_url = site.data.translations[pb_ref][pb_lang] -%}
+  {%- if pb_url -%}
+<a href="{{ pb_url | relative_url }}" class="{{ pb_class }}">{{ pb_pillar.label[pb_lang] }}</a>
+  {%- endif -%}
+{%- elsif pb_post.solution -%}
+  {%- assign pb_cl = site.languages | where: "code", pb_lang | first -%}
+  {%- assign pb_t = site.data.i18n[pb_lang] -%}
+<a href="{{ pb_cl.solutions_path | relative_url }}" class="{{ pb_class }}">{{ pb_t.nav.solutions }}</a>
+{%- endif -%}

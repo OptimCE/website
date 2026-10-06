@@ -5,52 +5,51 @@
 <footer class="site-footer" role="contentinfo">
   <div class="container">
     <div class="site-footer__grid">
-      <!-- Brand -->
       <div class="site-footer__brand">
-        <img src="{{ '/assets/images/logo.svg' | relative_url }}" alt="OptimCE" width="69" height="61">
+        <a href="{{ lang_prefix | append: '/' | relative_url }}" class="site-footer__logo" aria-label="OptimCE - {{ t.nav.home }}">
+          <img src="{{ '/assets/images/logo.svg' | relative_url }}" alt="" width="36" height="32" loading="lazy">
+          <span class="site-footer__wordmark">OptimCE</span>
+        </a>
         <p>{{ t.footer.description }}</p>
+        <p class="site-footer__credits">{{ t.footer.credits }}</p>
       </div>
 
-      <!-- Quick links -->
       <div>
-        <h3 class="site-footer__heading">{{ t.footer.quick_links }}</h3>
+        <h2 class="site-footer__heading">{{ t.footer.quick_links }}</h2>
         <ul class="site-footer__links">
-          <li><a href="{{ lang_prefix | append: '/' | relative_url }}">{{ t.nav.home }}</a></li>
-          <li><a href="{{ lang_prefix | append: '/' | relative_url }}{{ current_lang.features_anchor }}">{{ t.nav.features }}</a></li>
-          <li><a href="{{ current_lang.blog_path | relative_url }}">{{ t.nav.blog }}</a></li>
-          <li><a href="{{ current_lang.glossary_path | relative_url }}">{{ t.nav.glossary }}</a></li>
-          <li><a href="{{ current_lang.about_path | relative_url }}">{{ t.nav.about }}</a></li>
-          <li><a href="https://guide.optimce.be" target="_blank" rel="noopener">{{ t.nav.guide }}</a></li>
+          {% include nav-links.html %}
           <li><a href="{{ current_lang.privacy_path | relative_url }}">{{ t.nav.privacy }}</a></li>
         </ul>
       </div>
 
-      <!-- Newsletter -->
       <div>
-        <h3 class="site-footer__heading">{{ t.footer.newsletter_title }}</h3>
+        <h2 class="site-footer__heading">{{ t.footer.newsletter_title }}</h2>
         <form class="footer-newsletter" data-newsletter-form data-msg-success="{{ t.newsletter.success }}" data-msg-error="{{ t.newsletter.error }}" action="https://optimce.us2.list-manage.com/subscribe/post?u=ec69a7b73ebed4adf61b82581&amp;id=1dcb0effa8&amp;f_id=00375ae1f0" method="post" target="_blank">
-          <input type="email" name="EMAIL" class="footer-newsletter__input" placeholder="{{ t.newsletter.placeholder }}" aria-label="{{ t.newsletter.placeholder }}" required>
-          <button type="submit" class="footer-newsletter__btn">{{ t.newsletter.button }}</button>
-          <div aria-hidden="true" style="position: absolute; left: -5000px;">
+          <input type="email" name="EMAIL" class="footer-newsletter__input" placeholder="{{ t.newsletter.placeholder }}" aria-label="{{ t.newsletter.placeholder }}" autocomplete="email" required>
+          <button type="submit" class="btn btn-primary btn--sm footer-newsletter__btn">{{ t.newsletter.button }}</button>
+          <div class="spam-trap" aria-hidden="true">
             <input type="text" name="b_ec69a7b73ebed4adf61b82581_1dcb0effa8" tabindex="-1" value="">
           </div>
         </form>
         <p class="footer-newsletter__status" data-newsletter-status role="status" aria-live="polite" hidden></p>
-        <p style="font-size: var(--text-sm); color: var(--color-gray-300);">{{ t.newsletter.privacy }}</p>
+        <p class="site-footer__note">{{ t.newsletter.privacy }}</p>
       </div>
 
-      <!-- GitHub & Legal -->
       <div>
-        <h3 class="site-footer__heading">{{ t.nav.links }}</h3>
+        <h2 class="site-footer__heading">{{ t.nav.links }}</h2>
+        <ul class="site-footer__links site-footer__ctas">
+          <li><a href="{{ site.cta.join_url }}">{{ t.nav.join }}</a></li>
+          <li><a href="{{ site.cta.app_url }}">{{ t.nav.manage }}</a></li>
+        </ul>
         <div class="site-footer__social">
-          <a href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener" aria-label="GitHub">
-            <svg width="20" height="20" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+          <a href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener" aria-label="{{ t.a11y.github }}" title="GitHub">
+            {% include icon.html name="github" %}
           </a>
-          <a href="https://app.optimce.be" target="_blank" rel="noopener" aria-label="OptimCE - {{ t.nav.get_started }}">
-            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></svg>
+          <a href="{{ site.cta.app_url }}" target="_blank" rel="noopener" aria-label="OptimCE - {{ t.nav.get_started }}" title="app.optimce.be">
+            {% include icon.html name="app" %}
           </a>
-          <a href="https://guide.optimce.be" target="_blank" rel="noopener" aria-label="{{ t.nav.guide }}">
-            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 4.5A2.5 2.5 0 0 1 6.5 2H20v18H6.5A2.5 2.5 0 0 0 4 22.5v-18z"/><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M8 7h8M8 11h6"/></svg>
+          <a href="https://guide.optimce.be" target="_blank" rel="noopener" aria-label="{{ t.nav.guide }}" title="guide.optimce.be">
+            {% include icon.html name="book" %}
           </a>
         </div>
       </div>

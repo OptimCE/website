@@ -1,19 +1,21 @@
-// Site footer
+// Site footer: the page's alternate surface, not a black band, so it follows
+// the theme like everything else.
 
 .site-footer {
-  background-color: var(--color-gray-900);
-  color: var(--color-gray-300);
+  background-color: var(--color-bg-alt);
+  border-top: 1px solid var(--color-border);
+  color: var(--color-text-muted);
+  font-size: var(--text-sm);
   padding-top: var(--space-16);
-  padding-bottom: 0;
 }
 
 .site-footer__grid {
   display: grid;
-  gap: var(--space-8);
+  gap: var(--space-10) var(--space-8);
   margin-bottom: var(--space-12);
 
   @media (min-width: $bp-md) {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   @media (min-width: $bp-lg) {
@@ -22,27 +24,50 @@
 }
 
 .site-footer__brand {
-  img {
-    height: 36px;
-    width: auto;
-    margin-bottom: var(--space-4);
-    filter: brightness(0) invert(1);
-  }
+  max-width: 24rem;
 
   p {
-    font-size: var(--text-sm);
     line-height: var(--leading-normal);
-    color: var(--color-gray-300);
   }
 }
 
-.site-footer__heading {
+.site-footer__logo {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.625rem;
+  margin-bottom: var(--space-4);
+  color: var(--color-heading);
+  border-radius: var(--radius-md);
+
+  img {
+    height: 32px;
+    width: auto;
+  }
+
+  &:hover {
+    color: var(--color-heading);
+    text-decoration: none;
+  }
+}
+
+.site-footer__wordmark {
   font-family: var(--font-heading);
+  font-size: 1.1875rem;
+  font-weight: var(--weight-bold);
+  letter-spacing: -0.02em;
+}
+
+.site-footer__credits {
+  margin-top: var(--space-4);
+  font-size: var(--text-xs);
+  line-height: 1.55;
+}
+
+.site-footer__heading {
   font-size: var(--text-sm);
   font-weight: var(--weight-semibold);
-  color: var(--color-white);
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
+  letter-spacing: 0;
+  color: var(--color-heading);
   margin-bottom: var(--space-4);
 }
 
@@ -54,19 +79,26 @@
   }
 
   a {
-    color: var(--color-gray-300);
-    font-size: var(--text-sm);
-    transition: color var(--transition-fast);
+    color: var(--color-text-muted);
 
     &:hover {
-      color: var(--color-white);
-      text-decoration: none;
+      color: var(--color-primary);
     }
+  }
+}
+
+.site-footer__ctas {
+  margin-bottom: var(--space-5);
+
+  a {
+    color: var(--color-text);
+    font-weight: var(--weight-semibold);
   }
 }
 
 // Footer newsletter form
 .footer-newsletter {
+  position: relative;
   display: flex;
   gap: var(--space-2);
   margin-bottom: var(--space-3);
@@ -74,72 +106,60 @@
 
 .footer-newsletter__input {
   flex: 1;
-  padding: var(--space-2) var(--space-3);
+  min-width: 0;
+  min-height: 2.25rem;
+  padding: 0.4375rem 0.75rem;
   font-size: var(--text-sm);
-  background-color: var(--color-gray-800);
-  color: var(--color-white);
-  border: 1px solid var(--color-gray-700);
-  border-radius: var(--radius-sm);
+  background-color: var(--color-surface);
+  color: var(--color-text);
+  border: 1px solid var(--color-border-strong);
+  border-radius: var(--radius-md);
 
   &::placeholder {
-    color: var(--color-gray-600);
-  }
-
-  &:focus {
-    outline: none;
-    border-color: var(--color-primary);
+    color: var(--color-text-muted);
   }
 }
 
-.footer-newsletter__btn {
-  padding: var(--space-2) var(--space-4);
-  font-size: var(--text-sm);
-  font-weight: var(--weight-semibold);
-  background-color: var(--color-primary);
-  color: var(--color-white);
-  border: none;
-  border-radius: var(--radius-sm);
-  cursor: pointer;
-  transition: background-color var(--transition-fast);
+.site-footer__note {
+  font-size: var(--text-xs);
+  margin-top: var(--space-3);
+}
 
-  &:hover {
-    background-color: var(--color-primary-hover);
-  }
+// Honeypot field of the Mailchimp forms: off-screen, never tabbable.
+.spam-trap {
+  position: absolute;
+  left: -5000px;
 }
 
 .site-footer__social {
   display: flex;
-  gap: var(--space-4);
-  margin-top: var(--space-4);
+  gap: var(--space-2);
 
   a {
-    color: var(--color-gray-300);
-    transition: color var(--transition-fast);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.25rem;
+    height: 2.25rem;
+    color: var(--color-text-muted);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
 
     &:hover {
-      color: var(--color-white);
+      color: var(--color-heading);
+      border-color: var(--color-border-strong);
     }
 
     svg {
-      width: 20px;
-      height: 20px;
+      width: 1.125rem;
+      height: 1.125rem;
     }
   }
 }
 
 // Footer bottom bar
 .site-footer__bottom {
-  border-top: 1px solid var(--color-gray-700);
-  padding: var(--space-6) 0;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  align-items: center;
-  gap: var(--space-4);
-  font-size: var(--text-sm);
-
-  @media (max-width: $bp-md) {
-    flex-direction: column;
-    text-align: center;
-  }
+  border-top: 1px solid var(--color-border);
+  padding: var(--space-6) 0 var(--space-8);
+  font-size: var(--text-xs);
 }

@@ -8,7 +8,8 @@ description: "Wat de interne prijs dekt, de verdedigbare bandbreedte tussen inje
 tags: [community, administrative, guide]
 lang: nl
 ref: internal-price-shared-energy
-permalink: /nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/
+pillar: prix-facturation-communaute
+permalink: /nl/gidsen/prijs-elektriciteit-energiegemeenschap/
 last_modified_at: 2026-07-25 10:00:00 +0200
 faq:
   - q: "Wie bepaalt de prijs van de gedeelde elektriciteit in een energiegemeenschap?"
@@ -22,7 +23,7 @@ faq:
   - q: "Is een leveringsvergunning nodig om de gedeelde energie aan de leden te verkopen?"
     a: "Nee, binnen de perimeter van het delen. In Wallonië preciseert de SPW dat de gedeelde elektriciteit niet als een leveringsverrichting wordt beschouwd. In Brussel bepaalt de ordonnantie uitdrukkelijk dat de gemeenschap “niet onderworpen is aan de verplichtingen die op de leveranciers rusten voor de elektriciteit die binnen haar wordt gedeeld”. De vrijstelling stopt bij de kring van deelnemers: daarbuiten verkopen valt onder het vergunningsregime."
   - q: "Welke btw geldt op gedeelde elektriciteit?"
-    a: "6 % voor particuliere leden en 21 % voor professionele leden: een gemeenschap met gemengde leden factureert dus tegen twee tarieven. Onder 25.000 € omzet excl. btw per jaar kan de vrijstellingsregeling voor kleine ondernemingen gelden. Laat uw situatie nakijken bij de FOD Financiën of bij uw boekhouder."
+    a: "6 % voor particuliere leden en 21 % voor professionele leden: een gemeenschap met gemengde leden factureert dus tegen twee tarieven. Onder 25 000 € omzet excl. btw per jaar kan de vrijstellingsregeling voor kleine ondernemingen gelden. Laat uw situatie nakijken bij de FOD Financiën of bij uw boekhouder."
   - q: "Hoe vaak moet de prijs herzien worden?"
     a: "Minstens één keer per jaar, op de algemene vergadering — dat is de praktijk van de Brusselse gemeenschap Énergie Solidaire du Balai. Een prijs die vastligt terwijl de markt beweegt, benadeelt uiteindelijk altijd iemand: de producenten wanneer de prijzen stijgen, of de verbruikers wanneer ze instorten."
 ---
@@ -31,13 +32,13 @@ Een eigenaar van zonnepanelen verkoopt zijn overschot vandaag tussen **0,94 en 4
 
 Blijft de vraag die elke projectdrager uiteindelijk stelt, vaak te laat: **welke prijs schrijft u in de overeenkomst?** Geen enkele Belgische regulator publiceert een antwoord. Noch de CWaPE, noch BRUGEL, noch de Vlaamse Nutsregulator verspreidt een rekenmethode of een referentietarief. Dit artikel vult die leemte: wat de interne prijs werkelijk dekt, tussen welke grenzen hij moet vallen, vijf methodes om hem op te bouwen, een volledig doorgerekend Belgisch praktijkgeval, en wat het kader in elk gewest toelaat.
 
-Is de mechaniek van het delen u nog vreemd, begin dan bij ons referentieartikel [“Verdeelsleutel in België: de 3 regio's”](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/): de sleutel bepaalt *hoeveel kWh* elk lid krijgt, de prijs bepaalt *hoeveel euro*.
+Is de mechaniek van het delen u nog vreemd, begin dan bij ons referentieartikel [“Verdeelsleutel in België: de 3 regio's”](/nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/): de sleutel bepaalt *hoeveel kWh* elk lid krijgt, de prijs bepaalt *hoeveel euro*.
 
 ## De interne overdrachtsprijs vervangt maar een derde van de factuur
 
 Dat is fout nummer één, en ze vergiftigt algemene vergaderingen: denken dat een interne prijs van 14 c€/kWh de leden 14 c€/kWh zal doen betalen. Zo werkt het niet.
 
-Een Belgische elektriciteitsfactuur valt uiteen in vier blokken. Dit is hun werkelijke gewicht, volgens de maandelijkse boordtabel van de CREG voor **juni 2026** (typisch residentieel profiel, 3.500 kWh/jaar, enkelvoudig tarief):
+Een Belgische elektriciteitsfactuur valt uiteen in vier blokken. Dit is hun werkelijke gewicht, volgens de maandelijkse boordtabel van de CREG voor **juni 2026** (typisch residentieel profiel, 3 500 kWh/jaar, enkelvoudig tarief):
 
 | Component | België | Vlaanderen | Brussel | Wallonië |
 |---|---|---|---|---|
@@ -56,14 +57,14 @@ Twee praktische gevolgen:
 
 ### Wat de vertegenwoordiger bovenop de prijs factureert
 
-Bij de afgesproken prijs komen, op de factuur van de gemeenschap zelf, “de btw, de accijnzen en de openbaredienstverplichting tot inlevering van groenestroomcertificaten” ([CWaPE](https://www.cwape.be/node/6063)). Wie deze factuur opstelt en welke vermeldingen ze moet dragen, is het onderwerp van onze gids [“Gedeelde elektriciteit factureren in België”](/nl/nieuws/2026/07/23/gedeelde-elektriciteit-factureren-belgie/). Twee preciseringen waarover veel projecten struikelen:
+Bij de afgesproken prijs komen, op de factuur van de gemeenschap zelf, “de btw, de accijnzen en de openbaredienstverplichting tot inlevering van groenestroomcertificaten” ([CWaPE](https://www.cwape.be/node/6063)). Wie deze factuur opstelt en welke vermeldingen ze moet dragen, is het onderwerp van onze gids [“Gedeelde elektriciteit factureren in België”](/nl/gidsen/gedeelde-elektriciteit-factureren-belgie/). Twee preciseringen waarover veel projecten struikelen:
 
-- **De btw is niet uniform.** Het verlaagde tarief van **6 % geldt voor de levering van elektriciteit aan een particuliere klant**, tegenover **21 % voor een professionele klant**: een gemeenschap met gemengde leden moet er dus op rekenen tegen twee tarieven te factureren. Onder 25.000 € omzet excl. btw per jaar kan de [vrijstellingsregeling voor kleine ondernemingen](https://finances.belgium.be/fr/entreprises/tva/assujettissement-tva/regime-franchise-taxe) van toepassing zijn. Geen enkele circulaire behandelt het energiedelen specifiek: laat uw situatie door uw boekhouder valideren vóór de eerste factuur.
+- **De btw is niet uniform.** Het verlaagde tarief van **6 % geldt voor de levering van elektriciteit aan een particuliere klant**, tegenover **21 % voor een professionele klant**: een gemeenschap met gemengde leden moet er dus op rekenen tegen twee tarieven te factureren. Onder 25 000 € omzet excl. btw per jaar kan de [vrijstellingsregeling voor kleine ondernemingen](https://finances.belgium.be/fr/entreprises/tva/assujettissement-tva/regime-franchise-taxe) van toepassing zijn. Geen enkele circulaire behandelt het energiedelen specifiek: laat uw situatie door uw boekhouder valideren vóór de eerste factuur.
 - **De federale bijdrage bestaat niet meer.** Ze werd op 31 december 2021 afgeschaft en opgeslorpt door de bijzondere accijns ([CREG](https://www.creg.be/fr/a-z-index/cotisation-federale)). Veel documenten die nog circuleren, vermelden ze nog altijd: neem ze niet op in uw simulaties.
 
 ## De netkosten dalen bijna nooit
 
-Het idee dat een energiegemeenschap van verlaagde nettarieven geniet, is wijdverspreid. Het is vooral **onjuist in het meest voorkomende geval**. We ontleden elders, blok per blok, [waarom een Belgische elektriciteitsfactuur hoog blijft ondanks dalende prijzen](/nl/nieuws/2026/07/25/waarom-elektriciteitsfactuur-hoog-blijft-belgie/) — nettarieven, taksen en leveranciersmarge inbegrepen. Het detail per gewest:
+Het idee dat een energiegemeenschap van verlaagde nettarieven geniet, is wijdverspreid. Het is vooral **onjuist in het meest voorkomende geval**. We ontleden elders, blok per blok, [waarom een Belgische elektriciteitsfactuur hoog blijft ondanks dalende prijzen](/nl/gidsen/waarom-elektriciteitsfactuur-hoog-blijft-belgie/) — nettarieven, taksen en leveranciersmarge inbegrepen. Het detail per gewest:
 
 | Gewest | Verlaging van de nettarieven op de gedeelde kWh |
 |---|---|
@@ -104,7 +105,7 @@ De hulp bij het rekenwerk komt niet van de regulator maar van **Leefmilieu Bruss
 
 Heel de discussie over de prijs komt neer op één eenvoudige redenering: **elke partij heeft een alternatief, en de prijs moet voor beide beter zijn dan dat alternatief.**
 
-- **De ondergrens is wat de producent zonder de gemeenschap zou krijgen**: zijn injectietarief. Er bestaat in België geen gereguleerd injectietarief — het is een commerciële prijs. Vaststelling van mei 2026: van **0,94 tot 4,90 c€/kWh** in Vlaanderen en Wallonië, van 1,40 tot 4,81 c€/kWh in Brussel ([Test Aankoop](https://www.test-achats.be/maison-energie/energie-renouvelable/news/cout-energie-solaire-injectee)). En die ondergrens kan negatief worden: bijna **29.000 Vlaamse prosumenten** kregen in 2025 gedurende minstens één maand een negatief terugkooptarief — ze moesten *betalen* om te injecteren.
+- **De ondergrens is wat de producent zonder de gemeenschap zou krijgen**: zijn injectietarief. Er bestaat in België geen gereguleerd injectietarief — het is een commerciële prijs. Vaststelling van mei 2026: van **0,94 tot 4,90 c€/kWh** in Vlaanderen en Wallonië, van 1,40 tot 4,81 c€/kWh in Brussel ([Test Aankoop](https://www.test-achats.be/maison-energie/energie-renouvelable/news/cout-energie-solaire-injectee)). En die ondergrens kan negatief worden: bijna **29 000 Vlaamse prosumenten** kregen in 2025 gedurende minstens één maand een negatief terugkooptarief — ze moesten *betalen* om te injecteren.
 - **De bovengrens is wat de verbruiker vandaag al betaalt** voor alleen de energiecomponent van zijn contract: in de orde van **14 c€/kWh**.
 
 Tussen 3 en 14 c€/kWh wint iedereen. Daaronder heeft de producent er belang bij de gemeenschap te verlaten. Daarboven de verbruiker. **De interne overdrachtsprijs is dus geen morele kwestie: het is een verdeling van surplus, en de enige echte vraag is in welke verhouding.**
@@ -237,7 +238,7 @@ Nee, **binnen de perimeter van het delen**. In Wallonië preciseert de SPW dat d
 
 ### Welke btw geldt op gedeelde elektriciteit?
 
-**6 % voor particuliere leden en 21 % voor professionele leden**: een gemeenschap met gemengde leden factureert dus tegen twee tarieven. Onder 25.000 € omzet excl. btw per jaar kan de vrijstellingsregeling voor kleine ondernemingen gelden. Laat uw situatie nakijken bij de FOD Financiën of bij uw boekhouder.
+**6 % voor particuliere leden en 21 % voor professionele leden**: een gemeenschap met gemengde leden factureert dus tegen twee tarieven. Onder 25 000 € omzet excl. btw per jaar kan de vrijstellingsregeling voor kleine ondernemingen gelden. Laat uw situatie nakijken bij de FOD Financiën of bij uw boekhouder.
 
 ### Hoe vaak moet de prijs herzien worden?
 
@@ -258,5 +259,5 @@ Nee, **binnen de perimeter van het delen**. In Wallonië preciseert de SPW dat d
 - [Renouvelle — Rekenvoorbeelden van de rendabiliteit van elektriciteitsdelen in Wallonië](https://www.renouvelle.be/fr/exemples-calculs-de-rentabilite-economique-dun-partage-delectricite-en-wallonie/) — toegepaste interne prijzen en impact van de leverancierskosten.
 - [Test Aankoop — Wat de op het net geïnjecteerde zonne-elektriciteit opbrengt](https://www.test-achats.be/maison-energie/energie-renouvelable/news/cout-energie-solaire-injectee) — vork van de injectietarieven in België, mei 2026.
 - [Elexys — BELIX, maandgemiddelde van de Belgische day-aheadmarkt](https://www.elexys.be/en/insights/belix-average-day-ahead-spot-be) — groothandelsprijzen base, piek en dal.
-- [FOD Financiën — Vrijstellingsregeling van belasting](https://finances.belgium.be/fr/entreprises/tva/assujettissement-tva/regime-franchise-taxe) — drempel van 25.000 € voor kleine ondernemingen.
+- [FOD Financiën — Vrijstellingsregeling van belasting](https://finances.belgium.be/fr/entreprises/tva/assujettissement-tva/regime-franchise-taxe) — drempel van 25 000 € voor kleine ondernemingen.
 </content>

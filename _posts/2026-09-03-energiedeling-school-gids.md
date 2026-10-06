@@ -2,13 +2,15 @@
 layout: post
 title: "Scholen: de gids voor energiedelen"
 date: 2026-09-03 06:00:00 +0200
+last_modified_at: 2026-09-26 06:00:00 +0200
 author: "Eric van OptimCE"
 excerpt: "Een school van het vrij gesubsidieerd net is een vzw naar privaat recht. Geen verkozen mandaat, geen gewestelijk toezicht, geen territoriale bevoegdheid. En toch heeft de Waalse Regering haar bij de “lokale overheden” gerekend — naast gemeenten, OCMW's en provincies. De reden staat in één zin van SPW Énergie die niemand citeert. Dat statuut verandert alles: het maakt de school het enige niet-openbare gebouw van Wallonië dat zijn eigen energiegemeenschap kan oprichten zonder op wie dan ook te wachten."
 description: "Elke Waalse school is sinds 26 februari 2026 een “lokale overheid”. Wat dat statuut opent, en hoe u een dak valoriseert dat leeg produceert."
 tags: [guide, community, administrative]
 lang: nl
 ref: school-energy-sharing
-permalink: /nl/nieuws/2026/09/03/energiedeling-school-gids/
+solution: ecoles
+permalink: /nl/oplossingen/scholen/
 faq:
   - q: "Kan een school van het vrij net werkelijk lid zijn van een hernieuwbare-energiegemeenschap?"
     a: "Ja, en zonder ook maar iets te moeten aantonen. Artikel 4 van het besluit van de Waalse Regering van 17 maart 2023 rekent tot de lokale overheden “de instellingen van het basis- en het secundair onderwijs, gewoon en buitengewoon, ingericht of gesubsidieerd door de Franse Gemeenschap, de Vlaamse Gemeenschap of de Duitstalige Gemeenschap, gelegen op het grondgebied van het Waalse Gewest”. Het beslissende woord is “gesubsidieerd”: het dekt het confessionele en het niet-confessionele vrij net evengoed als het officieel gesubsidieerde. SPW Énergie zet de redenering zwart op wit uiteen: de scholen van het officieel net waren al opgenomen wegens de aard van hun inrichtende macht, en het was “om geen discriminatie tussen de onderwijsnetten te creëren” dat alle scholen werden toegevoegd. Hogescholen en universiteiten worden afzonderlijk beoogd. Het praktische gevolg is aanzienlijk: waar een kleine of middelgrote onderneming moet bewijzen dat deelname aan een energiegemeenschap niet haar hoofdactiviteit is, moet een school helemaal niets bewijzen — zij komt binnen langs de deur van de lokale overheden."
@@ -28,7 +30,7 @@ De Federatie Wallonië-Brussel telt meer dan **13 000 schoolgebouwen**. De helft
 
 Ziehier de anomalie. Een school van het vrij gesubsidieerd net is een vereniging zonder winstoogmerk naar privaat recht. Geen verkozen mandaat, geen gewestelijk toezicht, geen territoriale bevoegdheid. Juridisch lijkt ze op om het even welke vereniging. En toch heeft de Waalse Regering haar, toen ze de lijst van **lokale overheden** opstelde die een energiegemeenschap mogen controleren, daarop gezet — naast gemeenten, provincies, OCMW's en intercommunales.
 
-Dit artikel herhaalt niet wat elders op deze site al staat: het verschil tussen de drie Belgische statuten wordt behandeld in [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/), de oprichtingsprocedure in [“Energiegemeenschap oprichten in Wallonië”](/nl/nieuws/2026/05/11/energiegemeenschap-oprichten-wallonie/), het standpunt van de eigenaar-gemeente in [“Energiegemeenschap: de gids voor gemeenten”](/nl/nieuws/2026/08/30/energiegemeenschap-gemeenten-gids/), het samenstellen van een groep op uurprofiel in [“Stroom in de korte keten: de handleiding”](/nl/nieuws/2026/08/25/elektriciteit-korte-keten-handleiding/), de rangschikking van de bestemmingen voor het overschot in [“Zonne-overschot: de 5 opties vergeleken”](/nl/nieuws/2026/08/18/wat-doen-met-je-zonne-overschot-belgie/), de rendabiliteitsberekening van een installatie in [“Zonnepanelen 2026: nog rendabel in Wallonië?”](/nl/nieuws/2026/08/11/zonnepanelen-rendabel-wallonie-2026/) en het bepalen van de interne prijs in [“Interne overdrachtsprijs in een gemeenschap”](/nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/).
+Dit artikel herhaalt niet wat elders op deze site al staat: het verschil tussen de drie Belgische statuten wordt behandeld in [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/gidsen/energiegemeenschappen-belgie/), de oprichtingsprocedure in [“Energiegemeenschap oprichten in Wallonië”](/nl/gidsen/energiegemeenschap-oprichten-wallonie/), het standpunt van de eigenaar-gemeente in [“Energiegemeenschap: de gids voor gemeenten”](/nl/oplossingen/gemeenten/), het samenstellen van een groep op uurprofiel in [“Stroom in de korte keten: de handleiding”](/nl/gidsen/elektriciteit-korte-keten-handleiding/), de rangschikking van de bestemmingen voor het overschot in [“Zonne-overschot: de 5 opties vergeleken”](/nl/gidsen/wat-doen-met-je-zonne-overschot-belgie/), de rendabiliteitsberekening van een installatie in [“Zonnepanelen 2026: nog rendabel in Wallonië?”](/nl/gidsen/zonnepanelen-rendabel-wallonie/) en het bepalen van de interne prijs in [“Interne overdrachtsprijs in een gemeenschap”](/nl/gidsen/prijs-elektriciteit-energiegemeenschap/).
 
 Het beantwoordt een vraag die geen van die artikels stelt: **waarom kent het Waalse recht aan een school — om het even welke, ongeacht haar net — een statuut toe dat noch een handelszaak, noch een kmo, noch een mede-eigendom krijgt, en wat kan zij daar concreet mee?**
 
@@ -190,7 +192,7 @@ Twee regels verdienen commentaar.
 
 Het delen wordt per kwartier berekend: alleen elektriciteit die in hetzelfde kwartier wordt geproduceerd, geïnjecteerd en verbruikt, kan worden gedeeld. Een vaste sleutel — die elke deelnemer een constant percentage van de productie toekent — past dus slecht bij een producent waarvan het overschot gaat van bijna niets op een dinsdag in november tot de volledige productie op een zondag in augustus.
 
-De juiste reflex is een **dynamische sleutel op basis van de verbruiksverhouding**, die elk kwartier verdeelt naar rato van wat elke deelnemer op dat ogenblik werkelijk verbruikt. De sleutelfamilies die de CWaPE erkent en hun tegenhangers in de twee andere gewesten worden beschreven in [“Verdeelsleutel in België: de 3 regio's”](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/); het schoolspecifieke punt is dat een schooldak het schoolvoorbeeld is waarin een vaste sleutel de meeste waarde vernietigt.
+De juiste reflex is een **dynamische sleutel op basis van de verbruiksverhouding**, die elk kwartier verdeelt naar rato van wat elke deelnemer op dat ogenblik werkelijk verbruikt. De sleutelfamilies die de CWaPE erkent en hun tegenhangers in de twee andere gewesten worden beschreven in [“Verdeelsleutel in België: de 3 regio's”](/nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/); het schoolspecifieke punt is dat een schooldak het schoolvoorbeeld is waarin een vaste sleutel de meeste waarde vernietigt.
 
 ## Waarom delen binnen de campus waarschijnlijk niet zal werken
 
@@ -212,7 +214,7 @@ Artikel 3 van het besluit van 17 maart 2023 beslecht de vraag. Een gebouw stemt 
 
 > 1° een vaste, overdekte en gesloten onroerende constructie met ten minste twee delen bestemd voor autonoom gebruik; 2° meerdere vaste, overdekte en gesloten onroerende constructies die tot één en dezelfde mede-eigendom behoren.
 
-Het tweede geval is van meet af aan gesloten voor de overgrote meerderheid van de scholen: **een school is bijna nooit een mede-eigendom**. De inrichtende macht is enige eigenaar, of gebruiker van een goed dat aan één openbaar bestuur toebehoort. Er zijn geen privatieve kavels, geen gemeenschappelijke delen in de zin van het Burgerlijk Wetboek, en dus geen vereniging van mede-eigenaars. De weg die voor een appartementsgebouw werkt — uiteengezet in [“Energie delen in een appartementsgebouw”](/nl/nieuws/2026/08/27/energie-delen-appartementsgebouw/) — opent zich hier niet.
+Het tweede geval is van meet af aan gesloten voor de overgrote meerderheid van de scholen: **een school is bijna nooit een mede-eigendom**. De inrichtende macht is enige eigenaar, of gebruiker van een goed dat aan één openbaar bestuur toebehoort. Er zijn geen privatieve kavels, geen gemeenschappelijke delen in de zin van het Burgerlijk Wetboek, en dus geen vereniging van mede-eigenaars. De weg die voor een appartementsgebouw werkt — uiteengezet in [“Energie delen in een appartementsgebouw”](/nl/oplossingen/appartementsgebouwen/) — opent zich hier niet.
 
 Blijft het eerste geval, dat **twee autonome delen onder één overdekte en gesloten constructie** vereist. Een luifel, een speelplaats, een overdekte buitengang verbinden geen twee gebouwen tot één. Twee blokken die twintig meter speelplaats scheidt, blijven twee gebouwen, ook op hetzelfde kadastrale perceel, ook onder hetzelfde administratieve dak.
 
@@ -263,7 +265,7 @@ De clausules die erin moeten, bij de onderhandeling en niet erna:
 1. **Wie over het geïnjecteerde overschot beschikt**, bij naam, en tegen welke prijs het wordt gewaardeerd.
 2. **Het recht van de school om de productie geheel of gedeeltelijk aan een deelactiviteit toe te wijzen**, met het overeenkomstige financiële compensatiemechanisme voor de operator.
 3. **Het lot van dat recht bij de overdracht** van de panelen, om te vermijden dat een uitstapclausule het neutraliseert.
-4. **De verenigbaarheid met de overheidsopdracht voor levering**: de school blijft klant bij een leverancier voor haar residuele elektriciteit, en het delen maakt daar geen einde aan. Twee facturen bestaan naast elkaar, zoals uitgelegd in [“Gedeelde elektriciteit factureren in België”](/nl/nieuws/2026/07/23/gedeelde-elektriciteit-factureren-belgie/).
+4. **De verenigbaarheid met de overheidsopdracht voor levering**: de school blijft klant bij een leverancier voor haar residuele elektriciteit, en het delen maakt daar geen einde aan. Twee facturen bestaan naast elkaar, zoals uitgelegd in [“Gedeelde elektriciteit factureren in België”](/nl/gidsen/gedeelde-elektriciteit-factureren-belgie/).
 
 ### De groenestroomcertificaten, die vóór de werken verloren gaan
 
@@ -297,7 +299,7 @@ De prijzen van 2023 zijn niet meer de juiste. Wij nemen die welke wij in de rest
 
 *Hypothesen: injectievork opgemeten in België op 28 mei 2026; deelprijs vrij bepaald tussen de deelnemers, de vork weerspiegelt de vastgestelde praktijk; voorzichtige hypothese van 3,5 c€ bij injectie en orde van grootte van 6 c€ bij delen, identiek aan die van onze artikels over het zonne-overschot en de interne overdrachtsprijs.*
 
-Zelfverbruik blijft veruit het beste gebruik van een kilowattuur: het vermijdt een aankoop tegen detailhandelsprijs. Dat geldt voor een school zoals voor een gezin — de demonstratie staat in [“Zonnepanelen 2026: nog rendabel in Wallonië?”](/nl/nieuws/2026/08/11/zonnepanelen-rendabel-wallonie-2026/), en om de werkelijke prijs af te lezen die uw school betaalt, toont [“Elektriciteitsfactuur lezen: regel per regel”](/nl/nieuws/2026/07/30/elektriciteitsfactuur-lezen-belgie/) waar u moet kijken.
+Zelfverbruik blijft veruit het beste gebruik van een kilowattuur: het vermijdt een aankoop tegen detailhandelsprijs. Dat geldt voor een school zoals voor een gezin — de demonstratie staat in [“Zonnepanelen 2026: nog rendabel in Wallonië?”](/nl/gidsen/zonnepanelen-rendabel-wallonie/), en om de werkelijke prijs af te lezen die uw school betaalt, toont [“Elektriciteitsfactuur lezen: regel per regel”](/nl/gidsen/elektriciteitsfactuur-lezen-belgie/) waar u moet kijken.
 
 Het delen concurreert niet met het zelfverbruik. Het concurreert met de injectie.
 
@@ -340,6 +342,28 @@ Tegen 3,5 c€ verdient de marginale kilowattpiek zich terug op een veertigtal j
 **Valkuil nr. 3 — De reservatie van groenestroomcertificaten vergeten.** Ze gaat de werken vooraf. Daarna is ze verloren.
 
 **Valkuil nr. 4 — Een derde-investering tekenen zonder deelclausule.** Het overschot is dan voor tien tot vijftien jaar aan de operator toegewezen, en dat is precies het volume dat het delen moest valoriseren.
+
+## Wat OptimCE voor u doet
+
+Alles draait om de kalender: wat uw partners opnemen terwijl de school leeg staat. OptimCE helpt u
+dat te meten en de deelactie daarna te beheren:
+
+- **De groep testen voordat u hem samenstelt.** Simuleer een verdeelsleutel op de kwartiergegevens
+  van de school en haar partners: zelfverbruik, overschot en deelgraad verschijnen tijdstap per
+  tijdstap, vakanties inbegrepen. De module voor automatische generatie stelt ook een
+  kandidaat-sleutel voor.
+- **De lijst van deelnemers bijhouden.** Leden, leveringspunten en meters staan op één plek; elke
+  versie van de sleutel wordt bewaard en de aanvaarding door de leden wordt opgevolgd.
+- **De documenten voorbereiden.** De documenten van de CWaPE worden vooraf ingevuld en de termijnen
+  worden berekend. Het indienen blijft uw zaak.
+- **Partners vinden en informeren.** Publiceer de deelactie in het publiek register van de
+  applicatie en informeer de schoolgemeenschap en de buren met het nieuwsbord en de polls.
+- **De gedeelde elektriciteit factureren** binnen het Waalse kader, met opvolging van de
+  betalingen.
+
+De applicatie is gratis tijdens de alfafase.
+
+**[De OptimCE-app openen →](https://app.optimce.be)**
 
 ## Wat u moet onthouden
 

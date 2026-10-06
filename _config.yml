@@ -14,6 +14,9 @@ lang: "fr"
 timezone: "Europe/Brussels"
 
 # Supported languages
+# Every section path is language-owned: scripts/check_seo.py flags a post that
+# links into another language's paths, and _plugins/site_graph.rb checks that
+# each post lives under the path of its section (blog, guides or solutions).
 # `locale` is the Open Graph territory code; jekyll-seo-tag reads it from
 # page.locale, which _plugins/i18n_metadata.rb sets from these values.
 languages:
@@ -25,6 +28,10 @@ languages:
     features_anchor: "#fonctionnalites"
     privacy_path: "/confidentialite/"
     glossary_path: "/glossaire/"
+    guides_path: "/guides/"
+    solutions_path: "/solutions/"
+    features_path: "/fonctionnalites/"
+    author_path: "/a-propos/eric-ugo-paque/"
   - code: en
     locale: "en_GB"
     prefix: "/en"
@@ -33,6 +40,10 @@ languages:
     features_anchor: "#features"
     privacy_path: "/en/privacy/"
     glossary_path: "/en/glossary/"
+    guides_path: "/en/guides/"
+    solutions_path: "/en/solutions/"
+    features_path: "/en/features/"
+    author_path: "/en/about/eric-ugo-paque/"
   - code: de
     locale: "de_DE"
     prefix: "/de"
@@ -41,6 +52,10 @@ languages:
     features_anchor: "#funktionen"
     privacy_path: "/de/datenschutz/"
     glossary_path: "/de/glossar/"
+    guides_path: "/de/ratgeber/"
+    solutions_path: "/de/loesungen/"
+    features_path: "/de/funktionen/"
+    author_path: "/de/about/eric-ugo-paque/"
   - code: nl
     locale: "nl_BE"
     prefix: "/nl"
@@ -49,6 +64,10 @@ languages:
     features_anchor: "#functies"
     privacy_path: "/nl/privacy/"
     glossary_path: "/nl/woordenlijst/"
+    guides_path: "/nl/gidsen/"
+    solutions_path: "/nl/oplossingen/"
+    features_path: "/nl/functies/"
+    author_path: "/nl/about/eric-ugo-paque/"
 
 # Author
 # `type: Organization` — "OptimCE" is a project team, not a person, and
@@ -57,6 +76,22 @@ author:
   name: "OptimCE"
   type: "Organization"
   url: "https://www.optimce.be/"
+
+# Audience entry points: header buttons, homepage hero, the "join a
+# community" block at the end of guides, and the features page.
+#   join_url  households looking for a community. The application for now;
+#             the public directory of communities will replace it.
+#   app_url   the application, for project holders and managers: any account
+#             can create a community there. "Manage or create a community"
+#             leads straight to it; the features page stays in the menu.
+cta:
+  join_url: "https://app.optimce.be"
+  app_url: "https://app.optimce.be"
+
+# Developer documentation (installation, configuration, API), linked from the
+# homepage's self-hosting card (_includes/cloud-or-self-host.html). The button
+# shows only when this is set, so no link points at a site that is not online.
+developers_url: ""
 
 # Raster logo for structured data (Google's image guidance prefers it over SVG).
 logo: /assets/images/logo-512.png
@@ -95,6 +130,8 @@ defaults:
     values:
       layout: "post"
       lang: "fr"
+      # Links the byline to the author page (_data/authors.yml).
+      author_id: "eric"
       # Demote jekyll-seo-tag's node from BlogPosting to WebPage so it stops
       # competing with the Article entity in _includes/structured-data.html.
       # The gem's JSON-LD block cannot be suppressed, but its type is overridable.
@@ -125,4 +162,5 @@ exclude:
   - vendor
   - scripts
   - README.md
+  - DESIGN.md
   - LICENSE

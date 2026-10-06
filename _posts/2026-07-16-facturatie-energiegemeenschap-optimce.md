@@ -29,7 +29,7 @@ Een werkende energiegemeenschap produceert twee dingen: gedeelde kWh … en bedr
 
 Het principe is eenvoudig: u legt uw prijzen vast, u kiest een periode, en OptimCE **genereert de facturen van alle leden** op basis van de verdelingsdata die al in het platform zitten — met pdf, wettelijke nummering, gestructureerde mededeling en opvolging van de betalingen.
 
-Is de mechaniek van de verdeling nog onduidelijk voor u, begin dan met ons referentieartikel [“Verdeelsleutel in België: de 3 regio's”](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/) — de facturatie is er het rechtstreekse vervolg van.
+Is de mechaniek van de verdeling nog onduidelijk voor u, begin dan met ons referentieartikel [“Verdeelsleutel in België: de 3 regio's”](/nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/) — de facturatie is er het rechtstreekse vervolg van.
 
 ## Waarom de interne facturatie de kritieke schakel is
 
@@ -39,18 +39,18 @@ Concreet komt die last op de schouders van de beheerder van de gemeenschap terec
 
 - **de exacte volumes** per aansluitingspunt (EAN) overnemen;
 - **de juiste prijs** op elk profiel toepassen, zonder reken- of afrondingsfouten;
-- **een conform document** opstellen: [btw, verplichte vermeldingen](/nl/nieuws/2026/07/23/gedeelde-elektriciteit-factureren-belgie/), doorlopende nummering;
+- **een conform document** opstellen: [btw, verplichte vermeldingen](/nl/gidsen/gedeelde-elektriciteit-factureren-belgie/), doorlopende nummering;
 - **een betalingsreferentie** toevoegen en de binnenkomende overschrijvingen afpunten;
 - **de vragen van de leden** over hun afrekening beantwoorden.
 
-Met tien leden is dat vervelend; met vijftig onhoudbaar. En de inzet gaat verder dan administratie: een heldere, regelmatige facturatie is de eerste voorwaarde voor het **vertrouwen van de leden** — zij maakt het economische voordeel van het delen zwart op wit zichtbaar. We schreven het al in onze [gids voor het oprichten van een energiegemeenschap in Wallonië](/nl/nieuws/2026/05/11/energiegemeenschap-oprichten-wallonie/): het is in de uitbatingsfase dat een beheertool onmisbaar wordt.
+Met tien leden is dat vervelend; met vijftig onhoudbaar. En de inzet gaat verder dan administratie: een heldere, regelmatige facturatie is de eerste voorwaarde voor het **vertrouwen van de leden** — zij maakt het economische voordeel van het delen zwart op wit zichtbaar. We schreven het al in onze [gids voor het oprichten van een energiegemeenschap in Wallonië](/nl/gidsen/energiegemeenschap-oprichten-wallonie/): het is in de uitbatingsfase dat een beheertool onmisbaar wordt.
 
 ## Hoe het werkt: van gedeeld volume tot factuur
 
 De module is geïntegreerd met de rest van het platform en volgt een traject in vier stappen.
 
 1. **De data zijn er al.** De facturatie steunt op de officiële verdelingsdata die al in OptimCE geïmporteerd zijn: verbruikte gedeelde energie en gedeelde injectie, per EAN en per periode. Niets opnieuw invoeren, niets exporteren — de facturatie leest dezelfde volumes als uw dashboards.
-2. **U definieert uw prijzen.** Twee prijzen, in €/kWh, vrij bepaald door de gemeenschap: de **verkoopprijs** van de gedeelde energie aan de verbruikers en de **terugkoopprijs** die aan de producenten wordt betaald voor hun injectie. Elke prijs kan globaal gelden, per klantsegment (residentieel, professioneel, industrieel) of voor één specifieke EAN — de meest specifieke regel wint — en draagt een geldigheidsperiode. Welke bedragen u invult, is een andere vraag: onze gids [“Interne overdrachtsprijs in energiegemeenschap”](/nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/) beschrijft de verdedigbare marge en vijf rekenmethodes.
+2. **U definieert uw prijzen.** Twee prijzen, in €/kWh, vrij bepaald door de gemeenschap: de **verkoopprijs** van de gedeelde energie aan de verbruikers en de **terugkoopprijs** die aan de producenten wordt betaald voor hun injectie. Elke prijs kan globaal gelden, per klantsegment (residentieel, professioneel, industrieel) of voor één specifieke EAN — de meest specifieke regel wint — en draagt een geldigheidsperiode. Welke bedragen u invult, is een andere vraag: onze gids [“Interne overdrachtsprijs in energiegemeenschap”](/nl/gidsen/prijs-elektriciteit-energiegemeenschap/) beschrijft de verdedigbare marge en vijf rekenmethodes.
 3. **U start een facturatiecyclus.** U kiest de periode — maandelijks, driemaandelijks, zoals het u past — en OptimCE controleert vóór de berekening of alles in orde is: verbruiksdata aanwezig, bankgegevens en officiële naam van de gemeenschap, toepasselijk tarief, geen dubbels in de data. Daarna **bevriest het een momentopname** van de verdeling: de bedragen worden berekend op bevroren, traceerbare volumes.
 4. **U leest na, dan reikt u uit.** De cyclus produceert een **ontwerp per lid**, te downloaden als pdf met watermerk “proforma”. U controleert, dan reikt u uit: de factuur krijgt haar wettelijk nummer, haar gestructureerde mededeling en haar vervaldatum.
 
@@ -97,7 +97,7 @@ De betalingsopvolging is ingebouwd: u registreert elke overschrijving — ook **
 
 Elk lid vindt **zijn eigen facturen** in de applicatie en downloadt de pdf wanneer hij wil. Niet langer wachten op een e-mail van de beheerder of vragen om een overzicht: het referentiedocument staat voor iedereen op dezelfde plaats klaar.
 
-Even het toepassingsgebied in herinnering brengen: de factuur van de gemeenschap dekt de **gedeelde energie**, gewaardeerd tegen de interne prijs. De residuele energie — wat het delen niet dekte — wordt nog altijd door de leverancier van elk lid gefactureerd, tegen zijn contracttarief. Het zijn de twee documenten samen die het verhaal van de besparing vertellen; ons artikel over [het verlagen van de elektriciteitsfactuur dankzij energiedelen](/nl/nieuws/2026/06/03/energiegemeenschap-elektriciteitsfactuur-verlagen/) legt dat mechanisme uit.
+Even het toepassingsgebied in herinnering brengen: de factuur van de gemeenschap dekt de **gedeelde energie**, gewaardeerd tegen de interne prijs. De residuele energie — wat het delen niet dekte — wordt nog altijd door de leverancier van elk lid gefactureerd, tegen zijn contracttarief. Het zijn de twee documenten samen die het verhaal van de besparing vertellen; ons artikel over [het verlagen van de elektriciteitsfactuur dankzij energiedelen](/nl/gidsen/energiegemeenschap-elektriciteitsfactuur-verlagen/) legt dat mechanisme uit.
 
 ## Een eerste versie op maat van Wallonië — en wat volgt
 
@@ -109,7 +109,7 @@ De module is nu beschikbaar op [app.optimce.be](https://app.optimce.be) — grat
 
 ## Conclusie
 
-Met de facturatie sluit OptimCE de lus: import van de data, [keuze en simulatie van de verdeelsleutel](/nl/nieuws/2026/06/09/verdeelsleutel-simuleren-optimce/), deelacties, en voortaan de facturen — de laatste stap die elk kwartaal nog in een rekenbladkarwei veranderde. Volumes worden conforme documenten, betalingen volgt u in één oogopslag op, en elk lid ziet duidelijk wat het delen hem oplevert.
+Met de facturatie sluit OptimCE de lus: import van de data, [keuze en simulatie van de verdeelsleutel](/nl/gidsen/verdeelsleutel-simuleren-optimce/), deelacties, en voortaan de facturen — de laatste stap die elk kwartaal nog in een rekenbladkarwei veranderde. Volumes worden conforme documenten, betalingen volgt u in één oogopslag op, en elk lid ziet duidelijk wat het delen hem oplevert.
 
 > ### Factureer uw energiegemeenschap met OptimCE
 >

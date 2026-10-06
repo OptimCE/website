@@ -8,6 +8,8 @@ description: "850 € le kilowattheure, aucune prime, et une déclaration obliga
 tags: [guide, community]
 lang: fr
 ref: home-battery-vs-energy-sharing
+pillar: solaire-surplus
+permalink: /guides/batterie-domestique-prix-ou-partage-energie/
 faq:
   - q: "Combien coûte une batterie domestique en Belgique en 2026 ?"
     a: "Test-Achats, qui ne vend pas de matériel, publie une grille au kilowattheure installé : environ 850 € par kWh pour une batterie de 5 kWh, environ 600 € par kWh pour une batterie de 15 kWh. Le prix au kilowattheure baisse donc quand la capacité augmente, parce que l'onduleur, la pose et le raccordement ne dépendent presque pas de la taille du pack. En euros absolus, cela place une batterie de 5 kWh autour de 4 250 €, une batterie de 10 kWh autour de 7 250 € et une batterie de 15 kWh autour de 9 000 €, pose et TVA comprises. Deux précisions comptent plus que la fourchette elle-même. D'abord, le kilowattheure annoncé sur la fiche technique n'est pas le kilowattheure utilisable : les constructeurs réservent une marge de profondeur de décharge, et le rendement aller-retour retire encore 5 à 10 % de ce qui entre. Ensuite, le taux de TVA de 6 % n'est pas automatique : il suppose un logement de dix ans ou plus et une fourniture avec pose par l'entrepreneur. Une batterie achetée seule, sans installation, reste à 21 %."
@@ -27,7 +29,7 @@ Une batterie domestique de 5 kWh coûte **850 € par kilowattheure installé**.
 
 Traduite en euros, elle place une batterie de 5 kWh autour de 4 250 €, une de 10 kWh autour de 7 250 €, une de 15 kWh autour de 9 000 €. Et aucune des trois régions belges ne verse un centime de prime pour les acheter.
 
-Cet article ne refait pas ce qui est déjà écrit ailleurs sur ce site. [« Surplus solaire : les 5 options comparées »](/actualites/2026/08/18/que-faire-surplus-solaire-belgique/) classe les cinq débouchés du surplus par euro investi et place la batterie dernière ; [« Panneaux solaires 2026 : rentables en Wallonie ? »](/actualites/2026/08/11/panneaux-solaires-rentables-wallonie-2026/) établit le cas de référence chiffré que nous reprenons ici ; [« Panneaux solaires : absent toute la journée »](/actualites/2026/09/12/panneaux-solaires-absent-la-journee/) montre que le réflexe batterie est le plus souvent un mauvais diagnostic de simultanéité ; [« Électricité en circuit court : le mode d'emploi »](/actualites/2026/08/25/electricite-circuit-court-mode-emploi/) pose la règle du quart d'heure qui gouverne tout le reste ; [« Prix de cession interne en communauté d'énergie »](/actualites/2026/07/20/prix-electricite-communaute-energie/) explique d'où vient la bande de 3 à 14 c€/kWh ; [« Réduire sa facture d'électricité : Wallonie 2026 »](/actualites/2026/07/28/reduire-facture-electricite-wallonie-2026/) détaille la grille ORES 2026 et le tarif Impact.
+Cet article ne refait pas ce qui est déjà écrit ailleurs sur ce site. [« Surplus solaire : les 5 options comparées »](/guides/que-faire-surplus-solaire-belgique/) classe les cinq débouchés du surplus par euro investi et place la batterie dernière ; [« Panneaux solaires 2026 : rentables en Wallonie ? »](/guides/panneaux-solaires-rentables-wallonie/) établit le cas de référence chiffré que nous reprenons ici ; [« Panneaux solaires : absent toute la journée »](/guides/panneaux-solaires-absent-la-journee/) montre que le réflexe batterie est le plus souvent un mauvais diagnostic de simultanéité ; [« Électricité en circuit court : le mode d'emploi »](/guides/electricite-circuit-court-mode-emploi/) pose la règle du quart d'heure qui gouverne tout le reste ; [« Prix de cession interne en communauté d'énergie »](/guides/prix-electricite-communaute-energie/) explique d'où vient la bande de 3 à 14 c€/kWh ; [« Réduire sa facture d'électricité : Wallonie 2026 »](/guides/reduire-facture-electricite-wallonie/) détaille la grille ORES 2026 et le tarif Impact.
 
 **La question posée ici est différente : que rembourse réellement le chèque que vous signez, quelle obligation administrative il déclenche, et que devient son rendement si vous participez déjà à un partage d'énergie ?**
 
@@ -76,7 +78,7 @@ Sur ce point, prudence avec ce que vous lirez ailleurs. Plusieurs pages commerci
 
 ## Ce qu'elle rapporte, sur notre cas de référence
 
-Nous reprenons ici, sans les modifier, les quatre paramètres du cas établi dans [« Panneaux solaires 2026 : rentables en Wallonie ? »](/actualites/2026/08/11/panneaux-solaires-rentables-wallonie-2026/) et utilisé dans tout le corpus, pour que les chiffres du site restent comparables entre eux.
+Nous reprenons ici, sans les modifier, les quatre paramètres du cas établi dans [« Panneaux solaires 2026 : rentables en Wallonie ? »](/guides/panneaux-solaires-rentables-wallonie/) et utilisé dans tout le corpus, pour que les chiffres du site restent comparables entre eux.
 
 | Paramètre | Valeur |
 |---|---|
@@ -190,7 +192,7 @@ La CWaPE elle-même souligne que le sujet dépasse les batteries : une simple **
 
 En face, l'autre manière de valoriser un surplus ne demande aucun capital.
 
-Le partage d'énergie consiste à attribuer votre production injectée à d'autres points de fourniture — voisins, école, commerce, copropriété — qui consomment au même moment. Vous ne changez ni de fournisseur, ni de compteur de production, ni d'installation — c'est tout l'objet de [« Baisser sa facture sans changer de fournisseur »](/actualites/2026/08/05/electricite-moins-chere-sans-changer-de-fournisseur/). Vous négociez un prix de cession interne.
+Le partage d'énergie consiste à attribuer votre production injectée à d'autres points de fourniture — voisins, école, commerce, copropriété — qui consomment au même moment. Vous ne changez ni de fournisseur, ni de compteur de production, ni d'installation — c'est tout l'objet de [« Baisser sa facture sans changer de fournisseur »](/guides/electricite-moins-chere-sans-changer-de-fournisseur/). Vous négociez un prix de cession interne.
 
 Ce prix se situe dans une bande défendable de **3 à 14 c€/kWh** : le plancher est le tarif d'injection, sous lequel aucun producteur n'a intérêt à partager ; le plafond est la composante énergie que le consommateur paie déjà. Les cas belges documentés se situent autour de **6 c€/kWh**.
 
@@ -200,11 +202,11 @@ C'est peu. Nous préférons le dire plutôt que de le maquiller : le partage ne 
 
 Trois limites doivent être posées honnêtement.
 
-**La simultanéité.** Le partage se calcule par tranche de quinze minutes : votre production de midi ne peut être attribuée qu'à des participants qui consomment à midi. L'expérience flamande montre qu'environ 20 % de l'injection est effectivement partagée, contre 40 % espérés. Composer le groupe avec des profils diurnes — commerce, école, indépendant à domicile — change tout, et c'est l'objet de notre [mode d'emploi du circuit court](/actualites/2026/08/25/electricite-circuit-court-mode-emploi/).
+**La simultanéité.** Le partage se calcule par tranche de quinze minutes : votre production de midi ne peut être attribuée qu'à des participants qui consomment à midi. L'expérience flamande montre qu'environ 20 % de l'injection est effectivement partagée, contre 40 % espérés. Composer le groupe avec des profils diurnes — commerce, école, indépendant à domicile — change tout, et c'est l'objet de notre [mode d'emploi du circuit court](/guides/electricite-circuit-court-mode-emploi/).
 
 **Les frais de fournisseur.** Certains facturent la participation à un partage, de zéro à environ 150 € par an et par point de fourniture. Sur un gain de 59 €, cela suffit à annuler l'opération. C'est la première chose à vérifier dans vos conditions générales.
 
-**La réduction de 80 % n'est pas pour tout le monde.** La grille ORES 2026 réduit de 80 % le terme proportionnel sur l'énergie partagée **uniquement au sein d'un même bâtiment**. Pour un partage en communauté d'énergie, la CWaPE est explicite : il n'existe pas de réduction tarifaire. Les trois statuts belges et leurs périmètres respectifs sont détaillés dans [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/actualites/2026/05/11/communautes-energie-belgique/).
+**La réduction de 80 % n'est pas pour tout le monde.** La grille ORES 2026 réduit de 80 % le terme proportionnel sur l'énergie partagée **uniquement au sein d'un même bâtiment**. Pour un partage en communauté d'énergie, la CWaPE est explicite : il n'existe pas de réduction tarifaire. Les trois statuts belges et leurs périmètres respectifs sont détaillés dans [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/guides/communautes-energie-belgique/).
 
 Reste l'essentiel : le partage n'a **pas de plafond de capacité et ne coûte rien à mettre en place**. Une batterie a la capacité qu'on a payée.
 
@@ -216,7 +218,7 @@ La définition légale du partage, issue du décret du 5 mai 2022 et de l'arrêt
 
 > tout ou partie de l'énergie produite, et le cas échéant stockée, au sein d'un même bâtiment ou par la communauté d'énergie, injectée sur le réseau de distribution ou de transport local et consommée au cours d'un même quart d'heure.
 
-**« Et le cas échéant stockée »** : l'électricité qui sort d'une batterie peut être partagée. Ce n'est pas une tolérance, c'est écrit dans la définition. La CWaPE publie d'ailleurs une annexe dédiée — une déclaration sur l'honneur relative à l'utilisation d'une installation de stockage — parmi les formulaires de notification d'une opération de partage, comme nous l'avions relevé dans notre [inventaire des documents administratifs](/actualites/2026/08/12/documents-administratifs-communaute-energie-wallonie/).
+**« Et le cas échéant stockée »** : l'électricité qui sort d'une batterie peut être partagée. Ce n'est pas une tolérance, c'est écrit dans la définition. La CWaPE publie d'ailleurs une annexe dédiée — une déclaration sur l'honneur relative à l'utilisation d'une installation de stockage — parmi les formulaires de notification d'une opération de partage, comme nous l'avions relevé dans notre [inventaire des documents administratifs](/guides/documents-administratifs-communaute-energie-wallonie/).
 
 La question n'est donc pas de choisir. Elle est de savoir ce que le cumul rapporte réellement.
 
@@ -297,7 +299,7 @@ Tout ce qui précède décrit la Wallonie. Les deux autres régions changent une
 4. **Le tarif prosumer ne bouge pas.** Sur le tarif capacitaire par défaut, la CWaPE écrit que la présence d'une batterie n'a « aucune influence » sur son montant : 80,98 €/kWe hors TVA restent dus chez ORES. Ce n'est vrai que sur ce régime — avec un compteur communicant et le tarif proportionnel, la batterie fait bien baisser les coûts de réseau.
 5. **Déclarer la batterie est une obligation légale, et cette déclaration est le piège.** Pour une installation d'avant 2024 encore sous compensation, le relevé d'index imposé par le formulaire UP10 peut déclencher une facture de décompte intermédiaire et rompre le cycle annuel. ORES évite d'encoder ces index, RESA les transmet. La CWaPE a proposé une correction le 26 mars 2026 ; elle n'est pas encore en vigueur.
 6. **Batterie et partage se cumulent légalement, mais leurs gains ne s'additionnent pas.** Le droit wallon vise « l'énergie produite, et le cas échéant stockée ». Sur notre cas, 59 € + 473 € donnent 497 € et non 532 : 35 € par an s'évaporent parce que les deux dispositifs se disputent le même surplus.
-7. **Pour qui partage déjà, la batterie rapporte 438 € et non 473 — et 381 € si le prix de cession est de 10 c€.** Son retour passe alors de 14,8 à 16,0 puis 18,4 ans. La bonne séquence reste celle que nous défendons dans [« Surplus solaire : les 5 options comparées »](/actualites/2026/08/18/que-faire-surplus-solaire-belgique/) : décaler ses usages, puis partager, puis seulement envisager une batterie.
+7. **Pour qui partage déjà, la batterie rapporte 438 € et non 473 — et 381 € si le prix de cession est de 10 c€.** Son retour passe alors de 14,8 à 16,0 puis 18,4 ans. La bonne séquence reste celle que nous défendons dans [« Surplus solaire : les 5 options comparées »](/guides/que-faire-surplus-solaire-belgique/) : décaler ses usages, puis partager, puis seulement envisager une batterie.
 
 > ### Commencez par ce qui ne coûte rien
 >

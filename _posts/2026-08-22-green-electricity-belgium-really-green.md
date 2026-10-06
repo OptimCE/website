@@ -9,7 +9,8 @@ description: "Guarantees of origin, residual mix, greenwashing: what a Belgian g
 tags: [guide, community, administrative]
 lang: en
 ref: green-electricity-claims
-permalink: /en/news/2026/08/22/green-electricity-belgium-really-green/
+pillar: facture-electricite
+permalink: /en/guides/green-electricity-belgium-really-green/
 faq:
   - q: "Does a guarantee of origin prove that the electricity I consume is renewable?"
     a: "No, and that is not what it is for. A guarantee of origin proves that one megawatt-hour of renewable electricity was produced somewhere in the European Economic Area, at some point in time, and that nobody other than you is claiming it. It proves nothing about the electrons entering your home, for three cumulative reasons. It is sold independently of the electricity itself, as the Walloon energy administration puts it plainly: a producer may sell the power to one buyer and the certificate to another. It stays valid for twelve months, which allows a certificate issued in February to green a November consumption. And it circulates across roughly thirty European territories, which allows a Norwegian dam to green a radiator in Liege. The green label on your bill is therefore a valid accounting title, not a physical description of your supply."
@@ -31,7 +32,7 @@ Both figures are accurate. Both are official. Both are published by CWaPE. And t
 
 Understanding why means understanding what you actually buy when you sign up for a “100 % green” offer in Belgium. The answer fits in one sentence: you buy an **administrative title**, called a guarantee of origin, which proves that one megawatt-hour of renewable electricity was produced somewhere in the European Economic Area and that nobody else is claiming it. It is a legal, useful and auditable mechanism. It simply is not a description of what enters your home — and the distinction stops being theoretical on **27 September 2026**, the date European Directive 2024/825 makes unproven generic environmental claims unlawful.
 
-This article does not re-explain the structure of an electricity bill, decoded line by line in [“Read your Belgian electricity bill line by line”](/en/news/2026/07/30/read-electricity-bill-belgium/) — but it picks up precisely where that bill displays the “product energy mix” without saying what backs it. It does not redefine what an energy community is, nor the boundary between a CER and a CEC, set out in [“Energy communities in Belgium: CER, CEC, CEL”](/en/news/2026/05/11/energy-communities-belgium/), nor the mechanics of self-consumption, developed in [“Energy self-consumption in Belgium”](/en/news/2026/06/05/energy-self-consumption-belgium/), nor the regional availability test for sharing, run in [“Cheaper electricity without switching supplier”](/en/news/2026/08/05/cheaper-electricity-without-switching-supplier/). It answers a question those articles do not ask: **what evidence exists behind the word “green”**, who produces it, who checks it, and what it is worth.
+This article does not re-explain the structure of an electricity bill, decoded line by line in [“Read your Belgian electricity bill line by line”](/en/guides/read-electricity-bill-belgium/) — but it picks up precisely where that bill displays the “product energy mix” without saying what backs it. It does not redefine what an energy community is, nor the boundary between a CER and a CEC, set out in [“Energy communities in Belgium: CER, CEC, CEL”](/en/guides/energy-communities-belgium/), nor the mechanics of self-consumption, developed in [“Energy self-consumption in Belgium”](/en/guides/energy-self-consumption-belgium/), nor the regional availability test for sharing, run in [“Cheaper electricity without switching supplier”](/en/guides/cheaper-electricity-without-switching-supplier/). It answers a question those articles do not ask: **what evidence exists behind the word “green”**, who produces it, who checks it, and what it is worth.
 
 <img src="/assets/images/diagrams/green-claim-two-tracks-en.svg"
      alt="Two circuits lead to the same Belgian electricity bill. The certificate track starts at a Norwegian dam or a French wind farm, issues one guarantee of origin per megawatt-hour, moves it across the AIB hub linking around thirty European territories at roughly 1.25 euros per megawatt-hour, resells it up to 12 months later and then cancels it in Belgium, which prints 100 per cent green on the bill. Meanwhile the electron track delivers the real Belgian residual mix: 18.07 per cent renewable in 2024 and 171 grams of CO2 per kilowatt-hour in 2025. Energy sharing, at the bottom of the diagram, is the only case where both tracks coincide: same quarter-hour, same local grid, metering data from the distribution system operator."
@@ -204,7 +205,7 @@ The fifth question is the most discriminating, and it is the one Greenpeace's me
 
 Belgian law contains one mechanism where the green claim is not declared but **calculated**. It is not a commercial offer, it is a regulatory scheme: energy sharing.
 
-How such a short circuit is actually assembled — who to recruit, in what order, and why it is built by timetable rather than by affinity — is the subject of [“Local electricity: the short-circuit guide”](/en/news/2026/08/25/local-electricity-short-circuit-guide/).
+How such a short circuit is actually assembled — who to recruit, in what order, and why it is built by timetable rather than by affinity — is the subject of [“Local electricity: the short-circuit guide”](/en/guides/local-electricity-short-circuit-guide/).
 
 ### The definition already contains the answer
 
@@ -251,9 +252,9 @@ The question to put to your community is therefore simple, and it deserves a pla
 
 **It requires a suitable meter.** Without a smart meter or a remotely read quarter-hourly bidirectional meter, sharing is simply impossible. That is an entry condition, and it still excludes part of the Belgian stock.
 
-**The framework remains uneven across regions.** The practical availability of the various forms of sharing varies sharply between regions, and peer-to-peer sharing between two private individuals remains inoperative in Wallonia for want of an implementing order — a topic covered in detail in [“Cheaper electricity without switching supplier”](/en/news/2026/08/05/cheaper-electricity-without-switching-supplier/).
+**The framework remains uneven across regions.** The practical availability of the various forms of sharing varies sharply between regions, and peer-to-peer sharing between two private individuals remains inoperative in Wallonia for want of an implementing order — a topic covered in detail in [“Cheaper electricity without switching supplier”](/en/guides/cheaper-electricity-without-switching-supplier/).
 
-**Finally, sharing has a cost.** Grid fees, excise duties, the green certificate quota levy and VAT remain due on shared kilowatt-hours. Sharing acts only on the energy component, and how to price it is a subject in its own right, developed in [“Internal transfer price in an energy community”](/en/news/2026/07/20/energy-community-electricity-price/).
+**Finally, sharing has a cost.** Grid fees, excise duties, the green certificate quota levy and VAT remain due on shared kilowatt-hours. Sharing acts only on the energy component, and how to price it is a subject in its own right, developed in [“Internal transfer price in an energy community”](/en/guides/energy-community-electricity-price/).
 
 ## Key takeaways
 

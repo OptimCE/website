@@ -8,13 +8,14 @@ description: "Eligibility conditions, where to find an open sharing operation, t
 tags: [community, administrative, guide]
 lang: en
 ref: join-energy-community-wallonia
+pillar: communautes-energie
 last_modified_at: 2026-09-16 06:00:00 +0200
-permalink: /en/news/2026/05/11/join-energy-community-wallonia/
+permalink: /en/guides/join-energy-community-wallonia/
 ---
 
 In Wallonia, energy communities are no longer a fringe experiment: hundreds of sharing operations are live or in the notification pipeline. The legal framework is stable, the distribution system operators (ORES, RESA, AIEG) are tooled up, and most meters are already smart. One very concrete obstacle remains for most citizens, SMEs and local authorities: **how to find a community willing to take new members**, and **what to check before signing**.
 
-This guide is for that audience. Not for project leaders who want to create a community — for that, see our [step-by-step creation guide](/en/news/2026/05/11/create-energy-community-wallonia/) — nor for those still discovering the concept — start with [“Energy communities in Belgium: CER, CEC, CEL”](/en/news/2026/05/11/energy-communities-belgium/). It is for anyone who wants to **join an existing operation** and wants to know exactly how to go about it.
+This guide is for that audience. Not for project leaders who want to create a community — for that, see our [step-by-step creation guide](/en/guides/create-energy-community-wallonia/) — nor for those still discovering the concept — start with [“Energy communities in Belgium: CER, CEC, CEL”](/en/guides/energy-communities-belgium/). It is for anyone who wants to **join an existing operation** and wants to know exactly how to go about it.
 
 By the end of this article, you will know **who can enrol**, **where to look for an open operation**, **what steps to expect** between first contact and the first shared kilowatt-hour, and **what to verify** in the agreement before committing your signature.
 
@@ -49,7 +50,7 @@ The Walloon framework, set by the decree of 5 May 2022 and clarified by the [CWa
 
 Any individual can join, whether owner or tenant. Sharing follows the **EAN of the delivery point**, not the property title: your status doesn't matter as long as the meter is in your name. If you're a tenant and the agreement extends beyond your lease, it's good practice — though not a legal requirement — to inform your landlord.
 
-A tenant does, however, face their own constraints, starting with a joining delay almost equal to their notice period. They are set out in [“Renting: the no-roof guide to solar”](/en/news/2026/09/16/tenant-solar-without-roof-guide/).
+A tenant does, however, face their own constraints, starting with a joining delay almost equal to their notice period. They are set out in [“Renting: the no-roof guide to solar”](/en/guides/tenant-solar-without-roof-guide/).
 
 ### SMEs and self-employed
 
@@ -65,7 +66,7 @@ Three technical conditions must be met at your delivery point before you can enr
 
 - **Smart meter**: mandatory. If you don't have one yet, your DSO (ORES, RESA or AIEG) installs it **free of charge**, typically within 60 days. See the [AIEG energy-sharing guide](https://www.aieg.be/le-partage-denergie) for the operator-side technical details.
 - **Identifiable EAN**: your delivery-point number, 18 digits starting with `541449...`. It appears on every electricity bill, in the “technical data” or “delivery point” section.
-- **Geographic scope**: required for a **CER** (you must be within the proximity perimeter defined with the producers), not required for a **CEC**. For the CER vs CEC refresher, see the [comparison table in our parent article](/en/news/2026/05/11/energy-communities-belgium/).
+- **Geographic scope**: required for a **CER** (you must be within the proximity perimeter defined with the producers), not required for a **CEC**. For the CER vs CEC refresher, see the [comparison table in our parent article](/en/guides/energy-communities-belgium/).
 
 ## Where to find an energy community in Wallonia?
 
@@ -130,7 +131,7 @@ To find your EAN, look at the “delivery point” or “technical data” secti
 
 The **sharing agreement** is the internal contract binding all members: it sets the internal price, the allocation key, the governance rules, the entry and exit conditions and the dispute resolution mechanism. At this stage, you don't *draft* it — you **join an existing text**. Read it carefully and ask the community to walk you through any clause you find unclear.
 
-For a full breakdown of what a sharing agreement contains, see the [dedicated section in our creation guide](/en/news/2026/05/11/create-energy-community-wallonia/); we won't repeat the detail here.
+For a full breakdown of what a sharing agreement contains, see the [dedicated section in our creation guide](/en/guides/create-energy-community-wallonia/); we won't repeat the detail here.
 
 ### Step 4 — Membership formalities for the legal entity
 
@@ -158,11 +159,11 @@ Joining commits your signature and, in some cases, your capital (cooperative sha
 
 ### Type of community — CER or CEC?
 
-The implications differ. **CER**: renewable sources only, geographic proximity required, heat sharing possible. **CEC**: any source, no geographic constraint, electricity only. The detailed refresher is in the [comparison table of our parent article](/en/news/2026/05/11/energy-communities-belgium/).
+The implications differ. **CER**: renewable sources only, geographic proximity required, heat sharing possible. **CEC**: any source, no geographic constraint, electricity only. The detailed refresher is in the [comparison table of our parent article](/en/guides/energy-communities-belgium/).
 
 ### Allocation key — static or dynamic?
 
-A **static** key gives each member a fixed percentage of the sharing (simple, predictable). A **dynamic** key allocates pro rata to real-time consumption at 15-minute granularity (fairer, but variable month to month). Ask **how the key is revised**: annually, at each general assembly, whenever a new member joins? For the detail of the three standard keys validated by CWaPE and the comparison with Brussels and Flanders, see our guide [“Allocation key in Belgium: the 3 regions”](/en/news/2026/05/19/allocation-key-belgium/).
+A **static** key gives each member a fixed percentage of the sharing (simple, predictable). A **dynamic** key allocates pro rata to real-time consumption at 15-minute granularity (fairer, but variable month to month). Ask **how the key is revised**: annually, at each general assembly, whenever a new member joins? For the detail of the three standard keys validated by CWaPE and the comparison with Brussels and Flanders, see our guide [“Allocation key in Belgium: the 3 regions”](/en/guides/allocation-key-belgium/).
 
 ### Internal price — how is it set?
 
@@ -236,11 +237,11 @@ Three channels to take action:
 
 ## Would you rather create than join?
 
-> **[Create an energy community in Wallonia](/en/news/2026/05/11/create-energy-community-wallonia/)**
+> **[Create an energy community in Wallonia](/en/guides/create-energy-community-wallonia/)**
 >
 > Choosing between CER and CEC, framing the project, notifying the CWaPE, receiving the acknowledgement and launching the sharing with ORES, RESA or AIEG.
 
-For the broader context — what an energy community is and the European foundations — see the article [“Energy communities in Belgium: CER, CEC, CEL”](/en/news/2026/05/11/energy-communities-belgium/).
+For the broader context — what an energy community is and the European foundations — see the article [“Energy communities in Belgium: CER, CEC, CEL”](/en/guides/energy-communities-belgium/).
 
 ## Sources
 

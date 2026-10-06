@@ -2,13 +2,15 @@
 layout: post
 title: "Communauté d'énergie : le guide des communes"
 date: 2026-08-30 06:00:00 +0200
-last_modified_at: 2026-09-10 06:00:00 +0200
+last_modified_at: 2026-09-26 06:00:00 +0200
 author: "Eric d'OptimCE"
 excerpt: "262 communes wallonnes. Treize communautés d'énergie au dossier complet chez la CWaPE, dont six seulement partagent réellement de l'électricité. Ce n'est pas un déficit d'ambition : c'est que presque personne n'a remarqué ce que le droit wallon dit déjà. Le premier des deux critères de proximité d'une communauté d'énergie renouvelable, c'est « le territoire d'une seule et même commune ». La Wallonie est la seule des trois régions où le législateur a tracé lui-même le périmètre — et il l'a fait passer par la limite communale."
 description: "En Wallonie, le périmètre d'une communauté d'énergie renouvelable, c'est le territoire communal. Ce que la commune peut y faire, et à quel prix."
 tags: [guide, community, administrative]
 lang: fr
 ref: municipal-energy-community
+solution: communes
+permalink: /solutions/communes/
 faq:
   - q: "Une commune peut-elle créer seule une communauté d'énergie ?"
     a: "Non, et c'est voulu. Une communauté d'énergie est une personne morale distincte de ses membres, qui doit être effectivement contrôlée par des participants situés à proximité et rester autonome vis-à-vis d'eux. Une structure dont la commune serait l'unique membre et l'unique décideur ne satisferait ni la condition de contrôle effectif par une pluralité de participants, ni la condition d'autonomie : ce serait un service communal déguisé, pas une communauté d'énergie. La commune peut en revanche prendre l'initiative, financer l'installation de production, mettre ses toitures à disposition et occuper une place au conseil d'administration. C'est exactement le montage retenu par la Ville d'Aubange, dont l'ASBL réunit la Ville et six citoyens membres fondateurs. Si l'objectif est de partager uniquement entre bâtiments dont la commune est titulaire, la communauté d'énergie n'est d'ailleurs pas le seul chemin possible — mais dès qu'un tiers entre dans le partage, elle le devient."
@@ -28,7 +30,7 @@ La Wallonie compte **262 communes**. Au 3 septembre 2026, la CWaPE recense **tre
 
 Lisez maintenant leurs noms : *Soleil d'Aubange*, *DURBUY 1*, *LASNENERGIE*, *Soleil de Rixensart*, *Courants de Gaume*, *Communauté d'énergie partagée by BEP*. Ce ne sont pas des noms de start-ups. Ce sont des noms de territoires. Le mouvement wallon des communautés d'énergie est, dans les faits, un mouvement de pouvoirs locaux — mais il concerne aujourd'hui une commune sur vingt.
 
-Cet article ne refait pas ce qui est déjà écrit ailleurs sur ce site : la différence entre les trois statuts belges est traitée dans [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/actualites/2026/05/11/communautes-energie-belgique/), la procédure générale de création dans [« Créer une communauté d'énergie en Wallonie »](/actualites/2026/05/11/creer-communaute-energie-wallonie/), les documents et les délais du régulateur dans [« Communauté d'énergie : documents et délais CWaPE »](/actualites/2026/08/12/documents-administratifs-communaute-energie-wallonie/), la fixation du prix interne dans [« Prix de cession interne en communauté d'énergie »](/actualites/2026/07/20/prix-electricite-communaute-energie/), les clés dans [« Clé de répartition en Belgique : les 3 régions »](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/), et les degrés du circuit court dans [« Électricité en circuit court : le mode d'emploi »](/actualites/2026/08/25/electricite-circuit-court-mode-emploi/).
+Cet article ne refait pas ce qui est déjà écrit ailleurs sur ce site : la différence entre les trois statuts belges est traitée dans [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/guides/communautes-energie-belgique/), la procédure générale de création dans [« Créer une communauté d'énergie en Wallonie »](/guides/creer-communaute-energie-wallonie/), les documents et les délais du régulateur dans [« Communauté d'énergie : documents et délais CWaPE »](/guides/documents-administratifs-communaute-energie-wallonie/), la fixation du prix interne dans [« Prix de cession interne en communauté d'énergie »](/guides/prix-electricite-communaute-energie/), les clés dans [« Clé de répartition en Belgique : les 3 régions »](/guides/cle-repartition-communaute-energie-belgique/), et les degrés du circuit court dans [« Électricité en circuit court : le mode d'emploi »](/guides/electricite-circuit-court-mode-emploi/).
 
 Il répond à une question que ces articles ne posent pas : **qu'est-ce qui, dans le droit wallon, fait de la commune l'échelle par défaut d'une communauté d'énergie — et qu'est-ce que ça change pour un collège qui doit arbitrer un plan climat sans budget ?**
 
@@ -77,7 +79,7 @@ Le premier critère est une spécificité wallonne. Il vaut la peine de la mesur
 
 Ni les directives européennes ni l'ordonnance bruxelloise ne définissent la proximité : à Bruxelles, ce sont les membres de la communauté qui doivent en fixer les critères dans leurs propres statuts. La Flandre procède de manière comparable, en rattachant le périmètre aux objectifs de la communauté. **La Wallonie est la seule des trois régions où le législateur a tracé lui-même le périmètre, et où il l'a fait passer par la limite communale.**
 
-Le détail régional complet figure dans [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/actualites/2026/05/11/communautes-energie-belgique/) et, pour les clés, dans [« Clé de répartition en Belgique : les 3 régions »](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/) ; il n'y a pas lieu de le refaire ici. Précisons simplement, pour être clair sur ce que fait l'outil : le module de gestion documentaire d'OptimCE ne connaît aujourd'hui que la CWaPE. Une commune bruxelloise ou flamande peut utiliser la plateforme pour gérer ses membres, ses compteurs et ses clés, mais pas pour produire ses documents réglementaires.
+Le détail régional complet figure dans [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/guides/communautes-energie-belgique/) et, pour les clés, dans [« Clé de répartition en Belgique : les 3 régions »](/guides/cle-repartition-communaute-energie-belgique/) ; il n'y a pas lieu de le refaire ici. Précisons simplement, pour être clair sur ce que fait l'outil : le module de gestion documentaire d'OptimCE ne connaît aujourd'hui que la CWaPE. Une commune bruxelloise ou flamande peut utiliser la plateforme pour gérer ses membres, ses compteurs et ses clés, mais pas pour produire ses documents réglementaires.
 
 ## Trois raisons de s'y mettre qui n'ont rien d'écologique
 
@@ -107,7 +109,7 @@ Ce tableau est une raison d'espérer, pas de renoncer : plus le profil du bâtim
 
 Injecté sur le réseau sans autre démarche, un kilowattheure de surplus rapporte aujourd'hui entre **0,94 et 4,90 centimes** selon le fournisseur — un facteur cinq pour un tarif qui n'est régulé nulle part en Belgique. Partagé, le même kilowattheure se négocie dans une bande défendable de **3 à 14 centimes**, dont le plancher est précisément le tarif d'injection (en dessous, le producteur n'a aucun intérêt à partager) et le plafond la composante énergie que le participant paie déjà à son fournisseur.
 
-Le raisonnement complet, avec ses cinq options comparées, figure dans [« Surplus solaire : les 5 options comparées »](/actualites/2026/08/18/que-faire-surplus-solaire-belgique/), et la méthode de fixation du prix dans [« Prix de cession interne en communauté d'énergie »](/actualites/2026/07/20/prix-electricite-communaute-energie/). Pour une commune, l'ordre de grandeur suffit : **le partage double la valeur du surplus, pour zéro euro d'investissement supplémentaire.**
+Le raisonnement complet, avec ses cinq options comparées, figure dans [« Surplus solaire : les 5 options comparées »](/guides/que-faire-surplus-solaire-belgique/), et la méthode de fixation du prix dans [« Prix de cession interne en communauté d'énergie »](/guides/prix-electricite-communaute-energie/). Pour une commune, l'ordre de grandeur suffit : **le partage double la valeur du surplus, pour zéro euro d'investissement supplémentaire.**
 
 Nous verrons plus bas ce que cela représente en euros réels. Disons tout de suite que ce n'est pas ce qui paiera la toiture.
 
@@ -139,7 +141,7 @@ Un plan d'action pour l'énergie durable et le climat s'organise autour de trois
 
 Une communauté d'énergie alimente la deuxième famille de façon directe. Mais son intérêt propre est ailleurs, et il tient en une phrase : **c'est l'action qui mobilise des toitures que la commune ne possède pas.** Une prime communale à l'isolation agit sur le bâti privé en espérant que quelqu'un la demande. Une communauté d'énergie donne à un propriétaire privé une raison économique d'investir dans sa propre toiture, puisqu'elle lui offre un débouché à 3-14 centimes pour un surplus qui lui rapporte 1-5 centimes. L'effet de levier sort du patrimoine communal, ce qui est rare.
 
-En commune rurale, ce propriétaire privé a presque toujours un nom : c'est un agriculteur, et son hangar porte le plus grand toit disponible du territoire. Ce que ce toit peut et ne peut pas faire — et pourquoi l'aide agricole wallonne s'arrête là où le partage commence — est détaillé dans [« Hangar agricole : le guide du partage d'énergie »](/actualites/2026/09/10/partage-energie-agriculteur-hangar-solaire/).
+En commune rurale, ce propriétaire privé a presque toujours un nom : c'est un agriculteur, et son hangar porte le plus grand toit disponible du territoire. Ce que ce toit peut et ne peut pas faire — et pourquoi l'aide agricole wallonne s'arrête là où le partage commence — est détaillé dans [« Hangar agricole : le guide du partage d'énergie »](/solutions/agriculteurs/).
 
 Elle coche par ailleurs, dans le même mouvement, une case sociale et une case de participation citoyenne — les deux chapitres que les plans climat remplissent habituellement avec des actions de sensibilisation.
 
@@ -211,7 +213,7 @@ Quelques précisions qui font gagner du temps :
 
 **Sur la décision 2.** Le critère de sélection des participants n'est pas l'enthousiasme, c'est le profil de consommation. Le partage se calcule **par tranche de quinze minutes** : un kilowattheure produit à midi ne peut être attribué qu'à un participant qui consomme à midi. Un commerce, une crèche, un indépendant à domicile ou une maison de repos absorbent beaucoup ; un ménage dont les deux adultes travaillent à l'extérieur n'absorbe presque rien en semaine. Constituer le groupe avant d'avoir simulé ce qu'il absorbe réellement, c'est se condamner à une clé décevante.
 
-**Sur la décision 4.** Depuis le **25 juin 2026**, la notification de création d'une communauté d'énergie, ses modifications et le rapportage annuel passent par des formulaires en ligne hébergés sur `monespace.wallonie.be`. La CWaPE dispose de **dix jours ouvrables** pour confirmer que le dossier est complet, et un dossier incomplet peut être complété dans un délai de **six mois**. Le détail des pièces à fournir est traité dans [« Communauté d'énergie : documents et délais CWaPE »](/actualites/2026/08/12/documents-administratifs-communaute-energie-wallonie/).
+**Sur la décision 4.** Depuis le **25 juin 2026**, la notification de création d'une communauté d'énergie, ses modifications et le rapportage annuel passent par des formulaires en ligne hébergés sur `monespace.wallonie.be`. La CWaPE dispose de **dix jours ouvrables** pour confirmer que le dossier est complet, et un dossier incomplet peut être complété dans un délai de **six mois**. Le détail des pièces à fournir est traité dans [« Communauté d'énergie : documents et délais CWaPE »](/guides/documents-administratifs-communaute-energie-wallonie/).
 
 **Sur la décision 7.** Le rapportage annuel tombe **au 1<sup>er</sup> septembre**, chaque année, pour toutes les communautés. Ce n'est pas une échéance glissante calée sur la date de constitution : c'est une date fixe, et c'est l'obligation que les structures jeunes oublient le plus volontiers.
 
@@ -250,7 +252,7 @@ Or deux bâtiments communaux distincts ne forment pas un même bâtiment. L'éco
 
 La conséquence est nette : **la seule composante sur laquelle une communauté d'énergie crée de la valeur est la composante énergie.** C'est réel, mais c'est borné, et cela explique pourquoi la bande de prix défendable plafonne à 14 centimes et non à 37.
 
-Corollaire utile : si un bâtiment communal comporte plusieurs compteurs — un complexe scolaire, un immeuble de logements communaux — le partage *à l'intérieur* de ce bâtiment relève du régime intra-bâtiment, sans personne morale ni autorisation, et avec la réduction de 80 %. C'est souvent la première opération à monter, avant même de penser à la communauté. Le mécanisme est décrit dans [« Partage d'énergie en copropriété : le guide »](/actualites/2026/08/27/partage-energie-copropriete-guide/). Attention toutefois : le cas d'une école est plus étroit qu'il n'y paraît, parce qu'elle n'est presque jamais une copropriété — voir [« Écoles : le guide du partage d'énergie »](/actualites/2026/09/03/partage-energie-ecole-guide/).
+Corollaire utile : si un bâtiment communal comporte plusieurs compteurs — un complexe scolaire, un immeuble de logements communaux — le partage *à l'intérieur* de ce bâtiment relève du régime intra-bâtiment, sans personne morale ni autorisation, et avec la réduction de 80 %. C'est souvent la première opération à monter, avant même de penser à la communauté. Le mécanisme est décrit dans [« Partage d'énergie en copropriété : le guide »](/solutions/coproprietes/). Attention toutefois : le cas d'une école est plus étroit qu'il n'y paraît, parce qu'elle n'est presque jamais une copropriété — voir [« Écoles : le guide du partage d'énergie »](/solutions/ecoles/).
 
 ### Piège n° 2 : le tarif social se perd sur les kilowattheures partagés
 
@@ -266,7 +268,7 @@ Trois voies restent ouvertes, et elles sont meilleures :
 - Cibler les ménages en difficulté qui **ne bénéficient pas** du tarif social, population nombreuse et mal couverte par les dispositifs existants.
 - Traiter le partage comme un **complément** au tarif social, sur les tranches horaires où le ménage consomme de toute façon, en dimensionnant sa part de clé pour ne pas éroder l'avantage social.
 
-Le panorama des aides existantes et le rôle du CPAS comme porte d'entrée sont détaillés dans [« Précarité énergétique en Wallonie : les aides »](/actualites/2026/08/08/precarite-energetique-wallonie-aides/) ; les arbitrages entre tarifs, dont le tarif social, dans [« Quel tarif d'électricité choisir en Belgique ? »](/actualites/2026/08/03/quel-tarif-electricite-choisir-belgique/).
+Le panorama des aides existantes et le rôle du CPAS comme porte d'entrée sont détaillés dans [« Précarité énergétique en Wallonie : les aides »](/guides/precarite-energetique-wallonie-aides/) ; les arbitrages entre tarifs, dont le tarif social, dans [« Quel tarif d'électricité choisir en Belgique ? »](/guides/quel-tarif-electricite-choisir-belgique/).
 
 ### Piège n° 3 : la commune devient vendeuse d'électricité
 
@@ -274,7 +276,7 @@ Partager de l'électricité contre rémunération, c'est vendre un bien. Cela en
 
 La communauté d'énergie est **dispensée de la plupart des obligations en matière de TVA** — elle n'impute pas la TVA à ses participants — mais elle doit néanmoins **obtenir un numéro de TVA** ; en dessous de 25 000 € de chiffre d'affaires annuel, le régime de la franchise est ouvert. Côté production, toute personne disposant d'installations d'une puissance cumulée supérieure à **10 kVA** doit s'assujettir à la TVA sur la vente de son injection : une commune qui équipe plusieurs toitures franchit ce seuil très vite. Les **accises et les cotisations fédérales**, enfin, restent dues par le consommateur final, au même montant que pour de l'électricité achetée à un fournisseur classique.
 
-Il faut aussi une **convention de partage** entre participants, qui fixe la clé de répartition, le coût de l'électricité partagée, les installations mises à disposition et les modalités de facturation par le représentant du partage. La mécanique de facturation — deux factures coexistantes, mentions obligatoires, traitement de la TVA — est traitée dans [« Facturer l'électricité partagée en Belgique »](/actualites/2026/07/23/facturer-electricite-partagee-belgique/). La fiche d'Aubange range explicitement l'intégration fiscale et administrative (TVA, accises, conventions) parmi les enjeux du projet : ce n'est pas un détail de fin de parcours.
+Il faut aussi une **convention de partage** entre participants, qui fixe la clé de répartition, le coût de l'électricité partagée, les installations mises à disposition et les modalités de facturation par le représentant du partage. La mécanique de facturation — deux factures coexistantes, mentions obligatoires, traitement de la TVA — est traitée dans [« Facturer l'électricité partagée en Belgique »](/guides/facturer-electricite-partagee-belgique/). La fiche d'Aubange range explicitement l'intégration fiscale et administrative (TVA, accises, conventions) parmi les enjeux du projet : ce n'est pas un détail de fin de parcours.
 
 ### Piège n° 4 : marchés publics et tutelle
 
@@ -287,6 +289,28 @@ La **constitution de la personne morale et la participation de la commune** rel�
 La **convention de partage** n'est pas un marché public : c'est un contrat de répartition d'un volume produit, dont le prix se fixe librement entre participants.
 
 La qualification exacte dépend du montage. C'est une question à poser au service juridique de la commune ou à l'Union des Villes et Communes de Wallonie **avant** la délibération. Le facilitateur du SPW, gratuit, est le bon premier interlocuteur pour dégrossir.
+
+## Ce qu'OptimCE fait pour vous
+
+Une commune réunit plusieurs bâtiments, plusieurs partenaires et des habitants qui entrent et
+sortent de la communauté. OptimCE rassemble cette gestion au même endroit :
+
+- **Choisir la clé sur des données réelles.** Importez les courbes au quart d'heure des bâtiments
+  communaux et des participants, puis simulez une clé ou laissez le module de génération en
+  proposer une : l'autoconsommation et le surplus apparaissent avant le passage au collège.
+- **Tenir la liste des participants.** Membres, points de fourniture et compteurs sont centralisés ;
+  chaque version de la clé est historisée et l'acceptation par les membres est suivie.
+- **Préparer les démarches wallonnes.** Les documents de la CWaPE sont préremplis à partir de ces
+  données, les échéances sont calculées et le tableau de bord signale celles qui approchent. Le
+  dépôt reste du ressort de la communauté.
+- **Faire connaître l'opération.** Publiez-la dans le registre public de l'application, où les
+  habitants cherchent une opération ouverte près de chez eux, puis informez et consultez les
+  membres avec le tableau d'actualités et les sondages.
+- **Facturer l'énergie partagée** dans le cadre wallon, avec suivi des paiements.
+
+L'application est gratuite pendant la phase alpha.
+
+**[Ouvrir l'application OptimCE →](https://app.optimce.be)**
 
 ## Ce qu'il faut retenir
 

@@ -1,0 +1,52 @@
+{% assign lang = page.lang | default: site.lang %}
+{% assign t = site.data.i18n[lang] %}
+{% assign current_lang = site.languages | where: "code", lang | first %}
+{%- comment -%}
+  Ways into the guides: the five pillars (in _data/pillars.yml order, with
+  their guide counts) and the four audience guides (_data/solutions.yml).
+{%- endcomment %}
+<section class="section section--alt home-guides">
+  <div class="container">
+    <header class="section__header">
+      <h2 class="section__title">{{ t.home_guides.title }}</h2>
+      <p class="section__subtitle">{{ t.home_guides.subtitle }}</p>
+    </header>
+    <div class="home-guides__grid">
+      <div class="home-guides__column">
+        <h3 class="home-guides__label">{{ t.home_guides.topics }}</h3>
+        <ul class="topic-list" role="list">
+          {% for p in site.data.pillars %}
+            {% assign pillar_page = site.pages | where: "pillar", p.key | where: "lang", lang | first %}
+            {% assign pillar_count = site.posts | where: "pillar", p.key | where: "lang", lang | size %}
+            {% if pillar_page %}
+            <li>
+              <a href="{{ pillar_page.url | relative_url }}">
+                <span class="topic-list__name">{{ p.label[lang] }}</span>
+                <span class="topic-list__meta">{{ pillar_count }} {% if pillar_count == 1 %}{{ t.guides.count_one }}{% else %}{{ t.guides.count_other }}{% endif %}</span>
+              </a>
+            </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+        <a class="hub-block__more" href="{{ current_lang.guides_path | relative_url }}">{{ t.home_guides.all_guides }}</a>
+      </div>
+      <div class="home-guides__column">
+        <h3 class="home-guides__label">{{ t.home_guides.audiences }}</h3>
+        <ul class="topic-list" role="list">
+          {% for s in site.data.solutions %}
+            {% assign solution_post = site.posts | where: "solution", s.key | where: "lang", lang | first %}
+            {% if solution_post %}
+            <li>
+              <a href="{{ solution_post.url | relative_url }}">
+                <span class="topic-list__name">{{ s.label[lang] }}</span>
+                <span class="topic-list__meta">{{ solution_post.title | fr_spacing: lang }}</span>
+              </a>
+            </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+        <a class="hub-block__more" href="{{ current_lang.solutions_path | relative_url }}">{{ t.home_guides.all_solutions }}</a>
+      </div>
+    </div>
+  </div>
+</section>

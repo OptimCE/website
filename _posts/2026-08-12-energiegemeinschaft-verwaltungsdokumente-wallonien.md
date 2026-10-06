@@ -8,7 +8,8 @@ description: "Meldung, Jahresbericht, Netzbetreibervertrag: welche Dokumente ein
 tags: [administrative, app, guide]
 lang: de
 ref: cwape-administrative-documents
-permalink: /de/aktuelles/2026/08/12/energiegemeinschaft-verwaltungsdokumente-wallonien/
+pillar: communautes-energie
+permalink: /de/ratgeber/energiegemeinschaft-verwaltungsdokumente-wallonien/
 faq:
   - q: "Welche Dokumente braucht man zur Gründung einer Energiegemeinschaft in Wallonien?"
     a: "Es sind drei getrennte Pakete zu unterscheiden. Für die Gründung der Gemeinschaft eine Meldung an die CWaPE, zusammen mit der Anlage, die Teilnehmer und Erzeugungsanlagen auflistet, und, falls die Gemeinschaft eine Gesellschaft oder eine Vereinigung ist, der Anlage zu den juristischen Personen. Für den Betrieb der Stromteilung ein Formular zur Stromteilung, das beim Verteilernetzbetreiber eingereicht wird, dessen Teilnehmeranlage und eine ehrenwörtliche Erklärung, die jede an der Teilung beteiligte Person unterzeichnet. Schließlich ein Mustervertrag zwischen dem Netzbetreiber und dem Vertreter, entweder in der Fassung für eine Energiegemeinschaft oder in der Fassung für dasselbe Gebäude. Die CWaPE veröffentlicht zu beiden Hauptformularen zudem einen Leitfaden, dessen Lektüre sich vor dem Ausfüllen lohnt."
@@ -32,7 +33,7 @@ Das Ausmaß der Hürde lässt sich messen. Die im März 2025 wiedergegebene Bewe
 
 Eines hat sich vor Kurzem geändert, und es ist weitgehend unbemerkt geblieben: **Seit dem 25. Juni 2026** erfolgen die Meldung der Gründung einer Energiegemeinschaft, ihre Änderungen und die Einreichung ihres Jahresberichts über digitalisierte Formulare auf **monespace.wallonie.be**. Drei Verfahren auf dem zentralen Portal der Region, während alles Übrige — alles, was die Teilung selbst betrifft — herunterzuladende Dateien bleiben. Die Grenze zwischen beiden Welten ist nicht intuitiv, und sie ist derzeit die häufigste Quelle von Missverständnissen.
 
-Dieser Artikel erklärt nicht erneut, was eine Energiegemeinschaft ist oder was eine CER von einer CEC unterscheidet: Das steht in [„Energiegemeinschaften in Belgien: CER, CEC, CEL“](/de/aktuelles/2026/05/11/energiegemeinschaften-belgien/). Er zeichnet auch nicht den Gründungsweg nach, der in [„Eine Energiegemeinschaft in Wallonien gründen“](/de/aktuelles/2026/05/11/energiegemeinschaft-gruenden-wallonien/) behandelt wird. Er beantwortet drei genaue Fragen: **welche Dokumente eine wallonische Energiegemeinschaft erstellen muss, bis wann, und was sich nun automatisch vorbereiten, datieren und archivieren lässt.**
+Dieser Artikel erklärt nicht erneut, was eine Energiegemeinschaft ist oder was eine CER von einer CEC unterscheidet: Das steht in [„Energiegemeinschaften in Belgien: CER, CEC, CEL“](/de/ratgeber/energiegemeinschaften-belgien/). Er zeichnet auch nicht den Gründungsweg nach, der in [„Eine Energiegemeinschaft in Wallonien gründen“](/de/ratgeber/energiegemeinschaft-gruenden-wallonien/) behandelt wird. Er beantwortet drei genaue Fragen: **welche Dokumente eine wallonische Energiegemeinschaft erstellen muss, bis wann, und was sich nun automatisch vorbereiten, datieren und archivieren lässt.**
 
 <img src="/assets/images/diagrams/administrative-dossier-de.svg"
      alt="Schema des Lebenszyklus eines Verwaltungsdossiers einer Energiegemeinschaft in Wallonien: Mit der bei der CWaPE eingereichten Meldung beginnt eine Frist von zehn Werktagen, in der die Regulierungsbehörde die Vollständigkeit des Dossiers prüft; ein vollständiges Dossier erhält eine Empfangsbestätigung, die als Meldenachweis gilt, während ein unvollständiges Dossier innerhalb von höchstens sechs Monaten ab der ersten Empfangsbestätigung vervollständigt werden muss, andernfalls verfällt die Meldung. Für die gegründete Gemeinschaft gelten danach zwei wiederkehrende Pflichten: Jede Änderung der Gründungsbedingungen ist innerhalb von fünfzehn Werktagen zu melden, und der Jahresbericht ist jedes Jahr spätestens zum 1. September einzureichen."
@@ -246,11 +247,11 @@ Sehen Sie zuerst auf das heutige Datum im Verhältnis zum **1. September**. Ist 
 
 ### Ich gründe gerade eine Gemeinschaft
 
-Der kritische Punkt ist die Sechsmonatsuhr, und sie startet mit der ersten Empfangsbestätigung. Stellen Sie die Anlagen vor der Einreichung zusammen, nicht danach: Die Liste der Teilnehmer und Anlagen dauert am längsten, weil sie von Dritten abhängt. Die Leitfäden der CWaPE sind die halbe Stunde wert, die sie kosten. Der vollständige Weg ist in [„Eine Energiegemeinschaft in Wallonien gründen“](/de/aktuelles/2026/05/11/energiegemeinschaft-gruenden-wallonien/) beschrieben.
+Der kritische Punkt ist die Sechsmonatsuhr, und sie startet mit der ersten Empfangsbestätigung. Stellen Sie die Anlagen vor der Einreichung zusammen, nicht danach: Die Liste der Teilnehmer und Anlagen dauert am längsten, weil sie von Dritten abhängt. Die Leitfäden der CWaPE sind die halbe Stunde wert, die sie kosten. Der vollständige Weg ist in [„Eine Energiegemeinschaft in Wallonien gründen“](/de/ratgeber/energiegemeinschaft-gruenden-wallonien/) beschrieben.
 
 ### Ich möchte einer Gemeinschaft beitreten
 
-Sie unterschreiben eine ehrenwörtliche Erklärung, und Ihre Lieferstellen erscheinen in einer Anlage, die der Regulierungsbehörde übermittelt wird. Die Zugangsvoraussetzungen und die vor der Unterschrift zu prüfenden Punkte stehen in [„Einer Energiegemeinschaft in Wallonien beitreten“](/de/aktuelles/2026/05/11/energiegemeinschaft-beitreten-wallonien/).
+Sie unterschreiben eine ehrenwörtliche Erklärung, und Ihre Lieferstellen erscheinen in einer Anlage, die der Regulierungsbehörde übermittelt wird. Die Zugangsvoraussetzungen und die vor der Unterschrift zu prüfenden Punkte stehen in [„Einer Energiegemeinschaft in Wallonien beitreten“](/de/ratgeber/energiegemeinschaft-beitreten-wallonien/).
 
 ### Ich verwalte das alles bereits in Tabellen
 

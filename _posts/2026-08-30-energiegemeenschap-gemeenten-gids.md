@@ -2,14 +2,15 @@
 layout: post
 title: "Energiegemeenschap: de gids voor gemeenten"
 date: 2026-08-30 06:00:00 +0200
-last_modified_at: 2026-09-10 06:00:00 +0200
+last_modified_at: 2026-09-26 06:00:00 +0200
 author: "Eric van OptimCE"
 excerpt: "262 Waalse gemeenten. Dertien energiegemeenschappen met een volledig dossier bij de CWaPE, waarvan er slechts zes werkelijk stroom delen. Dat is geen gebrek aan ambitie: bijna niemand heeft gemerkt wat het Waalse recht al zegt. Het eerste van de twee nabijheidscriteria van een hernieuwbare-energiegemeenschap luidt letterlijk “het grondgebied van één en dezelfde gemeente”. Wallonië is het enige van de drie gewesten waar de wetgever de perimeter zelf heeft getrokken — langs de gemeentegrens."
 description: "In Wallonië is de perimeter van een hernieuwbare-energiegemeenschap het gemeentelijke grondgebied. Wat uw gemeente ermee kan, en tegen welke prijs."
 tags: [guide, community, administrative]
 lang: nl
 ref: municipal-energy-community
-permalink: /nl/nieuws/2026/08/30/energiegemeenschap-gemeenten-gids/
+solution: communes
+permalink: /nl/oplossingen/gemeenten/
 faq:
   - q: "Kan een gemeente alleen een energiegemeenschap oprichten?"
     a: "Nee, en dat is bewust zo. Een energiegemeenschap is een rechtspersoon die losstaat van haar leden, die daadwerkelijk gecontroleerd moet worden door deelnemers in de nabijheid en die autonoom moet blijven ten opzichte van hen. Een structuur waarin de gemeente het enige lid en de enige beslisser zou zijn, voldoet noch aan de voorwaarde van daadwerkelijke controle door meerdere deelnemers, noch aan de voorwaarde van autonomie: het zou een vermomde gemeentedienst zijn, geen energiegemeenschap. De gemeente kan wel het initiatief nemen, de productie-installatie financieren, haar daken ter beschikking stellen en een zitje in de raad van bestuur innemen. Dat is precies de opzet die de stad Aubange heeft gekozen, waar de vzw de stad en zes burgers als stichtende leden verenigt. Gaat het er alleen om te delen tussen meetpunten die de gemeente zelf aanhoudt, dan is de energiegemeenschap niet de enige weg — maar zodra een derde bij de deling betrokken raakt, wordt zij dat wel."
@@ -29,7 +30,7 @@ Wallonië telt **262 gemeenten**. Op 3 september 2026 vermeldt de CWaPE **dertie
 
 Lees nu hun namen: *Soleil d'Aubange*, *DURBUY 1*, *LASNENERGIE*, *Soleil de Rixensart*, *Courants de Gaume*, *Communauté d'énergie partagée by BEP*. Dat zijn geen namen van start-ups. Dat zijn namen van gebieden. De Waalse beweging van energiegemeenschappen is in de feiten een beweging van lokale overheden — maar zij betreft vandaag één gemeente op twintig.
 
-Dit artikel herhaalt niet wat elders op deze site al staat: het verschil tussen de drie Belgische statuten komt aan bod in [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/), de algemene oprichtingsprocedure in [“Energiegemeenschap oprichten in Wallonië”](/nl/nieuws/2026/05/11/energiegemeenschap-oprichten-wallonie/), de documenten en termijnen van de regulator in [“Energiegemeenschap: CWaPE-documenten en termijnen”](/nl/nieuws/2026/08/12/energiegemeenschap-administratieve-documenten-wallonie/), de interne prijszetting in [“Interne overdrachtsprijs in een gemeenschap”](/nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/), de sleutels in [“Verdeelsleutel in België: de 3 regio's”](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/) en de gradaties van de korte keten in [“Stroom in de korte keten: de handleiding”](/nl/nieuws/2026/08/25/elektriciteit-korte-keten-handleiding/).
+Dit artikel herhaalt niet wat elders op deze site al staat: het verschil tussen de drie Belgische statuten komt aan bod in [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/gidsen/energiegemeenschappen-belgie/), de algemene oprichtingsprocedure in [“Energiegemeenschap oprichten in Wallonië”](/nl/gidsen/energiegemeenschap-oprichten-wallonie/), de documenten en termijnen van de regulator in [“Energiegemeenschap: CWaPE-documenten en termijnen”](/nl/gidsen/energiegemeenschap-administratieve-documenten-wallonie/), de interne prijszetting in [“Interne overdrachtsprijs in een gemeenschap”](/nl/gidsen/prijs-elektriciteit-energiegemeenschap/), de sleutels in [“Verdeelsleutel in België: de 3 regio's”](/nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/) en de gradaties van de korte keten in [“Stroom in de korte keten: de handleiding”](/nl/gidsen/elektriciteit-korte-keten-handleiding/).
 
 Het beantwoordt een vraag die die artikelen niet stellen: **wat maakt, in het Waalse recht, de gemeente tot de standaardschaal van een energiegemeenschap — en wat verandert dat voor een college dat een klimaatplan zonder budget moet afwegen?**
 
@@ -78,7 +79,7 @@ Het eerste criterium is een Waalse eigenheid. Het loont de moeite haar te meten,
 
 Noch de Europese richtlijnen noch de Brusselse ordonnantie definiëren nabijheid: in Brussel moeten de leden van de gemeenschap de criteria in hun eigen statuten vastleggen. Vlaanderen gaat vergelijkbaar te werk en koppelt de perimeter aan de doelstellingen van de gemeenschap. **Wallonië is het enige van de drie gewesten waar de wetgever de perimeter zelf heeft getrokken, en waar hij hem langs de gemeentegrens heeft getrokken.**
 
-Het volledige gewestelijke detail staat in [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/) en, voor de sleutels, in [“Verdeelsleutel in België: de 3 regio's”](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/); het hier overdoen heeft geen zin. Eén verduidelijking over het instrument, om duidelijk te zijn: de documentmodule van OptimCE kent vandaag alleen de CWaPE. Een Brusselse of Vlaamse gemeente kan het platform gebruiken voor leden, meters en sleutels, maar niet om haar regelgevende documenten op te maken.
+Het volledige gewestelijke detail staat in [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/gidsen/energiegemeenschappen-belgie/) en, voor de sleutels, in [“Verdeelsleutel in België: de 3 regio's”](/nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/); het hier overdoen heeft geen zin. Eén verduidelijking over het instrument, om duidelijk te zijn: de documentmodule van OptimCE kent vandaag alleen de CWaPE. Een Brusselse of Vlaamse gemeente kan het platform gebruiken voor leden, meters en sleutels, maar niet om haar regelgevende documenten op te maken.
 
 ## Drie redenen om eraan te beginnen die niets met ecologie te maken hebben
 
@@ -108,7 +109,7 @@ Deze tabel is een reden tot hoop, niet tot opgeven: hoe slechter het profiel van
 
 Zonder verdere stap in het net geïnjecteerd, brengt een kilowattuur overschot vandaag tussen **0,94 en 4,90 cent** op, afhankelijk van de leverancier — een factor vijf voor een tarief dat nergens in België is gereguleerd. Gedeeld beweegt diezelfde kilowattuur zich in een verdedigbare band van **3 tot 14 cent**, waarvan de ondergrens precies het injectietarief is (daaronder heeft de producent er geen belang bij te delen) en de bovengrens de energiecomponent die de deelnemer sowieso al aan zijn leverancier betaalt.
 
-De volledige redenering, met de vijf vergeleken opties, staat in [“Zonne-overschot: de 5 opties vergeleken”](/nl/nieuws/2026/08/18/wat-doen-met-je-zonne-overschot-belgie/), en de methode van prijszetting in [“Interne overdrachtsprijs in een gemeenschap”](/nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/). Voor een gemeente volstaat de grootteorde: **de deling verdubbelt de waarde van het overschot, voor nul euro bijkomende investering.**
+De volledige redenering, met de vijf vergeleken opties, staat in [“Zonne-overschot: de 5 opties vergeleken”](/nl/gidsen/wat-doen-met-je-zonne-overschot-belgie/), en de methode van prijszetting in [“Interne overdrachtsprijs in een gemeenschap”](/nl/gidsen/prijs-elektriciteit-energiegemeenschap/). Voor een gemeente volstaat de grootteorde: **de deling verdubbelt de waarde van het overschot, voor nul euro bijkomende investering.**
 
 Wat dat in echte euro's betekent, zien we verderop. Laten we meteen zeggen dat het niet is wat het dak zal betalen.
 
@@ -140,7 +141,7 @@ Een actieplan voor duurzame energie en klimaat is opgebouwd rond drie families v
 
 Een energiegemeenschap voedt de tweede familie rechtstreeks. Maar haar eigen belang ligt elders, en het past in één zin: **het is de actie die daken mobiliseert die de gemeente niet bezit.** Een gemeentelijke isolatiepremie werkt op het private patrimonium en hoopt dat iemand ze aanvraagt. Een energiegemeenschap geeft een private eigenaar een economische reden om in zijn eigen dak te investeren, aangezien zij hem een afzet biedt tegen 3-14 cent voor een overschot dat hem 1-5 cent opbrengt. De hefboom verlaat het gemeentelijke patrimonium, wat zeldzaam is.
 
-In een landelijke gemeente heeft die private eigenaar bijna altijd een naam: een landbouwer, van wie de loods het grootste beschikbare dak van het grondgebied draagt. Wat dat dak wel en niet kan — en waarom de Waalse landbouwsteun stopt waar het delen begint — staat in [“Landbouwloods: de gids voor energiedelen”](/nl/nieuws/2026/09/10/energiedeling-landbouw-gids/).
+In een landelijke gemeente heeft die private eigenaar bijna altijd een naam: een landbouwer, van wie de loods het grootste beschikbare dak van het grondgebied draagt. Wat dat dak wel en niet kan — en waarom de Waalse landbouwsteun stopt waar het delen begint — staat in [“Landbouwloods: de gids voor energiedelen”](/nl/oplossingen/landbouw/).
 
 Zij vinkt in dezelfde beweging ook een sociaal vakje en een burgerparticipatievakje aan — de twee hoofdstukken die klimaatplannen gewoonlijk met sensibiliseringsacties vullen.
 
@@ -212,7 +213,7 @@ Enkele verduidelijkingen die tijd besparen:
 
 **Over beslissing 2.** Het selectiecriterium voor deelnemers is niet het enthousiasme, maar het verbruiksprofiel. De deling wordt **per kwartier** berekend: een 's middags geproduceerde kilowattuur kan alleen worden toegewezen aan een deelnemer die 's middags verbruikt. Een winkel, een kinderdagverblijf, een zelfstandige die thuis werkt of een woonzorgcentrum nemen veel op; een huishouden waarvan beide volwassenen buitenshuis werken, neemt door de week bijna niets op. De groep samenstellen vooraleer te simuleren wat zij werkelijk opneemt, is zich veroordelen tot een teleurstellende sleutel.
 
-**Over beslissing 4.** Sinds **25 juni 2026** verlopen de aanmelding van de oprichting van een energiegemeenschap, haar wijzigingen en de jaarlijkse rapportering via onlineformulieren op `monespace.wallonie.be`. De CWaPE beschikt over **tien werkdagen** om te bevestigen dat het dossier volledig is, en een onvolledig dossier kan binnen **zes maanden** worden aangevuld. Het detail van de voor te leggen stukken komt aan bod in [“Energiegemeenschap: CWaPE-documenten en termijnen”](/nl/nieuws/2026/08/12/energiegemeenschap-administratieve-documenten-wallonie/).
+**Over beslissing 4.** Sinds **25 juni 2026** verlopen de aanmelding van de oprichting van een energiegemeenschap, haar wijzigingen en de jaarlijkse rapportering via onlineformulieren op `monespace.wallonie.be`. De CWaPE beschikt over **tien werkdagen** om te bevestigen dat het dossier volledig is, en een onvolledig dossier kan binnen **zes maanden** worden aangevuld. Het detail van de voor te leggen stukken komt aan bod in [“Energiegemeenschap: CWaPE-documenten en termijnen”](/nl/gidsen/energiegemeenschap-administratieve-documenten-wallonie/).
 
 **Over beslissing 7.** De jaarlijkse rapportering valt op **1 september**, elk jaar, voor alle gemeenschappen. Het is geen glijdende termijn die aanknoopt bij de oprichtingsdatum: het is een vaste datum, en het is de verplichting die jonge structuren het gemakkelijkst vergeten.
 
@@ -251,7 +252,7 @@ Twee afzonderlijke gemeentegebouwen vormen echter geen zelfde gebouw. De school 
 
 Het gevolg is duidelijk: **de enige component waarop een energiegemeenschap waarde creëert, is de energiecomponent.** Dat is reëel, maar het is begrensd, en het verklaart waarom de verdedigbare prijsband op 14 cent eindigt en niet op 37.
 
-Een nuttig gevolg: heeft een gemeentegebouw meerdere meters — een schoolcomplex, een gebouw met gemeentelijke woningen — dan valt de deling *binnen* dat gebouw onder het gebouwregime, zonder rechtspersoon en zonder vergunning, en met de vermindering van 80 %. Dat is vaak de eerste operatie om op te zetten, nog vóór u aan een gemeenschap denkt. Het mechanisme wordt beschreven in [“Energie delen in een appartementsgebouw”](/nl/nieuws/2026/08/27/energie-delen-appartementsgebouw/). Eén kanttekening: het geval van een school is enger dan het lijkt, want een school is bijna nooit een mede-eigendom — zie [“Scholen: de gids voor energiedelen”](/nl/nieuws/2026/09/03/energiedeling-school-gids/).
+Een nuttig gevolg: heeft een gemeentegebouw meerdere meters — een schoolcomplex, een gebouw met gemeentelijke woningen — dan valt de deling *binnen* dat gebouw onder het gebouwregime, zonder rechtspersoon en zonder vergunning, en met de vermindering van 80 %. Dat is vaak de eerste operatie om op te zetten, nog vóór u aan een gemeenschap denkt. Het mechanisme wordt beschreven in [“Energie delen in een appartementsgebouw”](/nl/oplossingen/appartementsgebouwen/). Eén kanttekening: het geval van een school is enger dan het lijkt, want een school is bijna nooit een mede-eigendom — zie [“Scholen: de gids voor energiedelen”](/nl/oplossingen/scholen/).
 
 ### Valkuil nr. 2: het sociaal tarief gaat verloren op gedeelde kilowattuur
 
@@ -267,7 +268,7 @@ Drie wegen blijven open, en zij zijn beter:
 - Huishoudens in moeilijkheden aanspreken die het sociaal tarief **niet** genieten, een talrijke en slecht gedekte groep.
 - De deling behandelen als een **aanvulling** op het sociaal tarief, op de tijdvensters waarin het huishouden hoe dan ook verbruikt, en zijn sleutelaandeel zo dimensioneren dat het sociale voordeel niet wordt uitgehold.
 
-Het overzicht van de bestaande steun en de rol van het OCMW als toegangspoort staan in [“Energiearmoede in Wallonië: welke steun?”](/nl/nieuws/2026/08/08/energiearmoede-wallonie-steun/); de afwegingen tussen de tarieven, waaronder het sociaal tarief, in [“Welk elektriciteitstarief kiezen in België?”](/nl/nieuws/2026/08/03/elektriciteitstarief-kiezen-belgie/).
+Het overzicht van de bestaande steun en de rol van het OCMW als toegangspoort staan in [“Energiearmoede in Wallonië: welke steun?”](/nl/gidsen/energiearmoede-wallonie-steun/); de afwegingen tussen de tarieven, waaronder het sociaal tarief, in [“Welk elektriciteitstarief kiezen in België?”](/nl/gidsen/elektriciteitstarief-kiezen-belgie/).
 
 ### Valkuil nr. 3: de gemeente wordt verkoper van elektriciteit
 
@@ -275,7 +276,7 @@ Elektriciteit tegen vergoeding delen, is een goed verkopen. Daaruit volgen verpl
 
 De energiegemeenschap is **vrijgesteld van de meeste btw-verplichtingen** — zij rekent haar deelnemers geen btw aan — maar zij moet niettemin **een btw-nummer verkrijgen**; onder 25 000 € jaaromzet staat de vrijstellingsregeling open. Aan productiezijde moet elke persoon met installaties van een gecumuleerd vermogen van meer dan **10 kVA** zich voor de verkoop van zijn injectie btw-plichtig maken: een gemeente die meerdere daken uitrust, overschrijdt die drempel zeer snel. **Accijnzen en federale heffingen** ten slotte blijven verschuldigd door de eindafnemer, voor hetzelfde bedrag als bij elektriciteit die bij een klassieke leverancier wordt gekocht.
 
-Er is ook een **delingsovereenkomst** tussen de deelnemers nodig, die de verdeelsleutel, de kostprijs van de gedeelde elektriciteit, de ter beschikking gestelde installaties en de facturatiemodaliteiten door de vertegenwoordiger van de deling vastlegt. De facturatiemechaniek — twee naast elkaar bestaande facturen, verplichte vermeldingen, btw-behandeling — komt aan bod in [“Gedeelde elektriciteit factureren in België”](/nl/nieuws/2026/07/23/gedeelde-elektriciteit-factureren-belgie/). De fiche van Aubange rangschikt de fiscale en administratieve integratie (btw, accijnzen, overeenkomsten) uitdrukkelijk onder de uitdagingen van het project: het is geen detail voor het einde van de rit.
+Er is ook een **delingsovereenkomst** tussen de deelnemers nodig, die de verdeelsleutel, de kostprijs van de gedeelde elektriciteit, de ter beschikking gestelde installaties en de facturatiemodaliteiten door de vertegenwoordiger van de deling vastlegt. De facturatiemechaniek — twee naast elkaar bestaande facturen, verplichte vermeldingen, btw-behandeling — komt aan bod in [“Gedeelde elektriciteit factureren in België”](/nl/gidsen/gedeelde-elektriciteit-factureren-belgie/). De fiche van Aubange rangschikt de fiscale en administratieve integratie (btw, accijnzen, overeenkomsten) uitdrukkelijk onder de uitdagingen van het project: het is geen detail voor het einde van de rit.
 
 ### Valkuil nr. 4: overheidsopdrachten en toezicht
 
@@ -288,6 +289,30 @@ De **oprichting van de rechtspersoon en de deelname van de gemeente** vallen ond
 De **delingsovereenkomst** is geen overheidsopdracht: het is een contract over de verdeling van een geproduceerd volume, tegen een vrij bepaalde prijs.
 
 De precieze kwalificatie hangt af van de opzet. Het is een vraag voor de juridische dienst van de gemeente of voor de Vereniging van Waalse Steden en Gemeenten **vóór** de beraadslaging. De gratis facilitator van de Waalse overheidsdienst is het juiste eerste aanspreekpunt om het terrein te effenen.
+
+## Wat OptimCE voor u doet
+
+Een gemeente brengt meerdere gebouwen, meerdere partners en inwoners samen die de gemeenschap
+vervoegen en weer verlaten. OptimCE brengt dat beheer op één plek samen:
+
+- **De sleutel kiezen op basis van echte gegevens.** Importeer de kwartiercurves van de
+  gemeentegebouwen en van de deelnemers, simuleer daarna een sleutel of laat de generatiemodule er
+  een voorstellen: zelfverbruik en overschot worden zichtbaar nog vóór het voorstel naar het
+  college gaat.
+- **De lijst van deelnemers bijhouden.** Leden, leveringspunten en meters staan op één plek; elke
+  versie van de sleutel wordt bewaard en de aanvaarding door de leden wordt opgevolgd.
+- **De Waalse procedures voorbereiden.** De documenten van de CWaPE worden op basis van die
+  gegevens vooraf ingevuld, de termijnen worden berekend en het dashboard signaleert de naderende.
+  Het indienen blijft de zaak van de gemeenschap.
+- **De deelactie bekendmaken.** Publiceer ze in het publiek register van de applicatie, waar
+  inwoners een open deelactie in hun buurt zoeken, en informeer en raadpleeg de leden daarna met
+  het nieuwsbord en de polls.
+- **De gedeelde elektriciteit factureren** binnen het Waalse kader, met opvolging van de
+  betalingen.
+
+De applicatie is gratis tijdens de alfafase.
+
+**[De OptimCE-app openen →](https://app.optimce.be)**
 
 ## Wat u moet onthouden
 

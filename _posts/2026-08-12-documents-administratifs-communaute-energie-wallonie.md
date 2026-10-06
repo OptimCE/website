@@ -8,6 +8,8 @@ description: "Notification, rapportage annuel, conventions GRD : quels documents
 tags: [administrative, app, guide]
 lang: fr
 ref: cwape-administrative-documents
+pillar: communautes-energie
+permalink: /guides/documents-administratifs-communaute-energie-wallonie/
 faq:
   - q: "Quels documents faut-il pour créer une communauté d'énergie en Wallonie ?"
     a: "Il faut distinguer trois paquets. Pour constituer la communauté, une notification à la CWaPE, accompagnée de l'annexe listant les participants et les installations de production et, si la communauté est une société ou une association, de l'annexe relative aux personnes morales. Pour faire fonctionner le partage, un formulaire de partage d'électricité déposé auprès du gestionnaire de réseau, son annexe de participants et une déclaration sur l'honneur signée par chaque personne prenant part au partage. Enfin, une convention-type entre le gestionnaire de réseau et le représentant, dans sa version communauté d'énergie ou dans sa version même bâtiment. La CWaPE publie aussi un guide explicatif pour chacun des deux formulaires principaux, et il vaut la peine de le lire avant de remplir quoi que ce soit."
@@ -31,7 +33,7 @@ L'ampleur du frein se mesure. L'évaluation de la CWaPE relayée en mars 2025 re
 
 Un élément a changé récemment, et il est passé largement inaperçu : **depuis le 25 juin 2026**, la notification de création d'une communauté d'énergie, ses modifications et l'introduction de son rapportage annuel s'effectuent au moyen de formulaires digitalisés hébergés sur **monespace.wallonie.be**. Trois procédures sur le portail unique de la Région, le reste — tout ce qui touche au partage lui-même — restant des fichiers à télécharger. La frontière entre les deux mondes n'est pas intuitive, et c'est aujourd'hui la première source de confusion.
 
-Cet article ne réexplique pas ce qu'est une communauté d'énergie ni ce qui distingue une CER d'une CEC : c'est fait dans [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/actualites/2026/05/11/communautes-energie-belgique/). Il ne refait pas non plus le parcours de constitution, traité dans [« Créer une communauté d'énergie en Wallonie »](/actualites/2026/05/11/creer-communaute-energie-wallonie/). Il répond à trois questions précises : **quels documents une communauté d'énergie wallonne doit produire, pour quand, et ce qui peut désormais être préparé, daté et archivé automatiquement.**
+Cet article ne réexplique pas ce qu'est une communauté d'énergie ni ce qui distingue une CER d'une CEC : c'est fait dans [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/guides/communautes-energie-belgique/). Il ne refait pas non plus le parcours de constitution, traité dans [« Créer une communauté d'énergie en Wallonie »](/guides/creer-communaute-energie-wallonie/). Il répond à trois questions précises : **quels documents une communauté d'énergie wallonne doit produire, pour quand, et ce qui peut désormais être préparé, daté et archivé automatiquement.**
 
 <img src="/assets/images/diagrams/administrative-dossier-fr.svg"
      alt="Schéma du cycle de vie d'un dossier administratif de communauté d'énergie en Wallonie : la notification déposée auprès de la CWaPE ouvre un délai de dix jours ouvrables pendant lequel le régulateur vérifie la complétude du dossier ; un dossier complet reçoit un accusé de réception qui vaut preuve de notification, tandis qu'un dossier incomplet doit être complété dans un délai maximal de six mois à dater du premier accusé de réception, faute de quoi la notification devient caduque. Deux obligations récurrentes se greffent ensuite sur la communauté constituée : toute modification des conditions de constitution doit être notifiée dans les quinze jours ouvrables, et le rapportage annuel doit être introduit chaque année pour le 1er septembre au plus tard."
@@ -245,11 +247,11 @@ Regardez d'abord la date du jour par rapport au **1<sup>er</sup> septembre**. Si
 
 ### Je suis en train de constituer une communauté
 
-Le point critique est le compteur des six mois, et il démarre au premier accusé de réception. Réunissez les annexes avant de déposer plutôt qu'après : la liste des participants et des installations est ce qui prend le plus de temps, parce qu'elle dépend de tiers. Les guides explicatifs de la CWaPE valent la demi-heure qu'ils coûtent. Le parcours complet est décrit dans [« Créer une communauté d'énergie en Wallonie »](/actualites/2026/05/11/creer-communaute-energie-wallonie/).
+Le point critique est le compteur des six mois, et il démarre au premier accusé de réception. Réunissez les annexes avant de déposer plutôt qu'après : la liste des participants et des installations est ce qui prend le plus de temps, parce qu'elle dépend de tiers. Les guides explicatifs de la CWaPE valent la demi-heure qu'ils coûtent. Le parcours complet est décrit dans [« Créer une communauté d'énergie en Wallonie »](/guides/creer-communaute-energie-wallonie/).
 
 ### Je veux rejoindre une communauté
 
-Vous signerez une déclaration sur l'honneur, et vos points de fourniture figureront dans une annexe transmise au régulateur. Les conditions d'éligibilité et les points à vérifier avant de signer sont détaillés dans [« Rejoindre une communauté d'énergie en Wallonie »](/actualites/2026/05/11/rejoindre-communaute-energie-wallonie/).
+Vous signerez une déclaration sur l'honneur, et vos points de fourniture figureront dans une annexe transmise au régulateur. Les conditions d'éligibilité et les points à vérifier avant de signer sont détaillés dans [« Rejoindre une communauté d'énergie en Wallonie »](/guides/rejoindre-communaute-energie-wallonie/).
 
 ### Je gère déjà tout cela dans des classeurs
 

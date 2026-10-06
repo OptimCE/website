@@ -9,6 +9,8 @@ description: "Les cinq sections imposées depuis 2022, l'acompte face au décomp
 tags: [guide, administrative, community]
 lang: fr
 ref: read-electricity-bill-belgium
+pillar: facture-electricite
+permalink: /guides/comprendre-facture-electricite-ligne-par-ligne/
 faq:
   - q: "Quelles sont les cinq sections obligatoires d'une facture d'énergie en Belgique ?"
     a: "L'arrêté royal du 9 décembre 2021, en vigueur depuis le 1er janvier 2022, impose cinq sections à toute facture adressée à un client résidentiel : A « informations essentielles relatives au contrat », B « combien, quand et comment dois-je payer », C « j'ai une question à poser », D « comparer contrat et changer » et E « gérer la consommation d'énergie ». Ces sections sont les mêmes chez tous les fournisseurs actifs en Belgique, parce qu'elles transposent l'article 18 et l'annexe I de la directive européenne 2019/944. Une facture qui ne les contient pas n'est pas conforme."
@@ -28,7 +30,7 @@ Comptez les documents que votre fournisseur d'électricité vous envoie sur une 
 
 C'est la première chose à savoir pour lire une facture belge, et elle explique une bonne partie des mauvaises surprises de fin d'année. La deuxième, c'est que depuis le **1er janvier 2022**, votre facture n'est plus un document libre : un arrêté royal impose à tous les fournisseurs actifs en Belgique **cinq sections nommées, sur deux pages**. Que vous soyez chez Engie, Luminus, Mega, TotalEnergies ou un fournisseur coopératif, le squelette est le même. Apprendre à le lire une fois suffit pour toute la vie.
 
-Cet article ne réexplique pas *pourquoi* votre facture est élevée — nous l'avons fait en euros dans [« Facture d'électricité : pourquoi elle reste élevée »](/actualites/2026/07/25/pourquoi-facture-electricite-reste-elevee-belgique/) — ni *comment la réduire*, chiffré dans [« Réduire sa facture d'électricité : Wallonie 2026 »](/actualites/2026/07/28/reduire-facture-electricite-wallonie-2026/). Il explique **comment lire le document** : quelles lignes vérifier, dans quel ordre, ce que chacune paie, qui l'encaisse vraiment, et à qui s'adresser quand un montant vous paraît faux.
+Cet article ne réexplique pas *pourquoi* votre facture est élevée — nous l'avons fait en euros dans [« Facture d'électricité : pourquoi elle reste élevée »](/guides/pourquoi-facture-electricite-reste-elevee-belgique/) — ni *comment la réduire*, chiffré dans [« Réduire sa facture d'électricité : Wallonie 2026 »](/guides/reduire-facture-electricite-wallonie/). Il explique **comment lire le document** : quelles lignes vérifier, dans quel ordre, ce que chacune paie, qui l'encaisse vraiment, et à qui s'adresser quand un montant vous paraît faux.
 
 <img src="/assets/images/diagrams/bill-anatomy-fr.svg"
      alt="Schéma d'une facture d'électricité belge : les cinq sections imposées par l'arrêté royal du 9 décembre 2021, avec les repères du code EAN, des index de début et de fin de période et du détail du calcul."
@@ -70,7 +72,7 @@ Son article 14 impose, pour les clients résidentiels, cinq sections nommées :
 
 L'objectif affiché était de tenir sur **deux pages** : « les informations sont simplifiées et présentées sur deux pages seulement » ([UVCW](https://www.uvcw.be/energie/actus/art-7031)). Le détail du calcul, lui, est renvoyé en annexe — c'est le document que la plupart des gens ne regardent jamais, et c'est précisément celui qui contient les lignes.
 
-Deux réflexes en découlent. D'abord, **la section A contient la date de fin de votre contrat** : c'est l'information la plus rentable de toute la facture, puisqu'elle vous dit quand comparer. Ensuite, si une facture ne comporte pas ces sections, elle n'est pas conforme — la mention est opposable. Quant à la **section E**, elle affiche le mix énergétique du produit sans dire un mot de ce qui le garantit : ce que cette mention prouve réellement est décortiqué dans [« Électricité verte en Belgique : vraiment verte ? »](/actualites/2026/08/22/electricite-verte-belgique-vraiment-verte/).
+Deux réflexes en découlent. D'abord, **la section A contient la date de fin de votre contrat** : c'est l'information la plus rentable de toute la facture, puisqu'elle vous dit quand comparer. Ensuite, si une facture ne comporte pas ces sections, elle n'est pas conforme — la mention est opposable. Quant à la **section E**, elle affiche le mix énergétique du produit sans dire un mot de ce qui le garantit : ce que cette mention prouve réellement est décortiqué dans [« Électricité verte en Belgique : vraiment verte ? »](/guides/electricite-verte-belgique-vraiment-verte/).
 
 ## L'en-tête : quatre lignes à vérifier avant même de regarder le montant
 
@@ -110,7 +112,7 @@ Deux subtilités que la lecture ligne à ligne révèle et que les moyennes masq
 
 **La TVA ne frappe pas tout.** Elle s'applique à 6 % sur l'essentiel, mais la CREG signale trois exemptions : la redevance de raccordement wallonne, la cotisation au fonds énergie flamand et la surcharge client protégé pour le gaz en Wallonie ([CREG](https://www.creg.be/fr/consommateurs/le-marche-de-lenergie/comment-est-compose-le-prix-de-lenergie)). Si vous recalculez votre facture et que le total de TVA ne tombe pas juste, c'est souvent là.
 
-**Les pourcentages diffèrent d'une source à l'autre, et ce n'est pas une contradiction.** ORES illustre une facture d'électricité de 1 200 € par 44 % d'énergie (528 €), 8 % de transport (90 €), 28 % de distribution (339 €) et 20 % de taxes et TVA (243 €). Le tableau de bord de la CREG de juin 2026 donne, lui, 38,5 % d'énergie, 29,7 % de coûts de réseau, 26,1 % de taxes et 5,7 % de TVA. Les deux sont exacts : ils ne portent ni sur le même profil de consommation, ni sur la même région, ni sur la même date, et l'un isole la TVA que l'autre agrège aux taxes. **Savoir lire cet écart fait partie de la lecture d'une facture** — méfiez-vous de toute répartition citée sans son profil, sa région et sa date. L'analyse économique de ces blocs, en euros et région par région, est développée dans [« Facture d'électricité : pourquoi elle reste élevée »](/actualites/2026/07/25/pourquoi-facture-electricite-reste-elevee-belgique/).
+**Les pourcentages diffèrent d'une source à l'autre, et ce n'est pas une contradiction.** ORES illustre une facture d'électricité de 1 200 € par 44 % d'énergie (528 €), 8 % de transport (90 €), 28 % de distribution (339 €) et 20 % de taxes et TVA (243 €). Le tableau de bord de la CREG de juin 2026 donne, lui, 38,5 % d'énergie, 29,7 % de coûts de réseau, 26,1 % de taxes et 5,7 % de TVA. Les deux sont exacts : ils ne portent ni sur le même profil de consommation, ni sur la même région, ni sur la même date, et l'un isole la TVA que l'autre agrège aux taxes. **Savoir lire cet écart fait partie de la lecture d'une facture** — méfiez-vous de toute répartition citée sans son profil, sa région et sa date. L'analyse économique de ces blocs, en euros et région par région, est développée dans [« Facture d'électricité : pourquoi elle reste élevée »](/guides/pourquoi-facture-electricite-reste-elevee-belgique/).
 
 Pour situer les ordres de grandeur des lignes fiscales : l'accise sur l'électricité s'élève à 0,05033 €/kWh et la cotisation sur l'énergie à 0,0002 €/kWh (Ecoconso) — cette dernière disparaissant au 1er août 2026.
 
@@ -142,7 +144,7 @@ Le **17 juin 2026, la commission de l'Énergie de la Chambre a approuvé une sé
 
 Une précision d'honnêteté, dans le registre qui est le nôtre sur ce blog : il s'agit à ce stade d'une **approbation en commission**, et les dates d'application sont échelonnées et annoncées, pas toutes actées. Nous reprenons ici ce qui a été communiqué en juin 2026 ; pour un montant ou une obligation opposable, référez-vous à votre fiche tarifaire et aux textes publiés au Moniteur belge.
 
-Enfin, deux lignes fantômes à savoir reconnaître : la **cotisation fédérale** n'existe plus depuis fin 2021 mais figure encore dans quantité de modèles et de simulateurs, et la **cotisation sur l'énergie** disparaît au 1er août 2026. Si l'une apparaît sur une facture postérieure, posez la question. Le détail de la réforme des accises est traité dans notre article sur [le niveau de la facture](/actualites/2026/07/25/pourquoi-facture-electricite-reste-elevee-belgique/).
+Enfin, deux lignes fantômes à savoir reconnaître : la **cotisation fédérale** n'existe plus depuis fin 2021 mais figure encore dans quantité de modèles et de simulateurs, et la **cotisation sur l'énergie** disparaît au 1er août 2026. Si l'une apparaît sur une facture postérieure, posez la question. Le détail de la réforme des accises est traité dans notre article sur [le niveau de la facture](/guides/pourquoi-facture-electricite-reste-elevee-belgique/).
 
 ## Vous contestez une ligne ? Le bon interlocuteur dépend de la ligne
 
@@ -172,7 +174,7 @@ Si vous participez à une communauté d'énergie ou à un partage entre voisins,
 
 **Vous recevez deux documents, pas un.** Votre fournisseur continue de vous facturer l'énergie résiduelle, c'est-à-dire ce que vous avez consommé au-delà des kWh partagés, plus **la totalité des coûts de réseau et des taxes**. Le représentant du partage vous facture séparément les kWh partagés. Sur la facture de votre fournisseur, l'effet du partage ne se lit donc pas comme une ligne de réduction : il se lit comme un **volume de kWh plus faible** sur la ligne d'énergie, les autres lignes restant inchangées.
 
-Une ligne à surveiller malgré tout : rien n'interdit à un fournisseur de facturer des frais liés à votre participation au partage. Le mécanisme complet, les mentions obligatoires de la facture de partage et le partage des rôles entre fournisseur, gestionnaire de réseau et représentant sont détaillés dans [« Facturer l'électricité partagée en Belgique »](/actualites/2026/07/23/facturer-electricite-partagee-belgique/), et la manière dont se fixe le prix des kWh partagés dans [« Prix de cession interne en communauté d'énergie »](/actualites/2026/07/20/prix-electricite-communaute-energie/).
+Une ligne à surveiller malgré tout : rien n'interdit à un fournisseur de facturer des frais liés à votre participation au partage. Le mécanisme complet, les mentions obligatoires de la facture de partage et le partage des rôles entre fournisseur, gestionnaire de réseau et représentant sont détaillés dans [« Facturer l'électricité partagée en Belgique »](/guides/facturer-electricite-partagee-belgique/), et la manière dont se fixe le prix des kWh partagés dans [« Prix de cession interne en communauté d'énergie »](/guides/prix-electricite-communaute-energie/).
 
 ## Ce qu'il faut retenir
 
@@ -188,7 +190,7 @@ Une facture d'électricité belge se lit dans cet ordre, et l'ordre compte :
 
 Une facture illisible n'est pas une fatalité réglementaire : depuis 2022, la loi impose une structure, et depuis juin 2026 elle impose progressivement davantage de transparence sur les prix. Ce qui reste à votre charge, c'est de savoir où regarder.
 
-Et si votre lecture vous conduit à vouloir agir sur la ligne « énergie » plutôt qu'à la subir, le partage d'énergie est l'une des rares options qui n'exige ni travaux, ni panneaux, ni changement de fournisseur : [« Rejoindre une communauté d'énergie en Wallonie »](/actualites/2026/05/11/rejoindre-communaute-energie-wallonie/) en détaille les étapes concrètes.
+Et si votre lecture vous conduit à vouloir agir sur la ligne « énergie » plutôt qu'à la subir, le partage d'énergie est l'une des rares options qui n'exige ni travaux, ni panneaux, ni changement de fournisseur : [« Rejoindre une communauté d'énergie en Wallonie »](/guides/rejoindre-communaute-energie-wallonie/) en détaille les étapes concrètes.
 
 > ### Gérez votre partage d'énergie avec OptimCE
 >

@@ -8,7 +8,8 @@ description: "News board, polls and participatory governance: how to keep member
 tags: [community, app]
 lang: en
 ref: engage-energy-community
-permalink: /en/news/2026/06/24/engage-energy-community-members/
+pillar: communautes-energie
+permalink: /en/guides/engage-energy-community-members/
 faq:
   - q: "What's the difference between a news post and a poll?"
     a: "A news post (or publication) is top-down information: the manager informs members — meetings, maintenance, sharing results, deadlines. A poll is participatory: it asks a question and collects members' votes to inform or make a collective decision."
@@ -74,7 +75,7 @@ There's no shortage of use cases:
 - **Setting the date** of an assembly or an event.
 - **Arbitrating an investment** (adding panels, a shared battery, an EV charger).
 - **Choosing a provider** or a management option.
-- **Evolving the allocation key.** This is probably the most structuring use: the key determines what share of local production goes to each member, and therefore each person's savings. Putting it to a vote, rather than imposing it, changes everything. To understand what's at stake in a key, see our article [“Allocation key in Belgium: the 3 regions”](/en/news/2026/05/19/allocation-key-belgium/).
+- **Evolving the allocation key.** This is probably the most structuring use: the key determines what share of local production goes to each member, and therefore each person's savings. Putting it to a vote, rather than imposing it, changes everything. To understand what's at stake in a key, see our article [“Allocation key in Belgium: the 3 regions”](/en/guides/allocation-key-belgium/).
 
 The closing date makes the process crystal clear: everyone knows by when to vote, and the decision is dated. One essential question remains, often overlooked: **who sees the results, and when?**
 
@@ -133,15 +134,15 @@ It isn't mandatory, but a news board and polls built into the management platfor
 
 Running a community starts with creating one — or with joining one and taking an active part in it.
 
-> **[Energy communities in Belgium: CER, CEC, CEL](/en/news/2026/05/11/energy-communities-belgium/)**
+> **[Energy communities in Belgium: CER, CEC, CEL](/en/guides/energy-communities-belgium/)**
 >
 > The reference guide to understanding community types, the players and the legal framework.
 
-> **[Creating an energy community in Wallonia: a step-by-step guide](/en/news/2026/05/11/create-energy-community-wallonia/)**
+> **[Creating an energy community in Wallonia: a step-by-step guide](/en/guides/create-energy-community-wallonia/)**
 >
 > From choosing the type of community to starting sharing with your grid operator.
 
-> **[Joining an energy community in Wallonia: a practical guide](/en/news/2026/05/11/join-energy-community-wallonia/)**
+> **[Joining an energy community in Wallonia: a practical guide](/en/guides/join-energy-community-wallonia/)**
 >
 > Who can join, where to find an open operation and the steps involved.
 

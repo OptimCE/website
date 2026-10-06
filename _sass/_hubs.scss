@@ -1,0 +1,367 @@
+// Page shells and hubs: plain pages, breadcrumb, pillar pages, the guide and
+// solution indexes, the news listing toolbar.
+
+// --- Page header (page, pillar, glossary term) ---
+.page__header {
+  padding-top: clamp(1.5rem, 1rem + 2vw, 3rem);
+  padding-bottom: var(--space-8);
+}
+
+.page__title {
+  max-width: 20em;
+  margin-bottom: var(--space-3);
+}
+
+.page__subtitle {
+  max-width: 36rem;
+  margin: 0;
+  font-size: var(--text-xl);
+  line-height: 1.45;
+  color: var(--color-text-muted);
+}
+
+.page__content {
+  padding-bottom: var(--space-section);
+
+  // Text keeps the reading measure; grids and tables may use the full width.
+  > .container > p,
+  > .container > ul,
+  > .container > ol,
+  > .container > h2,
+  > .container > h3 {
+    max-width: var(--measure);
+  }
+}
+
+// --- Breadcrumb (posts, hub pages, glossary terms) ---
+.breadcrumb {
+  margin-bottom: var(--space-5);
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+}
+
+.breadcrumb__list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-1) var(--space-2);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.breadcrumb__item {
+  max-width: 100%;
+
+  a {
+    color: var(--color-text-muted);
+
+    &:hover {
+      color: var(--color-primary);
+    }
+  }
+
+  // Long article titles stay on one line rather than repeating the H1 below.
+  &[aria-current="page"] {
+    max-width: 32ch;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: var(--color-text);
+  }
+}
+
+.breadcrumb__item + .breadcrumb__item::before {
+  content: "/";
+  margin-right: var(--space-2);
+  color: var(--color-border-strong);
+}
+
+// --- Pillar pages ---
+.pillar__intro {
+  padding-bottom: var(--space-6);
+}
+
+.pillar__section {
+  padding-bottom: var(--space-12);
+}
+
+.pillar__section-title {
+  margin-bottom: var(--space-5);
+}
+
+.pillar__neighbours {
+  padding-top: var(--space-4);
+  padding-bottom: var(--space-section);
+}
+
+// --- Hub pages: guides, solutions, news, glossary ---
+.hub {
+  padding-top: clamp(1.5rem, 1rem + 2vw, 3rem);
+  padding-bottom: var(--space-section);
+}
+
+// Stacked up to $bp-xl. From there the header repeats the columns of the grid
+// below it: the title takes the first column and the lead starts on the
+// second (second block of guides and solutions, second card of the news and
+// of the glossary).
+.hub__header {
+  max-width: 46rem;
+  margin-bottom: var(--space-10);
+
+  h1 {
+    margin-bottom: var(--space-3);
+  }
+
+  // Links in the introduction are part of the text: underlined.
+  p a {
+    text-decoration: underline;
+  }
+
+  @media (min-width: $bp-xl) {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    column-gap: var(--space-10); // .hub-blocks
+    align-items: baseline;
+    max-width: none;
+
+    .breadcrumb {
+      grid-column: 1 / -1;
+    }
+
+    h1 {
+      grid-column: 1;
+      margin-bottom: 0;
+    }
+
+    .hub__lead {
+      grid-column: 2 / -1;
+      max-width: var(--measure);
+    }
+  }
+}
+
+@media (min-width: $bp-xl) {
+  .news-index .hub__header {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    column-gap: var(--space-6); // .grid
+  }
+
+  .glossary-index .hub__header {
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 18rem), 1fr));
+    column-gap: var(--space-4); // .glossary-grid
+  }
+}
+
+.hub-blocks {
+  display: grid;
+  gap: var(--space-12) var(--space-10);
+
+  @media (min-width: $bp-md) {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+// A thick rule opens each topic: structure, not decoration.
+.hub-block {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-top: var(--space-5);
+  border-top: 2px solid var(--color-heading);
+}
+
+.hub-block__label {
+  margin-bottom: var(--space-2);
+  font-family: var(--font-heading);
+  font-size: var(--text-sm);
+  font-weight: var(--weight-semibold);
+  color: var(--color-tint-text);
+}
+
+.hub-block__title {
+  font-size: var(--text-2xl);
+  margin-bottom: var(--space-2);
+
+  a {
+    color: var(--color-heading);
+
+    &:hover {
+      color: var(--color-primary);
+    }
+  }
+}
+
+.hub-block__description {
+  color: var(--color-text-muted);
+  margin-bottom: var(--space-4);
+}
+
+.hub-block__list {
+  width: 100%;
+  margin-bottom: var(--space-5);
+  list-style: none;
+  border-top: 1px solid var(--color-border);
+
+  li {
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  a {
+    display: block;
+    padding: 0.5625rem 0;
+    color: var(--color-text);
+    line-height: 1.4;
+
+    &:hover {
+      color: var(--color-primary);
+      text-decoration: none;
+    }
+  }
+}
+
+.hub-block__more {
+  margin-top: auto;
+  font-family: var(--font-heading);
+  font-size: var(--text-sm);
+  font-weight: var(--weight-semibold);
+  text-decoration: underline;
+  text-decoration-color: var(--color-border-strong);
+
+  &:hover {
+    text-decoration-color: currentColor;
+  }
+}
+
+// --- Toolbars (news sort; the glossary reuses the pills and labels) ---
+.blog-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-end;
+  gap: var(--space-4);
+  margin-bottom: var(--space-6);
+  padding-bottom: var(--space-4);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.blog-toolbar__group {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-2) var(--space-3);
+}
+
+.blog-toolbar__label {
+  font-family: var(--font-heading);
+  font-size: var(--text-sm);
+  font-weight: var(--weight-semibold);
+  color: var(--color-text-muted);
+}
+
+.blog-toolbar__pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+}
+
+.blog-toolbar__pill {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2rem;
+  padding: 0.25rem 0.75rem;
+  font-family: var(--font-heading);
+  font-size: var(--text-sm);
+  font-weight: var(--weight-semibold);
+  color: var(--color-text);
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-full);
+  cursor: pointer;
+  transition: background-color var(--transition-fast), color var(--transition-fast), border-color var(--transition-fast);
+
+  &:hover {
+    border-color: var(--color-border-strong);
+  }
+
+  &--active {
+    color: var(--color-on-primary);
+    background-color: var(--color-primary);
+    border-color: var(--color-primary);
+
+    &:hover {
+      background-color: var(--color-primary-hover);
+      border-color: var(--color-primary-hover);
+    }
+  }
+}
+
+.blog-toolbar__sort {
+  min-height: 2.25rem;
+  padding: 0.25rem 2rem 0.25rem 0.75rem;
+  font-size: var(--text-sm);
+  color: var(--color-text);
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-border-strong);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+}
+
+.blog-toolbar__empty {
+  padding: var(--space-8) 0;
+  color: var(--color-text-muted);
+}
+
+// --- 404: one day of the grid, one quarter-hour missing ---
+.not-found {
+  display: flex;
+  align-items: center;
+  min-height: 60vh;
+  padding-top: var(--space-section);
+  padding-bottom: var(--space-section);
+}
+
+.not-found__day {
+  width: 100%;
+  max-width: 30rem;
+  height: auto;
+  margin-bottom: var(--space-8);
+}
+
+.not-found__code {
+  margin-bottom: var(--space-3);
+  font-family: var(--font-heading);
+  font-size: clamp(4rem, 3rem + 5vw, 7rem);
+  font-weight: var(--weight-extrabold);
+  line-height: 1;
+  letter-spacing: -0.04em;
+  color: var(--color-primary);
+}
+
+.not-found__message {
+  max-width: 34rem;
+  margin: var(--space-3) 0 var(--space-8);
+  font-size: var(--text-lg);
+  color: var(--color-text-muted);
+}
+
+// --- Author page: the author's articles ---
+// Scoped under .page__content to outrank the prose list rules.
+.page__content .author-articles {
+  list-style: none;
+  padding-left: 0;
+  border-top: 1px solid var(--color-border);
+
+  li {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: var(--space-1) var(--space-4);
+    margin: 0;
+    padding: var(--space-3) 0;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .text-muted {
+    font-size: var(--text-sm);
+  }
+}

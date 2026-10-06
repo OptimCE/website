@@ -41,7 +41,7 @@ That last point matters more than it might seem. An energy community is not a pu
 
 The starting observation is easy to state and painful to live with: **the administrative complexity of an energy community is out of all proportion to its size**.
 
-A community of thirty households has to manage the same objects as an energy supplier — supply points, quarter-hourly readings, allocation keys, invoicing, grid operator reporting — with neither the headcount nor the systems. And the applicable framework is not stable: in Belgium energy is a regional competence, so Wallonia, Brussels and Flanders impose three distinct frameworks, with their own regulators and their own families of keys. The European framework above them is described in our article [“Energy communities in Europe: RED II and IEMD”](/en/news/2026/03/05/energy-communities-europe/).
+A community of thirty households has to manage the same objects as an energy supplier — supply points, quarter-hourly readings, allocation keys, invoicing, grid operator reporting — with neither the headcount nor the systems. And the applicable framework is not stable: in Belgium energy is a regional competence, so Wallonia, Brussels and Flanders impose three distinct frameworks, with their own regulators and their own families of keys. The European framework above them is described in our article [“Energy communities in Europe: RED II and IEMD”](/en/guides/energy-communities-europe/).
 
 The available tools were either spreadsheets — flexible but unauditable and quickly unmanageable — or proprietary solutions designed for players of an entirely different size.
 
@@ -101,7 +101,7 @@ Everything happens in the OptimCE GitHub organisation. The monorepo aggregates t
 
 ## Going further
 
-> **[Energy communities in Belgium: CER, CEC, CEL](/en/news/2026/05/11/energy-communities-belgium/)**
+> **[Energy communities in Belgium: CER, CEC, CEL](/en/guides/energy-communities-belgium/)**
 >
 > The three Belgian statuses, energy sharing, and the role of the regulator and the grid operator.
 

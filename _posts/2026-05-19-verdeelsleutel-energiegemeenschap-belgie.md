@@ -8,13 +8,14 @@ description: "Sleuteltypes erkend door CWaPE, BRUGEL en VREG, de verschillen tus
 tags: [allocation-key, administrative]
 lang: nl
 ref: allocation-key-belgium
+pillar: cle-de-repartition
 last_modified_at: 2026-07-20 10:00:00 +0200
-permalink: /nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/
+permalink: /nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/
 ---
 
 De **verdeelsleutel** is het stille mechanisme dat een lokale elektriciteitsproductie omzet in een concreet voordeel voor elk lid van een energiegemeenschap. Kwartier per kwartier bepaalt hij *wie hoeveel* gedeelde energie ontvangt. En dat is precies waar België ingewikkeld wordt: Wallonië, Brussel en Vlaanderen hebben geen identieke lijst van standaardsleutels, gebruiken niet dezelfde terminologie en leggen niet dezelfde validatieregels op.
 
-Dit artikel overloopt de drie gewestelijke kaders — **CWaPE / ORES / RESA / AIEG** in Wallonië, **BRUGEL / Sibelga** in Brussel, **VREG / Fluvius** in Vlaanderen — om te vergelijken wat in elk gewest werkelijk toegelaten is en community managers te helpen een sleutel te kiezen die over tijd standhoudt. Bent u nieuw bij het concept van een energiegemeenschap, start dan bij ons artikel [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/) — het zet de begrippen vast die hier worden gebruikt.
+Dit artikel overloopt de drie gewestelijke kaders — **CWaPE / ORES / RESA / AIEG** in Wallonië, **BRUGEL / Sibelga** in Brussel, **VREG / Fluvius** in Vlaanderen — om te vergelijken wat in elk gewest werkelijk toegelaten is en community managers te helpen een sleutel te kiezen die over tijd standhoudt. Bent u nieuw bij het concept van een energiegemeenschap, start dan bij ons artikel [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/gidsen/energiegemeenschappen-belgie/) — het zet de begrippen vast die hier worden gebruikt.
 
 <img src="/assets/images/diagrams/allocation-key-flow-nl.svg"
      alt="Schema in vijf stappen: kwartierwaarden, generatie of simulatie, kandidaatsleutel, validatie door de leden, doorgifte aan de netbeheerder."
@@ -56,7 +57,7 @@ De gemeenschap kan een **alternatieve sleutel voorstellen**, maar dan moet die *
 
 Dat kan. De **vertegenwoordiger van de gemeenschap** dient de aanvraag in bij de DNB, de leden ondertekenen een **bijlage bij de deelovereenkomst**, en de wijziging gaat in op de met de netbeheerder afgesproken datum. De pagina [ORES — Energiedelen in de praktijk](https://www.ores.be/professionnel/en-pratique) beschrijft de operationele stappen aan netbeheerderskant.
 
-Voor de volledige procedure tot oprichting en de plaats van de sleutel in de melding aan CWaPE, zie onze gids [“Energiegemeenschap oprichten in Wallonië”](/nl/nieuws/2026/05/11/energiegemeenschap-oprichten-wallonie/).
+Voor de volledige procedure tot oprichting en de plaats van de sleutel in de melding aan CWaPE, zie onze gids [“Energiegemeenschap oprichten in Wallonië”](/nl/gidsen/energiegemeenschap-oprichten-wallonie/).
 
 ## Het Brusselse kader: vaste, prorata en hybride methode
 
@@ -126,7 +127,7 @@ Geen enkele sleutel is universeel “het beste”. De juiste keuze hangt af van 
 
 ### 2. Hoe divers zijn de verbruiksprofielen?
 
-Een woonwijk met vergelijkbare profielen (~3.500 kWh/jaar per gezin) werkt zeer goed met een **egalitaire vaste sleutel**. Maar zodra een grootverbruiker toetreedt — een school, een gemeente, een kmo — is strikte gelijkheid niet meer optimaal: het aandeel toegewezen aan de grootverbruiker wordt onderbenut, terwijl zijn buren hun overschot aan markttarief blijven betalen. In dat geval recupereert een **dynamische / prorata / optimale sleutel** wat anders verloren zou gaan.
+Een woonwijk met vergelijkbare profielen (~3 500 kWh/jaar per gezin) werkt zeer goed met een **egalitaire vaste sleutel**. Maar zodra een grootverbruiker toetreedt — een school, een gemeente, een kmo — is strikte gelijkheid niet meer optimaal: het aandeel toegewezen aan de grootverbruiker wordt onderbenut, terwijl zijn buren hun overschot aan markttarief blijven betalen. In dat geval recupereert een **dynamische / prorata / optimale sleutel** wat anders verloren zou gaan.
 
 ### 3. Welke financiële voorspelbaarheid verwachten de leden?
 
@@ -136,7 +137,7 @@ Een woonwijk met vergelijkbare profielen (~3.500 kWh/jaar per gezin) werkt zeer 
 
 De **drie gewesten staan de wijziging** van een sleutel na de opstart toe. In Wallonië nemen de bijlage bij de overeenkomst en de stap met de DNB enkele weken in beslag; in Brussel en Vlaanderen wordt de wijziging door het enige contactpunt gemeld aan de netbeheerder. Vermijd te rigide sleutels bij de start: voorzie meteen een jaarlijkse herziening op de algemene vergadering.
 
-De sleutel bepaalt **hoeveel kWh** elk lid krijgt; hij zegt niets over **hoeveel euro** die waard zijn. Die tweede beslissing — de prijs van de gedeelde energie — wordt apart genomen, in dezelfde overeenkomst: zie [“Interne overdrachtsprijs in energiegemeenschap”](/nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/).
+De sleutel bepaalt **hoeveel kWh** elk lid krijgt; hij zegt niets over **hoeveel euro** die waard zijn. Die tweede beslissing — de prijs van de gedeelde energie — wordt apart genomen, in dezelfde overeenkomst: zie [“Interne overdrachtsprijs in energiegemeenschap”](/nl/gidsen/prijs-elektriciteit-energiegemeenschap/).
 
 ### Vier typische praktijkgevallen
 
@@ -157,7 +158,7 @@ Dat is precies wat **OptimCE** aanbiedt in de kern van de applicatie. De **modul
 - De **volledige geschiedenis** van toegepaste sleutels te volgen — nuttig voor bijlages, herrekeningen bij betwisting en regulator­rapportering.
 - De **acceptatiestatus** van elk lid voor een nieuwe sleutel te traceren: wie heeft de bijlage ondertekend, wie heeft nog niet gevalideerd, wie heeft geweigerd.
 
-De **module voor automatische generatie** is nu beschikbaar: op basis van de **reële productie- en verbruiksdata** van de leden stelt hij geoptimaliseerde kandidaat-sleutels voor — via een **brute force** op de regionale standaardsleutels en via **LOGAAS**, een aanpak met genetische algoritmes ontwikkeld door **CeCoTePe** in het kader van het onderzoeksproject **Locomotrice**. Zie onze specifieke gids: [“Verdeelsleutel automatisch genereren”](/nl/nieuws/2026/05/26/automatische-verdeelsleutel-generatie/).
+De **module voor automatische generatie** is nu beschikbaar: op basis van de **reële productie- en verbruiksdata** van de leden stelt hij geoptimaliseerde kandidaat-sleutels voor — via een **brute force** op de regionale standaardsleutels en via **LOGAAS**, een aanpak met genetische algoritmes ontwikkeld door **CeCoTePe** in het kader van het onderzoeksproject **Locomotrice**. Zie onze specifieke gids: [“Verdeelsleutel automatisch genereren”](/nl/gidsen/automatische-verdeelsleutel-generatie/).
 
 > ### Beheer uw verdeelsleutels met OptimCE
 >
@@ -203,19 +204,19 @@ De keuze van een sleutel is geen technische kwestie: het is een politieke govern
 
 Lees meer in onze andere gidsen:
 
-> **[Verdeelsleutel automatisch genereren](/nl/nieuws/2026/05/26/automatische-verdeelsleutel-generatie/)**
+> **[Verdeelsleutel automatisch genereren](/nl/gidsen/automatische-verdeelsleutel-generatie/)**
 >
 > Het datagedreven vervolg — hoe brute force en LOGAAS de beste verdeelsleutel vinden op basis van de reële productie- en verbruiksdata van een gemeenschap.
 
-> **[Energiegemeenschappen in België: CER, CEC, CEL](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/)**
+> **[Energiegemeenschappen in België: CER, CEC, CEL](/nl/gidsen/energiegemeenschappen-belgie/)**
 >
 > Het volledige panorama van juridische vormen, Europese richtlijnen en operationele werking van energiedelen in België.
 
-> **[Energiegemeenschap oprichten in Wallonië](/nl/nieuws/2026/05/11/energiegemeenschap-oprichten-wallonie/)**
+> **[Energiegemeenschap oprichten in Wallonië](/nl/gidsen/energiegemeenschap-oprichten-wallonie/)**
 >
 > Keuze tussen CER en CEC, uitwerken van het project, melding bij CWaPE, ontvangstbevestiging en opstart van het delen met ORES, RESA of AIEG — inclusief de plaats van de verdeelsleutel in het dossier.
 
-> **[Toetreden tot een energiegemeenschap in Wallonië](/nl/nieuws/2026/05/11/energiegemeenschap-aansluiten-wallonie/)**
+> **[Toetreden tot een energiegemeenschap in Wallonië](/nl/gidsen/energiegemeenschap-aansluiten-wallonie/)**
 >
 > Waar een open deelactie vinden, toetredings­procedure en aandachtspunten vóór ondertekening van de deelovereenkomst.
 

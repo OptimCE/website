@@ -8,7 +8,8 @@ description: "Simulate a key on your own data and measure self-consumption, surp
 tags: [allocation-key, app, news]
 lang: en
 ref: optimce-allocation-key-simulation
-permalink: /en/news/2026/06/09/simulate-allocation-key-optimce/
+pillar: cle-de-repartition
+permalink: /en/guides/simulate-allocation-key-optimce/
 faq:
   - q: "What does it mean to simulate an allocation key?"
     a: "It means replaying real production and consumption data through a chosen allocation key, without applying it in production, to measure its indicators in advance: collective self-consumption, surplus, self-sufficiency rate and sharing rate. It is a 'what-if' test before you decide."
@@ -28,7 +29,7 @@ Choosing an **allocation key** means deciding, quarter-hour by quarter-hour, who
 
 The idea is simple: you import a dataset, you choose a key, and the simulation replays each time step through that key to return **self-consumption**, **surplus**, the **self-sufficiency rate** and the **sharing rate** — globally, per time step and per iteration. You test a scenario without applying it, risk-free, and you decide on figures rather than on gut feel.
 
-If allocation keys are a new concept for you, start with our reference article [“Allocation key in Belgium: the 3 regions”](/en/news/2026/05/19/allocation-key-belgium/) — it sets out the vocabulary used here.
+If allocation keys are a new concept for you, start with our reference article [“Allocation key in Belgium: the 3 regions”](/en/guides/allocation-key-belgium/) — it sets out the vocabulary used here.
 
 ## Why simulate an allocation key?
 
@@ -36,7 +37,7 @@ An allocation key is not neutral: depending on the community's consumption and p
 
 The problem is that **arbitrating on gut feel is risky**. Solar production curves and consumption profiles cross in non-trivial ways at the 15-minute step; by eye, it is impossible to predict whether key A will beat key B over a full year. And the stakes are concrete: every point of self-consumption gained is surplus no longer injected at a low price, so more value kept inside the community.
 
-Simulating is precisely about **taking that decision out of gut-feel territory**. You measure the real effect of a key on the indicators that matter — self-consumption, surplus, self-sufficiency, sharing rate — before committing to anything. To understand why these indicators are central to a community's value, see our article [“Energy self-consumption in Belgium”](/en/news/2026/06/05/energy-self-consumption-belgium/).
+Simulating is precisely about **taking that decision out of gut-feel territory**. You measure the real effect of a key on the indicators that matter — self-consumption, surplus, self-sufficiency, sharing rate — before committing to anything. To understand why these indicators are central to a community's value, see our article [“Energy self-consumption in Belgium”](/en/guides/energy-self-consumption-belgium/).
 
 ## What the simulation lets you do
 
@@ -94,7 +95,7 @@ The simulation is useful at every stage of an energy community's life.
 - **Before launch.** You compare several candidate keys on historical or estimated data and choose the one that best serves the project's goals, with full knowledge.
 - **During design.** You explicitly arbitrate between **fairness** (a readable, predictable key for members) and **overall performance** (a key that maximises collective self-consumption), with figures to back it up.
 - **During day-to-day operation.** You measure the effect of a **new dataset** or a **change in profiles** (one member installs a heat pump, another a charging point) on the indicators — without breaking anything in the ongoing operation.
-- **When updating the key.** When a **member joins or leaves** the community, you simulate the recalculated key before submitting it, to check it stays performant. Our article on the [allocation key in Belgium](/en/news/2026/05/19/allocation-key-belgium/) details the procedure for changing a key after start-up, and the [guide to creating a community in Wallonia](/en/news/2026/05/11/create-energy-community-wallonia/) places that step within the regulator file.
+- **When updating the key.** When a **member joins or leaves** the community, you simulate the recalculated key before submitting it, to check it stays performant. Our article on the [allocation key in Belgium](/en/guides/allocation-key-belgium/) details the procedure for changing a key after start-up, and the [guide to creating a community in Wallonia](/en/guides/create-energy-community-wallonia/) places that step within the regulator file.
 
 ## The value for communities
 
@@ -104,7 +105,7 @@ For a community manager, a facilitator or a project developer, simulation change
 - **Pedagogy.** By seeing *why* one key works better than another on real data, members understand and adopt the choice more easily. The simulation turns an abstract technical discussion into a concrete demonstration.
 - **A solid argument.** Before a general assembly, a grid operator or a regulator, defending a key with figures — drawn from the community's own data — carries far more weight than a recommendation in principle.
 
-It is also a lever for valuing local production, and therefore for [reducing members' electricity bills](/en/news/2026/06/03/energy-community-reduce-electricity-bill/): every point of surplus avoided is value kept inside the community.
+It is also a lever for valuing local production, and therefore for [reducing members' electricity bills](/en/guides/energy-community-reduce-electricity-bill/): every point of surplus avoided is value kept inside the community.
 
 ## Simulation and automatic generation: two complementary tools
 
@@ -119,13 +120,13 @@ These are two complementary uses, not competing ones:
 | Output | The KPIs of the tested key | One (or more) optimised candidate key(s) |
 | Typical use | Compare scenarios, understand, justify | Find a good starting point |
 
-In practice, you generate to find a solid candidate, then simulate to understand its behaviour, compare variants and defend it. For the algorithm details, see [“Automatic allocation key generation”](/en/news/2026/05/26/automatic-allocation-key-generation/).
+In practice, you generate to find a solid candidate, then simulate to understand its behaviour, compare variants and defend it. For the algorithm details, see [“Automatic allocation key generation”](/en/guides/automatic-allocation-key-generation/).
 
 ## Energy communities in Belgium, in brief
 
 An **energy community** brings together producers and consumers who locally share renewable production. Sharing is administrative: smart meters are read at a **15-minute** step, and the **distribution system operator (DSO)** applies the chosen allocation key to assign each member a share of the injected energy. Belgium recognises several forms — REC, CEC and, in Brussels, LEC — overseen by regional regulators ([Brugel](https://energysharing.brugel.brussels) in Brussels, with [Sibelga](https://www.sibelga.be/en/connections-meters/renewable-energy/energy-sharing) as grid operator).
 
-In this landscape, the allocation key is the central parameter of a community's performance — and the simulation meets a real need: **to structure and understand energy sharing** before committing to it. For the full picture of legal forms, see [“Energy communities in Belgium: CER, CEC, CEL”](/en/news/2026/05/11/energy-communities-belgium/).
+In this landscape, the allocation key is the central parameter of a community's performance — and the simulation meets a real need: **to structure and understand energy sharing** before committing to it. For the full picture of legal forms, see [“Energy communities in Belgium: CER, CEC, CEL”](/en/guides/energy-communities-belgium/).
 
 ## Conclusion
 

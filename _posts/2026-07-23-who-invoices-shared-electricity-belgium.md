@@ -8,7 +8,8 @@ description: "Two invoices coexist in energy sharing. Who issues what, which VAT
 tags: [community, administrative, guide]
 lang: en
 ref: invoice-shared-electricity
-permalink: /en/news/2026/07/23/who-invoices-shared-electricity-belgium/
+pillar: prix-facturation-communaute
+permalink: /en/guides/who-invoices-shared-electricity-belgium/
 last_modified_at: 2026-08-27 06:00:00 +0200
 faq:
   - q: "Who must issue the invoice for shared energy?"
@@ -27,7 +28,7 @@ faq:
 
 An energy community shares kWh — but it also produces invoices. And that is where the confusion begins: every quarter, a sharing participant receives not one but **two invoices**. One from their usual supplier, one from the community. No one has explained which covers what, nor why network fees always appear on the first even though they are consuming "local" electricity.
 
-This article sorts out the roles. Who has the right — and the obligation — to issue the invoice for shared energy? What must it contain? Which VAT applies, and how do excise duties and green certificates fit in? If instead you are after *what price* to set per kWh, our guide [“Internal transfer price in an energy community”](/en/news/2026/07/20/energy-community-electricity-price/) answers that in detail; and if the allocation key is still unfamiliar, start with our reference article [“Allocation key in Belgium: the 3 regions”](/en/news/2026/05/19/allocation-key-belgium/). Here, a single question: **who invoices what?**
+This article sorts out the roles. Who has the right — and the obligation — to issue the invoice for shared energy? What must it contain? Which VAT applies, and how do excise duties and green certificates fit in? If instead you are after *what price* to set per kWh, our guide [“Internal transfer price in an energy community”](/en/guides/energy-community-electricity-price/) answers that in detail; and if the allocation key is still unfamiliar, start with our reference article [“Allocation key in Belgium: the 3 regions”](/en/guides/allocation-key-belgium/). Here, a single question: **who invoices what?**
 
 <img src="/assets/images/diagrams/two-invoices-en.svg"
      alt="Two cards side by side: the supplier invoice and the sharing representative's invoice, with what each one contains."
@@ -46,7 +47,7 @@ Two invoices therefore coexist, and they do not cover the same thing:
 | **Network** | network fees on the **entire** volume of kWh drawn, sharing included | — |
 | **Taxes & excise** | regional taxes and surcharges on the residual energy | VAT, excise duties and the PSO to surrender green-certificate quotas, on the shared energy |
 
-The least intuitive line is the network one: **network fees remain due on the shared kWh**, and it is your supplier who bills them, because shared electricity still transits the public grid. Sharing changes *who sells you the energy*, not *where it flows*. That is also why the real saving is always read across both documents together, never on the sharing invoice alone — a mechanism detailed in our article on [reducing the electricity bill through sharing](/en/news/2026/06/03/energy-community-reduce-electricity-bill/).
+The least intuitive line is the network one: **network fees remain due on the shared kWh**, and it is your supplier who bills them, because shared electricity still transits the public grid. Sharing changes *who sells you the energy*, not *where it flows*. That is also why the real saving is always read across both documents together, never on the sharing invoice alone — a mechanism detailed in our article on [reducing the electricity bill through sharing](/en/guides/energy-community-reduce-electricity-bill/).
 
 ## The sharing representative, issuer of the sharing invoice
 
@@ -54,11 +55,11 @@ In energy sharing, one actor — and only one — carries responsibility for inv
 
 The point that surprises project leaders most: **the grid operator does not invoice.** It computes the sharing quarter-hour by quarter-hour, applies the chosen allocation key, then forwards the volumes to the various actors "to enable invoicing". The invoice itself is then drawn up "on the basis of the consumption data received from the grid operator, taking the chosen allocation key into account" ([CWaPE](https://www.cwape.be/node/6059)). In other words: the grid supplies the figures, the representative turns them into documents.
 
-This division of roles has a direct consequence: **it is the representative who carries the obligations** — issuing compliant invoices, applying the right VAT, keeping accounts. In a co-ownership or a building, that role most often falls to the **building manager (syndic)**, who effectively becomes the issuer of the sharing invoices for all occupants. We already noted, in our [guide to creating an energy community in Wallonia](/en/news/2026/05/11/create-energy-community-wallonia/), that it is in the operational phase that this burden becomes real.
+This division of roles has a direct consequence: **it is the representative who carries the obligations** — issuing compliant invoices, applying the right VAT, keeping accounts. In a co-ownership or a building, that role most often falls to the **building manager (syndic)**, who effectively becomes the issuer of the sharing invoices for all occupants. We already noted, in our [guide to creating an energy community in Wallonia](/en/guides/create-energy-community-wallonia/), that it is in the operational phase that this burden becomes real.
 
 ## What the sharing invoice contains
 
-The representative's invoice is narrower than a classic supplier's: it covers only the **shared energy**, valued at the community's internal price — not your entire consumption. Which amount to set per kWh is the whole point of our guide [on the internal transfer price](/en/news/2026/07/20/energy-community-electricity-price/), which maps out the defensible range and five calculation methods.
+The representative's invoice is narrower than a classic supplier's: it covers only the **shared energy**, valued at the community's internal price — not your entire consumption. Which amount to set per kWh is the whole point of our guide [on the internal transfer price](/en/guides/energy-community-electricity-price/), which maps out the defensible range and five calculation methods.
 
 To that energy price are added, on the same invoice, "VAT, excise duties and the public-service obligation to surrender green-certificate quotas" ([CWaPE](https://www.cwape.be/node/6063)). What does **not** appear on it, on the other hand, are the network fees: they stay on the supplier's invoice, computed on the total kWh drawn. A well-made sharing invoice actually states this explicitly — it covers the shared energy, excluding network fees.
 
@@ -105,7 +106,7 @@ Three specific points:
 - **The syndic can bill its management.** The administrative work — participant entries and exits, invoice issuing, follow-up — can be handled and billed by the syndic, or outsourced. Nothing requires it to be free.
 - **The schedule can follow the accounting year.** It is possible to align the sharing invoicing with the co-ownership's accounting rhythm, rather than opening a parallel cycle.
 
-What this section does not cover is the question that precedes it: **who owns the installation, and by what majority the general meeting decided it.** The assets of the association of co-owners are bounded by article 3.86, § 3, of the Civil Code, and the majority threshold depends on the structure chosen — two thirds or four fifths. The full path is set out in [“Energy sharing in a condominium: the guide”](/en/news/2026/08/27/energy-sharing-condominium-guide/).
+What this section does not cover is the question that precedes it: **who owns the installation, and by what majority the general meeting decided it.** The assets of the association of co-owners are bounded by article 3.86, § 3, of the Civil Code, and the majority threshold depends on the structure chosen — two thirds or four fifths. The full path is set out in [“Energy sharing in a condominium: the guide”](/en/solutions/condominiums/).
 
 Finally, one item never to forget in the reckoning: **your supplier may bill fees for your participation in sharing.** The CWaPE confirms nothing prohibits it ([CWaPE](https://www.cwape.be/node/6060)), and the amounts recorded reach around €150 per year and per supply point. On small shared volumes, these fees can wipe out the gain: they belong in the simulation, not on the invoice as a surprise.
 
@@ -135,7 +136,7 @@ Invoicing an energy-sharing scheme is not a legal mystery: it is a clear divisio
 
 The rest is a matter of execution: settle the VAT regime with an accountant, write a clean agreement, and issue compliant documents every quarter — by hand while it is bearable, with a tool as soon as it is not.
 
-On the household side, the bill you keep receiving from your supplier also reads line by line: we take it apart in [“Read your Belgian electricity bill line by line”](/en/news/2026/07/30/read-electricity-bill-belgium/).
+On the household side, the bill you keep receiving from your supplier also reads line by line: we take it apart in [“Read your Belgian electricity bill line by line”](/en/guides/read-electricity-bill-belgium/).
 
 > ### Invoice your energy community with OptimCE
 >

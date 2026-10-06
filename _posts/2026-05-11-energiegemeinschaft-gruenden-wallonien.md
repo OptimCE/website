@@ -8,11 +8,12 @@ description: "CER- oder CEC-Modell, Rechtsform, Meldung bei der CWaPE und Start 
 tags: [community, administrative, guide]
 lang: de
 ref: create-energy-community-wallonia
+pillar: communautes-energie
 last_modified_at: 2026-09-03 06:00:00 +0200
-permalink: /de/aktuelles/2026/05/11/energiegemeinschaft-gruenden-wallonien/
+permalink: /de/ratgeber/energiegemeinschaft-gruenden-wallonien/
 ---
 
-Die Wallonie ist derzeit die belgische Region, in der sich Energiegemeinschaften am schnellsten entwickeln. Der gesetzliche Rahmen ist seit 2022 stabil, die Regulierungsbehörde CWaPE stellt ein Standard-Meldeformular zur Verfügung, und die Verteilnetzbetreiber (VNB) sind technisch vorbereitet: Alle Voraussetzungen sind erfüllt, damit eine Bürgergruppe, eine Gemeinde, eine Schule oder ein Gewerbepark eigene Energieteilung in Gang setzen kann. Dieser Leitfaden beschreibt **das vollständige Verfahren** Schritt für Schritt: vom Typ der Gemeinschaft bis zur Inbetriebnahme mit Ihrem Netzbetreiber. Sind Sie mit dem Begriff selbst noch nicht vertraut, beginnen Sie mit unserem Artikel [„Energiegemeinschaften in Belgien: CER, CEC, CEL“](/de/aktuelles/2026/05/11/energiegemeinschaften-belgien/) — er legt das hier verwendete Vokabular fest.
+Die Wallonie ist derzeit die belgische Region, in der sich Energiegemeinschaften am schnellsten entwickeln. Der gesetzliche Rahmen ist seit 2022 stabil, die Regulierungsbehörde CWaPE stellt ein Standard-Meldeformular zur Verfügung, und die Verteilnetzbetreiber (VNB) sind technisch vorbereitet: Alle Voraussetzungen sind erfüllt, damit eine Bürgergruppe, eine Gemeinde, eine Schule oder ein Gewerbepark eigene Energieteilung in Gang setzen kann. Dieser Leitfaden beschreibt **das vollständige Verfahren** Schritt für Schritt: vom Typ der Gemeinschaft bis zur Inbetriebnahme mit Ihrem Netzbetreiber. Sind Sie mit dem Begriff selbst noch nicht vertraut, beginnen Sie mit unserem Artikel [„Energiegemeinschaften in Belgien: CER, CEC, CEL“](/de/ratgeber/energiegemeinschaften-belgien/) — er legt das hier verwendete Vokabular fest.
 
 Der Leitfaden richtet sich an zwei typische Profile: ein **Kollektiv, das bei null beginnt** (Bürger, Stadtteil-VoG, Gemeinde), und einen **bereits ausgestatteten Erzeuger** (Dach-PV, Kraft-Wärme-Kopplung), der seinen Überschuss an Nachbarn oder nahegelegene Unternehmen weitergeben möchte. Das Verfahren ist dasselbe; was sich unterscheidet, ist die vorgelagerte Strukturierungsarbeit.
 
@@ -58,7 +59,7 @@ Dies ist der längste Schritt, aber auch derjenige, der die Belastbarkeit der Ge
 1. **Wer erzeugt?** Identifizieren Sie die Erzeuger (bestehende Dach-PV, neues Projekt, KWK…) und ihren Lieferpunkt (EAN).
 2. **Wer verbraucht?** Listen Sie die zukünftigen verbrauchenden Mitglieder, ihren geschätzten Jahresverbrauch und ihre EANs auf.
 3. **Wo?** Kartieren Sie die Standorte, um das Nähe-Kriterium (CER) zu prüfen oder zu bestätigen, dass es nicht erforderlich ist (CEC).
-4. **Wie wird die Energie verteilt?** Skizzieren Sie den Aufteilungsschlüssel (statisch: feste Prozentsätze; dynamisch: proportional zum Echtzeitverbrauch). Für einen detaillierten Überblick über die von der CWaPE akzeptierten Schlüssel und ihre Brüsseler und flämischen Entsprechungen siehe unseren Artikel [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/).
+4. **Wie wird die Energie verteilt?** Skizzieren Sie den Aufteilungsschlüssel (statisch: feste Prozentsätze; dynamisch: proportional zum Echtzeitverbrauch). Für einen detaillierten Überblick über die von der CWaPE akzeptierten Schlüssel und ihre Brüsseler und flämischen Entsprechungen siehe unseren Artikel [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/ratgeber/verteilungsschluessel-energiegemeinschaft-belgien/).
 
 ### Eine Rechtsform wählen
 
@@ -206,13 +207,13 @@ Ja bei einer **CEC** (keine geografische Begrenzung). Bei einer **CER** muss das
 
 ### Können eine Schule, eine Gemeinde oder ein Gewerbepark teilnehmen?
 
-Ja. **Gebietskörperschaften** (Gemeinden, Interkommunalen, ÖSHZ — und **alle Schulen, unabhängig von ihrem Netz**) und **KMU** sind ausdrücklich berechtigt, einer CER oder CEC beizutreten. Bei öffentlichen Gebäuden kann die Gemeinde gleichzeitig Erzeuger (Dach-PV der Schule) und Verbraucher über ihre anderen Gebäude sein. Der eigene Weg einer lokalen Behörde — Perimeter, Rechtsform, öffentlicher Auftrag und die Falle des Sozialtarifs — wird in [„Energiegemeinschaft: Leitfaden für Gemeinden“](/de/aktuelles/2026/08/30/energiegemeinschaft-gemeinde-leitfaden/) ausführlich behandelt. Der Schulstatus ist hingegen weiter, als man annimmt, und hängt nicht vom Schulträger ab: darum geht es in [„Schulen: der Leitfaden zum Energieteilen“](/de/aktuelles/2026/09/03/energiegemeinschaft-schule-leitfaden/).
+Ja. **Gebietskörperschaften** (Gemeinden, Interkommunalen, ÖSHZ — und **alle Schulen, unabhängig von ihrem Netz**) und **KMU** sind ausdrücklich berechtigt, einer CER oder CEC beizutreten. Bei öffentlichen Gebäuden kann die Gemeinde gleichzeitig Erzeuger (Dach-PV der Schule) und Verbraucher über ihre anderen Gebäude sein. Der eigene Weg einer lokalen Behörde — Perimeter, Rechtsform, öffentlicher Auftrag und die Falle des Sozialtarifs — wird in [„Energiegemeinschaft: Leitfaden für Gemeinden“](/de/loesungen/gemeinden/) ausführlich behandelt. Der Schulstatus ist hingegen weiter, als man annimmt, und hängt nicht vom Schulträger ab: darum geht es in [„Schulen: der Leitfaden zum Energieteilen“](/de/loesungen/schulen/).
 
 ## Möchten Sie lieber einer bestehenden Gemeinschaft beitreten?
 
 Falls eine Gemeinschaft von Grund auf zu gründen Ihnen zu aufwändig erscheint, ist der **Beitritt zu einer bestehenden Operation** deutlich schneller — typischerweise 6 bis 12 Wochen zwischen Erstkontakt und erster geteilter Kilowattstunde. Sehen Sie unseren praktischen Leitfaden:
 
-> **[Energiegemeinschaft in der Wallonie beitreten](/de/aktuelles/2026/05/11/energiegemeinschaft-beitreten-wallonien/)**
+> **[Energiegemeinschaft in der Wallonie beitreten](/de/ratgeber/energiegemeinschaft-beitreten-wallonien/)**
 >
 > Wer beitreten kann, wo eine offene Operation finden (OptimCE-Register, SPW-Facilitator, Énergie commune), Beitrittsschritte und Punkte zur Beachtung vor der Unterzeichnung.
 

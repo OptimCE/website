@@ -8,8 +8,9 @@ description: "The self-consumption rate and how to raise it, collective self-con
 tags: [community]
 lang: en
 ref: self-consumption-belgium
+pillar: communautes-energie
 last_modified_at: 2026-09-16 06:00:00 +0200
-permalink: /en/news/2026/06/05/energy-self-consumption-belgium/
+permalink: /en/guides/energy-self-consumption-belgium/
 faq:
   - q: "What is the self-consumption rate?"
     a: "It's the share of your solar production that you consume yourself instead of injecting onto the grid. A 30% rate means you directly consume 30% of what your panels produce; the rest is injected. The higher the rate, the more value you get from your production."
@@ -35,13 +36,13 @@ Self-consumption means **consuming the electricity you produce** — typically v
 
 **Collective self-consumption.** When one (or several) installation supplies **several participants** — the residents of a building, neighbours, businesses on the same site — it's called collective self-consumption. Sharing is **administrative, not physical**: electrons still flow over the public grid, but the distribution system operator (DSO) reallocates a share of local production to each participant **every 15 minutes**, according to an **allocation key**. In Belgium, this collective self-consumption is organised within an **energy community** or a sharing operation (see below).
 
-That fifteen-minute granularity has a practical consequence the definition does not hint at: a group is assembled by timetable, not by affinity. It is developed in [“Local electricity: the short-circuit guide”](/en/news/2026/08/25/local-electricity-short-circuit-guide/).
+That fifteen-minute granularity has a practical consequence the definition does not hint at: a group is assembled by timetable, not by affinity. It is developed in [“Local electricity: the short-circuit guide”](/en/guides/local-electricity-short-circuit-guide/).
 
-> For the full legal framework (CER, CEC, CEL) and how sharing works in detail, see our reference guide [“Energy communities in Belgium: CER, CEC, CEL”](/en/news/2026/05/11/energy-communities-belgium/).
+> For the full legal framework (CER, CEC, CEL) and how sharing works in detail, see our reference guide [“Energy communities in Belgium: CER, CEC, CEL”](/en/guides/energy-communities-belgium/).
 
 ## Why is self-consumption worthwhile?
 
-- **Cutting your bill.** Every self-consumed kWh is a kWh you don't buy from your supplier. Because the purchase price is far higher than the injection value of the surplus, self-consumption is the most direct way to make an installation pay off. For the worked figures on the bill side, see [“Reduce your electricity bill: energy communities”](/en/news/2026/06/03/energy-community-reduce-electricity-bill/). And to understand why that bill stays high even as energy prices fall, our breakdown [“Why your electricity bill stays high in Belgium”](/en/news/2026/07/25/why-electricity-bill-still-high-belgium/) quantifies all four blocks — energy, network, taxes and supplier margin.
+- **Cutting your bill.** Every self-consumed kWh is a kWh you don't buy from your supplier. Because the purchase price is far higher than the injection value of the surplus, self-consumption is the most direct way to make an installation pay off. For the worked figures on the bill side, see [“Reduce your electricity bill: energy communities”](/en/guides/energy-community-reduce-electricity-bill/). And to understand why that bill stays high even as energy prices fall, our breakdown [“Why your electricity bill stays high in Belgium”](/en/guides/why-electricity-bill-still-high-belgium/) quantifies all four blocks — energy, network, taxes and supplier margin.
 - **Putting local production to use instead of wasting it.** At peak production hours, the local grid experiences **overvoltage** that forces some PV systems to shut down. Consuming that energy locally avoids the waste.
 - **Stabilising your energy cost.** Self-consumption and local sharing make part of your supply independent from market shocks, and therefore more predictable.
 - **Relieving the grid.** Consuming production as close as possible to where it's injected reduces line losses and pressure on the transmission grid.
@@ -55,11 +56,11 @@ A panel only produces during the day, yet much of a household's consumption happ
 3. **Charge the EV during the day.** A steered charger that runs at production hours captures a large part of the surplus.
 4. **Install a heat pump.** Electrified heating and hot water raise steerable daytime consumption.
 5. **Add a home battery.** It stores the day's surplus to release it in the evening, which can lift the self-consumption rate substantially (at the cost of an investment).
-6. **Share the surplus via an energy community.** Once your own measures are maxed out, the remaining surplus is no longer injected at a low price: it's **shared with other members** who consume it locally. This is the logical extension from individual to collective self-consumption. What that changes for the payback of a Walloon installation is quantified in [“Solar panels 2026: still worth it in Wallonia?”](/en/news/2026/08/11/solar-panels-worth-it-wallonia-2026/).
+6. **Share the surplus via an energy community.** Once your own measures are maxed out, the remaining surplus is no longer injected at a low price: it's **shared with other members** who consume it locally. This is the logical extension from individual to collective self-consumption. What that changes for the payback of a Walloon installation is quantified in [“Solar panels 2026: still worth it in Wallonia?”](/en/guides/solar-panels-worth-it-wallonia/).
 
-These six levers are not equivalent: the hot-water tank, the electric car and the battery absorb neither the same volumes nor at the same cost. The costed comparison of the five possible destinations of a surplus is set out in [“Solar surplus: the 5 options compared”](/en/news/2026/08/18/what-to-do-solar-surplus-belgium/).
+These six levers are not equivalent: the hot-water tank, the electric car and the battery absorb neither the same volumes nor at the same cost. The costed comparison of the five possible destinations of a surplus is set out in [“Solar surplus: the 5 options compared”](/en/guides/what-to-do-solar-surplus-belgium/).
 
-These moves assume somebody is there. For a household away during the day the hierarchy changes: the available Belgian field measurement gives three self-consumption points to shifted appliances and thirteen to a controlled hot-water tank. The detail is in [“Solar panels: nobody home during the day”](/en/news/2026/09/12/solar-panels-away-during-the-day/).
+These moves assume somebody is there. For a household away during the day the hierarchy changes: the available Belgian field measurement gives three self-consumption points to shifted appliances and thirteen to a controlled hot-water tank. The detail is in [“Solar panels: nobody home during the day”](/en/guides/solar-panels-away-during-the-day/).
 
 ## Self-consumption and energy communities: the links
 
@@ -69,7 +70,7 @@ Collective self-consumption isn't done "by hand" between neighbours: it relies o
 - The **sharing operation** is the operational unit that delivers collective self-consumption: within a building, across a neighbourhood, or between sites.
 - The **DSO** reads the smart meters every **15 minutes**, applies the **allocation key** chosen by the community, then passes the shared quantity to suppliers to adjust billing.
 
-The choice of allocation key determines what share of production each member receives in each quarter-hour, and therefore the real impact of collective self-consumption on each bill. We detail the keys accepted in each region in [“Allocation key in Belgium: the 3 regions”](/en/news/2026/05/19/allocation-key-belgium/).
+The choice of allocation key determines what share of production each member receives in each quarter-hour, and therefore the real impact of collective self-consumption on each bill. We detail the keys accepted in each region in [“Allocation key in Belgium: the 3 regions”](/en/guides/allocation-key-belgium/).
 
 ## Wallonia, Brussels, Flanders: what changes
 
@@ -95,9 +96,9 @@ The principle of self-consumption is identical everywhere, but the actors and th
 - **Co-ownerships and apartment buildings**, an ideal configuration for an in-building sharing operation.
 - **SMEs and local authorities**, whose roof space and daytime consumption profiles suit self-consumption particularly well. [Beci](https://www.beci.be/blog/esg-34/les-communautes-denergie-pour-lautoconsommation-collective-2086) highlights the economic case for Brussels businesses.
 
-The apartment-building configuration deserves its own guide: it combines the most favourable tariff perimeter in the country with three locks of condominium law that energy law never mentions. They are reviewed in [“Energy sharing in a condominium: the guide”](/en/news/2026/08/27/energy-sharing-condominium-guide/).
+The apartment-building configuration deserves its own guide: it combines the most favourable tariff perimeter in the country with three locks of condominium law that energy law never mentions. They are reviewed in [“Energy sharing in a condominium: the guide”](/en/solutions/condominiums/).
 
-Tenants have since gained a second option: since 17 April 2025, a portable photovoltaic kit plugged into a socket has been legal in Belgium. The two routes — receiving shared energy, or generating your own without owning a roof — are compared in [“Renting: the no-roof guide to solar”](/en/news/2026/09/16/tenant-solar-without-roof-guide/).
+Tenants have since gained a second option: since 17 April 2025, a portable photovoltaic kit plugged into a socket has been legal in Belgium. The two routes — receiving shared energy, or generating your own without owning a roof — are compared in [“Renting: the no-roof guide to solar”](/en/guides/tenant-solar-without-roof-guide/).
 
 ## Practical conditions to know
 
@@ -107,7 +108,7 @@ Tenants have since gained a second option: since 17 April 2025, a portable photo
 - **You keep your supplier**: they bill only the residual energy not covered by your production or by sharing.
 - **In Brussels in particular**, producers can earn extra income via **green certificates** during the first years of their installation.
 
-On the Walloon side, the prosumer tariff, compensation secured until 2030 and the arbitrage opened up by the Impact tariff change the maths of an installation or a battery: we cost them out in [“Reduce your electricity bill: Wallonia 2026”](/en/news/2026/07/28/reduce-electricity-bill-wallonia-2026/).
+On the Walloon side, the prosumer tariff, compensation secured until 2030 and the arbitrage opened up by the Impact tariff change the maths of an installation or a battery: we cost them out in [“Reduce your electricity bill: Wallonia 2026”](/en/guides/reduce-electricity-bill-wallonia/).
 
 ## FAQ
 
@@ -139,11 +140,11 @@ The framework exists in all three regions but with different terms: Wallonia (CW
 
 The simplest way to move from individual self-consumption to sharing is to **join an existing operation** — or create one.
 
-> **[Join an energy community in Wallonia](/en/news/2026/05/11/join-energy-community-wallonia/)**
+> **[Join an energy community in Wallonia](/en/guides/join-energy-community-wallonia/)**
 >
 > Who can join, where to find an open operation, and the step-by-step process.
 
-> **[Create an energy community in Wallonia](/en/news/2026/05/11/create-energy-community-wallonia/)**
+> **[Create an energy community in Wallonia](/en/guides/create-energy-community-wallonia/)**
 >
 > From choosing the community type to launching sharing with your DSO.
 

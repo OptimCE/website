@@ -8,8 +8,9 @@ description: "Energy is only 40% of the bill. A breakdown of the four blocks, th
 tags: [community, administrative, guide]
 lang: en
 ref: why-electricity-bill-stays-high
+pillar: facture-electricite
 last_modified_at: 2026-08-05 10:00:00 +0200
-permalink: /en/news/2026/07/25/why-electricity-bill-still-high-belgium/
+permalink: /en/guides/why-electricity-bill-still-high-belgium/
 faq:
   - q: "Why is my electricity bill not falling even though energy prices have dropped?"
     a: "Because the energy price accounts for only around 40 % of your bill. The CREG states it explicitly: the energy component represents about 40 % of the total electricity bill. The remaining 60 % consists of regulated network costs, taxes, excise duties and VAT. A 20 % drop in energy therefore removes only about 8 % from the bill — and if network tariffs rise by 6 to 8 % in the same year, as they do in 2026 in Wallonia and Brussels, the gain is absorbed."
@@ -58,7 +59,7 @@ Three immediate consequences, and they explain most of the frustration:
 
 - **A drop in energy is damped by a factor of two and a half.** If the commodity price falls 20 %, your bill falls only about 8 %. On 1,293 €, that is around a hundred euros — visible, but a long way from what the headlines suggest.
 - **VAT amplifies increases in the other blocks.** At 6 %, it applies on top of energy, network and most surcharges. Any rise in the network tariff is therefore marked up by 6 % on the way through. Two notable exceptions: the Walloon connection fee and the Flemish energy fund contribution are exempt (CREG).
-- **The weight of the network changes sharply with location.** In Wallonia it climbs to 32.7 % of the bill, against 24.6 % in Brussels (CREG, June 2026, detailed in our guide [“Internal transfer price in an energy community”](/en/news/2026/07/20/energy-community-electricity-price/)). The same action does not produce the same effect from one region to the next.
+- **The weight of the network changes sharply with location.** In Wallonia it climbs to 32.7 % of the bill, against 24.6 % in Brussels (CREG, June 2026, detailed in our guide [“Internal transfer price in an energy community”](/en/guides/energy-community-electricity-price/)). The same action does not produce the same effect from one region to the next.
 
 ## Network costs rise as your kWh fall
 
@@ -157,7 +158,7 @@ Which brings us to the question that interests readers of this blog. If energy i
 
 And one item almost no simulation anticipates: **your supplier may charge fees for your participation in the sharing scheme.** Nothing prohibits it, and reported amounts run up to around 150 € per year per supply point. On small shared volumes, those fees wipe out the gain — it was the reason Test-Achats stopped recommending sharing in Wallonia and Flanders (assessment dated May 2024, to be re-checked before any decision).
 
-So what does sharing actually buy? A **lower and, above all, more stable** price on part of the energy block, without changing supplier or installing panels. The saving mechanisms, with figures, are set out in [“Reduce your electricity bill: energy communities”](/en/news/2026/06/03/energy-community-reduce-electricity-bill/); how to set the internal price, in [“Internal transfer price in an energy community”](/en/news/2026/07/20/energy-community-electricity-price/); and the choice between individual self-consumption, collective self-consumption and an energy community, in [“Energy self-consumption in Belgium”](/en/news/2026/06/05/energy-self-consumption-belgium/). If you are still at the stage of volumes rather than euros, our reference article [“Allocation key in Belgium: the 3 regions”](/en/news/2026/05/19/allocation-key-belgium/) explains how the share of local production allotted to you is decided.
+So what does sharing actually buy? A **lower and, above all, more stable** price on part of the energy block, without changing supplier or installing panels. The saving mechanisms, with figures, are set out in [“Reduce your electricity bill: energy communities”](/en/guides/energy-community-reduce-electricity-bill/); how to set the internal price, in [“Internal transfer price in an energy community”](/en/guides/energy-community-electricity-price/); and the choice between individual self-consumption, collective self-consumption and an energy community, in [“Energy self-consumption in Belgium”](/en/guides/energy-self-consumption-belgium/). If you are still at the stage of volumes rather than euros, our reference article [“Allocation key in Belgium: the 3 regions”](/en/guides/allocation-key-belgium/) explains how the share of local production allotted to you is decided.
 
 ## What to take away
 
@@ -172,9 +173,9 @@ In decreasing order of effectiveness, here is what you have leverage over:
 
 What not to expect: that the fall in wholesale prices, or in excise duties, will read clearly off your annual statement. It is in there — diluted in a total of which it is only a fraction.
 
-And if what you want now is the list of actions rather than the explanation, our guide [“Reduce your electricity bill: Wallonia 2026”](/en/news/2026/07/28/reduce-electricity-bill-wallonia-2026/) costs out ten Walloon levers from the ORES 2026 tariff schedule — six of which cost nothing.
+And if what you want now is the list of actions rather than the explanation, our guide [“Reduce your electricity bill: Wallonia 2026”](/en/guides/reduce-electricity-bill-wallonia/) costs out ten Walloon levers from the ORES 2026 tariff schedule — six of which cost nothing.
 
-And if your question is now about the document itself — what each line means, where to read the EAN code, why an estimated meter reading manufactures an increase that is not real — our guide [“Read your Belgian electricity bill line by line”](/en/news/2026/07/30/read-electricity-bill-belgium/) decodes the bill item by item. And if you want to know whether energy sharing is even available where you live, [“Cheaper electricity without switching supplier”](/en/news/2026/08/05/cheaper-electricity-without-switching-supplier/) runs the three-region test.
+And if your question is now about the document itself — what each line means, where to read the EAN code, why an estimated meter reading manufactures an increase that is not real — our guide [“Read your Belgian electricity bill line by line”](/en/guides/read-electricity-bill-belgium/) decodes the bill item by item. And if you want to know whether energy sharing is even available where you live, [“Cheaper electricity without switching supplier”](/en/guides/cheaper-electricity-without-switching-supplier/) runs the three-region test.
 
 > ### Manage your energy sharing with OptimCE
 >

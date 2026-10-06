@@ -8,6 +8,8 @@ description: "Les quatre degrés du circuit court énergétique en Wallonie, ce 
 tags: [guide, community]
 lang: fr
 ref: local-electricity-short-circuit
+pillar: facture-electricite
+permalink: /guides/electricite-circuit-court-mode-emploi/
 last_modified_at: 2026-09-10 06:00:00 +0200
 faq:
   - q: "Puis-je acheter l'électricité de mon voisin d'en face en Wallonie ?"
@@ -30,7 +32,7 @@ En août 2026, la CWaPE recense **13 communautés d'énergie** notifiées sur le
 
 Même région, mêmes gens, même mot d'ordre : consommer local, court, connu. Un succès massif d'un côté, un démarrage quasi nul de l'autre. L'explication tentante serait culturelle — l'alimentaire parlerait davantage, l'énergie serait trop abstraite. Elle est fausse. **La différence est mécanique, et elle tient en une phrase : un panier de légumes attend au frigo, un kilowattheure non consommé disparaît en quinze minutes.** Tout le reste en découle, y compris la façon dont il faut s'y prendre pour en monter un.
 
-Cet article ne refait pas le test de disponibilité région par région ni le calcul de ce que rapporte un kilowattheure partagé, menés dans [« Baisser sa facture sans changer de fournisseur »](/actualites/2026/08/05/electricite-moins-chere-sans-changer-de-fournisseur/). Il ne réexamine pas la valorisation du surplus côté producteur, comparée appareil par appareil dans [« Surplus solaire : les 5 options comparées »](/actualites/2026/08/18/que-faire-surplus-solaire-belgique/) et chiffrée dans [« Panneaux solaires 2026 : rentables en Wallonie ? »](/actualites/2026/08/11/panneaux-solaires-rentables-wallonie-2026/). Il ne redéfinit pas l'autoconsommation collective, posée dans [« Autoconsommation collective en Belgique »](/actualites/2026/06/05/autoconsommation-energie-belgique/), ni la frontière entre CER, CEC et CEL, tracée dans [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/actualites/2026/05/11/communautes-energie-belgique/), ni la méthode de fixation du prix, développée dans [« Prix de cession interne en communauté d'énergie »](/actualites/2026/07/20/prix-electricite-communaute-energie/). Il prolonge enfin l'argument ouvert dans [« Électricité verte en Belgique : vraiment verte ? »](/actualites/2026/08/22/electricite-verte-belgique-vraiment-verte/), qui établissait que le partage est le seul circuit court vérifiable en droit belge — sans dire comment on en compose un.
+Cet article ne refait pas le test de disponibilité région par région ni le calcul de ce que rapporte un kilowattheure partagé, menés dans [« Baisser sa facture sans changer de fournisseur »](/guides/electricite-moins-chere-sans-changer-de-fournisseur/). Il ne réexamine pas la valorisation du surplus côté producteur, comparée appareil par appareil dans [« Surplus solaire : les 5 options comparées »](/guides/que-faire-surplus-solaire-belgique/) et chiffrée dans [« Panneaux solaires 2026 : rentables en Wallonie ? »](/guides/panneaux-solaires-rentables-wallonie/). Il ne redéfinit pas l'autoconsommation collective, posée dans [« Autoconsommation collective en Belgique »](/guides/autoconsommation-energie-belgique/), ni la frontière entre CER, CEC et CEL, tracée dans [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/guides/communautes-energie-belgique/), ni la méthode de fixation du prix, développée dans [« Prix de cession interne en communauté d'énergie »](/guides/prix-electricite-communaute-energie/). Il prolonge enfin l'argument ouvert dans [« Électricité verte en Belgique : vraiment verte ? »](/guides/electricite-verte-belgique-vraiment-verte/), qui établissait que le partage est le seul circuit court vérifiable en droit belge — sans dire comment on en compose un.
 
 Il répond à une question que ces articles ne posent pas : **avec qui, exactement, un circuit court énergétique fonctionne-t-il — et pourquoi ce n'est pas une question de convictions.**
 
@@ -59,7 +61,7 @@ La conséquence est brutale et il vaut mieux la poser d'emblée : **le circuit c
 
 La CWaPE ne laisse aucune ambiguïté sur ce point : « l'électricité transitant par le réseau, tous les frais de réseau (transport et distribution), ainsi que les taxes et surcharges y relatives, sont dus sur l'électricité partagée ».
 
-Autrement dit, le circuit court énergétique agit sur **une seule composante de votre facture** : l'énergie elle-même. Le transport, la distribution, les taxes, les surcharges et la TVA restent intégralement dus. La décomposition détaillée de ces blocs figure dans [« Facture d'électricité : pourquoi elle reste élevée »](/actualites/2026/07/25/pourquoi-facture-electricite-reste-elevee-belgique/) ; ce qu'il faut en retenir ici, c'est que la part sur laquelle un circuit court peut mordre est **minoritaire**.
+Autrement dit, le circuit court énergétique agit sur **une seule composante de votre facture** : l'énergie elle-même. Le transport, la distribution, les taxes, les surcharges et la TVA restent intégralement dus. La décomposition détaillée de ces blocs figure dans [« Facture d'électricité : pourquoi elle reste élevée »](/guides/pourquoi-facture-electricite-reste-elevee-belgique/) ; ce qu'il faut en retenir ici, c'est que la part sur laquelle un circuit court peut mordre est **minoritaire**.
 
 Il existe une exception, une seule, et elle est étroite :
 
@@ -88,7 +90,7 @@ C'est la forme pure : un producteur, un consommateur, un prix convenu entre eux.
 
 Côté électrique, c'est exactement ce que la plupart des gens imaginent quand on leur parle de consommer l'électricité de leur quartier : j'achète le surplus du voisin qui a des panneaux. Deux compteurs, un accord, rien d'autre.
 
-Et c'est précisément la forme qui **n'existe pas en Wallonie**. Le décret du 5 mai 2022 la prévoit ; l'arrêté d'exécution qui la rendrait opérationnelle n'a jamais été pris. ORES l'écrit noir sur blanc : « Il n'est pas encore possible actuellement de partager son énergie en pair à pair », et « le cadre législatif pour le partage d'énergie en pair à pair n'est pas encore finalisé ». Le détail de ce blocage et de son coût est traité dans [« Baisser sa facture sans changer de fournisseur »](/actualites/2026/08/05/electricite-moins-chere-sans-changer-de-fournisseur/).
+Et c'est précisément la forme qui **n'existe pas en Wallonie**. Le décret du 5 mai 2022 la prévoit ; l'arrêté d'exécution qui la rendrait opérationnelle n'a jamais été pris. ORES l'écrit noir sur blanc : « Il n'est pas encore possible actuellement de partager son énergie en pair à pair », et « le cadre législatif pour le partage d'énergie en pair à pair n'est pas encore finalisé ». Le détail de ce blocage et de son coût est traité dans [« Baisser sa facture sans changer de fournisseur »](/guides/electricite-moins-chere-sans-changer-de-fournisseur/).
 
 Retenons-en simplement l'ironie : **le degré le plus simple du circuit court alimentaire est le seul degré interdit du circuit court énergétique.**
 
@@ -106,7 +108,7 @@ Le groupement d'achat commun est l'institution wallonne du circuit court par exc
 
 La communauté d'énergie en est la transposition presque littérale, avec une différence de poids : **elle exige une personne morale et une autorisation**. Là où un GAC se crée autour d'une table, une communauté d'énergie renouvelable ou citoyenne doit être constituée, notifiée à la CWaPE — qui dispose de dix jours ouvrables pour vérifier la complétude du dossier — puis autorisée à exercer une activité de partage, après **avis technique du ou des gestionnaires de réseau concernés**.
 
-Les démarches complètes sont détaillées dans [« Créer une communauté d'énergie en Wallonie »](/actualites/2026/05/11/creer-communaute-energie-wallonie/) et, du côté du candidat participant, dans [« Rejoindre une communauté d'énergie en Wallonie »](/actualites/2026/05/11/rejoindre-communaute-energie-wallonie/).
+Les démarches complètes sont détaillées dans [« Créer une communauté d'énergie en Wallonie »](/guides/creer-communaute-energie-wallonie/) et, du côté du candidat participant, dans [« Rejoindre une communauté d'énergie en Wallonie »](/guides/rejoindre-communaute-energie-wallonie/).
 
 Le décompte, lui, est vite fait. Au 25 août 2026, la liste publique de la CWaPE comptait **13 communautés** au dossier complet, réparties d'Aubange à Rixensart, de Gesves à Tournai. La plus ancienne, Soleil d'Aubange, a été notifiée en mai 2024. Une cartographie de juin 2026 dénombrait **8 opérations de partage effectivement actives**, portées par 5 communautés seulement, les autres n'ayant pas encore démarré.
 
@@ -130,7 +132,7 @@ Les trois premiers degrés et le quatrième ne sont pas des variantes d'une mêm
 | **Ce qui est court** | L'attribution du kilowattheure | La chaîne de valeur et la propriété |
 | **Ce que vous devenez** | Participant | Coopérateur, donc copropriétaire |
 
-Le partage ne remplace pas votre contrat : ORES est formel, « chaque participant garde son contrat auprès de son fournisseur respectif ». Vous recevrez deux factures — celle du fournisseur pour l'énergie résiduelle et les frais de réseau, celle du représentant du partage pour les volumes reçus. Le mécanisme de cette double facturation est détaillé dans [« Facturer l'électricité partagée en Belgique »](/actualites/2026/07/23/facturer-electricite-partagee-belgique/).
+Le partage ne remplace pas votre contrat : ORES est formel, « chaque participant garde son contrat auprès de son fournisseur respectif ». Vous recevrez deux factures — celle du fournisseur pour l'énergie résiduelle et les frais de réseau, celle du représentant du partage pour les volumes reçus. Le mécanisme de cette double facturation est détaillé dans [« Facturer l'électricité partagée en Belgique »](/guides/facturer-electricite-partagee-belgique/).
 
 Bonne nouvelle : les deux logiques se cumulent. Rien n'empêche d'être coopérateur, client de Cociter, **et** participant à une communauté d'énergie.
 
@@ -150,7 +152,7 @@ Dans un GAC, si vous ne pouvez pas venir le mardi, votre voisine prend votre cag
 
 Il n'y a **aucun équivalent** dans le partage d'énergie. Ce qui n'est pas consommé par un participant entre 12 h 00 et 12 h 15 n'est pas reporté sur le créneau suivant, ni mis de côté, ni crédité. Ce volume sort simplement du partage : il redevient de l'injection ordinaire, que le producteur revend à son fournisseur au tarif d'injection. ORES le formule sans détour : « l'énergie qui n'est pas consommée au sein de la communauté de partage d'énergie (surplus d'injection) est revendue par les producteurs auprès de leur fournisseur ».
 
-L'écart de valeur entre ces deux destins est considérable — il est chiffré dans [« Surplus solaire : les 5 options comparées »](/actualites/2026/08/18/que-faire-surplus-solaire-belgique/). Ce qui compte ici est plus simple : **chaque quart d'heure est un marché qui ouvre et se ferme, et rien ne survit à sa fermeture.**
+L'écart de valeur entre ces deux destins est considérable — il est chiffré dans [« Surplus solaire : les 5 options comparées »](/guides/que-faire-surplus-solaire-belgique/). Ce qui compte ici est plus simple : **chaque quart d'heure est un marché qui ouvre et se ferme, et rien ne survit à sa fermeture.**
 
 Une nuance mérite d'être posée, car elle est souvent mal comprise : les batteries ne suppriment pas cette contrainte, elles la déplacent. Un stockage installé chez le producteur ou dans le bâtiment permet de décaler le moment de l'injection, donc de reporter le partage sur un créneau plus favorable. Mais la règle du quart d'heure, elle, ne bouge pas : l'énergie stockée devra malgré tout être injectée et consommée dans le même créneau pour être partagée. Le frigo existe, il coûte cher, et il n'est pas dans le dispositif — il est en amont.
 
@@ -174,7 +176,7 @@ Voici, concrètement, comment se construit un périmètre qui tient.
 
 Le producteur est rarement le point dur. Une toiture disponible se trouve : école communale, hall omnisports, maison de repos, PME de zoning, bâtiment agricole, copropriété récente, atelier communal. Ces bâtiments ont de la surface, un propriétaire identifiable et, souvent, un intérêt budgétaire direct.
 
-Le cas d'école wallon le montre bien : la première communauté d'énergie renouvelable reconnue en Wallonie, Soleil d'Aubange, s'est construite autour d'installations portées par la commune, avec l'appui d'un groupe d'action locale et d'une ASBL spécialisée. Ce que ce montage demande précisément à une commune — et pourquoi le périmètre légal d'une CER wallonne épouse déjà la limite communale — est développé dans [« Communauté d'énergie : le guide des communes »](/actualites/2026/08/30/communaute-energie-communale-guide/).
+Le cas d'école wallon le montre bien : la première communauté d'énergie renouvelable reconnue en Wallonie, Soleil d'Aubange, s'est construite autour d'installations portées par la commune, avec l'appui d'un groupe d'action locale et d'une ASBL spécialisée. Ce que ce montage demande précisément à une commune — et pourquoi le périmètre légal d'une CER wallonne épouse déjà la limite communale — est développé dans [« Communauté d'énergie : le guide des communes »](/solutions/communes/).
 
 L'erreur classique consiste à s'arrêter là — à dimensionner l'installation sur le potentiel de la toiture plutôt que sur la capacité d'absorption diurne du groupe. Une toiture surdimensionnée face à un groupe qui dort la journée ne produit pas un circuit court : elle produit de l'injection.
 
@@ -195,9 +197,9 @@ C'est la liste que les brochures ne donnent jamais. Classée par capacité à co
 
 La lecture utile de ce tableau n'est pas « il faut les premiers et pas les derniers ». Un projet a besoin de ménages de navetteurs : ils sont l'assise sociale, ils votent en assemblée générale, ils portent le projet. Mais **si le groupe n'est composé que d'eux, il n'y a pas de circuit court, il y a une association.**
 
-Une ligne de ce tableau mérite un article à elle seule. L'école est le seul profil dont le creux est saisonnier plutôt qu'horaire — sept semaines de fermeture au pic de production —, et c'est aussi le seul participant que le droit wallon range d'office parmi les autorités locales, quel que soit son réseau : [« Écoles : le guide du partage d'énergie »](/actualites/2026/09/03/partage-energie-ecole-guide/).
+Une ligne de ce tableau mérite un article à elle seule. L'école est le seul profil dont le creux est saisonnier plutôt qu'horaire — sept semaines de fermeture au pic de production —, et c'est aussi le seul participant que le droit wallon range d'office parmi les autorités locales, quel que soit son réseau : [« Écoles : le guide du partage d'énergie »](/solutions/ecoles/).
 
-Ce tableau recense des consommateurs. En zone rurale, c'est la question du producteur qui manque : le plus grand toit disponible n'appartient ni à la commune ni à l'école, mais à un agriculteur — et l'aide régionale qui financerait ses panneaux s'arrête exactement là où le partage commence. C'est l'objet de [« Hangar agricole : le guide du partage d'énergie »](/actualites/2026/09/10/partage-energie-agriculteur-hangar-solaire/).
+Ce tableau recense des consommateurs. En zone rurale, c'est la question du producteur qui manque : le plus grand toit disponible n'appartient ni à la commune ni à l'école, mais à un agriculteur — et l'aide régionale qui financerait ses panneaux s'arrête exactement là où le partage commence. C'est l'objet de [« Hangar agricole : le guide du partage d'énergie »](/solutions/agriculteurs/).
 
 ### Ce que la réforme tarifaire de 2026 change en votre faveur
 
@@ -205,7 +207,7 @@ Un élément de contexte joue désormais dans le bon sens, et il est récent. De
 
 Le créneau solaire de milieu de journée, qui était auparavant en heures pleines en semaine, est donc passé en heures creuses. Comme les frais de réseau restent dus sur l'électricité partagée, les partager à midi coûte désormais moins cher en tarif de distribution qu'en 2025. Les heures creuses représentent aujourd'hui 15 heures par jour, contre 9 heures de pointe.
 
-Ce n'est pas une révolution, et cela ne change rien à la règle du quart d'heure. Mais c'est un alignement rare entre la logique tarifaire et la logique du circuit court, et il mérite d'être signalé aux participants hésitants. Le détail des autres leviers wallons figure dans [« Réduire sa facture d'électricité : Wallonie 2026 »](/actualites/2026/07/28/reduire-facture-electricite-wallonie-2026/).
+Ce n'est pas une révolution, et cela ne change rien à la règle du quart d'heure. Mais c'est un alignement rare entre la logique tarifaire et la logique du circuit court, et il mérite d'être signalé aux participants hésitants. Le détail des autres leviers wallons figure dans [« Réduire sa facture d'électricité : Wallonie 2026 »](/guides/reduire-facture-electricite-wallonie/).
 
 ### La clé de répartition : comment on partage le panier quand il n'y en a pas pour tout le monde
 
@@ -213,7 +215,7 @@ Dernier parallèle, et le plus fidèle. Dans un GAC, quand la récolte est court
 
 En partage d'énergie, cette règle s'appelle la **clé de répartition**. Le gestionnaire de réseau applique, quart d'heure par quart d'heure, la clé que les participants ont choisie à l'avance, et la CWaPE a défini une série de clés standard. Elle peut être modifiée par la suite, via le représentant du partage.
 
-C'est la décision la plus structurante d'un projet, parce qu'elle détermine qui profite réellement de la production. Le comparatif des types de clés reconnus par les trois régulateurs belges figure dans [« Clé de répartition en Belgique : les 3 régions »](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/), et la façon de tester une clé sur ses propres données avant de la valider dans [« Simuler une clé de répartition : scénarios »](/actualites/2026/06/09/simuler-cle-repartition-optimce/).
+C'est la décision la plus structurante d'un projet, parce qu'elle détermine qui profite réellement de la production. Le comparatif des types de clés reconnus par les trois régulateurs belges figure dans [« Clé de répartition en Belgique : les 3 régions »](/guides/cle-repartition-communaute-energie-belgique/), et la façon de tester une clé sur ses propres données avant de la valider dans [« Simuler une clé de répartition : scénarios »](/guides/simuler-cle-repartition-optimce/).
 
 Un conseil de méthode : **simulez avant de recruter.** Une clé testée sur des courbes de charge réelles dit immédiatement si le groupe pressenti absorbe la production ou non — et donc s'il faut aller chercher une école avant d'aller chercher dix ménages.
 
@@ -225,7 +227,7 @@ Quiconque a tenu un groupement d'achat sait que le concept est simple et que l'e
 
 Dans un GAC, il y a toujours une personne qui centralise les commandes, relance les retardataires et ouvre le local le mardi soir. Sans elle, le groupe s'éteint en six mois.
 
-Le partage d'énergie a son équivalent formel : le **représentant du partage**. C'est lui qui signe la convention avec le gestionnaire de réseau, qui porte la clé de répartition, qui facture les volumes reçus aux participants et qui suit les paiements. Ce n'est pas un rôle honorifique : c'est un travail administratif récurrent, le plus souvent bénévole. Les outils d'animation et de gouvernance qui allègent cette charge sont décrits dans [« Animer une communauté d'énergie au quotidien »](/actualites/2026/06/24/animer-communaute-energie/).
+Le partage d'énergie a son équivalent formel : le **représentant du partage**. C'est lui qui signe la convention avec le gestionnaire de réseau, qui porte la clé de répartition, qui facture les volumes reçus aux participants et qui suit les paiements. Ce n'est pas un rôle honorifique : c'est un travail administratif récurrent, le plus souvent bénévole. Les outils d'animation et de gouvernance qui allègent cette charge sont décrits dans [« Animer une communauté d'énergie au quotidien »](/guides/animer-communaute-energie/).
 
 ### Les frais du fournisseur peuvent manger le gain
 
@@ -233,7 +235,7 @@ C'est le point le plus important de cette section, et le moins souvent affiché.
 
 Plusieurs fournisseurs facturent des frais administratifs aux clients qui participent à une opération de partage. ENGIE, par exemple, indique facturer **121 € TVAC (100 € HTVA) pour tout contrat participant à une forme de partage d'énergie se trouvant en Wallonie ou en Flandre** — sans proratisation : le montant est dû en entier, que vous partagiez six mois ou douze.
 
-Rapporté au gain attendu d'un participant résidentiel modeste — de l'ordre de la centaine d'euros par an pour quelques centaines de kilowattheures partagés, comme le détaille [« Baisser sa facture sans changer de fournisseur »](/actualites/2026/08/05/electricite-moins-chere-sans-changer-de-fournisseur/) — ce montant n'est pas un frottement : c'est potentiellement **l'intégralité du bénéfice**.
+Rapporté au gain attendu d'un participant résidentiel modeste — de l'ordre de la centaine d'euros par an pour quelques centaines de kilowattheures partagés, comme le détaille [« Baisser sa facture sans changer de fournisseur »](/guides/electricite-moins-chere-sans-changer-de-fournisseur/) — ce montant n'est pas un frottement : c'est potentiellement **l'intégralité du bénéfice**.
 
 Test-Achats en avait tiré une conclusion sévère dès septembre 2024, écrivant qu'au vu de ces frais, « nous ne recommandons plus pour le moment le partage d'énergie en Flandre et en Wallonie ». Et la revue Renouvelle relevait en octobre 2025 que la CREG n'a pas de prise sur ces surtarifs, parce qu'ils relèvent de la part libéralisée de la facture — le régulateur fédéral ne peut donc en contrôler ni la proportionnalité ni l'abus.
 
@@ -243,13 +245,13 @@ La conséquence pratique est simple, et elle doit figurer dans la première réu
 
 Sans compteur communicant ou compteur double flux télérelevé au quart d'heure, il n'y a pas de partage possible. ORES est catégorique : « chaque participant devra être équipé d'un compteur double flux télérelevé quart-horaire ou d'un compteur communicant ».
 
-Corollaire pour les producteurs wallons : le partage est **incompatible avec la compensation annuelle**, ce mécanisme qui fait tourner le compteur à l'envers. L'un raisonne à l'année, l'autre au quart d'heure ; les deux ne peuvent pas coexister sur le même point de fourniture. L'arbitrage chiffré est posé dans [« Panneaux solaires 2026 : rentables en Wallonie ? »](/actualites/2026/08/11/panneaux-solaires-rentables-wallonie-2026/), et il n'est pas toujours favorable au partage.
+Corollaire pour les producteurs wallons : le partage est **incompatible avec la compensation annuelle**, ce mécanisme qui fait tourner le compteur à l'envers. L'un raisonne à l'année, l'autre au quart d'heure ; les deux ne peuvent pas coexister sur le même point de fourniture. L'arbitrage chiffré est posé dans [« Panneaux solaires 2026 : rentables en Wallonie ? »](/guides/panneaux-solaires-rentables-wallonie/), et il n'est pas toujours favorable au partage.
 
 ### Le calendrier ne s'arrête pas au démarrage
 
 Une communauté d'énergie n'est pas une formalité qu'on remplit une fois. Elle doit transmettre chaque année, **pour le 1<sup>er</sup> septembre**, un formulaire d'actualisation et de rapportage à la CWaPE. Depuis le **25 juin 2026**, cette notification comme le rapportage annuel s'effectuent en ligne via les formulaires de Mon Espace. Un dossier resté incomplet six mois devient caduc.
 
-L'inventaire complet de ces obligations figure dans [« Communauté d'énergie : documents et délais CWaPE »](/actualites/2026/08/12/documents-administratifs-communaute-energie-wallonie/).
+L'inventaire complet de ces obligations figure dans [« Communauté d'énergie : documents et délais CWaPE »](/guides/documents-administratifs-communaute-energie-wallonie/).
 
 ## Pourquoi la Wallonie a réussi l'un et pas l'autre
 

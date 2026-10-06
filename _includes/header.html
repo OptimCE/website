@@ -6,34 +6,44 @@
 <header class="site-header" role="banner">
   <div class="container site-header__inner">
     <a href="{{ lang_prefix | append: '/' | relative_url }}" class="site-header__logo" aria-label="OptimCE - {{ t.nav.home }}">
-      <img src="{{ '/assets/images/logo.svg' | relative_url }}" alt="OptimCE" width="45" height="40">
+      <img src="{{ '/assets/images/logo.svg' | relative_url }}" alt="" width="36" height="32">
+      <span class="site-header__wordmark">OptimCE</span>
     </a>
 
+    {%- comment -%}
+      The desktop bar leaves out Home: the logo is the way home, and the room
+      goes to the GitHub link and the theme switch. The mobile menu and the
+      footer keep the full list.
+    {%- endcomment %}
     <nav class="site-nav" aria-label="{{ t.a11y.nav_main }}">
       <ul class="site-nav__list">
-        <li><a href="{{ lang_prefix | append: '/' | relative_url }}" {% if page.url == '/' or page.url == lang_prefix | append: '/' %}aria-current="page"{% endif %}>{{ t.nav.home }}</a></li>
-        <li><a href="{{ lang_prefix | append: '/' | relative_url }}{{ current_lang.features_anchor }}">{{ t.nav.features }}</a></li>
-        <li><a href="{{ current_lang.blog_path | relative_url }}" {% if page.url contains '/actualites' or page.url contains '/news' or page.url contains '/aktuelles' or page.url contains '/nieuws' %}aria-current="page"{% endif %}>{{ t.nav.blog }}</a></li>
-        <li><a href="{{ current_lang.glossary_path | relative_url }}" {% if page.url contains '/glossaire' or page.url contains '/glossary' or page.url contains '/glossar' or page.url contains '/woordenlijst' %}aria-current="page"{% endif %}>{{ t.nav.glossary }}</a></li>
-        <li><a href="{{ current_lang.about_path | relative_url }}" {% if page.url contains '/a-propos' or page.url contains '/about' %}aria-current="page"{% endif %}>{{ t.nav.about }}</a></li>
-        <li><a href="https://guide.optimce.be" target="_blank" rel="noopener">{{ t.nav.guide }}</a></li>
+        {% include nav-links.html current=true home=false %}
       </ul>
     </nav>
 
+    <div class="site-header__tools">
+      <a class="icon-button site-header__github" href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener" aria-label="{{ t.a11y.github }}" title="{{ t.a11y.github }}">
+        {% include icon.html name="github" %}
+      </a>
+      {% include theme-toggle.html %}
+    </div>
+
+    {%- comment -%}
+      The two audience entries (households join a community; project holders
+      manage or create one). Short labels keep the menu and two buttons on one
+      line; the accessible name carries the full label.
+    {%- endcomment %}
     <div class="site-header__actions">
       {% include language-switcher.html id="desktop" %}
-      <a href="https://app.optimce.be" class="btn btn-outline btn--sm">{{ t.nav.get_started }}</a>
-      <a href="https://github.com/{{ site.github_username }}" class="btn btn-primary btn--sm" target="_blank" rel="noopener">
-        <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
-        {{ t.nav.github }}
-      </a>
+      <a href="{{ site.cta.join_url }}" class="btn btn-outline btn--sm" aria-label="{{ t.nav.join }}">{{ t.nav.join_short }}</a>
+      <a href="{{ site.cta.app_url }}" class="btn btn-primary btn--sm" aria-label="{{ t.nav.manage }}">{{ t.nav.manage_short }}</a>
     </div>
 
     {%- comment -%}
       main.js has no front matter, so it cannot read `t`. The two labels ride in
       on data-* attributes, matching the pattern already used by the newsletter
       form, and main.js swaps aria-label on toggle.
-    {%- endcomment -%}
+    {%- endcomment %}
     <button class="hamburger" aria-expanded="false" aria-controls="mobile-menu"
             aria-label="{{ t.a11y.menu_open }}"
             data-label-open="{{ t.a11y.menu_open }}"
@@ -47,18 +57,17 @@
   <div id="mobile-menu" class="mobile-menu" aria-hidden="true">
     <nav aria-label="{{ t.a11y.nav_mobile }}">
       <ul class="mobile-menu__list">
-        <li><a href="{{ lang_prefix | append: '/' | relative_url }}" {% if page.url == '/' or page.url == lang_prefix | append: '/' %}aria-current="page"{% endif %}>{{ t.nav.home }}</a></li>
-        <li><a href="{{ lang_prefix | append: '/' | relative_url }}{{ current_lang.features_anchor }}">{{ t.nav.features }}</a></li>
-        <li><a href="{{ current_lang.blog_path | relative_url }}" {% if page.url contains '/actualites' or page.url contains '/news' or page.url contains '/aktuelles' or page.url contains '/nieuws' %}aria-current="page"{% endif %}>{{ t.nav.blog }}</a></li>
-        <li><a href="{{ current_lang.glossary_path | relative_url }}" {% if page.url contains '/glossaire' or page.url contains '/glossary' or page.url contains '/glossar' or page.url contains '/woordenlijst' %}aria-current="page"{% endif %}>{{ t.nav.glossary }}</a></li>
-        <li><a href="{{ current_lang.about_path | relative_url }}" {% if page.url contains '/a-propos' or page.url contains '/about' %}aria-current="page"{% endif %}>{{ t.nav.about }}</a></li>
-        <li><a href="https://guide.optimce.be" target="_blank" rel="noopener">{{ t.nav.guide }}</a></li>
+        {% include nav-links.html current=true %}
       </ul>
       <div class="mobile-menu__actions">
+        <a href="{{ site.cta.join_url }}" class="btn btn-outline btn--lg">{{ t.nav.join }}</a>
+        <a href="{{ site.cta.app_url }}" class="btn btn-primary btn--lg">{{ t.nav.manage }}</a>
+      </div>
+      <div class="mobile-menu__footer">
         {% include language-switcher.html id="mobile" %}
-        <a href="https://app.optimce.be" class="btn btn-outline">{{ t.nav.get_started }}</a>
-        <a href="https://github.com/{{ site.github_username }}" class="btn btn-primary" target="_blank" rel="noopener">
-          {{ t.nav.github }}
+        <a class="mobile-menu__github" href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener">
+          {% include icon.html name="github" %}
+          <span>GitHub</span>
         </a>
       </div>
     </nav>

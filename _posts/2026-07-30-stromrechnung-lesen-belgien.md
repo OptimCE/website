@@ -9,7 +9,8 @@ description: "Die fünf seit 2022 vorgeschriebenen Abschnitte, Abschlag gegen Ja
 tags: [guide, administrative, community]
 lang: de
 ref: read-electricity-bill-belgium
-permalink: /de/aktuelles/2026/07/30/stromrechnung-lesen-belgien/
+pillar: facture-electricite
+permalink: /de/ratgeber/stromrechnung-lesen-belgien/
 faq:
   - q: "Welche fünf Abschnitte sind auf einer belgischen Energierechnung vorgeschrieben?"
     a: "Der Königliche Erlass vom 9. Dezember 2021, in Kraft seit dem 1. Januar 2022, schreibt für jede an einen Haushaltskunden gerichtete Rechnung fünf Abschnitte vor: A „wesentliche Vertragsinformationen“, B „wie viel, wann und wie muss ich zahlen“, C „ich habe eine Frage“, D „Verträge vergleichen und wechseln“ und E „Energieverbrauch verwalten“. Diese Abschnitte sind bei allen in Belgien tätigen Lieferanten gleich, weil sie Artikel 18 und Anhang I der europäischen Richtlinie 2019/944 umsetzen. Eine Rechnung ohne diese Abschnitte ist nicht konform."
@@ -29,7 +30,7 @@ Zählen Sie die Dokumente, die Ihnen Ihr Stromlieferant im Laufe eines Jahres sc
 
 Das ist das Erste, was man über das Lesen einer belgischen Rechnung wissen muss, und es erklärt einen guten Teil der bösen Überraschungen zum Jahresende. Das Zweite: Seit dem **1. Januar 2022** ist Ihre Rechnung kein frei gestaltbares Dokument mehr. Ein Königlicher Erlass schreibt allen in Belgien tätigen Lieferanten **fünf benannte Abschnitte auf zwei Seiten** vor. Ob Sie bei Engie, Luminus, Mega, TotalEnergies oder einem genossenschaftlichen Lieferanten sind — das Gerüst ist dasselbe. Es einmal lesen zu lernen, genügt fürs Leben.
 
-Dieser Artikel erklärt nicht erneut, *warum* Ihre Rechnung hoch ist — das haben wir in Euro in [„Stromrechnung: Warum sie hoch bleibt“](/de/aktuelles/2026/07/25/warum-stromrechnung-hoch-bleibt-belgien/) getan — und auch nicht, *wie man sie senkt*, beziffert in [„Stromrechnung senken: Wallonien 2026“](/de/aktuelles/2026/07/28/stromrechnung-senken-wallonien-2026/). Er erklärt, **wie man das Dokument liest**: welche Zeilen in welcher Reihenfolge zu prüfen sind, wofür jede zahlt, wer sie tatsächlich einnimmt und an wen man sich wendet, wenn ein Betrag falsch erscheint.
+Dieser Artikel erklärt nicht erneut, *warum* Ihre Rechnung hoch ist — das haben wir in Euro in [„Stromrechnung: Warum sie hoch bleibt“](/de/ratgeber/warum-stromrechnung-hoch-bleibt-belgien/) getan — und auch nicht, *wie man sie senkt*, beziffert in [„Stromrechnung senken: Wallonien 2026“](/de/ratgeber/stromrechnung-senken-wallonien/). Er erklärt, **wie man das Dokument liest**: welche Zeilen in welcher Reihenfolge zu prüfen sind, wofür jede zahlt, wer sie tatsächlich einnimmt und an wen man sich wendet, wenn ein Betrag falsch erscheint.
 
 <img src="/assets/images/diagrams/bill-anatomy-de.svg"
      alt="Schema einer belgischen Stromrechnung: die fünf durch den Königlichen Erlass vom 9. Dezember 2021 vorgeschriebenen Abschnitte, mit Markierungen für den EAN-Code, die Anfangs- und Endzählerstände und den Berechnungsanhang."
@@ -71,7 +72,7 @@ Sein Artikel 14 schreibt für Haushaltskunden fünf benannte Abschnitte vor:
 
 Erklärtes Ziel war die Darstellung auf **zwei Seiten**: Die Informationen sind vereinfacht und auf nur zwei Seiten dargestellt ([UVCW](https://www.uvcw.be/energie/actus/art-7031)). Die Berechnungsdetails selbst wandern in einen Anhang — jenes Dokument, das die meisten nie ansehen, und genau jenes, das die Zeilen enthält.
 
-Daraus folgen zwei Gewohnheiten. Erstens: **Abschnitt A enthält Ihr Vertragsende.** Das ist die lohnendste Einzelinformation der ganzen Rechnung, denn sie sagt Ihnen, wann Sie vergleichen sollten. Zweitens: Fehlen diese Abschnitte, ist die Rechnung nicht konform — und darauf können Sie sich berufen. **Abschnitt E** wiederum weist den Energiemix des Produkts aus, ohne ein Wort darüber zu verlieren, was ihn absichert: Was diese Angabe tatsächlich belegt, zerlegt [Ökostrom in Belgien: wirklich grün?](/de/aktuelles/2026/08/22/oekostrom-belgien-wirklich-gruen/).
+Daraus folgen zwei Gewohnheiten. Erstens: **Abschnitt A enthält Ihr Vertragsende.** Das ist die lohnendste Einzelinformation der ganzen Rechnung, denn sie sagt Ihnen, wann Sie vergleichen sollten. Zweitens: Fehlen diese Abschnitte, ist die Rechnung nicht konform — und darauf können Sie sich berufen. **Abschnitt E** wiederum weist den Energiemix des Produkts aus, ohne ein Wort darüber zu verlieren, was ihn absichert: Was diese Angabe tatsächlich belegt, zerlegt [Ökostrom in Belgien: wirklich grün?](/de/ratgeber/oekostrom-belgien-wirklich-gruen/).
 
 ## Der Kopfbereich: vier Zeilen, die vor dem Betrag zu prüfen sind
 
@@ -111,7 +112,7 @@ Zwei Feinheiten, die das zeilenweise Lesen sichtbar macht und die Durchschnittsw
 
 **Die MwSt. trifft nicht alles.** Sie gilt zu 6 % für das Meiste, doch die CREG weist auf drei Befreiungen hin: die wallonische Anschlussabgabe, den flämischen Energiefondsbeitrag und den Zuschlag für geschützte Kunden bei Gas in Wallonien ([CREG](https://www.creg.be/fr/consommateurs/le-marche-de-lenergie/comment-est-compose-le-prix-de-lenergie)). Wenn Sie Ihre Rechnung nachrechnen und die MwSt.-Summe nicht aufgeht, liegt es oft daran.
 
-**Die Prozentsätze unterscheiden sich je nach Quelle, und das ist kein Widerspruch.** ORES illustriert eine Stromrechnung von 1 200 € mit 44 % Energie (528 €), 8 % Übertragung (90 €), 28 % Verteilung (339 €) sowie 20 % Steuern und MwSt. (243 €). Das Dashboard der CREG vom Juni 2026 nennt 38,5 % Energie, 29,7 % Netzkosten, 26,1 % Steuern und 5,7 % MwSt. Beide stimmen: Sie betreffen weder dasselbe Verbrauchsprofil noch dieselbe Region noch dasselbe Datum, und die eine trennt die MwSt. ab, die die andere den Steuern zuschlägt. **Diese Abweichung lesen zu können, gehört zum Lesen einer Rechnung** — misstrauen Sie jeder Aufteilung, die ohne Profil, Region und Datum zitiert wird. Die wirtschaftliche Analyse dieser Blöcke, in Euro und Region für Region, entwickeln wir in [„Stromrechnung: Warum sie hoch bleibt“](/de/aktuelles/2026/07/25/warum-stromrechnung-hoch-bleibt-belgien/).
+**Die Prozentsätze unterscheiden sich je nach Quelle, und das ist kein Widerspruch.** ORES illustriert eine Stromrechnung von 1 200 € mit 44 % Energie (528 €), 8 % Übertragung (90 €), 28 % Verteilung (339 €) sowie 20 % Steuern und MwSt. (243 €). Das Dashboard der CREG vom Juni 2026 nennt 38,5 % Energie, 29,7 % Netzkosten, 26,1 % Steuern und 5,7 % MwSt. Beide stimmen: Sie betreffen weder dasselbe Verbrauchsprofil noch dieselbe Region noch dasselbe Datum, und die eine trennt die MwSt. ab, die die andere den Steuern zuschlägt. **Diese Abweichung lesen zu können, gehört zum Lesen einer Rechnung** — misstrauen Sie jeder Aufteilung, die ohne Profil, Region und Datum zitiert wird. Die wirtschaftliche Analyse dieser Blöcke, in Euro und Region für Region, entwickeln wir in [„Stromrechnung: Warum sie hoch bleibt“](/de/ratgeber/warum-stromrechnung-hoch-bleibt-belgien/).
 
 Zur Einordnung der Steuerzeilen: Die Akzise auf Strom beträgt 0,05033 €/kWh, der Energiebeitrag 0,0002 €/kWh (Ecoconso) — letzterer entfällt am 1. August 2026.
 
@@ -143,7 +144,7 @@ Am **17. Juni 2026 hat der Energieausschuss der Kammer eine Reihe von Maßnahmen
 
 Eine Anmerkung zur Redlichkeit, im Register, das wir auf diesem Blog pflegen: Es handelt sich derzeit um eine **Billigung im Ausschuss**, und die Anwendungsdaten sind gestaffelt und angekündigt, nicht sämtlich in Kraft. Wir geben hier wieder, was im Juni 2026 kommuniziert wurde; für einen verbindlichen Betrag oder eine verbindliche Pflicht halten Sie sich an Ihr Tarifblatt und an die im Belgischen Staatsblatt veröffentlichten Texte.
 
-Schließlich zwei Geisterzeilen, die man erkennen sollte: Der **Föderalbeitrag** existiert seit Ende 2021 nicht mehr, erscheint aber weiterhin in zahlreichen Mustern und Rechnern, und der **Energiebeitrag** entfällt am 1. August 2026. Taucht einer von beiden auf einer späteren Rechnung auf, fragen Sie nach. Die Akzisenreform behandeln wir in unserem Artikel über [die Höhe der Rechnung](/de/aktuelles/2026/07/25/warum-stromrechnung-hoch-bleibt-belgien/).
+Schließlich zwei Geisterzeilen, die man erkennen sollte: Der **Föderalbeitrag** existiert seit Ende 2021 nicht mehr, erscheint aber weiterhin in zahlreichen Mustern und Rechnern, und der **Energiebeitrag** entfällt am 1. August 2026. Taucht einer von beiden auf einer späteren Rechnung auf, fragen Sie nach. Die Akzisenreform behandeln wir in unserem Artikel über [die Höhe der Rechnung](/de/ratgeber/warum-stromrechnung-hoch-bleibt-belgien/).
 
 ## Sie beanstanden eine Zeile? Die zuständige Stelle hängt von der Zeile ab
 
@@ -173,7 +174,7 @@ Wenn Sie an einer Energiegemeinschaft oder an einer Teilung unter Nachbarn teiln
 
 **Sie erhalten zwei Dokumente, nicht eines.** Ihr Lieferant rechnet weiterhin die Restenergie ab, also das, was Sie über die geteilten kWh hinaus verbraucht haben, zuzüglich **sämtlicher Netzkosten und Steuern**. Der Vertreter der Energieteilung stellt Ihnen die geteilten kWh gesondert in Rechnung. Auf der Rechnung Ihres Lieferanten liest sich die Wirkung der Teilung daher nicht als Rabattzeile, sondern als **geringeres kWh-Volumen** in der Energiezeile, während die übrigen Zeilen unverändert bleiben.
 
-Eine Zeile bleibt dennoch im Blick zu behalten: Nichts hindert einen Lieferanten daran, Gebühren für Ihre Teilnahme an der Teilung zu berechnen. Der vollständige Mechanismus, die Pflichtangaben einer Teilungsrechnung und die Rollenverteilung zwischen Lieferant, Netzbetreiber und Vertreter sind in [„Geteilten Strom in Belgien abrechnen“](/de/aktuelles/2026/07/23/geteilten-strom-abrechnen-belgien/) dargestellt, und die Preisbildung für geteilte kWh in [„Interner Abtretungspreis in einer Energiegemeinschaft“](/de/aktuelles/2026/07/20/strompreis-energiegemeinschaft/).
+Eine Zeile bleibt dennoch im Blick zu behalten: Nichts hindert einen Lieferanten daran, Gebühren für Ihre Teilnahme an der Teilung zu berechnen. Der vollständige Mechanismus, die Pflichtangaben einer Teilungsrechnung und die Rollenverteilung zwischen Lieferant, Netzbetreiber und Vertreter sind in [„Geteilten Strom in Belgien abrechnen“](/de/ratgeber/geteilten-strom-abrechnen-belgien/) dargestellt, und die Preisbildung für geteilte kWh in [„Interner Abtretungspreis in einer Energiegemeinschaft“](/de/ratgeber/strompreis-energiegemeinschaft/).
 
 ## Was Sie sich merken sollten
 
@@ -189,7 +190,7 @@ Eine belgische Stromrechnung liest man in dieser Reihenfolge, und die Reihenfolg
 
 Eine unlesbare Rechnung ist kein regulatorisches Schicksal: Seit 2022 schreibt das Gesetz eine Struktur vor, und seit Juni 2026 schrittweise mehr Preistransparenz. Was Ihnen bleibt, ist zu wissen, wo Sie hinschauen müssen.
 
-Und falls Ihre Lektüre Sie dazu bringt, auf die Zeile „Energie“ einwirken zu wollen, statt sie hinzunehmen: Die Energieteilung ist eine der wenigen Optionen, die weder Umbauten noch Module noch einen Lieferantenwechsel erfordert. [„Einer Energiegemeinschaft in Wallonien beitreten“](/de/aktuelles/2026/05/11/energiegemeinschaft-beitreten-wallonien/) beschreibt die konkreten Schritte.
+Und falls Ihre Lektüre Sie dazu bringt, auf die Zeile „Energie“ einwirken zu wollen, statt sie hinzunehmen: Die Energieteilung ist eine der wenigen Optionen, die weder Umbauten noch Module noch einen Lieferantenwechsel erfordert. [„Einer Energiegemeinschaft in Wallonien beitreten“](/de/ratgeber/energiegemeinschaft-beitreten-wallonien/) beschreibt die konkreten Schritte.
 
 > ### Verwalten Sie Ihre Energieteilung mit OptimCE
 >

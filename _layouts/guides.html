@@ -1,0 +1,42 @@
+---
+layout: default
+---
+{%- comment -%}
+  Guide index: one block per pillar, in _data/pillars.yml order, with the
+  pillar's guides listed by title. page.hub_pillars is resolved by
+  _plugins/site_graph.rb.
+{%- endcomment -%}
+{% assign lang = page.lang | default: site.lang %}
+{% assign t = site.data.i18n[lang] %}
+<section class="hub guides-index">
+  <div class="container">
+    <header class="hub__header">
+      {% include breadcrumb.html %}
+      <h1>{{ page.title }}</h1>
+      <div class="hub__lead">
+        {% if page.subtitle %}
+          <p class="section__subtitle">{{ page.subtitle }}</p>
+        {% endif %}
+        {{ content }}
+      </div>
+    </header>
+    <div class="hub-blocks">
+      {% for entry in page.hub_pillars %}
+      <section class="hub-block">
+        <h2 class="hub-block__title">
+          <a href="{{ entry.page.url | relative_url }}">{{ entry.page.title | fr_spacing: lang }}</a>
+        </h2>
+        <p class="hub-block__description">{{ entry.page.subtitle | default: entry.page.description }}</p>
+        <ul class="hub-block__list" role="list">
+          {% for post in entry.posts %}
+          <li><a href="{{ post.url | relative_url }}">{{ post.title | fr_spacing: lang }}</a></li>
+          {% endfor %}
+        </ul>
+        <a class="hub-block__more" href="{{ entry.page.url | relative_url }}">
+          {{ t.guides.pillar_link }} ({{ entry.posts.size }} {% if entry.posts.size == 1 %}{{ t.guides.count_one }}{% else %}{{ t.guides.count_other }}{% endif %})
+        </a>
+      </section>
+      {% endfor %}
+    </div>
+  </div>
+</section>

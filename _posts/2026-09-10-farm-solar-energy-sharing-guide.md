@@ -2,13 +2,15 @@
 layout: post
 title: "Farm roofs: the energy-sharing guide"
 date: 2026-09-10 06:00:00 +0200
+last_modified_at: 2026-09-26 06:00:00 +0200
 author: "Eric from OptimCE"
 excerpt: "A farm shed carries between 100 and 350 kilowatt-peak. It is the largest available roof in rural Wallonia, the best oriented, and the easiest to equip: roof-mounted panels need no planning permission there, whatever their power. Yet of the thirteen energy communities notified to the CWaPE, not one is anchored on a farm. This is not indifference. Two Walloon Government orders adopted three weeks apart, in February and March 2023, push in exactly opposite directions: the first subsidises farm solar only in proportion to the self-consumed part, the second organises the sharing of the surplus."
 description: "Two Walloon orders from 2023 contradict each other: farm aid stops where sharing begins. What a shed roof is really worth, step by step."
 tags: [guide, community, administrative]
 lang: en
 ref: farm-energy-sharing
-permalink: /en/news/2026/09/10/farm-solar-energy-sharing-guide/
+solution: agriculteurs
+permalink: /en/solutions/farms/
 faq:
   - q: "Can a farmer start their own energy community, or do they have to wait for the municipality?"
     a: "They can start one, but they do not get the shortcut that a school or a municipality enjoys. A renewable energy community admits only three categories of member: natural persons, local authorities, and small or medium-sized enterprises whose primary commercial or professional activity is not participation in one or more energy communities. A farmer falls into the first or the third depending on how the holding is structured — as an individual, or as an agricultural company or limited company. Either way they are a regular member, and they may take the initiative, exercise effective control of the community, and be its main producer. The difference with a school lies in the burden of proof: article 4 of the Walloon order of 17 March 2023 lists schools among local authorities, which exempts them from any test. A farm holding comes in through the SME door and must therefore be able to show that energy is not its main business. For a farm producing milk, cereals or meat the demonstration is immediate and raises no practical difficulty. It becomes a genuine question the day the energy activity grows large enough to dominate turnover — a rare scenario on a roof, a much less rare one in biomethanation."
@@ -32,7 +34,7 @@ Here is the anomaly. Among the **thirteen energy communities notified to the CWa
 
 This is not indifference, and it is not an information problem. It is a contradiction written into the texts: **two Walloon Government orders adopted three weeks apart, on 23 February and 17 March 2023, push in exactly opposite directions.**
 
-This article does not redo what is already written elsewhere on this site: the difference between the three Belgian statuses is covered in [“Energy communities in Belgium: CER, CEC, CEL”](/en/news/2026/05/11/energy-communities-belgium/), the setting-up procedure in [“Create an energy community in Wallonia”](/en/news/2026/05/11/create-energy-community-wallonia/), building a group by load profile in [“Local electricity: the short-circuit guide”](/en/news/2026/08/25/local-electricity-short-circuit-guide/), the payback calculation for a household installation in [“Solar panels 2026: still worth it in Wallonia?”](/en/news/2026/08/11/solar-panels-worth-it-wallonia-2026/), the ranking of outlets for surplus in [“Solar surplus: the 5 options compared”](/en/news/2026/08/18/what-to-do-solar-surplus-belgium/), and the setting of the internal price in [“Internal transfer price in an energy community”](/en/news/2026/07/20/energy-community-electricity-price/).
+This article does not redo what is already written elsewhere on this site: the difference between the three Belgian statuses is covered in [“Energy communities in Belgium: CER, CEC, CEL”](/en/guides/energy-communities-belgium/), the setting-up procedure in [“Create an energy community in Wallonia”](/en/guides/create-energy-community-wallonia/), building a group by load profile in [“Local electricity: the short-circuit guide”](/en/guides/local-electricity-short-circuit-guide/), the payback calculation for a household installation in [“Solar panels 2026: still worth it in Wallonia?”](/en/guides/solar-panels-worth-it-wallonia/), the ranking of outlets for surplus in [“Solar surplus: the 5 options compared”](/en/guides/what-to-do-solar-surplus-belgium/), and the setting of the internal price in [“Internal transfer price in an energy community”](/en/guides/energy-community-electricity-price/).
 
 It answers a question those articles do not ask: **why does the best-placed roof in rural Wallonia belong to the party that least needs what it produces, and what has to be done, in what order, for that surplus to be worth more than the injection tariff?**
 
@@ -101,7 +103,7 @@ Article 3 of the order of 17 March 2023 defines a building as:
 
 The second branch is closed from the outset: a farm holding is almost never a co-ownership. The first, by contrast, describes a configuration that Walloon rural architecture turned out in series for two centuries: **the dwelling, the byre and the barn built in a single continuous range**, the courtyard farm, the mixed home-and-holding building. Two parts intended for autonomous use under one covered and closed construction: the definition is met.
 
-This is a situation that neither a school, nor a neighbourhood condominium, nor a municipality runs into anywhere near as often. [“Schools: a guide to energy sharing”](/en/news/2026/09/03/school-energy-sharing-guide/) shows why two blocks separated by a playground remain two buildings; [“Energy sharing in a condominium: the guide”](/en/news/2026/08/27/energy-sharing-condominium-guide/) sets out the co-ownership route, which does not open here. The farm, by contrast, falls regularly into the first case of article 3 — and nobody tells it so.
+This is a situation that neither a school, nor a neighbourhood condominium, nor a municipality runs into anywhere near as often. [“Schools: a guide to energy sharing”](/en/solutions/schools/) shows why two blocks separated by a playground remain two buildings; [“Energy sharing in a condominium: the guide”](/en/solutions/condominiums/) sets out the co-ownership route, which does not open here. The farm, by contrast, falls regularly into the first case of article 3 — and nobody tells it so.
 
 One caution, though: a steel shed erected forty metres away across the yard does not meet the condition, even on the same cadastral parcel, even under the same owner. Paragraph 2 of the same article does attach a building's outbuildings to it — garages, gardens, car parks, land — on the same parcel or with shared access, but an outbuilding is not a second building: that provision serves siting, not the qualification of the sharing regime.
 
@@ -140,15 +142,15 @@ Two rows deserve comment.
 
 **The school and the campsite complement each other; they do not compete.** The school absorbs very well from September to June and vanishes for seven weeks in July and August — that is the whole subject of our schools guide. The campsite, tourist accommodation and rural hospitality do exactly the reverse. A well-composed rural sharing group holds both.
 
-**The pumping station is the most underrated partner in rural Wallonia.** It consumes by day, all year round, with a load that is largely shiftable in time — filling a reservoir at 1 pm rather than 3 am costs nobody anything. And it is almost always run by the municipality or an intermunicipal company, which simplifies governance. [“Energy communities: a guide for municipalities”](/en/news/2026/08/30/municipal-energy-community-guide/) covers the owning municipality's point of view.
+**The pumping station is the most underrated partner in rural Wallonia.** It consumes by day, all year round, with a load that is largely shiftable in time — filling a reservoir at 1 pm rather than 3 am costs nobody anything. And it is almost always run by the municipality or an intermunicipal company, which simplifies governance. [“Energy communities: a guide for municipalities”](/en/solutions/municipalities/) covers the owning municipality's point of view.
 
-The general method — building a group by overlaying load profiles rather than by geographical proximity — is developed in [“Local electricity: the short-circuit guide”](/en/news/2026/08/25/local-electricity-short-circuit-guide/). It applies here as elsewhere, with one nuance: the farm roof is the only rural producer large enough to feed several profiles at once.
+The general method — building a group by overlaying load profiles rather than by geographical proximity — is developed in [“Local electricity: the short-circuit guide”](/en/guides/local-electricity-short-circuit-guide/). It applies here as elsewhere, with one nuance: the farm roof is the only rural producer large enough to feed several profiles at once.
 
 ### The key that fits
 
 A fixed key allocates each participant a constant percentage of production, regardless of what they actually consume. On a producer whose surplus varies by a factor of ten between a Tuesday in January and a Sunday in July, it sends kilowatt-hours to meters that do not want them, and those volumes fall back to injection.
 
-The right reflex is a **dynamic allocation key** based on the consumption ratio, allocating each quarter-hour in proportion to what each participant is consuming at that moment. The key families recognised by the CWaPE and their counterparts in the other two regions are set out in [“Allocation key in Belgium: the 3 regions”](/en/news/2026/05/19/allocation-key-belgium/).
+The right reflex is a **dynamic allocation key** based on the consumption ratio, allocating each quarter-hour in proportion to what each participant is consuming at that moment. The key families recognised by the CWaPE and their counterparts in the other two regions are set out in [“Allocation key in Belgium: the 3 regions”](/en/guides/allocation-key-belgium/).
 
 ## What your farming type changes — the profile, not the surface
 
@@ -165,7 +167,7 @@ A shed's surface follows the holding's **storage** needs, never its **electricit
 
 The table reads simply. A pig or poultry unit has every interest in maximising self-consumption first, because summer ventilation is the best solar load that exists in farming. An arable farmer is in the opposite position: the consumption peak lasts a few weeks in summer and there is almost nothing to do with the output for the rest of the year. And a bare storage shed is a perfect limiting case — no load of its own, therefore no self-consumption base, therefore **no farm aid at all** on its solar.
 
-Self-consumption, the self-consumption rate and collective self-consumption are set out in [“Energy self-consumption in Belgium”](/en/news/2026/06/05/energy-self-consumption-belgium/).
+Self-consumption, the self-consumption rate and collective self-consumption are set out in [“Energy self-consumption in Belgium”](/en/guides/energy-self-consumption-belgium/).
 
 ## You cannot do a deal with the neighbour across the road
 
@@ -193,7 +195,7 @@ Article 24 offers two alternative criteria, and meeting one is enough:
 
 The second criterion is often forgotten and it is precious in the countryside, where municipal boundaries rarely fall where the cables run. A farm on the edge of a municipality frequently shares its substation with the neighbouring hamlet, which belongs to another municipality. Ask the grid operator which substation feeds your connection: the answer sometimes widens the field of possible partners considerably.
 
-The documents to produce and the associated deadlines are set out in [“Energy community: CWaPE documents and deadlines”](/en/news/2026/08/12/energy-community-administrative-documents-wallonia/).
+The documents to produce and the associated deadlines are set out in [“Energy community: CWaPE documents and deadlines”](/en/guides/energy-community-administrative-documents-wallonia/).
 
 ## The grid can say no even when the law says yes
 
@@ -237,6 +239,27 @@ The reasoning that follows is this. As long as surplus is worth the injection ta
 **3. The fibre-cement roof.** A significant share of the Walloon shed stock is roofed in asbestos-bearing fibre cement. You do not lay solar on it: it must be stripped and re-covered first, and that cost comes before the energy investment rather than adding to it. It has to be built into the financing plan from the outset, on pain of discovering mid-project that the budget has doubled.
 
 **4. Passing the farm on.** A solar installation is an asset with a twenty- to twenty-five-year life, and the aid scheme requires the investment to be maintained for several years after it is granted. A roof equipped on a building that will change hands, or a third-party investment contract running past the handover, is better negotiated when the question has been asked at signature than at succession.
+
+## What OptimCE does for you
+
+A farm roof is judged by its participants' midday load, from harvest time to the depths of
+January. OptimCE helps you measure it, then run the operation:
+
+- **Simulate before committing the roof.** Import the quarter-hourly production and the
+  consumption of the prospective participants, then test a key or let the generation module propose
+  one: self-consumption, surplus and sharing rate show up quarter-hour by quarter-hour.
+- **Keep the list of participants.** Members, supply points and meters are held in one place;
+  every version of the key is recorded and members' acceptance is tracked.
+- **Prepare the paperwork.** The CWaPE documents are pre-filled and the deadlines are calculated.
+  Filing them remains your responsibility.
+- **Find participants.** Publish the operation in the application's public registry, where anyone
+  can look for an operation open to new members.
+- **Invoice the shared electricity** under the Walloon framework, producer's statement included,
+  with payment tracking.
+
+The application is free during the alpha phase.
+
+**[Open the OptimCE app →](https://app.optimce.be)**
 
 ## What to remember
 

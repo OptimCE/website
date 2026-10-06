@@ -1,0 +1,66 @@
+# ==================================================================
+# Guide pillars — one entry per thematic hub under /guides/.
+# ------------------------------------------------------------------
+# A guide joins a pillar with `pillar: <key>` in its front matter. The pillar
+# page itself (guides/<slug>.md and its translations, `layout: pillar`) carries
+# the introduction and the ordered sections; this file carries what every page
+# needs about a pillar without loading it:
+#
+# - label            short name for badges and breadcrumbs, per language
+# - cta_communaute   show the "join an energy community" block at the end of
+#                    the pillar's guides (_includes/cta-communaute.html)
+# - tags             legacy ?tag= values that now redirect to this pillar
+# - categories       glossary categories whose term pages recommend this
+#                    pillar ("Go further"); a term can override it with
+#                    `pilier:` in _data/glossary.yml
+# ==================================================================
+
+- key: communautes-energie
+  label:
+    fr: "Communautés d'énergie"
+    en: "Energy communities"
+    de: "Energiegemeinschaften"
+    nl: "Energiegemeenschappen"
+  cta_communaute: true
+  tags: [community, administrative]
+  categories: [gouvernance, juridique, modele, partage, regulateur, territoire]
+
+- key: cle-de-repartition
+  label:
+    fr: "Clé de répartition"
+    en: "Allocation key"
+    de: "Aufteilungsschlüssel"
+    nl: "Verdeelsleutel"
+  cta_communaute: false
+  tags: [allocation-key]
+  categories: [calcul, kpi, mesure]
+
+- key: prix-facturation-communaute
+  label:
+    fr: "Prix et facturation"
+    en: "Pricing and billing"
+    de: "Preise und Abrechnung"
+    nl: "Prijs en facturatie"
+  cta_communaute: false
+  tags: []
+  categories: []
+
+- key: facture-electricite
+  label:
+    fr: "Facture d'électricité"
+    en: "Electricity bill"
+    de: "Stromrechnung"
+    nl: "Elektriciteitsfactuur"
+  cta_communaute: true
+  tags: []
+  categories: [facturation, marche, reseau, reglementaire]
+
+- key: solaire-surplus
+  label:
+    fr: "Solaire et surplus"
+    en: "Solar and surplus"
+    de: "Solar und Überschuss"
+    nl: "Zonne-energie en overschot"
+  cta_communaute: true
+  tags: []
+  categories: [autoconsommation, production, technique]

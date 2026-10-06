@@ -8,24 +8,25 @@ description: "Is een fotovoltaïsche installatie in Wallonië in 2026 nog rendab
 tags: [guide, administrative, community]
 lang: nl
 ref: solar-panels-worth-it-wallonia-2026
+pillar: solaire-surplus
 last_modified_at: 2026-09-22 06:00:00 +0200
-permalink: /nl/nieuws/2026/08/11/zonnepanelen-rendabel-wallonie-2026/
+permalink: /nl/gidsen/zonnepanelen-rendabel-wallonie/
 faq:
   - q: "Zijn zonnepanelen in 2026 nog rendabel in Wallonië?"
-    a: "Ja, maar met een langere terugverdientijd dan ten tijde van de compensatie en veel gevoeliger voor uw verbruiksprofiel. In een illustratief geval van 4 kWp voor 6.000 € inclusief btw, met 3.800 kWh jaarproductie en een zelfverbruikspercentage van 37,76 %, bedraagt de jaarwinst ongeveer 613 € — waarvan 530 € uit stroom die u niet meer betaalt en slechts 83 € uit de verkoop van het overschot. Dat geeft een terugverdientijd van ongeveer tien jaar, tegenover de zes jaar die het Waals Gewest in 2023 noemde voor een installatie met 40 % zelfverbruik. Het verschil tussen een goede en een slechte installatie ligt niet meer bij de offerteprijs, maar bij het aandeel van de productie dat u zelf verbruikt."
+    a: "Ja, maar met een langere terugverdientijd dan ten tijde van de compensatie en veel gevoeliger voor uw verbruiksprofiel. In een illustratief geval van 4 kWp voor 6 000 € inclusief btw, met 3 800 kWh jaarproductie en een zelfverbruikspercentage van 37,76 %, bedraagt de jaarwinst ongeveer 613 € — waarvan 530 € uit stroom die u niet meer betaalt en slechts 83 € uit de verkoop van het overschot. Dat geeft een terugverdientijd van ongeveer tien jaar, tegenover de zes jaar die het Waals Gewest in 2023 noemde voor een installatie met 40 % zelfverbruik. Het verschil tussen een goede en een slechte installatie ligt niet meer bij de offerteprijs, maar bij het aandeel van de productie dat u zelf verbruikt."
   - q: "Wat gebeurt er met mijn installatie na 31 december 2030?"
     a: "Is uw installatie vóór 1 januari 2024 in dienst genomen, dan geniet u de compensatie tot 31 december 2030. Op die datum vervalt ze en valt uw installatie onder het gewone stelsel: afname en injectie apart geteld, facturatie op de bruto-afname, en het overschot verkocht tegen het injectietarief van uw leverancier. Concreet daalt de waarde van elke overtollige kilowattuur van ongeveer 37 cent naar ongeveer 3. Daarom wordt de vraag van het energiedelen, die vandaag voor u niet dringend is, op die datum automatisch actueel. Het loont om nu al te weten welke deeloperaties er bij u in de buurt bestaan."
   - q: "Moet u afzien van de compensatie om aan energiedelen deel te nemen?"
     a: "Ja, en dat is het minst bekende punt van het hele dossier. De CWaPE koppelt deelname aan een energiedeling aan twee voorwaarden: beschikken over een elektronische digitale meter of AMR-meter, en afzien van het voordeel van de compensatie. ORES bevestigt het vanuit de netbeheerder: wie zijn injectie verkoopt of toetreedt tot een deeloperatie, schakelt automatisch over naar het commercialiseringsstelsel van de injectie. Het jaarlijkse compensatiestelsel is namelijk onverenigbaar met delen, dat berust op een ogenblikkelijke vergelijking tussen productie en verbruik, kwartier per kwartier. Bij een installatie die vanaf 2024 in dienst is genomen, stelt de vraag zich niet: er valt niets op te geven."
   - q: "Hoeveel is mijn zonneoverschot waard als ik het niet deel?"
-    a: "Bijzonder weinig. Volgens de vergelijking van Test-Aankoop van 28 mei 2026 loopt het injectietarief in Vlaanderen en Wallonië van 0,94 c€/kWh bij Mega Zen Fixed tot 4,90 c€/kWh bij Energy Knights en Eneco, met een gemiddelde van 3 à 4 cent. Op 2.500 geïnjecteerde kWh vertegenwoordigt het verschil tussen het beste en het slechtste contract 23 tot 122 € per jaar. Geen van die tarieven is in België gereguleerd, en verschillende volgen de groothandelsmarkt — waardoor dynamische contracten worden blootgesteld aan nul- of zelfs negatieve prijzen, net op de uren waarop uw dak het meest produceert."
+    a: "Bijzonder weinig. Volgens de vergelijking van Test-Aankoop van 28 mei 2026 loopt het injectietarief in Vlaanderen en Wallonië van 0,94 c€/kWh bij Mega Zen Fixed tot 4,90 c€/kWh bij Energy Knights en Eneco, met een gemiddelde van 3 à 4 cent. Op 2 500 geïnjecteerde kWh vertegenwoordigt het verschil tussen het beste en het slechtste contract 23 tot 122 € per jaar. Geen van die tarieven is in België gereguleerd, en verschillende volgen de groothandelsmarkt — waardoor dynamische contracten worden blootgesteld aan nul- of zelfs negatieve prijzen, net op de uren waarop uw dak het meest produceert."
   - q: "Batterij of energiedelen: waarvoor kiest u voor uw overschot?"
-    a: "Beide zijn geen concurrenten, ze grijpen op verschillende plaatsen in. Een batterij zet overschot om in uitgesteld zelfverbruik en tilt het zelfverbruikspercentage van 30-40 % naar 70-80 %, wat enkele honderden euro's per jaar waard is — maar ze kost 4.250 tot 7.250 € voor 5 à 10 kWh, Wallonië betaalt geen opslagpremie, en haar eigen terugverdientijd ligt tussen bijna vijftien jaar. Energiedelen brengt minder op, maar kost geen kapitaal: het valoriseert wat na zelfverbruik overblijft, tegen een onderhandelde 3 à 14 c€/kWh in plaats van het injectietarief. De logische volgorde is dus eerst uw verbruik verschuiven, dan delen, en pas daarna een batterij overwegen als het resterende overschot dat nog rechtvaardigt."
+    a: "Beide zijn geen concurrenten, ze grijpen op verschillende plaatsen in. Een batterij zet overschot om in uitgesteld zelfverbruik en tilt het zelfverbruikspercentage van 30-40 % naar 70-80 %, wat enkele honderden euro's per jaar waard is — maar ze kost 4 250 tot 7 250 € voor 5 à 10 kWh, Wallonië betaalt geen opslagpremie, en haar eigen terugverdientijd ligt tussen bijna vijftien jaar. Energiedelen brengt minder op, maar kost geen kapitaal: het valoriseert wat na zelfverbruik overblijft, tegen een onderhandelde 3 à 14 c€/kWh in plaats van het injectietarief. De logische volgorde is dus eerst uw verbruik verschuiven, dan delen, en pas daarna een batterij overwegen als het resterende overschot dat nog rechtvaardigt."
   - q: "Mag ik mijn stroom delen als ik na 2024 heb geïnstalleerd?"
     a: "Ja, en dat is het gunstigste geval. Een installatie die vanaf 1 januari 2024 in dienst is genomen, heeft al een dubbele-fluxmeter en geniet geen enkele compensatie: u hoeft dus niets op te geven om tot een deeloperatie toe te treden. De enige hindernis is het aanbod, en dat is dun in Wallonië — de in maart 2025 verspreide evaluatie van de CWaPE telde 4 deeloperaties binnen eenzelfde gebouw en 3 binnen een energiegemeenschap, en peer-to-peerdelen blijft onwerkzaam bij gebrek aan uitvoeringsbesluit. De twee open wegen zijn delen binnen eenzelfde gebouw, dat volgens het ORES-tarief 2026 een vermindering van 80 % op de proportionele term geniet, en toetreding tot een bestaande gemeenschap."
 ---
 
-De vraag past in één zin, en heel Wallonië stelt ze zich al twee jaar: **loont het nog?** Het collectieve antwoord ligt er al, en het is meetbaar. Volgens de balans die Renouvelle op 16 februari 2026 publiceerde, voegde Wallonië in 2025 slechts **ongeveer 100 MWp** zonnestroomvermogen toe. Om zijn doel van 5.100 GWh per jaar te halen — zowat **6 GWp geïnstalleerd tegen 2030** — zou het er **500 à 600 per jaar** moeten zijn. De Waalse markt draait dus op minder dan een vijfde van het vereiste tempo.
+De vraag past in één zin, en heel Wallonië stelt ze zich al twee jaar: **loont het nog?** Het collectieve antwoord ligt er al, en het is meetbaar. Volgens de balans die Renouvelle op 16 februari 2026 publiceerde, voegde Wallonië in 2025 slechts **ongeveer 100 MWp** zonnestroomvermogen toe. Om zijn doel van 5 100 GWh per jaar te halen — zowat **6 GWp geïnstalleerd tegen 2030** — zou het er **500 à 600 per jaar** moeten zijn. De Waalse markt draait dus op minder dan een vijfde van het vereiste tempo.
 
 Dat is geen technologie- of materiaalprijsprobleem: modules waren nooit goedkoper, en België passeerde eind 2025 de **12,8 GWp**, met meer dan 10 TWh productie, ongeveer 13 % van het nationale elektriciteitsverbruik volgens ELIA. Het is een probleem van **verdienmodel**. Sinds 1 januari 2024 geniet een nieuwe Waalse installatie geen compensatie meer; er bestaat geen directe gewestelijke premie noch een groenestroomcertificaat voor particulieren. En vooral: een kilowattuur die u zelf verbruikt levert u ongeveer **37 cent** op, dezelfde kilowattuur die op het net wordt geïnjecteerd **3**.
 
@@ -33,7 +34,7 @@ Die factor twaalf is de hele zaak. Ze verklaart waarom twee identieke installati
 
 Met één voorbehoud dat niemand duidelijk formuleert, en dat alles verandert: **delen stelt zich niet op dezelfde manier naargelang uw installatie dateert van vóór of na 1 januari 2024.** Voor de ene groep is het pure winst. Voor de andere is het een afweging — en die valt vóór 2031 meestal negatief uit.
 
-Dit artikel legt niet opnieuw uit wat een energiegemeenschap is, noch wat een HEG van een BEG onderscheidt: dat staat in “[Energiegemeenschappen in België: CER, CEC, CEL](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/)”. Het behandelt evenmin de tien Waalse besparingshefbomen uit “[Elektriciteitsfactuur verlagen: Wallonië 2026](/nl/nieuws/2026/07/28/elektriciteitsfactuur-verlagen-wallonie-2026/)”, noch de gewestelijke beschikbaarheid van delen, geanalyseerd in “[Goedkopere stroom zonder leverancierswissel](/nl/nieuws/2026/08/05/goedkopere-stroom-zonder-leverancierswissel/)”. Het beantwoordt één enkele vraag, met cijfers: **is een Waalse fotovoltaïsche installatie in 2026 nog rendabel — en hoeveel verschuift delen dat antwoord.**
+Dit artikel legt niet opnieuw uit wat een energiegemeenschap is, noch wat een HEG van een BEG onderscheidt: dat staat in “[Energiegemeenschappen in België: CER, CEC, CEL](/nl/gidsen/energiegemeenschappen-belgie/)”. Het behandelt evenmin de tien Waalse besparingshefbomen uit “[Elektriciteitsfactuur verlagen: Wallonië 2026](/nl/gidsen/elektriciteitsfactuur-verlagen-wallonie/)”, noch de gewestelijke beschikbaarheid van delen, geanalyseerd in “[Goedkopere stroom zonder leverancierswissel](/nl/gidsen/goedkopere-stroom-zonder-leverancierswissel/)”. Het beantwoordt één enkele vraag, met cijfers: **is een Waalse fotovoltaïsche installatie in 2026 nog rendabel — en hoeveel verschuift delen dat antwoord.**
 
 <img src="/assets/images/diagrams/solar-profitability-nl.svg"
      alt="Schema van de waarde van een zonnekilowattuur in Wallonië in 2026: de installatie splitst zich eerst volgens haar indienstnamedatum, vóór of na 1 januari 2024, en daarna volgt elke geproduceerde kilowattuur een van vier bestemmingen — onmiddellijk zelf verbruikt voor ongeveer 37 cent, opgeslagen in een batterij en later zelf verbruikt tegen dezelfde waarde maar ten koste van een investering, gedeeld met andere deelnemers voor 3 tot 14 cent, of op het net geïnjecteerd voor amper 1 tot 5 cent."
@@ -66,13 +67,13 @@ Er bestaat **geen directe gewestelijke premie en geen groenestroomcertificaat me
 | Maatregel | Wat het is | Voorwaarden |
 |---|---|---|
 | **6 % btw** | In plaats van 21 % | Woning van minstens 10 jaar oud, levering **en** plaatsing door de aannemer, attest van de klant. Een verkoop zonder plaatsing blijft op 21 %. |
-| **Rénoprêt** | Renteloze lening, tot 60.000 € | Via de SWCS, onder inkomens- en werkenvoorwaarden |
+| **Rénoprêt** | Renteloze lening, tot 60 000 € | Via de SWCS, onder inkomens- en werkenvoorwaarden |
 | **Injectietarief** | Vergoeding van het overschot | Niet gereguleerd, vrij bepaald door elke leverancier |
 | **Gemeentelijke premies** | Wisselend, vaak enkele honderden euro's | Geval per geval na te vragen bij uw gemeente |
 
 Met andere woorden: de rendabiliteit van een Waalse installatie hangt in 2026 van geen enkele noemenswaardige overheidssteun meer af. Ze hangt volledig af van wat u met uw productie doet.
 
-Dit artikel gaat over woningen. Boven 10 kW verandert het beeld: groenestroomcertificaten bestaan nog, onder het CPMA-regime, en een landbouwbedrijf kan er gewestelijke investeringssteun bovenop krijgen — maar enkel op het deel dat het zelf verbruikt. Het geval van een groot professioneel dak wordt behandeld in [“Landbouwloods: de gids voor energiedelen”](/nl/nieuws/2026/09/10/energiedeling-landbouw-gids/).
+Dit artikel gaat over woningen. Boven 10 kW verandert het beeld: groenestroomcertificaten bestaan nog, onder het CPMA-regime, en een landbouwbedrijf kan er gewestelijke investeringssteun bovenop krijgen — maar enkel op het deel dat het zelf verbruikt. Het geval van een groot professioneel dak wordt behandeld in [“Landbouwloods: de gids voor energiedelen”](/nl/oplossingen/landbouw/).
 
 ## De rendabiliteitsberekening 2026, post per post
 
@@ -83,11 +84,11 @@ Nemen we een concreet geval. **Het is illustratief**: uw dak, uw verbruik en uw 
 | Parameter | Gehanteerde waarde | Herkomst |
 |---|---|---|
 | Geïnstalleerd vermogen | 4 kWp | Gangbare residentiële grootte |
-| Totale kostprijs | **6.000 € incl. btw** | Test-Aankoop situeert de beste aanbiedingen onder 1.250 €/kWp; de reële marktvork loopt van 1.250 tot 1.800 €/kWp |
-| Opbrengst | 950 kWh/kWp/jaar → **3.800 kWh/jaar** | Pal zuid, 35°, zonder schaduw — hypothesen van de Waalse simulator van Énergie Commune |
-| Zelfverbruikspercentage | **37,76 %** → 1.435 kWh | Standaardwaarde van dezelfde simulator; Test-Aankoop geeft 30 tot 50 % zonder batterij |
-| Geïnjecteerd overschot | **2.365 kWh** | Het saldo |
-| Vermeden elektriciteitsprijs | **36,94 c€/kWh** all-in | CREG-dashboard, juni 2026, residentieel profiel 3.500 kWh/jaar |
+| Totale kostprijs | **6 000 € incl. btw** | Test-Aankoop situeert de beste aanbiedingen onder 1 250 €/kWp; de reële marktvork loopt van 1 250 tot 1 800 €/kWp |
+| Opbrengst | 950 kWh/kWp/jaar → **3 800 kWh/jaar** | Pal zuid, 35°, zonder schaduw — hypothesen van de Waalse simulator van Énergie Commune |
+| Zelfverbruikspercentage | **37,76 %** → 1 435 kWh | Standaardwaarde van dezelfde simulator; Test-Aankoop geeft 30 tot 50 % zonder batterij |
+| Geïnjecteerd overschot | **2 365 kWh** | Het saldo |
+| Vermeden elektriciteitsprijs | **36,94 c€/kWh** all-in | CREG-dashboard, juni 2026, residentieel profiel 3 500 kWh/jaar |
 | Injectietarief | **3,5 c€/kWh** | Gemiddelde dat Test-Aankoop op 28 mei 2026 noemde (vork 0,94 tot 4,90) |
 | Indienstname | 2026 | Dus zonder compensatie, met dubbele-fluxmeter |
 
@@ -95,17 +96,17 @@ Nemen we een concreet geval. **Het is illustratief**: uw dak, uw verbruik en uw 
 
 | Post | Volume | Eenheidswaarde | Jaarwinst |
 |---|---|---|---|
-| Zelf verbruikte elektriciteit | 1.435 kWh | 36,94 c€ | **530 €** |
-| Geïnjecteerd overschot | 2.365 kWh | 3,5 c€ | **83 €** |
-| **Totaal** | 3.800 kWh | | **613 €** |
+| Zelf verbruikte elektriciteit | 1 435 kWh | 36,94 c€ | **530 €** |
+| Geïnjecteerd overschot | 2 365 kWh | 3,5 c€ | **83 €** |
+| **Totaal** | 3 800 kWh | | **613 €** |
 
-Eenvoudige terugverdientijd: **6.000 / 613 ≈ 9,8 jaar**. Te vergelijken met de **zes jaar** die het Waals Gewest in oktober 2023 naar voren schoof voor een installatie met 40 % zelfverbruik — een verschil dat grotendeels te wijten is aan de ineenstorting van de waarde van het overschot sindsdien.
+Eenvoudige terugverdientijd: **6 000 / 613 ≈ 9,8 jaar**. Te vergelijken met de **zes jaar** die het Waals Gewest in oktober 2023 naar voren schoof voor een installatie met 40 % zelfverbruik — een verschil dat grotendeels te wijten is aan de ineenstorting van de waarde van het overschot sindsdien.
 
 Deze berekening blijft bewust eenvoudig: ze negeert de inflatie van de elektriciteitsprijs (2,5 %/jaar in de hypothesen van de Waalse simulator), de degradatie van de modules (0,5 %/jaar), de vervanging van de omvormer rond het twaalfde jaar en het onderhoud. Die posten compenseren elkaar deels en veranderen de conclusie niet.
 
 **De conclusie zit in het onevenwicht van de tweede kolom.**
 
-Die graad van 37,76 % is een regelgevend gemiddelde. Een gezin waarvan het huis overdag leeg staat, zit eerder rond 30 %, omdat 85,8 % van de jaarproductie tussen 9 en 17 uur valt. Wat dat profiel kan terugwinnen, en waar het op een grens stoot, is becijferd in [“Zonnepanelen: overdag niemand thuis”](/nl/nieuws/2026/09/12/zonnepanelen-overdag-niet-thuis/).
+Die graad van 37,76 % is een regelgevend gemiddelde. Een gezin waarvan het huis overdag leeg staat, zit eerder rond 30 %, omdat 85,8 % van de jaarproductie tussen 9 en 17 uur valt. Wat dat profiel kan terugwinnen, en waar het op een grens stoot, is becijferd in [“Zonnepanelen: overdag niemand thuis”](/nl/gidsen/zonnepanelen-overdag-niet-thuis/).
 
 ## Het echte probleem is niet de prijs van de panelen — het is het lot van het overschot
 
@@ -124,7 +125,7 @@ Daaruit volgen drie praktische gevolgen, en ze keren de gebruikelijke adviezen o
 
 **Overdimensioneren werkt averechts.** Elke kilowattuur die u produceert boven wat u kunt opnemen, vertrekt tegen het injectietarief. Een twee keer zo grote installatie verdubbelt de winst niet, ze verdubbelt vooral het volume dat 3 cent waard is.
 
-**Het injectietarief is geen variabele die u beheerst.** Het is nergens in België gereguleerd, het verschilt met een factor vijf tussen leveranciers, en het volgt de groothandelsmarkt. Bij dynamische contracten is het zelfs erger: zoals wij aangaven in “[Welk elektriciteitstarief kiezen in België?](/nl/nieuws/2026/08/03/elektriciteitstarief-kiezen-belgie/)” betaalde **99 % van de gezinnen met panelen méér** onder een dynamisch contract, met een mediane stijging van 20 %, juist omdat hun overschot toekomt op het ogenblik dat de prijzen instorten.
+**Het injectietarief is geen variabele die u beheerst.** Het is nergens in België gereguleerd, het verschilt met een factor vijf tussen leveranciers, en het volgt de groothandelsmarkt. Bij dynamische contracten is het zelfs erger: zoals wij aangaven in “[Welk elektriciteitstarief kiezen in België?](/nl/gidsen/elektriciteitstarief-kiezen-belgie/)” betaalde **99 % van de gezinnen met panelen méér** onder een dynamisch contract, met een mediane stijging van 20 %, juist omdat hun overschot toekomt op het ogenblik dat de prijzen instorten.
 
 De hele vraag naar de rendabiliteit van een Waalse fotovoltaïsche installatie in 2026 komt dus neer op deze: **wat doet u met die 62 %?**
 
@@ -136,7 +137,7 @@ Er zijn maar drie mogelijke antwoorden, en het loont ze naast elkaar te zetten, 
 |---|---|---|---|
 | Wat het doet | Verkopen aan de leverancier | Verbruik in de tijd verschuiven | Afstaan aan andere deelnemers van een deeloperatie |
 | Waarde per kWh | **0,94 tot 4,90 c€** | ≈ 36,94 c€ (uitgesteld zelfverbruik) | **3 tot 14 c€** |
-| Investering | 0 € | **4.250 tot 7.250 €** voor 5 à 10 kWh | 0 € |
+| Investering | 0 € | **4 250 tot 7 250 €** voor 5 à 10 kWh | 0 € |
 | Waalse steun | geen | **geen opslagpremie** | geen, maar −80 % op de proportionele term binnen eenzelfde gebouw |
 | Eigen terugverdientijd | — | **bijna vijftien jaar** | onmiddellijk |
 | Overal beschikbaar | ja | ja | **neen** — zie verder |
@@ -146,9 +147,9 @@ Drie lezingen, en ze gaan niet de richting uit die men gewoonlijk hoort.
 
 ### De batterij is doeltreffend maar duur
 
-Dat is het overheersende antwoord van vergelijkingssites en installateurs, en het is niet fout: een batterij tilt het zelfverbruikspercentage van 30-40 % naar **70-80 %**. In ons geval voegt de sprong van 37,76 % naar 75 % 1.415 kWh zelfverbruik toe, goed voor **+473 € per jaar**, na aftrek van de op die kilowattuur misgelopen injectievergoeding.
+Dat is het overheersende antwoord van vergelijkingssites en installateurs, en het is niet fout: een batterij tilt het zelfverbruikspercentage van 30-40 % naar **70-80 %**. In ons geval voegt de sprong van 37,76 % naar 75 % 1 415 kWh zelfverbruik toe, goed voor **+473 € per jaar**, na aftrek van de op die kilowattuur misgelopen injectievergoeding.
 
-Maar 7.000 € uitgeven om 473 € per jaar te winnen is een terugverdientijd van **bijna vijftien jaar** voor de batterij alleen — ongeveer haar levensduur, en terwijl Wallonië **geen opslagpremie** betaalt, in tegenstelling tot Vlaanderen tot 2023. De vaak geciteerde tien tot dertien jaar veronderstellen een groter overschot dan het onze, of arbitrage tussen de banden van het Impact-tarief: laden in de ECO-band aan 2,71 c€/kWh om te ontladen in de PIEK-band aan 13,54 c€/kWh van het ORES-tarief 2026. De berekening verbetert ook als u overdag afwezig bent.
+Maar 7 000 € uitgeven om 473 € per jaar te winnen is een terugverdientijd van **bijna vijftien jaar** voor de batterij alleen — ongeveer haar levensduur, en terwijl Wallonië **geen opslagpremie** betaalt, in tegenstelling tot Vlaanderen tot 2023. De vaak geciteerde tien tot dertien jaar veronderstellen een groter overschot dan het onze, of arbitrage tussen de banden van het Impact-tarief: laden in de ECO-band aan 2,71 c€/kWh om te ontladen in de PIEK-band aan 13,54 c€/kWh van het ORES-tarief 2026. De berekening verbetert ook als u overdag afwezig bent.
 
 ### Injecteren is gratis maar bespottelijk
 
@@ -158,7 +159,7 @@ Dat is de standaardoptie, degene die geldt als u niets doet. Ze kost niets en vr
 
 Dat is de optie die niemand vermeldt, en de enige die de waarde van het overschot verhoogt **zonder investering**. Daar komen we nu aan toe.
 
-Die drie opties sluiten elkaar overigens niet uit, en dat is belangrijk: een batterij zet overschot om in uitgesteld zelfverbruik, delen valoriseert wat overblijft, injectie raapt het saldo op. **De rationele volgorde is: uw verbruik verschuiven, dan delen, dan een batterij overwegen** als het resterende overschot dat nog rechtvaardigt. Het detail toestel per toestel — warmwaterboiler, het laden van de auto, batterij — en het klassement in geïnvesteerde euro per opgenomen kilowattuur staan in [Zonne-overschot: de 5 opties vergeleken](/nl/nieuws/2026/08/18/wat-doen-met-je-zonne-overschot-belgie/).
+Die drie opties sluiten elkaar overigens niet uit, en dat is belangrijk: een batterij zet overschot om in uitgesteld zelfverbruik, delen valoriseert wat overblijft, injectie raapt het saldo op. **De rationele volgorde is: uw verbruik verschuiven, dan delen, dan een batterij overwegen** als het resterende overschot dat nog rechtvaardigt. Het detail toestel per toestel — warmwaterboiler, het laden van de auto, batterij — en het klassement in geïnvesteerde euro per opgenomen kilowattuur staan in [Zonne-overschot: de 5 opties vergeleken](/nl/gidsen/wat-doen-met-je-zonne-overschot-belgie/).
 
 ## Wat delen werkelijk aan de berekening verandert
 
@@ -166,7 +167,7 @@ Energiedelen betekent dat, kwartier per kwartier, een deel van uw productie word
 
 ### Het cijfer dat telt: de interne overdrachtsprijs
 
-Wij wijdden er een volledig artikel aan, “[Interne overdrachtsprijs in een gemeenschap](/nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/)”. Wat hier telt, past in twee grenzen:
+Wij wijdden er een volledig artikel aan, “[Interne overdrachtsprijs in een gemeenschap](/nl/gidsen/prijs-elektriciteit-energiegemeenschap/)”. Wat hier telt, past in twee grenzen:
 
 - **De ondergrens is het injectietarief** — 0,94 tot 4,90 c€/kWh. Daaronder heeft geen enkele producent er belang bij te delen in plaats van aan zijn leverancier te verkopen.
 - **De bovengrens is de energiecomponent die de verbruiker al betaalt**, rond 14 c€/kWh. Daarboven heeft geen enkele verbruiker er belang bij mee te doen.
@@ -175,7 +176,7 @@ De verdedigbare vork is dus **3 tot 14 c€/kWh**. Het gedocumenteerde Belgische
 
 ### Het effect op het illustratieve geval
 
-Nemen we onze 2.365 kWh overschot opnieuw.
+Nemen we onze 2 365 kWh overschot opnieuw.
 
 | Bestemming van het overschot | Eenheidsprijs | Opbrengst van het overschot | Totale jaarwinst | Terugverdientijd |
 |---|---|---|---|---|
@@ -207,29 +208,29 @@ Voor een installatie van na 2024 kost dat niets: er valt niets op te geven. Voor
 
 ### De afweging in cijfers
 
-Nemen we ons gezin opnieuw, maar deze keer met een installatie uit 2022 die de compensatie behoudt tot 31 december 2030. Het verbruikt 3.500 kWh per jaar en produceert 3.800 kWh.
+Nemen we ons gezin opnieuw, maar deze keer met een installatie uit 2022 die de compensatie behoudt tot 31 december 2030. Het verbruikt 3 500 kWh per jaar en produceert 3 800 kWh.
 
 | | **In de compensatie blijven** | **Afzien en delen aan 6 c€** |
 |---|---|---|
-| Tegen de volle prijs gevaloriseerde stroom | 3.500 kWh (jaarlijkse compensatie) | 1.435 kWh (werkelijk zelfverbruik) |
-| Overeenkomstige winst | 1.293 € | 530 € |
-| Gevaloriseerd overschot | 300 kWh **onvergoed** | 2.365 kWh × 6 c€ = 142 € |
+| Tegen de volle prijs gevaloriseerde stroom | 3 500 kWh (jaarlijkse compensatie) | 1 435 kWh (werkelijk zelfverbruik) |
+| Overeenkomstige winst | 1 293 € | 530 € |
+| Gevaloriseerd overschot | 300 kWh **onvergoed** | 2 365 kWh × 6 c€ = 142 € |
 | Prosumententarief | − 343 € (4 kWe × 85,84 € incl. btw) | vervat in de bruto-afname |
 | **Nettojaarwinst** | **≈ 950 €** | **≈ 672 €** |
 
-Afzien zou dit gezin **ongeveer 278 € per jaar** kosten, tegen eind 2030 bijna **1.200 €**. De conclusie is duidelijk: **zie er niet van af.**
+Afzien zou dit gezin **ongeveer 278 € per jaar** kosten, tegen eind 2030 bijna **1 200 €**. De conclusie is duidelijk: **zie er niet van af.**
 
 ### Tenzij uw installatie overgedimensioneerd is
 
 En hier komt de ommekeer die niemand publiceert. De compensatie valoriseert uw productie **slechts tot het niveau van uw eigen jaarverbruik**. Alles wat u daarboven produceert, wordt niet vergoed: het gaat gratis naar het net.
 
-Nemen we dus een tweede profiel, erg courant bij gezinnen die in 2022-2023 ruim installeerden: **6 kWp, 5.700 kWh geproduceerd, 2.500 kWh verbruikt.**
+Nemen we dus een tweede profiel, erg courant bij gezinnen die in 2022-2023 ruim installeerden: **6 kWp, 5 700 kWh geproduceerd, 2 500 kWh verbruikt.**
 
 | | **In de compensatie blijven** | **Afzien en delen aan 6 c€** |
 |---|---|---|
-| Tegen de volle prijs gevaloriseerde stroom | 2.500 kWh (begrensd door het verbruik) | ≈ 1.425 kWh (25 % zelfverbruik) |
+| Tegen de volle prijs gevaloriseerde stroom | 2 500 kWh (begrensd door het verbruik) | ≈ 1 425 kWh (25 % zelfverbruik) |
 | Overeenkomstige winst | 924 € | 526 € |
-| Gevaloriseerd overschot | 3.200 kWh **verloren** | 4.275 kWh × 6 c€ = 257 € |
+| Gevaloriseerd overschot | 3 200 kWh **verloren** | 4 275 kWh × 6 c€ = 257 € |
 | Prosumententarief | − 515 € (6 kWe × 85,84 € incl. btw) | vervat in de bruto-afname |
 | **Nettojaarwinst** | **≈ 409 €** | **≈ 783 €** |
 
@@ -253,7 +254,7 @@ Dimensioneer op uw verbruik, niet op uw dak. Vraag minstens drie offertes, eis 6
 
 ### Mijn installatie dateert van 2024 of later
 
-U hebt niets te verliezen en alles te winnen bij delen. Uw prioriteit: uw verbruik verschuiven naar de productie-uren, en dan een deeloperatie zoeken. Voorwaarden en stappen staan in “[Toetreden tot een energiegemeenschap in Wallonië](/nl/nieuws/2026/05/11/energiegemeenschap-aansluiten-wallonie/)”.
+U hebt niets te verliezen en alles te winnen bij delen. Uw prioriteit: uw verbruik verschuiven naar de productie-uren, en dan een deeloperatie zoeken. Voorwaarden en stappen staan in “[Toetreden tot een energiegemeenschap in Wallonië](/nl/gidsen/energiegemeenschap-aansluiten-wallonie/)”.
 
 ### Mijn installatie dateert van vóór 2024
 
@@ -261,17 +262,17 @@ Zie nergens van af vóór u de berekening van de vorige sectie op **uw** jaarafr
 
 ### Ik ben huurder of woon in een appartement
 
-Installeren kunt u wellicht niet, ontvangen wel. Delen binnen eenzelfde gebouw is de gunstigste opstelling van Wallonië en vereist geen rechtspersoon: een dak in mede-eigendom volstaat. Het mechanisme, vanuit het standpunt van de verbruiker, staat beschreven in “[Zelfverbruik van energie in België](/nl/nieuws/2026/06/05/zelfverbruik-energie-belgie/)”.
+Installeren kunt u wellicht niet, ontvangen wel. Delen binnen eenzelfde gebouw is de gunstigste opstelling van Wallonië en vereist geen rechtspersoon: een dak in mede-eigendom volstaat. Het mechanisme, vanuit het standpunt van de verbruiker, staat beschreven in “[Zelfverbruik van energie in België](/nl/gidsen/zelfverbruik-energie-belgie/)”.
 
-Sinds 17 april 2025 kunt u ook zelf een beetje produceren: een verplaatsbare fotovoltaïsche kit in een gewoon stopcontact is in België voortaan toegelaten, en hij verhuist met u mee. De volledige berekening — en wat de oriëntatie van een balkon eraan verandert — staat in [“Huurder: zonne-energie zonder eigen dak”](/nl/nieuws/2026/09/16/zonne-energie-huurder-zonder-dak-gids/).
+Sinds 17 april 2025 kunt u ook zelf een beetje produceren: een verplaatsbare fotovoltaïsche kit in een gewoon stopcontact is in België voortaan toegelaten, en hij verhuist met u mee. De volledige berekening — en wat de oriëntatie van een balkon eraan verandert — staat in [“Huurder: zonne-energie zonder eigen dak”](/nl/gidsen/zonne-energie-huurder-zonder-dak-gids/).
 
 ## Wat u moet onthouden
 
-1. **Ja, het is nog rendabel — ongeveer tien jaar terugverdientijd** in een illustratief geval van 4 kWp voor 6.000 €, tegenover de zes jaar die in 2023 werden aangekondigd. Het verschil komt bijna volledig van de ineenstorting van de waarde van het overschot.
+1. **Ja, het is nog rendabel — ongeveer tien jaar terugverdientijd** in een illustratief geval van 4 kWp voor 6 000 €, tegenover de zes jaar die in 2023 werden aangekondigd. Het verschil komt bijna volledig van de ineenstorting van de waarde van het overschot.
 2. **62 % van de productie levert slechts 13,5 % van de opbrengst op.** Daar, en nergens anders, wordt in 2026 de rendabiliteit van een Waalse installatie beslecht.
 3. **Het injectietarief is niet gereguleerd en niet te beheersen**: van 0,94 tot 4,90 c€/kWh naargelang de leverancier, gemiddeld 3 à 4 cent, en structureel dalend.
 4. **Delen verdubbelt tot verdrievoudigt de waarde van het overschot** en haalt één tot twee jaar van de terugverdientijd, zonder investering. Het is de enige gratis hefboom die op die 62 % ingrijpt.
-5. **Een batterij levert meer op maar kost 4.250 tot 7.250 €**, zonder enige Waalse premie, voor een eigen terugverdientijd van meer dan tien jaar — bijna vijftien in ons geval. Ze vult delen aan, ze beconcurreert het niet.
+5. **Een batterij levert meer op maar kost 4 250 tot 7 250 €**, zonder enige Waalse premie, voor een eigen terugverdientijd van meer dan tien jaar — bijna vijftien in ons geval. Ze vult delen aan, ze beconcurreert het niet.
 6. **Deelnemen aan delen betekent definitief afzien van de compensatie.** Voor een installatie van na 2024 kost dat niets. Voor een oudere kan het ongeveer 278 € per jaar kosten — of er 374 opbrengen als de installatie overgedimensioneerd is.
 7. **31 december 2030 zet iedereen in dezelfde positie.** Die dag verdwijnt de compensatie voor iedereen, en wordt de vraag van het overschot de enige die telt.
 
@@ -287,7 +288,7 @@ Wat u er niet van moet verwachten: energiedelen maakt van een slechte installati
 
 ### Zijn zonnepanelen in 2026 nog rendabel in Wallonië?
 
-Ja, maar met een langere terugverdientijd dan ten tijde van de compensatie en veel gevoeliger voor uw verbruiksprofiel. In een illustratief geval van 4 kWp voor 6.000 € inclusief btw, met 3.800 kWh jaarproductie en een zelfverbruikspercentage van 37,76 %, bedraagt de jaarwinst ongeveer **613 €** — waarvan 530 € uit stroom die u niet meer betaalt en slechts 83 € uit de verkoop van het overschot. Dat geeft een terugverdientijd van ongeveer **tien jaar**, tegenover de zes jaar die het Waals Gewest in 2023 noemde voor een installatie met 40 % zelfverbruik. Het verschil tussen een goede en een slechte installatie ligt niet meer bij de offerteprijs, maar bij het aandeel van de productie dat u zelf verbruikt.
+Ja, maar met een langere terugverdientijd dan ten tijde van de compensatie en veel gevoeliger voor uw verbruiksprofiel. In een illustratief geval van 4 kWp voor 6 000 € inclusief btw, met 3 800 kWh jaarproductie en een zelfverbruikspercentage van 37,76 %, bedraagt de jaarwinst ongeveer **613 €** — waarvan 530 € uit stroom die u niet meer betaalt en slechts 83 € uit de verkoop van het overschot. Dat geeft een terugverdientijd van ongeveer **tien jaar**, tegenover de zes jaar die het Waals Gewest in 2023 noemde voor een installatie met 40 % zelfverbruik. Het verschil tussen een goede en een slechte installatie ligt niet meer bij de offerteprijs, maar bij het aandeel van de productie dat u zelf verbruikt.
 
 ### Wat gebeurt er met mijn installatie na 31 december 2030?
 
@@ -299,11 +300,11 @@ Ja, en dat is het minst bekende punt van het hele dossier. De CWaPE koppelt deel
 
 ### Hoeveel is mijn zonneoverschot waard als ik het niet deel?
 
-Bijzonder weinig. Volgens de vergelijking van Test-Aankoop van 28 mei 2026 loopt het injectietarief in Vlaanderen en Wallonië van **0,94 c€/kWh** bij Mega Zen Fixed tot **4,90 c€/kWh** bij Energy Knights en Eneco, met een gemiddelde van 3 à 4 cent. Op 2.500 geïnjecteerde kWh vertegenwoordigt het verschil tussen het beste en het slechtste contract 23 tot 122 € per jaar. Geen van die tarieven is in België gereguleerd, en verschillende volgen de groothandelsmarkt — waardoor dynamische contracten worden blootgesteld aan nul- of zelfs negatieve prijzen, net op de uren waarop uw dak het meest produceert.
+Bijzonder weinig. Volgens de vergelijking van Test-Aankoop van 28 mei 2026 loopt het injectietarief in Vlaanderen en Wallonië van **0,94 c€/kWh** bij Mega Zen Fixed tot **4,90 c€/kWh** bij Energy Knights en Eneco, met een gemiddelde van 3 à 4 cent. Op 2 500 geïnjecteerde kWh vertegenwoordigt het verschil tussen het beste en het slechtste contract 23 tot 122 € per jaar. Geen van die tarieven is in België gereguleerd, en verschillende volgen de groothandelsmarkt — waardoor dynamische contracten worden blootgesteld aan nul- of zelfs negatieve prijzen, net op de uren waarop uw dak het meest produceert.
 
 ### Batterij of energiedelen: waarvoor kiest u voor uw overschot?
 
-Beide zijn geen concurrenten, ze grijpen op verschillende plaatsen in. Een batterij zet overschot om in uitgesteld zelfverbruik en tilt het zelfverbruikspercentage van 30-40 % naar **70-80 %**, wat enkele honderden euro's per jaar waard is — maar ze kost **4.250 tot 7.250 €** voor 5 à 10 kWh, Wallonië betaalt geen opslagpremie, en haar eigen terugverdientijd ligt tussen bijna vijftien jaar. Energiedelen brengt minder op, maar kost geen kapitaal: het valoriseert wat na zelfverbruik overblijft, tegen een onderhandelde 3 à 14 c€/kWh in plaats van het injectietarief. De logische volgorde is dus eerst uw verbruik verschuiven, dan delen, en pas daarna een batterij overwegen als het resterende overschot dat nog rechtvaardigt. Het prijsoverzicht per geïnstalleerde kilowattuur en de aangifteplicht die een compensatie van vóór 2024 kan breken, komen aan bod in ["Thuisbatterij: de prijs en het alternatief"](/nl/nieuws/2026/09/22/thuisbatterij-prijs-of-energiedelen/).
+Beide zijn geen concurrenten, ze grijpen op verschillende plaatsen in. Een batterij zet overschot om in uitgesteld zelfverbruik en tilt het zelfverbruikspercentage van 30-40 % naar **70-80 %**, wat enkele honderden euro's per jaar waard is — maar ze kost **4 250 tot 7 250 €** voor 5 à 10 kWh, Wallonië betaalt geen opslagpremie, en haar eigen terugverdientijd ligt tussen bijna vijftien jaar. Energiedelen brengt minder op, maar kost geen kapitaal: het valoriseert wat na zelfverbruik overblijft, tegen een onderhandelde 3 à 14 c€/kWh in plaats van het injectietarief. De logische volgorde is dus eerst uw verbruik verschuiven, dan delen, en pas daarna een batterij overwegen als het resterende overschot dat nog rechtvaardigt. Het prijsoverzicht per geïnstalleerde kilowattuur en de aangifteplicht die een compensatie van vóór 2024 kan breken, komen aan bod in [“Thuisbatterij: de prijs en het alternatief”](/nl/gidsen/thuisbatterij-prijs-of-energiedelen/).
 
 ### Mag ik mijn stroom delen als ik na 2024 heb geïnstalleerd?
 
@@ -317,11 +318,11 @@ Ja, en dat is het gunstigste geval. Een installatie die vanaf 1 januari 2024 in 
 - [CWaPE — Het prosumententarief](https://www.cwape.be/node/148) — definitie van het tarief, inwerkingtreding op 1 januari 2020, standaardtoepassing op prosumenten zonder dubbele-fluxmeter, en vrijstelling van beschermde klanten met sociaal tarief.
 - [CWaPE — Energiedelen](https://www.cwape.be/node/5618) — pagina bijgewerkt op 20 november 2025: vormen van delen die in Wallonië beschikbaar zijn, kennisgevings- of vergunningsprocedure, berekening van de gedeelde volumes per kwartier en toegelaten verdeelsleutels; lijst van vergunde operaties.
 - [CWaPE — ORES, periodieke afnametarieven 2026](https://www.cwape.be/sites/default/files/cwape-documents/ORES%20-%20Tarifs%20p%C3%A9riodiques%20de%20pr%C3%A9l%C3%A8vement%202026_0.pdf) — tarief goedgekeurd op 18 december 2025 en geldig van 1 januari tot 31 december 2026: prosumententerm van 80,9813336 €/kWe exclusief btw, Impact-banden ECO aan 2,71 c€/kWh en PIEK aan 13,54 c€/kWh, en de vermindering van 80 % op de proportionele term die voorbehouden is aan delen binnen eenzelfde gebouw.
-- [Test-Aankoop — Kostprijs van op het net geïnjecteerde zonnestroom](https://www.test-achats.be/maison-energie/energie-renouvelable/news/cout-energie-solaire-injectee) — vergelijking van 28 mei 2026: injectietarieven van 0,94 c€/kWh (Mega Zen Fixed) tot 4,90 c€/kWh (Energy Knights, Eneco) in Vlaanderen en Wallonië, gemiddeld 3 à 4 cent, een spreiding van 23 tot 122 € per jaar op 2.500 geïnjecteerde kWh, en een waarschuwing over variabele contracten die de afvoer van het overschot kunnen aanrekenen.
-- [Test-Aankoop — Fotovoltaïsche panelen: nog steeds interessant?](https://www.test-achats.be/maison-energie/energie-renouvelable/dossier/panneaux-photovoltaiques-toujours-interessant) — bron van de prijsordegroottes (beste aanbiedingen onder 1.250 €/kWp all-in) en van het zelfverbruikspercentage van 30 tot 50 % zonder opslag.
-- [Renouvelle — Zonnestroom in België 2025: ambities om te herlanceren](https://www.renouvelle.be/fr/photovoltaique-belgique-2025-bilan-ambitions/) — balans van 16 februari 2026: ongeveer 900 MWp bijgeplaatst in België en slechts 100 MWp in Wallonië in 2025, Waals doel van 5.100 GWh/jaar of zowat 6 GWp tegen 2030, vereist tempo van 500 tot 600 MWp per jaar, en een uitdrukkelijk verband tussen de vertraging en het einde van de overheidssteun.
+- [Test-Aankoop — Kostprijs van op het net geïnjecteerde zonnestroom](https://www.test-achats.be/maison-energie/energie-renouvelable/news/cout-energie-solaire-injectee) — vergelijking van 28 mei 2026: injectietarieven van 0,94 c€/kWh (Mega Zen Fixed) tot 4,90 c€/kWh (Energy Knights, Eneco) in Vlaanderen en Wallonië, gemiddeld 3 à 4 cent, een spreiding van 23 tot 122 € per jaar op 2 500 geïnjecteerde kWh, en een waarschuwing over variabele contracten die de afvoer van het overschot kunnen aanrekenen.
+- [Test-Aankoop — Fotovoltaïsche panelen: nog steeds interessant?](https://www.test-achats.be/maison-energie/energie-renouvelable/dossier/panneaux-photovoltaiques-toujours-interessant) — bron van de prijsordegroottes (beste aanbiedingen onder 1 250 €/kWp all-in) en van het zelfverbruikspercentage van 30 tot 50 % zonder opslag.
+- [Renouvelle — Zonnestroom in België 2025: ambities om te herlanceren](https://www.renouvelle.be/fr/photovoltaique-belgique-2025-bilan-ambitions/) — balans van 16 februari 2026: ongeveer 900 MWp bijgeplaatst in België en slechts 100 MWp in Wallonië in 2025, Waals doel van 5 100 GWh/jaar of zowat 6 GWp tegen 2030, vereist tempo van 500 tot 600 MWp per jaar, en een uitdrukkelijk verband tussen de vertraging en het einde van de overheidssteun.
 - [Renouvelle — Fotovoltaïsch observatorium](https://www.renouvelle.be/fr/faits-chiffres/observatoire-photovoltaique/) — Belgisch park van 12,8 GWp eind 2025, meer dan 10 TWh geproduceerd volgens ELIA, ongeveer 13 % van het nationale elektriciteitsverbruik.
-- [Énergie Commune — Waalse financiële simulator voor zonnestroom](https://sifpv.energiecommune.be/) — instrument ontwikkeld door Énergie Commune (voorheen APERe) met steun van het Waals Gewest: hypothesen van ongeveer 1.000 kWh/kWp/jaar opbrengst, performance ratio van 85 %, degradatie van 0,5 %/jaar, levensduur van 25 jaar, vervanging van de omvormer in het twaalfde jaar, en het standaard zelfverbruikspercentage van 37,76 % dat in ons illustratieve geval is gebruikt.
-- [CREG — Maandelijks dashboard](https://www.creg.be/fr/professionnels/fonctionnement-et-monitoring-du-marche/tableau-de-bord) — all-inprijs van 36,94 c€/kWh voor een residentieel profiel van 3.500 kWh/jaar op enkelvoudig tarief en verdeling 38,5 / 29,7 / 26,1 / 5,7 % tussen energie, net, belastingen en btw (hier gebruikte editie van juni 2026).
+- [Énergie Commune — Waalse financiële simulator voor zonnestroom](https://sifpv.energiecommune.be/) — instrument ontwikkeld door Énergie Commune (voorheen APERe) met steun van het Waals Gewest: hypothesen van ongeveer 1 000 kWh/kWp/jaar opbrengst, performance ratio van 85 %, degradatie van 0,5 %/jaar, levensduur van 25 jaar, vervanging van de omvormer in het twaalfde jaar, en het standaard zelfverbruikspercentage van 37,76 % dat in ons illustratieve geval is gebruikt.
+- [CREG — Maandelijks dashboard](https://www.creg.be/fr/professionnels/fonctionnement-et-monitoring-du-marche/tableau-de-bord) — all-inprijs van 36,94 c€/kWh voor een residentieel profiel van 3 500 kWh/jaar op enkelvoudig tarief en verdeling 38,5 / 29,7 / 26,1 / 5,7 % tussen energie, net, belastingen en btw (hier gebruikte editie van juni 2026).
 - [Renouvelle — Delen en energiegemeenschappen in Wallonië: het advies van de CWaPE](https://www.renouvelle.be/fr/partage-et-communautes-energie-en-wallonie-avis-de-la-cwape/) — evaluatie van 18 maart 2025: 4 deeloperaties binnen eenzelfde gebouw en 3 binnen een energiegemeenschap, zes door de regulator vastgestelde remmen, en de conclusie dat de doelstellingen van de Europese richtlijnen niet worden gehaald.
 - [UVCW — Energiegemeenschappen: de Waalse Regering verruimt het begrip “lokale overheid”](https://www.uvcw.be/energie/actus/art-9974) — het werkelijke voorwerp van het besluit van de Waalse Regering van 5 februari 2026, gepubliceerd in het Belgisch Staatsblad op 25 februari 2026: herstel van artikel 4 van het besluit van 17 maart 2023 dat de Raad van State op 28 maart 2025 vernietigde, zonder gevolg voor peer-to-peerdelen.

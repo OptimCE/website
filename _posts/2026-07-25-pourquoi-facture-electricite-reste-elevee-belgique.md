@@ -8,6 +8,8 @@ description: "L'énergie ne pèse que 40 % de la facture. Décomposition des qua
 tags: [community, administrative, guide]
 lang: fr
 ref: why-electricity-bill-stays-high
+pillar: facture-electricite
+permalink: /guides/pourquoi-facture-electricite-reste-elevee-belgique/
 last_modified_at: 2026-08-05 10:00:00 +0200
 faq:
   - q: "Pourquoi ma facture d'électricité ne baisse-t-elle pas alors que les prix de l'énergie ont baissé ?"
@@ -57,7 +59,7 @@ Trois conséquences immédiates, et elles expliquent l'essentiel du malaise :
 
 - **Une baisse de l'énergie s'amortit d'un facteur deux et demi.** Si le prix de la commodité recule de 20 %, votre facture ne recule que d'environ 8 %. Sur 1 293 €, cela fait une centaine d'euros — visible, mais loin de la sensation annoncée par les titres de presse.
 - **La TVA amplifie les hausses des autres blocs.** À 6 %, elle s'applique par-dessus l'énergie, le réseau et la plupart des surcharges. Toute augmentation du tarif de réseau se voit donc majorée de 6 % au passage. Deux exceptions notables : la redevance de raccordement wallonne et la cotisation au fonds énergie flamand en sont exemptées (CREG).
-- **Le poids du réseau change fortement selon l'endroit.** En Wallonie, il grimpe à 32,7 % de la facture, contre 24,6 % à Bruxelles (CREG, juin 2026, détaillé dans notre guide [« Prix de cession interne en communauté d'énergie »](/actualites/2026/07/20/prix-electricite-communaute-energie/)). Un même geste ne produit donc pas le même effet d'une région à l'autre.
+- **Le poids du réseau change fortement selon l'endroit.** En Wallonie, il grimpe à 32,7 % de la facture, contre 24,6 % à Bruxelles (CREG, juin 2026, détaillé dans notre guide [« Prix de cession interne en communauté d'énergie »](/guides/prix-electricite-communaute-energie/)). Un même geste ne produit donc pas le même effet d'une région à l'autre.
 
 ## Les coûts de réseau montent quand vos kWh baissent
 
@@ -156,7 +158,7 @@ Nous arrivons à la question qui intéresse les lecteurs de ce blog. Si l'énerg
 
 Et un poste que presque aucune simulation n'anticipe : **votre fournisseur peut facturer des frais liés à votre participation au partage.** Rien ne l'interdit, et les montants relevés vont jusqu'à environ 150 € par an et par point de fourniture. Sur de petits volumes partagés, ces frais annulent le gain — Test-Achats en avait fait la raison de ne plus recommander le partage en Wallonie et en Flandre (évaluation datée de mai 2024, à revérifier avant toute décision).
 
-Ce que le partage achète réellement, alors ? Un prix **plus bas et surtout plus stable** sur une partie du bloc énergie, sans changer de fournisseur ni installer de panneaux. Les mécanismes d'économie, chiffres à l'appui, sont détaillés dans [« Réduire sa facture d'électricité en communauté »](/actualites/2026/06/03/communaute-energie-reduire-facture-electricite/) ; la manière de fixer le prix interne, dans [« Prix de cession interne en communauté d'énergie »](/actualites/2026/07/20/prix-electricite-communaute-energie/) ; et le choix entre autoconsommation individuelle, collective et communauté d'énergie, dans [« Autoconsommation collective en Belgique »](/actualites/2026/06/05/autoconsommation-energie-belgique/). Si vous en êtes au stade des volumes plutôt que des euros, notre article de référence [« Clé de répartition en Belgique : les 3 régions »](/actualites/2026/05/19/cle-repartition-communaute-energie-belgique/) explique comment se décide la part de production qui vous revient.
+Ce que le partage achète réellement, alors ? Un prix **plus bas et surtout plus stable** sur une partie du bloc énergie, sans changer de fournisseur ni installer de panneaux. Les mécanismes d'économie, chiffres à l'appui, sont détaillés dans [« Réduire sa facture d'électricité en communauté »](/guides/communaute-energie-reduire-facture-electricite/) ; la manière de fixer le prix interne, dans [« Prix de cession interne en communauté d'énergie »](/guides/prix-electricite-communaute-energie/) ; et le choix entre autoconsommation individuelle, collective et communauté d'énergie, dans [« Autoconsommation collective en Belgique »](/guides/autoconsommation-energie-belgique/). Si vous en êtes au stade des volumes plutôt que des euros, notre article de référence [« Clé de répartition en Belgique : les 3 régions »](/guides/cle-repartition-communaute-energie-belgique/) explique comment se décide la part de production qui vous revient.
 
 ## Ce qu'il faut retenir
 
@@ -171,9 +173,9 @@ Dans l'ordre d'efficacité décroissante, voici ce sur quoi vous avez prise :
 
 Ce qu'il ne faut pas attendre : que la baisse des prix de gros, ou celle des accises, se lise clairement sur votre décompte annuel. Elle y est — diluée dans un ensemble dont elle ne représente qu'une fraction.
 
-Et si vous cherchez maintenant la liste des gestes plutôt que l'explication, notre guide [« Réduire sa facture d'électricité : Wallonie 2026 »](/actualites/2026/07/28/reduire-facture-electricite-wallonie-2026/) chiffre dix leviers wallons à partir de la grille tarifaire ORES 2026 — dont six qui ne coûtent rien.
+Et si vous cherchez maintenant la liste des gestes plutôt que l'explication, notre guide [« Réduire sa facture d'électricité : Wallonie 2026 »](/guides/reduire-facture-electricite-wallonie/) chiffre dix leviers wallons à partir de la grille tarifaire ORES 2026 — dont six qui ne coûtent rien.
 
-Et si votre question porte désormais sur le document lui-même — quelle ligne veut dire quoi, où lire le code EAN, pourquoi un index estimé fabrique une hausse qui n'existe pas — notre guide [« Lire sa facture d'électricité ligne par ligne »](/actualites/2026/07/30/comprendre-facture-electricite-ligne-par-ligne/) décode la facture poste par poste. Et si vous voulez savoir si le partage d’énergie est seulement accessible chez vous, [« Baisser sa facture sans changer de fournisseur »](/actualites/2026/08/05/electricite-moins-chere-sans-changer-de-fournisseur/) fait le test des trois régions.
+Et si votre question porte désormais sur le document lui-même — quelle ligne veut dire quoi, où lire le code EAN, pourquoi un index estimé fabrique une hausse qui n'existe pas — notre guide [« Lire sa facture d'électricité ligne par ligne »](/guides/comprendre-facture-electricite-ligne-par-ligne/) décode la facture poste par poste. Et si vous voulez savoir si le partage d’énergie est seulement accessible chez vous, [« Baisser sa facture sans changer de fournisseur »](/guides/electricite-moins-chere-sans-changer-de-fournisseur/) fait le test des trois régions.
 
 > ### Gérez votre partage d'énergie avec OptimCE
 >

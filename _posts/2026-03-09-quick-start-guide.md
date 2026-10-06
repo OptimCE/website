@@ -118,11 +118,11 @@ The functional detail of each step is covered by the [user guide](https://guide.
 
 If the subject is new to you rather than the tool, start with the framework:
 
-> **[Energy communities in Belgium: CER, CEC, CEL](/en/news/2026/05/11/energy-communities-belgium/)**
+> **[Energy communities in Belgium: CER, CEC, CEL](/en/guides/energy-communities-belgium/)**
 >
 > The three statuses, energy sharing, and the role of the regulator and the grid operator.
 
-> **[Automatic allocation key generation](/en/news/2026/05/26/automatic-allocation-key-generation/)**
+> **[Automatic allocation key generation](/en/guides/automatic-allocation-key-generation/)**
 >
 > How the generation module proposes a key from your community's real data.
 

@@ -9,7 +9,8 @@ description: "The five sections mandated since 2022, instalments versus the annu
 tags: [guide, administrative, community]
 lang: en
 ref: read-electricity-bill-belgium
-permalink: /en/news/2026/07/30/read-electricity-bill-belgium/
+pillar: facture-electricite
+permalink: /en/guides/read-electricity-bill-belgium/
 faq:
   - q: "What are the five mandatory sections of a Belgian energy bill?"
     a: "The royal decree of 9 December 2021, in force since 1 January 2022, requires five sections on every bill sent to a residential customer: A \"essential contract information\", B \"how much, when and how do I pay\", C \"I have a question\", D \"compare contracts and switch\" and E \"manage energy consumption\". These sections are identical across every supplier active in Belgium, because they transpose article 18 and Annex I of European directive 2019/944. A bill that does not contain them is not compliant."
@@ -29,7 +30,7 @@ Count the documents your electricity supplier sends you over a year: eleven inst
 
 That is the first thing to know about reading a Belgian bill, and it explains a good share of the nasty year-end surprises. The second is that since **1 January 2022**, your bill is no longer a free-form document: a royal decree requires every supplier active in Belgium to use **five named sections, on two pages**. Whether you are with Engie, Luminus, Mega, TotalEnergies or a cooperative supplier, the skeleton is the same. Learning to read it once is enough for a lifetime.
 
-This article does not re-explain *why* your bill is high — we did that in euros in ["Why your electricity bill stays high"](/en/news/2026/07/25/why-electricity-bill-still-high-belgium/) — nor *how to reduce it*, costed in ["Cutting your electricity bill: Wallonia 2026"](/en/news/2026/07/28/reduce-electricity-bill-wallonia-2026/). It explains **how to read the document**: which lines to check, in what order, what each one pays for, who actually collects it, and whom to contact when a figure looks wrong.
+This article does not re-explain *why* your bill is high — we did that in euros in ["Why your electricity bill stays high"](/en/guides/why-electricity-bill-still-high-belgium/) — nor *how to reduce it*, costed in ["Cutting your electricity bill: Wallonia 2026"](/en/guides/reduce-electricity-bill-wallonia/). It explains **how to read the document**: which lines to check, in what order, what each one pays for, who actually collects it, and whom to contact when a figure looks wrong.
 
 <img src="/assets/images/diagrams/bill-anatomy-en.svg"
      alt="Diagram of a Belgian electricity bill: the five sections required by the royal decree of 9 December 2021, with markers for the EAN code, the opening and closing meter readings and the calculation annex."
@@ -71,7 +72,7 @@ Its article 14 requires five named sections for residential customers:
 
 The stated aim was to fit on **two pages**: the information is simplified and presented on two pages only ([UVCW](https://www.uvcw.be/energie/actus/art-7031)). The calculation detail itself is moved to an annex — the document most people never look at, and precisely the one that contains the lines.
 
-Two habits follow. First, **section A contains your contract end date**: it is the most profitable single piece of information on the whole bill, because it tells you when to compare. Second, if a bill does not carry these sections, it is not compliant — and you can say so. As for **section E**, it displays the product energy mix without a word about what backs it: what that line actually proves is taken apart in [“Green electricity in Belgium: really green?”](/en/news/2026/08/22/green-electricity-belgium-really-green/).
+Two habits follow. First, **section A contains your contract end date**: it is the most profitable single piece of information on the whole bill, because it tells you when to compare. Second, if a bill does not carry these sections, it is not compliant — and you can say so. As for **section E**, it displays the product energy mix without a word about what backs it: what that line actually proves is taken apart in [“Green electricity in Belgium: really green?”](/en/guides/green-electricity-belgium-really-green/).
 
 ## The header: four lines to check before you even look at the amount
 
@@ -111,7 +112,7 @@ Two subtleties that line-by-line reading reveals and that averages hide.
 
 **VAT does not hit everything.** It applies at 6 % to most items, but the CREG flags three exemptions: the Walloon connection fee, the Flemish energy fund contribution and the protected-customer surcharge for gas in Wallonia ([CREG](https://www.creg.be/fr/consommateurs/le-marche-de-lenergie/comment-est-compose-le-prix-de-lenergie)). If you recalculate your bill and the VAT total does not add up, that is often why.
 
-**The percentages differ from one source to another, and that is not a contradiction.** ORES illustrates a €1,200 electricity bill as 44 % energy (€528), 8 % transmission (€90), 28 % distribution (€339) and 20 % taxes and VAT (€243). The CREG's June 2026 dashboard gives 38.5 % energy, 29.7 % network costs, 26.1 % taxes and 5.7 % VAT. Both are accurate: they cover neither the same consumption profile, nor the same region, nor the same date, and one isolates VAT where the other folds it into taxes. **Reading that gap is part of reading a bill** — be wary of any breakdown quoted without its profile, its region and its date. The economic analysis of these blocks, in euros and region by region, is developed in ["Why your electricity bill stays high"](/en/news/2026/07/25/why-electricity-bill-still-high-belgium/).
+**The percentages differ from one source to another, and that is not a contradiction.** ORES illustrates a €1,200 electricity bill as 44 % energy (€528), 8 % transmission (€90), 28 % distribution (€339) and 20 % taxes and VAT (€243). The CREG's June 2026 dashboard gives 38.5 % energy, 29.7 % network costs, 26.1 % taxes and 5.7 % VAT. Both are accurate: they cover neither the same consumption profile, nor the same region, nor the same date, and one isolates VAT where the other folds it into taxes. **Reading that gap is part of reading a bill** — be wary of any breakdown quoted without its profile, its region and its date. The economic analysis of these blocks, in euros and region by region, is developed in ["Why your electricity bill stays high"](/en/guides/why-electricity-bill-still-high-belgium/).
 
 For scale on the tax lines: excise duty on electricity stands at €0.05033/kWh and the energy contribution at €0.0002/kWh (Ecoconso) — the latter disappearing on 1 August 2026.
 
@@ -143,7 +144,7 @@ On **17 June 2026, the Chamber's Energy Committee approved a set of measures** i
 
 A note of honesty, in the register we keep on this blog: at this stage this is **committee approval**, and the application dates are staggered and announced rather than all enacted. We report here what was communicated in June 2026; for a binding amount or obligation, refer to your tariff sheet and to the texts published in the Belgian Official Gazette.
 
-Finally, two ghost lines worth recognising: the **federal contribution** has not existed since the end of 2021 but still appears in plenty of templates and simulators, and the **energy contribution** disappears on 1 August 2026. If either shows up on a later bill, ask the question. The excise reform is covered in our article on [the level of the bill](/en/news/2026/07/25/why-electricity-bill-still-high-belgium/).
+Finally, two ghost lines worth recognising: the **federal contribution** has not existed since the end of 2021 but still appears in plenty of templates and simulators, and the **energy contribution** disappears on 1 August 2026. If either shows up on a later bill, ask the question. The excise reform is covered in our article on [the level of the bill](/en/guides/why-electricity-bill-still-high-belgium/).
 
 ## Disputing a line? The right body depends on the line
 
@@ -173,7 +174,7 @@ If you take part in an energy community or in sharing between neighbours, your r
 
 **You receive two documents, not one.** Your supplier continues to bill you for residual energy, that is, whatever you consumed beyond the shared kWh, plus **all of the network costs and taxes**. The sharing representative separately bills you for the shared kWh. On your supplier's bill, the effect of sharing therefore does not read as a discount line: it reads as a **lower kWh volume** on the energy line, with the other lines unchanged.
 
-One line to watch nonetheless: nothing prevents a supplier from charging fees linked to your participation in sharing. The full mechanism, the mandatory items on a sharing invoice and the split of roles between supplier, network operator and representative are detailed in ["Who invoices shared electricity in Belgium"](/en/news/2026/07/23/who-invoices-shared-electricity-belgium/), and how the price of shared kWh is set in ["Internal transfer price in an energy community"](/en/news/2026/07/20/energy-community-electricity-price/).
+One line to watch nonetheless: nothing prevents a supplier from charging fees linked to your participation in sharing. The full mechanism, the mandatory items on a sharing invoice and the split of roles between supplier, network operator and representative are detailed in ["Who invoices shared electricity in Belgium"](/en/guides/who-invoices-shared-electricity-belgium/), and how the price of shared kWh is set in ["Internal transfer price in an energy community"](/en/guides/energy-community-electricity-price/).
 
 ## Key takeaways
 
@@ -189,7 +190,7 @@ A Belgian electricity bill is read in this order, and the order matters:
 
 An unreadable bill is not a regulatory fate: since 2022 the law has imposed a structure, and since June 2026 it has been imposing more price transparency step by step. What remains up to you is knowing where to look.
 
-And if your reading leads you to want to act on the energy line rather than absorb it, energy sharing is one of the few options that requires no works, no panels and no change of supplier: ["Joining an energy community in Wallonia"](/en/news/2026/05/11/join-energy-community-wallonia/) sets out the concrete steps.
+And if your reading leads you to want to act on the energy line rather than absorb it, energy sharing is one of the few options that requires no works, no panels and no change of supplier: ["Joining an energy community in Wallonia"](/en/guides/join-energy-community-wallonia/) sets out the concrete steps.
 
 > ### Manage your energy sharing with OptimCE
 >

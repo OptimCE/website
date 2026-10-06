@@ -41,7 +41,7 @@ Dat laatste weegt zwaarder dan het lijkt. Een energiegemeenschap is geen zuiver 
 
 De beginvaststelling is snel gezegd en lastig te beleven: **de administratieve complexiteit van een energiegemeenschap staat niet in verhouding tot haar omvang**.
 
-Een gemeenschap van dertig gezinnen moet dezelfde objecten beheren als een energieleverancier — leveringspunten, kwartierwaarden, verdeelsleutels, facturatie, rapportering aan de netbeheerder — zonder de mankracht en zonder de systemen. En het toepasselijke kader ligt niet vast: in België is energie een gewestelijke bevoegdheid, waardoor Wallonië, Brussel en Vlaanderen drie verschillende kaders opleggen, met eigen regulatoren en eigen families van sleutels. Het Europese kader daarboven beschrijft ons artikel [“Energiegemeenschappen in Europa: RED II en IEMD”](/nl/nieuws/2026/03/05/energiegemeenschappen-europa/).
+Een gemeenschap van dertig gezinnen moet dezelfde objecten beheren als een energieleverancier — leveringspunten, kwartierwaarden, verdeelsleutels, facturatie, rapportering aan de netbeheerder — zonder de mankracht en zonder de systemen. En het toepasselijke kader ligt niet vast: in België is energie een gewestelijke bevoegdheid, waardoor Wallonië, Brussel en Vlaanderen drie verschillende kaders opleggen, met eigen regulatoren en eigen families van sleutels. Het Europese kader daarboven beschrijft ons artikel [“Energiegemeenschappen in Europa: RED II en IEMD”](/nl/gidsen/energiegemeenschappen-europa/).
 
 De beschikbare werktuigen waren ofwel rekenbladen — soepel maar niet auditeerbaar en snel onbeheersbaar — ofwel propriëtaire oplossingen ontworpen voor spelers van een heel andere schaal.
 
@@ -101,7 +101,7 @@ Alles verloopt via de GitHub-organisatie OptimCE. De monorepo bundelt de verschi
 
 ## Verder lezen
 
-> **[Energiegemeenschappen in België: CER, CEC, CEL](/nl/nieuws/2026/05/11/energiegemeenschappen-belgie/)**
+> **[Energiegemeenschappen in België: CER, CEC, CEL](/nl/gidsen/energiegemeenschappen-belgie/)**
 >
 > De drie Belgische statuten, energiedelen, en de rol van de regulator en de netbeheerder.
 

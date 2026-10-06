@@ -28,6 +28,6 @@ The app now includes a **public registry of sharing operations**. Any community 
 
 The registry lives inside the application: **[browse the open sharing operations](https://app.optimce.be)**.
 
-If you are looking to join an existing community, our guide [“Join an energy community in Wallonia”](/en/news/2026/05/11/join-energy-community-wallonia/) sets out the eligibility conditions and what to check before you sign.
+If you are looking to join an existing community, our guide [“Join an energy community in Wallonia”](/en/guides/join-energy-community-wallonia/) sets out the eligibility conditions and what to check before you sign.
 
 As always, feedback and contributions are very welcome on [our GitHub repository](https://github.com/optimce).

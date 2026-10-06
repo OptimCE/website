@@ -8,14 +8,15 @@ description: "Zwei Algorithmen — Brute-Force über alle Standardschlüssel und
 tags: [allocation-key, app, guide]
 lang: de
 ref: optimce-allocation-key-generator
-permalink: /de/aktuelles/2026/05/26/automatische-verteilungsschluessel-generierung/
+pillar: cle-de-repartition
+permalink: /de/ratgeber/automatische-verteilungsschluessel-generierung/
 ---
 
 Den **Aufteilungsschlüssel** zu wählen, der das Beste aus der lokalen Erzeugung einer Gemeinschaft herausholt, ist schwieriger, als es scheint. Das Vokabular gibt der Regulator vor, die Standardschlüssel sind in einem Dokument von CWaPE oder Fluvius aufgelistet — und doch hängt die *richtige* Wahl von etwas ab, das keiner dieser Texte verraten kann: den realen Viertelstundenprofilen Ihrer Mitglieder. Ein Wohnviertel mit einer einzigen Schule verhält sich völlig anders als ein Gewerbepark mit Grundlast, und derselbe Schlüssel kann in einer Gemeinschaft 70 % der verfügbaren Erzeugung wiedergewinnen und in einer anderen kaum 50 %.
 
 Das **automatische Generierungsmodul für Aufteilungsschlüssel** von OptimCE ist nun verfügbar, um diese Entscheidung aus dem Bauchgefühl-Bereich herauszuholen. Geben Sie ihm eine CSV mit den realen Erzeugungs- und Verbrauchsdaten der Gemeinschaft, und es liefert einen Kandidatenschlüssel mit der erwarteten kollektiven Eigenverbrauchsrate — berechnet auf Ihren eigenen Daten, nicht auf einem Lehrbuchbeispiel. Heute werden zwei **unabhängige** Algorithmen ausgeliefert, die beide dieselbe CSV verarbeiten: ein **Brute-Force-Scan** über die regional zugelassenen Standardschlüssel und **LOGAAS**, ein hybrider Ansatz aus linearer Optimierung und genetischem Algorithmus, entwickelt von [**CeCoTePe**](https://cecotepe.be/) für das **Locomotrice**-Projekt. Weitere Algorithmen können später ergänzt werden.
 
-Wenn Sie sich noch im regulatorischen Umfeld orientieren — was CWaPE, BRUGEL und VREG als gültigen Schlüssel akzeptieren — beginnen Sie mit unserem Referenzartikel [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/).
+Wenn Sie sich noch im regulatorischen Umfeld orientieren — was CWaPE, BRUGEL und VREG als gültigen Schlüssel akzeptieren — beginnen Sie mit unserem Referenzartikel [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/ratgeber/verteilungsschluessel-energiegemeinschaft-belgien/).
 
 <img src="/assets/images/diagrams/allocation-key-flow-de.svg"
      alt="Fünfstufiges Schema: Viertelstundendaten, Generierung oder Simulation, Kandidatenschlüssel, Freigabe durch die Mitglieder, Übermittlung an den Netzbetreiber."
@@ -71,7 +72,7 @@ Seine Grenze ist der Katalog selbst. Sind die Profile einer Gemeinschaft atypisc
 
 Während Brute-Force durch den Standardkatalog begrenzt ist, durchsucht LOGAAS einen **breiteren Raum von Kandidatenschlüsseln** — einschließlich Nicht-Standard-Kombinationen — indem er **lineare Optimierung** (findet die beste Ex-Post-Allokation für eine gegebene Iteration) mit einem **genetischen Algorithmus** mit **atypischer Speziation** (findet die beste Kombination von Prozentsätzen über die bis zu drei zulässigen Iterationen und erhält dabei die Populationsdiversität) kombiniert. Praktisch heißt das: Er kann zusätzliche Performance gewinnen, wenn die Standardfamilien nicht sauber auf die Profile passen — sehr heterogene Mitgliedergruppen, saisonale Industrieverbraucher zusammen mit Haushalten oder große Überschusserzeuger, die sonst den Großteil ihrer Erzeugung ins öffentliche Netz zurückspeisen würden.
 
-LOGAAS gibt einen **Nicht-Standard-Kandidatenschlüssel** aus. In der Wallonie bedeutet das, dass die Gemeinschaft den **CWaPE-Genehmigungsweg** durchlaufen muss, bevor der Verteilnetzbetreiber den Schlüssel anwenden kann — siehe den [Artikel über Aufteilungsschlüssel in Belgien](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/) für das Verfahren. In Brüssel und Flandern ist der Spielraum für Nicht-Standardschlüssel enger; die LOGAAS-Ausgabe dient dort meist als **Performance-Referenz** — wie sähe das bestmögliche Ergebnis aus? — gegen die der gewählte Standardschlüssel verglichen wird.
+LOGAAS gibt einen **Nicht-Standard-Kandidatenschlüssel** aus. In der Wallonie bedeutet das, dass die Gemeinschaft den **CWaPE-Genehmigungsweg** durchlaufen muss, bevor der Verteilnetzbetreiber den Schlüssel anwenden kann — siehe den [Artikel über Aufteilungsschlüssel in Belgien](/de/ratgeber/verteilungsschluessel-energiegemeinschaft-belgien/) für das Verfahren. In Brüssel und Flandern ist der Spielraum für Nicht-Standardschlüssel enger; die LOGAAS-Ausgabe dient dort meist als **Performance-Referenz** — wie sähe das bestmögliche Ergebnis aus? — gegen die der gewählte Standardschlüssel verglichen wird.
 
 Verwenden Sie LOGAAS, wenn das Brute-Force-Ergebnis nah dran, aber nicht ausreichend ist, wenn die Projektwirtschaftlichkeit von den letzten Prozentpunkten der kollektiven Eigenverbrauchsrate abhängt oder wenn Sie eine quantifizierte obere Schranke für eine Investitionsentscheidung benötigen.
 
@@ -142,15 +143,15 @@ Das automatische Generierungsmodul verwandelt die Wahl des Aufteilungsschlüssel
 
 Um weiter zu gehen, lesen Sie unsere begleitenden Leitfäden:
 
-> **[Aufteilungsschlüssel in Belgien: 3 Regionen](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/)**
+> **[Aufteilungsschlüssel in Belgien: 3 Regionen](/de/ratgeber/verteilungsschluessel-energiegemeinschaft-belgien/)**
 >
 > Der regulatorische Primer — was CWaPE, BRUGEL und VREG akzeptieren, die drei regionalen Vokabulare und wie man eine Schlüsselfamilie wählt, bevor OptimCE darin optimiert.
 
-> **[Wie man eine Energiegemeinschaft in Wallonien gründet: Schritt-für-Schritt-Leitfaden](/de/aktuelles/2026/05/11/energiegemeinschaft-gruenden-wallonien/)**
+> **[Wie man eine Energiegemeinschaft in Wallonien gründet: Schritt-für-Schritt-Leitfaden](/de/ratgeber/energiegemeinschaft-gruenden-wallonien/)**
 >
 > Das Projekt rahmen, zwischen CER und CEC wählen, die CWaPE benachrichtigen und das Sharing starten — und wo der Aufteilungsschlüssel in die Akte passt.
 
-> **[Wie man einer Energiegemeinschaft in Wallonien beitritt: praktischer Leitfaden](/de/aktuelles/2026/05/11/energiegemeinschaft-beitreten-wallonien/)**
+> **[Wie man einer Energiegemeinschaft in Wallonien beitritt: praktischer Leitfaden](/de/ratgeber/energiegemeinschaft-beitreten-wallonien/)**
 >
 > Wo Sie eine offene Operation finden, Beitrittsschritte und Prüfpunkte vor Unterzeichnung der Sharing-Vereinbarung.
 

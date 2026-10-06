@@ -8,13 +8,14 @@ description: "Voraussetzungen, wo Sie eine offene Teilungsoperation finden, die 
 tags: [community, administrative, guide]
 lang: de
 ref: join-energy-community-wallonia
+pillar: communautes-energie
 last_modified_at: 2026-09-16 06:00:00 +0200
-permalink: /de/aktuelles/2026/05/11/energiegemeinschaft-beitreten-wallonien/
+permalink: /de/ratgeber/energiegemeinschaft-beitreten-wallonien/
 ---
 
 In der Wallonie sind Energiegemeinschaften kein Randexperiment mehr: Hunderte Teilungsoperationen sind aktiv oder in der Meldungsphase. Der gesetzliche Rahmen ist stabil, die Verteilnetzbetreiber (ORES, RESA, AIEG) sind technisch vorbereitet, und die meisten Zähler sind bereits intelligent. Ein ganz konkretes Hindernis bleibt für die meisten Bürger, KMU und Gebietskörperschaften: **wie findet man eine Gemeinschaft, die neue Mitglieder aufnimmt**, und **worauf muss man vor der Unterschrift achten**?
 
-Dieser Leitfaden richtet sich an dieses Publikum. Nicht an Projektträger, die eine Gemeinschaft gründen wollen — dafür siehe unseren [Schritt-für-Schritt-Gründungsleitfaden](/de/aktuelles/2026/05/11/energiegemeinschaft-gruenden-wallonien/) — und nicht an jene, die das Konzept noch entdecken — beginnen Sie in diesem Fall mit [„Energiegemeinschaften in Belgien: CER, CEC, CEL“](/de/aktuelles/2026/05/11/energiegemeinschaften-belgien/). Er ist für alle gedacht, die einer **bestehenden Operation beitreten** und wissen wollen, wie das konkret abläuft.
+Dieser Leitfaden richtet sich an dieses Publikum. Nicht an Projektträger, die eine Gemeinschaft gründen wollen — dafür siehe unseren [Schritt-für-Schritt-Gründungsleitfaden](/de/ratgeber/energiegemeinschaft-gruenden-wallonien/) — und nicht an jene, die das Konzept noch entdecken — beginnen Sie in diesem Fall mit [„Energiegemeinschaften in Belgien: CER, CEC, CEL“](/de/ratgeber/energiegemeinschaften-belgien/). Er ist für alle gedacht, die einer **bestehenden Operation beitreten** und wissen wollen, wie das konkret abläuft.
 
 Am Ende dieses Artikels wissen Sie, **wer beitreten kann**, **wo Sie eine offene Operation finden**, **welche Schritte** zwischen dem Erstkontakt und der ersten geteilten Kilowattstunde liegen, und **welche Punkte Sie in der Vereinbarung prüfen** sollten, bevor Sie unterschreiben.
 
@@ -49,7 +50,7 @@ Der wallonische Rahmen, festgelegt im Dekret vom 5. Mai 2022 und präzisiert von
 
 Jede Privatperson kann beitreten, ob Eigentümer oder Mieter. Die Teilung folgt dem **EAN des Lieferpunkts**, nicht dem Eigentumstitel: Ihr Status spielt keine Rolle, solange der Zähler auf Ihren Namen lautet. Sind Sie Mieter und reicht die Vereinbarung über Ihren Mietvertrag hinaus, ist es gute Praxis — keine gesetzliche Pflicht —, den Eigentümer zu informieren.
 
-Ein Mieter hat allerdings eigene Beschränkungen, angefangen bei einer Beitrittsfrist, die seiner Kündigungsfrist nahezu entspricht. Sie sind in [„Mieter: Solarstrom ohne eigenes Dach“](/de/aktuelles/2026/09/16/solar-mieter-ohne-dach-leitfaden/) ausgeführt.
+Ein Mieter hat allerdings eigene Beschränkungen, angefangen bei einer Beitrittsfrist, die seiner Kündigungsfrist nahezu entspricht. Sie sind in [„Mieter: Solarstrom ohne eigenes Dach“](/de/ratgeber/solar-mieter-ohne-dach-leitfaden/) ausgeführt.
 
 ### KMU und Selbstständige
 
@@ -65,7 +66,7 @@ Bevor Sie beitreten können, müssen an Ihrem Lieferpunkt drei technische Voraus
 
 - **Intelligenter Zähler**: verpflichtend. Haben Sie noch keinen, baut der VNB (ORES, RESA oder AIEG) ihn **kostenlos** ein, in der Regel innerhalb von 60 Tagen. Siehe den [AIEG-Leitfaden zur Energieteilung](https://www.aieg.be/le-partage-denergie) für die technischen Details auf Netzseite.
 - **Identifizierbarer EAN**: Ihre Lieferpunktnummer, 18 Ziffern beginnend mit `541449...`. Sie steht auf jeder Stromrechnung in der Rubrik „technische Daten“ oder „Lieferpunkt“.
-- **Geografischer Umfang**: erforderlich bei einer **CER** (Sie müssen innerhalb des mit den Erzeugern definierten Nähe-Perimeters liegen), nicht erforderlich bei einer **CEC**. Zur Auffrischung CER vs. CEC siehe die [Vergleichstabelle in unserem Mutterartikel](/de/aktuelles/2026/05/11/energiegemeinschaften-belgien/).
+- **Geografischer Umfang**: erforderlich bei einer **CER** (Sie müssen innerhalb des mit den Erzeugern definierten Nähe-Perimeters liegen), nicht erforderlich bei einer **CEC**. Zur Auffrischung CER vs. CEC siehe die [Vergleichstabelle in unserem Mutterartikel](/de/ratgeber/energiegemeinschaften-belgien/).
 
 ## Wo finden Sie eine Energiegemeinschaft in der Wallonie?
 
@@ -130,7 +131,7 @@ Um Ihren EAN zu finden, sehen Sie auf Ihrer Rechnung in der Rubrik „Lieferpunk
 
 Die **Teilungsvereinbarung** ist der interne Vertrag, der alle Mitglieder bindet: Sie legt den Innenpreis, den Aufteilungsschlüssel, die Governance, die Ein- und Austrittsbedingungen und die Streitbeilegung fest. In dieser Phase *verfassen* Sie sie nicht — Sie **treten einem bestehenden Text bei**. Lesen Sie ihn sorgfältig und bitten Sie die Gemeinschaft, jede Klausel zu erläutern, die Ihnen unklar erscheint.
 
-Für eine vollständige Beschreibung des Inhalts einer Teilungsvereinbarung siehe das [entsprechende Kapitel in unserem Gründungsleitfaden](/de/aktuelles/2026/05/11/energiegemeinschaft-gruenden-wallonien/); wir wiederholen die Details hier nicht.
+Für eine vollständige Beschreibung des Inhalts einer Teilungsvereinbarung siehe das [entsprechende Kapitel in unserem Gründungsleitfaden](/de/ratgeber/energiegemeinschaft-gruenden-wallonien/); wir wiederholen die Details hier nicht.
 
 ### Schritt 4 — Beitrittsformalitäten zur juristischen Person
 
@@ -158,11 +159,11 @@ Ein Beitritt verpflichtet Ihre Unterschrift und — in manchen Fällen — Ihr V
 
 ### Typ der Gemeinschaft — CER oder CEC?
 
-Die Auswirkungen unterscheiden sich. **CER**: ausschließlich erneuerbare Quellen, geografische Nähe erforderlich, Wärmeteilung möglich. **CEC**: alle Quellen, keine geografische Beschränkung, nur Strom. Die ausführliche Auffrischung steht in der [Vergleichstabelle des Mutterartikels](/de/aktuelles/2026/05/11/energiegemeinschaften-belgien/).
+Die Auswirkungen unterscheiden sich. **CER**: ausschließlich erneuerbare Quellen, geografische Nähe erforderlich, Wärmeteilung möglich. **CEC**: alle Quellen, keine geografische Beschränkung, nur Strom. Die ausführliche Auffrischung steht in der [Vergleichstabelle des Mutterartikels](/de/ratgeber/energiegemeinschaften-belgien/).
 
 ### Aufteilungsschlüssel — statisch oder dynamisch?
 
-Ein **statischer** Schlüssel weist jedem Mitglied einen festen Prozentsatz der Teilung zu (einfach, vorhersehbar). Ein **dynamischer** Schlüssel verteilt anteilig zum tatsächlichen 15-Minuten-Verbrauch (gerechter, aber von Monat zu Monat schwankend). Fragen Sie, **wie der Schlüssel revidiert wird**: jährlich, bei jeder Hauptversammlung, bei jedem neuen Mitglied? Für die Details der drei von der CWaPE validierten Standardschlüssel und den Vergleich mit Brüssel und Flandern siehe unseren Leitfaden [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/aktuelles/2026/05/19/verteilungsschluessel-energiegemeinschaft-belgien/).
+Ein **statischer** Schlüssel weist jedem Mitglied einen festen Prozentsatz der Teilung zu (einfach, vorhersehbar). Ein **dynamischer** Schlüssel verteilt anteilig zum tatsächlichen 15-Minuten-Verbrauch (gerechter, aber von Monat zu Monat schwankend). Fragen Sie, **wie der Schlüssel revidiert wird**: jährlich, bei jeder Hauptversammlung, bei jedem neuen Mitglied? Für die Details der drei von der CWaPE validierten Standardschlüssel und den Vergleich mit Brüssel und Flandern siehe unseren Leitfaden [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/ratgeber/verteilungsschluessel-energiegemeinschaft-belgien/).
 
 ### Innenpreis — wie wird er ausgehandelt?
 
@@ -236,11 +237,11 @@ Drei Kanäle, um aktiv zu werden:
 
 ## Möchten Sie lieber gründen als beitreten?
 
-> **[Energiegemeinschaft in der Wallonie gründen](/de/aktuelles/2026/05/11/energiegemeinschaft-gruenden-wallonien/)**
+> **[Energiegemeinschaft in der Wallonie gründen](/de/ratgeber/energiegemeinschaft-gruenden-wallonien/)**
 >
 > Wahl zwischen CER und CEC, Strukturierung des Projekts, Meldung bei der CWaPE, Empfangsbestätigung und Start der Teilung mit ORES, RESA oder AIEG.
 
-Für den allgemeinen Kontext — was eine Energiegemeinschaft ist und welche europäischen Grundlagen gelten — siehe den Artikel [„Energiegemeinschaften in Belgien: CER, CEC, CEL“](/de/aktuelles/2026/05/11/energiegemeinschaften-belgien/).
+Für den allgemeinen Kontext — was eine Energiegemeinschaft ist und welche europäischen Grundlagen gelten — siehe den Artikel [„Energiegemeinschaften in Belgien: CER, CEC, CEL“](/de/ratgeber/energiegemeinschaften-belgien/).
 
 ## Quellen
 

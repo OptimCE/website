@@ -8,7 +8,8 @@ description: "Bij energiedelen bestaan twee facturen naast elkaar. Wie stelt wat
 tags: [community, administrative, guide]
 lang: nl
 ref: invoice-shared-electricity
-permalink: /nl/nieuws/2026/07/23/gedeelde-elektriciteit-factureren-belgie/
+pillar: prix-facturation-communaute
+permalink: /nl/gidsen/gedeelde-elektriciteit-factureren-belgie/
 last_modified_at: 2026-08-27 06:00:00 +0200
 faq:
   - q: "Wie moet de factuur voor de gedeelde energie opstellen?"
@@ -16,18 +17,18 @@ faq:
   - q: "Hoe factureer uw gedeelde elektriciteit in een gebouw in België?"
     a: "De vertegenwoordiger van het energiedelen — vaak de syndicus in een mede-eigendom — neemt de door de netbeheerder doorgestuurde gedeelde volumes per EAN, past de in de overeenkomst vastgelegde interne prijs toe en stelt vervolgens per lid een factuur op, met btw, doorlopende nummering en een gestructureerde mededeling. In Wallonië geniet het delen binnen eenzelfde gebouw bovendien een korting van 80 % op de proportionele termen van het nettarief — een voordeel dat voorbehouden is aan het gebouw, niet aan de gemeenschap."
   - q: "Welke btw geldt voor gedeelde elektriciteit?"
-    a: "6 % voor particuliere leden en 21 % voor professionele leden: een gemeenschap met gemengd ledenbestand factureert dus aan twee tarieven. Onder 25.000 € jaaromzet exclusief btw kan de vrijstellingsregeling voor kleine ondernemingen ontslaan van het aanrekenen van btw. Geen enkele circulaire behandelt het energiedelen specifiek: laat uw situatie vóór de eerste factuur nakijken door de FOD Financiën of uw boekhouder."
+    a: "6 % voor particuliere leden en 21 % voor professionele leden: een gemeenschap met gemengd ledenbestand factureert dus aan twee tarieven. Onder 25 000 € jaaromzet exclusief btw kan de vrijstellingsregeling voor kleine ondernemingen ontslaan van het aanrekenen van btw. Geen enkele circulaire behandelt het energiedelen specifiek: laat uw situatie vóór de eerste factuur nakijken door de FOD Financiën of uw boekhouder."
   - q: "Wat is het verschil tussen de factuur van de leverancier en de deelfactuur?"
     a: "Ze dekken niet dezelfde energie. De factuur van de leverancier betreft de residuele energie — die het delen niet heeft gedekt — plus de netkosten (berekend op de totale afgenomen kWh) en de gewestelijke belastingen. De factuur van de vertegenwoordiger van het energiedelen betreft enkel de gedeelde energie, gewaardeerd tegen de interne prijs, vermeerderd met btw, accijnzen en de openbaredienstverplichting tot inlevering van de quota groenestroomcertificaten."
   - q: "Moet de gemeenschap btw-plichtig worden?"
-    a: "Zodra ze energie aan haar leden factureert, oefent de gemeenschap in principe een aan btw onderworpen economische activiteit uit. De vrijstellingsregeling voor kleine ondernemingen (jaaromzet onder 25.000 € excl. btw) kan haar niettemin ontslaan van het aanrekenen van btw. Het is een beslissing die per structuur met een boekhouder wordt genomen: ze bepaalt de vermeldingen op uw facturen en uw aangifteverplichtingen."
+    a: "Zodra ze energie aan haar leden factureert, oefent de gemeenschap in principe een aan btw onderworpen economische activiteit uit. De vrijstellingsregeling voor kleine ondernemingen (jaaromzet onder 25 000 € excl. btw) kan haar niettemin ontslaan van het aanrekenen van btw. Het is een beslissing die per structuur met een boekhouder wordt genomen: ze bepaalt de vermeldingen op uw facturen en uw aangifteverplichtingen."
   - q: "Wat moet een factuur voor gedeelde energie bevatten?"
     a: "De vermeldingen van een correcte Belgische factuur: een nummer in een doorlopende, sluitende reeks, de uitgiftedatum en de vervaldag, de identiteit en het btw-nummer van uitgever en ontvanger, de opsplitsing van de gedeelde kWh per EAN vermenigvuldigd met de eenheidsprijs, het bedrag exclusief btw, het btw-tarief en -bedrag, en ten slotte een gestructureerde mededeling en het IBAN van de gemeenschap. Een uitgereikte factuur wordt nooit gecorrigeerd door ze aan te passen: men reikt een creditnota uit die ze annuleert, en factureert opnieuw."
 ---
 
 Een energiegemeenschap deelt kWh — maar ze produceert ook facturen. En net daar begint de verwarring: elk kwartaal ontvangt een deelnemer niet één, maar **twee facturen**. Een van zijn gewone leverancier, een van de gemeenschap. Niemand heeft hem uitgelegd welke wat dekt, noch waarom de netkosten altijd op de eerste verschijnen terwijl hij “lokale” elektriciteit verbruikt.
 
-Dit artikel brengt orde in de rollen. Wie heeft het recht — en de plicht — om de factuur voor de gedeelde energie op te stellen? Wat moet ze bevatten? Welke btw geldt, en hoe passen accijnzen en groenestroomcertificaten erin? Wilt u eerder weten *welke prijs* per kWh u moet vastleggen, dan beantwoordt onze gids [“Interne overdrachtsprijs in energiegemeenschap”](/nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/) dat in detail; en is de verdeelsleutel u nog vreemd, begin dan met ons referentieartikel [“Verdeelsleutel in België: de 3 regio's”](/nl/nieuws/2026/05/19/verdeelsleutel-energiegemeenschap-belgie/). Hier één vraag: **wie factureert wat?**
+Dit artikel brengt orde in de rollen. Wie heeft het recht — en de plicht — om de factuur voor de gedeelde energie op te stellen? Wat moet ze bevatten? Welke btw geldt, en hoe passen accijnzen en groenestroomcertificaten erin? Wilt u eerder weten *welke prijs* per kWh u moet vastleggen, dan beantwoordt onze gids [“Interne overdrachtsprijs in energiegemeenschap”](/nl/gidsen/prijs-elektriciteit-energiegemeenschap/) dat in detail; en is de verdeelsleutel u nog vreemd, begin dan met ons referentieartikel [“Verdeelsleutel in België: de 3 regio's”](/nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/). Hier één vraag: **wie factureert wat?**
 
 <img src="/assets/images/diagrams/two-invoices-nl.svg"
      alt="Twee kaarten naast elkaar: de factuur van de leverancier en die van de vertegenwoordiger van het delen, met hun inhoud."
@@ -46,7 +47,7 @@ Er bestaan dus twee facturen naast elkaar, en ze betreffen niet hetzelfde:
 | **Net** | netkosten op **het geheel** van de afgenomen kWh, gedeelde inbegrepen | — |
 | **Belastingen & accijnzen** | gewestelijke belastingen en toeslagen op de residuele energie | btw, accijnzen en de ODV tot inlevering van de quota groenestroomcertificaten, op de gedeelde energie |
 
-De minst intuïtieve regel is die van het net: **de netkosten blijven verschuldigd op de gedeelde kWh**, en het is uw leverancier die ze factureert, want de gedeelde elektriciteit loopt hoe dan ook over het openbare net. Het delen verandert *wie u de energie verkoopt*, niet *waar ze passeert*. Daarom leest de werkelijke besparing zich altijd over beide documenten samen, nooit op de deelfactuur alleen — een mechanisme dat ons artikel over [het verlagen van de elektriciteitsfactuur door het delen](/nl/nieuws/2026/06/03/energiegemeenschap-elektriciteitsfactuur-verlagen/) toelicht.
+De minst intuïtieve regel is die van het net: **de netkosten blijven verschuldigd op de gedeelde kWh**, en het is uw leverancier die ze factureert, want de gedeelde elektriciteit loopt hoe dan ook over het openbare net. Het delen verandert *wie u de energie verkoopt*, niet *waar ze passeert*. Daarom leest de werkelijke besparing zich altijd over beide documenten samen, nooit op de deelfactuur alleen — een mechanisme dat ons artikel over [het verlagen van de elektriciteitsfactuur door het delen](/nl/gidsen/energiegemeenschap-elektriciteitsfactuur-verlagen/) toelicht.
 
 ## De vertegenwoordiger van het energiedelen, opsteller van de deelfactuur
 
@@ -54,11 +55,11 @@ Bij energiedelen draagt één actor — en slechts één — de verantwoordelijk
 
 Het punt dat projectdragers het meest verrast: **de netbeheerder factureert niet.** Hij berekent het delen kwartier per kwartier, past de gekozen verdeelsleutel toe en stuurt de volumes vervolgens door naar de verschillende actoren “om de facturatie mogelijk te maken”. De factuur zelf wordt daarna opgesteld “op basis van de van de netbeheerder ontvangen verbruiksgegevens, rekening houdend met de gekozen verdeelsleutel” ([CWaPE](https://www.cwape.be/node/6059)). Met andere woorden: het net levert de cijfers, de vertegenwoordiger maakt er documenten van.
 
-Deze rolverdeling heeft een rechtstreeks gevolg: **het is de vertegenwoordiger die de verplichtingen draagt** — correcte facturen opstellen, de juiste btw toepassen, een boekhouding voeren. In een mede-eigendom of een gebouw valt die rol meestal toe aan de **syndicus**, die feitelijk de opsteller van de deelfacturen voor alle bewoners wordt. We wezen er in onze [gids voor het oprichten van een energiegemeenschap in Wallonië](/nl/nieuws/2026/05/11/energiegemeenschap-oprichten-wallonie/) al op dat deze last concreet wordt in de exploitatiefase.
+Deze rolverdeling heeft een rechtstreeks gevolg: **het is de vertegenwoordiger die de verplichtingen draagt** — correcte facturen opstellen, de juiste btw toepassen, een boekhouding voeren. In een mede-eigendom of een gebouw valt die rol meestal toe aan de **syndicus**, die feitelijk de opsteller van de deelfacturen voor alle bewoners wordt. We wezen er in onze [gids voor het oprichten van een energiegemeenschap in Wallonië](/nl/gidsen/energiegemeenschap-oprichten-wallonie/) al op dat deze last concreet wordt in de exploitatiefase.
 
 ## Wat de deelfactuur bevat
 
-De factuur van de vertegenwoordiger is smaller dan die van een klassieke leverancier: ze betreft enkel de **gedeelde energie**, gewaardeerd tegen de interne prijs van de gemeenschap — en niet uw volledige verbruik. Welk bedrag per kWh vast te leggen, is precies het onderwerp van onze gids [over de interne overdrachtsprijs](/nl/nieuws/2026/07/20/prijs-elektriciteit-energiegemeenschap/), die de verdedigbare marge en vijf berekeningsmethoden afbakent.
+De factuur van de vertegenwoordiger is smaller dan die van een klassieke leverancier: ze betreft enkel de **gedeelde energie**, gewaardeerd tegen de interne prijs van de gemeenschap — en niet uw volledige verbruik. Welk bedrag per kWh vast te leggen, is precies het onderwerp van onze gids [over de interne overdrachtsprijs](/nl/gidsen/prijs-elektriciteit-energiegemeenschap/), die de verdedigbare marge en vijf berekeningsmethoden afbakent.
 
 Bij die energieprijs komen, op diezelfde factuur, “de btw, de accijnzen en de openbaredienstverplichting tot inlevering van de quota groenestroomcertificaten” ([CWaPE](https://www.cwape.be/node/6063)). Wat er daarentegen **niet** op verschijnt, zijn de netkosten: die blijven op de factuur van de leverancier, berekend op de totale afgenomen kWh. Een goed opgestelde deelfactuur vermeldt dat trouwens uitdrukkelijk — ze betreft de gedeelde energie, exclusief netkosten.
 
@@ -71,7 +72,7 @@ Zodra een gemeenschap energie aan haar leden factureert, oefent ze een economisc
 
 Een praktisch gevolg dat vaak te laat wordt ontdekt: een gemeenschap met gemengd ledenbestand — gezinnen *én* ondernemingen — moet **aan twee tarieven factureren**. De prijs per kWh is dezelfde; de btw die erbovenop komt niet.
 
-Blijft de registratievraag. In principe maakt de activiteit van energiefacturatie de structuur btw-plichtig, met de bijhorende verplichtingen: identificatie, factuurvermeldingen, aangiften. Maar onder **25.000 € jaaromzet exclusief btw** kan de [vrijstellingsregeling voor kleine ondernemingen](https://finances.belgium.be/fr/entreprises/tva/assujettissement-tva/regime-franchise-taxe) de gemeenschap ontslaan van het aanrekenen van btw — het geval van veel kleine deelprojecten. Er bestaat **geen specifieke circulaire over energiedelen**: leg uw regeling niet vast op basis van een forumbericht of een online gevonden sjabloon. Laat uw situatie nakijken door de [FOD Financiën](https://finances.belgium.be/fr/entreprises/tva) of uw boekhouder **vóór** u de eerste factuur uitreikt — het is de keuze die alle volgende vermeldingen bepaalt.
+Blijft de registratievraag. In principe maakt de activiteit van energiefacturatie de structuur btw-plichtig, met de bijhorende verplichtingen: identificatie, factuurvermeldingen, aangiften. Maar onder **25 000 € jaaromzet exclusief btw** kan de [vrijstellingsregeling voor kleine ondernemingen](https://finances.belgium.be/fr/entreprises/tva/assujettissement-tva/regime-franchise-taxe) de gemeenschap ontslaan van het aanrekenen van btw — het geval van veel kleine deelprojecten. Er bestaat **geen specifieke circulaire over energiedelen**: leg uw regeling niet vast op basis van een forumbericht of een online gevonden sjabloon. Laat uw situatie nakijken door de [FOD Financiën](https://finances.belgium.be/fr/entreprises/tva) of uw boekhouder **vóór** u de eerste factuur uitreikt — het is de keuze die alle volgende vermeldingen bepaalt.
 
 ## Accijnzen en groenestroomcertificaten: de heffingen die de vertegenwoordiger doorrekent
 
@@ -105,7 +106,7 @@ Drie specifieke punten:
 - **De syndicus mag zijn beheer factureren.** Het administratieve werk — in- en uittredingen van deelnemers, uitreiking van de facturen, opvolging — kan door de syndicus worden opgenomen en gefactureerd, of worden uitbesteed. Niets verplicht kosteloosheid.
 - **De kalender kan het boekjaar volgen.** Het is mogelijk om de deelfacturatie af te stemmen op het boekhoudkundige ritme van de mede-eigendom, in plaats van een parallelle cyclus te openen.
 
-Wat deze rubriek niet behandelt, is de vraag die eraan voorafgaat: **wie de installatie bezit, en met welke meerderheid de algemene vergadering dat heeft beslist.** Het vermogen van de vereniging van mede-eigenaars wordt begrensd door artikel 3.86, § 3, van het Burgerlijk Wetboek, en de meerderheidsdrempel hangt af van de gekozen structuur — twee derde of vier vijfde. Het volledige traject staat in [“Energie delen in een appartementsgebouw”](/nl/nieuws/2026/08/27/energie-delen-appartementsgebouw/).
+Wat deze rubriek niet behandelt, is de vraag die eraan voorafgaat: **wie de installatie bezit, en met welke meerderheid de algemene vergadering dat heeft beslist.** Het vermogen van de vereniging van mede-eigenaars wordt begrensd door artikel 3.86, § 3, van het Burgerlijk Wetboek, en de meerderheidsdrempel hangt af van de gekozen structuur — twee derde of vier vijfde. Het volledige traject staat in [“Energie delen in een appartementsgebouw”](/nl/oplossingen/appartementsgebouwen/).
 
 Ten slotte één post om nooit te vergeten in de afrekening: **uw leverancier kan kosten aanrekenen voor uw deelname aan het delen.** De CWaPE bevestigt dat niets dit verbiedt ([CWaPE](https://www.cwape.be/node/6060)), en de opgetekende bedragen lopen op tot ongeveer 150 € per jaar en per leveringspunt. Op kleine gedeelde volumes kunnen die kosten de winst tenietdoen: ze horen in de simulatie, niet als verrassing op de factuur.
 
@@ -135,7 +136,7 @@ De facturatie van een energiedeling is geen juridisch mysterie: het is een duide
 
 De rest is een kwestie van uitvoering: de btw-regeling met een boekhouder uitklaren, een nette overeenkomst schrijven en elk kwartaal correcte documenten uitreiken — met de hand zolang het draaglijk is, met een hulpmiddel zodra dat niet meer zo is.
 
-Aan de kant van het gezin leest ook de factuur die u van uw leverancier blijft ontvangen zich regel per regel: we ontleden ze in [“Elektriciteitsfactuur lezen: regel per regel”](/nl/nieuws/2026/07/30/elektriciteitsfactuur-lezen-belgie/).
+Aan de kant van het gezin leest ook de factuur die u van uw leverancier blijft ontvangen zich regel per regel: we ontleden ze in [“Elektriciteitsfactuur lezen: regel per regel”](/nl/gidsen/elektriciteitsfactuur-lezen-belgie/).
 
 > ### Factureer uw energiegemeenschap met OptimCE
 >
@@ -155,7 +156,7 @@ De vertegenwoordiger van het energiedelen — vaak de **syndicus** in een mede-e
 
 ### Welke btw geldt voor gedeelde elektriciteit?
 
-**6 % voor particuliere leden en 21 % voor professionele leden**: een gemeenschap met gemengd ledenbestand factureert dus aan twee tarieven. Onder 25.000 € jaaromzet exclusief btw kan de vrijstellingsregeling voor kleine ondernemingen ontslaan van het aanrekenen van btw. Geen enkele circulaire behandelt het energiedelen specifiek: laat uw situatie vóór de eerste factuur nakijken door de FOD Financiën of uw boekhouder.
+**6 % voor particuliere leden en 21 % voor professionele leden**: een gemeenschap met gemengd ledenbestand factureert dus aan twee tarieven. Onder 25 000 € jaaromzet exclusief btw kan de vrijstellingsregeling voor kleine ondernemingen ontslaan van het aanrekenen van btw. Geen enkele circulaire behandelt het energiedelen specifiek: laat uw situatie vóór de eerste factuur nakijken door de FOD Financiën of uw boekhouder.
 
 ### Wat is het verschil tussen de factuur van de leverancier en de deelfactuur?
 
@@ -163,7 +164,7 @@ Ze dekken niet dezelfde energie. De factuur van de **leverancier** betreft de re
 
 ### Moet de gemeenschap btw-plichtig worden?
 
-Zodra ze energie aan haar leden factureert, oefent de gemeenschap in principe een aan btw onderworpen economische activiteit uit. De vrijstellingsregeling voor kleine ondernemingen (jaaromzet onder 25.000 € excl. btw) kan haar niettemin ontslaan van het aanrekenen van btw. Het is een beslissing die per structuur met een boekhouder wordt genomen: ze bepaalt de vermeldingen op uw facturen en uw aangifteverplichtingen.
+Zodra ze energie aan haar leden factureert, oefent de gemeenschap in principe een aan btw onderworpen economische activiteit uit. De vrijstellingsregeling voor kleine ondernemingen (jaaromzet onder 25 000 € excl. btw) kan haar niettemin ontslaan van het aanrekenen van btw. Het is een beslissing die per structuur met een boekhouder wordt genomen: ze bepaalt de vermeldingen op uw facturen en uw aangifteverplichtingen.
 
 ### Wat moet een factuur voor gedeelde energie bevatten?
 
@@ -179,5 +180,5 @@ De vermeldingen van een correcte Belgische factuur: een nummer in een doorlopend
 - [ORES / Federia — Verklarende facturatiegids voor de vertegenwoordiger van een energiedeling](https://media.ores.be/ores-cms/vi2eqxam/ores_guide_explicatif_facturation_representant_partage_energie_fr.pdf) — ontvangst van de bestanden, lezen van de gegevens en uitreiking van de facturen door de vertegenwoordiger.
 - [Test-Achats — Het energiedelen](https://www.test-achats.be/maison-energie/energie-renouvelable/dossier/partage-energie) — consumentendossier met een concreet gebouwgeval en dubbele facturatie.
 - [FOD Financiën — Btw](https://finances.belgium.be/fr/entreprises/tva) — verplichtingen inzake facturatie, boekhouding en btw voor Belgische ondernemingen en rechtspersonen.
-- [FOD Financiën — Vrijstellingsregeling](https://finances.belgium.be/fr/entreprises/tva/assujettissement-tva/regime-franchise-taxe) — drempel van 25.000 € voor kleine ondernemingen.
+- [FOD Financiën — Vrijstellingsregeling](https://finances.belgium.be/fr/entreprises/tva/assujettissement-tva/regime-franchise-taxe) — drempel van 25 000 € voor kleine ondernemingen.
 - [CREG — Federale bijdrage](https://www.creg.be/fr/a-z-index/cotisation-federale) — afgeschaft op 31 december 2021.

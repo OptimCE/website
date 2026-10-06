@@ -41,6 +41,12 @@ last_modified_at: 2026-06-16
   die wichtigsten Begriffe auf.
 </p>
 
+{% assign about_lang = site.languages | where: "code", lang | first %}
+<p>
+  {{ t.about.author_intro }}
+  <a href="{{ about_lang.author_path | relative_url }}">{{ site.data.authors.eric.name }}</a>.
+</p>
+
 <h2>{{ t.about.offering_title }}</h2>
 
 <p>{{ t.about.offering_intro }}</p>

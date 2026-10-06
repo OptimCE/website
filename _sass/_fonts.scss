@@ -1,68 +1,61 @@
 // ============================================
 // SELF-HOSTED FONTS
-// Served from /assets/fonts/ (latin + latin-ext woff2 subsets).
-// Each web font is paired with a metrics-matched fallback @font-face
-// (Arial with size-adjust / ascent-override / descent-override) so the
-// fallback occupies the same space as the web font and the swap causes
-// no layout shift (CLS). Override values are computed from the actual
-// font metrics relative to Arial.
+// Variable subsets built by scripts/subset_fonts.py from the OFL sources in
+// google/fonts (latin + latin-ext, plus the arrows, maths signs, sub- and
+// superscripts the articles use). One file per style covers every weight the
+// stylesheet asks for: Plus Jakarta Sans 500–800, Source Sans 3 400–600,
+// upright and italic.
+//
+// plus-jakarta-sans-700.woff2 and source-sans-3-400.woff2 stay in assets/fonts
+// for scripts/generate_og_cards.py only; the site no longer loads them.
+//
+// Each family is paired with a metrics-matched Arial fallback (size-adjust and
+// vertical overrides, printed by the same script), so the text keeps its place
+// while the web font loads and the swap causes no layout shift.
 // ============================================
 
-// --- Source Sans 3 (body) ---
+// --- Source Sans 3 (text) ---
 @font-face {
   font-family: 'Source Sans 3';
   font-style: normal;
-  font-weight: 400;
+  font-weight: 400 600;
   font-display: swap;
-  src: url('/assets/fonts/source-sans-3-400.woff2') format('woff2');
+  src: url('/assets/fonts/source-sans-3-var.woff2') format('woff2');
 }
 @font-face {
   font-family: 'Source Sans 3';
-  font-style: normal;
-  font-weight: 600;
+  font-style: italic;
+  font-weight: 400 600;
   font-display: swap;
-  src: url('/assets/fonts/source-sans-3-600.woff2') format('woff2');
+  src: url('/assets/fonts/source-sans-3-italic-var.woff2') format('woff2');
 }
 
-// --- Plus Jakarta Sans (headings) ---
+// --- Plus Jakarta Sans (headings, UI) ---
 @font-face {
   font-family: 'Plus Jakarta Sans';
   font-style: normal;
-  font-weight: 500;
+  font-weight: 500 800;
   font-display: swap;
-  src: url('/assets/fonts/plus-jakarta-sans-500.woff2') format('woff2');
-}
-@font-face {
-  font-family: 'Plus Jakarta Sans';
-  font-style: normal;
-  font-weight: 600;
-  font-display: swap;
-  src: url('/assets/fonts/plus-jakarta-sans-600.woff2') format('woff2');
-}
-@font-face {
-  font-family: 'Plus Jakarta Sans';
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
-  src: url('/assets/fonts/plus-jakarta-sans-700.woff2') format('woff2');
+  src: url('/assets/fonts/plus-jakarta-sans-var.woff2') format('woff2');
 }
 
 // --- Metrics-matched fallbacks (no-CLS swap) ---
-// Body fallback tuned to Source Sans 3 (weight 400).
+// Source Sans 3 at 400 against Arial Regular.
 @font-face {
   font-family: 'Source Sans 3 Fallback';
   src: local('Arial');
-  size-adjust: 109.42%;
-  ascent-override: 93.58%;
-  descent-override: 36.56%;
+  size-adjust: 93.93%;
+  ascent-override: 109.01%;
+  descent-override: 42.58%;
   line-gap-override: 0%;
 }
-// Heading fallback tuned to Plus Jakarta Sans (weight 700, the heading weight).
+// Plus Jakarta Sans at 700 (the heading weight) against Arial Bold.
 @font-face {
   font-family: 'Plus Jakarta Sans Fallback';
-  src: local('Arial');
-  size-adjust: 138.19%;
-  ascent-override: 75.11%;
-  descent-override: 16.06%;
+  src: local('Arial Bold'), local('Arial-BoldMT'), local('Arial');
+  font-weight: 700;
+  size-adjust: 102.44%;
+  ascent-override: 101.33%;
+  descent-override: 21.67%;
   line-gap-override: 0%;
 }

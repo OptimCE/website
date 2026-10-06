@@ -5,7 +5,15 @@
 # Shared metadata (slug, categorie, tags, source) is defined once;
 # `terme`, `definition` and `alias` are nested per locale (fr/en/de/nl).
 #
+# - `slug` is the term's permanent key and its anchor on the glossary index
+#   (/glossaire/#slug): never change it, old links depend on it.
+# - `page_slug` is the URL segment of the term's own page, per language
+#   (/glossaire/<fr>/, /en/glossary/<en>/, ...). Set once and kept even if
+#   the term is renamed; changing it needs a row in _data/redirects.csv.
 # - `categorie` and `tags` are lowercase, accent-free slugs.
+# - `pilier` (optional) is the guide pillar a term page recommends; without
+#   it, the pillar whose `categories` (_data/pillars.yml) list the term's
+#   category. Set it where the category is misleading.
 # - `categorie` drives the filter pills (labels: i18n glossary.categories).
 # - `tags` only enrich the client-side search index.
 # - Authored in French alphabetical order (no-JS fallback); the page
@@ -16,6 +24,11 @@
 # ==================================================================
 
 - slug: accises
+  page_slug:
+    fr: accises
+    en: excise-duties
+    de: akzisen
+    nl: accijnzen
   categorie: facturation
   tags: [fiscalite, facture, belgique]
   source_nom: CREG
@@ -37,6 +50,11 @@
     nl: ["accijns"]
 
 - slug: agrivoltaisme
+  page_slug:
+    fr: agrivoltaisme
+    en: agrivoltaics
+    de: agri-photovoltaik
+    nl: agrivoltaiek
   categorie: production
   tags: [photovoltaique, agriculture, production, wallonie]
   source_nom: Renouvelle
@@ -58,7 +76,13 @@
     nl: ["agri-fotovoltaïek", "landbouwzonne-energie"]
 
 - slug: amr
+  page_slug:
+    fr: amr
+    en: amr
+    de: amr
+    nl: amr
   categorie: mesure
+  pilier: communautes-energie
   tags: [compteur, releve, data]
   source_nom: CWaPE
   source_url: "https://www.cwape.be/node/6078"
@@ -79,6 +103,11 @@
     nl: ["AMR-meter", "telelezing"]
 
 - slug: asbl
+  page_slug:
+    fr: asbl
+    en: asbl
+    de: asbl
+    nl: vzw
   categorie: juridique
   tags: [belgique, association, gouvernance]
   source_nom: ORES
@@ -100,6 +129,11 @@
     nl: ["vereniging zonder winstoogmerk", "ASBL"]
 
 - slug: association-des-coproprietaires
+  page_slug:
+    fr: association-des-coproprietaires
+    en: association-of-co-owners
+    de: vereinigung-der-miteigentuemer
+    nl: vereniging-van-mede-eigenaars
   categorie: juridique
   tags: [copropriete, gouvernance, belgique, immeuble]
   source_nom: IPI
@@ -121,6 +155,11 @@
     nl: ["VME", "vereniging van medeeigenaars"]
 
 - slug: audit-logement
+  page_slug:
+    fr: audit-logement
+    en: housing-audit
+    de: wohnungsaudit
+    nl: woningaudit
   categorie: reglementaire
   tags: [audit, prime, renovation, wallonie]
   source_nom: "SPW Logement"
@@ -142,6 +181,11 @@
     nl: ["energieaudit"]
 
 - slug: autoconsommation
+  page_slug:
+    fr: autoconsommation
+    en: self-consumption
+    de: eigenverbrauch
+    nl: zelfverbruik
   categorie: autoconsommation
   tags: [production, consommation, local]
   source_nom: "Ministère de la Transition écologique"
@@ -163,7 +207,13 @@
     nl: []
 
 - slug: autoconsommation-collective
+  page_slug:
+    fr: autoconsommation-collective
+    en: collective-self-consumption
+    de: kollektiver-eigenverbrauch
+    nl: collectief-zelfverbruik
   categorie: autoconsommation
+  pilier: communautes-energie
   tags: [collectif, partage, batiment]
   source_nom: CWaPE
   source_url: "https://www.cwape.be/documents/download/2979"
@@ -184,7 +234,13 @@
     nl: []
 
 - slug: autorisation
+  page_slug:
+    fr: autorisation
+    en: authorisation
+    de: genehmigung
+    nl: toelating
   categorie: reglementaire
+  pilier: cle-de-repartition
   tags: [conformite, regulateur, belgique]
   source_nom: CWaPE
   source_url: "https://www.cwape.be/secteur/communautes-partage-energie"
@@ -205,6 +261,11 @@
     nl: []
 
 - slug: autorite-locale
+  page_slug:
+    fr: autorite-locale
+    en: local-authority
+    de: lokale-behoerde
+    nl: lokale-overheid
   categorie: juridique
   tags: [gouvernance, communaute, belgique]
   source_nom: UVCW
@@ -225,7 +286,13 @@
     de: ["lokale Behörden", "Gebietskörperschaft", "Gebietskörperschaften"]
     nl: ["lokale overheden", "lokaal bestuur", "lokale besturen"]
 - slug: bail-d-habitation
+  page_slug:
+    fr: bail-d-habitation
+    en: residential-lease
+    de: wohnungsmietvertrag
+    nl: woninghuurovereenkomst
   categorie: juridique
+  pilier: solaire-surplus
   tags: [location, wallonie, contrat]
   source_nom: "Wallex"
   source_url: "https://wallex.wallonie.be/files/pdfs/21/5046_D%C3%A9cret_relatif_au_bail_d%27habitation_01-07-2024-.pdf"
@@ -246,6 +313,11 @@
     nl: ["huurovereenkomst voor de hoofdverblijfplaats", "studentenhuur", "huur van korte duur"]
 
 - slug: borne-de-recharge
+  page_slug:
+    fr: borne-de-recharge
+    en: charge-point
+    de: ladestation
+    nl: laadpaal
   categorie: technique
   tags: [vehicule, recharge, flexibilite]
   source_nom: OptimCE
@@ -267,6 +339,11 @@
     nl: ["wallbox", "laadpunt"]
 
 - slug: brugel
+  page_slug:
+    fr: brugel
+    en: brugel
+    de: brugel
+    nl: brugel
   categorie: regulateur
   tags: [bruxelles, regulation, belgique]
   source_nom: BRUGEL
@@ -288,6 +365,11 @@
     nl: []
 
 - slug: ce
+  page_slug:
+    fr: ce
+    en: ce
+    de: ce
+    nl: ce
   categorie: modele
   tags: [communaute, abreviation, generique]
   source_nom: CWaPE
@@ -309,6 +391,11 @@
     nl: ["energiegemeenschap"]
 
 - slug: cec
+  page_slug:
+    fr: cec
+    en: cec
+    de: cec
+    nl: cec
   categorie: modele
   tags: [communaute, citoyenne, belgique]
   source_nom: ORES
@@ -330,6 +417,11 @@
     nl: ["burgerenergiegemeenschap"]
 
 - slug: cel
+  page_slug:
+    fr: cel
+    en: cel
+    de: cel
+    nl: cel
   categorie: modele
   tags: [communaute, locale, bruxelles]
   source_nom: "Bruxelles Environnement"
@@ -351,6 +443,11 @@
     nl: ["lokale energiegemeenschap"]
 
 - slug: cer
+  page_slug:
+    fr: cer
+    en: cer
+    de: cer
+    nl: cer
   categorie: modele
   tags: [communaute, renouvelable, belgique]
   source_nom: ORES
@@ -372,6 +469,11 @@
     nl: ["hernieuwbare-energiegemeenschap"]
 
 - slug: certificat-vert
+  page_slug:
+    fr: certificat-vert
+    en: green-certificate
+    de: gruenes-zertifikat
+    nl: groenestroomcertificaat
   categorie: facturation
   tags: [soutien, production, obligation]
   source_nom: CWaPE
@@ -393,6 +495,11 @@
     nl: ["groenestroomcertificaten", "quota groenestroomcertificaten"]
 
 - slug: chauffe-eau-thermodynamique
+  page_slug:
+    fr: chauffe-eau-thermodynamique
+    en: heat-pump-water-heater
+    de: waermepumpenboiler
+    nl: warmtepompboiler
   categorie: technique
   tags: [eau-chaude, pompe-a-chaleur, autoconsommation]
   source_nom: SPW Logement
@@ -414,7 +521,13 @@
     nl: ["boiler op warmtepomp", "thermodynamische boiler"]
 
 - slug: circuit-court-energetique
+  page_slug:
+    fr: circuit-court-energetique
+    en: energy-short-circuit
+    de: kurzer-weg-beim-strom
+    nl: korte-keten-voor-stroom
   categorie: territoire
+  pilier: facture-electricite
   tags: [local, proximite, partage]
   source_nom: CWaPE
   source_url: "https://www.cwape.be/node/5618"
@@ -435,12 +548,17 @@
     nl: ["korte keten voor elektriciteit", "korte keten"]
 
 - slug: clef-de-repartition
+  page_slug:
+    fr: cle-de-repartition
+    en: allocation-key
+    de: aufteilungsschluessel
+    nl: verdeelsleutel
   categorie: calcul
   tags: [partage, gouvernance, repartition]
   source_nom: CWaPE
   source_url: "https://www.cwape.be/node/6092"
   terme:
-    fr: "Clef de répartition"
+    fr: "Clé de répartition"
     en: "Allocation key"
     de: "Aufteilungsschlüssel"
     nl: "Verdeelsleutel"
@@ -450,7 +568,7 @@
     de: "Regel, die festlegt, wie die geteilte Energie unter den Teilnehmern aufgeteilt wird — viertelstundengenau auf Basis der realen Messwerte. Jede belgische Region erkennt eigene Familien von Standardschlüsseln an."
     nl: "Regel die bepaalt hoe de gedeelde energie onder de deelnemers wordt verdeeld, kwartier per kwartier toegepast op de echte meterstanden. Elk Belgisch gewest erkent zijn eigen families van standaardsleutels."
   alias:
-    fr: ["clé de répartition", "clef de repartition"]
+    fr: ["clef de répartition", "clef de repartition"]
     en: ["repartition key", "distribution key"]
     # Canonical term is "Aufteilungsschlüssel" (see `terme.de`) — the wording in
     # Austrian law (ElWOG 2010 §16e) and on energiegemeinschaften.gv.at. The two
@@ -460,6 +578,11 @@
     nl: ["verdeelsleutel"]
 
 - slug: client-protege
+  page_slug:
+    fr: client-protege
+    en: protected-customer
+    de: geschuetzter-kunde
+    nl: beschermde-klant
   categorie: facturation
   tags: [aide, belgique, tarif]
   source_nom: CWaPE
@@ -481,6 +604,11 @@
     nl: ["beschermde klanten"]
 
 - slug: code-ean
+  page_slug:
+    fr: code-ean
+    en: ean-code
+    de: ean-code
+    nl: ean-code
   categorie: reseau
   tags: [contrat, point, facture]
   source_nom: Ecoconso
@@ -502,6 +630,11 @@
     nl: ["EAN", "EAN-nummer"]
 
 - slug: coefficient-de-performance
+  page_slug:
+    fr: coefficient-de-performance
+    en: coefficient-of-performance
+    de: leistungszahl
+    nl: prestatiecoefficient
   categorie: technique
   tags: [rendement, pompe-a-chaleur, eau-chaude]
   source_nom: OptimCE
@@ -523,7 +656,13 @@
     nl: ["COP"]
 
 - slug: commission-locale-energie
+  page_slug:
+    fr: commission-locale-energie
+    en: local-energy-commission
+    de: lokale-energiekommission
+    nl: lokale-energiecommissie
   categorie: juridique
+  pilier: facture-electricite
   tags: [wallonie, coupure, cpas]
   source_nom: "Energie Info Wallonie"
   source_url: "https://www.energieinfowallonie.be/fr/commissions-locales-pour-lenergie"
@@ -544,6 +683,11 @@
     nl: ["Lokale Energiecommissies"]
 
 - slug: communaute
+  page_slug:
+    fr: communaute
+    en: community
+    de: gemeinschaft
+    nl: gemeenschap
   categorie: gouvernance
   tags: [communaute, membres, partage]
   source_nom: ORES
@@ -565,7 +709,13 @@
     nl: ["energiegemeenschap"]
 
 - slug: compensation
+  page_slug:
+    fr: compensation
+    en: compensation
+    de: kompensation
+    nl: compensatie
   categorie: facturation
+  pilier: solaire-surplus
   tags: [photovoltaique, facture, wallonie]
   source_nom: Wallonie
   source_url: "https://www.wallonie.be/fr/actualites/panneaux-photovoltaiques-fin-du-compteur-qui-tourne-lenvers"
@@ -586,6 +736,11 @@
     nl: ["terugdraaiende teller", "jaarlijkse compensatie"]
 
 - slug: composante-energie
+  page_slug:
+    fr: composante-energie
+    en: energy-component
+    de: energiekomponente
+    nl: energiecomponent
   categorie: facturation
   tags: [facture, prix, marche]
   source_nom: CREG
@@ -607,7 +762,13 @@
     nl: ["pure energiecomponent"]
 
 - slug: compteur-communicant
+  page_slug:
+    fr: compteur-communicant
+    en: smart-meter
+    de: intelligenter-zaehler
+    nl: communicerende-meter
   categorie: mesure
+  pilier: communautes-energie
   tags: [compteur, data, releve]
   source_nom: CWaPE
   source_url: "https://www.cwape.be/secteur/communautes-partage-energie"
@@ -628,7 +789,13 @@
     nl: ["slimme meter", "digitale meter"]
 
 - slug: compteur-double-flux
+  page_slug:
+    fr: compteur-double-flux
+    en: dual-flow-meter
+    de: zweirichtungszaehler
+    nl: dubbele-fluxmeter
   categorie: mesure
+  pilier: solaire-surplus
   tags: [compteur, photovoltaique, injection]
   source_nom: Wallonie
   source_url: "https://www.wallonie.be/fr/actualites/panneaux-photovoltaiques-fin-du-compteur-qui-tourne-lenvers"
@@ -649,6 +816,11 @@
     nl: ["tweerichtingsmeter", "bidirectionele meter"]
 
 - slug: compteur-exclusif-de-nuit
+  page_slug:
+    fr: compteur-exclusif-de-nuit
+    en: exclusive-night-meter
+    de: nachtstromzaehler
+    nl: exclusief-nachtmeter
   categorie: reseau
   tags: [compteur, eau-chaude, tarif, wallonie]
   source_nom: ORES
@@ -670,6 +842,11 @@
     nl: ["exclusief nacht", "nachtmeter"]
 
 - slug: contacteur-jour-nuit
+  page_slug:
+    fr: contacteur-jour-nuit
+    en: day-night-contactor
+    de: tag-nacht-schuetz
+    nl: dag-nachtcontactor
   categorie: technique
   tags: [eau-chaude, autoconsommation, compteur]
   source_nom: OptimCE
@@ -691,7 +868,13 @@
     nl: ["dalurencontactor", "boilercontactor"]
 
 - slug: contrat-d-injection
+  page_slug:
+    fr: contrat-d-injection
+    en: injection-contract
+    de: einspeisevertrag
+    nl: injectiecontract
   categorie: marche
+  pilier: solaire-surplus
   tags: [injection, fournisseur, surplus]
   source_nom: ORES
   source_url: "https://www.ores.be/particulier/prosumer-a-partir-de-2024"
@@ -712,6 +895,11 @@
     nl: ["injectieovereenkomst"]
 
 - slug: convention-de-partage
+  page_slug:
+    fr: convention-de-partage
+    en: sharing-agreement
+    de: teilungsvereinbarung
+    nl: deelovereenkomst
   categorie: juridique
   tags: [contrat, partage, gouvernance]
   source_nom: CWaPE
@@ -733,6 +921,11 @@
     nl: ["overeenkomst energiedelen"]
 
 - slug: convention-des-maires
+  page_slug:
+    fr: convention-des-maires
+    en: covenant-of-mayors
+    de: konvent-der-buergermeister
+    nl: burgemeestersconvenant
   categorie: territoire
   tags: [climat, commune, europe]
   source_nom: UVCW
@@ -753,6 +946,11 @@
     de: []
     nl: []
 - slug: cooperative
+  page_slug:
+    fr: cooperative
+    en: cooperative
+    de: genossenschaft
+    nl: cooperatie
   categorie: juridique
   tags: [belgique, structure, gouvernance]
   source_nom: ORES
@@ -765,8 +963,8 @@
   definition:
     fr: "Structure à capital variable et gouvernance démocratique, souvent retenue pour porter une communauté d'énergie. Le principe « une personne, une voix » répond directement à l'exigence européenne de contrôle effectif par les membres."
     en: "A structure with variable capital and democratic governance, often chosen to host an energy community. The \"one person, one vote\" principle answers the European requirement of effective control by members."
-    de: "Struktur mit veränderlichem Kapital und demokratischer Governance, häufig als Träger einer Energiegemeinschaft gewählt. Das Prinzip „eine Person, eine Stimme\" erfüllt unmittelbar die europäische Anforderung der tatsächlichen Mitgliederkontrolle."
-    nl: "Structuur met veranderlijk kapitaal en democratisch bestuur, vaak gekozen om een energiegemeenschap te dragen. Het principe „één persoon, één stem\" beantwoordt rechtstreeks aan de Europese eis van daadwerkelijke zeggenschap door de leden."
+    de: "Struktur mit veränderlichem Kapital und demokratischer Governance, häufig als Träger einer Energiegemeinschaft gewählt. Das Prinzip „eine Person, eine Stimme“ erfüllt unmittelbar die europäische Anforderung der tatsächlichen Mitgliederkontrolle."
+    nl: "Structuur met veranderlijk kapitaal en democratisch bestuur, vaak gekozen om een energiegemeenschap te dragen. Het principe “één persoon, één stem” beantwoordt rechtstreeks aan de Europese eis van daadwerkelijke zeggenschap door de leden."
   alias:
     fr: ["coop"]
     en: ["co-op"]
@@ -774,6 +972,11 @@
     nl: ["coöp"]
 
 - slug: copropriete
+  page_slug:
+    fr: copropriete
+    en: condominium
+    de: wohnungseigentum
+    nl: mede-eigendom
   categorie: juridique
   tags: [immeuble, batiment, belgique, partage]
   source_nom: IPI
@@ -795,6 +998,11 @@
     nl: ["gedwongen mede-eigendom", "appartementsmede-eigendom"]
 
 - slug: courbe-de-charge
+  page_slug:
+    fr: courbe-de-charge
+    en: load-curve
+    de: lastgang
+    nl: belastingcurve
   categorie: mesure
   tags: [consommation, quart-d-heure, partage, simultaneite]
   source_nom: Synergrid
@@ -816,7 +1024,13 @@
     nl: ["belastingprofiel", "verbruikscurve"]
 
 - slug: cpma
+  page_slug:
+    fr: cpma
+    en: cpma
+    de: cpma
+    nl: cpma
   categorie: reglementaire
+  pilier: solaire-surplus
   tags: [certificat-vert, soutien, wallonie, production]
   source_nom: SPW Énergie
   source_url: "https://energie.wallonie.be/home/soutiens-financiers/soutien-a-la-production-d-electricite-verte/mecanismes-de-soutien/regime-cpma.html"
@@ -837,6 +1051,11 @@
     nl: ["CPMA-regime"]
 
 - slug: cwape
+  page_slug:
+    fr: cwape
+    en: cwape
+    de: cwape
+    nl: cwape
   categorie: regulateur
   tags: [wallonie, regulation, belgique]
   source_nom: CWaPE
@@ -858,6 +1077,11 @@
     nl: ["Waalse Energiecommissie"]
 
 - slug: decompte-annuel
+  page_slug:
+    fr: decompte-annuel
+    en: annual-statement
+    de: jahresabrechnung
+    nl: jaarafrekening
   categorie: facturation
   tags: [facture, releve, paiement]
   source_nom: Ecoconso
@@ -879,6 +1103,11 @@
     nl: ["regularisatiefactuur", "jaarlijkse regularisatie"]
 
 - slug: droit-de-superficie
+  page_slug:
+    fr: droit-de-superficie
+    en: right-of-superficies
+    de: erbbaurecht
+    nl: opstalrecht
   categorie: juridique
   tags: [toiture, tiers-investisseur, copropriete, belgique]
   source_nom: Notaire.be
@@ -900,6 +1129,11 @@
     nl: ["recht van opstal"]
 
 - slug: eau-chaude-sanitaire
+  page_slug:
+    fr: eau-chaude-sanitaire
+    en: domestic-hot-water
+    de: trinkwarmwasser
+    nl: sanitair-warm-water
   categorie: technique
   tags: [eau-chaude, autoconsommation, surplus]
   source_nom: OptimCE
@@ -921,7 +1155,13 @@
     nl: ["SWW", "warm water"]
 
 - slug: ecretement
+  page_slug:
+    fr: ecretement
+    en: curtailment
+    de: abregelung
+    nl: afregeling
   categorie: reseau
+  pilier: solaire-surplus
   tags: [reseau, injection, production, flexibilite]
   source_nom: ORES
   source_url: "https://media.ores.be/ores-cms/nuuppfty/ores-pa-electricit%C3%A9-26-30-vdef.pdf"
@@ -942,6 +1182,11 @@
     nl: ["curtailment", "begrenzing"]
 
 - slug: energie-locale
+  page_slug:
+    fr: energie-locale
+    en: local-energy
+    de: lokale-energie
+    nl: lokale-energie
   categorie: territoire
   tags: [local, communaute, proximite]
   source_nom: "Bruxelles Environnement"
@@ -963,6 +1208,11 @@
     nl: []
 
 - slug: energie-renouvelable
+  page_slug:
+    fr: energie-renouvelable
+    en: renewable-energy
+    de: erneuerbare-energie
+    nl: hernieuwbare-energie
   categorie: production
   tags: [renouvelable, cer, production]
   source_nom: ORES
@@ -984,7 +1234,13 @@
     nl: ["groene energie"]
 
 - slug: energie-residuelle
+  page_slug:
+    fr: energie-residuelle
+    en: residual-energy
+    de: restenergie
+    nl: restenergie
   categorie: facturation
+  pilier: prix-facturation-communaute
   tags: [facturation, partage, fournisseur]
   source_nom: CWaPE
   source_url: "https://www.cwape.be/node/5618"
@@ -1005,7 +1261,13 @@
     nl: ["aanvullende energie"]
 
 - slug: facturation
+  page_slug:
+    fr: facturation
+    en: billing
+    de: abrechnung
+    nl: facturatie
   categorie: facturation
+  pilier: prix-facturation-communaute
   tags: [paiement, contrat, finance]
   source_nom: CWaPE
   source_url: "https://www.cwape.be/secteur/communautes-partage-energie"
@@ -1026,6 +1288,11 @@
     nl: []
 
 - slug: facture-d-acompte
+  page_slug:
+    fr: facture-d-acompte
+    en: instalment-invoice
+    de: abschlagsrechnung
+    nl: voorschotfactuur
   categorie: facturation
   tags: [facture, paiement, estimation]
   source_nom: Ecoconso
@@ -1047,6 +1314,11 @@
     nl: ["voorschot", "voorschotten"]
 
 - slug: facture-de-cloture
+  page_slug:
+    fr: facture-de-cloture
+    en: closing-invoice
+    de: schlussrechnung
+    nl: slotfactuur
   categorie: facturation
   tags: [facture, demenagement, releve]
   source_nom: Test-Achats
@@ -1068,6 +1340,11 @@
     nl: ["eindfactuur"]
 
 - slug: fiche-tarifaire
+  page_slug:
+    fr: fiche-tarifaire
+    en: tariff-sheet
+    de: tarifblatt
+    nl: tariefkaart
   categorie: marche
   tags: [contrat, prix, comparaison]
   source_nom: CREG
@@ -1089,6 +1366,11 @@
     nl: ["tariefkaarten", "prijskaart"]
 
 - slug: flexibilite
+  page_slug:
+    fr: flexibilite
+    en: flexibility
+    de: flexibilitaet
+    nl: flexibiliteit
   categorie: reseau
   tags: [pilotage, stockage, reseau]
   source_nom: Brugel
@@ -1110,6 +1392,11 @@
     nl: []
 
 - slug: fluvius
+  page_slug:
+    fr: fluvius
+    en: fluvius
+    de: fluvius
+    nl: fluvius
   categorie: reseau
   tags: [flandre, grd, reseau]
   source_nom: Fluvius
@@ -1131,6 +1418,11 @@
     nl: []
 
 - slug: fonds-social-chauffage
+  page_slug:
+    fr: fonds-social-chauffage
+    en: social-heating-fund
+    de: sozialer-heizfonds
+    nl: sociaal-verwarmingsfonds
   categorie: reglementaire
   tags: [aide, mazout, cpas]
   source_nom: "Fonds Social Chauffage"
@@ -1152,6 +1444,11 @@
     nl: ["Verwarmingsfonds"]
 
 - slug: fournisseur
+  page_slug:
+    fr: fournisseur
+    en: supplier
+    de: lieferant
+    nl: leverancier
   categorie: marche
   tags: [contrat, vente, energie]
   source_nom: Coretec
@@ -1173,6 +1470,11 @@
     nl: ["energieleverancier"]
 
 - slug: garantie-d-origine
+  page_slug:
+    fr: garantie-d-origine
+    en: guarantee-of-origin
+    de: herkunftsnachweis
+    nl: garantie-van-oorsprong
   categorie: reglementaire
   tags: [tracabilite, fournisseur, renouvelable]
   source_nom: "SPW Énergie"
@@ -1193,6 +1495,11 @@
     de: ["Herkunftsnachweise"]
     nl: ["garanties van oorsprong"]
 - slug: gouvernance
+  page_slug:
+    fr: gouvernance
+    en: governance
+    de: governance
+    nl: bestuur
   categorie: gouvernance
   tags: [organisation, regles, communaute]
   source_nom: OptimCE
@@ -1214,6 +1521,11 @@
     nl: ["governance"]
 
 - slug: grd
+  page_slug:
+    fr: grd
+    en: grd
+    de: grd
+    nl: grd
   categorie: reseau
   tags: [acteur, distribution, belgique]
   source_nom: Coretec
@@ -1235,6 +1547,11 @@
     nl: ["distributienetbeheerder", "DNB"]
 
 - slug: greenwashing
+  page_slug:
+    fr: greenwashing
+    en: greenwashing
+    de: greenwashing
+    nl: greenwashing
   categorie: marche
   tags: [reglementaire, fournisseur, consommateur]
   source_nom: "SPF Économie"
@@ -1255,6 +1572,11 @@
     de: ["Grünfärberei"]
     nl: ["groenwassen"]
 - slug: grt
+  page_slug:
+    fr: grt
+    en: grt
+    de: grt
+    nl: grt
   categorie: reseau
   tags: [acteur, transport, belgique]
   source_nom: Coretec
@@ -1276,6 +1598,11 @@
     nl: ["transmissienetbeheerder", "TNB"]
 
 - slug: guichet-energie
+  page_slug:
+    fr: guichet-energie
+    en: walloon-energy-desk
+    de: energieschalter-der-wallonie
+    nl: energieloket-van-wallonie
   categorie: reglementaire
   tags: [conseil, wallonie, spw]
   source_nom: "SPW Énergie"
@@ -1297,7 +1624,13 @@
     nl: ["Energieloketten van Wallonië", "Energieloket"]
 
 - slug: injection
+  page_slug:
+    fr: injection
+    en: injection
+    de: einspeisung
+    nl: injectie
   categorie: reseau
+  pilier: solaire-surplus
   tags: [production, reseau, surplus]
   source_nom: ORES
   source_url: "https://www.ores.be/faq/partage-denergie/"
@@ -1318,7 +1651,13 @@
     nl: ["teruglevering"]
 
 - slug: iteration
+  page_slug:
+    fr: iteration
+    en: iteration
+    de: iteration
+    nl: iteratie
   categorie: technique
+  pilier: cle-de-repartition
   tags: [algorithme, calcul, optimisation]
   source_nom: OptimCE
   source_ref: about
@@ -1339,6 +1678,11 @@
     nl: []
 
 - slug: kit-plug-and-play
+  page_slug:
+    fr: kit-plug-and-play
+    en: portable-photovoltaic-kit
+    de: mobiles-photovoltaikset
+    nl: verplaatsbare-fotovoltaische-kit
   categorie: technique
   tags: [photovoltaique, materiel, locataire]
   source_nom: CWaPE
@@ -1360,6 +1704,11 @@
     nl: ["plug-and-playkit", "balkonzonnepaneel", "mobiele fotovoltaïsche installatie"]
 
 - slug: logement-social
+  page_slug:
+    fr: logement-social
+    en: social-housing
+    de: sozialwohnung
+    nl: sociale-woning
   categorie: reglementaire
   tags: [logement, social, wallonie]
   source_nom: "Société wallonne du Logement"
@@ -1381,6 +1730,11 @@
     nl: ["sociale woningen", "openbare huisvestingsmaatschappij"]
 
 - slug: mebar
+  page_slug:
+    fr: mebar
+    en: mebar
+    de: mebar
+    nl: mebar
   categorie: reglementaire
   tags: [prime, wallonie, cpas]
   source_nom: "SPW Énergie"
@@ -1402,7 +1756,13 @@
     nl: ["MEBAR-premie"]
 
 - slug: mediation-energie
+  page_slug:
+    fr: mediation-energie
+    en: energy-ombudsman-service
+    de: ombudsdienst-fuer-energie
+    nl: ombudsdienst-voor-energie
   categorie: juridique
+  pilier: facture-electricite
   tags: [recours, litige, belgique]
   source_nom: CWaPE
   source_url: "https://www.cwape.be/srme/mediation"
@@ -1423,6 +1783,11 @@
     nl: ["energieombudsman", "SRME"]
 
 - slug: membre
+  page_slug:
+    fr: membre
+    en: member
+    de: mitglied
+    nl: lid
   categorie: gouvernance
   tags: [membres, participation, communaute]
   source_nom: ORES
@@ -1444,6 +1809,11 @@
     nl: ["deelnemer"]
 
 - slug: mix-residuel
+  page_slug:
+    fr: mix-residuel
+    en: residual-mix
+    de: residualmix
+    nl: residuele-mix
   categorie: marche
   tags: [tracabilite, fournisseur, marche]
   source_nom: "Association of Issuing Bodies"
@@ -1464,7 +1834,13 @@
     de: ["belgischer Residualmix"]
     nl: ["Belgische residuele mix"]
 - slug: notification
+  page_slug:
+    fr: notification
+    en: notification
+    de: meldung
+    nl: kennisgeving
   categorie: reglementaire
+  pilier: communautes-energie
   tags: [conformite, declaration, belgique]
   source_nom: CWaPE
   source_url: "https://www.cwape.be/secteur/communautes-partage-energie"
@@ -1485,6 +1861,11 @@
     nl: []
 
 - slug: onduleur
+  page_slug:
+    fr: onduleur
+    en: inverter
+    de: wechselrichter
+    nl: omvormer
   categorie: technique
   tags: [photovoltaique, materiel, puissance]
   source_nom: Énergie Commune
@@ -1506,6 +1887,11 @@
     nl: ["invertor", "micro-omvormer"]
 
 - slug: pair-a-pair
+  page_slug:
+    fr: pair-a-pair
+    en: peer-to-peer
+    de: peer-to-peer
+    nl: peer-to-peer
   categorie: partage
   tags: [partage, voisinage, bilateral]
   source_nom: Brugel
@@ -1527,6 +1913,11 @@
     nl: ["peer-to-peerdelen"]
 
 - slug: partage-d-energie
+  page_slug:
+    fr: partage-d-energie
+    en: energy-sharing
+    de: energieteilung
+    nl: energiedeling
   categorie: partage
   tags: [partage, communaute, collectif]
   source_nom: CWaPE
@@ -1548,7 +1939,13 @@
     nl: []
 
 - slug: partage-d-operation
+  page_slug:
+    fr: partage-d-operation
+    en: sharing-operation
+    de: aufteilungsvorgang
+    nl: deelverrichting
   categorie: technique
+  pilier: cle-de-repartition
   tags: [partage, operation, processus]
   source_nom: CWaPE
   source_url: "https://www.cwape.be/node/6092"
@@ -1569,6 +1966,11 @@
     nl: []
 
 - slug: participant
+  page_slug:
+    fr: participant
+    en: participant
+    de: teilnehmer
+    nl: deelnemer
   categorie: gouvernance
   tags: [membres, partage, communaute]
   source_nom: CWaPE
@@ -1590,6 +1992,11 @@
     nl: ["lid"]
 
 - slug: personne-morale
+  page_slug:
+    fr: personne-morale
+    en: legal-entity
+    de: juristische-person
+    nl: rechtspersoon
   categorie: juridique
   tags: [structure, droit, communaute]
   source_nom: "Bruxelles Environnement"
@@ -1611,6 +2018,11 @@
     nl: []
 
 - slug: photovoltaique
+  page_slug:
+    fr: photovoltaique
+    en: photovoltaic
+    de: photovoltaik
+    nl: fotovoltaisch
   categorie: production
   tags: [production, solaire, technologie]
   source_nom: Renouvelle
@@ -1632,6 +2044,11 @@
     nl: ["zonnepanelen", "zonnepaneel", "fotovoltaïsche installatie"]
 
 - slug: paedc
+  page_slug:
+    fr: paedc
+    en: sustainable-energy-and-climate-action-plan
+    de: aktionsplan-fuer-nachhaltige-energie-und-klima
+    nl: actieplan-voor-duurzame-energie-en-klimaat
   categorie: territoire
   tags: [climat, commune, plan]
   source_nom: UVCW
@@ -1652,6 +2069,11 @@
     de: ["PAEDC", "Klimaaktionsplan", "Klimaplan"]
     nl: ["PAEDC", "klimaatactieplan", "klimaatplan"]
 - slug: point-de-fourniture
+  page_slug:
+    fr: point-de-fourniture
+    en: supply-point
+    de: lieferstelle
+    nl: leveringspunt
   categorie: reseau
   tags: [contrat, point, livraison]
   source_nom: Coretec
@@ -1673,6 +2095,11 @@
     nl: []
 
 - slug: pollec
+  page_slug:
+    fr: pollec
+    en: pollec
+    de: pollec
+    nl: pollec
   categorie: territoire
   tags: [climat, commune, subvention]
   source_nom: "SPW Énergie"
@@ -1693,6 +2120,11 @@
     de: []
     nl: []
 - slug: pouvoir-organisateur
+  page_slug:
+    fr: pouvoir-organisateur
+    en: organising-authority
+    de: schultraeger
+    nl: inrichtende-macht
   categorie: juridique
   tags: [ecole, gouvernance, belgique]
   source_nom: "SPW Énergie"
@@ -1713,6 +2145,11 @@
     de: ["Schulträgers", "Trägerschaft"]
     nl: ["inrichtende machten", "schoolbestuur"]
 - slug: precarite-energetique
+  page_slug:
+    fr: precarite-energetique
+    en: energy-poverty
+    de: energiearmut
+    nl: energiearmoede
   categorie: reglementaire
   tags: [social, belgique, indicateur]
   source_nom: "SPF Economie"
@@ -1734,6 +2171,11 @@
     nl: ["energie-armoede"]
 
 - slug: prime-habitation
+  page_slug:
+    fr: prime-habitation
+    en: habitation-grant
+    de: wohnungspraemie
+    nl: woonpremie
   categorie: reglementaire
   tags: [prime, renovation, wallonie, logement]
   source_nom: "SPW Logement"
@@ -1755,7 +2197,13 @@
     nl: ["woonpremies"]
 
 - slug: prix-de-cession-interne
+  page_slug:
+    fr: prix-de-cession-interne
+    en: internal-transfer-price
+    de: interner-verrechnungspreis
+    nl: interne-overdrachtsprijs
   categorie: facturation
+  pilier: prix-facturation-communaute
   tags: [prix, partage, contrat]
   source_nom: CWaPE
   source_url: "https://www.cwape.be/node/6063"
@@ -1776,6 +2224,11 @@
     nl: ["interne prijs", "prijs van de gedeelde energie"]
 
 - slug: productible
+  page_slug:
+    fr: productible
+    en: specific-yield
+    de: spezifischer-ertrag
+    nl: specifieke-opbrengst
   categorie: production
   tags: [photovoltaique, production, calcul]
   source_nom: Énergie Commune
@@ -1788,8 +2241,8 @@
   definition:
     fr: "Énergie qu'une installation photovoltaïque produit en un an par unité de puissance installée, exprimée en kWh/kWc. En Wallonie, l'ordre de grandeur retenu est de 950 à 1 000 kWh/kWc par an pour une toiture plein sud inclinée à 35° et non ombragée."
     en: "The energy a solar installation produces in a year per unit of installed capacity, expressed in kWh/kWp. In Wallonia the accepted order of magnitude is 950 to 1,000 kWh/kWp a year for an unshaded, due-south roof at 35°."
-    de: "Energie, die eine Photovoltaikanlage in einem Jahr je Einheit installierter Leistung erzeugt, ausgedrückt in kWh/kWp. In Wallonien gilt als Größenordnung 950 bis 1.000 kWh/kWp pro Jahr für ein unverschattetes, nach Süden ausgerichtetes Dach mit 35° Neigung."
-    nl: "Energie die een fotovoltaïsche installatie in een jaar produceert per eenheid geïnstalleerd vermogen, uitgedrukt in kWh/kWp. In Wallonië geldt als orde van grootte 950 tot 1.000 kWh/kWp per jaar voor een onbeschaduwd dak pal zuid met een helling van 35°."
+    de: "Energie, die eine Photovoltaikanlage in einem Jahr je Einheit installierter Leistung erzeugt, ausgedrückt in kWh/kWp. In Wallonien gilt als Größenordnung 950 bis 1 000 kWh/kWp pro Jahr für ein unverschattetes, nach Süden ausgerichtetes Dach mit 35° Neigung."
+    nl: "Energie die een fotovoltaïsche installatie in een jaar produceert per eenheid geïnstalleerd vermogen, uitgedrukt in kWh/kWp. In Wallonië geldt als orde van grootte 950 tot 1 000 kWh/kWp per jaar voor een onbeschaduwd dak pal zuid met een helling van 35°."
   alias:
     fr: ["productivité annuelle", "kWh/kWc"]
     en: ["annual yield", "kWh/kWp"]
@@ -1797,6 +2250,11 @@
     nl: ["jaaropbrengst", "kWh/kWp"]
 
 - slug: prosumer
+  page_slug:
+    fr: prosumer
+    en: prosumer
+    de: prosumer
+    nl: prosument
   categorie: production
   tags: [photovoltaique, production, wallonie]
   source_nom: ORES
@@ -1818,7 +2276,13 @@
     nl: ["prosumenten", "prosumer"]
 
 - slug: puissance-nette-developpable
+  page_slug:
+    fr: puissance-nette-developpable
+    en: net-deliverable-capacity
+    de: netto-verfuegbare-leistung
+    nl: netto-ontwikkelbaar-vermogen
   categorie: reseau
+  pilier: solaire-surplus
   tags: [photovoltaique, puissance, tarif]
   source_nom: CWaPE
   source_url: "https://www.cwape.be/node/148"
@@ -1839,6 +2303,11 @@
     nl: ["ontwikkelbaar vermogen"]
 
 - slug: quart-d-heure
+  page_slug:
+    fr: quart-d-heure
+    en: quarter-hour
+    de: viertelstunde
+    nl: kwartier
   categorie: mesure
   tags: [data, mesure, calcul]
   source_nom: CWaPE
@@ -1860,7 +2329,13 @@
     nl: ["kwartierwaarde"]
 
 - slug: raccordement-flexible
+  page_slug:
+    fr: raccordement-flexible
+    en: flexible-connection
+    de: flexibler-anschluss
+    nl: flexibele-aansluiting
   categorie: reseau
+  pilier: solaire-surplus
   tags: [reseau, raccordement, injection, flexibilite]
   source_nom: ORES
   source_url: "https://media.ores.be/ores-cms/p2oakyix/electricit%C3%A9-contrat-de-raccordement-flexible-au-r%C3%A9seau-de-distribution-haute-tension.pdf"
@@ -1881,6 +2356,11 @@
     nl: ["flexibele toegang", "dynamische begrenzing"]
 
 - slug: recharge-bidirectionnelle
+  page_slug:
+    fr: recharge-bidirectionnelle
+    en: bidirectional-charging
+    de: bidirektionales-laden
+    nl: bidirectioneel-laden
   categorie: technique
   tags: [vehicule, stockage, flexibilite]
   source_nom: OptimCE
@@ -1893,8 +2373,8 @@
   definition:
     fr: "Capacité d'un véhicule électrique à restituer l'énergie de sa batterie vers le logement (V2H) ou vers le réseau (V2G). En Belgique en 2026, l'offre reste marginale : bornes bidirectionnelles à 4 000-8 000 €, peu de modèles compatibles et cadre normatif de raccordement non stabilisé."
     en: "The ability of an electric vehicle to return energy from its battery to the home (V2H) or to the grid (V2G). In Belgium in 2026 the offering remains marginal: bidirectional charge points at €4,000-8,000, few compatible models and an unsettled connection standards framework."
-    de: "Fähigkeit eines Elektrofahrzeugs, Energie aus seiner Batterie an das Haus (V2H) oder das Netz (V2G) zurückzugeben. In Belgien bleibt das Angebot 2026 marginal: bidirektionale Ladestationen für 4.000-8.000 €, wenige kompatible Modelle und ein nicht stabilisierter normativer Anschlussrahmen."
-    nl: "Het vermogen van een elektrisch voertuig om energie uit zijn batterij terug te geven aan de woning (V2H) of aan het net (V2G). In België blijft het aanbod in 2026 marginaal: bidirectionele laadpalen aan 4.000-8.000 €, weinig compatibele modellen en een niet-gestabiliseerd normatief aansluitkader."
+    de: "Fähigkeit eines Elektrofahrzeugs, Energie aus seiner Batterie an das Haus (V2H) oder das Netz (V2G) zurückzugeben. In Belgien bleibt das Angebot 2026 marginal: bidirektionale Ladestationen für 4 000-8 000 €, wenige kompatible Modelle und ein nicht stabilisierter normativer Anschlussrahmen."
+    nl: "Het vermogen van een elektrisch voertuig om energie uit zijn batterij terug te geven aan de woning (V2H) of aan het net (V2G). In België blijft het aanbod in 2026 marginaal: bidirectionele laadpalen aan 4 000-8 000 €, weinig compatibele modellen en een niet-gestabiliseerd normatief aansluitkader."
   alias:
     fr: ["V2G", "V2H", "vehicle-to-grid", "vehicle-to-home"]
     en: ["V2G", "V2H", "vehicle-to-grid", "vehicle-to-home"]
@@ -1902,6 +2382,11 @@
     nl: ["V2G", "V2H", "vehicle-to-grid", "vehicle-to-home"]
 
 - slug: redevance-fixe
+  page_slug:
+    fr: redevance-fixe
+    en: standing-charge
+    de: grundgebuehr
+    nl: vaste-vergoeding
   categorie: facturation
   tags: [facture, contrat, prix]
   source_nom: Test-Achats
@@ -1923,6 +2408,11 @@
     nl: ["vaste term"]
 
 - slug: representant-du-partage
+  page_slug:
+    fr: representant-du-partage
+    en: sharing-representative
+    de: vertreter-der-energieteilung
+    nl: vertegenwoordiger-van-het-energiedelen
   categorie: partage
   tags: [partage, facturation, acteur]
   source_nom: CWaPE
@@ -1944,6 +2434,11 @@
     nl: ["deelvertegenwoordiger"]
 
 - slug: routeur-solaire
+  page_slug:
+    fr: routeur-solaire
+    en: solar-diverter
+    de: solarrouter
+    nl: zonnerouter
   categorie: technique
   tags: [autoconsommation, eau-chaude, surplus]
   source_nom: OptimCE
@@ -1965,6 +2460,11 @@
     nl: ["overschotsturing", "zonne-router"]
 
 - slug: sibelga
+  page_slug:
+    fr: sibelga
+    en: sibelga
+    de: sibelga
+    nl: sibelga
   categorie: reseau
   tags: [bruxelles, grd, reseau]
   source_nom: Sibelga
@@ -1986,7 +2486,13 @@
     nl: []
 
 - slug: simultaneite
+  page_slug:
+    fr: simultaneite
+    en: simultaneity
+    de: gleichzeitigkeit
+    nl: gelijktijdigheid
   categorie: mesure
+  pilier: solaire-surplus
   tags: [quart-d-heure, partage, mesure]
   source_nom: ORES
   source_url: "https://www.ores.be/faq/partage-denergie"
@@ -2007,6 +2513,11 @@
     nl: ["gelijktijdigheidsregel", "tijdsgelijkheid"]
 
 - slug: stockage
+  page_slug:
+    fr: stockage
+    en: storage
+    de: speicherung
+    nl: opslag
   categorie: production
   tags: [batterie, flexibilite, energie]
   source_nom: OptimCE
@@ -2028,6 +2539,11 @@
     nl: ["batterij"]
 
 - slug: surplus
+  page_slug:
+    fr: surplus
+    en: surplus
+    de: ueberschuss
+    nl: overschot
   categorie: autoconsommation
   tags: [production, injection, vente]
   source_nom: "Ministère de la Transition écologique"
@@ -2049,6 +2565,11 @@
     nl: ["productieoverschot"]
 
 - slug: surplus-injecte
+  page_slug:
+    fr: surplus-injecte
+    en: injected-surplus
+    de: eingespeister-ueberschuss
+    nl: geinjecteerd-overschot
   categorie: autoconsommation
   tags: [surplus, injection, reseau]
   source_nom: Service-public
@@ -2070,6 +2591,11 @@
     nl: []
 
 - slug: syndic
+  page_slug:
+    fr: syndic
+    en: managing-agent
+    de: verwalter
+    nl: syndicus
   categorie: gouvernance
   tags: [copropriete, mandat, representant, belgique]
   source_nom: IPI
@@ -2091,7 +2617,13 @@
     nl: ["syndicus van de mede-eigendom"]
 
 - slug: talon-de-consommation
+  page_slug:
+    fr: talon-de-consommation
+    en: base-load
+    de: grundlast
+    nl: basislast
   categorie: mesure
+  pilier: solaire-surplus
   tags: [consommation, autoconsommation, courbe]
   source_nom: OptimCE
   source_ref: about
@@ -2112,6 +2644,11 @@
     nl: ["sokkelverbruik", "basisverbruik"]
 
 - slug: tarif-bihoraire
+  page_slug:
+    fr: tarif-bihoraire
+    en: dual-rate-tariff
+    de: zweitarif
+    nl: tweevoudig-tarief
   categorie: reseau
   tags: [tarif, reseau, heures, wallonie, bruxelles, flandre]
   source_nom: ORES
@@ -2133,6 +2670,11 @@
     nl: ["daluren", "piekuren"]
 
 - slug: tarif-capacitaire
+  page_slug:
+    fr: tarif-capacitaire
+    en: capacity-tariff
+    de: kapazitaetstarif
+    nl: capaciteitstarief
   categorie: reseau
   tags: [tarif, reseau, flandre, pointe]
   source_nom: VREG
@@ -2154,7 +2696,13 @@
     nl: ["capaciteitsterm"]
 
 - slug: tarif-injection
+  page_slug:
+    fr: tarif-injection
+    en: injection-tariff
+    de: einspeisetarif
+    nl: injectietarief
   categorie: facturation
+  pilier: solaire-surplus
   tags: [injection, prix, surplus]
   source_nom: Test-Achats
   source_url: "https://www.test-achats.be/maison-energie/energie-renouvelable/news/cout-energie-solaire-injectee"
@@ -2175,7 +2723,13 @@
     nl: ["terugkooptarief", "terugleveringstarief"]
 
 - slug: tarif-prosumer
+  page_slug:
+    fr: tarif-prosumer
+    en: prosumer-tariff
+    de: prosumer-tarif
+    nl: prosumententarief
   categorie: reseau
+  pilier: solaire-surplus
   tags: [tarif, reseau, photovoltaique, wallonie]
   source_nom: ORES
   source_url: "https://www.ores.be/particulier/compensation-avant-0101"
@@ -2196,6 +2750,11 @@
     nl: ["prosumertarief"]
 
 - slug: tarif-reseau
+  page_slug:
+    fr: tarif-reseau
+    en: grid-tariff
+    de: netztarif
+    nl: nettarief
   categorie: facturation
   tags: [reseau, cout, tarif]
   source_nom: CWaPE
@@ -2217,6 +2776,11 @@
     nl: ["distributietarief"]
 
 - slug: tarif-social
+  page_slug:
+    fr: tarif-social
+    en: social-tariff
+    de: sozialtarif
+    nl: sociaal-tarief
   categorie: facturation
   tags: [aide, facture, belgique]
   source_nom: "SPF Economie"
@@ -2238,6 +2802,11 @@
     nl: ["sociaal energietarief"]
 
 - slug: tarification-dynamique
+  page_slug:
+    fr: tarification-dynamique
+    en: dynamic-pricing
+    de: dynamische-tarifierung
+    nl: dynamische-tarifering
   categorie: marche
   tags: [prix, contrat, flexibilite]
   source_nom: CREG
@@ -2259,6 +2828,11 @@
     nl: ["dynamisch tarief", "dynamisch contract"]
 
 - slug: tarification-incitative
+  page_slug:
+    fr: tarification-incitative
+    en: incentive-network-pricing
+    de: anreiztarifierung
+    nl: incentiverende-tarifering
   categorie: reseau
   tags: [tarif, reseau, wallonie, flexibilite]
   source_nom: CWaPE
@@ -2280,6 +2854,11 @@
     nl: ["Impact-tarief"]
 
 - slug: taux-d-autoconsommation
+  page_slug:
+    fr: taux-d-autoconsommation
+    en: self-consumption-rate
+    de: eigenverbrauchsquote
+    nl: zelfverbruiksgraad
   categorie: autoconsommation
   tags: [kpi, production, consommation]
   source_nom: "Ministère de la Transition écologique"
@@ -2301,6 +2880,11 @@
     nl: []
 
 - slug: taux-de-partage
+  page_slug:
+    fr: taux-de-partage
+    en: sharing-rate
+    de: aufteilungsquote
+    nl: deelgraad
   categorie: kpi
   tags: [partage, performance, calcul]
   source_nom: OptimCE
@@ -2322,6 +2906,11 @@
     nl: []
 
 - slug: taxes
+  page_slug:
+    fr: taxes
+    en: taxes
+    de: steuern-und-abgaben
+    nl: heffingen
   categorie: facturation
   tags: [fiscalite, facture, belgique]
   source_nom: CWaPE
@@ -2343,6 +2932,11 @@
     nl: ["belastingen", "taksen"]
 
 - slug: terme-capacitaire
+  page_slug:
+    fr: terme-capacitaire
+    en: capacity-term
+    de: kapazitaetsterm
+    nl: capaciteitsterm
   categorie: reseau
   tags: [tarif, reseau, puissance, pointe]
   source_nom: Fluvius
@@ -2351,7 +2945,7 @@
     fr: "Terme capacitaire"
     en: "Capacity term"
     de: "Kapazitätsterm"
-    nl: "Capaciteitstarief"
+    nl: "Capaciteitsterm"
   definition:
     fr: "Part du tarif de réseau calculée sur la puissance appelée plutôt que sur les kWh consommés. En Flandre, il se base sur la pointe la plus élevée d'un quart d'heure du mois, avec un plancher de 2,5 kW ; à Bruxelles, il est lié à la puissance de raccordement."
     en: "The part of the network tariff calculated on the power drawn rather than on the kWh consumed. In Flanders it is based on the highest quarter-hour peak of the month, with a 2.5 kW floor; in Brussels it is tied to connection capacity."
@@ -2361,10 +2955,16 @@
     fr: ["tarif capacitaire", "terme de puissance"]
     en: ["capacity tariff", "power term"]
     de: ["Kapazitätstarif", "Leistungsterm"]
-    nl: ["capaciteitsterm", "vermogensterm"]
+    nl: ["vermogensterm"]
 
 - slug: tiers-investisseur
+  page_slug:
+    fr: tiers-investisseur
+    en: third-party-investor
+    de: drittinvestor
+    nl: derde-investeerder
   categorie: modele
+  pilier: solaire-surplus
   tags: [financement, photovoltaique, ecole]
   source_nom: "La Libre"
   source_url: "https://www.lalibre.be/planete/inspire/2023/01/30/sur-les-toits-des-ecoles-des-panneaux-solaires-pour-mieux-comprendre-les-enjeux-energetiques-T4ZMLNHWSND2DMOGMII6X3CUFI/"
@@ -2384,6 +2984,11 @@
     de: ["Drittinvestment", "Drittinvestition"]
     nl: ["derde-investering", "derde investeerder"]
 - slug: tuteur-energie
+  page_slug:
+    fr: tuteur-energie
+    en: energy-tutor
+    de: energietutor
+    nl: energietutor
   categorie: reglementaire
   tags: [cpas, conseil, wallonie]
   source_nom: "Action sociale Wallonie"
@@ -2405,6 +3010,11 @@
     nl: ["energietutors"]
 
 - slug: tva
+  page_slug:
+    fr: tva
+    en: vat
+    de: mwst
+    nl: btw
   categorie: facturation
   tags: [fiscalite, facture, belgique]
   source_nom: "SPF Finances"
@@ -2426,6 +3036,11 @@
     nl: ["belasting over de toegevoegde waarde", "BTW"]
 
 - slug: va
+  page_slug:
+    fr: va
+    en: va
+    de: va
+    nl: va
   categorie: calcul
   tags: [repartition, partage, kpi, technique]
   source_nom: OptimCE
@@ -2447,6 +3062,11 @@
     nl: ["toegewezen waarde"]
 
 - slug: vap
+  page_slug:
+    fr: vap
+    en: vap
+    de: vap
+    nl: vap
   categorie: calcul
   tags: [repartition, partage, pourcentage, technique]
   source_nom: OptimCE
@@ -2468,6 +3088,11 @@
     nl: ["toegewezen waarde percentage"]
 
 - slug: vreg
+  page_slug:
+    fr: vreg
+    en: vreg
+    de: vreg
+    nl: vreg
   categorie: regulateur
   tags: [flandre, regulation, belgique]
   source_nom: "Vlaamse Nutsregulator"

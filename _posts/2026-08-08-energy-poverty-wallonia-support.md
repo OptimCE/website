@@ -8,8 +8,9 @@ description: "29.2% of Walloon households face energy poverty. Which support sch
 tags: [guide, administrative, community]
 lang: en
 ref: energy-poverty-wallonia-support
+pillar: facture-electricite
 last_modified_at: 2026-09-16 06:00:00 +0200
-permalink: /en/news/2026/08/08/energy-poverty-wallonia-support/
+permalink: /en/guides/energy-poverty-wallonia-support/
 faq:
   - q: "What is energy poverty and how is it measured in Belgium?"
     a: "It describes a household that faces particular difficulty meeting its basic energy needs at home. Since the Royal Decree of 19 April 2024, Belgium uses three official indicators, computed on Statbel's SILC survey. Measured energy poverty covers households whose share of income spent on energy exceeds twice the median ratio. Hidden energy poverty covers those whose energy spending falls below half the median of comparable households: they are restricting themselves. Perceived energy poverty rests on the household's own declaration. In 2025 the FPS Economy put these at 14.6%, 3.3% and 3.9% respectively, or 19.9% in total — roughly one Belgian household in five."
@@ -31,7 +32,7 @@ Support exists. There is a lot of it: social tariff, MEBAR, Social Heating Fund,
 
 Above all, there is a mismatch few guides state out loud: the fuel that heats **37.5%** of Walloon households is precisely the one no social tariff covers. The most exposed Walloon household is also the one the flagship measure protects least.
 
-This article does not re-explain the structure of the bill — that is covered in [“Why your electricity bill stays high in Belgium”](/en/news/2026/07/25/why-electricity-bill-still-high-belgium/) — nor the full list of savings actions, costed in [“Reduce your electricity bill: Wallonia 2026”](/en/news/2026/07/28/reduce-electricity-bill-wallonia-2026/). Nor does it repeat how the social tariff works, treated in [“Which electricity tariff to choose in Belgium?”](/en/news/2026/08/03/choose-electricity-tariff-belgium/). It answers a different, more social question: **when the bill becomes unpayable, what exists, who opens it, and what is done collectively?**
+This article does not re-explain the structure of the bill — that is covered in [“Why your electricity bill stays high in Belgium”](/en/guides/why-electricity-bill-still-high-belgium/) — nor the full list of savings actions, costed in [“Reduce your electricity bill: Wallonia 2026”](/en/guides/reduce-electricity-bill-wallonia/). Nor does it repeat how the social tariff works, treated in [“Which electricity tariff to choose in Belgium?”](/en/guides/choose-electricity-tariff-belgium/). It answers a different, more social question: **when the bill becomes unpayable, what exists, who opens it, and what is done collectively?**
 
 <img src="/assets/images/diagrams/energy-poverty-support-en.svg"
      alt="Table of the six main energy support schemes in Wallonia — social tariff, Social Heating Fund, MEBAR grant, Gas-Electricity Fund, energy tutor and guaranteed minimum supply — cross-referenced with the three heating fuels. The heating oil column is mostly uncovered, even though 37.5% of Walloon households heat with that fuel, against 7.5% in Brussels."
@@ -74,7 +75,7 @@ This is the sharpest figure in the file, and the one that should steer any local
 
 Two further findings complete the picture, and they break the received idea that energy poverty only touches benefit recipients. **40.3%** of households with no earned income are in energy poverty — but so are **15.8%** of households with a single earned income, and **43.0%** of “lower” middle-class households. Having a job is not protection.
 
-That does not leave a tenant without leverage. What they can undertake without owning their home — and what waiving the social tariff on the shared portion costs a protected customer — is costed in [“Renting: the no-roof guide to solar”](/en/news/2026/09/16/tenant-solar-without-roof-guide/).
+That does not leave a tenant without leverage. What they can undertake without owning their home — and what waiving the social tariff on the shared portion costs a protected customer — is costed in [“Renting: the no-roof guide to solar”](/en/guides/tenant-solar-without-roof-guide/).
 
 ## The blind spot: heating oil
 
@@ -119,7 +120,7 @@ The federal social tariff is **the only scheme that activates automatically** fo
 
 Alongside it sits Walloon **regional protected customer** status, which extends the social tariff to further categories. It implies two things that are often overlooked: you must be **supplied by your distribution system operator**, not by a commercial supplier, and you must file a certificate with that operator every year. The status is not acquired once and for all.
 
-The detail of categories, quarterly amounts and the interplay between federal and regional status is set out in [“Which electricity tariff to choose in Belgium?”](/en/news/2026/08/03/choose-electricity-tariff-belgium/).
+The detail of categories, quarterly amounts and the interplay between federal and regional status is set out in [“Which electricity tariff to choose in Belgium?”](/en/guides/choose-electricity-tariff-belgium/).
 
 ### The MEBAR grant
 
@@ -129,7 +130,7 @@ It funds concrete work: replacing window frames or external doors, insulation, i
 
 Two procedural points decide whether a file succeeds. First, **you never apply directly**: the CPAS gathers the documents, checks admissibility and forwards the file to the Public Service of Wallonia. Second, a minimum of **five years** separates two applications, which must cover different investments — so it is worth not spending it on the first item that comes along.
 
-MEBAR is the natural complement to the standard Habitation grants, which require fronting the money and passing an audit: the corresponding levers are detailed in [the Walloon ten-lever guide](/en/news/2026/07/28/reduce-electricity-bill-wallonia-2026/).
+MEBAR is the natural complement to the standard Habitation grants, which require fronting the money and passing an audit: the corresponding levers are detailed in [the Walloon ten-lever guide](/en/guides/reduce-electricity-bill-wallonia/).
 
 ### The Gas-Electricity Fund
 
@@ -173,7 +174,7 @@ The **Réno WaTT'chers** strand is its field arm: energy guidance and workshops 
 
 ### Local energy renovation platforms
 
-The **PLRE** act as a local information and support counter for renovation work, with particular attention to low-income households. They complement the Guichets Énergie Wallonie — 16 offices, some forty advisers, free and neutral, reachable on the freephone number 1718 — whose role is described in the tenth lever of the [Walloon guide](/en/news/2026/07/28/reduce-electricity-bill-wallonia-2026/).
+The **PLRE** act as a local information and support counter for renovation work, with particular attention to low-income households. They complement the Guichets Énergie Wallonie — 16 offices, some forty advisers, free and neutral, reachable on the freephone number 1718 — whose role is described in the tenth lever of the [Walloon guide](/en/guides/reduce-electricity-bill-wallonia/).
 
 ## Can energy sharing serve low-income households?
 
@@ -191,13 +192,13 @@ The main lesson is not technical, it is social. The Société de Logements du Pl
 
 Two limits must be set out, and they are serious.
 
-**Deployment remains marginal.** Eight energy communities were listed in Wallonia in February 2026, and the CWaPE evaluation reported in March 2025 recorded only seven sharing operations across the whole territory. We documented that blockage, obstacles included, in [“Cheaper electricity without switching supplier”](/en/news/2026/08/05/cheaper-electricity-without-switching-supplier/).
+**Deployment remains marginal.** Eight energy communities were listed in Wallonia in February 2026, and the CWaPE evaluation reported in March 2025 recorded only seven sharing operations across the whole territory. We documented that blockage, obstacles included, in [“Cheaper electricity without switching supplier”](/en/guides/cheaper-electricity-without-switching-supplier/).
 
 **And above all: energy sharing pays least to those who need it most.** CWaPE requires residential customers to **waive the social tariff on the share of electricity shared with them**. The regulatory logic is understandable — you do not stack two preferential prices on the same kilowatt-hour — but the effect is regressive. For 500 kWh shared over a year, the case costed by Énergie Commune for Interreg Europe puts the gain at around **€145 for a household on the standard tariff, but only €70 for one already on the social tariff**.
 
-In other words, **a low-income household gains roughly half as much as its better-off neighbour from the same operation.** That is a design constraint, not a fatality: it is steered through the allocation key and the internal transfer price, whose defensible range is analysed in [“Internal transfer price in an energy community”](/en/news/2026/07/20/energy-community-electricity-price/). A community that wants to include low-income households must build this into the agreement, not discover it at the first statement.
+In other words, **a low-income household gains roughly half as much as its better-off neighbour from the same operation.** That is a design constraint, not a fatality: it is steered through the allocation key and the internal transfer price, whose defensible range is analysed in [“Internal transfer price in an energy community”](/en/guides/energy-community-electricity-price/). A community that wants to include low-income households must build this into the agreement, not discover it at the first statement.
 
-For those who want to go ahead anyway, Walloon access conditions are detailed in [“Join an energy community in Wallonia”](/en/news/2026/05/11/join-energy-community-wallonia/), and the real savings levers in [“Reduce your electricity bill: energy communities”](/en/news/2026/06/03/energy-community-reduce-electricity-bill/).
+For those who want to go ahead anyway, Walloon access conditions are detailed in [“Join an energy community in Wallonia”](/en/guides/join-energy-community-wallonia/), and the real savings levers in [“Reduce your electricity bill: energy communities”](/en/guides/energy-community-reduce-electricity-bill/).
 
 ## What a CPAS or a municipality can set in motion
 
@@ -211,7 +212,7 @@ This section addresses professionals rather than households. Five levers, from q
 
 **Reuse an existing collective format rather than inventing one.** Empreintes explicitly spreads the Eco Watchers methodology, and Objectif 2050 supports local authorities on Réno WaTT'chers. The tools are written, tested and transferable.
 
-**Put energy sharing at the end of the sequence, not the start.** The setup requires smart meters, an agreement and an allocation key, and it pays less to households on the social tariff. It makes sense where a public roof or a social housing stock exists — the Ans case — but it is not the entry point of an energy poverty policy. The setup seen from the municipality's side, including the arithmetic of what the social tariff loses on shared kilowatt-hours, is detailed in [“Energy communities: a guide for municipalities”](/en/news/2026/08/30/municipal-energy-community-guide/).
+**Put energy sharing at the end of the sequence, not the start.** The setup requires smart meters, an agreement and an allocation key, and it pays less to households on the social tariff. It makes sense where a public roof or a social housing stock exists — the Ans case — but it is not the entry point of an energy poverty policy. The setup seen from the municipality's side, including the arithmetic of what the social tariff loses on shared kilowatt-hours, is detailed in [“Energy communities: a guide for municipalities”](/en/solutions/municipalities/).
 
 ## Key takeaways
 

@@ -1,0 +1,13 @@
+{%- comment -%}
+  Light/dark switch. Pressed = dark theme. It ships hidden and main.js reveals
+  it: without JavaScript the site simply follows the system setting.
+  The chosen theme is stored in localStorage 'oce-theme' (the key
+  guide.optimce.be uses); choosing the system's own theme clears it again, so
+  the site goes back to following the system.
+{%- endcomment -%}
+{%- assign tt_lang = page.lang | default: site.lang -%}
+{%- assign tt_t = site.data.i18n[tt_lang] -%}
+<button type="button" class="icon-button theme-toggle" data-theme-toggle aria-pressed="false" aria-label="{{ tt_t.a11y.theme_dark }}" title="{{ tt_t.a11y.theme_dark }}" hidden>
+  {% include icon.html name="moon" class="theme-toggle__moon" %}
+  {% include icon.html name="sun" class="theme-toggle__sun" %}
+</button>

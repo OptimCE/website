@@ -1,0 +1,352 @@
+// Long-form text: articles (.post__content) and plain pages (.page__content:
+// About, Features, Privacy, pillar introductions, glossary terms).
+//
+// The markdown of the 136 articles is never edited for styling. Recurring
+// shapes are recognised from the markup itself:
+//   blockquote:has(> h3)                          product call to action (96)
+//   blockquote:has(> p:first-child > strong > a)  related-guide card (96)
+//   any other blockquote                          quote, notice or formula (100)
+//   h2#faq, h2#sources/#quellen/#bronnen,
+//   h2#<key-takeaways id per language>            section treatments
+// Counts from the 2026-09-29 build; DESIGN.md lists the conventions.
+
+.post__content,
+.page__content {
+  font-size: var(--text-prose);
+  line-height: var(--leading-prose);
+  // Source Sans 3 figures are tabular by default: right for tables, loose in
+  // running text. Prose gets proportional figures, tables get them back.
+  font-variant-numeric: proportional-nums;
+
+  > :first-child {
+    margin-top: 0;
+  }
+
+  h2 {
+    font-size: var(--text-h2);
+    margin-top: var(--space-12);
+    margin-bottom: var(--space-4);
+  }
+
+  h3 {
+    font-size: var(--text-h3);
+    margin-top: var(--space-8);
+    margin-bottom: var(--space-3);
+  }
+
+  p,
+  ul,
+  ol,
+  dl {
+    margin-bottom: 1.1em;
+  }
+
+  // Links in running text are underlined (not colour alone). Buttons, chips
+  // and the dotted glossary links have their own treatment.
+  a:not(.btn):not(.glossary-link):not(.post__tag) {
+    text-decoration: underline;
+
+    &:hover {
+      text-decoration-thickness: 2px;
+    }
+  }
+
+  strong {
+    color: var(--color-heading);
+  }
+
+  ul,
+  ol {
+    padding-left: 1.4em;
+
+    li {
+      margin-bottom: 0.45em;
+      padding-left: 0.2em;
+    }
+
+    ul,
+    ol {
+      margin-top: 0.45em;
+      margin-bottom: 0;
+    }
+  }
+
+  li::marker {
+    color: var(--color-text-muted);
+  }
+
+  ol > li::marker {
+    font-family: var(--font-heading);
+    font-weight: var(--weight-semibold);
+    font-size: 0.9em;
+  }
+
+  img {
+    height: auto;
+    border-radius: var(--radius-lg);
+  }
+
+  hr {
+    margin: var(--space-12) 0;
+  }
+
+  pre {
+    margin: var(--space-6) 0;
+  }
+
+  // --- Tables (516 across the articles) ---
+  table {
+    width: 100%;
+    margin: var(--space-8) 0;
+    border-collapse: collapse;
+    font-size: 0.9375rem;
+    line-height: 1.45;
+    font-variant-numeric: tabular-nums;
+
+    // Comparison tables have up to five columns and push the page wider than
+    // a phone screen: the table scrolls instead of the page.
+    @media (max-width: ($bp-md - 1px)) {
+      display: block;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    th,
+    td {
+      padding: 0.625rem 0.75rem;
+      text-align: left;
+      vertical-align: top;
+      border-bottom: 1px solid var(--color-border);
+    }
+
+    th {
+      font-family: var(--font-heading);
+      font-size: 0.8125rem;
+      font-weight: var(--weight-semibold);
+      line-height: 1.35;
+      color: var(--color-text-muted);
+      border-bottom-color: var(--color-border-strong);
+      vertical-align: bottom;
+    }
+
+    th:first-child,
+    td:first-child {
+      padding-left: 0;
+    }
+
+    tbody tr:last-child td {
+      border-bottom: none;
+    }
+  }
+
+  // The italic "Hypothèses : …" note that follows a table.
+  table + p:has(> em:only-child) {
+    margin-top: calc(-1 * var(--space-4));
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  // --- Blockquotes: quote, notice or formula (the default) ---
+  blockquote {
+    margin: var(--space-8) 0;
+    padding: var(--space-4) var(--space-5);
+    background-color: var(--color-bg-alt);
+    border-left: 3px solid var(--color-primary);
+    border-radius: 0 var(--radius-md) var(--radius-md) 0;
+
+    > :last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
+// --- Blockquote roles (articles) ---
+
+// Product call to action: "> ### Heading", text, then a bold link to the app.
+.post__content blockquote:has(> h3) {
+  padding: var(--space-6);
+  background-color: var(--color-tint);
+  border-left: 0;
+  border-radius: var(--radius-lg);
+
+  > h3 {
+    margin-top: 0;
+    margin-bottom: var(--space-2);
+    font-size: var(--text-xl);
+  }
+
+  > p:last-child > strong:only-child > a:only-child {
+    display: inline-flex;
+    align-items: center;
+    min-height: 2.625rem;
+    margin-top: var(--space-1);
+    padding: 0.5rem 1.125rem;
+    font-family: var(--font-heading);
+    font-size: 0.9375rem;
+    font-weight: var(--weight-semibold);
+    color: var(--color-on-primary);
+    background-color: var(--color-primary);
+    border-radius: var(--radius-md);
+    text-decoration: none;
+
+    &:hover {
+      background-color: var(--color-primary-hover);
+      color: var(--color-on-primary);
+    }
+  }
+}
+
+// Related guide: "> **[Title](url)**" then a one-line summary.
+.post__content blockquote:has(> p:first-child > strong:first-child > a) {
+  padding: var(--space-4) var(--space-5);
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  transition: border-color var(--transition-fast);
+
+  &:hover {
+    border-color: var(--color-border-strong);
+  }
+
+  > p:first-child {
+    margin-bottom: var(--space-1);
+    font-family: var(--font-heading);
+    font-size: var(--text-base);
+    line-height: 1.4;
+
+    a {
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  > p + p {
+    font-size: 0.9375rem;
+    color: var(--color-text-muted);
+  }
+
+  strong {
+    color: inherit;
+  }
+}
+
+// --- Recurring sections (kramdown ids) ---
+
+// FAQ: each question starts a new block.
+.post__content h2#faq ~ h3 {
+  margin-top: var(--space-6);
+  padding-top: var(--space-5);
+  border-top: 1px solid var(--color-border);
+  font-size: var(--text-lg);
+}
+
+// Sources: a reference list, set smaller.
+.post__content {
+  h2#sources + ul,
+  h2#quellen + ul,
+  h2#bronnen + ul {
+    font-size: 0.9375rem;
+    line-height: 1.55;
+    color: var(--color-text-muted);
+
+    li {
+      margin-bottom: 0.6em;
+    }
+  }
+}
+
+// Key takeaways: the numbered list becomes a panel.
+.post__content {
+  h2#ce-quil-faut-retenir + ol,
+  h2#à-retenir + ol,
+  h2#key-takeaways + ol,
+  h2#what-to-remember + ol,
+  h2#what-to-take-away + ol,
+  h2#was-sie-sich-merken-sollten + ol,
+  h2#was-sie-mitnehmen-sollten + ol,
+  h2#das-wichtigste-in-kürze + ol,
+  h2#wat-u-moet-onthouden + ol {
+    padding: var(--space-5) var(--space-6) var(--space-5) calc(var(--space-6) + 1.4em);
+    background-color: var(--color-tint);
+    border-radius: var(--radius-lg);
+
+    > li:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
+// --- Diagrams (84 SVGs, embedded as <img> with an inline width) ---
+// Their canvas is white by design: in dark mode they read as paper figures.
+.post__content {
+  p:has(> img[src*="/assets/images/diagrams/"]) {
+    margin: var(--space-8) 0;
+  }
+
+  img[src*="/assets/images/diagrams/"] {
+    border: 1px solid var(--color-border);
+  }
+
+  // On a phone the 800-unit canvas would shrink its labels to ~4.5px: keep
+  // the figure at a readable size and let it scroll sideways instead.
+  @media (max-width: 599px) {
+    p:has(> img[src*="/assets/images/diagrams/"]) {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    img[src*="/assets/images/diagrams/"] {
+      min-width: 36rem;
+    }
+  }
+}
+
+// --- In-article call to action (.post-cta: 24 articles, the features pages,
+// and the "join a community" block at the end of guides) ---
+.post-cta {
+  margin: var(--space-12) 0 var(--space-6);
+  padding: var(--space-8);
+  background-color: var(--color-tint);
+  border-radius: var(--radius-lg);
+
+  h2,
+  h3 {
+    margin-top: 0;
+    margin-bottom: var(--space-2);
+    font-size: var(--text-2xl);
+  }
+
+  p {
+    margin-bottom: var(--space-5);
+  }
+
+  // Beats the prose paragraph margin (.post__content p).
+  .post-cta__actions {
+    margin-bottom: 0;
+  }
+}
+
+.post-cta__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-3);
+}
+
+// --- Glossary cross-links (first occurrence of each term, auto-linked) ---
+// A dotted underline and the help cursor tell them apart from ordinary links.
+.glossary-term__definition a.glossary-link,
+.post__content a.glossary-link {
+  color: inherit;
+  text-decoration: underline dotted;
+  text-decoration-color: var(--color-primary);
+  text-decoration-thickness: 1.5px;
+  cursor: help;
+
+  &:hover {
+    color: var(--color-primary);
+    text-decoration-style: solid;
+  }
+}
