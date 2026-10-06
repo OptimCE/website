@@ -164,7 +164,7 @@ Auf unserer Kennzahl: rund **2,17 € Investition je Kilowattstunde, die jährli
 
 ### V2H und V2G: noch nicht
 
-Die Autobatterie zur Versorgung des Hauses zu nutzen oder sogar ins Netz zurückzuspeisen, würde das Problem in einem Zug lösen. In Belgien ist das 2026 keine Verbraucheroption: Bidirektionale Ladestationen kosten **4 000 bis 8 000 €**, sehr wenige Fahrzeugmodelle sind kompatibel, der normative Anschlussrahmen ist nicht stabilisiert, und die Umsetzungen bleiben Pilotprojekte. Kaufen Sie heute weder Auto noch Ladestation für diese Funktion. Die Preisübersicht je installierter Kilowattstunde und die Meldepflicht, die eine Kompensation von vor 2024 unterbrechen kann, behandelt [„Hausbatterie: Preis und Alternative"](/de/ratgeber/hausbatterie-preis-oder-energieteilen/).
+Die Autobatterie zur Versorgung des Hauses zu nutzen oder sogar ins Netz zurückzuspeisen, würde das Problem in einem Zug lösen. In Belgien ist das 2026 keine Verbraucheroption: Bidirektionale Ladestationen kosten **4 000 bis 8 000 €**, sehr wenige Fahrzeugmodelle sind kompatibel, der normative Anschlussrahmen ist nicht stabilisiert, und die Umsetzungen bleiben Pilotprojekte. Kaufen Sie heute weder Auto noch Ladestation für diese Funktion. Die Preisübersicht je installierter Kilowattstunde und die Meldepflicht, die eine Kompensation von vor 2024 unterbrechen kann, behandelt [„Hausbatterie: Preis und Alternative“](/de/ratgeber/hausbatterie-preis-oder-energieteilen/).
 
 ## Option 4 — Die Hausbatterie: wirksam, teuer und schlecht gefördert
 

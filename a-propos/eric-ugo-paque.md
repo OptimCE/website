@@ -13,22 +13,6 @@ last_modified_at: 2026-09-26
 
 Eric rédige les guides et les actualités publiés sur ce site, signés « Eric d'OptimCE ».
 
-## Parcours
-
-[À COMPLÉTER PAR ERIC]
-
-## Enseignement
-
-[À COMPLÉTER PAR ERIC]
-
-## Recherche
-
-[À COMPLÉTER PAR ERIC]
-
-## Projet
-
-[À COMPLÉTER PAR ERIC]
-
 Le projet OptimCE, ses partenaires et son origine sont présentés sur la page [{{ site.data.i18n[page.lang].nav.about }}]({{ "about" | ref_url }}).
 
 ## Articles

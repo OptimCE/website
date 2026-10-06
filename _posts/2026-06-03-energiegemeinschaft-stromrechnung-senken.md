@@ -88,7 +88,7 @@ Das Teilen kommt allen Mitgliedern zugute, doch manche Profile holen mehr heraus
 
 Die Energieteilung ist selbstverständlich nicht der einzige verfügbare Hebel. Wenn Sie in Wallonien wohnen, ordnet unser Leitfaden [„Stromrechnung senken: Wallonien 2026“](/de/ratgeber/stromrechnung-senken-wallonien/) die Energiegemeinschaft in zehn bezifferte Hebel ein, vom offiziellen Vergleichsrechner der CWaPE bis zum Sozialtarif.
 
-Eine Frage klärt dieser Artikel nicht: Ist die Teilung dort, wo Sie wohnen, überhaupt verfügbar? Die Antwort hängt weit stärker von Ihrer Region ab, als man annimmt, und [„Strom sparen ohne Anbieterwechsel”](/de/ratgeber/strom-sparen-ohne-anbieterwechsel/) beziffert sie Region für Region — einschließlich der Tatsache, dass die Peer-to-Peer-Teilung in der Wallonie weiterhin außer Betrieb ist.
+Eine Frage klärt dieser Artikel nicht: Ist die Teilung dort, wo Sie wohnen, überhaupt verfügbar? Die Antwort hängt weit stärker von Ihrer Region ab, als man annimmt, und [„Strom sparen ohne Anbieterwechsel“](/de/ratgeber/strom-sparen-ohne-anbieterwechsel/) beziffert sie Region für Region — einschließlich der Tatsache, dass die Peer-to-Peer-Teilung in der Wallonie weiterhin außer Betrieb ist.
 
 ## FAQ
 
