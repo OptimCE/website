@@ -210,18 +210,22 @@ def check_source_links(root: pathlib.Path, rep: Report) -> None:
                     )
 
 
-def check_glossary_freshness(root: pathlib.Path, rep: Report) -> None:
-    """The glossary index pages render _data/glossary.yml but carry their own
-    last_modified_at. If that date is older than the data file's newest commit,
-    the sitemap lastmod is a lie and IndexNow never resubmits the page."""
+def check_glossary_freshness(root: pathlib.Path, site: pathlib.Path, rep: Report) -> None:
+    """The glossary index pages render _data/glossary.yml, so _plugins/
+    glossary_pages.rb moves their last_modified_at to the data file's newest
+    commit. If the built sitemap lastmod is older than that commit, the plugin
+    stopped doing it: the lastmod is a lie and IndexNow never resubmits."""
     import subprocess
+    import xml.etree.ElementTree as ET
+    from datetime import datetime
 
     data = root / "_data" / "glossary.yml"
-    if not data.is_file():
+    sitemap = site / "sitemap.xml"
+    if not data.is_file() or not sitemap.is_file():
         return
     try:
         out = subprocess.run(
-            ["git", "log", "-1", "--format=%cs", "--", str(data)],
+            ["git", "log", "-1", "--format=%cI", "--", str(data)],
             cwd=root, capture_output=True, text=True, timeout=30,
         )
     except Exception:
@@ -229,27 +233,26 @@ def check_glossary_freshness(root: pathlib.Path, rep: Report) -> None:
     newest = out.stdout.strip()
     if not newest:
         return
-    pages = [
-        "glossaire/index.html",
-        "en/glossary/index.html",
-        "de/glossar/index.html",
-        "nl/woordenlijst/index.html",
-    ]
-    for rel in pages:
-        p = root / rel
-        if not p.is_file():
+
+    ns = "{http://www.sitemaps.org/schemas/sitemap/0.9}"
+    lastmods: dict[str, str | None] = {}
+    for url in ET.parse(sitemap).getroot().iter(f"{ns}url"):
+        loc = url.findtext(f"{ns}loc", "").strip()
+        lastmods[loc] = (url.findtext(f"{ns}lastmod") or "").strip() or None
+
+    for path in ("/glossaire/", "/en/glossary/", "/de/glossar/", "/nl/woordenlijst/"):
+        hits = [loc for loc in lastmods if loc.endswith(path)]
+        if not hits:
+            rep.error(f"{path}: not in sitemap.xml")
             continue
-        m = re.search(
-            r"^last_modified_at:\s*(\d{4}-\d{2}-\d{2})", p.read_text(encoding="utf-8"),
-            re.MULTILINE,
-        )
-        if not m:
-            rep.error(f"{rel}: no last_modified_at")
-        elif m.group(1) < newest:
+        lastmod = lastmods[hits[0]]
+        if not lastmod:
+            rep.error(f"{path}: no lastmod in sitemap.xml")
+        elif datetime.fromisoformat(lastmod) < datetime.fromisoformat(newest):
             rep.error(
-                f"{rel}: last_modified_at {m.group(1)} is older than the newest "
-                f"_data/glossary.yml commit ({newest}) — bump it or the sitemap "
-                f"lastmod is stale and IndexNow will not resubmit"
+                f"{path}: sitemap lastmod {lastmod} is older than the newest "
+                f"_data/glossary.yml commit ({newest}) — glossary_pages.rb no longer "
+                f"propagates the date; IndexNow will not resubmit"
             )
 
 
@@ -288,7 +291,7 @@ def main() -> int:
 
     check_duplicates(pages, rep)
     check_source_links(root, rep)
-    check_glossary_freshness(root, rep)
+    check_glossary_freshness(root, site, rep)
 
     for w in rep.warnings:
         print(f"WARN  {w}")

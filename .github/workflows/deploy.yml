@@ -20,7 +20,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # scripts/check_seo.py reads git log for glossary freshness
+          fetch-depth: 0   # glossary pages are dated from git (build + scripts/check_seo.py)
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.4'

@@ -75,6 +75,33 @@ module OptimCE
         end
       end
       site.data["glossary_index_only"] = terms.map { |t| t["slug"] }.reject { |s| page_keys.include?(s) }
+      date_index_pages(site)
+    end
+
+    # The index pages render the whole data file, so their lastmod follows its
+    # latest commit (front matter stays the floor, for edits to the intro).
+    # After the term pages, whose fallback reads the front matter date.
+    def self.date_index_pages(site)
+      commit = glossary_commit_time(site)
+      return unless commit
+
+      LANGS.each do |lang|
+        path = site.config["languages"].find { |l| l["code"] == lang }["glossary_path"]
+        page = site.pages.find { |p| p.url == path }
+        next unless page
+
+        page.data["last_modified_at"] = [Dates.to_time(page.data["last_modified_at"]), commit].compact.max
+      end
+    end
+
+    # `git log`, not the newest `git blame` line: a commit that only removes a
+    # term changes the index pages but leaves no line behind to date.
+    def self.glossary_commit_time(site)
+      out = IO.popen(%w[git log -1 --format=%ct -- _data/glossary.yml],
+                     chdir: site.source, err: File::NULL, &:read)
+      return nil unless $?.success? && !out.to_s.strip.empty?
+
+      Time.at(out.to_i)
     end
 
     def self.build_page(site, term, lang, urls, by_slug, terms, backlinks_all, block_date, pillar_of)
