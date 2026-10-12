@@ -8,7 +8,7 @@ ref: pillar-cle-de-repartition
 pillar: cle-de-repartition
 permalink: /nl/gidsen/verdeelsleutel/
 breadcrumb_parent: guides
-last_modified_at: 2026-09-26
+last_modified_at: 2026-10-11
 sections:
   - title: "De sleutel begrijpen en wat elk gewest aanvaardt"
     refs: [allocation-key-belgium]
@@ -25,6 +25,6 @@ België telt drie kaders, en onze [vergelijking van de drie gewesten]({{ "alloca
 
 Achter die drie terminologieën komen overal dezelfde twee families terug: **vaste** sleutels, egalitair of gewogen naar de inbreng van de leden, en **dynamische of geoptimaliseerde** sleutels, die het reële verbruik volgen. Tussen beide kiezen is geen technische kwestie, maar een governancekeuze: gelijkheid tussen de leden, erkenning van de investering of maximaal collectief zelfverbruik. Ook de diversiteit van de profielen weegt — zodra een school of een kmo toetreedt, is strikte gelijkheid niet meer optimaal —, net als de financiële voorspelbaarheid die de leden verwachten. Ten slotte staan de drie gewesten toe dat u een sleutel na de opstart wijzigt: voorzie dus meteen een jaarlijkse herziening op de algemene vergadering.
 
-Rest nog de toets aan uw eigen profielen, want dezelfde sleutel kan in de ene gemeenschap 70 % van de beschikbare productie terugwinnen en in een andere amper 50 %. OptimCE biedt daarvoor twee functies, allebei gevoed met een CSV van uw productie- en verbruiksdata. De [automatische generatie]({{ "optimce-allocation-key-generator" | ref_url }}) stelt een kandidaat-sleutel voor, hetzij door de standaardsleutels van uw gewest af te zoeken (brute force), hetzij met het LOGAAS-algoritme, waarvan de niet-standaard sleutel in Wallonië het CWaPE-toestemmingsspoor moet doorlopen. De [simulatie]({{ "optimce-allocation-key-simulation" | ref_url }}) speelt uw data door een sleutel die u zelf hebt gekozen en geeft het zelfverbruik, het surplus, de zelfvoorzieningsgraad en de deelgraad terug, zonder te raken aan de sleutel die de netbeheerder toepast. Geen van beide bezorgt een sleutel aan de DNB: de bijlage bij de overeenkomst, de handtekeningen en de doorgifte blijven in uw handen.
+Rest nog de toets aan uw eigen profielen, want dezelfde sleutel kan in de ene gemeenschap 70 % van de beschikbare productie terugwinnen en in een andere amper 50 %. OptimCE biedt daarvoor twee functies, allebei gevoed met een CSV van uw productie- en verbruiksdata. De [automatische generatie]({{ "optimce-allocation-key-generator" | ref_url }}) stelt een kandidaat-sleutel voor, hetzij door de standaardsleutels van uw gewest af te zoeken (brute force), hetzij met het LOGAAS-algoritme, waarvan de niet-standaard sleutel in Wallonië het CWaPE-toestemmingsspoor moet doorlopen. De [simulatie]({{ "optimce-allocation-key-simulation" | ref_url }}) speelt uw data door een sleutel die u zelf hebt gekozen en geeft het zelfverbruik, het surplus, de zelfvoorzieningsgraad en de deelgraad terug, zonder te raken aan de sleutel die de netbeheerder toepast. Geen van beide bezorgt een sleutel aan de DNB: de bijlage bij de overeenkomst, de handtekeningen en de doorgifte blijven in uw handen. Het volledige traject staat op de pagina van [de verdeelsleuteltool]({{ "product-allocation-key" | ref_url }}).
 
 De gidsen hieronder volgen dezelfde volgorde: eerst de drie gewestelijke kaders, daarna het genereren en simuleren van een sleutel op uw data.

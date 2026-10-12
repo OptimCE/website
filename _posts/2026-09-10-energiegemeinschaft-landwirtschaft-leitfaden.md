@@ -2,7 +2,7 @@
 layout: post
 title: "Landwirte: der Leitfaden zum Energieteilen"
 date: 2026-09-10 06:00:00 +0200
-last_modified_at: 2026-09-26 06:00:00 +0200
+last_modified_at: 2026-10-11 10:00:00 +0200
 author: "Eric, OptimCE"
 excerpt: "Eine Landwirtschaftshalle trägt zwischen 100 und 350 Kilowatt-Peak. Es ist das größte verfügbare Dach der ländlichen Wallonie, das am besten ausgerichtete und das am einfachsten zu bestückende: Module auf dem Dach brauchen dort keine Städtebaugenehmigung, gleich welcher Leistung. Und doch ist von den dreizehn bei der CWaPE gemeldeten Energiegemeinschaften keine einzige an einen landwirtschaftlichen Betrieb angelehnt. Das ist keine Gleichgültigkeit. Zwei Erlasse der Wallonischen Regierung, im Abstand von drei Wochen im Februar und März 2023 verabschiedet, ziehen in genau entgegengesetzte Richtungen: Der erste fördert Photovoltaik nur im Verhältnis zum selbst verbrauchten Teil, der zweite organisiert das Teilen des Überschusses."
 description: "Zwei wallonische Erlasse von 2023 widersprechen sich: Die Agrarbeihilfe endet dort, wo das Teilen beginnt. Was ein Hallendach wirklich einbringt."
@@ -243,7 +243,7 @@ Die daraus folgende Überlegung lautet so: Solange der Überschuss den Einspeise
 ## Was OptimCE für Sie tut
 
 Ein landwirtschaftliches Dach misst sich an der Mittagslast seiner Teilnehmer, von der Ernte bis
-zum tiefsten Januar. OptimCE hilft Ihnen, sie zu messen und die Operation danach zu führen:
+zum tiefsten Januar. OptimCE, die [Software für Energiegemeinschaften](/de/funktionen/), hilft Ihnen, sie zu messen und die Operation danach zu führen:
 
 - **Simulieren, bevor Sie das Dach bestücken.** Importieren Sie die Viertelstundenproduktion und
   die Verbräuche der vorgesehenen Teilnehmer, testen Sie dann einen Schlüssel oder lassen Sie das

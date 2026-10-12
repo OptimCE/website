@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Fonctionnalités de la plateforme OptimCE"
-subtitle: "Ce que la plateforme fait aujourd'hui pour gérer une communauté d'énergie, de l'arrivée des membres à la facture."
-description: "Membres, compteurs, clés de répartition générées et simulées, facturation, documents CWaPE, sondages : ce que fait OptimCE, open source et gratuit en alpha."
+title: "Logiciel de gestion de communauté d'énergie"
+subtitle: "Ce que le logiciel OptimCE fait aujourd'hui pour gérer une communauté d'énergie, de l'arrivée des membres à la facture."
+description: "Logiciel open source de gestion de communauté d'énergie : membres, clés de répartition, facturation, dossiers CWaPE, sondages. Gratuit pendant l'alpha."
 lang: fr
 ref: features
 permalink: /fonctionnalites/
-last_modified_at: 2026-09-26
+last_modified_at: 2026-10-11
 feature_list:
   - "Gestion des membres, des points de fourniture et des compteurs"
   - "Clés de répartition historisées, avec suivi de l'acceptation par les membres"
@@ -34,6 +34,9 @@ livré. Le [guide utilisateur](https://guide.optimce.be) détaille ensuite chaqu
 - **Plusieurs communautés, une seule instance** : une même installation d'OptimCE gère plusieurs
   communautés d'énergie.
 
+Pour configurer une communauté dans l'ordre, de sa création à la première facture, suivez
+[les premiers pas sur OptimCE]({{ "product-getting-started" | ref_url }}).
+
 ## Clés de répartition : configurer, générer, simuler
 
 La clé de répartition décide, quart d'heure par quart d'heure, qui reçoit quelle part de la
@@ -51,7 +54,8 @@ production locale. OptimCE en couvre tout le cycle de vie.
   pas de temps et par itération, sans toucher à la clé appliquée.
 
 Pour aller plus loin : [générer une clé de répartition optimale]({{ "optimce-allocation-key-generator" | ref_url }})
-et [simuler une clé sur ses données]({{ "optimce-allocation-key-simulation" | ref_url }}).
+et [simuler une clé sur ses données]({{ "optimce-allocation-key-simulation" | ref_url }}). Le cycle complet
+est présenté sur la page [clé de répartition : générer, simuler, suivre]({{ "product-allocation-key" | ref_url }}).
 
 ## Facturation de l'énergie partagée
 
@@ -68,7 +72,8 @@ La première version du module de facturation est conçue pour le cadre wallon.
 - Le suivi des paiements est intégré, paiements partiels compris, et chaque membre retrouve ses
   factures dans l'application.
 
-Le détail figure dans [l'annonce du module de facturation]({{ "optimce-billing" | ref_url }}).
+Le détail figure dans [l'annonce du module de facturation]({{ "optimce-billing" | ref_url }}). Le module est
+présenté sur la page [logiciel de facturation pour communauté d'énergie]({{ "product-billing" | ref_url }}).
 
 ## Documents administratifs et échéances
 
@@ -86,7 +91,8 @@ déduire restent modifiables.
 - Chaque membre peut consulter ce qui a été déclaré à son sujet au régulateur.
 
 OptimCE ne dépose rien et ne signe rien à votre place : le dépôt reste de votre ressort. Voir
-[les documents et délais de la CWaPE]({{ "cwape-administrative-documents" | ref_url }}).
+[les documents et délais de la CWaPE]({{ "cwape-administrative-documents" | ref_url }}). Le module est présenté
+sur la page [dossier CWaPE de votre communauté d'énergie]({{ "product-cwape" | ref_url }}).
 
 ## Animer la communauté
 
@@ -113,6 +119,9 @@ l'application. Chacun peut le parcourir pour trouver une opération ouverte à d
   comme un système de gestion d'énergie, et une API REST permet d'intégrer OptimCE à vos propres
   outils.
 - **Multilingue** : l'interface existe en français, en anglais, en néerlandais et en allemand.
+
+Le détail figure sur la page [open source et auto-hébergement]({{ "product-open-source" | ref_url }}),
+et ce qui est gratuit, et pour combien de temps, sur celle des [tarifs]({{ "pricing" | ref_url }}).
 
 ## Ce que la plateforme ne fait pas
 

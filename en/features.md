@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Features of the OptimCE platform"
-subtitle: "What the platform does today to run an energy community, from members joining to the invoice."
-description: "Members, meters, allocation keys generated and simulated, billing, CWaPE documents, polls: what OptimCE does, open source and free during the alpha."
+title: "Energy community management software"
+subtitle: "What the OptimCE software does today to run an energy community, from members joining to the invoice."
+description: "Open source energy community management software: members, allocation keys, billing, CWaPE filings, polls. Free during the alpha."
 lang: en
 ref: features
 permalink: /en/features/
-last_modified_at: 2026-09-26
+last_modified_at: 2026-10-11
 feature_list:
   - "Management of members, supply points and meters"
   - "Versioned allocation keys, with members' acceptance tracked"
@@ -50,7 +50,8 @@ generation. OptimCE covers its whole life cycle.
   touching the key in force.
 
 Further reading: [generate an optimal allocation key]({{ "optimce-allocation-key-generator" | ref_url }})
-and [simulate a key on your data]({{ "optimce-allocation-key-simulation" | ref_url }}).
+and [simulate a key on your data]({{ "optimce-allocation-key-simulation" | ref_url }}). The whole cycle
+is presented on the [allocation key: generate, simulate, track]({{ "product-allocation-key" | ref_url }}) page.
 
 ## Billing of shared energy
 
@@ -66,7 +67,8 @@ The first version of the billing module is built for the Walloon framework.
 - Payment tracking is built in, partial payments included, and each member finds their invoices
   in the application.
 
-The details are in [the billing module announcement]({{ "optimce-billing" | ref_url }}).
+The details are in [the billing module announcement]({{ "optimce-billing" | ref_url }}). The module is
+presented on the [energy community billing software]({{ "product-billing" | ref_url }}) page.
 
 ## Administrative documents and deadlines
 
@@ -83,7 +85,8 @@ community's data. Fields the platform cannot derive remain editable.
 - Each member can see what has been declared about them to the regulator.
 
 OptimCE files nothing and signs nothing on your behalf: filing remains your responsibility. See
-[CWaPE documents and deadlines]({{ "cwape-administrative-documents" | ref_url }}).
+[CWaPE documents and deadlines]({{ "cwape-administrative-documents" | ref_url }}). The module is presented
+on the [CWaPE filing for your energy community]({{ "product-cwape" | ref_url }}) page.
 
 ## Engaging the community
 

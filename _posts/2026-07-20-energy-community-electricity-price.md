@@ -10,7 +10,7 @@ lang: en
 ref: internal-price-shared-energy
 pillar: prix-facturation-communaute
 permalink: /en/guides/energy-community-electricity-price/
-last_modified_at: 2026-07-25 10:00:00 +0200
+last_modified_at: 2026-10-11 10:00:00 +0200
 faq:
   - q: "Who sets the price of shared electricity in an energy community?"
     a: "In Wallonia and Brussels, the participants themselves. CWaPE writes that the price of shared electricity is freely determined between the participants in the sharing arrangement, in the agreement setting out their rights and obligations. No Belgian regulator publishes a cap or a calculation method. In Flanders, the question does not arise in the same way: sharing within an energy community must be free of charge."
@@ -200,7 +200,7 @@ You define **two prices in €/kWh**, independent of each other — the selling 
 
 That covers the two needs described above: **differentiation by objective category** and the **history of revisions**. Changing a price replaces nothing: you add a new rule from a given date, and the old one stays consultable — exactly what you need the day a member disputes an invoice from the previous financial year.
 
-From there, OptimCE takes the official settlement volumes already imported, applies the right price to each profile and generates the invoices, credit notes and remuneration statements as PDFs, with legal numbering, a structured payment reference and payment tracking. The price you negotiated at the general meeting becomes an enforceable document, with no spreadsheet in between.
+From there, OptimCE takes the official settlement volumes already imported, applies the right price to each profile and generates the invoices, credit notes and remuneration statements as PDFs, with legal numbering, a structured payment reference and payment tracking. The price you negotiated at the general meeting becomes an enforceable document, with no spreadsheet in between. See how to [apply these prices in OptimCE](/en/features/billing/).
 
 ## Conclusion
 

@@ -8,6 +8,7 @@ description: "Simulate a key on your own data and measure self-consumption, surp
 tags: [allocation-key, app, news]
 lang: en
 ref: optimce-allocation-key-simulation
+last_modified_at: 2026-10-11 10:00:00 +0200
 pillar: cle-de-repartition
 permalink: /en/guides/simulate-allocation-key-optimce/
 faq:
@@ -41,7 +42,7 @@ Simulating is precisely about **taking that decision out of gut-feel territory**
 
 ## What the simulation lets you do
 
-The feature is built into the **"Allocation keys" module** of OptimCE's open-source core. The user flow takes just a few steps:
+The feature is built into the **"Allocation keys" module** of OptimCE's open-source core (see [the allocation key in OptimCE](/en/features/allocation-key/)). The user flow takes just a few steps:
 
 1. **Import a CSV** with consumption data per time step (often quarter-hourly) for each member and production data for each producer in the sharing operation. Each row of the file corresponds to one time step.
 2. **Choose an allocation key** to test — a standard key for your region, an existing community key, or a scenario you want to explore.

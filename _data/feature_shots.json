@@ -1,0 +1,34 @@
+{
+  "billing-tariffs": {
+    "width": 1030,
+    "height": 450
+  },
+  "billing-member": {
+    "width": 810,
+    "height": 330
+  },
+  "cwape-dossier": {
+    "width": 1050,
+    "height": 560
+  },
+  "cwape-deadlines": {
+    "width": 1030,
+    "height": 540
+  },
+  "key-generation": {
+    "width": 1290,
+    "height": 520
+  },
+  "key-wizard": {
+    "width": 1290,
+    "height": 565
+  },
+  "start-dashboard": {
+    "width": 1040,
+    "height": 560
+  },
+  "start-member": {
+    "width": 840,
+    "height": 425
+  }
+}

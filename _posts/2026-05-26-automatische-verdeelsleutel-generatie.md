@@ -8,6 +8,7 @@ description: "Twee algoritmes — brute force op standaardsleutels en LOGAAS —
 tags: [allocation-key, app, guide]
 lang: nl
 ref: optimce-allocation-key-generator
+last_modified_at: 2026-10-11 10:00:00 +0200
 pillar: cle-de-repartition
 permalink: /nl/gidsen/automatische-verdeelsleutel-generatie/
 ---
@@ -37,7 +38,7 @@ Handmatige selectie maakt daardoor vaak onvoldoende gebruik van de beschikbare p
 
 ## Wat de OptimCE-module doet
 
-De module zit binnen de bestaande **module Verdeelsleutels** in de open-source kern van OptimCE. De workflow is rechttoe rechtaan:
+De module zit binnen de bestaande **module Verdeelsleutels** in de open-source kern van OptimCE (zie [de verdeelsleutel in OptimCE](/nl/functies/verdeelsleutel/)). De workflow is rechttoe rechtaan:
 
 1. **Input** — kwartierverbruiksdata per lid, kwartierproductiedata per producent, lijst van deelnemers aan de sharing-operatie en de regio (Wallonië / Brussel / Vlaanderen) zodat het algoritme de juiste standaardfamilies respecteert.
 2. **Algoritme kiezen** — brute force of LOGAAS.

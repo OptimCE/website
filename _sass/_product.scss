@@ -1,0 +1,15 @@
+// Product pages: _layouts/page.html with `product_page: true` (billing, CWaPE
+// filing, allocation key…). They reuse the article grid and prose of
+// _post.scss (.post__grid, .post__content, the rail), so only the screenshots
+// need a rule here.
+
+// A screenshot of the app (_includes/product-shot.html). The homepage's shot
+// shrinks to a phone's size below 768px because it swaps to the phone capture;
+// these are desktop captures only, so they keep the column's width.
+.product-shot--page {
+  margin: var(--space-8) 0;
+
+  @media (max-width: ($bp-md - 1px)) {
+    max-width: none;
+  }
+}

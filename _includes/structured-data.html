@@ -14,10 +14,12 @@
     #website       one per language tree (so inLanguage stays truthful)
     #software      one global product entity, shared @id across all 4 homepages
                    and the features pages (with featureList)
-    #person        the author (_data/authors.yml): on posts, with #article, and on
-                   the author pages, with the ProfilePage
+    #person        the author (_data/authors.yml): on posts, with #article, on the
+                   author pages, with the ProfilePage, and wherever #software is,
+                   as its maintainer
     #article       posts
-    #webpage       about (AboutPage), pillar, guide and solution indexes (CollectionPage)
+    #webpage       about (AboutPage), pillar, guide and solution indexes (CollectionPage),
+                   product pages (`product_page: true`, a WebPage about #software)
     #breadcrumb    everything except the homepages (trail: _includes/breadcrumb.html)
     #faq           posts declaring `faq:` front matter
     #terms         glossary index pages (DefinedTermSet)
@@ -91,7 +93,8 @@
         "price": "0",
         "priceCurrency": "EUR"
       },
-      "publisher": { "@id": {{ org_id | jsonify }} }
+      "publisher": { "@id": {{ org_id | jsonify }} },
+      "maintainer": { "@id": {{ person_id | jsonify }} }
       {%- if page.feature_list -%}
       ,"featureList": {{ page.feature_list | jsonify }}
       ,"softwareHelp": { "@type": "CreativeWork", "url": "https://guide.optimce.be" }
@@ -112,9 +115,30 @@
       "breadcrumb": { "@id": {{ page_url | append: '#breadcrumb' | jsonify }} }
     }
     {%- endif -%}
-    {%- if page.layout == 'post' or page.ref == 'author' -%}
+    {%- if page.product_page -%}
     {%- comment -%}
-      The person the byline names (_data/authors.yml), one global node. `name`
+      A product page (billing, CWaPE filing, allocation key…) describes one
+      side of the product: a WebPage about #software. The SoftwareApplication
+      node itself stays on the homepages and the features pages, and the
+      @id reference resolves across the site.
+    {%- endcomment -%}
+    ,{
+      "@type": "WebPage",
+      "@id": {{ page_url | append: '#webpage' | jsonify }},
+      "url": {{ page_url | jsonify }},
+      "name": {{ page.title | jsonify }},
+      "description": {{ page.description | jsonify }},
+      "inLanguage": {{ lang | jsonify }},
+      "isPartOf": { "@id": {{ website_id | jsonify }} },
+      "about": { "@id": {{ software_id | jsonify }} },
+      "breadcrumb": { "@id": {{ page_url | append: '#breadcrumb' | jsonify }} }
+    }
+    {%- endif -%}
+    {%- if page.layout == 'post' or page.ref == 'author' or page.ref == 'home' or page.ref == 'features' -%}
+    {%- comment -%}
+      The person the byline names (_data/authors.yml), one global node, who also
+      develops and maintains the software (#software's `maintainer`, so the node
+      is emitted wherever #software is). `name`
       is the full name, not the localised `author:` front matter ("Eric
       d'OptimCE", "Eric, OptimCE", …), which carries the affiliation for human
       readers; the affiliation edge says it here. `url` is the French author

@@ -2,7 +2,7 @@
 layout: post
 title: "Écoles : le guide du partage d'énergie"
 date: 2026-09-03 06:00:00 +0200
-last_modified_at: 2026-09-26 06:00:00 +0200
+last_modified_at: 2026-10-11 10:00:00 +0200
 author: "Eric d'OptimCE"
 excerpt: "Une école du réseau libre est une ASBL de droit privé. Elle n'a pas de mandat électif, pas de tutelle régionale, pas de compétence territoriale. Et pourtant, le Gouvernement wallon l'a rangée parmi les « autorités locales » — au même titre qu'une commune, un CPAS ou une province. La raison tient en une phrase du SPW Énergie que personne ne cite. Ce statut change tout : il fait de l'école le seul bâtiment non public de Wallonie qui peut monter sa propre communauté d'énergie sans attendre personne."
 description: "Toute école wallonne est une « autorité locale » depuis le 26 février 2026. Ce que ce statut débloque, et comment valoriser un toit qui produit à vide."
@@ -345,7 +345,7 @@ La lecture de ce tableau est la conclusion de l'article.
 
 ## Ce qu'OptimCE fait pour vous
 
-Tout se joue sur le calendrier : ce que vos partenaires absorbent quand l'école est vide. OptimCE
+Tout se joue sur le calendrier : ce que vos partenaires absorbent quand l'école est vide. OptimCE, [logiciel de gestion de communauté d'énergie](/fonctionnalites/),
 vous aide à le mesurer, puis à gérer l'opération :
 
 - **Tester le groupe avant de le constituer.** Simulez une clé de répartition sur les données au

@@ -10,7 +10,7 @@ lang: fr
 ref: internal-price-shared-energy
 pillar: prix-facturation-communaute
 permalink: /guides/prix-electricite-communaute-energie/
-last_modified_at: 2026-07-25 10:00:00 +0200
+last_modified_at: 2026-10-11 10:00:00 +0200
 faq:
   - q: "Qui fixe le prix de l'électricité partagée dans une communauté d'énergie ?"
     a: "En Wallonie et à Bruxelles, les participants eux-mêmes. La CWaPE écrit que « le prix de l'électricité partagée est déterminé librement entre les participants au partage, dans la convention déterminant leurs droits et obligations ». Aucun régulateur belge ne publie de plafond ni de méthode de calcul. En Flandre, la question ne se pose pas de la même façon : le partage au sein d'une communauté d'énergie doit être gratuit."
@@ -200,7 +200,7 @@ Vous définissez **deux prix en €/kWh**, indépendants l'un de l'autre — le 
 
 Vous couvrez ainsi les deux besoins décrits plus haut : la **différenciation par catégorie objective** et l'**historique des révisions**. Changer de prix ne remplace rien : vous ajoutez une nouvelle règle à partir d'une date, et l'ancienne reste consultable — exactement ce qu'il faut le jour où un membre conteste une facture de l'exercice précédent.
 
-À partir de là, OptimCE reprend les volumes de répartition officiels déjà importés, applique le bon prix à chaque profil et génère les factures, les notes de crédit et les décomptes de rémunération en PDF, avec numérotation légale, communication structurée et suivi des paiements. Le prix que vous avez négocié en assemblée générale devient un document opposable, sans tableur intermédiaire.
+À partir de là, OptimCE reprend les volumes de répartition officiels déjà importés, applique le bon prix à chaque profil et génère les factures, les notes de crédit et les décomptes de rémunération en PDF, avec numérotation légale, communication structurée et suivi des paiements. Le prix que vous avez négocié en assemblée générale devient un document opposable, sans tableur intermédiaire. Voir comment [appliquer ces prix dans OptimCE](/fonctionnalites/facturation/).
 
 ## Conclusion
 

@@ -10,7 +10,7 @@ lang: nl
 ref: internal-price-shared-energy
 pillar: prix-facturation-communaute
 permalink: /nl/gidsen/prijs-elektriciteit-energiegemeenschap/
-last_modified_at: 2026-07-25 10:00:00 +0200
+last_modified_at: 2026-10-11 10:00:00 +0200
 faq:
   - q: "Wie bepaalt de prijs van de gedeelde elektriciteit in een energiegemeenschap?"
     a: "In Wallonië en Brussel: de deelnemers zelf. De CWaPE schrijft dat “de prijs van de gedeelde elektriciteit vrij wordt bepaald tussen de deelnemers aan het delen, in de overeenkomst die hun rechten en plichten vastlegt”. Geen enkele Belgische regulator publiceert een plafond of een rekenmethode. In Vlaanderen stelt de vraag zich anders: energiedelen binnen een energiegemeenschap moet kosteloos gebeuren."
@@ -200,7 +200,7 @@ U definieert **twee prijzen in €/kWh**, onafhankelijk van elkaar — de verkoo
 
 Zo dekt u de twee behoeften die hierboven beschreven zijn: de **differentiatie per objectieve categorie** en de **historiek van de herzieningen**. Van prijs veranderen vervangt niets: u voegt vanaf een bepaalde datum een nieuwe regel toe, en de oude blijft raadpleegbaar — precies wat u nodig hebt op de dag dat een lid een factuur van het vorige boekjaar betwist.
 
-Vanaf daar neemt OptimCE de officiële verdelingsvolumes over die al geïmporteerd zijn, past de juiste prijs op elk profiel toe en genereert de facturen, de creditnota's en de vergoedingsafrekeningen als pdf, met wettelijke nummering, gestructureerde mededeling en opvolging van de betalingen. De prijs die u op de algemene vergadering onderhandeld hebt, wordt een tegenstelbaar document, zonder tussentijds rekenblad.
+Vanaf daar neemt OptimCE de officiële verdelingsvolumes over die al geïmporteerd zijn, past de juiste prijs op elk profiel toe en genereert de facturen, de creditnota's en de vergoedingsafrekeningen als pdf, met wettelijke nummering, gestructureerde mededeling en opvolging van de betalingen. De prijs die u op de algemene vergadering onderhandeld hebt, wordt een tegenstelbaar document, zonder tussentijds rekenblad. Lees hoe u [deze prijzen in OptimCE toepast](/nl/functies/facturatie/).
 
 ## Conclusie
 

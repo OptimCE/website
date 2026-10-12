@@ -9,7 +9,7 @@ tags: [allocation-key, administrative]
 lang: en
 ref: allocation-key-belgium
 pillar: cle-de-repartition
-last_modified_at: 2026-07-20 10:00:00 +0200
+last_modified_at: 2026-10-11 10:00:00 +0200
 permalink: /en/guides/allocation-key-belgium/
 ---
 
@@ -152,7 +152,7 @@ The key decides **how many kWh** each member receives; it says nothing about **h
 
 An allocation key is not a one-time decision. It lives with the community: a member joins, another leaves, production grows after a new roof is added, the general assembly revises the percentages, the regulator validates a non-standard key. Every change implies an **amendment to the agreement**, a **transmission to the DSO** and a **historical record** that the community must keep for its annual reporting.
 
-That is precisely what **OptimCE** tools at the core of the application. The **Allocation Keys module** of the open-source core lets you:
+That is precisely what **OptimCE** tools at the core of the application, to [generate and simulate your key](/en/features/allocation-key/). The **Allocation Keys module** of the open-source core lets you:
 
 - **Configure the key** directly on a sharing operation, consistent with the types recognised in your region (CWaPE in Wallonia, Sibelga in Brussels, Fluvius in Flanders).
 - **Track the full history** of keys applied over time — useful for amendments, recomputations in case of dispute, and regulator reporting.

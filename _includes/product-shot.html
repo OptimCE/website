@@ -1,0 +1,22 @@
+{%- comment -%}
+  A screenshot of the app on a product page, built by
+  scripts/build_feature_shots.py:
+    {% include product-shot.html name="billing-tariffs" alt="…" caption="…" %}
+  French pages show the French capture; English, German and Dutch pages the
+  English one (the guide is captured in French and English only: say so in the
+  German and Dutch alt text). The size comes from _data/feature_shots.json, so
+  the page keeps the image's place while it loads. The column is 38rem wide from
+  1200px (the article grid), so the image links to its full-size file.
+{%- endcomment -%}
+{%- assign ps_lang = page.lang | default: site.lang -%}
+{%- if ps_lang == 'fr' -%}{%- assign ps_shot_lang = 'fr' -%}{%- else -%}{%- assign ps_shot_lang = 'en' -%}{%- endif -%}
+{%- assign ps_size = site.data.feature_shots[include.name] -%}
+{%- assign ps_src = '/assets/images/product/features/' | append: include.name | append: '-' | append: ps_shot_lang -%}
+<figure class="product-shot product-shot--page">
+  <div class="product-shot__frame">
+    <a href="{{ ps_src | append: '.webp' | relative_url }}"><img src="{{ ps_src | append: '.webp' | relative_url }}" srcset="{{ ps_src | append: '-800.webp' | relative_url }} 800w, {{ ps_src | append: '.webp' | relative_url }} {{ ps_size.width }}w" sizes="(min-width: 1200px) 38rem, calc(100vw - 2rem)" alt="{{ include.alt | escape }}" width="{{ ps_size.width }}" height="{{ ps_size.height }}" loading="lazy" decoding="async"></a>
+  </div>
+  {%- if include.caption %}
+  <figcaption>{{ include.caption }}</figcaption>
+  {%- endif %}
+</figure>

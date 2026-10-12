@@ -2,7 +2,7 @@
 layout: post
 title: "Installer OptimCE : guide de démarrage"
 date: 2026-03-09 14:00:00 +0100
-last_modified_at: 2026-07-26 10:00:00 +0200
+last_modified_at: 2026-10-11 10:00:00 +0200
 author: "Eric d'OptimCE"
 excerpt: "Deux façons de démarrer avec OptimCE : la version hébergée, sans rien installer, ou le déploiement local de la stack complète avec Docker Compose. Prérequis, clonage avec sous-modules, variables d'environnement et démarrage, étape par étape."
 description: "Prérequis, clonage du dépôt, variables d'environnement et premier démarrage : installer OptimCE en local, étape par étape."
@@ -26,7 +26,7 @@ Il y a deux façons de commencer avec OptimCE, et le bon choix dépend surtout d
 
 Si vous gérez une communauté d'énergie et que vous voulez simplement l'outil, **[OptimCE Cloud](https://app.optimce.be)** est la version hébergée : pas d'installation, pas de maintenance, et actuellement gratuite en alpha. Passez directement au [guide utilisateur](https://guide.optimce.be).
 
-Si vous êtes une équipe technique qui veut héberger la plateforme, garder la maîtrise complète des données ou contribuer au code, ce guide est pour vous. Il décrit le déploiement local de la stack complète.
+Si vous êtes une équipe technique qui veut héberger la plateforme, garder la maîtrise complète des données ou contribuer au code, ce guide est pour vous. Il décrit le déploiement local de la stack complète. Avant de vous lancer, voyez ce qu'implique d'[auto-héberger OptimCE](/fonctionnalites/open-source/).
 
 ## Ce que vous allez déployer
 

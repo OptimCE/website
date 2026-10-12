@@ -2,7 +2,7 @@
 layout: post
 title: "Communauté d'énergie : le guide des communes"
 date: 2026-08-30 06:00:00 +0200
-last_modified_at: 2026-09-26 06:00:00 +0200
+last_modified_at: 2026-10-11 10:00:00 +0200
 author: "Eric d'OptimCE"
 excerpt: "262 communes wallonnes. Treize communautés d'énergie au dossier complet chez la CWaPE, dont six seulement partagent réellement de l'électricité. Ce n'est pas un déficit d'ambition : c'est que presque personne n'a remarqué ce que le droit wallon dit déjà. Le premier des deux critères de proximité d'une communauté d'énergie renouvelable, c'est « le territoire d'une seule et même commune ». La Wallonie est la seule des trois régions où le législateur a tracé lui-même le périmètre — et il l'a fait passer par la limite communale."
 description: "En Wallonie, le périmètre d'une communauté d'énergie renouvelable, c'est le territoire communal. Ce que la commune peut y faire, et à quel prix."
@@ -293,7 +293,7 @@ La qualification exacte dépend du montage. C'est une question à poser au servi
 ## Ce qu'OptimCE fait pour vous
 
 Une commune réunit plusieurs bâtiments, plusieurs partenaires et des habitants qui entrent et
-sortent de la communauté. OptimCE rassemble cette gestion au même endroit :
+sortent de la communauté. OptimCE, [logiciel de gestion de communauté d'énergie](/fonctionnalites/), rassemble cette gestion au même endroit :
 
 - **Choisir la clé sur des données réelles.** Importez les courbes au quart d'heure des bâtiments
   communaux et des participants, puis simulez une clé ou laissez le module de génération en

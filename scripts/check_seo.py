@@ -35,7 +35,7 @@ LANG_PREFIXES = {"en": "/en/", "de": "/de/", "nl": "/nl/"}
 # sections is listed.
 LANG_OWNED_PATHS = {
     "fr": ("/actualites/", "/guides/", "/solutions/", "/fonctionnalites/",
-           "/glossaire/", "/a-propos/", "/confidentialite/"),
+           "/glossaire/", "/a-propos/", "/confidentialite/", "/tarifs/"),
     "en": ("/en/",),
     "de": ("/de/",),
     "nl": ("/nl/",),

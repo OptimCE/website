@@ -2,7 +2,7 @@
 layout: post
 title: "Energie teilen im Mehrparteienhaus"
 date: 2026-08-27 06:00:00 +0200
-last_modified_at: 2026-09-26 06:00:00 +0200
+last_modified_at: 2026-10-11 10:00:00 +0200
 author: "Eric, OptimCE"
 excerpt: "616 135 Wohnungen in Brüssel und Wallonien liegen in einem Mehrparteienhaus. Im Februar 2025 zählte die CWaPE vier Teilungsaktivitäten innerhalb desselben Gebäudes in Wallonien. Vier. Am Energierecht liegt es nicht: Es verlangt eine Vereinbarung und ein Formular, ohne Rechtsperson und ohne Genehmigung. Entschieden wird in Wahrheit durch drei Artikel aus Buch 3 des Zivilgesetzbuches — wer die Module besitzen darf, mit welcher Mehrheit, und wie lange der Verwalter unterschreiben darf."
 description: "Drei Artikel des Zivilgesetzbuchs entscheiden, ob Ihr Gebäude Strom teilen kann: Eigentum an den Modulen, Mehrheit in der Versammlung, Mandat des Verwalters."
@@ -318,7 +318,7 @@ Der kritische Pfad ist weder die Abstimmung noch die Verwaltung: Es sind **die i
 ## Was OptimCE für Sie tut
 
 Das Teilen in einem Gebäude entscheidet sich in der Viertelstunde und wird über Jahre verwaltet,
-über Umzüge und Verwalterwechsel hinweg. OptimCE übernimmt den wiederkehrenden Teil:
+über Umzüge und Verwalterwechsel hinweg. OptimCE, die [Software für Energiegemeinschaften](/de/funktionen/), übernimmt den wiederkehrenden Teil:
 
 - **Messen, bevor abgestimmt wird.** Simulieren Sie einen Aufteilungsschlüssel auf den
   Viertelstundenverbräuchen der Wohnungen und des Zählers der Gemeinschaftsteile: Eigenverbrauch

@@ -1,6 +1,63 @@
 ---
 layout: default
 ---
+{%- comment -%}
+  Product pages (`product_page: true`: billing, CWaPE filing, allocation key…)
+  read like the guides, so they reuse the article grid of _layouts/post.html:
+  a centred reading column and, from 1200px, a rail with "On this page" (the
+  page's own H2s, same markup and main.js hooks as post.html) and a card that
+  opens the application. The closing call to action is part of the content
+  (_includes/product-cta.html); its heading carries a class before its id, so
+  the "On this page" split below leaves it out. Every other page renders
+  exactly as before (the else branch).
+{%- endcomment -%}
+{%- if page.product_page -%}
+{%- assign pp_lang = page.lang | default: site.lang -%}
+{%- assign pp_t = site.data.i18n[pp_lang] -%}
+<article class="post page--product">
+  <header class="post__header">
+    <div class="container post__grid">
+      <div class="post__heading">
+        {% include breadcrumb.html %}
+        <h1 class="post__title">{{ page.title | fr_spacing: pp_lang }}</h1>
+        {%- if page.subtitle %}
+        <p class="page__subtitle">{{ page.subtitle | fr_spacing: pp_lang }}</p>
+        {%- endif %}
+      </div>
+    </div>
+  </header>
+
+  <div class="container post__grid post__body">
+    <div class="post__content">
+      {{ content | fr_spacing: pp_lang }}
+    </div>
+
+    {%- assign toc_parts = content | split: '<h2 id="' %}
+    <aside class="post__rail">
+      <div class="post__rail-inner">
+        {% if toc_parts.size > 3 %}
+        <nav class="toc" data-toc aria-label="{{ pp_t.post.on_this_page }}">
+          <details class="toc__details">
+            <summary class="toc__title">{{ pp_t.post.on_this_page }}{% include icon.html name="chevron-down" class="toc__chevron" %}</summary>
+            <ol class="toc__list" data-toc-list>
+              {%- for toc_part in toc_parts offset: 1 %}
+                {%- assign toc_id = toc_part | split: '"' | first %}
+                {%- assign toc_title = toc_part | split: '</h2>' | first | remove_first: toc_id | remove_first: '">' | strip_html | strip %}
+              <li><a href="#{{ toc_id }}">{{ toc_title | fr_spacing: pp_lang }}</a></li>
+              {%- endfor %}
+            </ol>
+          </details>
+        </nav>
+        {% endif %}
+        <div class="rail-card">
+          <p class="rail-card__text">{{ pp_t.post.rail_manage }}</p>
+          <a class="btn btn-outline btn--sm" href="{{ site.cta.app_url }}" aria-label="{{ pp_t.nav.manage }}">{{ pp_t.nav.manage_short }}</a>
+        </div>
+      </div>
+    </aside>
+  </div>
+</article>
+{%- else -%}
 <article class="page">
   <header class="page__header">
     <div class="container container--narrow">
@@ -16,3 +73,4 @@ layout: default
     </div>
   </div>
 </article>
+{%- endif %}

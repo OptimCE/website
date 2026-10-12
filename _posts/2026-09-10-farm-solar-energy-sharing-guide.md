@@ -2,7 +2,7 @@
 layout: post
 title: "Farm roofs: the energy-sharing guide"
 date: 2026-09-10 06:00:00 +0200
-last_modified_at: 2026-09-26 06:00:00 +0200
+last_modified_at: 2026-10-11 10:00:00 +0200
 author: "Eric from OptimCE"
 excerpt: "A farm shed carries between 100 and 350 kilowatt-peak. It is the largest available roof in rural Wallonia, the best oriented, and the easiest to equip: roof-mounted panels need no planning permission there, whatever their power. Yet of the thirteen energy communities notified to the CWaPE, not one is anchored on a farm. This is not indifference. Two Walloon Government orders adopted three weeks apart, in February and March 2023, push in exactly opposite directions: the first subsidises farm solar only in proportion to the self-consumed part, the second organises the sharing of the surplus."
 description: "Two Walloon orders from 2023 contradict each other: farm aid stops where sharing begins. What a shed roof is really worth, step by step."
@@ -243,7 +243,7 @@ The reasoning that follows is this. As long as surplus is worth the injection ta
 ## What OptimCE does for you
 
 A farm roof is judged by its participants' midday load, from harvest time to the depths of
-January. OptimCE helps you measure it, then run the operation:
+January. OptimCE, our [energy community management software](/en/features/), helps you measure it, then run the operation:
 
 - **Simulate before committing the roof.** Import the quarter-hourly production and the
   consumption of the prospective participants, then test a key or let the generation module propose

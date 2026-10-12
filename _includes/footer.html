@@ -18,6 +18,11 @@
         <h2 class="site-footer__heading">{{ t.footer.quick_links }}</h2>
         <ul class="site-footer__links">
           {% include nav-links.html %}
+          {%- comment -%} The pricing page, in the languages where it exists (ref "pricing", mapped by _plugins/site_graph.rb). Not in the main menu. {%- endcomment -%}
+          {%- assign footer_pricing = site.data.translations.pricing[lang] -%}
+          {%- if footer_pricing %}
+          <li><a href="{{ current_lang.pricing_path | relative_url }}">{{ t.nav.pricing }}</a></li>
+          {%- endif %}
           <li><a href="{{ current_lang.privacy_path | relative_url }}">{{ t.nav.privacy }}</a></li>
         </ul>
       </div>

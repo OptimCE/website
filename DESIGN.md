@@ -180,6 +180,21 @@ The rail holds "On this page" and a call to action.
 - `main.js` opens it in the rail from 1200px, folds it above the text below
   that width, and marks the section being read.
 
+### Product pages
+
+- `layout: page` with `product_page: true` (billing, CWaPE filing, allocation
+  key…). They read like guides, so they reuse the article grid: the breadcrumb
+  and title over a centred 38rem column, and the rail with "On this page" and
+  a card that opens the application.
+- Screenshots go through `_includes/product-shot.html`, built by
+  `scripts/build_feature_shots.py` from the published user guide and cropped
+  to the part of the screen the text talks about. French pages show the
+  French capture, the other languages the English one. Each links to its
+  full-size file.
+- They end with `_includes/product-cta.html`: the application as the one
+  primary button, "Try the demo" only when `cta.demo_url` is set, and the
+  step-by-step guide.
+
 ### Callouts in articles
 
 Articles are never edited for styling: `_sass/_prose.scss` recognises the

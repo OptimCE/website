@@ -8,7 +8,7 @@ ref: pillar-prix-facturation-communaute
 pillar: prix-facturation-communaute
 permalink: /en/guides/pricing-billing/
 breadcrumb_parent: guides
-last_modified_at: 2026-09-26
+last_modified_at: 2026-10-11
 sections:
   - title: "Setting the internal price, then invoicing"
     refs: [internal-price-shared-energy, invoice-shared-electricity]
@@ -21,4 +21,4 @@ Then comes the invoice, or rather the two invoices detailed in our guide [“Inv
 
 It is therefore the representative who carries the obligations. VAT is 6% for a residential member and 21% for a professional member, so a community with mixed membership invoices at two rates; below €25 000 of annual turnover excluding VAT, the small-business exemption scheme may apply. No circular deals specifically with energy sharing: have your regime validated by an accountant before the first invoice. Every invoice carries a number in a continuous, gapless series, the shared kWh per EAN with their unit price, a structured payment reference and the community's IBAN; an issued invoice can only be corrected with a credit note, followed by a new invoice.
 
-To go from the voted price to the documents, [OptimCE's billing module]({{ "optimce-billing" | ref_url }}) generates invoices, credit notes and remuneration statements from the official settlement data; this first version is designed for the Walloon framework. The guides below follow the same thread: set the price, then invoice it.
+To go from the voted price to the documents, [OptimCE's billing module]({{ "product-billing" | ref_url }}) generates invoices, credit notes and remuneration statements from the official settlement data; this first version is designed for the Walloon framework. The guides below follow the same thread: set the price, then invoice it.

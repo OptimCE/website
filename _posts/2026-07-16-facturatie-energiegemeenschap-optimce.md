@@ -8,7 +8,7 @@ description: "Genereer de facturen van uw energiegemeenschap, van de prijs per k
 tags: [administrative, app, news]
 lang: nl
 ref: optimce-billing
-last_modified_at: 2026-07-23 10:00:00 +0200
+last_modified_at: 2026-10-11 10:00:00 +0200
 permalink: /nl/nieuws/2026/07/16/facturatie-energiegemeenschap-optimce/
 faq:
   - q: "Waar komen de gegevens voor de facturatie vandaan?"
@@ -27,7 +27,7 @@ faq:
 
 Een werkende energiegemeenschap produceert twee dingen: gedeelde kWh … en bedragen om te factureren. Elke periode wijst de officiële verdeling elk lid zijn aandeel van de lokaal geproduceerde energie toe — en dan moet iemand die volumes omzetten in euro's: berekenen wat elke verbruiker verschuldigd is en wat elke producent ontvangt, conforme documenten opstellen, betalingen innen en opvolgen. Tot nu toe gebeurde dat werk meestal met de hand, tussen een rekenblad en een zelfgemaakt factuursjabloon. Dat is voorbij: OptimCE bevat voortaan een **facturatiemodule**, waarvan de eerste versie operationeel is.
 
-Het principe is eenvoudig: u legt uw prijzen vast, u kiest een periode, en OptimCE **genereert de facturen van alle leden** op basis van de verdelingsdata die al in het platform zitten — met pdf, wettelijke nummering, gestructureerde mededeling en opvolging van de betalingen.
+Het principe is eenvoudig: u legt uw prijzen vast, u kiest een periode, en OptimCE **genereert de facturen van alle leden** op basis van de verdelingsdata die al in het platform zitten — met pdf, wettelijke nummering, gestructureerde mededeling en opvolging van de betalingen. De hele cyclus staat op de pagina over de [facturatiesoftware voor energiegemeenschappen](/nl/functies/facturatie/).
 
 Is de mechaniek van de verdeling nog onduidelijk voor u, begin dan met ons referentieartikel [“Verdeelsleutel in België: de 3 regio's”](/nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/) — de facturatie is er het rechtstreekse vervolg van.
 

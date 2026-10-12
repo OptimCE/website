@@ -8,6 +8,7 @@ description: "Notification, annual report, grid operator agreements: which docum
 tags: [administrative, app, guide]
 lang: en
 ref: cwape-administrative-documents
+last_modified_at: 2026-10-11 10:00:00 +0200
 pillar: communautes-energie
 permalink: /en/guides/energy-community-administrative-documents-wallonia/
 faq:
@@ -155,7 +156,7 @@ These five points have one thing in common: none of them requires any particular
 
 ## What OptimCE now does
 
-This is the point of the block of features delivered in August 2026: an administrative document module, dashboards, and email sending — which, until then, did not exist on the platform at all.
+This is the point of the block of features delivered in August 2026: an administrative document module, dashboards, and email sending — which, until then, did not exist on the platform at all. For an overview, see how to [prepare your CWaPE filing in OptimCE](/en/features/cwape-filing/).
 
 ### Eleven documents prefilled from the official files
 

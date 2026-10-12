@@ -19,6 +19,7 @@ nav:
   links: "Links"
   guide: "Benutzerhandbuch"
   privacy: "Datenschutz"
+  pricing: "Preise"
 # Hero (_includes/hero.html) and the quarter-hour grid
 # (_includes/quarter-hour-grid.html). In grid strings, assets/js/main.js fills
 # {time} {n} {kwh} {members} {date}; {h}/{hh} = hour, {m} = minutes.
@@ -193,6 +194,14 @@ cta_communaute:
   text: "Durchsuchen Sie in der OptimCE-App die Teilungsoperationen, die für neue Mitglieder offen sind, und nehmen Sie Kontakt mit der passenden auf."
   button: "Gemeinschaft finden"
 
+product_cta:
+  # _includes/product-cta.html, at the end of each product page. The guide
+  # exists in French and English only: the button opens the English one.
+  text: "Die App ist während der Alpha kostenlos. Die Schritt-für-Schritt-Anleitung zeigt Ihnen jeden Bildschirm, bevor Sie loslegen."
+  app: "App öffnen"
+  demo: "Demo ausprobieren"
+  guide: "Schritt-für-Schritt-Anleitung (Englisch)"
+
 # Article page (_layouts/post.html)
 post:
   on_this_page: "Auf dieser Seite"
@@ -313,7 +322,8 @@ about:
     Ob Entwickler, Designer, Übersetzer oder einfach begeistert
     von Energiegemeinschaften — Sie können auf vielfältige Weise beitragen.
   contribute_cta: "Projekt auf GitHub ansehen"
-  author_intro: "Die Ratgeber und Neuigkeiten dieser Website schreibt"
+  author_intro: "OptimCE wird entwickelt und gepflegt von"
+  author_outro: ". Aus derselben Feder stammen die Ratgeber und Neuigkeiten dieser Website."
 
 # Footer
 footer:

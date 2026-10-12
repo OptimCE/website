@@ -8,7 +8,7 @@ description: "Générez les factures de votre communauté d'énergie, du prix au
 tags: [administrative, app, news]
 lang: fr
 ref: optimce-billing
-last_modified_at: 2026-07-23 10:00:00 +0200
+last_modified_at: 2026-10-11 10:00:00 +0200
 faq:
   - q: "D'où viennent les données utilisées pour facturer ?"
     a: "Des données de répartition officielles transmises par le gestionnaire de réseau et déjà importées dans OptimCE : énergie partagée consommée et injection partagée, par EAN et par période. Au lancement d'un cycle de facturation, OptimCE fige un instantané de ces volumes : les montants sont calculés sur des données gelées et traçables."
@@ -26,7 +26,7 @@ faq:
 
 Une communauté d'énergie qui fonctionne produit deux choses : des kWh partagés… et des montants à facturer. Chaque période, la répartition officielle attribue à chaque membre sa part de l'énergie produite localement — puis quelqu'un doit transformer ces volumes en euros : calculer ce que doit chaque consommateur, ce que touche chaque producteur, produire des documents en règle, encaisser et suivre les paiements. Jusqu'ici, ce travail se faisait le plus souvent à la main, entre tableur et modèle de facture bricolé. C'est terminé : OptimCE intègre désormais un **module de facturation**, dont la première version est opérationnelle.
 
-Le principe est simple : vous fixez vos prix, vous choisissez une période, et OptimCE **génère les factures de tous les membres** à partir des données de répartition déjà présentes dans la plateforme — avec PDF, numérotation légale, communication structurée et suivi des paiements.
+Le principe est simple : vous fixez vos prix, vous choisissez une période, et OptimCE **génère les factures de tous les membres** à partir des données de répartition déjà présentes dans la plateforme — avec PDF, numérotation légale, communication structurée et suivi des paiements. Tout le cycle est présenté sur la page du [logiciel de facturation pour communauté d'énergie](/fonctionnalites/facturation/).
 
 Si la mécanique de la répartition est encore floue pour vous, commencez par notre article de référence [« Clé de répartition en Belgique : les 3 régions »](/guides/cle-repartition-communaute-energie-belgique/) — la facturation en est la suite directe.
 

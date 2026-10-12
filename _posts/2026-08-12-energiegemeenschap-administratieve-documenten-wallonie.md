@@ -8,6 +8,7 @@ description: "Kennisgeving, jaarlijkse rapportering, overeenkomsten: welke docum
 tags: [administrative, app, guide]
 lang: nl
 ref: cwape-administrative-documents
+last_modified_at: 2026-10-11 10:00:00 +0200
 pillar: communautes-energie
 permalink: /nl/gidsen/energiegemeenschap-administratieve-documenten-wallonie/
 faq:
@@ -155,7 +156,7 @@ Die vijf punten hebben één ding gemeen: geen enkel vraagt bijzondere intellige
 
 ## Wat OptimCE voortaan doet
 
-Dat is het opzet van het pakket functies dat in augustus 2026 werd opgeleverd: een module voor het beheer van administratieve documenten, dashboards, en het versturen van e-mails — dat tot dan helemaal niet bestond op het platform.
+Dat is het opzet van het pakket functies dat in augustus 2026 werd opgeleverd: een module voor het beheer van administratieve documenten, dashboards, en het versturen van e-mails — dat tot dan helemaal niet bestond op het platform. Bekijk ook in één overzicht hoe u [het CWaPE-dossier in OptimCE voorbereidt](/nl/functies/cwape-dossier/).
 
 ### Elf documenten, vooraf ingevuld op basis van de officiële bestanden
 

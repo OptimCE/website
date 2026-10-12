@@ -8,7 +8,7 @@ description: "Generate your energy community's invoices, from the price per kWh 
 tags: [administrative, app, news]
 lang: en
 ref: optimce-billing
-last_modified_at: 2026-07-23 10:00:00 +0200
+last_modified_at: 2026-10-11 10:00:00 +0200
 permalink: /en/news/2026/07/16/energy-community-billing-optimce/
 faq:
   - q: "Where does the billing data come from?"
@@ -27,7 +27,7 @@ faq:
 
 A working energy community produces two things: shared kWh… and amounts to invoice. Every period, the official settlement assigns each member their share of the locally produced energy — then someone has to turn those volumes into euros: compute what each consumer owes, what each producer earns, produce compliant documents, collect and track payments. Until now, that work was mostly done by hand, between a spreadsheet and a home-made invoice template. That's over: OptimCE now includes a **billing module**, and its first version is up and running.
 
-The principle is simple: you set your prices, you pick a period, and OptimCE **generates every member's invoice** from the settlement data already in the platform — with PDFs, legal numbering, a structured payment reference and payment tracking.
+The principle is simple: you set your prices, you pick a period, and OptimCE **generates every member's invoice** from the settlement data already in the platform — with PDFs, legal numbering, a structured payment reference and payment tracking. The whole cycle is presented on the [energy community billing software](/en/features/billing/) page.
 
 If the settlement mechanics are still fuzzy for you, start with our reference article [“Allocation key in Belgium: the 3 regions”](/en/guides/allocation-key-belgium/) — billing is its direct continuation.
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Energie delen in een appartementsgebouw"
 date: 2026-08-27 06:00:00 +0200
-last_modified_at: 2026-09-26 06:00:00 +0200
+last_modified_at: 2026-10-11 10:00:00 +0200
 author: "Eric van OptimCE"
 excerpt: "616 135 Brusselse en Waalse woningen liggen in een appartementsgebouw. In februari 2025 telde de CWaPE vier deelactiviteiten binnen eenzelfde gebouw in Wallonië. Vier. Het energierecht treft geen schuld: het vraagt een overeenkomst en een formulier, zonder rechtspersoon en zonder vergunning. Het zijn drie artikelen uit boek 3 van het Burgerlijk Wetboek die werkelijk beslissen — wie de panelen mag bezitten, met welke meerderheid, en hoelang de syndicus mag tekenen."
 description: "Drie artikelen uit het Burgerlijk Wetboek bepalen of uw gebouw stroom kan delen: eigendom van de panelen, meerderheid in de AV, mandaat van de syndicus."
@@ -318,7 +318,7 @@ Het kritieke pad is noch de stemming noch de administratie: het zijn **de slimme
 ## Wat OptimCE voor u doet
 
 Delen in een gebouw wordt gewonnen per kwartier en jarenlang beheerd, over verhuizingen en
-wisselingen van syndicus heen. OptimCE neemt het repetitieve deel voor zijn rekening:
+wisselingen van syndicus heen. OptimCE, [beheersoftware voor energiegemeenschappen](/nl/functies/), neemt het repetitieve deel voor zijn rekening:
 
 - **Meten vóór de stemming.** Simuleer een verdeelsleutel op het kwartierverbruik van de
   appartementen en van de meter van de gemeenschappelijke delen: zelfverbruik en overschot worden

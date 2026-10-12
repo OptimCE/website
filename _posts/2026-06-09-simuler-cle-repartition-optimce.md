@@ -8,6 +8,7 @@ description: "Simulez une clé sur vos propres données et mesurez autoconsommat
 tags: [allocation-key, app, news]
 lang: fr
 ref: optimce-allocation-key-simulation
+last_modified_at: 2026-10-11 10:00:00 +0200
 pillar: cle-de-repartition
 permalink: /guides/simuler-cle-repartition-optimce/
 faq:
@@ -41,7 +42,7 @@ Simuler, c'est précisément **sortir cet arbitrage du domaine de l'intuition**.
 
 ## Ce que permet la simulation
 
-La fonctionnalité s'intègre dans le **module « Clés de répartition »** du cœur open source d'OptimCE. Le flux utilisateur tient en quelques étapes :
+La fonctionnalité s'intègre dans le **module « Clés de répartition »** du cœur open source d'OptimCE (voir [la clé de répartition dans OptimCE](/fonctionnalites/cle-de-repartition/)). Le flux utilisateur tient en quelques étapes :
 
 1. **Importer un CSV** contenant les données de consommation au pas de temps (souvent au quart d'heure) pour chaque membre et les données de production pour chaque producteur de l'opération de partage. Chaque ligne du fichier correspond à un pas de temps.
 2. **Choisir une clé de répartition** à tester — une clé standard de votre région, une clé existante de la communauté, ou un scénario que vous voulez explorer.

@@ -10,7 +10,7 @@ lang: fr
 ref: allocation-key-belgium
 pillar: cle-de-repartition
 permalink: /guides/cle-repartition-communaute-energie-belgique/
-last_modified_at: 2026-07-20 10:00:00 +0200
+last_modified_at: 2026-10-11 10:00:00 +0200
 ---
 
 La **clé de répartition** est le rouage discret qui transforme une production locale d'électricité en avantage tangible pour chaque membre d'une communauté d'énergie. Elle décide, quart d'heure par quart d'heure, *qui reçoit combien* d'énergie partagée. Et c'est précisément là que la Belgique se complique : la Wallonie, Bruxelles et la Flandre n'ont pas adopté la même grille de clés standards, n'utilisent pas le même vocabulaire, et n'imposent pas les mêmes règles de validation.
@@ -152,7 +152,7 @@ La clé décide **combien de kWh** reviennent à chaque membre ; elle ne dit rie
 
 Une clé de répartition n'est pas une décision prise une fois pour toutes. Elle vit avec la communauté : un membre entre, un autre part, la production augmente après l'ajout d'une nouvelle toiture, l'assemblée générale révise les pourcentages, le régulateur valide une clé non standard. Chaque changement implique un **avenant à la convention**, une **transmission au GRD** et une **trace historique** que la communauté doit conserver pour son rapportage annuel.
 
-C'est précisément ce qu'**OptimCE** outille au cœur de l'application. Le **module « Clés de répartition »** du noyau open source permet de :
+C'est précisément ce qu'**OptimCE** outille au cœur de l'application, pour [générer et simuler sa clé](/fonctionnalites/cle-de-repartition/). Le **module « Clés de répartition »** du noyau open source permet de :
 
 - **Configurer la clé** directement sur une opération de partage, en cohérence avec les types reconnus dans votre région (CWaPE en Wallonie, Sibelga à Bruxelles, Fluvius en Flandre).
 - **Suivre l'historique** complet des clés appliquées au fil du temps — utile pour les avenants, les recalculs en cas de litige et le rapportage régulateur.

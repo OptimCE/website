@@ -8,7 +8,7 @@ ref: pillar-prix-facturation-communaute
 pillar: prix-facturation-communaute
 permalink: /de/ratgeber/preise-abrechnung/
 breadcrumb_parent: guides
-last_modified_at: 2026-09-26
+last_modified_at: 2026-10-11
 sections:
   - title: "Den internen Preis festlegen, dann abrechnen"
     refs: [internal-price-shared-energy, invoice-shared-electricity]
@@ -21,4 +21,4 @@ Dann kommt die Rechnung, genauer: die zwei Rechnungen, die unser Leitfaden [„G
 
 Die Pflichten trägt also der Vertreter. Die MwSt. beträgt 6 % für ein privates und 21 % für ein gewerbliches Mitglied, sodass eine Gemeinschaft mit gemischter Mitgliedschaft zu zwei Sätzen fakturiert; unter 25 000 € Jahresumsatz exkl. MwSt. kann die Kleinunternehmerregelung greifen. Kein Rundschreiben behandelt die Energieteilung ausdrücklich: Lassen Sie Ihre Regelung vor der ersten Rechnung von einem Buchhalter prüfen. Jede Rechnung trägt eine Nummer in einer fortlaufenden, lückenlosen Reihe, die geteilten kWh je EAN mit ihrem Einheitspreis, eine strukturierte Mitteilung und die IBAN der Gemeinschaft; eine ausgestellte Rechnung wird nur durch eine Gutschrift korrigiert, gefolgt von einer neuen Rechnung.
 
-Um vom beschlossenen Preis zu den Dokumenten zu gelangen, erstellt das [Abrechnungsmodul von OptimCE]({{ "optimce-billing" | ref_url }}) Rechnungen, Gutschriften und Vergütungsabrechnungen aus den offiziellen Aufteilungsdaten; diese erste Version ist für den wallonischen Rahmen konzipiert. Die Leitfäden unten folgen demselben Faden: erst den Preis festlegen, dann abrechnen.
+Um vom beschlossenen Preis zu den Dokumenten zu gelangen, erstellt das [Abrechnungsmodul von OptimCE]({{ "product-billing" | ref_url }}) Rechnungen, Gutschriften und Vergütungsabrechnungen aus den offiziellen Aufteilungsdaten; diese erste Version ist für den wallonischen Rahmen konzipiert. Die Leitfäden unten folgen demselben Faden: erst den Preis festlegen, dann abrechnen.

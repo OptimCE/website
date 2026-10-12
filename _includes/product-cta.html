@@ -1,0 +1,30 @@
+{%- comment -%}
+  Closing call to action of a product page (`product_page: true`):
+    {% include product-cta.html page_key="billing" guide="billing-tarification-pay" title="…" %}
+  page_key  names the page in the Umami events, cta-<app|demo|guide>-<page_key>
+            (Umami's script records a click on any element with data-umami-event)
+  guide     the Steppy scenario, opened at guide.optimce.be/<guide>/<lang>.html.
+            The guide exists in French and English only: French pages open
+            fr.html, the others en.html, and the German and Dutch labels say so.
+  title     the heading of the block
+  "Try the demo" shows only when site.cta.demo_url is set (_config.yml), so no
+  button points at a demo that does not exist. One primary button per block:
+  the application. The heading's class comes before its id on purpose: the
+  "On this page" list of _layouts/page.html splits on '<h2 id="' and so leaves
+  this block out.
+{%- endcomment -%}
+{%- assign pc_lang = page.lang | default: site.lang -%}
+{%- assign pc_t = site.data.i18n[pc_lang].product_cta -%}
+{%- if pc_lang == 'fr' -%}{%- assign pc_guide_lang = 'fr' -%}{%- else -%}{%- assign pc_guide_lang = 'en' -%}{%- endif -%}
+{%- assign pc_id = 'product-cta-' | append: include.page_key -%}
+<aside class="post-cta product-cta" aria-labelledby="{{ pc_id }}">
+  <h2 class="product-cta__title" id="{{ pc_id }}">{{ include.title }}</h2>
+  <p>{{ pc_t.text }}</p>
+  <p class="post-cta__actions">
+    <a class="btn btn-primary btn--lg" href="{{ site.cta.app_url }}" data-umami-event="cta-app-{{ include.page_key }}">{{ pc_t.app }}</a>
+    {%- if site.cta.demo_url and site.cta.demo_url != "" %}
+    <a class="btn btn-outline" href="{{ site.cta.demo_url }}" data-umami-event="cta-demo-{{ include.page_key }}">{{ pc_t.demo }}</a>
+    {%- endif %}
+    <a class="btn btn-outline" href="https://guide.optimce.be/{{ include.guide }}/{{ pc_guide_lang }}.html" data-umami-event="cta-guide-{{ include.page_key }}">{{ pc_t.guide }}</a>
+  </p>
+</aside>

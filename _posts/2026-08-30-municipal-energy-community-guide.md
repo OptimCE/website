@@ -2,7 +2,7 @@
 layout: post
 title: "Energy communities: a guide for municipalities"
 date: 2026-08-30 06:00:00 +0200
-last_modified_at: 2026-09-26 06:00:00 +0200
+last_modified_at: 2026-10-11 10:00:00 +0200
 author: "Eric from OptimCE"
 excerpt: "262 Walloon municipalities. Thirteen energy communities with a complete file at the CWaPE, of which only six actually share any electricity. This is not a shortage of ambition: it is that almost nobody has noticed what Walloon law already says. The first of the two proximity criteria for a renewable energy community is literally “the territory of one single and same municipality”. Wallonia is the only one of the three regions where the legislator drew the perimeter itself — and drew it along the municipal boundary."
 description: "In Wallonia, the perimeter of a renewable energy community is the municipal territory. What a municipality can do with it, and at what price."
@@ -293,7 +293,7 @@ The exact classification depends on the arrangement. It is a question to put to 
 ## What OptimCE does for you
 
 A municipality brings together several buildings, several partners and residents who join and
-leave the community. OptimCE keeps that management in one place:
+leave the community. OptimCE, our [energy community management software](/en/features/), keeps that management in one place:
 
 - **Choose the key on real data.** Import the quarter-hourly curves of the municipal buildings and
   of the participants, then simulate a key or let the generation module propose one:

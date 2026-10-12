@@ -8,6 +8,7 @@ description: "Zwei Algorithmen — Brute-Force über alle Standardschlüssel und
 tags: [allocation-key, app, guide]
 lang: de
 ref: optimce-allocation-key-generator
+last_modified_at: 2026-10-11 10:00:00 +0200
 pillar: cle-de-repartition
 permalink: /de/ratgeber/automatische-verteilungsschluessel-generierung/
 ---
@@ -37,7 +38,7 @@ Die manuelle Auswahl unterschätzt deshalb häufig die verfügbare Erzeugung. Si
 
 ## Was das OptimCE-Modul leistet
 
-Das Modul ist Teil des bestehenden **Aufteilungsschlüssel-Moduls** im Open-Source-Kern von OptimCE. Der Ablauf ist einfach:
+Das Modul ist Teil des bestehenden **Aufteilungsschlüssel-Moduls** im Open-Source-Kern von OptimCE (siehe [den Aufteilungsschlüssel in OptimCE](/de/funktionen/aufteilungsschluessel/)). Der Ablauf ist einfach:
 
 1. **Eingaben** — 15-Minuten-Verbrauchsdaten je Mitglied, 15-Minuten-Erzeugungsdaten je Erzeuger, Teilnehmerliste der Sharing-Operation und Region (Wallonie / Brüssel / Flandern), damit der Algorithmus die jeweils zulässigen Standardfamilien respektiert.
 2. **Algorithmus auswählen** — Brute-Force oder LOGAAS.

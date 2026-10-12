@@ -2,7 +2,7 @@
 layout: post
 title: "Energy sharing in a condominium: the guide"
 date: 2026-08-27 06:00:00 +0200
-last_modified_at: 2026-09-26 06:00:00 +0200
+last_modified_at: 2026-10-11 10:00:00 +0200
 author: "Eric from OptimCE"
 excerpt: "616,135 Brussels and Walloon homes sit inside an apartment building. In February 2025, the CWaPE counted four same-building sharing operations in Wallonia. Four. Energy law is not the reason: it asks for an agreement and a form, with no legal entity and no authorisation. The real decisions are made by three articles of Book 3 of the Civil Code — who may own the panels, at what majority, and how long the managing agent may sign for."
 description: "Three Civil Code articles decide whether your building can share its electricity: who owns the panels, the majority needed, the managing agent's mandate."
@@ -318,7 +318,7 @@ The critical path is neither the vote nor the paperwork: it is **the smart meter
 ## What OptimCE does for you
 
 Sharing in a building is won in the quarter-hour and managed over years, through house moves and
-changes of managing agent. OptimCE takes care of the repetitive part:
+changes of managing agent. OptimCE, our [energy community management software](/en/features/), takes care of the repetitive part:
 
 - **Measure before the vote.** Simulate an allocation key on the quarter-hourly consumption of the
   flats and of the common-areas meter: self-consumption and surplus show up before you convene the

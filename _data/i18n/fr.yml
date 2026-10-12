@@ -19,6 +19,7 @@ nav:
   links: "Liens"
   guide: "Guide utilisateur"
   privacy: "Confidentialité"
+  pricing: "Tarifs"
 # Hero (_includes/hero.html) and the quarter-hour grid
 # (_includes/quarter-hour-grid.html). In grid strings, assets/js/main.js fills
 # {time} {n} {kwh} {members} {date}; {h}/{hh} = hour, {m} = minutes.
@@ -191,6 +192,14 @@ cta_communaute:
   text: "Parcourez les opérations de partage ouvertes à de nouveaux membres dans l'application OptimCE et prenez contact avec celle qui vous correspond."
   button: "Trouver une communauté"
 
+product_cta:
+  # _includes/product-cta.html, at the end of each product page. The guide
+  # button opens the French guide (guide.optimce.be exists in fr and en).
+  text: "L'application est gratuite pendant l'alpha. Le guide pas à pas vous montre chaque écran avant de vous lancer."
+  app: "Ouvrir l'application"
+  demo: "Essayer la démo"
+  guide: "Suivre le guide pas à pas"
+
 # Article page (_layouts/post.html)
 post:
   on_this_page: "Sur cette page"
@@ -307,7 +316,8 @@ about:
     Que vous soyez développeur, designer, traducteur ou simplement passionné
     par les communautés d'énergie, vous pouvez contribuer de nombreuses façons.
   contribute_cta: "Voir le projet sur GitHub"
-  author_intro: "Les guides et les actualités de ce site sont rédigés par"
+  author_intro: "OptimCE est développé et maintenu par"
+  author_outro: ", qui rédige aussi les guides et les actualités de ce site."
 
 # Footer
 footer:

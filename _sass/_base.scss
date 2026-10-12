@@ -39,6 +39,17 @@ h1 {
   letter-spacing: var(--tracking-heading);
 }
 
+// German and Dutch compounds ("Energiegemeinschaften", "energiegemeenschappen")
+// are wider than a phone at h1 size, and overflow-wrap would cut them anywhere.
+// Below 576px, let the browser hyphenate them at a real syllable instead.
+@media (max-width: ($bp-sm - 1px)) {
+  :lang(de) h1,
+  :lang(nl) h1 {
+    -webkit-hyphens: auto;
+    hyphens: auto;
+  }
+}
+
 h2 {
   font-size: var(--text-h2);
   line-height: 1.15;

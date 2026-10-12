@@ -31,6 +31,7 @@ languages:
     guides_path: "/guides/"
     solutions_path: "/solutions/"
     features_path: "/fonctionnalites/"
+    pricing_path: "/tarifs/"
     author_path: "/a-propos/eric-ugo-paque/"
   - code: en
     locale: "en_GB"
@@ -43,6 +44,7 @@ languages:
     guides_path: "/en/guides/"
     solutions_path: "/en/solutions/"
     features_path: "/en/features/"
+    pricing_path: "/en/pricing/"
     author_path: "/en/about/eric-ugo-paque/"
   - code: de
     locale: "de_DE"
@@ -55,6 +57,7 @@ languages:
     guides_path: "/de/ratgeber/"
     solutions_path: "/de/loesungen/"
     features_path: "/de/funktionen/"
+    pricing_path: "/de/preise/"
     author_path: "/de/about/eric-ugo-paque/"
   - code: nl
     locale: "nl_BE"
@@ -67,6 +70,7 @@ languages:
     guides_path: "/nl/gidsen/"
     solutions_path: "/nl/oplossingen/"
     features_path: "/nl/functies/"
+    pricing_path: "/nl/prijzen/"
     author_path: "/nl/about/eric-ugo-paque/"
 
 # Author
@@ -87,6 +91,10 @@ author:
 cta:
   join_url: "https://app.optimce.be"
   app_url: "https://app.optimce.be"
+  # A demo community visitors can open without creating anything. The "Try
+  # the demo" button of the product pages (_includes/product-cta.html) shows
+  # only when this is set, as developers_url does below.
+  demo_url: ""
 
 # Developer documentation (installation, configuration, API), linked from the
 # homepage's self-hosting card (_includes/cloud-or-self-host.html). The button

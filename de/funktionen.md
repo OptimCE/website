@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Funktionen der Plattform OptimCE"
-subtitle: "Was die Plattform heute leistet, um eine Energiegemeinschaft zu führen – vom Beitritt der Mitglieder bis zur Rechnung."
-description: "Mitglieder, Zähler, Aufteilungsschlüssel, Abrechnung, CWaPE-Dokumente und Abstimmungen: was OptimCE heute kann, Open Source und in der Alpha kostenlos."
+title: "Software für Energiegemeinschaften"
+subtitle: "Was die Software OptimCE heute leistet, um eine Energiegemeinschaft zu führen – vom Beitritt der Mitglieder bis zur Rechnung."
+description: "Open-Source-Software für Energiegemeinschaften: Mitglieder, Aufteilungsschlüssel, Abrechnung, CWaPE-Unterlagen, Abstimmungen. In der Alpha kostenlos."
 lang: de
 ref: features
 permalink: /de/funktionen/
-last_modified_at: 2026-09-26
+last_modified_at: 2026-10-11
 feature_list:
   - "Verwaltung von Mitgliedern, Lieferstellen und Zählern"
   - "Archivierte Aufteilungsschlüssel mit Nachverfolgung der Zustimmung der Mitglieder"
@@ -52,7 +52,8 @@ Erzeugung erhält. OptimCE deckt seinen gesamten Lebenszyklus ab.
   Iteration, ohne den angewandten Schlüssel zu berühren.
 
 Weiterlesen: [einen optimalen Aufteilungsschlüssel generieren]({{ "optimce-allocation-key-generator" | ref_url }})
-und [einen Schlüssel auf den eigenen Daten simulieren]({{ "optimce-allocation-key-simulation" | ref_url }}).
+und [einen Schlüssel auf den eigenen Daten simulieren]({{ "optimce-allocation-key-simulation" | ref_url }}). Den vollständigen
+Ablauf zeigt die Seite [Aufteilungsschlüssel: berechnen, testen, verfolgen]({{ "product-allocation-key" | ref_url }}).
 
 ## Abrechnung der geteilten Energie
 
@@ -69,7 +70,8 @@ Die erste Version des Abrechnungsmoduls ist auf den wallonischen Rahmen ausgeleg
 - Die Zahlungsverfolgung ist integriert, Teilzahlungen inbegriffen, und jedes Mitglied findet
   seine Rechnungen in der Anwendung.
 
-Die Einzelheiten stehen in [der Ankündigung des Abrechnungsmoduls]({{ "optimce-billing" | ref_url }}).
+Die Einzelheiten stehen in [der Ankündigung des Abrechnungsmoduls]({{ "optimce-billing" | ref_url }}). Das Modul wird
+auf der Seite [Abrechnungssoftware für Energiegemeinschaften]({{ "product-billing" | ref_url }}) vorgestellt.
 
 ## Verwaltungsdokumente und Fristen
 
@@ -87,7 +89,8 @@ ableiten kann, bleiben bearbeitbar.
 - Jedes Mitglied kann einsehen, was über es an die Regulierungsbehörde gemeldet wurde.
 
 OptimCE reicht nichts ein und unterschreibt nichts an Ihrer Stelle: die Einreichung bleibt Ihre
-Sache. Siehe [CWaPE-Dokumente und Fristen]({{ "cwape-administrative-documents" | ref_url }}).
+Sache. Siehe [CWaPE-Dokumente und Fristen]({{ "cwape-administrative-documents" | ref_url }}). Das Modul wird auf
+der Seite [CWaPE-Unterlagen Ihrer Energiegemeinschaft]({{ "product-cwape" | ref_url }}) vorgestellt.
 
 ## Die Gemeinschaft beleben
 

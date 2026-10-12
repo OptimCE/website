@@ -8,7 +8,7 @@ ref: pillar-cle-de-repartition
 pillar: cle-de-repartition
 permalink: /en/guides/allocation-key/
 breadcrumb_parent: guides
-last_modified_at: 2026-09-26
+last_modified_at: 2026-10-11
 sections:
   - title: "Understanding the key and what each region accepts"
     refs: [allocation-key-belgium]
@@ -25,6 +25,6 @@ Belgium has three frameworks, and our [comparison of the three regions]({{ "allo
 
 Behind these three vocabularies, the same two families recur everywhere: **fixed** keys, egalitarian or weighted by members' contributions, and **dynamic or optimised** keys, which follow actual consumption. Choosing between them is not a technical question but a governance choice: equality between members, recognition of investment, or maximising collective self-consumption. The diversity of profiles matters too — as soon as a school or an SME joins the group, strict equality stops being optimal — as does the financial predictability members expect. Finally, all three regions allow a key to be modified after launch: it is wise to plan an annual review at the general assembly from the outset.
 
-It remains to test these principles against your own profiles, because the same key can recover 70% of the available production in one community and barely 50% in another. OptimCE offers two features for this, both fed by a CSV of your production and consumption data. [Automatic generation]({{ "optimce-allocation-key-generator" | ref_url }}) proposes a candidate key, either by scanning your region's standard keys (brute force) or with the LOGAAS algorithm, whose non-standard key must, in Wallonia, go through the CWaPE authorisation route. [Simulation]({{ "optimce-allocation-key-simulation" | ref_url }}) replays a key you have chosen and returns its self-consumption, surplus, self-sufficiency and sharing rate, without touching the key applied by the grid operator. Neither one submits a key to the DSO: the amendment, the signatures and the submission stay in your hands.
+It remains to test these principles against your own profiles, because the same key can recover 70% of the available production in one community and barely 50% in another. OptimCE offers two features for this, both fed by a CSV of your production and consumption data. [Automatic generation]({{ "optimce-allocation-key-generator" | ref_url }}) proposes a candidate key, either by scanning your region's standard keys (brute force) or with the LOGAAS algorithm, whose non-standard key must, in Wallonia, go through the CWaPE authorisation route. [Simulation]({{ "optimce-allocation-key-simulation" | ref_url }}) replays a key you have chosen and returns its self-consumption, surplus, self-sufficiency and sharing rate, without touching the key applied by the grid operator. Neither one submits a key to the DSO: the amendment, the signatures and the submission stay in your hands. The full workflow is presented on the page for [the allocation key tool]({{ "product-allocation-key" | ref_url }}).
 
 The guides below follow the same order: first the three regional frameworks, then generating and simulating a key on your data.

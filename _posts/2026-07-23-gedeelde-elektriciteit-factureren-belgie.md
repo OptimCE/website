@@ -10,7 +10,7 @@ lang: nl
 ref: invoice-shared-electricity
 pillar: prix-facturation-communaute
 permalink: /nl/gidsen/gedeelde-elektriciteit-factureren-belgie/
-last_modified_at: 2026-08-27 06:00:00 +0200
+last_modified_at: 2026-10-11 10:00:00 +0200
 faq:
   - q: "Wie moet de factuur voor de gedeelde energie opstellen?"
     a: "De vertegenwoordiger van het energiedelen — de partij die in de overeenkomst is aangeduid om het delen te organiseren. De CWaPE stelt het onomwonden: het is de vertegenwoordiger van het energiedelen die de gedeelde energie aan de deelnemers factureert. De netbeheerder berekent de volumes kwartier per kwartier en stuurt ze door, maar factureert niet. De leverancier factureert enkel de energie die het delen niet heeft gedekt."
@@ -134,7 +134,7 @@ Deze eerste versie is ontworpen voor het **Waalse kader** (CWaPE) en genereert d
 
 De facturatie van een energiedeling is geen juridisch mysterie: het is een duidelijke rolverdeling, zodra u ze kent. De netbeheerder **berekent en stuurt door**. De leverancier factureert **de residuele energie**, de netkosten en de gewestelijke belastingen. De vertegenwoordiger van het energiedelen factureert **de gedeelde energie**, vermeerderd met btw, accijnzen en de ODV voor groenestroomcertificaten — en hij is het die de verplichtingen draagt: juist btw-tarief, verplichte vermeldingen, sluitende nummering, creditnota's om te corrigeren.
 
-De rest is een kwestie van uitvoering: de btw-regeling met een boekhouder uitklaren, een nette overeenkomst schrijven en elk kwartaal correcte documenten uitreiken — met de hand zolang het draaglijk is, met een hulpmiddel zodra dat niet meer zo is.
+De rest is een kwestie van uitvoering: de btw-regeling met een boekhouder uitklaren, een nette overeenkomst schrijven en elk kwartaal correcte documenten uitreiken — met de hand zolang het draaglijk is, met een hulpmiddel zodra dat niet meer zo is, bijvoorbeeld om [de leden te factureren met OptimCE](/nl/functies/facturatie/).
 
 Aan de kant van het gezin leest ook de factuur die u van uw leverancier blijft ontvangen zich regel per regel: we ontleden ze in [“Elektriciteitsfactuur lezen: regel per regel”](/nl/gidsen/elektriciteitsfactuur-lezen-belgie/).
 

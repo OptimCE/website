@@ -10,7 +10,7 @@ lang: fr
 ref: create-energy-community-wallonia
 pillar: communautes-energie
 permalink: /guides/creer-communaute-energie-wallonie/
-last_modified_at: 2026-09-03 06:00:00 +0200
+last_modified_at: 2026-10-11 10:00:00 +0200
 ---
 
 La Wallonie est, à ce jour, la région belge où les communautés d'énergie se déploient le plus rapidement. Cadre légal stabilisé depuis 2022, formulaire-type publié par la CWaPE, gestionnaires de réseau outillés : tous les ingrédients sont réunis pour qu'un groupe de citoyens, une commune, une école ou un parc d'entreprises lance son propre partage d'énergie. Ce guide décrit, pas à pas, **la procédure complète** : du choix du type de communauté à la mise en service du partage avec votre gestionnaire de réseau de distribution (GRD). Si vous n'êtes pas encore familier avec la notion même de communauté d'énergie, commencez par notre article [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/guides/communautes-energie-belgique/) — il pose le vocabulaire repris ici.
@@ -219,7 +219,7 @@ Si créer une communauté de A à Z vous semble trop lourd, **rejoindre une opé
 
 ## Comment OptimCE peut vous aider
 
-Une fois la communauté notifiée et opérationnelle, le travail commence : intégrer les membres, configurer les clés de répartition, suivre les volumes partagés au pas de 15 minutes, produire le rapport annuel CWaPE. **OptimCE** est une plateforme open source pensée exactement pour cela : elle automatise la gestion quotidienne des communautés d'énergie et s'interface avec les GRD wallons.
+Une fois la communauté notifiée et opérationnelle, le travail commence : intégrer les membres, configurer les clés de répartition, suivre les volumes partagés au pas de 15 minutes, produire le rapport annuel CWaPE. **OptimCE** est une plateforme open source pensée exactement pour cela : elle automatise la gestion quotidienne des communautés d'énergie et s'interface avec les GRD wallons. Les formulaires de notification font partie du [dossier CWaPE préparé par OptimCE](/fonctionnalites/dossier-cwape/).
 
 Pour démarrer ou comparer les fonctionnalités, consultez le [guide utilisateur OptimCE](https://guide.optimce.be) ainsi que la liste publique des [opérations de partage ouvertes](https://app.optimce.be) déjà gérées via la plateforme.
 

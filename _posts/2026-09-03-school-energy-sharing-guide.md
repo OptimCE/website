@@ -2,7 +2,7 @@
 layout: post
 title: "Schools: a guide to energy sharing"
 date: 2026-09-03 06:00:00 +0200
-last_modified_at: 2026-09-26 06:00:00 +0200
+last_modified_at: 2026-10-11 10:00:00 +0200
 author: "Eric from OptimCE"
 excerpt: "A school in the subsidised free network is a private-law non-profit. No elected mandate, no regional supervision, no territorial competence. And yet the Walloon Government listed it among the “local authorities” — alongside municipalities, public social welfare centres and provinces. The reason is spelled out in one sentence from the SPW Énergie that nobody quotes. That status changes everything: it makes the school the only non-public building in Wallonia that can set up its own energy community without waiting for anyone."
 description: "Every Walloon school is a “local authority” since 26 February 2026. What that status unlocks, and how to monetise a roof that produces when empty."
@@ -345,7 +345,7 @@ At 3.5 c€, the marginal kilowatt-peak pays back in about forty years, that is,
 
 ## What OptimCE does for you
 
-Everything turns on the calendar: what your partners absorb while the school is empty. OptimCE
+Everything turns on the calendar: what your partners absorb while the school is empty. OptimCE, our [energy community management software](/en/features/),
 helps you measure it, then run the operation:
 
 - **Test the group before you form it.** Simulate an allocation key on the quarter-hourly data of

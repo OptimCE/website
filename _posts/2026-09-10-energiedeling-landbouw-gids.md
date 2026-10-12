@@ -2,7 +2,7 @@
 layout: post
 title: "Landbouwloods: de gids voor energiedelen"
 date: 2026-09-10 06:00:00 +0200
-last_modified_at: 2026-09-26 06:00:00 +0200
+last_modified_at: 2026-10-11 10:00:00 +0200
 author: "Eric van OptimCE"
 excerpt: "Een landbouwloods draagt tussen 100 en 350 kilowattpiek. Het is het grootste beschikbare dak van landelijk Wallonië, het best georiënteerde en het eenvoudigst uit te rusten: panelen op het dak hebben er geen stedenbouwkundige vergunning nodig, ongeacht hun vermogen. Toch is van de dertien bij de CWaPE gemelde energiegemeenschappen er geen enkele op een landbouwbedrijf gebouwd. Dat is geen onverschilligheid. Twee besluiten van de Waalse Regering, met drie weken tussentijd genomen in februari en maart 2023, duwen precies de tegenovergestelde kant op: het eerste subsidieert landbouwzonne-energie enkel in verhouding tot het zelfverbruikte deel, het tweede organiseert het delen van het overschot."
 description: "Twee Waalse besluiten uit 2023 spreken elkaar tegen: de landbouwsteun stopt waar het delen begint. Wat een loodsdak echt opbrengt."
@@ -243,7 +243,7 @@ De redenering die daaruit volgt, luidt als volgt. Zolang het overschot het injec
 ## Wat OptimCE voor u doet
 
 Een landbouwdak wordt beoordeeld op de middaglast van zijn deelnemers, van de oogst tot in het
-diepst van januari. OptimCE helpt u die te meten en de deelactie daarna te beheren:
+diepst van januari. OptimCE, [beheersoftware voor energiegemeenschappen](/nl/functies/), helpt u die te meten en de deelactie daarna te beheren:
 
 - **Simuleren voordat u het dak vastlegt.** Importeer de kwartierproductie en het verbruik van de
   beoogde deelnemers, test daarna een sleutel of laat de generatiemodule er een voorstellen:

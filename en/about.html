@@ -44,7 +44,7 @@ last_modified_at: 2026-06-16
 {% assign about_lang = site.languages | where: "code", lang | first %}
 <p>
   {{ t.about.author_intro }}
-  <a href="{{ about_lang.author_path | relative_url }}">{{ site.data.authors.eric.name }}</a>.
+  <a href="{{ about_lang.author_path | relative_url }}">{{ site.data.authors.eric.name }}</a>{{ t.about.author_outro }}
 </p>
 
 <h2>{{ t.about.offering_title }}</h2>

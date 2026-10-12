@@ -2,7 +2,7 @@
 layout: post
 title: "Scholen: de gids voor energiedelen"
 date: 2026-09-03 06:00:00 +0200
-last_modified_at: 2026-09-26 06:00:00 +0200
+last_modified_at: 2026-10-11 10:00:00 +0200
 author: "Eric van OptimCE"
 excerpt: "Een school van het vrij gesubsidieerd net is een vzw naar privaat recht. Geen verkozen mandaat, geen gewestelijk toezicht, geen territoriale bevoegdheid. En toch heeft de Waalse Regering haar bij de “lokale overheden” gerekend — naast gemeenten, OCMW's en provincies. De reden staat in één zin van SPW Énergie die niemand citeert. Dat statuut verandert alles: het maakt de school het enige niet-openbare gebouw van Wallonië dat zijn eigen energiegemeenschap kan oprichten zonder op wie dan ook te wachten."
 description: "Elke Waalse school is sinds 26 februari 2026 een “lokale overheid”. Wat dat statuut opent, en hoe u een dak valoriseert dat leeg produceert."
@@ -345,7 +345,7 @@ Tegen 3,5 c€ verdient de marginale kilowattpiek zich terug op een veertigtal j
 
 ## Wat OptimCE voor u doet
 
-Alles draait om de kalender: wat uw partners opnemen terwijl de school leeg staat. OptimCE helpt u
+Alles draait om de kalender: wat uw partners opnemen terwijl de school leeg staat. OptimCE, [beheersoftware voor energiegemeenschappen](/nl/functies/), helpt u
 dat te meten en de deelactie daarna te beheren:
 
 - **De groep testen voordat u hem samenstelt.** Simuleer een verdeelsleutel op de kwartiergegevens

@@ -8,7 +8,7 @@ description: "Erstellen Sie die Rechnungen Ihrer Energiegemeinschaft — vom Pre
 tags: [administrative, app, news]
 lang: de
 ref: optimce-billing
-last_modified_at: 2026-07-23 10:00:00 +0200
+last_modified_at: 2026-10-11 10:00:00 +0200
 permalink: /de/aktuelles/2026/07/16/energiegemeinschaft-abrechnung-optimce/
 faq:
   - q: "Woher stammen die Daten für die Abrechnung?"
@@ -27,7 +27,7 @@ faq:
 
 Eine funktionierende Energiegemeinschaft produziert zwei Dinge: geteilte kWh … und Beträge, die abzurechnen sind. In jeder Periode weist die offizielle Verteilung jedem Mitglied seinen Anteil an der lokal erzeugten Energie zu — und dann muss jemand diese Volumina in Euro verwandeln: berechnen, was jeder Verbraucher schuldet und was jeder Erzeuger erhält, konforme Dokumente erstellen, Zahlungen einziehen und nachverfolgen. Bisher geschah diese Arbeit meist von Hand, zwischen Tabellenkalkulation und selbstgebasteltem Rechnungsmuster. Damit ist Schluss: OptimCE enthält jetzt ein **Abrechnungsmodul**, dessen erste Version einsatzbereit ist.
 
-Das Prinzip ist einfach: Sie legen Ihre Preise fest, Sie wählen eine Periode, und OptimCE **erstellt die Rechnungen aller Mitglieder** aus den Verteilungsdaten, die bereits in der Plattform vorliegen — mit PDF, gesetzlicher Nummerierung, strukturierter Mitteilung und Zahlungsverfolgung.
+Das Prinzip ist einfach: Sie legen Ihre Preise fest, Sie wählen eine Periode, und OptimCE **erstellt die Rechnungen aller Mitglieder** aus den Verteilungsdaten, die bereits in der Plattform vorliegen — mit PDF, gesetzlicher Nummerierung, strukturierter Mitteilung und Zahlungsverfolgung. Den gesamten Ablauf zeigt die Seite [Abrechnungssoftware für Energiegemeinschaften](/de/funktionen/abrechnung/).
 
 Wenn Ihnen die Mechanik der Verteilung noch unklar ist, beginnen Sie mit unserem Referenzartikel [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/ratgeber/verteilungsschluessel-energiegemeinschaft-belgien/) — die Abrechnung ist ihre direkte Fortsetzung.
 

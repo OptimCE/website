@@ -8,6 +8,7 @@ description: "Meldung, Jahresbericht, Netzbetreibervertrag: welche Dokumente ein
 tags: [administrative, app, guide]
 lang: de
 ref: cwape-administrative-documents
+last_modified_at: 2026-10-11 10:00:00 +0200
 pillar: communautes-energie
 permalink: /de/ratgeber/energiegemeinschaft-verwaltungsdokumente-wallonien/
 faq:
@@ -155,7 +156,7 @@ Diese fünf Punkte haben eines gemeinsam: Keiner erfordert besondere Intelligenz
 
 ## Was OptimCE nun leistet
 
-Darum geht es bei dem im August 2026 ausgelieferten Funktionsblock: ein Modul zur Verwaltung der Verwaltungsdokumente, Dashboards und der Versand von E-Mails — den es auf der Plattform bis dahin überhaupt nicht gab.
+Darum geht es bei dem im August 2026 ausgelieferten Funktionsblock: ein Modul zur Verwaltung der Verwaltungsdokumente, Dashboards und der Versand von E-Mails — den es auf der Plattform bis dahin überhaupt nicht gab. Für einen Überblick sehen Sie, wie Sie [die CWaPE-Unterlagen in OptimCE vorbereiten](/de/funktionen/cwape-unterlagen/).
 
 ### Elf Dokumente, vorausgefüllt auf Basis der amtlichen Dateien
 

@@ -8,6 +8,7 @@ description: "Simulieren Sie einen Schlüssel auf Ihren Daten und messen Sie Eig
 tags: [allocation-key, app, news]
 lang: de
 ref: optimce-allocation-key-simulation
+last_modified_at: 2026-10-11 10:00:00 +0200
 pillar: cle-de-repartition
 permalink: /de/ratgeber/verteilungsschluessel-simulieren-optimce/
 faq:
@@ -41,7 +42,7 @@ Simulieren bedeutet genau, **diese Entscheidung aus dem Bauchgefühl herauszuhol
 
 ## Was die Simulation ermöglicht
 
-Die Funktion ist in das **Modul „Aufteilungsschlüssel“** des Open-Source-Kerns von OptimCE eingebaut. Der Benutzerablauf umfasst nur wenige Schritte:
+Die Funktion ist in das **Modul „Aufteilungsschlüssel“** des Open-Source-Kerns von OptimCE eingebaut (siehe [den Aufteilungsschlüssel in OptimCE](/de/funktionen/aufteilungsschluessel/)). Der Benutzerablauf umfasst nur wenige Schritte:
 
 1. **Importieren Sie eine CSV** mit Verbrauchsdaten pro Zeitschritt (oft viertelstündlich) für jedes Mitglied und Erzeugungsdaten für jeden Erzeuger der Teilungsoperation. Jede Zeile der Datei entspricht einem Zeitschritt.
 2. **Wählen Sie einen Aufteilungsschlüssel** zum Testen — einen Standardschlüssel Ihrer Region, einen bestehenden Schlüssel der Gemeinschaft oder ein Szenario, das Sie erkunden möchten.

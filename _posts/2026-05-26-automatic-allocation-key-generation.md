@@ -8,6 +8,7 @@ description: "Two algorithms — brute force over standard keys and LOGAAS — t
 tags: [allocation-key, app, guide]
 lang: en
 ref: optimce-allocation-key-generator
+last_modified_at: 2026-10-11 10:00:00 +0200
 pillar: cle-de-repartition
 permalink: /en/guides/automatic-allocation-key-generation/
 ---
@@ -37,7 +38,7 @@ Manual key selection therefore tends to under-use the available production. The 
 
 ## What the OptimCE module does
 
-The module sits inside the existing **Allocation Keys** module of the open-source OptimCE core. The workflow is straightforward:
+The module sits inside the existing **Allocation Keys** module of the open-source OptimCE core (see [the allocation key in OptimCE](/en/features/allocation-key/)). The workflow is straightforward:
 
 1. **Input** — 15-minute consumption data for each member, 15-minute production data for each generator, the list of participants in the sharing operation, and the region (Wallonia / Brussels / Flanders) so the algorithm knows which standard key families to respect.
 2. **Choose an algorithm** — brute force or LOGAAS.

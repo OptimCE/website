@@ -10,7 +10,7 @@ lang: de
 ref: invoice-shared-electricity
 pillar: prix-facturation-communaute
 permalink: /de/ratgeber/geteilten-strom-abrechnen-belgien/
-last_modified_at: 2026-08-27 06:00:00 +0200
+last_modified_at: 2026-10-11 10:00:00 +0200
 faq:
   - q: "Wer muss die Rechnung für die geteilte Energie ausstellen?"
     a: "Der Vertreter der Energieteilung — die in der Vereinbarung benannte Partei, welche die Teilung organisiert. Die CWaPE formuliert es unmissverständlich: Es ist der Vertreter der Energieteilung, der die geteilte Energie den Teilnehmern in Rechnung stellt. Der Netzbetreiber berechnet die Mengen viertelstundenweise und übermittelt sie, stellt aber keine Rechnung. Der Lieferant fakturiert nur die Energie, die das Teilen nicht abgedeckt hat."
@@ -134,7 +134,7 @@ Diese erste Version ist für den **wallonischen Rahmen** (CWaPE) konzipiert und 
 
 Die Abrechnung einer Energieteilung ist kein juristisches Rätsel: Es ist eine klare Rollenverteilung, sobald man sie kennt. Der Netzbetreiber **berechnet und übermittelt**. Der Lieferant fakturiert **die Restenergie**, die Netzentgelte und die regionalen Steuern. Der Vertreter der Energieteilung fakturiert **die geteilte Energie**, zuzüglich MwSt., Akzisen und der ÖDV für grüne Zertifikate — und er ist es, der die Pflichten trägt: richtiger MwSt.-Satz, Pflichtangaben, lückenlose Nummerierung, Gutschriften zur Korrektur.
 
-Der Rest ist eine Frage der Umsetzung: die MwSt.-Regelung mit einem Buchhalter klären, eine saubere Vereinbarung schreiben und jedes Quartal ordnungsgemäße Dokumente ausstellen — von Hand, solange es tragbar ist, mit einem Werkzeug, sobald es das nicht mehr ist.
+Der Rest ist eine Frage der Umsetzung: die MwSt.-Regelung mit einem Buchhalter klären, eine saubere Vereinbarung schreiben und jedes Quartal ordnungsgemäße Dokumente ausstellen — von Hand, solange es tragbar ist, mit einem Werkzeug, sobald es das nicht mehr ist, etwa um [die Mitglieder mit OptimCE abzurechnen](/de/funktionen/abrechnung/).
 
 Auf Haushaltsseite lässt sich auch die Rechnung, die Sie weiterhin von Ihrem Lieferanten erhalten, Zeile für Zeile lesen: Wir zerlegen sie in [„Belgische Stromrechnung Zeile für Zeile lesen“](/de/ratgeber/stromrechnung-lesen-belgien/).
 

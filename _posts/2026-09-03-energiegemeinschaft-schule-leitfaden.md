@@ -2,7 +2,7 @@
 layout: post
 title: "Schulen: der Leitfaden zum Energieteilen"
 date: 2026-09-03 06:00:00 +0200
-last_modified_at: 2026-09-26 06:00:00 +0200
+last_modified_at: 2026-10-11 10:00:00 +0200
 author: "Eric, OptimCE"
 excerpt: "Eine Schule des freien subventionierten Netzes ist eine privatrechtliche VoG. Kein Wahlmandat, keine regionale Aufsicht, keine Gebietshoheit. Und dennoch hat die Wallonische Regierung sie zu den „lokalen Behörden“ gezählt — neben Gemeinden, ÖSHZ und Provinzen. Der Grund steht in einem Satz des SPW Énergie, den niemand zitiert. Dieser Status ändert alles: er macht die Schule zum einzigen nichtöffentlichen Gebäude Walloniens, das seine eigene Energiegemeinschaft gründen kann, ohne auf irgendjemanden zu warten."
 description: "Jede wallonische Schule ist seit dem 26. Februar 2026 eine „lokale Behörde“. Was dieser Status ermöglicht und wie ein leeres Dach Ertrag bringt."
@@ -346,7 +346,7 @@ Bei 3,5 c€ amortisiert sich das marginale Kilowatt-Peak in rund vierzig Jahren
 ## Was OptimCE für Sie tut
 
 Alles hängt vom Kalender ab: davon, was Ihre Partner aufnehmen, während die Schule leer steht.
-OptimCE hilft Ihnen, das zu messen und die Operation danach zu führen:
+OptimCE, die [Software für Energiegemeinschaften](/de/funktionen/), hilft Ihnen, das zu messen und die Operation danach zu führen:
 
 - **Die Gruppe testen, bevor Sie sie bilden.** Simulieren Sie einen Aufteilungsschlüssel auf den
   Viertelstundendaten der Schule und ihrer Partner: Eigenverbrauch, Überschuss und Teilungsquote

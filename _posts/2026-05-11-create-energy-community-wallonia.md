@@ -9,7 +9,7 @@ tags: [community, administrative, guide]
 lang: en
 ref: create-energy-community-wallonia
 pillar: communautes-energie
-last_modified_at: 2026-09-03 06:00:00 +0200
+last_modified_at: 2026-10-11 10:00:00 +0200
 permalink: /en/guides/create-energy-community-wallonia/
 ---
 
@@ -219,7 +219,7 @@ If creating a community from scratch feels too heavy, **joining an existing oper
 
 ## How OptimCE can help
 
-Once the community is notified and operational, the work begins: onboarding members, configuring allocation keys, tracking shared volumes at 15-minute granularity, producing the annual CWaPE report. **OptimCE** is an open source platform designed precisely for this: it automates the day-to-day management of energy communities and interfaces with the Walloon DSOs.
+Once the community is notified and operational, the work begins: onboarding members, configuring allocation keys, tracking shared volumes at 15-minute granularity, producing the annual CWaPE report. **OptimCE** is an open source platform designed precisely for this: it automates the day-to-day management of energy communities and interfaces with the Walloon DSOs. The notification forms are part of the [CWaPE filing prepared by OptimCE](/en/features/cwape-filing/).
 
 To get started or to compare features, see the [OptimCE user guide](https://guide.optimce.be) and the public list of [open sharing operations](https://app.optimce.be) already managed via the platform.
 

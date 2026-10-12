@@ -10,7 +10,7 @@ lang: de
 ref: internal-price-shared-energy
 pillar: prix-facturation-communaute
 permalink: /de/ratgeber/strompreis-energiegemeinschaft/
-last_modified_at: 2026-07-25 10:00:00 +0200
+last_modified_at: 2026-10-11 10:00:00 +0200
 faq:
   - q: "Wer legt den Preis des geteilten Stroms in einer Energiegemeinschaft fest?"
     a: "In der Wallonie und in Brüssel die Teilnehmer selbst. Die CWaPE schreibt, dass „der Preis des geteilten Stroms zwischen den Teilnehmern des Teilens frei bestimmt wird, in der Vereinbarung, die ihre Rechte und Pflichten festlegt“. Kein belgischer Regulator veröffentlicht eine Obergrenze oder eine Berechnungsmethode. In Flandern stellt sich die Frage nicht in derselben Weise: Das Teilen innerhalb einer Energiegemeinschaft muss unentgeltlich sein."
@@ -200,7 +200,7 @@ Sie definieren **zwei Preise in €/kWh**, unabhängig voneinander — den Verka
 
 So decken Sie die beiden oben beschriebenen Bedürfnisse ab: die **Differenzierung nach objektiver Kategorie** und die **Historie der Revisionen**. Einen Preis zu ändern ersetzt nichts: Sie fügen ab einem Datum eine neue Regel hinzu, und die alte bleibt einsehbar — genau das, was Sie an dem Tag brauchen, an dem ein Mitglied eine Rechnung des vorigen Geschäftsjahrs beanstandet.
 
-Von dort an übernimmt OptimCE die bereits importierten offiziellen Verteilungsvolumina, wendet auf jedes Profil den richtigen Preis an und erstellt Rechnungen, Gutschriften und Vergütungsabrechnungen als PDF, mit gesetzlicher Nummerierung, strukturierter Mitteilung und Zahlungsverfolgung. Der in der Generalversammlung ausgehandelte Preis wird zu einem belastbaren Dokument, ohne Tabellenkalkulation dazwischen.
+Von dort an übernimmt OptimCE die bereits importierten offiziellen Verteilungsvolumina, wendet auf jedes Profil den richtigen Preis an und erstellt Rechnungen, Gutschriften und Vergütungsabrechnungen als PDF, mit gesetzlicher Nummerierung, strukturierter Mitteilung und Zahlungsverfolgung. Der in der Generalversammlung ausgehandelte Preis wird zu einem belastbaren Dokument, ohne Tabellenkalkulation dazwischen. Sehen Sie, wie Sie [diese Preise in OptimCE anwenden](/de/funktionen/abrechnung/).
 
 ## Fazit
 

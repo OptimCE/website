@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Functies van het OptimCE-platform"
-subtitle: "Wat het platform vandaag doet om een energiegemeenschap te beheren, van de toetreding van leden tot de factuur."
-description: "Leden, meters, gegenereerde en gesimuleerde verdeelsleutels, facturatie, CWaPE-documenten, polls: wat OptimCE doet, opensource en gratis tijdens de alfa."
+title: "Beheersoftware voor energiegemeenschappen"
+subtitle: "Wat de OptimCE-software vandaag doet om een energiegemeenschap te beheren, van de toetreding van leden tot de factuur."
+description: "Opensource beheersoftware voor energiegemeenschappen: leden, verdeelsleutels, facturatie, CWaPE-dossiers, polls. Gratis tijdens de alfa."
 lang: nl
 ref: features
 permalink: /nl/functies/
-last_modified_at: 2026-09-26
+last_modified_at: 2026-10-11
 feature_list:
   - "Beheer van leden, leveringspunten en meters"
   - "Bewaarde versies van verdeelsleutels, met opvolging van de aanvaarding door de leden"
@@ -51,7 +51,8 @@ OptimCE dekt de hele levenscyclus ervan af.
   zonder de toegepaste sleutel te raken.
 
 Verder lezen: [een optimale verdeelsleutel genereren]({{ "optimce-allocation-key-generator" | ref_url }})
-en [een sleutel op uw gegevens simuleren]({{ "optimce-allocation-key-simulation" | ref_url }}).
+en [een sleutel op uw gegevens simuleren]({{ "optimce-allocation-key-simulation" | ref_url }}). De hele cyclus
+staat op de pagina [verdeelsleutel: genereren, simuleren, opvolgen]({{ "product-allocation-key" | ref_url }}).
 
 ## Facturatie van gedeelde energie
 
@@ -68,7 +69,8 @@ De eerste versie van de facturatiemodule is ontworpen voor het Waalse kader.
 - De opvolging van de betalingen is ingebouwd, deelbetalingen inbegrepen, en elk lid vindt zijn
   facturen terug in de applicatie.
 
-De details staan in [de aankondiging van de facturatiemodule]({{ "optimce-billing" | ref_url }}).
+De details staan in [de aankondiging van de facturatiemodule]({{ "optimce-billing" | ref_url }}). De module wordt
+voorgesteld op de pagina [facturatiesoftware voor energiegemeenschappen]({{ "product-billing" | ref_url }}).
 
 ## Administratieve documenten en termijnen
 
@@ -86,7 +88,8 @@ niet kan afleiden, blijven bewerkbaar.
 - Elk lid kan inzien wat er over hem of haar aan de regulator is gemeld.
 
 OptimCE dient niets in en ondertekent niets in uw plaats: het indienen blijft uw zaak. Zie
-[de CWaPE-documenten en termijnen]({{ "cwape-administrative-documents" | ref_url }}).
+[de CWaPE-documenten en termijnen]({{ "cwape-administrative-documents" | ref_url }}). De module wordt voorgesteld
+op de pagina [CWaPE-dossier van uw energiegemeenschap]({{ "product-cwape" | ref_url }}).
 
 ## De gemeenschap levend houden
 

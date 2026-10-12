@@ -2,7 +2,7 @@
 layout: post
 title: "Energiegemeenschap: de gids voor gemeenten"
 date: 2026-08-30 06:00:00 +0200
-last_modified_at: 2026-09-26 06:00:00 +0200
+last_modified_at: 2026-10-11 10:00:00 +0200
 author: "Eric van OptimCE"
 excerpt: "262 Waalse gemeenten. Dertien energiegemeenschappen met een volledig dossier bij de CWaPE, waarvan er slechts zes werkelijk stroom delen. Dat is geen gebrek aan ambitie: bijna niemand heeft gemerkt wat het Waalse recht al zegt. Het eerste van de twee nabijheidscriteria van een hernieuwbare-energiegemeenschap luidt letterlijk “het grondgebied van één en dezelfde gemeente”. Wallonië is het enige van de drie gewesten waar de wetgever de perimeter zelf heeft getrokken — langs de gemeentegrens."
 description: "In Wallonië is de perimeter van een hernieuwbare-energiegemeenschap het gemeentelijke grondgebied. Wat uw gemeente ermee kan, en tegen welke prijs."
@@ -293,7 +293,7 @@ De precieze kwalificatie hangt af van de opzet. Het is een vraag voor de juridis
 ## Wat OptimCE voor u doet
 
 Een gemeente brengt meerdere gebouwen, meerdere partners en inwoners samen die de gemeenschap
-vervoegen en weer verlaten. OptimCE brengt dat beheer op één plek samen:
+vervoegen en weer verlaten. OptimCE, [beheersoftware voor energiegemeenschappen](/nl/functies/), brengt dat beheer op één plek samen:
 
 - **De sleutel kiezen op basis van echte gegevens.** Importeer de kwartiercurves van de
   gemeentegebouwen en van de deelnemers, simuleer daarna een sleutel of laat de generatiemodule er

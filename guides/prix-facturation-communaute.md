@@ -8,7 +8,7 @@ ref: pillar-prix-facturation-communaute
 pillar: prix-facturation-communaute
 permalink: /guides/prix-facturation-communaute/
 breadcrumb_parent: guides
-last_modified_at: 2026-09-26
+last_modified_at: 2026-10-11
 sections:
   - title: "Fixer le prix interne, puis facturer"
     refs: [internal-price-shared-energy, invoice-shared-electricity]
@@ -21,4 +21,4 @@ Vient ensuite la facture, ou plutôt les deux factures que détaille notre guide
 
 C'est donc le représentant qui porte les obligations. La TVA est de 6 % pour un membre particulier et de 21 % pour un membre professionnel, si bien qu'une communauté aux membres mixtes facture à deux taux ; sous 25 000 € de chiffre d'affaires hors TVA par an, le régime de franchise des petites entreprises peut s'appliquer. Aucune circulaire ne traite spécifiquement du partage d'énergie : faites valider votre régime par un comptable avant la première facture. Chaque facture porte un numéro dans une série continue et sans trou, le détail des kWh partagés par EAN avec leur prix unitaire, une communication structurée et l'IBAN de la communauté ; une facture émise ne se corrige que par une note de crédit, suivie d'une nouvelle facture.
 
-Pour passer du prix voté aux documents, le [module de facturation d'OptimCE]({{ "optimce-billing" | ref_url }}) génère factures, notes de crédit et décomptes de rémunération à partir des données de répartition officielles ; cette première version est conçue pour le cadre wallon. Les guides ci-dessous suivent le même fil : fixer le prix, puis le facturer.
+Pour passer du prix voté aux documents, le [module de facturation d'OptimCE]({{ "product-billing" | ref_url }}) génère factures, notes de crédit et décomptes de rémunération à partir des données de répartition officielles ; cette première version est conçue pour le cadre wallon. Les guides ci-dessous suivent le même fil : fixer le prix, puis le facturer.

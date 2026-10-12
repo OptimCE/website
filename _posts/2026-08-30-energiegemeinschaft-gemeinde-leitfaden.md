@@ -2,7 +2,7 @@
 layout: post
 title: "Energiegemeinschaft: Leitfaden für Gemeinden"
 date: 2026-08-30 06:00:00 +0200
-last_modified_at: 2026-09-26 06:00:00 +0200
+last_modified_at: 2026-10-11 10:00:00 +0200
 author: "Eric, OptimCE"
 excerpt: "262 wallonische Gemeinden. Dreizehn Energiegemeinschaften mit vollständiger Akte bei der CWaPE, von denen nur sechs tatsächlich Strom teilen. Das ist kein Mangel an Ehrgeiz: es hat nur kaum jemand bemerkt, was das wallonische Recht bereits sagt. Das erste der beiden Nähekriterien einer Erneuerbare-Energie-Gemeinschaft lautet wörtlich „das Gebiet einer einzigen und derselben Gemeinde“. Wallonien ist die einzige der drei Regionen, in der der Gesetzgeber den Perimeter selbst gezogen hat — entlang der Gemeindegrenze."
 description: "In Wallonien ist der Perimeter einer Erneuerbare-Energie-Gemeinschaft das Gemeindegebiet. Was die Gemeinde damit tun kann und zu welchem Preis."
@@ -293,7 +293,7 @@ Die genaue Einordnung hängt vom Modell ab. Es ist eine Frage an den Rechtsdiens
 ## Was OptimCE für Sie tut
 
 Eine Gemeinde vereint mehrere Gebäude, mehrere Partner und Einwohner, die der Gemeinschaft
-beitreten und sie wieder verlassen. OptimCE bündelt diese Verwaltung an einem Ort:
+beitreten und sie wieder verlassen. OptimCE, die [Software für Energiegemeinschaften](/de/funktionen/), bündelt diese Verwaltung an einem Ort:
 
 - **Den Schlüssel anhand echter Daten wählen.** Importieren Sie die Viertelstundenkurven der
   Gemeindegebäude und der Teilnehmer, simulieren Sie dann einen Schlüssel oder lassen Sie das

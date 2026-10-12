@@ -9,7 +9,7 @@ tags: [allocation-key, administrative]
 lang: de
 ref: allocation-key-belgium
 pillar: cle-de-repartition
-last_modified_at: 2026-07-20 10:00:00 +0200
+last_modified_at: 2026-10-11 10:00:00 +0200
 permalink: /de/ratgeber/verteilungsschluessel-energiegemeinschaft-belgien/
 ---
 
@@ -152,7 +152,7 @@ Der Schlüssel entscheidet, **wie viele kWh** jedes Mitglied erhält; er sagt ni
 
 Ein Aufteilungsschlüssel ist keine einmalige Entscheidung. Er lebt mit der Gemeinschaft: ein Mitglied tritt bei, ein anderes geht, die Erzeugung wächst nach dem Hinzufügen eines neuen Dachs, die Hauptversammlung überarbeitet die Prozente, die Regulierungsbehörde validiert einen nicht-standardisierten Schlüssel. Jede Änderung erfordert einen **Nachtrag zur Vereinbarung**, eine **Übermittlung an den VNB** und eine **historische Spur**, die die Gemeinschaft für ihre jährliche Berichterstattung aufbewahren muss.
 
-Genau das bietet **OptimCE** im Kern der Anwendung. Das **Modul „Aufteilungsschlüssel“** des Open-Source-Kerns ermöglicht es Ihnen:
+Genau das bietet **OptimCE** im Kern der Anwendung, um [den eigenen Schlüssel zu generieren und zu simulieren](/de/funktionen/aufteilungsschluessel/). Das **Modul „Aufteilungsschlüssel“** des Open-Source-Kerns ermöglicht es Ihnen:
 
 - Den **Schlüssel direkt auf einer Teilungsoperation** zu konfigurieren, in Übereinstimmung mit den in Ihrer Region anerkannten Typen (CWaPE in der Wallonie, Sibelga in Brüssel, Fluvius in Flandern).
 - Die **vollständige Historie** der über die Zeit angewandten Schlüssel zu verfolgen — nützlich für Nachträge, Nachberechnungen im Streitfall und die Berichterstattung an die Regulierungsbehörde.

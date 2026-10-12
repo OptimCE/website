@@ -8,7 +8,7 @@ ref: pillar-prix-facturation-communaute
 pillar: prix-facturation-communaute
 permalink: /nl/gidsen/prijzen-facturatie/
 breadcrumb_parent: guides
-last_modified_at: 2026-09-26
+last_modified_at: 2026-10-11
 sections:
   - title: "De interne prijs bepalen, daarna factureren"
     refs: [internal-price-shared-energy, invoice-shared-electricity]
@@ -21,4 +21,4 @@ Dan volgt de factuur, of liever de twee facturen die onze gids [“Gedeelde elek
 
 Het is dus de vertegenwoordiger die de verplichtingen draagt. De btw bedraagt 6 % voor een particulier lid en 21 % voor een professioneel lid, zodat een gemeenschap met gemengd ledenbestand aan twee tarieven factureert; onder 25 000 € jaaromzet exclusief btw kan de vrijstellingsregeling voor kleine ondernemingen gelden. Geen enkele circulaire behandelt het energiedelen specifiek: laat uw regeling vóór de eerste factuur nakijken door een boekhouder. Elke factuur draagt een nummer in een doorlopende, sluitende reeks, de gedeelde kWh per EAN met hun eenheidsprijs, een gestructureerde mededeling en het IBAN van de gemeenschap; een uitgereikte factuur corrigeert u alleen met een creditnota, gevolgd door een nieuwe factuur.
 
-Om van de gestemde prijs tot de documenten te komen, genereert de [facturatiemodule van OptimCE]({{ "optimce-billing" | ref_url }}) facturen, creditnota's en vergoedingsafrekeningen op basis van de officiële verdeelgegevens; deze eerste versie is ontworpen voor het Waalse kader. De gidsen hieronder volgen dezelfde draad: eerst de prijs bepalen, dan factureren.
+Om van de gestemde prijs tot de documenten te komen, genereert de [facturatiemodule van OptimCE]({{ "product-billing" | ref_url }}) facturen, creditnota's en vergoedingsafrekeningen op basis van de officiële verdeelgegevens; deze eerste versie is ontworpen voor het Waalse kader. De gidsen hieronder volgen dezelfde draad: eerst de prijs bepalen, dan factureren.

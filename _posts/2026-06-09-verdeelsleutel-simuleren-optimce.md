@@ -8,6 +8,7 @@ description: "Simuleer een sleutel op uw eigen data en meet zelfverbruik, surplu
 tags: [allocation-key, app, news]
 lang: nl
 ref: optimce-allocation-key-simulation
+last_modified_at: 2026-10-11 10:00:00 +0200
 pillar: cle-de-repartition
 permalink: /nl/gidsen/verdeelsleutel-simuleren-optimce/
 faq:
@@ -41,7 +42,7 @@ Simuleren betekent net **die beslissing uit het buikgevoel halen**. U meet het r
 
 ## Wat de simulatie mogelijk maakt
 
-De functie is ingebouwd in de **module “Verdeelsleutels”** van de open-source kern van OptimCE. De gebruikersflow telt slechts enkele stappen:
+De functie is ingebouwd in de **module “Verdeelsleutels”** van de open-source kern van OptimCE (zie [de verdeelsleutel in OptimCE](/nl/functies/verdeelsleutel/)). De gebruikersflow telt slechts enkele stappen:
 
 1. **Importeer een CSV** met verbruiksdata per tijdstap (vaak per kwartier) voor elk lid en productiedata voor elke producent van de deeloperatie. Elke regel van het bestand komt overeen met één tijdstap.
 2. **Kies een verdeelsleutel** om te testen — een standaardsleutel voor uw regio, een bestaande sleutel van de gemeenschap, of een scenario dat u wilt verkennen.

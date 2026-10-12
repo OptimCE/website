@@ -9,7 +9,7 @@ tags: [allocation-key, administrative]
 lang: nl
 ref: allocation-key-belgium
 pillar: cle-de-repartition
-last_modified_at: 2026-07-20 10:00:00 +0200
+last_modified_at: 2026-10-11 10:00:00 +0200
 permalink: /nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/
 ---
 
@@ -152,7 +152,7 @@ De sleutel bepaalt **hoeveel kWh** elk lid krijgt; hij zegt niets over **hoeveel
 
 Een verdeelsleutel is geen eenmalige beslissing. Hij leeft mee met de gemeenschap: een lid treedt toe, een ander vertrekt, de productie stijgt na het toevoegen van een nieuw dak, de algemene vergadering herziet de percentages, de regulator valideert een niet-standaard sleutel. Elke wijziging vereist een **bijlage bij de overeenkomst**, een **overdracht aan de DNB** en een **historisch spoor** dat de gemeenschap moet bewaren voor haar jaarlijkse rapportering.
 
-Dat is precies wat **OptimCE** aanbiedt in de kern van de applicatie. De **module “Verdeelsleutels”** van de open source-kern laat u toe om:
+Dat is precies wat **OptimCE** aanbiedt in de kern van de applicatie, om [uw sleutel te genereren en te simuleren](/nl/functies/verdeelsleutel/). De **module “Verdeelsleutels”** van de open source-kern laat u toe om:
 
 - De **sleutel rechtstreeks op een deelactie te configureren**, in overeenstemming met de types die in uw gewest worden erkend (CWaPE in Wallonië, Sibelga in Brussel, Fluvius in Vlaanderen).
 - De **volledige geschiedenis** van toegepaste sleutels te volgen — nuttig voor bijlages, herrekeningen bij betwisting en regulator­rapportering.

@@ -8,6 +8,7 @@ description: "Deux algorithmes — brute force sur les clés standards et LOGAAS
 tags: [allocation-key, app, guide]
 lang: fr
 ref: optimce-allocation-key-generator
+last_modified_at: 2026-10-11 10:00:00 +0200
 pillar: cle-de-repartition
 # Pinned explicitly, like the three translations. Before `timezone` was set in
 # _config.yml the 00:00 +0200 date built as 05/25 on the UTC CI runner, so that
@@ -40,7 +41,7 @@ La sélection manuelle a donc tendance à sous-utiliser la production disponible
 
 ## Ce que fait le module OptimCE
 
-Le module s'intègre dans le **module « Clés de répartition »** déjà présent dans le cœur open source d'OptimCE. Le workflow est direct :
+Le module s'intègre dans le **module « Clés de répartition »** déjà présent dans le cœur open source d'OptimCE (voir [la clé de répartition dans OptimCE](/fonctionnalites/cle-de-repartition/)). Le workflow est direct :
 
 1. **Entrée** — données de consommation au quart d'heure pour chaque membre, données de production au quart d'heure pour chaque producteur, liste des participants à l'opération de partage, et région (Wallonie / Bruxelles / Flandre) pour que l'algorithme respecte les familles de clés standards correspondantes.
 2. **Choix d'un algorithme** — brute force ou LOGAAS.

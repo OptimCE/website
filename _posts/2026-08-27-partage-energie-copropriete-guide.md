@@ -2,7 +2,7 @@
 layout: post
 title: "Partage d'énergie en copropriété : le guide"
 date: 2026-08-27 06:00:00 +0200
-last_modified_at: 2026-09-26 06:00:00 +0200
+last_modified_at: 2026-10-11 10:00:00 +0200
 author: "Eric d'OptimCE"
 excerpt: "616 135 logements bruxellois et wallons se trouvent dans un immeuble à appartements. En février 2025, la CWaPE recensait quatre opérations de partage au sein d'un même bâtiment en Wallonie. Quatre. Le droit de l'énergie n'y est pour rien : il demande une convention et un formulaire, sans personne morale ni autorisation. Ce sont trois articles du livre 3 du Code civil qui décident réellement — qui peut posséder les panneaux, à quelle majorité, et pour combien de temps le syndic peut signer."
 description: "Trois articles du Code civil décident si votre immeuble peut partager son électricité : propriété des panneaux, majorité en AG, mandat du syndic."
@@ -318,7 +318,7 @@ Le chemin critique n'est ni le vote ni l'administration : ce sont **les compteur
 ## Ce qu'OptimCE fait pour vous
 
 Le partage d'un immeuble se gagne au quart d'heure et se gère sur des années, au fil des
-déménagements et des changements de syndic. OptimCE prend en charge la partie répétitive :
+déménagements et des changements de syndic. OptimCE, [logiciel de gestion de communauté d'énergie](/fonctionnalites/), prend en charge la partie répétitive :
 
 - **Mesurer avant de voter.** Simulez une clé de répartition sur les consommations au quart d'heure
   des logements et du compteur des communs : l'autoconsommation et le surplus apparaissent avant la

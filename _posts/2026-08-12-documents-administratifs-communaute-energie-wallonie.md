@@ -8,6 +8,7 @@ description: "Notification, rapportage annuel, conventions GRD : quels documents
 tags: [administrative, app, guide]
 lang: fr
 ref: cwape-administrative-documents
+last_modified_at: 2026-10-11 10:00:00 +0200
 pillar: communautes-energie
 permalink: /guides/documents-administratifs-communaute-energie-wallonie/
 faq:
@@ -155,7 +156,7 @@ Ces cinq points ont une chose en commun : ils ne demandent aucune intelligence p
 
 ## Ce qu'OptimCE fait désormais
 
-C'est l'objet du bloc de fonctionnalités livré en août 2026 : un module de gestion des documents administratifs, des tableaux de bord, et l'envoi d'e-mails — qui, jusque-là, n'existait pas du tout sur la plateforme.
+C'est l'objet du bloc de fonctionnalités livré en août 2026 : un module de gestion des documents administratifs, des tableaux de bord, et l'envoi d'e-mails — qui, jusque-là, n'existait pas du tout sur la plateforme. Pour une vue d'ensemble, voir comment [préparer le dossier CWaPE dans OptimCE](/fonctionnalites/dossier-cwape/).
 
 ### Onze documents préremplis à partir des fichiers officiels
 
