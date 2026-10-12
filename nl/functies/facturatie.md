@@ -18,7 +18,7 @@ faq:
   - q: "Hoe corrigeert u een factuur die al is uitgereikt?"
     a: "Een uitgereikte factuur heeft een nummer gekregen in een doorlopende nummering: ze kan niet meer worden gewijzigd of verwijderd. Om ze te corrigeren, reikt u een creditnota uit die haar annuleert, en factureert u opnieuw. Zolang een document nog een ontwerp is, kunt u het daarentegen wel verwijderen of herberekenen."
   - q: "Regelt OptimCE de btw?"
-    a: "[À VÉRIFIER : traitement de la TVA par le module de facturation.] De btw-regeling van de gemeenschap (btw-plichtig of niet, de tarieven voor elk lid) legt u vóór de eerste factuur vast met een boekhouder."
+    a: "Gedeeltelijk. De module berekent de btw, maar met één tarief van 21 % voor alle documenten: tarieven die per lid verschillen en de vrijstellingsregeling voor kleine ondernemingen worden nog niet ondersteund. De btw-regeling van de gemeenschap (btw-plichtig of niet, de tarieven voor elk lid) legt u vóór de eerste factuur vast met een boekhouder."
 ---
 
 Elke periode zet de beheerder van een energiegemeenschap de gedeelde volumes om in één factuur
@@ -101,10 +101,12 @@ overschrijving op de rekening van de gemeenschap, en u registreert wat er is bin
 **Documenten in het Frans.** De pdf's worden in het Frans gegenereerd, ongeacht de taal van de
 interface.
 
-**De btw beslist u met een boekhouder.** [À VÉRIFIER : traitement de la TVA par le module de facturation.]
-De regeling van de gemeenschap, btw-plichtig of niet en tegen welke tarieven per lid, legt u vast
-vóór de eerste factuur: onze gids over het factureren van gedeelde elektriciteit zet de gevallen op
-een rij.
+**Voorlopig één btw-tarief.** De module past vandaag een tarief van 21 % toe op alle documenten.
+Gedifferentieerde tarieven, zoals het verlaagde tarief van 6 % op de elektriciteit van een gezin, en
+de vrijstellingsregeling voor kleine ondernemingen worden nog niet ondersteund. De regeling van de
+gemeenschap, btw-plichtig of niet en tegen welke tarieven per lid, legt u vast vóór de eerste
+factuur met een boekhouder: onze gids over het factureren van gedeelde elektriciteit zet de gevallen
+op een rij.
 
 ## Veelgestelde vragen {#faq}
 
@@ -131,9 +133,10 @@ verwijderen of herberekenen.
 
 ### Regelt OptimCE de btw?
 
-[À VÉRIFIER : traitement de la TVA par le module de facturation.] De btw-regeling van de
-gemeenschap (btw-plichtig of niet, de tarieven voor elk lid) legt u vóór de eerste factuur vast met
-een boekhouder.
+Gedeeltelijk. De module berekent de btw, maar met één tarief van 21 % voor alle documenten: tarieven
+die per lid verschillen en de vrijstellingsregeling voor kleine ondernemingen worden nog niet
+ondersteund. De btw-regeling van de gemeenschap (btw-plichtig of niet, de tarieven voor elk lid)
+legt u vóór de eerste factuur vast met een boekhouder.
 
 ## Verder lezen
 

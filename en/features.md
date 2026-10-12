@@ -33,6 +33,9 @@ does **today**, in its alpha version, without announcing anything that has not s
 - **Several communities, one instance**: a single OptimCE installation runs several energy
   communities.
 
+To set up a community in the right order, from its creation to the first invoice, follow
+[getting started on OptimCE]({{ "product-getting-started" | ref_url }}).
+
 ## Allocation keys: configure, generate, simulate
 
 The allocation key decides, quarter-hour by quarter-hour, who receives which share of local
@@ -110,6 +113,9 @@ Anyone can browse it to find an operation open to new members.
 - **Integrations**: an event-driven architecture (NATS) lets you plug in third-party tools such as
   an energy management system, and a REST API lets you integrate OptimCE into your own tools.
 - **Multilingual**: the interface is available in French, English, Dutch and German.
+
+The details are on the [open source and self-hosting]({{ "product-open-source" | ref_url }}) page,
+and what is free, and for how long, on the [pricing]({{ "pricing" | ref_url }}) page.
 
 ## What the platform does not do
 

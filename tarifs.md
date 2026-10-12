@@ -11,13 +11,13 @@ product_page: true
 last_modified_at: 2026-10-11
 faq:
   - q: "Est-ce vraiment gratuit ?"
-    a: "Oui. OptimCE Cloud, la version hébergée, est gratuit pendant toute la phase alpha. L'auto-hébergement est gratuit et sans restriction. Les deux donnent accès aux mêmes fonctionnalités."
+    a: "Oui. OptimCE Cloud, la version hébergée, est gratuit pendant toute la phase alpha, services annexes compris. L'auto-hébergement est gratuit et sans restriction. Les deux donnent accès aux mêmes fonctionnalités."
   - q: "Que se passe-t-il après l'alpha ?"
     a: "Une offre payante pourra voir le jour plus tard pour OptimCE Cloud. Les utilisateurs de l'alpha seront prévenus bien à l'avance. L'auto-hébergement, lui, restera gratuit."
   - q: "Puis-je l'héberger moi-même ?"
     a: "Oui. Tout le code est publié sous licence Apache 2.0 : vous pouvez installer OptimCE sur votre propre infrastructure, gratuitement et sans restriction, y compris dans un cadre professionnel. Vous assurez alors vous-même l'hébergement, les mises à jour et la disponibilité."
   - q: "Mes données m'appartiennent-elles ?"
-    a: "[À VÉRIFIER : propriété, export et suppression des données dans OptimCE Cloud.] La politique de confidentialité d'optimce.be ne couvre que le site : l'application, hébergée chez Hostinger, fait l'objet d'une information dédiée à l'intérieur de l'application."
+    a: "La politique de confidentialité d'optimce.be ne couvre que le site : l'application, hébergée chez Hostinger, fait l'objet d'une information dédiée à l'intérieur de l'application. En auto-hébergement, les données restent sur votre propre infrastructure."
 ---
 
 OptimCE est en version alpha. Pendant cette phase, l'application hébergée est gratuite, et
@@ -42,11 +42,11 @@ seule différence est qui héberge l'application.
 
 ### Ce que la gratuité couvre
 
-Pendant l'alpha, OptimCE Cloud est entièrement gratuit, avec toutes ses fonctionnalités : les
-membres et les compteurs, les clés de répartition avec
-leur génération et leur simulation, la facturation de l'énergie partagée, les documents
-administratifs de la CWaPE, le tableau d'actualités et les sondages. Le détail est sur la page du
-[logiciel de gestion de communauté d'énergie]({{ "features" | ref_url }}).
+Pendant l'alpha, OptimCE Cloud est entièrement gratuit, avec toutes ses fonctionnalités et les
+services annexes compris : les membres et les compteurs, les clés de répartition avec leur
+génération et leur simulation, la facturation de l'énergie partagée, les documents administratifs de
+la CWaPE, le tableau d'actualités et les sondages. Le détail est sur la page du [logiciel de gestion
+de communauté d'énergie]({{ "features" | ref_url }}).
 
 ## Ce qui pourrait changer
 
@@ -66,8 +66,8 @@ préavis : ni prix, ni formule, ni niveau de service.
 
 ### Est-ce vraiment gratuit ?
 
-Oui. OptimCE Cloud, la version hébergée, est gratuit pendant toute la phase alpha.
-L'auto-hébergement est gratuit et sans restriction. Les deux donnent accès aux mêmes
+Oui. OptimCE Cloud, la version hébergée, est gratuit pendant toute la phase alpha, services annexes
+compris. L'auto-hébergement est gratuit et sans restriction. Les deux donnent accès aux mêmes
 fonctionnalités.
 
 ### Que se passe-t-il après l'alpha ?
@@ -83,9 +83,9 @@ Vous assurez alors vous-même l'hébergement, les mises à jour et la disponibil
 
 ### Mes données m'appartiennent-elles ?
 
-[À VÉRIFIER : propriété, export et suppression des données dans OptimCE Cloud.] La politique de
-confidentialité d'optimce.be ne couvre que le site : l'application, hébergée chez Hostinger, fait
-l'objet d'une information dédiée à l'intérieur de l'application.
+La politique de confidentialité d'optimce.be ne couvre que le site : l'application, hébergée chez
+Hostinger, fait l'objet d'une information dédiée à l'intérieur de l'application. En
+auto-hébergement, les données restent sur votre propre infrastructure.
 
 ## Pour aller plus loin
 

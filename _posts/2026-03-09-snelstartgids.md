@@ -2,7 +2,7 @@
 layout: post
 title: "OptimCE installeren: snelstartgids"
 date: 2026-03-09 14:00:00 +0100
-last_modified_at: 2026-07-26 10:00:00 +0200
+last_modified_at: 2026-10-11 10:00:00 +0200
 author: "Eric van OptimCE"
 excerpt: "Twee manieren om met OptimCE te starten: de gehoste versie, zonder iets te installeren, of een lokale uitrol van de volledige stack met Docker Compose. Vereisten, klonen met submodules, omgevingsvariabelen en eerste start, stap voor stap."
 description: "Vereisten, repository klonen, omgevingsvariabelen en eerste start: OptimCE lokaal installeren, stap voor stap."
@@ -27,7 +27,7 @@ Er zijn twee manieren om met OptimCE te starten, en welke de juiste is hangt voo
 
 Beheert u een energiegemeenschap en wilt u gewoon het gereedschap, dan is **[OptimCE Cloud](https://app.optimce.be)** de gehoste versie: geen installatie, geen onderhoud, en tijdens de alpha momenteel gratis. Ga meteen naar de [gebruikersgids](https://guide.optimce.be).
 
-Bent u een technisch team dat het platform zelf wil draaien, de volledige controle over de data wil houden of aan de code wil bijdragen, dan is deze gids voor u. Hij beschrijft de lokale uitrol van de volledige stack.
+Bent u een technisch team dat het platform zelf wil draaien, de volledige controle over de data wil houden of aan de code wil bijdragen, dan is deze gids voor u. Hij beschrijft de lokale uitrol van de volledige stack. Bekijk voordat u begint wat [OptimCE zelf hosten](/nl/functies/open-source/) inhoudt.
 
 ## Wat u gaat uitrollen
 

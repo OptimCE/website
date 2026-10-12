@@ -34,6 +34,9 @@ opgeleverd. De [gebruikershandleiding](https://guide.optimce.be) licht daarna el
 - **Meerdere gemeenschappen, één instantie**: één installatie van OptimCE beheert meerdere
   energiegemeenschappen.
 
+Om een gemeenschap in de juiste volgorde in te stellen, van het aanmaken tot de eerste factuur,
+volgt u de stappen op de pagina [een gemeenschap starten op OptimCE]({{ "product-getting-started" | ref_url }}).
+
 ## Verdeelsleutels: instellen, genereren, simuleren
 
 De verdeelsleutel bepaalt, kwartier per kwartier, wie welk deel van de lokale productie krijgt.
@@ -115,6 +118,9 @@ ingebouwd. Iedereen kan het doorzoeken om een deelactie te vinden die openstaat 
   te sluiten, zoals een energiebeheersysteem, en met een REST-API integreert u OptimCE in uw eigen
   tools.
 - **Meertalig**: de interface bestaat in het Frans, Engels, Nederlands en Duits.
+
+Alles daarover staat op de pagina [opensource en zelf hosten]({{ "product-open-source" | ref_url }}),
+en wat gratis is, en voor hoelang, op de pagina [prijzen]({{ "pricing" | ref_url }}).
 
 ## Wat het platform niet doet
 

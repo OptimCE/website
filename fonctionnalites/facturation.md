@@ -18,7 +18,7 @@ faq:
   - q: "Comment corriger une facture déjà émise ?"
     a: "Une facture émise a reçu un numéro dans une numérotation continue : elle ne se modifie plus et ne se supprime plus. Pour la corriger, vous émettez une note de crédit qui l'annule, puis vous refacturez. Tant qu'un document est au stade de brouillon, vous pouvez au contraire le supprimer ou le recalculer."
   - q: "OptimCE gère-t-il la TVA ?"
-    a: "[À VÉRIFIER : traitement de la TVA par le module de facturation.] Le régime de TVA de la communauté (assujettissement, taux applicables à chaque membre) se décide avec un comptable avant la première facture."
+    a: "En partie. Le module calcule la TVA, mais avec un taux unique de 21 % pour tous les documents : les taux qui varient selon le membre et la franchise de TVA ne sont pas encore gérés. Le régime de TVA de la communauté (assujettissement, taux applicables à chaque membre) se décide avec un comptable avant la première facture."
 ---
 
 À chaque période, le gestionnaire d'une communauté d'énergie transforme les volumes partagés en
@@ -98,10 +98,11 @@ par virement sur le compte de la communauté, et vous enregistrez ce qui est arr
 **Des documents en français.** Les PDF sont générés en français, quelle que soit la langue de
 l'interface.
 
-**La TVA se décide avec un comptable.** [À VÉRIFIER : traitement de la TVA par le module de
-facturation.] Le régime de la communauté, assujettie ou non et à quels taux selon les membres,
-se tranche avant la première facture : notre guide sur la facturation de l'électricité partagée
-présente les cas.
+**Un taux de TVA unique, pour l'instant.** Le module applique aujourd'hui un taux de 21 % à tous les
+documents. Les taux différenciés, comme le taux réduit de 6 % sur l'électricité d'un ménage, et la
+franchise de TVA ne sont pas encore gérés. Le régime de la communauté, assujettie ou non et à quels
+taux selon les membres, se décide avec un comptable avant la première facture : notre guide sur la
+facturation de l'électricité partagée présente les cas.
 
 ## Questions fréquentes {#faq}
 
@@ -128,9 +129,10 @@ le recalculer.
 
 ### OptimCE gère-t-il la TVA ?
 
-[À VÉRIFIER : traitement de la TVA par le module de facturation.] Le régime de TVA de la
-communauté (assujettissement, taux applicables à chaque membre) se décide avec un comptable avant
-la première facture.
+En partie. Le module calcule la TVA, mais avec un taux unique de 21 % pour tous les documents : les
+taux qui varient selon le membre et la franchise de TVA ne sont pas encore gérés. Le régime de TVA
+de la communauté (assujettissement, taux applicables à chaque membre) se décide avec un comptable
+avant la première facture.
 
 ## Pour aller plus loin
 

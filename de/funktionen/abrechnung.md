@@ -18,7 +18,7 @@ faq:
   - q: "Wie korrigiert man eine bereits ausgestellte Rechnung?"
     a: "Eine ausgestellte Rechnung hat eine Nummer in einer lückenlosen Nummerierung erhalten: Sie lässt sich weder ändern noch löschen. Zur Korrektur stellen Sie eine Gutschrift aus, die sie annulliert, und rechnen dann neu ab. Solange ein Dokument noch ein Entwurf ist, können Sie es dagegen löschen oder neu berechnen."
   - q: "Wie geht OptimCE mit der MwSt. um?"
-    a: "[À VÉRIFIER : traitement de la TVA par le module de facturation.] Die MwSt.-Regelung der Gemeinschaft (MwSt.-Pflicht, für jedes Mitglied geltende Sätze) wird vor der ersten Rechnung mit einem Buchhalter festgelegt."
+    a: "Teilweise. Das Modul berechnet die MwSt., aber mit einem einheitlichen Satz von 21 % für alle Dokumente: je nach Mitglied unterschiedliche Sätze und die Mehrwertsteuerbefreiung für Kleinunternehmen werden noch nicht unterstützt. Die MwSt.-Regelung der Gemeinschaft (MwSt.-Pflicht, für jedes Mitglied geltende Sätze) wird vor der ersten Rechnung mit einem Buchhalter festgelegt."
 ---
 
 In jeder Periode verwandelt der Verwalter einer Energiegemeinschaft die geteilten Mengen in eine
@@ -101,9 +101,11 @@ stellt weiterhin der Lieferant jedes Mitglieds zu dessen Vertragstarif in Rechnu
 **Dokumente auf Französisch.** Die PDF werden auf Französisch erzeugt, unabhängig von der Sprache
 der Oberfläche.
 
-**Die MwSt. klären Sie mit einem Buchhalter.** [À VÉRIFIER : traitement de la TVA par le module de facturation.]
-Die Regelung der Gemeinschaft, ob mehrwertsteuerpflichtig oder nicht und zu welchen Sätzen je nach
-Mitglied, wird vor der ersten Rechnung entschieden: Unser Leitfaden zur Abrechnung von geteiltem
+**Vorerst ein einheitlicher MwSt.-Satz.** Das Modul wendet derzeit auf alle Dokumente einen Satz von
+21 % an. Unterschiedliche Sätze, etwa der ermäßigte Satz von 6 % auf den Strom eines Haushalts, und
+die Mehrwertsteuerbefreiung für Kleinunternehmen werden noch nicht unterstützt. Die Regelung der
+Gemeinschaft, ob mehrwertsteuerpflichtig oder nicht und zu welchen Sätzen je nach Mitglied, wird vor
+der ersten Rechnung mit einem Buchhalter entschieden: Unser Leitfaden zur Abrechnung von geteiltem
 Strom stellt die Fälle vor.
 
 ## Häufige Fragen {#faq}
@@ -131,9 +133,10 @@ oder neu berechnen.
 
 ### Wie geht OptimCE mit der MwSt. um?
 
-[À VÉRIFIER : traitement de la TVA par le module de facturation.] Die MwSt.-Regelung der
-Gemeinschaft (MwSt.-Pflicht, für jedes Mitglied geltende Sätze) wird vor der ersten Rechnung mit
-einem Buchhalter festgelegt.
+Teilweise. Das Modul berechnet die MwSt., aber mit einem einheitlichen Satz von 21 % für alle
+Dokumente: je nach Mitglied unterschiedliche Sätze und die Mehrwertsteuerbefreiung für
+Kleinunternehmen werden noch nicht unterstützt. Die MwSt.-Regelung der Gemeinschaft (MwSt.-Pflicht,
+für jedes Mitglied geltende Sätze) wird vor der ersten Rechnung mit einem Buchhalter festgelegt.
 
 ## Weiterlesen
 

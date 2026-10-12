@@ -18,7 +18,7 @@ faq:
   - q: "How do you correct an invoice that has already been issued?"
     a: "An issued invoice has received a number in a continuous sequence: it can no longer be modified or deleted. To correct it, you issue a credit note that cancels it, then invoice again. While a document is still a draft, on the other hand, you can delete or recalculate it."
   - q: "Does OptimCE handle VAT?"
-    a: "[À VÉRIFIER : traitement de la TVA par le module de facturation.] The community's VAT regime (whether it is liable, and the rates that apply to each member) is decided with an accountant before the first invoice."
+    a: "Partly. The module calculates VAT, but with a single 21% rate for every document: rates that differ by member and the small-business VAT exemption are not handled yet. The community's VAT regime (whether it is liable, and the rates that apply to each member) is decided with an accountant before the first invoice."
 ---
 
 Every period, the manager of an energy community turns the shared volumes into one invoice per
@@ -96,9 +96,10 @@ transfer into the community's account, and you record what has arrived.
 
 **Documents in French.** The PDFs are generated in French, whatever the interface language.
 
-**VAT is decided with an accountant.**
-[À VÉRIFIER : traitement de la TVA par le module de facturation.] The community's regime, whether
-it is liable for VAT and at which rates depending on the member, is settled before the first
+**A single VAT rate, for now.** The module currently applies a 21% rate to every document.
+Differentiated rates, such as the reduced 6% rate on a household's electricity, and the
+small-business VAT exemption are not handled yet. The community's regime, whether it is liable for
+VAT and at which rates depending on the member, is settled with an accountant before the first
 invoice: our guide to invoicing shared electricity sets out the cases.
 
 ## Frequently asked questions {#faq}
@@ -124,9 +125,10 @@ document is still a draft, on the other hand, you can delete or recalculate it.
 
 ### Does OptimCE handle VAT?
 
-[À VÉRIFIER : traitement de la TVA par le module de facturation.] The community's VAT regime
-(whether it is liable, and the rates that apply to each member) is decided with an accountant
-before the first invoice.
+Partly. The module calculates VAT, but with a single 21% rate for every document: rates that differ
+by member and the small-business VAT exemption are not handled yet. The community's VAT regime
+(whether it is liable, and the rates that apply to each member) is decided with an accountant before
+the first invoice.
 
 ## Further reading
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Install OptimCE: quick start guide"
 date: 2026-03-09 14:00:00 +0100
-last_modified_at: 2026-07-26 10:00:00 +0200
+last_modified_at: 2026-10-11 10:00:00 +0200
 author: "Eric from OptimCE"
 excerpt: "Two ways to get started with OptimCE: the hosted version, with nothing to install, or a local deployment of the full stack with Docker Compose. Prerequisites, cloning with submodules, environment variables and first run, step by step."
 description: "Prerequisites, cloning the repository, environment variables and first run: install OptimCE locally, step by step."
@@ -27,7 +27,7 @@ There are two ways to start with OptimCE, and the right one depends mostly on wh
 
 If you run an energy community and simply want the tool, **[OptimCE Cloud](https://app.optimce.be)** is the hosted version: no installation, no maintenance, and currently free while in alpha. Go straight to the [user guide](https://guide.optimce.be).
 
-If you are a technical team that wants to host the platform, keep full control of the data, or contribute to the code, this guide is for you. It covers deploying the full stack locally.
+If you are a technical team that wants to host the platform, keep full control of the data, or contribute to the code, this guide is for you. It covers deploying the full stack locally. Before you start, see what it takes to [self-host OptimCE](/en/features/open-source/).
 
 ## What you are about to deploy
 

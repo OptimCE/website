@@ -35,6 +35,9 @@ jeden Bildschirm.
 - **Mehrere Gemeinschaften, eine Instanz**: eine einzige OptimCE-Installation verwaltet mehrere
   Energiegemeinschaften.
 
+Um eine Gemeinschaft der Reihe nach einzurichten, vom Anlegen bis zur ersten Rechnung, folgen Sie
+den [ersten Schritten mit OptimCE]({{ "product-getting-started" | ref_url }}).
+
 ## Aufteilungsschlüssel: konfigurieren, generieren, simulieren
 
 Der Aufteilungsschlüssel legt Viertelstunde für Viertelstunde fest, wer welchen Anteil der lokalen
@@ -117,6 +120,9 @@ Operation zu finden.
   Drittanbietern anzuschließen, etwa ein Energiemanagementsystem, und eine REST-API bindet OptimCE
   in Ihre eigenen Werkzeuge ein.
 - **Mehrsprachig**: die Oberfläche gibt es auf Französisch, Englisch, Niederländisch und Deutsch.
+
+Die Einzelheiten stehen auf der Seite [Open Source und Selbst-Hosting]({{ "product-open-source" | ref_url }});
+was kostenlos ist, und wie lange, steht auf der Seite [Preise]({{ "pricing" | ref_url }}).
 
 ## Was die Plattform nicht tut
 
