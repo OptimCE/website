@@ -21,6 +21,13 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0   # glossary pages are dated from git (build + scripts/check_seo.py)
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: GRD lookup vectors (data release)
+        # The browser lookup core (assets/js/dso-lookup-core.js) against the
+        # shared test vectors of the release in _data/dso, before any build.
+        run: node --test scripts/dso-lookup.test.mjs
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.4'
@@ -41,8 +48,24 @@ jobs:
         # JSON-LD references and unpublished editorial markers: checks that need
         # the whole built site at once.
         run: python scripts/check_site.py --site _site
+      - name: GRD data and dates
+        # A published (non-draft) release in _data/dso, intact against its
+        # SHA256SUMS; the GRD tool pages' sitemap lastmod equal to the formula
+        # of scripts/dso_dates.py; one browser JSON of that version; and no
+        # call to the clock, file dates or git in _plugins/dso_pages.rb.
+        run: python scripts/check_dso_dates.py --site _site --require-release
+      - name: GRD lookup vectors (built JSON)
+        # The same vectors through the JSON _plugins/dso_pages.rb wrote: it
+        # must answer every postcode exactly as the CSV does.
+        run: node --test scripts/dso-lookup.test.mjs
+        env:
+          DSO_JSON_DIR: _site/assets/data
       - name: Minify JavaScript
-        run: npx --yes terser _site/assets/js/main.js -o _site/assets/js/main.js -c -m
+        # The GRD modules are ES modules (--module): their exports keep their names.
+        run: |
+          npx --yes terser _site/assets/js/main.js -o _site/assets/js/main.js -c -m
+          npx --yes terser@5 _site/assets/js/dso-lookup-core.js -o _site/assets/js/dso-lookup-core.js --module -c -m
+          npx --yes terser@5 _site/assets/js/grd-lookup.js -o _site/assets/js/grd-lookup.js --module -c -m
       - uses: actions/upload-pages-artifact@v3
       - name: Upload sitemap for IndexNow
         uses: actions/upload-artifact@v4

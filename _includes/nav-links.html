@@ -1,10 +1,16 @@
 {%- comment -%}
   Site sections as <li> items, in menu order: Home, Features, Guides,
-  Solutions, Glossary, News, About, User guide. Shared by the desktop menu,
-  the mobile menu and the footer so the three never drift apart.
+  Solutions, Tools, Glossary, News, About, User guide. Shared by the desktop
+  menu, the mobile menu and the footer so the three never drift apart.
+  Tools shows only in the languages where its hub exists (ref "tools", mapped
+  by _plugins/site_graph.rb). In a language whose desktop bar has no room for
+  it (nav.tools_footer_only in _data/i18n/<lang>.yml: Dutch, measured
+  2026-10-18, see DESIGN.md, Layout), it stays in the footer only,
+  like the pricing link, and leaves both menus.
   Params:
     current  true to mark the current section with aria-current
     home     false to leave out Home (the desktop bar, where the logo is home)
+    footer   true in the footer, which lists Tools wherever its hub exists
   A section is current when the page URL starts with that section's path for
   the page's language (_config.yml languages[].<section>_path).
 {%- endcomment -%}
@@ -12,11 +18,15 @@
 {%- assign nav_t = site.data.i18n[nav_lang] -%}
 {%- assign nav_cl = site.languages | where: "code", nav_lang | first -%}
 {%- assign nav_home = nav_cl.prefix | append: '/' -%}
-{%- assign nav_sections = "features,guides,solutions,glossary,blog,about" | split: "," %}
+{%- assign nav_sections = "features,guides,solutions,tools,glossary,blog,about" | split: "," %}
 {%- unless include.home == false %}
 <li><a href="{{ nav_home | relative_url }}"{% if include.current and page.url == nav_home %} aria-current="page"{% endif %}>{{ nav_t.nav.home }}</a></li>
 {%- endunless %}
 {%- for nav_key in nav_sections %}
+  {%- if nav_key == 'tools' %}
+    {%- if site.data.translations.tools[nav_lang] == nil %}{% continue %}{% endif %}
+    {%- if nav_t.nav.tools_footer_only and include.footer != true %}{% continue %}{% endif %}
+  {%- endif -%}
   {%- assign nav_path_key = nav_key | append: '_path' -%}
   {%- assign nav_path = nav_cl[nav_path_key] -%}
   {%- assign nav_head = page.url | slice: 0, nav_path.size %}

@@ -20,6 +20,7 @@ nav:
   guide: "User Guide"
   privacy: "Privacy"
   pricing: "Pricing"
+  tools: "Tools"
 # Hero (_includes/hero.html) and the quarter-hour grid
 # (_includes/quarter-hour-grid.html). In grid strings, assets/js/main.js fills
 # {time} {n} {kwh} {members} {date}; {h}/{hh} = hour, {m} = minutes.
@@ -148,6 +149,7 @@ newsletter:
   subtitle: >-
     New features, early access to the alpha, and project milestones —
     straight to your inbox. Free, no spam.
+  strip_lead: "New features, early access and project milestones, straight to your inbox. Free, no spam."
   benefits:
     - "New features as soon as they ship"
     - "Early access to what we're building"
@@ -196,6 +198,139 @@ product_cta:
   app: "Open the app"
   demo: "Try the demo"
   guide: "Follow the step-by-step guide"
+
+# GRD tool ("Find my DSO", ref tool-dso) and its municipality table
+# (ref tool-dso-list). Same keys as the grd_tool block of fr.yml, which
+# documents where each string goes. Editing a string changes a published
+# page: bump the tool page's last_modified_at (ui, regional) or
+# DSO_TEMPLATE_REVISION in _plugins/dso_pages.rb (table, regions, provinces,
+# regulators, flags).
+grd_tool:
+  ui:
+    form_label: "Find your distribution system operator"
+    label: "Postcode"
+    hint: "The 4 digits of your postcode, for example 1000."
+    submit: "Search"
+    loading: "Loading the data…"
+    load_error: "The data could not be loaded. Try again in a moment, or use the table by municipality."
+    invalid: "Enter a 4-digit Belgian postcode."
+    not_found: "No municipality matches the postcode {postcode} in our data."
+    choose_commune: "The postcode {postcode} covers several municipalities. Which one is yours?"
+    choose_section: "In {commune}, the operator depends on the section of the municipality (the former municipality). Which one is yours?"
+    choose_status: "Several answers are possible: choose yours from the list."
+    choose_missing: "Choose an answer from the list."
+    show: "Show"
+    status_ok: "Result for {place}."
+    meta_province: "Province: {province}"
+    elec_title: "Electricity"
+    gas_title: "Natural gas"
+    regulator_title: "Regulator and tariffs"
+    check_title: "How to check"
+    sharing_title: "Energy sharing"
+    notes_title: "Good to know"
+    website: "Website: {site}"
+    legal_name: "Legal entity: {legal_name}"
+    operator_differs: "Network operated by: {operator}. Operator designated for the municipality: {designated}."
+    valid_from: "In force since {date}."
+    to_confirm: "This information is still to be confirmed: check it on your bill."
+    gas_none: "No gas DSO designated in your municipality."
+    gas_street: "A designated gas DSO does not mean that the gas network runs down your street: ask this operator."
+    gas_foreign: "This operator is based outside Belgium."
+    check_text: "For a household, the annual electricity statement or closing invoice gives the name and phone number of the distribution system operator to call in the event of a power cut. Your energy bill also shows the EAN code of your supply point, with a separate code for electricity and for gas."
+    check_link: "Read your Belgian electricity bill line by line"
+    data_line: "Data as of {date} (version {version})"
+    draft: "Working data, not yet published: do not rely on it."
+    sources: "Sources"
+    report: "Report an error"
+    report_subject: "Find my DSO: error in the data"
+    report_body: "Data version: {version}"
+    copy_link: "Copy the link"
+    copied: "Link copied."
+    copy_failed: "Copying failed: copy the page address instead."
+    noscript: "The postcode search needs JavaScript. The table by municipality gives the same information."
+    table_link: "See the DSO of every municipality in the table"
+  regional:
+    WAL:
+      regulator: "In Wallonia, the CWaPE oversees the network tariffs of the distribution system operators."
+      tariffs: "Network tariffs on the CWaPE website (in French)"
+      tariffs_url: "https://www.cwape.be/acteur/tarif-distribution"
+      sharing: "In Wallonia, you can share electricity within an energy community. Our guides explain how to join one or create one, and OptimCE handles the day-to-day running: members, meters, allocation keys, billing."
+      join: "Join an energy community in Wallonia"
+      create: "Create an energy community in Wallonia"
+      features: "What OptimCE does"
+    BRU:
+      regulator: "In Brussels, the regulator is Brugel: it publishes Sibelga's distribution tariffs."
+      tariffs: "Distribution tariffs on the Brugel website (in French and Dutch)"
+      tariffs_url: "https://brugel.brussels/themes/tarifs-de-distribution-12"
+      sharing: "Brugel explains energy sharing in Brussels on a dedicated website. OptimCE currently covers the Walloon framework: Brussels is planned, but not yet implemented."
+      sharing_link: "Energy sharing, on the Brugel website (in French and Dutch)"
+      sharing_url: "https://energysharing.brugel.brussels/"
+    VLA:
+      regulator: "In Flanders, the VREG publishes the approved distribution tariffs of each distribution system operator."
+      tariffs: "Distribution tariffs on the VREG website (in Dutch)"
+      tariffs_url: "https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/nettarieven/hoeveel-bedragen-de-distributienettarieven"
+      sharing: "The VREG explains energy communities and energy sharing in Flanders. OptimCE currently covers the Walloon framework: Flanders is planned, but not yet implemented."
+      sharing_link: "Energy communities, on the VREG website (in Dutch)"
+      sharing_url: "https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/energieprijzen-en-facturen/energiegemeenschappen"
+  table:
+    date_format: "%d/%m/%Y"
+    data_date: "Data last modified: {date}"
+    draft: "Working data, not yet published: this table is for testing."
+    regions_label: "Go to a region"
+    communes_count: "{n} municipalities"
+    communes_count_one: "1 municipality"
+    regulator: "Regulator: "
+    commune: "Municipality"
+    postcodes: "Postcodes"
+    elec: "Electricity"
+    gas: "Gas"
+    notes: "Notes"
+    designated: "Designated DSO: {name}"
+    gas_none: "No gas DSO designated"
+    gas_foreign: "{name} (operator based outside Belgium)"
+    valid_from: "Since {date}."
+    sources_title: "Sources"
+    sources_intro: "The data are compiled by OptimCE from the sources below; each source keeps its own licence."
+    role: "role: "
+    roles:
+      R: "legal reference"
+      M: "open data"
+      C: "cross-check"
+      X: "differentiation only"
+    retrieved: "accessed on {date}"
+    license: "licence: {license}"
+    attribution_title: "Source attributions"
+    attribution_intro: "The attribution text published with the data:"
+  regions:
+    BRU: "Brussels-Capital Region"
+    VLA: "Flemish Region"
+    WAL: "Walloon Region"
+  provinces:
+    BE-VAN: "Antwerp"
+    BE-VBR: "Flemish Brabant"
+    BE-VLI: "Limburg"
+    BE-VOV: "East Flanders"
+    BE-VWV: "West Flanders"
+    BE-WBR: "Walloon Brabant"
+    BE-WHT: "Hainaut"
+    BE-WLG: "Liège"
+    BE-WLX: "Luxembourg"
+    BE-WNA: "Namur"
+  regulators:
+    BE-BRU-BRUGEL:
+      name: "Brugel"
+      url: "https://www.brugel.brussels/"
+    BE-VLA-VREG:
+      name: "VREG"
+      url: "https://www.vlaamsenutsregulator.be/"
+    BE-WAL-CWAPE:
+      name: "CWaPE"
+      url: "https://www.cwape.be/"
+  flags:
+    transition: "Recent change of operator"
+    operator_differs: "Operator differs from the designated DSO"
+    to_confirm: "Information to be confirmed"
+    propane_note: "Propane network in the municipality"
 
 # Article page (_layouts/post.html)
 post:

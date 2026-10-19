@@ -1,0 +1,539 @@
+// Tools section: the tool pages (_layouts/tool.html), the GRD lookup
+// (_includes/dso-tool.html, assets/js/grd-lookup.js) and its municipality
+// table (_layouts/tool-dso-list.html). Built from the existing tokens only:
+// controls take --color-border-strong and --radius-md, panels --radius-lg,
+// the result reads like the tinted .post-cta panel. DESIGN.md, "Tools".
+
+// --- Tool page ---------------------------------------------------------------------------
+
+.tool__main {
+  min-width: 0;
+}
+
+// The tool comes first: below 1200px the rail (its "On this page" list and
+// app card) is left out rather than pushed above the form.
+.tool__rail {
+  @media (max-width: ($bp-xl - 1px)) {
+    display: none;
+  }
+}
+
+.tool__text {
+  margin-top: var(--space-12);
+}
+
+// --- The lookup ------------------------------------------------------------------------
+
+.dso-tool {
+  font-size: var(--text-body);
+}
+
+// Until the module has wired it, the form keeps its room (no layout shift)
+// but cannot be seen, focused or submitted; without JavaScript, head.html
+// takes it out of the page and the noscript notice remains.
+.dso-form[data-dso-pending] {
+  visibility: hidden;
+}
+
+.dso-form__label {
+  display: block;
+  margin-bottom: var(--space-1);
+  font-family: var(--font-heading);
+  font-size: var(--text-lg);
+  font-weight: var(--weight-semibold);
+  color: var(--color-heading);
+}
+
+.dso-form__hint {
+  margin: 0 0 var(--space-3);
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+}
+
+.dso-form__row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-3);
+
+  .btn {
+    min-height: 3rem;
+  }
+}
+
+.dso-form__input {
+  width: 8rem;
+  min-height: 3rem;
+  padding: 0.5rem 0.875rem;
+  font-family: var(--font-heading);
+  font-size: var(--text-xl);
+  font-weight: var(--weight-semibold);
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.08em;
+  color: var(--color-text);
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-border-strong);
+  border-radius: var(--radius-md);
+
+  // Invalid: a 2px border in the error colour (padding keeps the text still).
+  &[aria-invalid="true"] {
+    padding: calc(0.5rem - 1px) calc(0.875rem - 1px);
+    border: 2px solid var(--color-error);
+  }
+}
+
+// role="alert", always in the page (a hidden one is not announced): it only
+// takes room when it holds the error.
+.dso-form__error {
+  margin: var(--space-2) 0 0;
+  font-size: var(--text-sm);
+  font-weight: var(--weight-semibold);
+  color: var(--color-error);
+
+  &:empty {
+    margin: 0;
+  }
+}
+
+.dso-output {
+  margin-top: var(--space-6);
+}
+
+// The live region stays in the page (a hidden one is not announced); it only
+// takes room when it has something to say.
+.dso-output__status {
+  margin: 0 0 var(--space-4);
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+
+  &:empty {
+    margin: 0;
+  }
+}
+
+.dso-output__message {
+  font-weight: var(--weight-semibold);
+  color: var(--color-heading);
+}
+
+.dso-tool__noscript {
+  margin-top: var(--space-4);
+  padding: var(--space-4) var(--space-5);
+  background-color: var(--color-bg-alt);
+  border-left: 3px solid var(--color-primary);
+  border-radius: 0 var(--radius-md) var(--radius-md) 0;
+}
+
+.dso-tool__table-link {
+  margin: var(--space-5) 0 0;
+  font-size: var(--text-sm);
+
+  a {
+    text-decoration: underline;
+  }
+}
+
+// --- Choice: a radio group and a "Show" button ------------------------------------------
+
+.dso-choice {
+  padding: var(--space-5);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+}
+
+.dso-choice__fieldset {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  min-width: 0;
+}
+
+.dso-choice__legend {
+  margin-bottom: var(--space-3);
+  padding: 0;
+  font-family: var(--font-heading);
+  font-weight: var(--weight-semibold);
+  color: var(--color-heading);
+}
+
+.dso-choice__options {
+  display: grid;
+  gap: var(--space-2);
+  margin-bottom: var(--space-4);
+
+  @media (min-width: $bp-sm) {
+    grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr));
+  }
+}
+
+// One option: the whole row is the target (44px high at least).
+.dso-radio {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  min-height: 2.75rem;
+  padding: var(--space-2) var(--space-4);
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-border-strong);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: border-color var(--transition-fast), background-color var(--transition-fast);
+
+  &:hover {
+    border-color: var(--color-heading);
+  }
+
+  &:has(.dso-radio__input:checked) {
+    padding: calc(var(--space-2) - 1px) calc(var(--space-4) - 1px);
+    background-color: var(--color-tint);
+    border: 2px solid var(--color-primary);
+  }
+
+  // The ring goes around the whole option, not the small circle.
+  &:has(.dso-radio__input:focus-visible) {
+    outline: 2px solid var(--color-focus);
+    outline-offset: 2px;
+  }
+}
+
+.dso-radio__input {
+  flex-shrink: 0;
+  width: 1.25rem;
+  height: 1.25rem;
+  margin: 0;
+  accent-color: var(--color-primary);
+  cursor: pointer;
+
+  &:focus-visible {
+    outline: none;
+  }
+}
+
+.dso-radio__label {
+  line-height: 1.35;
+  color: var(--color-text);
+}
+
+// --- Result ------------------------------------------------------------------------------
+
+.dso-result {
+  padding: var(--space-5);
+  background-color: var(--color-tint);
+  border-radius: var(--radius-lg);
+
+  @media (min-width: $bp-md) {
+    padding: var(--space-8);
+  }
+
+  a:not(.btn) {
+    text-decoration: underline;
+
+    &:hover {
+      text-decoration-thickness: 2px;
+    }
+  }
+
+  p {
+    margin-bottom: var(--space-2);
+  }
+}
+
+.dso-result__title {
+  margin: 0 0 var(--space-1);
+  font-size: var(--text-2xl);
+}
+
+.dso-result__meta {
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+}
+
+.dso-result__panels {
+  display: grid;
+  gap: var(--space-4);
+  margin: var(--space-5) 0 var(--space-6);
+
+  @media (min-width: $bp-md) {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+.dso-panel {
+  padding: var(--space-5);
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+
+  > :last-child {
+    margin-bottom: 0;
+  }
+}
+
+.dso-panel__title {
+  margin: 0 0 var(--space-2);
+  font-size: var(--text-base);
+  color: var(--color-text-muted);
+}
+
+.dso-panel__name {
+  font-family: var(--font-heading);
+  font-size: var(--text-xl);
+  font-weight: var(--weight-bold);
+  line-height: 1.3;
+  color: var(--color-heading);
+}
+
+.dso-panel__name--none {
+  font-size: var(--text-lg);
+}
+
+.dso-panel__detail {
+  font-size: var(--text-sm);
+}
+
+.dso-panel__note {
+  font-size: var(--text-sm);
+  color: var(--color-text);
+}
+
+.dso-result__subtitle {
+  margin: var(--space-6) 0 var(--space-2);
+  font-size: var(--text-lg);
+}
+
+.dso-result__notes,
+.dso-result__block {
+  max-width: var(--measure);
+}
+
+.dso-result__list {
+  margin: 0;
+  padding-left: 1.2em;
+
+  li {
+    margin-bottom: var(--space-2);
+  }
+}
+
+.dso-links {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  li {
+    margin-bottom: var(--space-2);
+  }
+}
+
+.dso-result__footer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-3) var(--space-5);
+  margin-top: var(--space-8);
+  padding-top: var(--space-4);
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  border-top: 1px solid var(--color-border-strong);
+
+  p {
+    margin: 0;
+  }
+}
+
+.dso-result__draft {
+  flex-basis: 100%;
+  font-weight: var(--weight-semibold);
+  color: var(--color-text);
+}
+
+// --- Municipality table ------------------------------------------------------------------
+
+.tool-list__date {
+  margin: var(--space-4) 0 0;
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+}
+
+.tool-list__draft {
+  max-width: var(--measure);
+  margin: var(--space-4) 0 0;
+  padding: var(--space-3) var(--space-4);
+  font-size: var(--text-sm);
+  font-weight: var(--weight-semibold);
+  background-color: var(--color-bg-alt);
+  border-left: 3px solid var(--color-sun);
+  border-radius: 0 var(--radius-md) var(--radius-md) 0;
+}
+
+.tool-list__regions ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2) var(--space-6);
+  margin: var(--space-6) 0 0;
+  padding: 0;
+  list-style: none;
+
+  li {
+    margin: 0;
+    padding: 0;
+  }
+}
+
+.tool-list__count {
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+}
+
+.dso-region__meta {
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+}
+
+.dso-region__note {
+  max-width: var(--measure);
+  padding: var(--space-3) var(--space-4);
+  font-size: var(--text-base);
+  background-color: var(--color-bg-alt);
+  border-left: 3px solid var(--color-primary);
+  border-radius: 0 var(--radius-md) var(--radius-md) 0;
+}
+
+// The table scrolls inside its frame on a phone; the page never does.
+.dso-table-wrap {
+  margin: var(--space-4) 0 var(--space-8);
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border-radius: var(--radius-md);
+
+  &:focus-visible {
+    outline: 2px solid var(--color-focus);
+    outline-offset: 2px;
+  }
+}
+
+.page__content .dso-table {
+  display: table;
+  min-width: 46rem;
+  margin: 0;
+  font-size: 0.9375rem;
+  // The same columns in every table of the page, whatever their content.
+  table-layout: fixed;
+
+  thead th:nth-child(1) { width: 17%; }
+  thead th:nth-child(2) { width: 13%; }
+  thead th:nth-child(3) { width: 22%; }
+  thead th:nth-child(4) { width: 22%; }
+  thead th:nth-child(5) { width: 26%; }
+
+  // Phones: the commune stays in view while the other columns scroll.
+  @media (max-width: ($bp-md - 1px)) {
+    thead th:first-child,
+    tbody th {
+      position: sticky;
+      left: 0;
+      z-index: 1;
+      padding-right: var(--space-3);
+      background-color: var(--color-bg);
+    }
+
+    tr:target th {
+      background-color: var(--color-tint);
+    }
+  }
+
+  tbody th {
+    font-family: var(--font-body);
+    font-size: inherit;
+    font-weight: var(--weight-semibold);
+    color: var(--color-heading);
+    vertical-align: top;
+    border-bottom-color: var(--color-border);
+  }
+
+  tbody tr:last-child th {
+    border-bottom: none;
+  }
+
+  tr[id] {
+    scroll-margin-top: calc(var(--header-height) + var(--space-4));
+  }
+
+  tr:target {
+    background-color: var(--color-tint);
+  }
+}
+
+.dso-cell {
+  margin: 0 0 var(--space-2);
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.dso-cell__sections,
+.dso-cell__muted {
+  display: block;
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+}
+
+.dso-cell__none {
+  color: var(--color-text-muted);
+}
+
+// Beats the prose list indent (.page__content ul).
+.page__content .dso-flags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-1);
+  margin: 0 0 var(--space-2);
+  padding: 0;
+  list-style: none;
+}
+
+// Chips (DESIGN.md "Chips"): the radius of chips, the tint of callouts.
+.page__content .dso-flag {
+  margin: 0;
+  padding: 0.125rem 0.5rem;
+  font-family: var(--font-heading);
+  font-size: var(--text-xs);
+  font-weight: var(--weight-semibold);
+  line-height: 1.4;
+  color: var(--color-tint-text);
+  background-color: var(--color-tint);
+  border-radius: var(--radius-chip);
+}
+
+.dso-sources {
+  margin-top: var(--space-16);
+}
+
+.dso-sources__list {
+  max-width: var(--measure);
+  padding-left: 1.2em;
+  font-size: 0.9375rem;
+  line-height: 1.55;
+  color: var(--color-text-muted);
+
+  li {
+    margin-bottom: 0.6em;
+  }
+}
+
+.dso-attribution {
+  max-width: var(--measure);
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+
+  h4 {
+    margin: var(--space-5) 0 var(--space-2);
+    font-size: var(--text-base);
+    color: var(--color-heading);
+  }
+
+  ul {
+    padding-left: 1.2em;
+  }
+}

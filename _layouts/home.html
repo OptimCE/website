@@ -7,9 +7,11 @@ layout: default
 {%- comment -%}
   Homepage, around the product: the quarter-hour grid, how a community runs
   in OptimCE, every module of the app, the two ways to host it, the guides,
-  the news. All copy comes from _data/i18n/<lang>.yml.
+  the news. The newsletter form opens and closes the page. All copy comes
+  from _data/i18n/<lang>.yml.
 {%- endcomment %}
 
+{% include newsletter-strip.html %}
 {% include hero.html %}
 {% include how-it-works.html %}
 {% include modules.html %}

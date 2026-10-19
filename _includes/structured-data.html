@@ -18,8 +18,9 @@
                    author pages, with the ProfilePage, and wherever #software is,
                    as its maintainer
     #article       posts
-    #webpage       about (AboutPage), pillar, guide and solution indexes (CollectionPage),
-                   product pages (`product_page: true`, a WebPage about #software)
+    #webpage       about (AboutPage), pillar, guide, solution and tools indexes
+                   (CollectionPage), product pages (`product_page: true`, a WebPage
+                   about #software), tool pages (`tool_page: true`, a WebPage)
     #breadcrumb    everything except the homepages (trail: _includes/breadcrumb.html)
     #faq           posts declaring `faq:` front matter
     #terms         glossary index pages (DefinedTermSet)
@@ -132,6 +133,33 @@
       "isPartOf": { "@id": {{ website_id | jsonify }} },
       "about": { "@id": {{ software_id | jsonify }} },
       "breadcrumb": { "@id": {{ page_url | append: '#breadcrumb' | jsonify }} }
+    }
+    {%- endif -%}
+    {%- if page.tool_page -%}
+    {%- comment -%}
+      A tool page (the GRD lookup, its municipality table): a WebPage dated
+      like the sitemap. datePublished is the `date_published:` front matter
+      (never `date:`, which makes jekyll-seo-tag type a page as a blog post:
+      og:type article and a BlogPosting node; scripts/check_seo.py fails on
+      both); dateModified is last_modified_at, which _plugins/dso_pages.rb
+      computes from the data for the table page. Its FAQ, when it has one,
+      is the FAQPage node below (from `faq:`).
+    {%- endcomment -%}
+    ,{
+      "@type": "WebPage",
+      "@id": {{ page_url | append: '#webpage' | jsonify }},
+      "url": {{ page_url | jsonify }},
+      "name": {{ page.title | jsonify }},
+      "description": {{ page.description | jsonify }},
+      "inLanguage": {{ lang | jsonify }},
+      "isPartOf": { "@id": {{ website_id | jsonify }} },
+      "publisher": { "@id": {{ org_id | jsonify }} },
+      "breadcrumb": { "@id": {{ page_url | append: '#breadcrumb' | jsonify }} }
+      {%- assign sd_published = page.date_published | default: page.date -%}
+      {%- if sd_published -%}
+      ,"datePublished": {{ sd_published | date_to_xmlschema | jsonify }}
+      {%- endif -%}
+      ,"dateModified": {{ page.last_modified_at | default: sd_published | date_to_xmlschema | jsonify }}
     }
     {%- endif -%}
     {%- if page.layout == 'post' or page.ref == 'author' or page.ref == 'home' or page.ref == 'features' -%}
@@ -289,7 +317,7 @@
       Post URLs are five segments deep, so this is the only machine-readable
       signal of where a post sits in the site.
     {%- endcomment -%}
-    {%- if page.layout == 'pillar' or page.layout == 'guides' or page.layout == 'solutions' -%}
+    {%- if page.layout == 'pillar' or page.layout == 'guides' or page.layout == 'solutions' or page.layout == 'tools' -%}
     {%- comment -%}
       Hub pages: a CollectionPage whose ItemList mirrors what the page lists
       (page.hub_items, resolved by _plugins/site_graph.rb in display order).

@@ -1,0 +1,104 @@
+name: GRD data bump
+
+# Every Monday, opens a pull request "dso data X → Y" when belgian-dso-map has
+# published a newer release than the one in _data/dso. The job syncs it
+# (scripts/sync_dso.py), then runs everything deploy.yml runs plus a second
+# build whose sitemap must be byte-identical: a failing check fails the run
+# and no pull request is opened. Merging the pull request deploys.
+#
+# Secret DSO_MAP_TOKEN: a fine-grained token with read-only access to the
+# contents of OptimCE/belgian-dso-map (private until its data licence is
+# decided). Repository setting: "Allow GitHub Actions to create and approve
+# pull requests". A pull request opened with GITHUB_TOKEN triggers no other
+# workflow; the website has no pull-request CI, so the checks run here.
+
+on:
+  schedule:
+    - cron: '17 5 * * 1'   # Mondays 05:17 UTC
+  repository_dispatch:     # sent by belgian-dso-map's release.yml (secret DSO_CONSUMERS_TOKEN there)
+    types: [dso-data-released]
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'belgian-dso-map version (YYYY.MM.N); empty = the latest release'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: dso-data-bump
+  cancel-in-progress: false
+
+jobs:
+  bump:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # glossary pages are dated from git (build + scripts/check_seo.py)
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Sync the data release
+        id: sync
+        env:
+          DSO_MAP_TOKEN: ${{ secrets.DSO_MAP_TOKEN }}
+          VERSION: ${{ inputs.version || github.event.client_payload.version }}
+        run: |
+          if [ -n "$VERSION" ]; then which=(--version "$VERSION"); else which=(--latest); fi
+          python scripts/sync_dso.py "${which[@]}" --if-newer \
+            --pr-body "$RUNNER_TEMP/dso-pr.md" --github-output
+
+      - if: steps.sync.outputs.changed == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: GRD lookup vectors (data release)
+        if: steps.sync.outputs.changed == 'true'
+        run: node --test scripts/dso-lookup.test.mjs
+      - if: steps.sync.outputs.changed == 'true'
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.4'
+          bundler-cache: true
+      - name: Build twice
+        # Two builds of the same files must give the same sitemap and JSON:
+        # the GRD dates depend on the data, never on the build.
+        if: steps.sync.outputs.changed == 'true'
+        env:
+          JEKYLL_ENV: production
+        run: |
+          bundle exec jekyll build --baseurl ""
+          bundle exec jekyll build --baseurl "" -d "$RUNNER_TEMP/second"
+          cmp _site/sitemap.xml "$RUNNER_TEMP/second/sitemap.xml"
+          for f in _site/assets/data/dso-*.json; do
+            cmp "$f" "$RUNNER_TEMP/second/assets/data/$(basename "$f")"
+          done
+      - name: SEO guards
+        if: steps.sync.outputs.changed == 'true'
+        run: python scripts/check_seo.py --site _site
+      - name: Site integrity
+        if: steps.sync.outputs.changed == 'true'
+        run: python scripts/check_site.py --site _site
+      - name: GRD data and dates
+        if: steps.sync.outputs.changed == 'true'
+        run: python scripts/check_dso_dates.py --site _site --require-release
+      - name: GRD lookup vectors (built JSON)
+        if: steps.sync.outputs.changed == 'true'
+        run: node --test scripts/dso-lookup.test.mjs
+        env:
+          DSO_JSON_DIR: _site/assets/data
+
+      - name: Open the pull request
+        if: steps.sync.outputs.changed == 'true'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: chore/dso-data
+          delete-branch: true
+          add-paths: _data/dso
+          commit-message: "chore(dso): dso data ${{ steps.sync.outputs.from }} → ${{ steps.sync.outputs.to }}"
+          title: "dso data ${{ steps.sync.outputs.from }} → ${{ steps.sync.outputs.to }}"
+          body-path: ${{ runner.temp }}/dso-pr.md

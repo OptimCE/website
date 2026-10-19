@@ -20,6 +20,7 @@ nav:
   guide: "Guide utilisateur"
   privacy: "Confidentialité"
   pricing: "Tarifs"
+  tools: "Outils"
 # Hero (_includes/hero.html) and the quarter-hour grid
 # (_includes/quarter-hour-grid.html). In grid strings, assets/js/main.js fills
 # {time} {n} {kwh} {members} {date}; {h}/{hh} = hour, {m} = minutes.
@@ -150,6 +151,7 @@ newsletter:
   subtitle: >-
     Nouvelles fonctionnalités, accès anticipé à l'alpha et avancées du projet —
     directement dans votre boîte mail. Gratuit, sans spam.
+  strip_lead: "Nouveautés, accès anticipé et avancées du projet, dans votre boîte mail. Gratuit, sans spam."
   benefits:
     - "Les nouveautés dès leur sortie"
     - "Un accès anticipé aux nouvelles fonctionnalités"
@@ -199,6 +201,145 @@ product_cta:
   app: "Ouvrir l'application"
   demo: "Essayer la démo"
   guide: "Suivre le guide pas à pas"
+
+# GRD tool ("Quel est mon GRD ?", ref tool-dso) and its municipality table
+# (ref tool-dso-list).
+#   ui        _includes/dso-tool.html hands the whole grd_tool block to
+#             assets/js/grd-lookup.js as inline JSON; {placeholders} are
+#             filled there
+#   regional  the three <template data-dso-region> of _includes/dso-tool.html
+#   table     _layouts/tool-dso-list.html
+#   regions, provinces (ISO 3166-2), regulators, flags: the build fails when
+#             a label that the data use is missing (_plugins/dso_pages.rb)
+# Editing a string changes a published page: bump the tool page's
+# last_modified_at (ui, regional) or DSO_TEMPLATE_REVISION in
+# _plugins/dso_pages.rb (table, regions, provinces, regulators, flags).
+grd_tool:
+  ui:
+    form_label: "Rechercher votre gestionnaire de réseau"
+    label: "Code postal"
+    hint: "Les 4 chiffres de votre code postal, par exemple 5000."
+    submit: "Rechercher"
+    loading: "Chargement des données…"
+    load_error: "Les données n'ont pas pu être chargées. Réessayez dans un instant ou consultez le tableau par commune."
+    invalid: "Entrez un code postal belge de 4 chiffres."
+    not_found: "Aucune commune ne correspond au code postal {postcode} dans nos données."
+    choose_commune: "Le code postal {postcode} couvre plusieurs communes. Laquelle est la vôtre ?"
+    choose_section: "À {commune}, le gestionnaire dépend de la section de commune (l'ancienne commune). Laquelle est la vôtre ?"
+    choose_status: "Plusieurs réponses sont possibles : choisissez la vôtre dans la liste."
+    choose_missing: "Choisissez une réponse dans la liste."
+    show: "Afficher"
+    status_ok: "Résultat pour {place}."
+    meta_province: "Province : {province}"
+    elec_title: "Électricité"
+    gas_title: "Gaz naturel"
+    regulator_title: "Régulateur et tarifs"
+    check_title: "Comment vérifier"
+    sharing_title: "Partage d'énergie"
+    notes_title: "À savoir"
+    website: "Site web : {site}"
+    legal_name: "Entité juridique : {legal_name}"
+    operator_differs: "Exploitant du réseau : {operator}. Gestionnaire désigné pour la commune : {designated}."
+    valid_from: "Situation en vigueur depuis le {date}."
+    to_confirm: "Cette information reste à confirmer : vérifiez-la sur votre facture."
+    gas_none: "Pas de GRD gaz désigné dans votre commune."
+    gas_street: "Un GRD gaz désigné ne veut pas dire que le réseau de gaz passe dans votre rue : renseignez-vous auprès de ce gestionnaire."
+    gas_foreign: "Ce gestionnaire est établi hors de Belgique."
+    check_text: "Pour un ménage, la facture de décompte ou de clôture d'électricité donne le nom et le numéro de téléphone du gestionnaire de réseau à appeler en cas de panne. Votre facture d'énergie indique aussi le code EAN de votre point de fourniture, un code par énergie."
+    check_link: "Lire sa facture d'électricité ligne par ligne"
+    data_line: "Données du {date} (version {version})"
+    draft: "Données de travail, pas encore publiées : ne vous y fiez pas."
+    sources: "Sources"
+    report: "Signaler une erreur"
+    report_subject: "Quel est mon GRD : erreur dans les données"
+    report_body: "Version des données : {version}"
+    copy_link: "Copier le lien"
+    copied: "Lien copié."
+    copy_failed: "La copie a échoué : copiez l'adresse de la page."
+    noscript: "La recherche par code postal a besoin de JavaScript. Le tableau par commune donne les mêmes informations."
+    table_link: "Voir le GRD de chaque commune dans le tableau"
+  regional:
+    WAL:
+      regulator: "En Wallonie, la CWaPE contrôle les tarifs de réseau des gestionnaires de réseau de distribution."
+      tariffs: "Les tarifs de réseau sur le site de la CWaPE"
+      tariffs_url: "https://www.cwape.be/acteur/tarif-distribution"
+      sharing: "En Wallonie, vous pouvez partager de l'électricité au sein d'une communauté d'énergie. Nos guides expliquent comment en rejoindre une ou en créer une, et OptimCE en gère le quotidien : membres, compteurs, clés de répartition, facturation."
+      join: "Rejoindre une communauté d'énergie en Wallonie"
+      create: "Créer une communauté d'énergie en Wallonie"
+      features: "Ce que fait OptimCE"
+    BRU:
+      regulator: "À Bruxelles, Brugel est le régulateur : il publie les tarifs de distribution de Sibelga."
+      tariffs: "Les tarifs de distribution sur le site de Brugel"
+      tariffs_url: "https://brugel.brussels/themes/tarifs-de-distribution-12"
+      sharing: "Brugel explique le partage d'énergie à Bruxelles sur un site dédié. OptimCE gère aujourd'hui le cadre wallon : Bruxelles est prévue, mais pas encore implémentée."
+      sharing_link: "Le partage d'énergie, sur le site de Brugel"
+      sharing_url: "https://energysharing.brugel.brussels/"
+    VLA:
+      regulator: "En Flandre, le VREG publie les tarifs de distribution approuvés de chaque gestionnaire de réseau."
+      tariffs: "Les tarifs de distribution sur le site du VREG (en néerlandais)"
+      tariffs_url: "https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/nettarieven/hoeveel-bedragen-de-distributienettarieven"
+      sharing: "Le VREG présente les communautés d'énergie et le partage d'énergie en Flandre. OptimCE gère aujourd'hui le cadre wallon : la Flandre est prévue, mais pas encore implémentée."
+      sharing_link: "Les communautés d'énergie, sur le site du VREG (en néerlandais)"
+      sharing_url: "https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/energieprijzen-en-facturen/energiegemeenschappen"
+  table:
+    date_format: "%d/%m/%Y"
+    data_date: "Dernière modification des données : {date}"
+    draft: "Données de travail, pas encore publiées : ce tableau sert aux tests."
+    regions_label: "Aller à une région"
+    communes_count: "{n} communes"
+    communes_count_one: "1 commune"
+    regulator: "Régulateur : "
+    commune: "Commune"
+    postcodes: "Codes postaux"
+    elec: "Électricité"
+    gas: "Gaz"
+    notes: "Notes"
+    designated: "GRD désigné : {name}"
+    gas_none: "Pas de GRD gaz désigné"
+    gas_foreign: "{name} (gestionnaire établi hors de Belgique)"
+    valid_from: "Depuis le {date}."
+    sources_title: "Sources"
+    sources_intro: "Les données sont compilées par OptimCE à partir des sources ci-dessous ; chaque source garde sa licence."
+    role: "rôle : "
+    roles:
+      R: "référence légale"
+      M: "données ouvertes"
+      C: "recoupement"
+      X: "distinction"
+    retrieved: "consultée le {date}"
+    license: "licence : {license}"
+    attribution_title: "Mentions des sources"
+    attribution_intro: "Le texte d'attribution publié avec les données, en anglais :"
+  regions:
+    BRU: "Région de Bruxelles-Capitale"
+    VLA: "Région flamande"
+    WAL: "Région wallonne"
+  provinces:
+    BE-VAN: "Anvers"
+    BE-VBR: "Brabant flamand"
+    BE-VLI: "Limbourg"
+    BE-VOV: "Flandre-Orientale"
+    BE-VWV: "Flandre-Occidentale"
+    BE-WBR: "Brabant wallon"
+    BE-WHT: "Hainaut"
+    BE-WLG: "Liège"
+    BE-WLX: "Luxembourg"
+    BE-WNA: "Namur"
+  regulators:
+    BE-BRU-BRUGEL:
+      name: "Brugel"
+      url: "https://www.brugel.brussels/"
+    BE-VLA-VREG:
+      name: "VREG"
+      url: "https://www.vlaamsenutsregulator.be/"
+    BE-WAL-CWAPE:
+      name: "CWaPE"
+      url: "https://www.cwape.be/"
+  flags:
+    transition: "Changement récent de gestionnaire"
+    operator_differs: "Exploitant différent du gestionnaire désigné"
+    to_confirm: "Information à confirmer"
+    propane_note: "Réseau de propane dans la commune"
 
 # Article page (_layouts/post.html)
 post:

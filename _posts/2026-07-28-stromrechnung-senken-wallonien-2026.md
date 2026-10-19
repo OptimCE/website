@@ -2,7 +2,7 @@
 layout: post
 title: "Stromrechnung senken: Wallonien 2026"
 date: 2026-07-28 10:00:00 +0200
-last_modified_at: 2026-09-22 06:00:00 +0200
+last_modified_at: 2026-10-18 10:00:00 +0200
 author: "Eric, OptimCE"
 excerpt: "Offizieller Vergleichsrechner, neuer Impact-Tarif, Sozialtarif, Prämienfrist am 30. September, Eigenverbrauch und Energieteilung: zehn wallonische Hebel, berechnet auf Grundlage der von der CWaPE genehmigten ORES-Tarifliste 2026. Sechs davon kosten nichts. Für jeden Hebel die realistische Jahresersparnis, die Bedingung und die Vorlaufzeit."
 description: "Zehn konkrete, belegte Hebel zur Senkung der Stromrechnung in Wallonien 2026 — vom offiziellen Vergleichsrechner bis zur Energieteilung."
@@ -30,7 +30,7 @@ Ihre Stromrechnung ist nicht gesunken, und das bilden Sie sich nicht ein. Die Gr
 
 Dieser Artikel erklärt das Problem nicht erneut. Er listet auf, was Sie **in Wallonien im Jahr 2026** konkret tun können. Zehn Hebel, geordnet vom besten Verhältnis aus Ertrag und Aufwand bis zum anspruchsvollsten. **Die ersten sechs kosten nichts** — keine Bauarbeiten, keine Geräte, und bei der Hälfte davon nicht einmal eine Verhaltensänderung.
 
-Ein Wort zu den Zahlen. Die meisten Artikel zum Thema schreiben Schätzungen aus zweiter Hand ab. Die folgenden stammen aus der **periodischen ORES-Tarifliste für 2026, von der CWaPE am 18. Dezember 2025 genehmigt** ([Tarifdokument](https://www.cwape.be/sites/default/files/cwape-documents/ORES%20-%20Tarifs%20p%C3%A9riodiques%20de%20pr%C3%A9l%C3%A8vement%202026_0.pdf)), aus den Quartalsnoten der CREG und von amtlichen Seiten des Öffentlichen Dienstes der Wallonie. Wo ein Betrag unsere eigene Berechnung aus diesen Listen ist, steht es dabei. ORES deckt den größten Teil des wallonischen Gebiets ab; für Kunden von RESA, AIEG oder **AIESH — dem Netzbetreiber, der einen Teil Ostbelgiens versorgt** — gelten die Größenordnungen, die Nachkommastellen weichen jedoch ab.
+Ein Wort zu den Zahlen. Die meisten Artikel zum Thema schreiben Schätzungen aus zweiter Hand ab. Die folgenden stammen aus der **periodischen ORES-Tarifliste für 2026, von der CWaPE am 18. Dezember 2025 genehmigt** ([Tarifdokument](https://www.cwape.be/sites/default/files/cwape-documents/ORES%20-%20Tarifs%20p%C3%A9riodiques%20de%20pr%C3%A9l%C3%A8vement%202026_0.pdf)), aus den Quartalsnoten der CREG und von amtlichen Seiten des Öffentlichen Dienstes der Wallonie. Wo ein Betrag unsere eigene Berechnung aus diesen Listen ist, steht es dabei. ORES deckt den größten Teil des wallonischen Gebiets ab; für Kunden von RESA, AIEG oder AIESH gelten die Größenordnungen, die Nachkommastellen weichen jedoch ab.
 
 <img src="/assets/images/diagrams/savings-levers-de.svg"
      alt="Balkendiagramm: zehn Hebel zur Senkung der wallonischen Stromrechnung, nach jährlichem Betrag geordnet — Sozialtarif rund 400 €, Prosumer-Tarif 324 €, Angebotsvergleich über 200 €, Energieteilung rund 145 € ohne Arbeiten und ohne Anbieterwechsel, Impact-Tarif rund 124 €, Lastverschiebung rund 100 €. Vier weitere Hebel hängen von der Situation ab."

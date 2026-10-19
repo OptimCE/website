@@ -32,6 +32,7 @@ languages:
     solutions_path: "/solutions/"
     features_path: "/fonctionnalites/"
     pricing_path: "/tarifs/"
+    tools_path: "/outils/"
     author_path: "/a-propos/eric-ugo-paque/"
   - code: en
     locale: "en_GB"
@@ -45,6 +46,7 @@ languages:
     solutions_path: "/en/solutions/"
     features_path: "/en/features/"
     pricing_path: "/en/pricing/"
+    tools_path: "/en/tools/"
     author_path: "/en/about/eric-ugo-paque/"
   - code: de
     locale: "de_DE"
@@ -58,6 +60,7 @@ languages:
     solutions_path: "/de/loesungen/"
     features_path: "/de/funktionen/"
     pricing_path: "/de/preise/"
+    tools_path: "/de/werkzeuge/"
     author_path: "/de/about/eric-ugo-paque/"
   - code: nl
     locale: "nl_BE"
@@ -71,6 +74,7 @@ languages:
     solutions_path: "/nl/oplossingen/"
     features_path: "/nl/functies/"
     pricing_path: "/nl/prijzen/"
+    tools_path: "/nl/tools/"
     author_path: "/nl/about/eric-ugo-paque/"
 
 # Author

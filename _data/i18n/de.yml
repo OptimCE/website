@@ -20,6 +20,9 @@ nav:
   guide: "Benutzerhandbuch"
   privacy: "Datenschutz"
   pricing: "Preise"
+  # "Tools", not "Werkzeuge": the longer label did not fit the desktop bar
+  # (measured 2026-10-18 at 1280px, see DESIGN.md, Layout).
+  tools: "Tools"
 # Hero (_includes/hero.html) and the quarter-hour grid
 # (_includes/quarter-hour-grid.html). In grid strings, assets/js/main.js fills
 # {time} {n} {kwh} {members} {date}; {h}/{hh} = hour, {m} = minutes.
@@ -152,6 +155,7 @@ newsletter:
   subtitle: >-
     Neue Funktionen, früher Zugang zur Alpha und Projekt-Updates —
     direkt in Ihr Postfach. Kostenlos, kein Spam.
+  strip_lead: "Neue Funktionen, früher Zugang und Projekt-Updates direkt in Ihr Postfach. Kostenlos, kein Spam."
   benefits:
     - "Neue Funktionen, sobald sie erscheinen"
     - "Früher Zugang zu dem, was wir entwickeln"
@@ -201,6 +205,139 @@ product_cta:
   app: "App öffnen"
   demo: "Demo ausprobieren"
   guide: "Schritt-für-Schritt-Anleitung (Englisch)"
+
+# GRD tool ("Netzbetreiber finden", ref tool-dso) and its municipality table
+# (ref tool-dso-list). Same keys as the grd_tool block of fr.yml, which
+# documents where each string goes. Editing a string changes a published
+# page: bump the tool page's last_modified_at (ui, regional) or
+# DSO_TEMPLATE_REVISION in _plugins/dso_pages.rb (table, regions, provinces,
+# regulators, flags).
+grd_tool:
+  ui:
+    form_label: "Ihren Netzbetreiber suchen"
+    label: "Postleitzahl"
+    hint: "Die 4 Ziffern Ihrer Postleitzahl, zum Beispiel 4700."
+    submit: "Suchen"
+    loading: "Daten werden geladen…"
+    load_error: "Die Daten konnten nicht geladen werden. Versuchen Sie es gleich noch einmal oder sehen Sie in der Tabelle nach Gemeinden nach."
+    invalid: "Geben Sie eine belgische Postleitzahl mit 4 Ziffern ein."
+    not_found: "In unseren Daten gehört keine Gemeinde zur Postleitzahl {postcode}."
+    choose_commune: "Die Postleitzahl {postcode} umfasst mehrere Gemeinden. Welche ist Ihre?"
+    choose_section: "In {commune} hängt der Netzbetreiber vom Ortsteil (der ehemaligen Gemeinde) ab. Welcher ist Ihrer?"
+    choose_status: "Mehrere Antworten sind möglich: Wählen Sie Ihre aus der Liste."
+    choose_missing: "Wählen Sie eine Antwort aus der Liste."
+    show: "Anzeigen"
+    status_ok: "Ergebnis für {place}."
+    meta_province: "Provinz: {province}"
+    elec_title: "Strom"
+    gas_title: "Erdgas"
+    regulator_title: "Regulierungsbehörde und Tarife"
+    check_title: "So prüfen Sie es"
+    sharing_title: "Energieteilung"
+    notes_title: "Gut zu wissen"
+    website: "Website: {site}"
+    legal_name: "Rechtsträger: {legal_name}"
+    operator_differs: "Betreiber des Netzes: {operator}. Für die Gemeinde bezeichneter Netzbetreiber: {designated}."
+    valid_from: "Gültig seit dem {date}."
+    to_confirm: "Diese Angabe muss noch bestätigt werden: Prüfen Sie sie auf Ihrer Rechnung."
+    gas_none: "Für Ihre Gemeinde ist kein Gasnetzbetreiber bezeichnet."
+    gas_street: "Ein bezeichneter Gasnetzbetreiber bedeutet nicht, dass das Gasnetz durch Ihre Straße führt: Erkundigen Sie sich bei diesem Netzbetreiber."
+    gas_foreign: "Dieser Netzbetreiber hat seinen Sitz außerhalb Belgiens."
+    check_text: "Bei einem Haushalt nennt die Jahresabrechnung oder Schlussrechnung für Strom den Namen und die Telefonnummer des Verteilernetzbetreibers, den Sie bei einem Stromausfall anrufen. Ihre Energierechnung gibt auch den EAN-Code Ihrer Lieferstelle an, einen Code je Energieträger."
+    check_link: "Belgische Stromrechnung Zeile für Zeile lesen"
+    data_line: "Daten vom {date} (Version {version})"
+    draft: "Arbeitsdaten, noch nicht veröffentlicht: Verlassen Sie sich nicht darauf."
+    sources: "Quellen"
+    report: "Fehler melden"
+    report_subject: "Netzbetreiber finden: Fehler in den Daten"
+    report_body: "Version der Daten: {version}"
+    copy_link: "Link kopieren"
+    copied: "Link kopiert."
+    copy_failed: "Das Kopieren ist fehlgeschlagen: Kopieren Sie die Adresse der Seite."
+    noscript: "Die Suche nach Postleitzahl benötigt JavaScript. Die Tabelle nach Gemeinden enthält dieselben Angaben."
+    table_link: "Den Netzbetreiber jeder Gemeinde in der Tabelle ansehen"
+  regional:
+    WAL:
+      regulator: "In der Wallonie überwacht die CWaPE die Netztarife der Verteilernetzbetreiber."
+      tariffs: "Die Netztarife auf der Website der CWaPE"
+      tariffs_url: "https://www.cwape.be/de/netztarife"
+      sharing: "In der Wallonie können Sie Strom innerhalb einer Energiegemeinschaft teilen. Unsere Ratgeber erklären, wie Sie einer beitreten oder eine gründen, und OptimCE übernimmt die laufende Verwaltung: Mitglieder, Zähler, Aufteilungsschlüssel, Abrechnung."
+      join: "Energiegemeinschaft in der Wallonie beitreten"
+      create: "Energiegemeinschaft in der Wallonie gründen"
+      features: "Was OptimCE kann"
+    BRU:
+      regulator: "In Brüssel ist Brugel die Regulierungsbehörde und veröffentlicht die Verteilertarife von Sibelga."
+      tariffs: "Die Verteilertarife auf der Website von Brugel (auf Französisch und Niederländisch)"
+      tariffs_url: "https://brugel.brussels/themes/tarifs-de-distribution-12"
+      sharing: "Brugel erklärt die Energieteilung in Brüssel auf einer eigenen Website. OptimCE deckt heute den wallonischen Rahmen ab: Brüssel ist geplant, aber noch nicht umgesetzt."
+      sharing_link: "Die Energieteilung auf der Website von Brugel (auf Französisch und Niederländisch)"
+      sharing_url: "https://energysharing.brugel.brussels/"
+    VLA:
+      regulator: "In Flandern veröffentlicht die VREG die genehmigten Verteilertarife jedes Netzbetreibers."
+      tariffs: "Die Verteilertarife auf der Website der VREG (auf Niederländisch)"
+      tariffs_url: "https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/nettarieven/hoeveel-bedragen-de-distributienettarieven"
+      sharing: "Die VREG stellt Energiegemeinschaften und die Energieteilung in Flandern vor. OptimCE deckt heute den wallonischen Rahmen ab: Flandern ist geplant, aber noch nicht umgesetzt."
+      sharing_link: "Energiegemeinschaften auf der Website der VREG (auf Niederländisch)"
+      sharing_url: "https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/energieprijzen-en-facturen/energiegemeenschappen"
+  table:
+    date_format: "%d.%m.%Y"
+    data_date: "Letzte Änderung der Daten: {date}"
+    draft: "Arbeitsdaten, noch nicht veröffentlicht: Diese Tabelle dient zum Testen."
+    regions_label: "Zu einer Region springen"
+    communes_count: "{n} Gemeinden"
+    communes_count_one: "1 Gemeinde"
+    regulator: "Regulierungsbehörde: "
+    commune: "Gemeinde"
+    postcodes: "Postleitzahlen"
+    elec: "Strom"
+    gas: "Gas"
+    notes: "Hinweise"
+    designated: "Bezeichneter Netzbetreiber: {name}"
+    gas_none: "Kein Gasnetzbetreiber bezeichnet"
+    gas_foreign: "{name} (Netzbetreiber mit Sitz außerhalb Belgiens)"
+    valid_from: "Seit dem {date}."
+    sources_title: "Quellen"
+    sources_intro: "OptimCE stellt die Daten aus den unten genannten Quellen zusammen; jede Quelle behält ihre Lizenz."
+    role: "Rolle: "
+    roles:
+      R: "Rechtsgrundlage"
+      M: "offene Daten"
+      C: "Abgleich"
+      X: "Abgrenzung"
+    retrieved: "abgerufen am {date}"
+    license: "Lizenz: {license}"
+    attribution_title: "Quellenangaben"
+    attribution_intro: "Der mit den Daten veröffentlichte Quellenvermerk, auf Englisch:"
+  regions:
+    BRU: "Region Brüssel-Hauptstadt"
+    VLA: "Flämische Region"
+    WAL: "Wallonische Region"
+  provinces:
+    BE-VAN: "Antwerpen"
+    BE-VBR: "Flämisch-Brabant"
+    BE-VLI: "Limburg"
+    BE-VOV: "Ostflandern"
+    BE-VWV: "Westflandern"
+    BE-WBR: "Wallonisch-Brabant"
+    BE-WHT: "Hennegau"
+    BE-WLG: "Lüttich"
+    BE-WLX: "Luxemburg"
+    BE-WNA: "Namur"
+  regulators:
+    BE-BRU-BRUGEL:
+      name: "Brugel"
+      url: "https://www.brugel.brussels/"
+    BE-VLA-VREG:
+      name: "VREG"
+      url: "https://www.vlaamsenutsregulator.be/"
+    BE-WAL-CWAPE:
+      name: "CWaPE"
+      url: "https://www.cwape.be/de"
+  flags:
+    transition: "Kürzlicher Wechsel des Netzbetreibers"
+    operator_differs: "Betreiber weicht vom bezeichneten Netzbetreiber ab"
+    to_confirm: "Angabe noch zu bestätigen"
+    propane_note: "Propangasnetz in der Gemeinde"
 
 # Article page (_layouts/post.html)
 post:

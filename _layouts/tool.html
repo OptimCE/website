@@ -1,0 +1,63 @@
+---
+layout: default
+---
+{%- comment -%}
+  A tool page (`tool_page: true`, under the tools hub). The article grid of
+  the product pages (_layouts/page.html): breadcrumb, title and subtitle,
+  then the tool itself, then the page's own text in .post__content, so the
+  prose and FAQ styles apply (`## Questions fréquentes {#faq}` mirroring the
+  `faq:` front matter). The rail (from 1200px) lists the text's H2s and
+  opens the application; below 1200px the tool comes first and the rail is
+  left out.
+  page.tool picks the tool: 'dso' → _includes/dso-tool.html.
+{%- endcomment -%}
+{%- assign tl_lang = page.lang | default: site.lang -%}
+{%- assign tl_t = site.data.i18n[tl_lang] -%}
+<article class="post page--tool">
+  <header class="post__header">
+    <div class="container post__grid">
+      <div class="post__heading">
+        {% include breadcrumb.html %}
+        <h1 class="post__title">{{ page.title | fr_spacing: tl_lang }}</h1>
+        {%- if page.subtitle %}
+        <p class="page__subtitle">{{ page.subtitle | fr_spacing: tl_lang }}</p>
+        {%- endif %}
+      </div>
+    </div>
+  </header>
+
+  <div class="container post__grid post__body">
+    <div class="tool__main">
+      {%- if page.tool == 'dso' %}
+      {% include dso-tool.html %}
+      {%- endif %}
+      <div class="post__content tool__text">
+        {{ content | fr_spacing: tl_lang }}
+      </div>
+    </div>
+
+    {%- assign toc_parts = content | split: '<h2 id="' %}
+    <aside class="post__rail tool__rail">
+      <div class="post__rail-inner">
+        {% if toc_parts.size > 3 %}
+        <nav class="toc" data-toc aria-label="{{ tl_t.post.on_this_page }}">
+          <details class="toc__details">
+            <summary class="toc__title">{{ tl_t.post.on_this_page }}{% include icon.html name="chevron-down" class="toc__chevron" %}</summary>
+            <ol class="toc__list" data-toc-list>
+              {%- for toc_part in toc_parts offset: 1 %}
+                {%- assign toc_id = toc_part | split: '"' | first %}
+                {%- assign toc_title = toc_part | split: '</h2>' | first | remove_first: toc_id | remove_first: '">' | strip_html | strip %}
+              <li><a href="#{{ toc_id }}">{{ toc_title | fr_spacing: tl_lang }}</a></li>
+              {%- endfor %}
+            </ol>
+          </details>
+        </nav>
+        {% endif %}
+        <div class="rail-card">
+          <p class="rail-card__text">{{ tl_t.post.rail_manage }}</p>
+          <a class="btn btn-outline btn--sm" href="{{ site.cta.app_url }}" aria-label="{{ tl_t.nav.manage }}">{{ tl_t.nav.manage_short }}</a>
+        </div>
+      </div>
+    </aside>
+  </div>
+</article>

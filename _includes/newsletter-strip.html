@@ -1,0 +1,20 @@
+{% assign lang = page.lang | default: site.lang %}
+{% assign t = site.data.i18n[lang] %}
+{%- comment -%}
+  Newsletter strip above the homepage hero: the band's form on one line, so
+  readers can subscribe without scrolling to the foot. No heading: the hero's
+  h1 stays the page's first one.
+{%- endcomment %}
+<section class="newsletter-strip" aria-labelledby="newsletter-strip-title">
+  <div class="container">
+    <div class="newsletter-strip__inner">
+      <p class="newsletter-strip__copy">
+        <strong class="newsletter-strip__title" id="newsletter-strip-title">{{ t.newsletter.title }}</strong>
+        <span class="newsletter-strip__lead">{{ t.newsletter.strip_lead }}</span>
+      </p>
+      <div class="newsletter-strip__form">
+        {% include newsletter-form.html compact=true %}
+      </div>
+    </div>
+  </div>
+</section>

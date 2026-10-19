@@ -6,10 +6,10 @@ subtitle: "How OptimCE handles your data on this site"
 permalink: /en/privacy/
 lang: en
 ref: privacy
-last_modified_at: 2026-05-25
+last_modified_at: 2026-10-18
 ---
 
-<p><em>Last updated: 25 May 2026.</em></p>
+<p><em>Last updated: 18 October 2026.</em></p>
 
 <h2>1. Data controller</h2>
 
@@ -38,6 +38,10 @@ last_modified_at: 2026-05-25
 <ul>
   <li><strong>Data collected</strong>: visited page URL, referrer, browser type and operating system,
     country (derived from the IP address), screen size, device type.</li>
+  <li><strong>“<a href="{{ 'tool-dso' | ref_url }}">Find my DSO</a>” tool</strong>: for each result displayed,
+    the tool sends Umami an anonymous event that contains the region and the network operators found. The
+    postcode and the municipality are never sent: the search runs in your browser, and on that page, everything in the
+    web address after “?” or “#” is excluded from analytics.</li>
   <li><strong>Cookies</strong>: none. Umami sets no cookies and no persistent identifiers.</li>
   <li><strong>IP address</strong>: processed to derive the country, then <em>not stored</em>.</li>
   <li><strong>Legal basis</strong>: legitimate interest (Art. 6(1)(f) GDPR), justified by the anonymous and

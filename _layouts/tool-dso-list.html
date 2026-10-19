@@ -1,0 +1,159 @@
+---
+layout: default
+---
+{%- comment -%}
+  The municipality table of the GRD tool (ref tool-dso-list): every commune
+  of _data/dso, by region (h2) and province (h3), with its postcodes, its
+  electricity and gas operators and its notes, then the sources and their
+  attribution text. The no-JavaScript view of the lookup, and the page the
+  lookup's "Sources" link points to (#sources).
+
+  page.dso_table, dso_sources, dso_attribution, dso_data_date, dso_meta and
+  last_modified_at come from _plugins/dso_pages.rb; do not set or change
+  them here. data-dso-data-date is checked by scripts/check_dso_dates.py.
+  Strings: grd_tool.table in _data/i18n/<lang>.yml. A change to this file or
+  to those strings is a change to the page: bump DSO_TEMPLATE_REVISION in
+  _plugins/dso_pages.rb, which dates the page in the sitemap.
+{%- endcomment -%}
+{%- assign tdl_lang = page.lang | default: site.lang -%}
+{%- assign tdl_t = site.data.i18n[tdl_lang].grd_tool.table -%}
+{%- assign tdl_format = tdl_t.date_format | default: "%d/%m/%Y" -%}
+{%- assign tdl_date = page.dso_data_date | date: tdl_format -%}
+{%- comment -%} Placeholders of the grd_tool.table strings ("}" cannot sit in an output tag). {%- endcomment -%}
+{%- assign tdl_ph_date = '{date}' -%}
+{%- assign tdl_ph_n = '{n}' -%}
+{%- assign tdl_ph_name = '{name}' -%}
+{%- assign tdl_ph_license = '{license}' -%}
+<article class="page tool-list">
+  <header class="page__header">
+    <div class="container">
+      {% include breadcrumb.html %}
+      <h1 class="page__title">{{ page.title | fr_spacing: tdl_lang }}</h1>
+      {%- if page.subtitle %}
+      <p class="page__subtitle">{{ page.subtitle | fr_spacing: tdl_lang }}</p>
+      {%- endif %}
+      <p class="tool-list__date" data-dso-data-date="{{ page.dso_data_date }}">{{ tdl_t.data_date | replace: tdl_ph_date, tdl_date | fr_spacing: tdl_lang }}</p>
+      {%- if page.dso_meta.draft %}
+      <p class="tool-list__draft">{{ tdl_t.draft | fr_spacing: tdl_lang }}</p>
+      {%- endif %}
+    </div>
+  </header>
+
+  <div class="page__content">
+    <div class="container">
+      {{ content | fr_spacing: tdl_lang }}
+{% capture tdl_body %}
+      <nav class="tool-list__regions" aria-label="{{ tdl_t.regions_label }}">
+        <ul role="list">
+          {%- for region in page.dso_table %}
+          {%- if region.communes_count == 1 %}{% assign tdl_count = tdl_t.communes_count_one %}{% else %}{% assign tdl_count = tdl_t.communes_count | replace: tdl_ph_n, region.communes_count %}{% endif %}
+          <li><a href="#region-{{ region.code | downcase }}">{{ region.name }}</a> <span class="tool-list__count">{{ tdl_count }}</span></li>
+          {%- endfor %}
+        </ul>
+      </nav>
+
+      {%- for region in page.dso_table %}
+      {%- assign tdl_region_id = 'region-' | append: region.code | downcase %}
+      {%- if region.communes_count == 1 %}{% assign tdl_count = tdl_t.communes_count_one %}{% else %}{% assign tdl_count = tdl_t.communes_count | replace: tdl_ph_n, region.communes_count %}{% endif %}
+      <section class="dso-region" aria-labelledby="{{ tdl_region_id }}">
+        <h2 id="{{ tdl_region_id }}">{{ region.name }}</h2>
+        <p class="dso-region__meta">{{ tdl_count }} · {{ tdl_t.regulator }}{% if region.regulator.url %}<a href="{{ region.regulator.url }}" rel="noopener">{{ region.regulator.name }}</a>{% else %}{{ region.regulator.name }}{% endif %}</p>
+        {%- for note in region.notes %}
+        <p class="dso-region__note">{{ note.text }}</p>
+        {%- endfor %}
+
+        {%- for province in region.provinces %}
+        {%- if province.name %}
+        {%- assign tdl_table_label = 'province-' | append: province.code | downcase %}
+        <h3 id="{{ tdl_table_label }}">{{ province.name }}</h3>
+        {%- else %}
+        {%- assign tdl_table_label = tdl_region_id %}
+        {%- endif %}
+        <div class="dso-table-wrap" role="region" tabindex="0" aria-labelledby="{{ tdl_table_label }}">
+          <table class="dso-table">
+            <thead>
+              <tr>
+                <th scope="col">{{ tdl_t.commune }}</th>
+                <th scope="col">{{ tdl_t.postcodes }}</th>
+                <th scope="col">{{ tdl_t.elec }}</th>
+                <th scope="col">{{ tdl_t.gas }}</th>
+                <th scope="col">{{ tdl_t.notes }}</th>
+              </tr>
+            </thead>
+            <tbody>
+              {%- for commune in province.communes %}
+              <tr id="{{ commune.anchor }}">
+                <th scope="row">{{ commune.name }}</th>
+                <td>{{ commune.postcodes | join: ", " }}</td>
+                <td>
+                  {%- for entry in commune.elec %}
+                  <p class="dso-cell">
+                    {%- if entry.sections.size > 0 %}<span class="dso-cell__sections">{{ entry.sections | join: ", " }}</span>{% endif -%}
+                    <span class="dso-cell__operator">{{ entry.operator.name }}</span>
+                    {%- if region.code == 'VLA' and entry.operator.legal_name != "" and entry.operator.legal_name != entry.operator.name %}<span class="dso-cell__muted">{{ entry.operator.legal_name }}</span>{% endif -%}
+                    {%- if entry.operator_differs %}<span class="dso-cell__muted">{{ tdl_t.designated | replace: tdl_ph_name, entry.designated.name }}</span>{% endif -%}
+                  </p>
+                  {%- endfor %}
+                </td>
+                <td>
+                  {%- for entry in commune.gas %}
+                  <p class="dso-cell">
+                    {%- if entry.sections.size > 0 %}<span class="dso-cell__sections">{{ entry.sections | join: ", " }}</span>{% endif -%}
+                    {%- if entry.status == 'none' or entry.operator == nil %}<span class="dso-cell__none">{{ tdl_t.gas_none }}</span>
+                    {%- elsif entry.status == 'foreign' %}<span class="dso-cell__operator">{{ tdl_t.gas_foreign | replace: tdl_ph_name, entry.operator.name }}</span>
+                    {%- else %}<span class="dso-cell__operator">{{ entry.operator.name }}</span>{% endif -%}
+                  </p>
+                  {%- endfor %}
+                </td>
+                <td class="dso-table__notes">
+                  {%- if commune.flags.size > 0 %}
+                  <ul class="dso-flags" role="list">
+                    {%- for flag in commune.flags %}
+                    <li class="dso-flag dso-flag--{{ flag.code | replace: '_', '-' }}">{{ flag.label }}</li>
+                    {%- endfor %}
+                  </ul>
+                  {%- endif %}
+                  {%- for note in commune.notes %}
+                  <p class="dso-cell">{{ note.text }}</p>
+                  {%- endfor %}
+                  {%- for day in commune.valid_from %}
+                  {%- assign tdl_day = day | date: tdl_format %}
+                  <p class="dso-cell dso-cell__muted">{{ tdl_t.valid_from | replace: tdl_ph_date, tdl_day }}</p>
+                  {%- endfor %}
+                </td>
+              </tr>
+              {%- endfor %}
+            </tbody>
+          </table>
+        </div>
+        {%- endfor %}
+      </section>
+      {%- endfor %}
+
+      <section class="dso-sources" aria-labelledby="sources">
+        <h2 id="sources">{{ tdl_t.sources_title }}</h2>
+        <p>{{ tdl_t.sources_intro }}</p>
+        <ul class="dso-sources__list">
+          {%- for source in page.dso_sources %}
+          {%- assign tdl_role = tdl_t.roles[source.role] | default: source.role %}
+          {%- assign tdl_retrieved = source.retrieved_at | date: tdl_format %}
+          <li id="source-{{ source.id }}"><a href="{{ source.url }}" rel="noopener">{{ source.title }}</a> · {{ source.publisher }} · {{ tdl_t.role }}{{ tdl_role }} · {{ tdl_t.retrieved | replace: tdl_ph_date, tdl_retrieved }}{% if source.license != "" %} · {{ tdl_t.license | replace: tdl_ph_license, source.license }}{% endif %}</li>
+          {%- endfor %}
+        </ul>
+        <h3 id="attribution">{{ tdl_t.attribution_title }}</h3>
+        <p>{{ tdl_t.attribution_intro }}</p>
+{% endcapture %}
+      {{ tdl_body | fr_spacing: tdl_lang }}
+        {%- comment -%}
+          ATTRIBUTION.md of the release, as published (in English, outside the
+          French spacing filter). Its "# Attribution" title is dropped (the
+          page has one h1) and its sections become h4.
+        {%- endcomment -%}
+        {%- assign tdl_attribution = page.dso_attribution | remove_first: "# Attribution" | markdownify | replace: "<h1", "<h4" | replace: "</h1>", "</h4>" | replace: "<h2", "<h4" | replace: "</h2>", "</h4>" %}
+        <div class="dso-attribution" lang="en">
+          {{ tdl_attribution }}
+        </div>
+      </section>
+    </div>
+  </div>
+</article>

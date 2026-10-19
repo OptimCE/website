@@ -1,0 +1,20 @@
+# Written by scripts/sync_dso.py from release.json and CHANGES.md. Do not edit.
+# removed_max: the latest removal date ever synced; it never goes down, so a
+# removal moves the table page's lastmod forward (scripts/dso_dates.py).
+version: "2026.10.0-draft"
+date: "2026-10-12"
+draft: true
+dso_lookup_sha256: "8518d95332e958850f614e88d2f9189d24ba52c6ef89e2db361f1c22ddeaa750"
+counts:
+  communes: 565
+  communes_by_region:
+    BRU: 19
+    VLA: 285
+    WAL: 261
+  postcodes: 1149
+  rows: 1153
+  sections: 4
+  operators: 16
+  notes: 14
+  sources: 91
+removed_max: ""

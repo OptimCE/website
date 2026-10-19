@@ -1,0 +1,35 @@
+---
+layout: default
+---
+{%- comment -%}
+  Tools hub: one block per tool page, in tool_order order (the pages with
+  breadcrumb_parent: tools in the page's language). page.hub_items and the
+  hub's date are resolved by _plugins/site_graph.rb (Hubs, ref tools): the
+  hub is dated from its own and its children's front matter only.
+  Same markup as the guide and solution indexes.
+{%- endcomment -%}
+{% assign lang = page.lang | default: site.lang %}
+<section class="hub tools-index">
+  <div class="container">
+    <header class="hub__header">
+      {% include breadcrumb.html %}
+      <h1>{{ page.title | fr_spacing: lang }}</h1>
+      <div class="hub__lead">
+        {% if page.subtitle %}
+          <p class="section__subtitle">{{ page.subtitle | fr_spacing: lang }}</p>
+        {% endif %}
+        {{ content | fr_spacing: lang }}
+      </div>
+    </header>
+    <div class="hub-blocks">
+      {% for item in page.hub_items %}
+      <section class="hub-block">
+        <h2 class="hub-block__title">
+          <a href="{{ item.url | relative_url }}">{{ item.title | fr_spacing: lang }}</a>
+        </h2>
+        <p class="hub-block__description">{{ item.hub_summary | default: item.description | fr_spacing: lang }}</p>
+      </section>
+      {% endfor %}
+    </div>
+  </div>
+</section>

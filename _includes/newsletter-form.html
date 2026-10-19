@@ -1,0 +1,18 @@
+{% assign lang = page.lang | default: site.lang %}
+{% assign t = site.data.i18n[lang] %}
+{%- comment -%}
+  The homepage newsletter form, shared by the strip above the hero and the
+  band at the foot. main.js posts it to Mailchimp (JSONP) and writes the
+  result into [data-newsletter-status]: the caller wraps this in one element,
+  so the status shares the form's parent. compact=true keeps the field and
+  the button on one row on phones.
+{%- endcomment %}
+<form class="newsletter-form{% if include.compact %} newsletter-form--compact{% endif %}" data-newsletter-form data-msg-success="{{ t.newsletter.success }}" data-msg-error="{{ t.newsletter.error }}" action="https://optimce.us2.list-manage.com/subscribe/post?u=ec69a7b73ebed4adf61b82581&amp;id=1dcb0effa8&amp;f_id=00375ae1f0" method="post" target="_blank">
+  <input type="email" name="EMAIL" class="newsletter-form__input" placeholder="{{ t.newsletter.placeholder }}" aria-label="{{ t.newsletter.placeholder }}" autocomplete="email" required>
+  <button type="submit" class="btn btn-primary">{{ t.newsletter.button }}</button>
+  <div class="spam-trap" aria-hidden="true">
+    <input type="text" name="b_ec69a7b73ebed4adf61b82581_1dcb0effa8" tabindex="-1" value="">
+  </div>
+</form>
+<p class="newsletter-form__status" data-newsletter-status role="status" aria-live="polite" hidden></p>
+<p class="newsletter-form__privacy">{{ t.newsletter.privacy }}</p>

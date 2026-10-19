@@ -20,6 +20,10 @@ nav:
   guide: "Gebruikershandleiding"
   privacy: "Privacy"
   pricing: "Prijzen"
+  tools: "Tools"
+  # The desktop bar has no room for Tools (measured 2026-10-18 at 1280px:
+  # German 1 242px, Dutch 1 222px for 1 216px): footer only (_includes/nav-links.html).
+  tools_footer_only: true
 # Hero (_includes/hero.html) and the quarter-hour grid
 # (_includes/quarter-hour-grid.html). In grid strings, assets/js/main.js fills
 # {time} {n} {kwh} {members} {date}; {h}/{hh} = hour, {m} = minutes.
@@ -149,6 +153,7 @@ newsletter:
   subtitle: >-
     Nieuwe functies, vroege toegang tot de alpha en projectupdates —
     rechtstreeks in uw inbox. Gratis, geen spam.
+  strip_lead: "Nieuwe functies, vroege toegang en projectupdates, rechtstreeks in uw inbox. Gratis, geen spam."
   benefits:
     - "Nieuwe functies zodra ze er zijn"
     - "Vroege toegang tot wat we bouwen"
@@ -198,6 +203,139 @@ product_cta:
   app: "De app openen"
   demo: "De demo proberen"
   guide: "Stapsgewijze handleiding (Engels)"
+
+# GRD tool ("Wie is mijn netbeheerder?", ref tool-dso) and its municipality
+# table (ref tool-dso-list). Same keys as the grd_tool block of fr.yml, which
+# documents where each string goes. Editing a string changes a published
+# page: bump the tool page's last_modified_at (ui, regional) or
+# DSO_TEMPLATE_REVISION in _plugins/dso_pages.rb (table, regions, provinces,
+# regulators, flags).
+grd_tool:
+  ui:
+    form_label: "Uw netbeheerder zoeken"
+    label: "Postcode"
+    hint: "De 4 cijfers van uw postcode, bijvoorbeeld 2000."
+    submit: "Zoeken"
+    loading: "Gegevens laden…"
+    load_error: "De gegevens konden niet worden geladen. Probeer het zo meteen opnieuw of raadpleeg de tabel per gemeente."
+    invalid: "Vul een Belgische postcode van 4 cijfers in."
+    not_found: "In onze gegevens hoort geen enkele gemeente bij postcode {postcode}."
+    choose_commune: "Postcode {postcode} omvat meerdere gemeenten. Welke is de uwe?"
+    choose_section: "In {commune} hangt de netbeheerder af van de deelgemeente. Welke is de uwe?"
+    choose_status: "Er zijn meerdere antwoorden mogelijk: kies het uwe in de lijst."
+    choose_missing: "Kies een antwoord in de lijst."
+    show: "Tonen"
+    status_ok: "Resultaat voor {place}."
+    meta_province: "Provincie: {province}"
+    elec_title: "Elektriciteit"
+    gas_title: "Aardgas"
+    regulator_title: "Regulator en tarieven"
+    check_title: "Zo controleert u het"
+    sharing_title: "Energiedelen"
+    notes_title: "Goed om te weten"
+    website: "Website: {site}"
+    legal_name: "Rechtspersoon: {legal_name}"
+    operator_differs: "Uitbater van het net: {operator}. Aangewezen netbeheerder voor de gemeente: {designated}."
+    valid_from: "Van kracht sinds {date}."
+    to_confirm: "Deze informatie moet nog worden bevestigd: controleer ze op uw factuur."
+    gas_none: "Geen aardgasnetbeheerder aangewezen in uw gemeente."
+    gas_street: "Een aangewezen aardgasnetbeheerder betekent niet dat het gasnet door uw straat loopt: vraag het na bij die netbeheerder."
+    gas_foreign: "Deze netbeheerder is buiten België gevestigd."
+    check_text: "Voor een gezin vermeldt de afrekenings- of slotfactuur voor elektriciteit de naam en het telefoonnummer van de distributienetbeheerder die u belt bij een stroomstoring. Uw energiefactuur vermeldt ook de EAN-code van uw leveringspunt, één code per energiesoort."
+    check_link: "Elektriciteitsfactuur lezen: regel per regel"
+    data_line: "Gegevens van {date} (versie {version})"
+    draft: "Werkgegevens, nog niet gepubliceerd: ga er niet op af."
+    sources: "Bronnen"
+    report: "Een fout melden"
+    report_subject: "Wie is mijn netbeheerder: fout in de gegevens"
+    report_body: "Versie van de gegevens: {version}"
+    copy_link: "Link kopiëren"
+    copied: "Link gekopieerd."
+    copy_failed: "Kopiëren is mislukt: kopieer het adres van de pagina."
+    noscript: "Zoeken op postcode werkt alleen met JavaScript. De tabel per gemeente geeft dezelfde informatie."
+    table_link: "De netbeheerder van elke gemeente in de tabel bekijken"
+  regional:
+    WAL:
+      regulator: "In Wallonië controleert de CWaPE de nettarieven van de distributienetbeheerders."
+      tariffs: "De nettarieven op de website van de CWaPE (in het Frans)"
+      tariffs_url: "https://www.cwape.be/acteur/tarif-distribution"
+      sharing: "In Wallonië kunt u elektriciteit delen binnen een energiegemeenschap. Onze gidsen leggen uit hoe u tot een energiegemeenschap toetreedt of er zelf een opricht, en OptimCE regelt het dagelijkse beheer: leden, meters, verdeelsleutels, facturatie."
+      join: "Toetreden tot een energiegemeenschap in Wallonië"
+      create: "Een energiegemeenschap oprichten in Wallonië"
+      features: "Wat OptimCE doet"
+    BRU:
+      regulator: "In Brussel is Brugel de regulator: Brugel publiceert de distributietarieven van Sibelga."
+      tariffs: "De distributietarieven op de website van Brugel"
+      tariffs_url: "https://brugel.brussels/nl_BE/themes/distributietarieven-12"
+      sharing: "Brugel legt energiedelen in Brussel uit op een aparte website. OptimCE ondersteunt vandaag het Waalse kader: Brussel is gepland, maar nog niet geïmplementeerd."
+      sharing_link: "Energiedelen, op de website van Brugel"
+      sharing_url: "https://energysharing.brugel.brussels/nl_BE"
+    VLA:
+      regulator: "In Vlaanderen publiceert de VREG de goedgekeurde distributienettarieven van elke netbeheerder."
+      tariffs: "De distributienettarieven op de website van de VREG"
+      tariffs_url: "https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/nettarieven/hoeveel-bedragen-de-distributienettarieven"
+      sharing: "De VREG licht energiegemeenschappen en energiedelen in Vlaanderen toe. OptimCE ondersteunt vandaag het Waalse kader: Vlaanderen is gepland, maar nog niet geïmplementeerd."
+      sharing_link: "Energiegemeenschappen, op de website van de VREG"
+      sharing_url: "https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/energieprijzen-en-facturen/energiegemeenschappen"
+  table:
+    date_format: "%d/%m/%Y"
+    data_date: "Laatste wijziging van de gegevens: {date}"
+    draft: "Werkgegevens, nog niet gepubliceerd: deze tabel dient om te testen."
+    regions_label: "Naar een gewest gaan"
+    communes_count: "{n} gemeenten"
+    communes_count_one: "1 gemeente"
+    regulator: "Regulator: "
+    commune: "Gemeente"
+    postcodes: "Postcodes"
+    elec: "Elektriciteit"
+    gas: "Gas"
+    notes: "Opmerkingen"
+    designated: "Aangewezen netbeheerder: {name}"
+    gas_none: "Geen aardgasnetbeheerder aangewezen"
+    gas_foreign: "{name} (netbeheerder gevestigd buiten België)"
+    valid_from: "Sinds {date}."
+    sources_title: "Bronnen"
+    sources_intro: "OptimCE stelt de gegevens samen uit de onderstaande bronnen; elke bron behoudt haar eigen licentie."
+    role: "rol: "
+    roles:
+      R: "wettelijke referentie"
+      M: "open data"
+      C: "controle"
+      X: "onderscheid"
+    retrieved: "geraadpleegd op {date}"
+    license: "licentie: {license}"
+    attribution_title: "Bronvermeldingen"
+    attribution_intro: "De bronvermelding die met de gegevens is gepubliceerd, in het Engels:"
+  regions:
+    BRU: "Brussels Hoofdstedelijk Gewest"
+    VLA: "Vlaams Gewest"
+    WAL: "Waals Gewest"
+  provinces:
+    BE-VAN: "Antwerpen"
+    BE-VBR: "Vlaams-Brabant"
+    BE-VLI: "Limburg"
+    BE-VOV: "Oost-Vlaanderen"
+    BE-VWV: "West-Vlaanderen"
+    BE-WBR: "Waals-Brabant"
+    BE-WHT: "Henegouwen"
+    BE-WLG: "Luik"
+    BE-WLX: "Luxemburg"
+    BE-WNA: "Namen"
+  regulators:
+    BE-BRU-BRUGEL:
+      name: "Brugel"
+      url: "https://brugel.brussels/nl_BE"
+    BE-VLA-VREG:
+      name: "VREG"
+      url: "https://www.vlaamsenutsregulator.be/"
+    BE-WAL-CWAPE:
+      name: "CWaPE"
+      url: "https://www.cwape.be/"
+  flags:
+    transition: "Recente wissel van netbeheerder"
+    operator_differs: "Uitbater verschilt van de aangewezen netbeheerder"
+    to_confirm: "Nog te bevestigen"
+    propane_note: "Propaannet in de gemeente"
 
 # Article page (_layouts/post.html)
 post:

@@ -10,15 +10,19 @@
 #   1. glossary pages   one page per glossary term and language
 #                       (_plugins/glossary_pages.rb), before everything below
 #                       so the new pages go through every step
-#   2. i18n metadata    lang / locale / OG image on every page and post
-#   3. sections         every post is a guide, a solution or a news item, and
+#   2. GRD tool data    the browser JSON of the GRD lookup, the municipality
+#                       table and its data-driven last_modified_at, from
+#                       _data/dso/ (_plugins/dso_pages.rb); right after the
+#                       glossary pages, for the same reason
+#   3. i18n metadata    lang / locale / OG image on every page and post
+#   4. sections         every post is a guide, a solution or a news item, and
 #                       must live under that section's path in its language
-#   4. redirect table   _data/redirects.csv -> redirect_from on the target page
-#   5. translations     data["translations"] = { lang => url } for every ref
-#   6. hubs             pages that list other pages (pillars, guide index, news
-#                       listings) get their resolved lists and a
+#   5. redirect table   _data/redirects.csv -> redirect_from on the target page
+#   6. translations     data["translations"] = { lang => url } for every ref
+#   7. hubs             pages that list other pages (pillars, guide index, news
+#                       listings, tools) get their resolved lists and a
 #                       last_modified_at that moves when a listed page changes
-#   7. URL guard        two files writing the same URL fail the build
+#   8. URL guard        two files writing the same URL fail the build
 #
 # jekyll-redirect-from (:normal) then turns redirect_from into stub pages, and
 # jekyll-sitemap / jekyll-feed (:lowest) run after that.
@@ -29,6 +33,7 @@ module OptimCE
 
     def generate(site)
       GlossaryPages.apply(site)
+      DsoPages.apply(site)
       I18nMetadata.apply(site)
       Sections.apply(site)
       RedirectsTable.apply(site)
@@ -70,6 +75,13 @@ module OptimCE
   #                    _data/pillars.yml order.
   #   layout: solutions  the solution posts, in _data/solutions.yml order.
   #   layout: blog     the news posts, newest first.
+  #   ref: tools       the tools hub: its children (breadcrumb_parent: tools,
+  #                    same language) in tool_order order. Dated from the
+  #                    FRONT MATTER of the hub and its children only
+  #                    (fm_last_modified_at, set by DsoPages): the table
+  #                    page's last_modified_at follows its data, and
+  #                    scripts/dso_dates.py computes the same date from the
+  #                    page files.
   #
   # Both also get hub_items (flat list of listed pages, for the ItemList in
   # the JSON-LD) and a computed last_modified_at.
@@ -113,6 +125,21 @@ module OptimCE
         news = posts.select { |p| p.data["section"] == "actualites" && p.data["lang"] == page.data["lang"] }
         page.data["hub_items"] = news.sort_by { |p| -p.date.to_i }
         page.data["last_modified_at"] = Dates.latest(page.data["last_modified_at"], page.data["hub_items"])
+      end
+
+      site.pages.select { |p| p.data["ref"] == "tools" }.each do |page|
+        children = site.pages.select do |p|
+          p.data["breadcrumb_parent"] == "tools" && p.data["lang"] == page.data["lang"]
+        end
+        page.data["hub_items"] = children.sort_by do |p|
+          [p.data.key?("tool_order") ? 0 : 1, p.data["tool_order"].to_i, p.url]
+        end
+        stamps = ([page] + children).map { |p| p.data["fm_last_modified_at"] }
+        if stamps.any?(&:nil?)
+          raise BuildError, "#{page.relative_path}: tools hub without front-matter dates (DsoPages step missing?)"
+        end
+
+        page.data["last_modified_at"] = Dates.to_time(stamps.max)
       end
 
       site.pages.select { |p| p.data["layout"] == "guides" }.each do |page|

@@ -1,0 +1,4 @@
+# The GRD data release is copied byte for byte from belgian-dso-map and checked
+# against its SHA256SUMS (scripts/sync_dso.py, _plugins/dso_pages.rb). With
+# core.autocrlf=true a checkout would turn LF into CRLF and break every hash.
+_data/dso/** -text

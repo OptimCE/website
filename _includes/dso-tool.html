@@ -1,0 +1,100 @@
+{%- comment -%}
+  The GRD lookup ("Quel est mon GRD ?"), on the tool page only
+  (_layouts/tool.html, page.tool == 'dso').
+
+  The page carries no data: assets/js/grd-lookup.js fetches
+  page.dso_json_url (written by _plugins/dso_pages.rb, checked by
+  scripts/check_dso_dates.py through data-dso-src) on the first focus or
+  input, or at load when the address holds #cp=. The search runs in the
+  browser; the postcode never leaves it. So the form names no control (a
+  native submit, without the module, would put it in the address and the
+  server logs; check_dso_dates.py fails on a `name`), and it stays invisible
+  (data-dso-pending, its room kept) until the module has wired it.
+  French strings go through fr_spacing here: the module clones the
+  templates as they are.
+  Strings: the grd_tool block of _data/i18n/<lang>.yml as inline JSON
+  (the data-qh-data pattern of quarter-hour-grid.html). Region-specific
+  text and links: one <template data-dso-region> per region, cloned into
+  the result. Without JavaScript or modules, the noscript notice and the
+  link to the municipality table remain.
+{%- endcomment -%}
+{%- assign dt_lang = page.lang | default: site.lang -%}
+{%- assign dt_t = site.data.i18n[dt_lang].grd_tool -%}
+{%- assign dt_cl = site.languages | where: "code", dt_lang | first -%}
+{%- assign dt_list = 'tool-dso-list' | ref_url -%}
+<section class="dso-tool" data-dso-tool
+  data-lang="{{ dt_lang }}"
+  data-locale="{{ dt_cl.locale | replace: '_', '-' }}"
+  data-list-url="{{ dt_list }}"
+  data-report-email="{{ site.email }}"
+  aria-label="{{ dt_t.ui.form_label | escape }}">
+  <form class="dso-form" data-dso-form data-dso-pending novalidate>
+    <label class="dso-form__label" for="dso-postcode">{{ dt_t.ui.label | fr_spacing: dt_lang }}</label>
+    <p class="dso-form__hint" id="dso-postcode-hint">{{ dt_t.ui.hint | fr_spacing: dt_lang }}</p>
+    <div class="dso-form__row">
+      <input class="dso-form__input" id="dso-postcode" type="text"
+        inputmode="numeric" autocomplete="postal-code" maxlength="4" spellcheck="false"
+        aria-describedby="dso-postcode-hint" data-dso-input>
+      <button class="btn btn-primary dso-form__submit" type="submit">{{ dt_t.ui.submit | fr_spacing: dt_lang }}</button>
+    </div>
+    <p class="dso-form__error" id="dso-postcode-error" role="alert" data-dso-error></p>
+  </form>
+
+  <div class="dso-output" data-dso-output>
+    <p class="dso-output__status" role="status" aria-live="polite" data-dso-status></p>
+    <div class="dso-output__body" data-dso-body></div>
+  </div>
+
+  <noscript><p class="dso-tool__noscript">{{ dt_t.ui.noscript | fr_spacing: dt_lang }}</p></noscript>
+  <p class="dso-tool__table-link"><a href="{{ dt_list }}">{{ dt_t.ui.table_link | fr_spacing: dt_lang }}</a></p>
+
+  <script type="application/json" data-dso-i18n>{{ dt_t | jsonify }}</script>
+
+  {%- assign dt_wal = dt_t.regional.WAL %}
+  <template data-dso-region="WAL">
+    <div data-dso-part="regulator">
+      <p>{{ dt_wal.regulator | fr_spacing: dt_lang }}</p>
+      <p><a href="{{ dt_wal.tariffs_url }}" rel="noopener">{{ dt_wal.tariffs | fr_spacing: dt_lang }}</a></p>
+    </div>
+    <div data-dso-part="sharing">
+      <p>{{ dt_wal.sharing | fr_spacing: dt_lang }}</p>
+      <ul class="dso-links" role="list">
+        <li><a href="{{ 'join-energy-community-wallonia' | ref_url }}">{{ dt_wal.join | fr_spacing: dt_lang }}</a></li>
+        <li><a href="{{ 'create-energy-community-wallonia' | ref_url }}">{{ dt_wal.create | fr_spacing: dt_lang }}</a></li>
+        <li><a href="{{ dt_cl.features_path | relative_url }}">{{ dt_wal.features | fr_spacing: dt_lang }}</a></li>
+      </ul>
+    </div>
+  </template>
+  {%- assign dt_bru = dt_t.regional.BRU %}
+  <template data-dso-region="BRU">
+    <div data-dso-part="regulator">
+      <p>{{ dt_bru.regulator | fr_spacing: dt_lang }}</p>
+      <p><a href="{{ dt_bru.tariffs_url }}" rel="noopener">{{ dt_bru.tariffs | fr_spacing: dt_lang }}</a></p>
+    </div>
+    <div data-dso-part="sharing">
+      <p>{{ dt_bru.sharing | fr_spacing: dt_lang }}</p>
+      <ul class="dso-links" role="list">
+        <li><a href="{{ dt_bru.sharing_url }}" rel="noopener">{{ dt_bru.sharing_link | fr_spacing: dt_lang }}</a></li>
+      </ul>
+    </div>
+  </template>
+  {%- assign dt_vla = dt_t.regional.VLA %}
+  <template data-dso-region="VLA">
+    <div data-dso-part="regulator">
+      <p>{{ dt_vla.regulator | fr_spacing: dt_lang }}</p>
+      <p><a href="{{ dt_vla.tariffs_url }}" rel="noopener" hreflang="nl">{{ dt_vla.tariffs | fr_spacing: dt_lang }}</a></p>
+    </div>
+    <div data-dso-part="sharing">
+      <p>{{ dt_vla.sharing | fr_spacing: dt_lang }}</p>
+      <ul class="dso-links" role="list">
+        <li><a href="{{ dt_vla.sharing_url }}" rel="noopener" hreflang="nl">{{ dt_vla.sharing_link | fr_spacing: dt_lang }}</a></li>
+      </ul>
+    </div>
+  </template>
+  <template data-dso-check>
+    <p>{{ dt_t.ui.check_text | fr_spacing: dt_lang }}</p>
+    <p><a href="{{ 'read-electricity-bill-belgium' | ref_url }}">{{ dt_t.ui.check_link | fr_spacing: dt_lang }}</a></p>
+  </template>
+
+  <script type="module" src="{{ '/assets/js/grd-lookup.js' | relative_url }}" data-dso-src="{{ page.dso_json_url | relative_url }}"></script>
+</section>

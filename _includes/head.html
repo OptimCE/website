@@ -20,6 +20,19 @@
   <link rel="preload" as="font" type="font/woff2" href="{{ '/assets/fonts/plus-jakarta-sans-var.woff2' | relative_url }}" crossorigin>
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
   <link rel="icon" type="image/svg+xml" href="{{ '/assets/images/logo.svg' | relative_url }}">
-  <script defer src="https://cloud.umami.is/script.js" data-website-id="fbdc87e9-b8de-4ce6-81ed-946097789914"></script>
+  {%- comment -%}
+    The GRD tool (page.tool == 'dso') keeps the searched postcode in the
+    address (#cp=…, a shareable result): on that page Umami drops the query
+    string and the hash from what it records. The tool sends its own event,
+    without the postcode (assets/js/grd-lookup.js).
+  {%- endcomment %}
+  <script defer src="https://cloud.umami.is/script.js" data-website-id="fbdc87e9-b8de-4ce6-81ed-946097789914"{% if page.tool == 'dso' %} data-exclude-search="true" data-exclude-hash="true"{% endif %}></script>
+  {%- if page.tool == 'dso' %}
+  {%- comment -%}
+    Without JavaScript the lookup form cannot work: it leaves the page, and
+    the noscript notice and the table link remain (_includes/dso-tool.html).
+  {%- endcomment %}
+  <noscript><style>.dso-form{display:none}</style></noscript>
+  {%- endif %}
   {% feed_meta %}
 </head>

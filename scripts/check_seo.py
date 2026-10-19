@@ -3,8 +3,9 @@
 
 Runs against `_site/` after `jekyll build`. Every check here protects a class of
 bug that produces a *green build and a broken page* — malformed JSON-LD still
-renders as valid HTML, an over-long <title> still deploys fine, and a
-cross-language link still resolves. None of these fail on their own.
+renders as valid HTML, an over-long <title> still deploys fine, a
+cross-language link still resolves, and a page that jekyll-seo-tag types as a
+blog post (`date:` front matter) still deploys. None of these fail on their own.
 
 Usage:
     python scripts/check_seo.py [--site _site] [--warn-only]
@@ -35,7 +36,7 @@ LANG_PREFIXES = {"en": "/en/", "de": "/de/", "nl": "/nl/"}
 # sections is listed.
 LANG_OWNED_PATHS = {
     "fr": ("/actualites/", "/guides/", "/solutions/", "/fonctionnalites/",
-           "/glossaire/", "/a-propos/", "/confidentialite/", "/tarifs/"),
+           "/glossaire/", "/a-propos/", "/confidentialite/", "/tarifs/", "/outils/"),
     "en": ("/en/",),
     "de": ("/de/",),
     "nl": ("/nl/",),
@@ -56,6 +57,9 @@ RE_CANONICAL = re.compile(
     r'<link[^>]+rel=["\']canonical["\'][^>]+href=["\']([^"\']+)["\']', re.IGNORECASE
 )
 RE_NOINDEX = re.compile(r'<meta\s+name=["\']robots["\'][^>]*noindex', re.IGNORECASE)
+RE_OG_TYPE = re.compile(
+    r'<meta\s+property=["\']og:type["\']\s+content=["\']([^"\']*)["\']', re.IGNORECASE
+)
 
 
 def text(raw: str) -> str:
@@ -83,12 +87,18 @@ def check_page(path: pathlib.Path, rel: str, body: str, rep: Report) -> None:
     if not blocks:
         rep.warn(f"{rel}: no JSON-LD at all")
     saw_graph = False
+    types: set[str] = set()
     for i, block in enumerate(blocks):
         try:
             data = json.loads(block)
         except json.JSONDecodeError as exc:
             rep.error(f"{rel}: JSON-LD block {i} is malformed: {exc}")
             continue
+        if isinstance(data, dict):
+            graph = data.get("@graph")
+            for node in [data, *(graph if isinstance(graph, list) else [])]:
+                if isinstance(node, dict) and isinstance(node.get("@type"), str):
+                    types.add(node["@type"])
         if isinstance(data, dict) and "@graph" in data:
             saw_graph = True
             nodes = data["@graph"]
@@ -107,6 +117,19 @@ def check_page(path: pathlib.Path, rel: str, body: str, rep: Report) -> None:
                     rep.error(f"{rel}: @graph node has no @type")
     if not saw_graph:
         rep.error(f"{rel}: no @graph JSON-LD block emitted")
+
+    # --- only posts are articles ---------------------------------------------
+    # jekyll-seo-tag types any page with a `date:` front matter as a blog post
+    # (og:type article and a BlogPosting node). Posts are demoted to WebPage in
+    # _config.yml and carry our own Article node; a page dates itself with
+    # `date_published:` instead (_includes/structured-data.html).
+    if "BlogPosting" in types:
+        rep.error(f"{rel}: jekyll-seo-tag emits a BlogPosting node "
+                  "(a page with `date:` front matter? use `date_published:`)")
+    m = RE_OG_TYPE.search(body)
+    if m and m.group(1) == "article" and "Article" not in types:
+        rep.error(f"{rel}: og:type article without an Article node "
+                  "(a page with `date:` front matter? use `date_published:`)")
 
     # --- one H1 --------------------------------------------------------------
     h1s = len(RE_H1.findall(body))

@@ -128,6 +128,14 @@ content rules require.
 - The header was measured on 2026-09-29. Dutch is the longest: 1 172px without
   the GitHub icon, 1 210px with it. Adding a menu entry or lengthening a label
   means measuring again, for example with Playwright at 1280 and 1440px.
+- The "Tools" entry shows only where the tools hub exists. Measured with it on
+  2026-10-18, at 1280px (1 216px available): French 1 155px, English 1 005px,
+  Dutch 1 222px, German 1 242px with "Werkzeuge"; at 1440px, with the GitHub
+  icon (1 256px available), Dutch needs 1 260px and German 1 280px. German
+  therefore labels the entry "Tools" (1 206px at 1280, 1 244px at 1440), and
+  Dutch lists Tools in the footer only, like the pricing link
+  (`nav.tools_footer_only` in `_data/i18n/nl.yml`); French, English and German
+  show it in both menus.
 
 ## Components
 
@@ -170,6 +178,17 @@ card has no install commands: the development monorepo is not the way to
 deploy. Its "Developer documentation" button reads `developers_url` in
 `_config.yml` and stays hidden while that is empty, so the site never links to
 a documentation site that is not online yet.
+
+### Newsletter (homepage)
+
+The same Mailchimp form (`_includes/newsletter-form.html`) opens and closes the
+page.
+
+- Above the hero, a full-width tinted strip: the title and a one-line lead on
+  the left, the form on the right from 992px. It has no heading, so the
+  hero's h1 stays the page's first. Below 768px the lead is hidden and the
+  button stays beside the field, so the hero title stays in the first screen.
+- At the foot, the band with the benefits list.
 
 ### Article rail
 
@@ -219,6 +238,108 @@ already used. The ids are listed in `_prose.scss`.
 - They are `<img>` SVGs with a white canvas and a hairline frame.
 - Below 600px they keep a readable size and scroll sideways.
 
+## Tools
+
+The tools section (`tools_path`: `/outils/`, `/en/tools/`, `/de/werkzeuge/`,
+`/nl/tools/`) holds pages that answer a question from data. Its hub
+(`ref: tools`, `_layouts/tools.html`) lists its children
+(`breadcrumb_parent: tools`) in `tool_order` order, with the hub-block markup
+of the guide and solution indexes. The menu entry shows only in the languages
+where the hub exists; in German and Dutch, only in the footer (see Layout).
+
+The first tool is the GRD lookup, "Quel est mon GRD ?" (`ref: tool-dso`), with
+its municipality table (`ref: tool-dso-list`).
+
+### Data flow
+
+1. `belgian-dso-map` publishes a release. `scripts/sync_dso.py` checks it
+   against its `SHA256SUMS` and the data contract, then copies it byte for byte
+   into `_data/dso/` and writes `meta.yml`. This is the only way those files
+   change; the weekly `dso-data-bump.yml` workflow opens the pull request.
+   `.gitattributes` keeps them LF (`-text`).
+2. `_plugins/dso_pages.rb` validates the data on every build and fails it on
+   any inconsistency. It writes `assets/data/dso-<version>.json`, gives the
+   table page its data and dates the table page.
+3. The tool page (`_layouts/tool.html` with `tool: dso`) carries no data.
+   `_includes/dso-tool.html` holds the form, the strings (`grd_tool` of
+   `_data/i18n/<lang>.yml`, as inline JSON in `data-dso-i18n`) and one
+   `<template data-dso-region>` per region for the regulator, tariff and
+   energy-sharing text.
+4. `assets/js/grd-lookup.js`, an ES module loaded on that page only, fetches
+   the JSON named by `data-dso-src` on the first focus or input, or at load
+   when the address holds `#cp=`. The lookup itself is
+   `assets/js/dso-lookup-core.js`, a port of `lookup.py`;
+   `scripts/dso-lookup.test.mjs` runs the release's vectors through it, on the
+   CSV and on the built JSON. Text is set with `textContent` only.
+5. The table page (`_layouts/tool-dso-list.html`) is the no-JavaScript view:
+   every commune by region and province, then the sources (`#sources`, the
+   target of the result's "Sources" link) and the release's `ATTRIBUTION.md`.
+
+Privacy: the search runs in the browser. The form names no control, so a
+native submit (no JavaScript, or Enter before the module runs) cannot put the
+postcode in the address or the server logs; it stays invisible
+(`data-dso-pending`, its room kept) until the module has wired it, and
+without JavaScript it leaves the page for the noscript notice.
+`scripts/check_dso_dates.py` fails on a named control. The address keeps
+`#cp=…&ins=…&s=…` so a result can be shared (also opened in the same tab:
+`hashchange`), and on that page the Umami tag has `data-exclude-search` and
+`data-exclude-hash`. The module sends one `grd-lookup` event per displayed
+result, with `{region, elec, gas}` (operator ids) only. "Report an error" is
+a `mailto:` without the postcode.
+
+### Dates
+
+- **Table page:** max(its front matter, `DSO_TEMPLATE_REVISION` in
+  `_plugins/dso_pages.rb`, the data date). The data date is the latest
+  `changed_at` of the rows, of the operators and notes they use (with the
+  `dataset-<region>-…` notes of the regions present) and of every source, or
+  `removed_max` of `meta.yml`.
+- **Tool page:** its front matter only. **Hub:** max(its own and its
+  children's front matter), never the table page's data date.
+- `datePublished` comes from `date_published:`. Never `date:` on a page:
+  jekyll-seo-tag would type it as a blog post (`og:type` article, a
+  `BlogPosting` node), which `scripts/check_seo.py` refuses.
+- No clock, file date or git: `scripts/check_dso_dates.py` recomputes every
+  date with `scripts/dso_dates.py`, compares it with the sitemap, and greps
+  the plugin for anything that could read one.
+- **Editing strings or templates moves a date by hand:**
+  - `_layouts/tool-dso-list.html`, or `grd_tool.table`, `regions`,
+    `provinces`, `regulators` or `flags`: set `DSO_TEMPLATE_REVISION` to the
+    day of the change;
+  - the tool page's text, `_includes/dso-tool.html`, `grd-lookup.js`, or
+    `grd_tool.ui` or `regional`: bump the tool page's `last_modified_at` in
+    each language concerned.
+
+### Choice: radio group
+
+When a postcode covers several communes, or a commune several operators, the
+tool asks with a radio group and never submits on its own:
+
+- `fieldset.dso-choice__fieldset` with a `legend`, then one
+  `label.dso-radio` per option wrapping `input.dso-radio__input` and its text;
+- the whole row is the target, at least 44px high, with a
+  `--color-border-strong` border and `--radius-md`;
+- checked: the tint background and a 2px `--color-primary` border (no
+  shadow); `accent-color: var(--color-primary)` on the input;
+- focus: the shared 2px ring, drawn around the whole row
+  (`:has(:focus-visible)`);
+- an "Afficher" button (`.btn-outline`) shows the answer.
+
+### Result and table
+
+- The result is a tinted panel, like `.post-cta`, with two surface panels
+  (electricity, gas), then the notes, the regulator and tariffs, how to check,
+  energy sharing and a footer (data version, sources, report an error, copy
+  the link). `valid_from` dates the whole row, so it goes with the notes,
+  never in a panel.
+- An invalid postcode: `aria-invalid`, and the message in the field's
+  `role="alert"` paragraph (always in the page, empty until then), so it is
+  announced while the focus stays on the field.
+- Tables keep the same five columns everywhere (`table-layout: fixed`). On a
+  phone they scroll inside `.dso-table-wrap`, never the page, and the commune
+  column stays in view. Rows carry `id="ins-<INS>"`; headers are
+  `th scope="col"` and the commune is `th scope="row"`.
+
 ## The homepage grid
 
 `scripts/build_quarter_hours.py` writes `_data/quarter_hours.json` and the
@@ -248,9 +369,12 @@ accessible view. The page labels it as an example and names the sources.
 ## Checks
 
 ```bash
+node --test scripts/dso-lookup.test.mjs            # Node 22.7 or later
 bundle exec jekyll build
 python scripts/check_seo.py --site _site
 python scripts/check_site.py --site _site --allow-placeholders
+python scripts/check_dso_dates.py --site _site    # CI adds --require-release
+DSO_JSON_DIR=_site/assets/data node --test scripts/dso-lookup.test.mjs
 ```
 
 Keep exactly one `<h1>` per page. Never put Liquid in a post body. Keep every
