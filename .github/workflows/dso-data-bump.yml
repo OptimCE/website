@@ -6,10 +6,12 @@ name: GRD data bump
 # build whose sitemap must be byte-identical: a failing check fails the run
 # and no pull request is opened. Merging the pull request deploys.
 #
-# Secret DSO_MAP_TOKEN: a fine-grained token with read-only access to the
-# contents of OptimCE/belgian-dso-map (private until its data licence is
-# decided). Repository setting: "Allow GitHub Actions to create and approve
-# pull requests". A pull request opened with GITHUB_TOKEN triggers no other
+# OptimCE/belgian-dso-map is public (data under CC BY 4.0): reading its
+# releases needs no secret. The sync reads them with the job's own token, so
+# the anonymous API rate limit, shared by the runner's IP address, cannot
+# fail the run; a DSO_MAP_TOKEN secret, optional, is used instead if it is
+# set. Repository setting: "Allow GitHub Actions to create and approve pull
+# requests". A pull request opened with GITHUB_TOKEN triggers no other
 # workflow; the website has no pull-request CI, so the checks run here.
 
 on:
@@ -45,7 +47,8 @@ jobs:
       - name: Sync the data release
         id: sync
         env:
-          DSO_MAP_TOKEN: ${{ secrets.DSO_MAP_TOKEN }}
+          # Optional secret; without it, the job's token (rate limit only).
+          DSO_MAP_TOKEN: ${{ secrets.DSO_MAP_TOKEN || github.token }}
           VERSION: ${{ inputs.version || github.event.client_payload.version }}
         run: |
           if [ -n "$VERSION" ]; then which=(--version "$VERSION"); else which=(--latest); fi

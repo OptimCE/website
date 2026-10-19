@@ -46,7 +46,7 @@ module OptimCE
   module DsoPages
     # Bump to the day of a change to the table page's template or to its
     # grd_tool strings: the table page's lastmod follows it.
-    DSO_TEMPLATE_REVISION = "2026-10-18"
+    DSO_TEMPLATE_REVISION = "2026-10-19"
 
     LANGS = %w[fr en de nl].freeze
     REGIONS = %w[BRU VLA WAL].freeze

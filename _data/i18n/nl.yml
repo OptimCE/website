@@ -296,6 +296,8 @@ grd_tool:
     valid_from: "Sinds {date}."
     sources_title: "Bronnen"
     sources_intro: "OptimCE stelt de gegevens samen uit de onderstaande bronnen; elke bron behoudt haar eigen licentie."
+    dataset_license: "OptimCE publiceert de samengestelde gegevens onder de licentie {license} in de GitHub-repository {repo}."
+    dataset_license_url: "https://creativecommons.org/licenses/by/4.0/deed.nl"
     role: "rol: "
     roles:
       R: "wettelijke referentie"

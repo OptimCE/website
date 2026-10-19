@@ -298,6 +298,8 @@ grd_tool:
     valid_from: "Seit dem {date}."
     sources_title: "Quellen"
     sources_intro: "OptimCE stellt die Daten aus den unten genannten Quellen zusammen; jede Quelle behält ihre Lizenz."
+    dataset_license: "OptimCE veröffentlicht die zusammengestellten Daten unter der Lizenz {license} im GitHub-Repository {repo}."
+    dataset_license_url: "https://creativecommons.org/licenses/by/4.0/deed.de"
     role: "Rolle: "
     roles:
       R: "Rechtsgrundlage"

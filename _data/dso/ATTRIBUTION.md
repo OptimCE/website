@@ -9,8 +9,12 @@ with the list of these sources: publisher, title, link, retrieval date and, for 
 document that was downloaded, the SHA-256 fingerprint of its bytes. The sources were
 joined on the municipalities' INS codes, reformatted and checked against each other.
 
-The licence under which the compiled dataset may be reused will be stated in a later
-version.
+The compiled dataset is licensed by OptimCE under the Creative Commons Attribution 4.0
+International licence (CC BY 4.0), <https://creativecommons.org/licenses/by/4.0/>. To
+reuse it, credit it as "belgian-dso-map, OptimCE", with the version used and its date and
+a link to <https://github.com/OptimCE/belgian-dso-map>, and say whether you changed it.
+The sources credited below keep their own licences and attribution requirements: keep
+their credits as well.
 
 ## Statbel (Directorate-General Statistics – Statistics Belgium)
 

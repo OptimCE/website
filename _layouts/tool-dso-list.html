@@ -24,6 +24,13 @@ layout: default
 {%- assign tdl_ph_n = '{n}' -%}
 {%- assign tdl_ph_name = '{name}' -%}
 {%- assign tdl_ph_license = '{license}' -%}
+{%- assign tdl_ph_repo = '{repo}' -%}
+{%- comment -%}
+  The licence of the compiled dataset (the sources keep theirs): CC BY 4.0,
+  the deed in the reader's language (grd_tool.table.dataset_license_url).
+{%- endcomment -%}
+{%- capture tdl_license_link -%}<a href="{{ tdl_t.dataset_license_url }}" rel="license noopener">CC BY 4.0</a>{%- endcapture -%}
+{%- capture tdl_repo_link -%}<a href="https://github.com/OptimCE/belgian-dso-map" rel="noopener">belgian-dso-map</a>{%- endcapture -%}
 <article class="page tool-list">
   <header class="page__header">
     <div class="container">
@@ -133,6 +140,7 @@ layout: default
       <section class="dso-sources" aria-labelledby="sources">
         <h2 id="sources">{{ tdl_t.sources_title }}</h2>
         <p>{{ tdl_t.sources_intro }}</p>
+        <p>{{ tdl_t.dataset_license | replace: tdl_ph_license, tdl_license_link | replace: tdl_ph_repo, tdl_repo_link }}</p>
         <ul class="dso-sources__list">
           {%- for source in page.dso_sources %}
           {%- assign tdl_role = tdl_t.roles[source.role] | default: source.role %}

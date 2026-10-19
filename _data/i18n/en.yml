@@ -291,6 +291,8 @@ grd_tool:
     valid_from: "Since {date}."
     sources_title: "Sources"
     sources_intro: "The data are compiled by OptimCE from the sources below; each source keeps its own licence."
+    dataset_license: "OptimCE publishes the compiled data under the {license} licence in the {repo} repository on GitHub."
+    dataset_license_url: "https://creativecommons.org/licenses/by/4.0/"
     role: "role: "
     roles:
       R: "legal reference"

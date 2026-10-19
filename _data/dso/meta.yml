@@ -1,10 +1,10 @@
 # Written by scripts/sync_dso.py from release.json and CHANGES.md. Do not edit.
 # removed_max: the latest removal date ever synced; it never goes down, so a
 # removal moves the table page's lastmod forward (scripts/dso_dates.py).
-version: "2026.10.0-draft"
-date: "2026-10-12"
-draft: true
-dso_lookup_sha256: "8518d95332e958850f614e88d2f9189d24ba52c6ef89e2db361f1c22ddeaa750"
+version: "2026.10.0"
+date: "2026-10-19"
+draft: false
+dso_lookup_sha256: "ed9b7578fb91edd614f7b42ad1510662a729dd5073900fb23eac7e5c5b354739"
 counts:
   communes: 565
   communes_by_region:

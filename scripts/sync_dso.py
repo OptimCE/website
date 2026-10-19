@@ -8,11 +8,13 @@ byte, writes meta.yml and prints the pull-request body of the bump.
 
 Sources:
   --version X | --latest      a GitHub Release of --repo, through the REST API
-                              (gh is not needed). The token, if any, is read
-                              from DSO_MAP_TOKEN only and sent as an
-                              unredirected header, so it never follows the
-                              asset download to its storage host. It is never
-                              printed.
+                              (gh is not needed). The repository is public:
+                              no token is needed. DSO_MAP_TOKEN, if set and
+                              not empty (any GitHub token), only lifts the
+                              anonymous rate limit (60 requests an hour per
+                              IP address). It is sent as an unredirected
+                              header, so it never follows the asset download
+                              to its storage host, and it is never printed.
   --from-dir PATH             a local build (belgian-dso-map dist/ or .build/*).
                               --version, if given, must equal its release.json.
 
@@ -100,8 +102,14 @@ def _get(url: str, accept: str, token: str | None) -> bytes:
             data = response.read(MAX_ASSET_BYTES + 1)
     except urllib.error.HTTPError as exc:
         hint = ""
-        if exc.code in (401, 403, 404):
-            hint = f" (private repository? set {TOKEN_ENV} to a token that can read it)"
+        if exc.code == 401 and token:
+            hint = f" ({TOKEN_ENV} refused; unset it to read the public repository anonymously)"
+        elif exc.code in (403, 429):
+            hint = " (rate limit?)" if token else (
+                f" (rate limit? set {TOKEN_ENV} to any GitHub token to lift the anonymous one)"
+            )
+        elif exc.code == 404:
+            hint = " (no such repository, release or asset)"
         raise SyncError(f"GET {label}: HTTP {exc.code} {exc.reason}{hint}") from None
     except urllib.error.URLError as exc:
         raise SyncError(f"GET {label}: {exc.reason}") from None
