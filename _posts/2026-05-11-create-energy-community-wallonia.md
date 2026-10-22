@@ -3,13 +3,13 @@ layout: post
 title: "Create an energy community in Wallonia"
 date: 2026-05-11 14:00:00 +0200
 author: "Eric from OptimCE"
-excerpt: "How to set up an energy community (CER or CEC) in Wallonia: choosing the model, legal structure, CWaPE notification, acknowledgement of receipt, and launching the energy sharing with ORES, RESA or AIEG."
-description: "CER or CEC model, legal structure, CWaPE notification and launching the sharing with ORES, RESA or AIEG: the concrete steps."
+excerpt: "How to set up an energy community (CER or CEC) in Wallonia: choosing the model, legal structure, CWaPE notification, acknowledgement of receipt, and launching the energy sharing with the distribution system operator (DSO)."
+description: "CER or CEC model, legal structure, CWaPE notification and launching the sharing with the DSO: the concrete steps."
 tags: [community, administrative, guide]
 lang: en
 ref: create-energy-community-wallonia
 pillar: communautes-energie
-last_modified_at: 2026-10-11 10:00:00 +0200
+last_modified_at: 2026-10-22 10:00:00 +0200
 permalink: /en/guides/create-energy-community-wallonia/
 ---
 
@@ -25,7 +25,7 @@ The guide targets two typical profiles: a **collective starting from scratch** (
 | 2 | Frame the project | Members, legal structure, representative | Project lead | 1–3 months |
 | 3 | Notify the CWaPE | File the standard form | CWaPE | 1 day (filing) |
 | 4 | Receive acknowledgement of receipt | Administrative green light | CWaPE | **10 business days** |
-| 5 | Launch the sharing with the DSO | Agreement, keys, meters | ORES / RESA / AIEG | 1–2 months |
+| 5 | Launch the sharing with the DSO | Agreement, keys, meters | DSO | 1–2 months |
 | 6 | Operate and report | Annual reporting, governance | Community | Ongoing |
 
 Expect **3 to 6 months** between the initial idea and the first shared kilowatt-hour, mainly because of the legal framing (step 2) and the technical coordination with the DSO (step 5).
@@ -88,7 +88,7 @@ The CWaPE provides a **standard form** that structures the notification. It cove
 - The **representative** appointed and their contact details.
 - The **list of initial members** (individuals, SMEs, local authorities) with their EANs.
 - The **sharing configuration** envisaged: community type (CER/CEC), scope, shared energy source, allocation key.
-- The **DSO** concerned (ORES, RESA or AIEG) and the associated delivery points.
+- The **DSO** concerned (ORES, RESA, AIEG, AIESH or REW) and the associated delivery points.
 
 ### Where and how to file
 
@@ -114,13 +114,15 @@ Once the acknowledgement is in hand, sharing becomes a **technical operation** d
 
 ### Identify the right DSO
 
-In Wallonia, three DSOs cover the territory:
+In Wallonia, five DSOs share the electricity network ([CWaPE](https://www.cwape.be/node/160)):
 
 - **ORES** — the vast majority of Walloon municipalities.
-- **RESA** — the Liège region.
-- **AIEG** — the municipalities of Andenne, Éghezée and Gesves.
+- **RESA** — most of the province of Liège.
+- **AIEG** — Andenne, Brunehaut (since 1 January 2026), Gesves, Ohey, Rumes and Viroinval.
+- **AIESH** — Beaumont, Chimay, Couvin, Froidchapelle, Momignies and Sivry-Rance.
+- **REW** (Réseau d'Énergies de Wavre) — Wavre.
 
-The relevant DSO is the one operating the **grid to which your meters are connected**. If the community brings together members located on different territories, several DSOs may be involved — rare but possible.
+Only ORES and RESA also distribute gas: for electricity sharing, the electricity DSO is the one that counts. The relevant DSO is the one operating the **grid to which your meters are connected**; our [“Find your DSO”](/en/tools/find-my-dso/) tool gives it from the postcode. If the community brings together members located on different territories, several DSOs may be involved — rare but possible.
 
 ### Transmit the sharing configuration
 
@@ -193,9 +195,9 @@ The CWaPE does not "approve" a community: it **acknowledges receipt** of a compl
 
 **In-building collective self-consumption** is a sharing operation limited to occupants of one building (e.g., an apartment block). It's simpler administratively but more restricted in scope. A **CER or CEC** goes beyond this limit and can cover several buildings or an entire neighbourhood.
 
-### Is my DSO ORES, RESA or AIEG?
+### Is my DSO ORES, RESA, AIEG, AIESH or REW?
 
-It depends on your **municipality**: ORES covers most of Wallonia, RESA operates in Liège and its region, AIEG in Andenne, Éghezée and Gesves. Each future member's electricity bill mentions the DSO; you can also check on the DSO's website using the EAN.
+It depends on your **municipality**: ORES covers most of Wallonia and RESA most of the province of Liège; AIEG serves Andenne, Brunehaut, Gesves, Ohey, Rumes and Viroinval, AIESH serves Beaumont, Chimay, Couvin, Froidchapelle, Momignies and Sivry-Rance, and REW serves Wavre. Our [“Find your DSO”](/en/tools/find-my-dso/) tool gives it from the postcode; each future member's electricity bill also mentions the DSO.
 
 ### Do I need to change electricity supplier?
 
@@ -228,6 +230,7 @@ To get started or to compare features, see the [OptimCE user guide](https://guid
 - [CWaPE — What is the procedure to create an energy community?](https://www.cwape.be/node/6052) — mandatory notification, standard form, 10-business-day deadline for the acknowledgement of receipt.
 - [CWaPE — Energy communities](https://www.cwape.be/node/158) — Walloon framework, community types, legal foundations, notification and annual reporting.
 - [CWaPE — Energy communities and energy sharing](https://www.cwape.be/secteur/communautes-partage-energie) — general Walloon framework on sharing and communities.
+- [CWaPE — Network operators](https://www.cwape.be/node/160) — the five electricity DSOs active in Wallonia, two of which, ORES and RESA, also distribute gas.
 - [ORES — Start an energy community (CER/CEC)](https://www.ores.be/particulier/demarrer-partage-cer-cec) — steps on the distribution system operator side.
 - [AIEG — Energy sharing](https://www.aieg.be/le-partage-denergie) — operational aspects and DSO-side setup.
 - [MaCER / Cluster TWEED — Key steps](https://macer.clustertweed.be/etapes) — guidance to structure an energy community project.

@@ -9,13 +9,13 @@ tags: [allocation-key, administrative]
 lang: en
 ref: allocation-key-belgium
 pillar: cle-de-repartition
-last_modified_at: 2026-10-11 10:00:00 +0200
+last_modified_at: 2026-10-22 10:00:00 +0200
 permalink: /en/guides/allocation-key-belgium/
 ---
 
 The **allocation key** is the quiet piece of machinery that turns a local electricity production into a tangible benefit for each member of an energy community. Quarter-hour by quarter-hour, it decides *who gets how much* of the shared energy. And that is precisely where Belgium gets complicated: Wallonia, Brussels and Flanders have not adopted the same grid of standard keys, do not use the same vocabulary, and do not impose the same validation rules.
 
-This article walks through the three regional frameworks — **CWaPE / ORES / RESA / AIEG** in Wallonia, **BRUGEL / Sibelga** in Brussels, **VREG / Fluvius** in Flanders — to compare what is actually allowed in each region and help community managers pick a key that holds over time. If you are new to the very idea of an energy community, start with our article [“Energy communities in Belgium: CER, CEC, CEL”](/en/guides/energy-communities-belgium/) — it sets the vocabulary used here.
+This article walks through the three regional frameworks — **CWaPE / ORES / RESA / AIEG / AIESH / REW** in Wallonia, **BRUGEL / Sibelga** in Brussels, **VREG / Fluvius** in Flanders — to compare what is actually allowed in each region and help community managers pick a key that holds over time. If you are new to the very idea of an energy community, start with our article [“Energy communities in Belgium: CER, CEC, CEL”](/en/guides/energy-communities-belgium/) — it sets the vocabulary used here.
 
 <img src="/assets/images/diagrams/allocation-key-flow-en.svg"
      alt="Five-step diagram: quarter-hourly data, generation or simulation, candidate key, member validation, submission to the grid operator."
@@ -51,7 +51,7 @@ In Wallonia, energy sharing is governed by the 12 April 2001 decree on the regio
 
 ### Non-standard keys
 
-A community can **propose an alternative key**, but it then needs to be **specifically authorised**: ORES, RESA or AIEG forwards it to CWaPE, which validates or asks for adjustments. This route remains a minority case; in practice the three standard keys cover the vast majority of Walloon projects.
+A community can **propose an alternative key**, but it then needs to be **specifically authorised**: the DSO forwards it to CWaPE, which validates or asks for adjustments. This route remains a minority case; in practice the three standard keys cover the vast majority of Walloon projects.
 
 ### Modifying a key after launch
 
@@ -104,7 +104,7 @@ A practical difference with Wallonia: Flanders does **not have a published list 
 | Criterion | Wallonia | Brussels | Flanders |
 |---|---|---|---|
 | Regulator | **CWaPE** | **BRUGEL** | **VREG** |
-| DSO | ORES / RESA / AIEG | **Sibelga** (single) | **Fluvius** (single) |
+| DSO | ORES / RESA / AIEG / AIESH / REW | **Sibelga** (single) | **Fluvius** (single) |
 | Reference document | Proposal CD-23d27-CWaPE-0928 (27/04/2023) | Sibelga “Distribution methods” page | Fluvius protocol v3.x (July 2024) |
 | Key #1 — Egalitarian | Egalitarian fixed key | Fixed method (one round, equal shares) | Vaste verdeelsleutel |
 | Key #2 — Specific percentages | Specific fixed key | Fixed method (predefined percentages) | Vaste verdeelsleutel (negotiated percentages) |
@@ -198,7 +198,7 @@ The key is **recomputed** to include the new member. With an **egalitarian fixed
 
 ## Key takeaways
 
-Three regulators (CWaPE, BRUGEL, VREG), three reference DSOs (ORES/RESA/AIEG, Sibelga, Fluvius), three vocabularies (“key”, “method”, “verdeelsleutel”) — but a shared mechanic at the quarter-hour, dependent on smart meters, and organised around two big families: the **fixed** keys (egalitarian or weighted) and the **dynamic / optimised** keys (prorata, hybrid, optimal).
+Three regulators (CWaPE, BRUGEL, VREG), three DSO landscapes (ORES/RESA/AIEG/AIESH/REW, Sibelga, Fluvius), three vocabularies (“key”, “method”, “verdeelsleutel”) — but a shared mechanic at the quarter-hour, dependent on smart meters, and organised around two big families: the **fixed** keys (egalitarian or weighted) and the **dynamic / optimised** keys (prorata, hybrid, optimal).
 
 Choosing a key is not a technical question: it's a governance choice that should reflect the values and constraints of the members. And because no key is set in stone, you need a tool to configure it, historise it, evolve it cleanly — and now to **generate it automatically from real community data**: that's exactly what **OptimCE** provides.
 
@@ -214,7 +214,7 @@ To go further, see our companion guides:
 
 > **[Create an energy community in Wallonia](/en/guides/create-energy-community-wallonia/)**
 >
-> Choosing between CER and CEC, framing the project, notifying CWaPE, the acknowledgement and launching the sharing with ORES, RESA or AIEG — including where the allocation key fits in the file.
+> Choosing between CER and CEC, framing the project, notifying CWaPE, the acknowledgement and launching the sharing with the DSO — including where the allocation key fits in the file.
 
 > **[Join an energy community in Wallonia](/en/guides/join-energy-community-wallonia/)**
 >

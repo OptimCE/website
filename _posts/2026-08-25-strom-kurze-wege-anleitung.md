@@ -9,7 +9,7 @@ tags: [guide, community]
 lang: de
 ref: local-electricity-short-circuit
 pillar: facture-electricite
-last_modified_at: 2026-09-10 06:00:00 +0200
+last_modified_at: 2026-10-22 10:00:00 +0200
 permalink: /de/ratgeber/strom-kurze-wege-anleitung/
 faq:
   - q: "Kann ich in Wallonien den Strom meines Nachbarn gegenüber kaufen?"
@@ -51,7 +51,7 @@ Auf Strom angewandt ist diese Definition **unerreichbar**. Nicht schwierig: uner
 
 ### Die Maut, die man nie umfährt
 
-Zwischen einem Modul auf dem Schuldach und der Steckdose der Bäckerin gegenüber steht immer mindestens ein Akteur, den keine rechtliche Konstruktion verschwinden lässt: der **Verteilnetzbetreiber**. ORES, RESA oder AIEG besitzen und betreiben das Kabel. Sie verkaufen keinen Strom — sie transportieren ihn —, aber sie sind ein Zwischenhändler im vollen Sinne: Sie schieben sich dazwischen, sie messen, und sie stellen in Rechnung.
+Zwischen einem Modul auf dem Schuldach und der Steckdose der Bäckerin gegenüber steht immer mindestens ein Akteur, den keine rechtliche Konstruktion verschwinden lässt: der **Verteilnetzbetreiber**. Je nach Gemeinde besitzen und betreiben ORES, RESA, AIEG, AIESH oder REW das Kabel. Sie verkaufen keinen Strom — sie transportieren ihn —, aber sie sind ein Zwischenhändler im vollen Sinne: Sie schieben sich dazwischen, sie messen, und sie stellen in Rechnung.
 
 Das ist der strukturelle Unterschied zur Tomate. Ein Gemüsebauer kann beschließen, seine Kisten selbst auszuliefern und die Großhandelslogistik vollständig zu streichen. Ein Stromerzeuger hat keine Möglichkeit, seine Elektronen direkt zu liefern: Die Straße ist ein reguliertes Monopol, und sie ist mautpflichtig.
 

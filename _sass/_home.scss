@@ -89,6 +89,37 @@
   }
 }
 
+// Under the buttons, behind a hairline, at the lead's measure. From
+// $bp-header it takes a second row in the lead's column, so the title still
+// lines up with the open-source line.
+.hero__newsletter {
+  max-width: 36rem; // .hero__subtitle
+  margin-top: var(--space-8);
+  padding-top: var(--space-5);
+  border-top: 1px solid var(--color-border);
+
+  @media (min-width: $bp-header) {
+    grid-column: 2;
+  }
+
+  .newsletter-form__privacy {
+    margin-top: var(--space-2);
+  }
+}
+
+.hero__newsletter-copy {
+  margin: 0 0 var(--space-3);
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+}
+
+.hero__newsletter-title {
+  display: block;
+  font-family: var(--font-heading);
+  font-size: var(--text-base);
+  color: var(--color-heading);
+}
+
 // --- Quarter-hour grid ---
 .qh {
   position: relative;

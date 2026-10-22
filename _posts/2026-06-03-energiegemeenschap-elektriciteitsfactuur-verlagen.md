@@ -9,7 +9,7 @@ tags: [community]
 lang: nl
 ref: reduce-electricity-bill
 pillar: facture-electricite
-last_modified_at: 2026-08-05 10:00:00 +0200
+last_modified_at: 2026-10-22 10:00:00 +0200
 permalink: /nl/gidsen/energiegemeenschap-elektriciteitsfactuur-verlagen/
 ---
 
@@ -68,7 +68,7 @@ De besparingsmechanismen bestaan in alle drie de regio's, maar de actoren en som
 | Criterium | Wallonië | Brussel | Vlaanderen |
 |---|---|---|---|
 | Regulator | CWaPE | BRUGEL | VREG |
-| Distributienetbeheerder (DNB) | ORES, RESA, AIEG | Sibelga | Fluvius |
+| Distributienetbeheerder (DNB) | ORES, RESA, AIEG, AIESH, REW | Sibelga | Fluvius |
 | Nettarief op gedeelde energie | Geen vermindering in gemeenschap; −80% op de proportionele termen in hetzelfde gebouw | Getrapte vermindering over vier perimeters: proportionele term geschrapt in hetzelfde gebouw, −50% op dezelfde LS-cabine; de vaste term wordt in geen van de vier aangerekend | Geen vermindering |
 | Bijkomend inkomen voor de producent | Groenestroomcertificaten | Groenestroomcertificaten (≈ eerste 10 jaar) | Specifieke steun — zie VREG |
 | Slimme meter vereist | Ja | Ja | Ja |

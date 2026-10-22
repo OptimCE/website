@@ -9,7 +9,7 @@ tags: [community, administrative]
 lang: de
 ref: energy-communities-belgium
 pillar: communautes-energie
-last_modified_at: 2026-07-20 10:00:00 +0200
+last_modified_at: 2026-10-22 10:00:00 +0200
 permalink: /de/ratgeber/energiegemeinschaften-belgien/
 ---
 
@@ -82,7 +82,7 @@ Wichtig zu verstehen: Energieteilung ist **administrativ, nicht physisch**. Die 
 
 ## Die beteiligten Akteure
 
-- **Die Verteilnetzbetreiber (VNB)** — ORES, RESA, AIEG in der Wallonie; Sibelga in Brüssel; Fluvius in Flandern — betreiben die Zähler, validieren die Teilnehmer und berechnen die Zuteilungen. Siehe zum Beispiel die [Seite von ORES](https://www.ores.be/particulier/communautes-denergie).
+- **Die Verteilnetzbetreiber (VNB)** — ORES, RESA, AIEG, AIESH und REW in der Wallonie; Sibelga in Brüssel; Fluvius in Flandern — betreiben die Zähler, validieren die Teilnehmer und berechnen die Zuteilungen. Siehe zum Beispiel die [Seite von ORES](https://www.ores.be/particulier/communautes-denergie). Unser Werkzeug [„Netzbetreiber finden“](/de/werkzeuge/netzbetreiber-finden/) nennt Ihren anhand der Postleitzahl.
 - **Die regionalen Regulierungsbehörden** — [CWaPE](https://www.cwape.be/secteur/communautes-partage-energie) in der Wallonie, [BRUGEL](https://environnement.brussels/citoyen/agir-pour-lenvironnement/devenir-eco-responsable/partage-et-communautes-denergie) in Brüssel, [Vlaamse Nutsregulator (ex-VREG)](https://www.vlaamsenutsregulator.be) in Flandern — legen die Regeln fest, überwachen die Tarife und veröffentlichen Leitfäden für Gemeinschaften.
 - **Die Energielieferanten** stellen weiterhin die **Restenergie** in Rechnung, also den Anteil des Verbrauchs, der nicht durch die interne Teilung gedeckt ist.
 - **Die Mitglieder** sind sowohl Prosumer (z. B. mit Photovoltaikanlage) als auch reine Verbraucher, KMU oder lokale Behörden.
@@ -136,7 +136,7 @@ Flandern verfügt über einen gleichwertigen Rahmen unter Aufsicht des **VREG**,
 
 > **[Energiegemeinschaft in der Wallonie gründen](/de/ratgeber/energiegemeinschaft-gruenden-wallonien/)**
 >
-> Wahl zwischen CER und CEC, Projektstrukturierung, Meldung bei der CWaPE, Empfangsbestätigung und Start der Teilung mit ORES, RESA oder AIEG.
+> Wahl zwischen CER und CEC, Projektstrukturierung, Meldung bei der CWaPE, Empfangsbestätigung und Start der Teilung mit dem Netzbetreiber.
 
 > **Demnächst — Brüssel und Flandern**
 >

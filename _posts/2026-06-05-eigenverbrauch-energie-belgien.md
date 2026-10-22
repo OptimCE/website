@@ -9,7 +9,7 @@ tags: [community]
 lang: de
 ref: self-consumption-belgium
 pillar: communautes-energie
-last_modified_at: 2026-09-16 06:00:00 +0200
+last_modified_at: 2026-10-22 10:00:00 +0200
 permalink: /de/ratgeber/eigenverbrauch-energie-belgien/
 faq:
   - q: "Was ist die Eigenverbrauchsquote?"
@@ -23,7 +23,7 @@ faq:
   - q: "Muss ich meinen Stromlieferanten wechseln?"
     a: "Nein. Sie behalten Ihren Lieferanten, der nur noch die Restenergie abrechnet — den Teil Ihres Verbrauchs, der nicht durch Ihre eigene Produktion oder das Teilen gedeckt ist."
   - q: "Funktioniert kollektiver Eigenverbrauch überall in Belgien?"
-    a: "Der Rahmen besteht in allen drei Regionen, jedoch mit unterschiedlichen Modalitäten: Die Wallonie (CWaPE, ORES/RESA/AIEG) und Flandern (VREG, Fluvius) haben einen operativen Rahmen, während Brüssel (BRUGEL, Sibelga) den kollektiven Eigenverbrauch über Pilotprojekte eingeführt hat. Ein intelligenter Zähler ist überall erforderlich."
+    a: "Der Rahmen besteht in allen drei Regionen, jedoch mit unterschiedlichen Modalitäten: Die Wallonie (CWaPE, ORES/RESA/AIEG/AIESH/REW) und Flandern (VREG, Fluvius) haben einen operativen Rahmen, während Brüssel (BRUGEL, Sibelga) den kollektiven Eigenverbrauch über Pilotprojekte eingeführt hat. Ein intelligenter Zähler ist überall erforderlich."
 ---
 
 Der Eigenverbrauch ist zu einer der Säulen der belgischen Energiewende geworden: den lokal erzeugten Strom selbst verbrauchen, statt ihn zu geringem Wert ins Netz einzuspeisen. Mit einem Photovoltaik-Bestand von inzwischen über **8 GWp** und seit 2022 volatilen Marktpreisen war es noch nie so sinnvoll, die eigene Produktion zu verwerten — allein oder gemeinsam. Dieser Artikel erklärt, was Eigenverbrauch ist, warum er sich lohnt, wie Sie Ihre **Eigenverbrauchsquote** erhöhen und wie er mit **Energiegemeinschaften** zusammenhängt — mit den Unterschieden zwischen Wallonie, Brüssel und Flandern.
@@ -79,7 +79,7 @@ Das Prinzip des Eigenverbrauchs ist überall gleich, doch die Akteure und der Re
 | Kriterium | Wallonie | Brüssel | Flandern |
 |---|---|---|---|
 | Regulierungsbehörde | CWaPE | BRUGEL | VREG |
-| Verteilnetzbetreiber (VNB) | ORES, RESA, AIEG | Sibelga | Fluvius |
+| Verteilnetzbetreiber (VNB) | ORES, RESA, AIEG, AIESH, REW | Sibelga | Fluvius |
 | Rahmen für kollektiven Eigenverbrauch | Operativ (CER / CEC) | Über Pilotprojekte eingeführt | Operativ („energiedelen“) |
 | Intelligenter Zähler erforderlich | Ja | Ja | Ja |
 | Zusatzeinkommen für den Erzeuger | Grünstromzertifikate | Grünstromzertifikate (≈ erste 10 Jahre) | Spezifische Förderung — siehe VREG |
@@ -134,7 +134,7 @@ Nein. Sie behalten Ihren Lieferanten, der nur noch die Restenergie abrechnet —
 
 ### Funktioniert kollektiver Eigenverbrauch überall in Belgien?
 
-Der Rahmen besteht in allen drei Regionen, jedoch mit unterschiedlichen Modalitäten: Die Wallonie (CWaPE, ORES/RESA/AIEG) und Flandern (VREG, Fluvius) haben einen operativen Rahmen, während Brüssel (BRUGEL, Sibelga) den kollektiven Eigenverbrauch über Pilotprojekte eingeführt hat. Ein intelligenter Zähler ist überall erforderlich.
+Der Rahmen besteht in allen drei Regionen, jedoch mit unterschiedlichen Modalitäten: Die Wallonie (CWaPE, ORES/RESA/AIEG/AIESH/REW) und Flandern (VREG, Fluvius) haben einen operativen Rahmen, während Brüssel (BRUGEL, Sibelga) den kollektiven Eigenverbrauch über Pilotprojekte eingeführt hat. Ein intelligenter Zähler ist überall erforderlich.
 
 ## Werden Sie aktiv
 

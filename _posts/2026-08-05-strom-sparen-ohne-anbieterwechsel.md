@@ -2,7 +2,7 @@
 layout: post
 title: "Strom sparen ohne Anbieterwechsel"
 date: 2026-08-05 04:00:00 +0200
-last_modified_at: 2026-08-27 06:00:00 +0200
+last_modified_at: 2026-10-22 10:00:00 +0200
 author: "Eric, OptimCE"
 excerpt: "Jeder Ratgeber zum Stromsparen endet mit demselben Satz: vergleichen und dann den Anbieter wechseln. Dabei gibt es einen Mechanismus, der die Rechnung senkt, ohne dass Sie irgendetwas kündigen müssen — die Energieteilung. Die Frage ist nicht, ob sie legal ist: das ist sie in allen drei Regionen. Die Frage ist, ob sie dort verfügbar ist, wo Sie wohnen, und zwei Zahlen umreißen die Antwort: 38 genehmigte Gemeinschaften in Brüssel, 8 in der Wallonie."
 description: "Energieteilung senkt Ihre Stromrechnung, ohne den Vertrag zu kündigen. Was sie wirklich bringt und in welcher Region sie tatsächlich verfügbar ist."
@@ -89,7 +89,7 @@ Hier liegt der Kern des Themas. Die folgende Tabelle fasst die tatsächliche Ver
 
 | | Brüssel | Wallonie | Flandern |
 |---|---|---|---|
-| **Regulierungsbehörde / VNB** | Brugel / Sibelga | CWaPE / ORES, RESA, AIEG | VREG / Fluvius |
+| **Regulierungsbehörde / VNB** | Brugel / Sibelga | CWaPE / ORES, RESA, AIEG, AIESH, REW | VREG / Fluvius |
 | **Peer-to-Peer** | **in Betrieb** | **blockiert** — Dekret 2022, Ausführungserlass fehlt | in Betrieb |
 | **Gleiches Gebäude** | in Betrieb | in Betrieb | in Betrieb |
 | **Gemeinschaft** | in Betrieb | in Betrieb | in Betrieb |

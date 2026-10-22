@@ -9,13 +9,13 @@ tags: [allocation-key, administrative]
 lang: de
 ref: allocation-key-belgium
 pillar: cle-de-repartition
-last_modified_at: 2026-10-11 10:00:00 +0200
+last_modified_at: 2026-10-22 10:00:00 +0200
 permalink: /de/ratgeber/verteilungsschluessel-energiegemeinschaft-belgien/
 ---
 
 Der **Aufteilungsschlüssel** ist das stille Räderwerk, das eine lokale Stromerzeugung in einen greifbaren Vorteil für jedes Mitglied einer Energiegemeinschaft verwandelt. Viertelstunde für Viertelstunde entscheidet er, *wer wie viel* geteilte Energie erhält. Und genau hier wird Belgien kompliziert: Wallonie, Brüssel und Flandern haben weder dieselbe Liste standardisierter Schlüssel übernommen noch verwenden sie dasselbe Vokabular oder dieselben Validierungsregeln.
 
-Dieser Artikel führt durch die drei regionalen Rahmenwerke — **CWaPE / ORES / RESA / AIEG** in der Wallonie, **BRUGEL / Sibelga** in Brüssel, **VREG / Fluvius** in Flandern —, vergleicht, was in jeder Region tatsächlich erlaubt ist, und hilft Community-Managern, einen Schlüssel zu wählen, der langfristig trägt. Sind Sie mit dem Konzept einer Energiegemeinschaft noch nicht vertraut, beginnen Sie mit unserem Artikel [„Energiegemeinschaften in Belgien: CER, CEC, CEL“](/de/ratgeber/energiegemeinschaften-belgien/) — er legt das hier verwendete Vokabular fest.
+Dieser Artikel führt durch die drei regionalen Rahmenwerke — **CWaPE / ORES / RESA / AIEG / AIESH / REW** in der Wallonie, **BRUGEL / Sibelga** in Brüssel, **VREG / Fluvius** in Flandern —, vergleicht, was in jeder Region tatsächlich erlaubt ist, und hilft Community-Managern, einen Schlüssel zu wählen, der langfristig trägt. Sind Sie mit dem Konzept einer Energiegemeinschaft noch nicht vertraut, beginnen Sie mit unserem Artikel [„Energiegemeinschaften in Belgien: CER, CEC, CEL“](/de/ratgeber/energiegemeinschaften-belgien/) — er legt das hier verwendete Vokabular fest.
 
 <img src="/assets/images/diagrams/allocation-key-flow-de.svg"
      alt="Fünfstufiges Schema: Viertelstundendaten, Generierung oder Simulation, Kandidatenschlüssel, Freigabe durch die Mitglieder, Übermittlung an den Netzbetreiber."
@@ -51,7 +51,7 @@ In der Wallonie wird die Energieteilung durch das Dekret vom 12. April 2001 übe
 
 ### Nicht-standardisierte Schlüssel
 
-Die Gemeinschaft kann einen **alternativen Schlüssel vorschlagen**, dieser muss aber **spezifisch genehmigt** werden: ORES, RESA oder AIEG leitet ihn an CWaPE weiter, die validiert oder Anpassungen verlangt. Dieser Weg bleibt eine Minderheit; in der Praxis decken die drei Standardschlüssel die überwiegende Mehrheit der wallonischen Projekte ab.
+Die Gemeinschaft kann einen **alternativen Schlüssel vorschlagen**, dieser muss aber **spezifisch genehmigt** werden: Der VNB leitet ihn an CWaPE weiter, die validiert oder Anpassungen verlangt. Dieser Weg bleibt eine Minderheit; in der Praxis decken die drei Standardschlüssel die überwiegende Mehrheit der wallonischen Projekte ab.
 
 ### Einen Schlüssel nach dem Start ändern
 
@@ -104,7 +104,7 @@ Praktischer Unterschied zur Wallonie: Flandern verfügt **nicht über eine vom V
 | Kriterium | Wallonie | Brüssel | Flandern |
 |---|---|---|---|
 | Regulierungsbehörde | **CWaPE** | **BRUGEL** | **VREG** |
-| VNB | ORES / RESA / AIEG | **Sibelga** (einziger) | **Fluvius** (einziger) |
+| VNB | ORES / RESA / AIEG / AIESH / REW | **Sibelga** (einziger) | **Fluvius** (einziger) |
 | Referenzdokument | Vorschlag CD-23d27-CWaPE-0928 (27.04.2023) | Sibelga-Seite „Verteilungs­methoden“ | Fluvius-Protokoll v3.x (Juli 2024) |
 | Schlüssel Nr. 1 — Egalitär | Egalitärer fester Schlüssel | Feste Methode (1 Runde, gleiche Anteile) | Vaste verdeelsleutel |
 | Schlüssel Nr. 2 — Spezifische Prozente | Spezifischer fester Schlüssel | Feste Methode (vordefinierte Prozente) | Vaste verdeelsleutel (verhandelte Prozente) |
@@ -198,7 +198,7 @@ Der Schlüssel wird **neu berechnet**, um das neue Mitglied zu integrieren. Bei 
 
 ## Was Sie sich merken sollten
 
-Drei Regulierungsbehörden (CWaPE, BRUGEL, VREG), drei Referenz-VNB (ORES/RESA/AIEG, Sibelga, Fluvius), drei Vokabulare („Schlüssel“, „Methode“, „verdeelsleutel“) — aber eine gemeinsame Mechanik im Viertelstundentakt, abhängig von Smart Metern und organisiert um zwei große Familien: die **festen** Schlüssel (egalitär oder gewichtet) und die **dynamischen / optimierten** Schlüssel (prorata, hybrid, optimal).
+Drei Regulierungsbehörden (CWaPE, BRUGEL, VREG), drei VNB-Landschaften (ORES/RESA/AIEG/AIESH/REW, Sibelga, Fluvius), drei Vokabulare („Schlüssel“, „Methode“, „verdeelsleutel“) — aber eine gemeinsame Mechanik im Viertelstundentakt, abhängig von Smart Metern und organisiert um zwei große Familien: die **festen** Schlüssel (egalitär oder gewichtet) und die **dynamischen / optimierten** Schlüssel (prorata, hybrid, optimal).
 
 Die Wahl eines Schlüssels ist keine technische Frage: Sie ist eine politische Governance-Entscheidung, die die Werte und Beschränkungen der Mitglieder widerspiegeln muss. Und weil kein Schlüssel in Stein gemeißelt ist, brauchen Sie ein Tool, um ihn zu konfigurieren, zu historisieren, sauber weiterzuentwickeln — und nun auch **automatisch aus realen Gemeinschaftsdaten zu generieren**: genau das bietet **OptimCE** heute.
 
@@ -214,7 +214,7 @@ Mehr in unseren begleitenden Leitfäden:
 
 > **[Energiegemeinschaft in der Wallonie gründen](/de/ratgeber/energiegemeinschaft-gruenden-wallonien/)**
 >
-> Wahl zwischen CER und CEC, Projektstrukturierung, Meldung bei der CWaPE, Empfangsbestätigung und Start der Teilung mit ORES, RESA oder AIEG — einschließlich der Stellung des Verteilungs­schlüssels im Dossier.
+> Wahl zwischen CER und CEC, Projektstrukturierung, Meldung bei der CWaPE, Empfangsbestätigung und Start der Teilung mit dem Netzbetreiber — einschließlich der Stellung des Verteilungs­schlüssels im Dossier.
 
 > **[Energiegemeinschaft in der Wallonie beitreten](/de/ratgeber/energiegemeinschaft-beitreten-wallonien/)**
 >

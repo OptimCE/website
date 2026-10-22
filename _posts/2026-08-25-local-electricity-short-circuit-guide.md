@@ -9,7 +9,7 @@ tags: [guide, community]
 lang: en
 ref: local-electricity-short-circuit
 pillar: facture-electricite
-last_modified_at: 2026-09-10 06:00:00 +0200
+last_modified_at: 2026-10-22 10:00:00 +0200
 permalink: /en/guides/local-electricity-short-circuit-guide/
 faq:
   - q: "Can I buy electricity from the neighbour across the street in Wallonia?"
@@ -51,7 +51,7 @@ Applied to electricity, this definition is **unreachable**. Not difficult: unrea
 
 ### The toll you never bypass
 
-Between a panel on the school roof and the socket of the baker across the road, there is always at least one actor that no legal arrangement makes disappear: the **distribution system operator**. ORES, RESA and AIEG own and run the cable. They do not sell electricity — they carry it — but they are an intermediary in the full sense: they stand in between, they measure, and they charge.
+Between a panel on the school roof and the socket of the baker across the road, there is always at least one actor that no legal arrangement makes disappear: the **distribution system operator**. ORES, RESA, AIEG, AIESH and REW, each in its own area, own and run the cable. They do not sell electricity — they carry it — but they are an intermediary in the full sense: they stand in between, they measure, and they charge.
 
 That is the structural difference with the tomato. A market gardener can decide to deliver the crates personally and cut out wholesale logistics entirely. An electricity producer has no way of delivering electrons directly: the road is a regulated monopoly, and it is a toll road.
 

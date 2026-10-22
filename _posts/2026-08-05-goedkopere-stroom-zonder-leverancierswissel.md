@@ -2,7 +2,7 @@
 layout: post
 title: "Goedkopere stroom zonder leverancierswissel"
 date: 2026-08-05 04:00:00 +0200
-last_modified_at: 2026-08-27 06:00:00 +0200
+last_modified_at: 2026-10-22 10:00:00 +0200
 author: "Eric van OptimCE"
 excerpt: "Elke gids over besparen op elektriciteit eindigt met dezelfde zin: vergelijk en verander dan van leverancier. Toch bestaat er een mechanisme dat uw factuur verlaagt zonder dat u iets moet opzeggen — energiedelen. De vraag is niet of het legaal is: dat is het in alle drie de gewesten. De vraag is of het beschikbaar is waar u woont, en twee cijfers schetsen het antwoord: 38 vergunde gemeenschappen in Brussel, 8 in Wallonië."
 description: "Energiedelen verlaagt uw factuur zonder uw contract op te zeggen. Wat het echt oplevert en in welk gewest het werkelijk beschikbaar is."
@@ -89,7 +89,7 @@ Hier ligt de kern van de zaak. De tabel hieronder vat de werkelijke beschikbaarh
 
 | | Brussel | Wallonië | Vlaanderen |
 |---|---|---|---|
-| **Regulator / DNB** | Brugel / Sibelga | CWaPE / ORES, RESA, AIEG | VREG / Fluvius |
+| **Regulator / DNB** | Brugel / Sibelga | CWaPE / ORES, RESA, AIEG, AIESH, REW | VREG / Fluvius |
 | **Peer-to-peer** | **operationeel** | **geblokkeerd** — decreet 2022, uitvoeringsbesluit ontbreekt | operationeel |
 | **Zelfde gebouw** | operationeel | operationeel | operationeel |
 | **Gemeenschap** | operationeel | operationeel | operationeel |

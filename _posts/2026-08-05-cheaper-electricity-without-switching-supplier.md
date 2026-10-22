@@ -2,7 +2,7 @@
 layout: post
 title: "Cheaper electricity without switching supplier"
 date: 2026-08-05 04:00:00 +0200
-last_modified_at: 2026-08-27 06:00:00 +0200
+last_modified_at: 2026-10-22 10:00:00 +0200
 author: "Eric from OptimCE"
 excerpt: "Every guide to saving on electricity ends with the same sentence: compare, then switch supplier. Yet one mechanism lowers the bill without cancelling anything — energy sharing. The question is not whether it is legal: it is, in all three regions. It is whether it is available where you live, and two numbers frame the answer: 38 authorised communities in Brussels, 8 in Wallonia."
 description: "Energy sharing lowers your bill without cancelling your contract. What it is really worth, and which Belgian region can actually offer it to you."
@@ -89,7 +89,7 @@ Here is the heart of the matter. The table below summarises the real availabilit
 
 | | Brussels | Wallonia | Flanders |
 |---|---|---|---|
-| **Regulator / DSO** | Brugel / Sibelga | CWaPE / ORES, RESA, AIEG | VREG / Fluvius |
+| **Regulator / DSO** | Brugel / Sibelga | CWaPE / ORES, RESA, AIEG, AIESH, REW | VREG / Fluvius |
 | **Peer-to-peer** | **operational** | **blocked** — 2022 decree, implementing order missing | operational |
 | **Same building** | operational | operational | operational |
 | **Community** | operational | operational | operational |

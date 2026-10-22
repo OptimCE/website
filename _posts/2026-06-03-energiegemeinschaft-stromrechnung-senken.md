@@ -9,7 +9,7 @@ tags: [community]
 lang: de
 ref: reduce-electricity-bill
 pillar: facture-electricite
-last_modified_at: 2026-08-05 10:00:00 +0200
+last_modified_at: 2026-10-22 10:00:00 +0200
 permalink: /de/ratgeber/energiegemeinschaft-stromrechnung-senken/
 ---
 
@@ -68,7 +68,7 @@ Die Sparmechanismen bestehen in allen drei Regionen, doch die Akteure und einige
 | Kriterium | Wallonie | Brüssel | Flandern |
 |---|---|---|---|
 | Regulierungsbehörde | CWaPE | BRUGEL | VREG |
-| Verteilnetzbetreiber (VNB) | ORES, RESA, AIEG | Sibelga | Fluvius |
+| Verteilnetzbetreiber (VNB) | ORES, RESA, AIEG, AIESH, REW | Sibelga | Fluvius |
 | Netzentgelt auf geteilter Energie | Keine Ermäßigung in der Gemeinschaft; −80 % auf die proportionalen Bestandteile im selben Gebäude | Gestaffelte Ermäßigung über vier Perimeter: Arbeitspreisanteil im selben Gebäude gestrichen, −50 % an derselben NS-Kabine; der Grundpreisanteil wird in keinem der vier berechnet | Keine Ermäßigung |
 | Zusätzliches Einkommen für den Erzeuger | Grünstromzertifikate | Grünstromzertifikate (≈ erste 10 Jahre) | Spezifische Förderung — siehe VREG |
 | Intelligenter Zähler erforderlich | Ja | Ja | Ja |

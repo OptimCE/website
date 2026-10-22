@@ -3,14 +3,14 @@ layout: post
 title: "Créer une communauté d'énergie en Wallonie"
 date: 2026-05-11 14:00:00 +0200
 author: "Eric d'OptimCE"
-excerpt: "Comment créer une communauté d'énergie (CER ou CEC) en Wallonie : choix du modèle, structure juridique, notification à la CWaPE, accusé de réception et démarrage du partage avec ORES, RESA ou AIEG."
-description: "Modèle CER ou CEC, structure juridique, notification à la CWaPE et démarrage du partage avec ORES, RESA ou AIEG : les étapes concrètes."
+excerpt: "Comment créer une communauté d'énergie (CER ou CEC) en Wallonie : choix du modèle, structure juridique, notification à la CWaPE, accusé de réception et démarrage du partage avec le gestionnaire de réseau de distribution (GRD)."
+description: "Modèle CER ou CEC, structure juridique, notification à la CWaPE et démarrage du partage avec le GRD : les étapes concrètes."
 tags: [community, administrative, guide]
 lang: fr
 ref: create-energy-community-wallonia
 pillar: communautes-energie
 permalink: /guides/creer-communaute-energie-wallonie/
-last_modified_at: 2026-10-11 10:00:00 +0200
+last_modified_at: 2026-10-22 10:00:00 +0200
 ---
 
 La Wallonie est, à ce jour, la région belge où les communautés d'énergie se déploient le plus rapidement. Cadre légal stabilisé depuis 2022, formulaire-type publié par la CWaPE, gestionnaires de réseau outillés : tous les ingrédients sont réunis pour qu'un groupe de citoyens, une commune, une école ou un parc d'entreprises lance son propre partage d'énergie. Ce guide décrit, pas à pas, **la procédure complète** : du choix du type de communauté à la mise en service du partage avec votre gestionnaire de réseau de distribution (GRD). Si vous n'êtes pas encore familier avec la notion même de communauté d'énergie, commencez par notre article [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/guides/communautes-energie-belgique/) — il pose le vocabulaire repris ici.
@@ -25,7 +25,7 @@ Le guide s'adresse à deux profils typiques : un **collectif qui démarre de zé
 | 2 | Cadrer le projet | Membres, structure juridique, représentant | Porteur de projet | 1–3 mois |
 | 3 | Notifier la CWaPE | Déposer le formulaire-type | CWaPE | 1 jour (dépôt) |
 | 4 | Recevoir l'accusé de réception | Feu vert administratif | CWaPE | **10 jours ouvrables** |
-| 5 | Lancer le partage avec le GRD | Convention, clés, compteurs | ORES / RESA / AIEG | 1–2 mois |
+| 5 | Lancer le partage avec le GRD | Convention, clés, compteurs | GRD | 1–2 mois |
 | 6 | Exploiter et rapporter | Reporting annuel, gouvernance | Communauté | Continu |
 
 Comptez **3 à 6 mois** entre l'idée initiale et le premier kilowattheure partagé, principalement à cause du cadrage juridique (étape 2) et de la coordination technique avec le GRD (étape 5).
@@ -88,7 +88,7 @@ La CWaPE met à disposition un **formulaire-type** qui structure la notification
 - Le **représentant** désigné et ses coordonnées.
 - La **liste des membres** initiaux (particuliers, PME, autorités locales) avec leurs EAN.
 - La **configuration du partage** envisagée : type de communauté (CER/CEC), périmètre, source d'énergie partagée, clé de répartition.
-- Le **gestionnaire de réseau** concerné (ORES, RESA ou AIEG) et les points de fourniture associés.
+- Le **gestionnaire de réseau** concerné (ORES, RESA, AIEG, AIESH ou REW) et les points de fourniture associés.
 
 ### Où et comment déposer
 
@@ -114,13 +114,15 @@ Une fois l'accusé de réception en poche, le partage devient une **opération t
 
 ### Identifier le bon GRD
 
-En Wallonie, trois GRD se partagent le territoire :
+En Wallonie, cinq GRD se partagent le réseau d'électricité ([CWaPE](https://www.cwape.be/node/160)) :
 
 - **ORES** — la grande majorité des communes wallonnes.
-- **RESA** — la région liégeoise.
-- **AIEG** — les communes d'Andenne, Éghezée et Gesves.
+- **RESA** — la plus grande partie de la province de Liège.
+- **AIEG** — Andenne, Brunehaut (depuis le 1er janvier 2026), Gesves, Ohey, Rumes et Viroinval.
+- **AIESH** — Beaumont, Chimay, Couvin, Froidchapelle, Momignies et Sivry-Rance.
+- **REW** (Réseau d'Énergies de Wavre) — Wavre.
 
-Le GRD compétent est celui qui exploite le **réseau auquel sont raccordés vos compteurs**. Si la communauté regroupe des membres situés sur des territoires différents, plusieurs GRD peuvent intervenir — c'est rare mais possible.
+Seuls ORES et RESA distribuent aussi le gaz : pour le partage d'électricité, c'est le GRD d'électricité qui compte. Le GRD compétent est celui qui exploite le **réseau auquel sont raccordés vos compteurs** ; notre outil [« Quel est mon GRD ? »](/outils/quel-est-mon-grd/) le donne à partir du code postal. Si la communauté regroupe des membres situés sur des territoires différents, plusieurs GRD peuvent intervenir — c'est rare mais possible.
 
 ### Transmettre la configuration de partage
 
@@ -193,9 +195,9 @@ La CWaPE n'« approuve » pas une communauté : elle **accuse réception** d'une
 
 L'**autoconsommation collective intra-bâtiment** est une opération de partage limitée aux occupants d'un seul immeuble (immeuble à appartements, par exemple). C'est plus simple administrativement, mais plus restreint en périmètre. Une **CER ou CEC** dépasse cette limite et peut couvrir plusieurs bâtiments, voire un quartier entier.
 
-### Mon GRD est-il ORES, RESA ou AIEG ?
+### Mon GRD est-il ORES, RESA, AIEG, AIESH ou REW ?
 
-Cela dépend de votre **commune** : ORES couvre la majorité de la Wallonie, RESA opère sur Liège et sa région, AIEG sur Andenne, Éghezée et Gesves. La facture d'électricité de chaque futur membre mentionne le GRD ; vous pouvez aussi vérifier sur le site du GRD via l'EAN.
+Cela dépend de votre **commune** : ORES couvre la majorité de la Wallonie et RESA la plus grande partie de la province de Liège ; l'AIEG dessert Andenne, Brunehaut, Gesves, Ohey, Rumes et Viroinval, l'AIESH Beaumont, Chimay, Couvin, Froidchapelle, Momignies et Sivry-Rance, et le REW Wavre. Notre outil [« Quel est mon GRD ? »](/outils/quel-est-mon-grd/) le donne à partir du code postal ; la facture d'électricité de chaque futur membre mentionne aussi le GRD.
 
 ### Faut-il changer de fournisseur d'électricité ?
 
@@ -228,6 +230,7 @@ Pour démarrer ou comparer les fonctionnalités, consultez le [guide utilisateur
 - [CWaPE — Quelle est la procédure à suivre pour créer une communauté d'énergie ?](https://www.cwape.be/node/6052) — notification obligatoire, formulaire-type, délai de 10 jours ouvrables pour l'accusé de réception.
 - [CWaPE — Communautés d'énergie](https://www.cwape.be/node/158) — cadre wallon, types de communautés, bases légales, notification et rapportage annuel.
 - [CWaPE — Communautés d'énergie et partage d'énergie](https://www.cwape.be/secteur/communautes-partage-energie) — cadre général wallon du partage et des communautés.
+- [CWaPE — Les gestionnaires de réseaux](https://www.cwape.be/node/160) — les cinq GRD d'électricité actifs en Wallonie, dont deux, ORES et RESA, distribuent aussi le gaz.
 - [ORES — Démarrer une communauté d'énergie (CER/CEC)](https://www.ores.be/particulier/demarrer-partage-cer-cec) — démarches côté gestionnaire de réseau et étapes de lancement.
 - [AIEG — Le partage d'énergie](https://www.aieg.be/le-partage-denergie) — aspect opérationnel et mise en place côté GRD.
 - [MaCER / Cluster TWEED — Les étapes-clés](https://macer.clustertweed.be/etapes) — accompagnement pour structurer un projet de communauté d'énergie.

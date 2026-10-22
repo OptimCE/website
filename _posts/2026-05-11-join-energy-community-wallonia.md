@@ -9,11 +9,11 @@ tags: [community, administrative, guide]
 lang: en
 ref: join-energy-community-wallonia
 pillar: communautes-energie
-last_modified_at: 2026-09-16 06:00:00 +0200
+last_modified_at: 2026-10-22 10:00:00 +0200
 permalink: /en/guides/join-energy-community-wallonia/
 ---
 
-In Wallonia, energy communities are no longer a fringe experiment: hundreds of sharing operations are live or in the notification pipeline. The legal framework is stable, the distribution system operators (ORES, RESA, AIEG) are tooled up, and most meters are already smart. One very concrete obstacle remains for most citizens, SMEs and local authorities: **how to find a community willing to take new members**, and **what to check before signing**.
+In Wallonia, energy communities are no longer a fringe experiment: hundreds of sharing operations are live or in the notification pipeline. The legal framework is stable, the distribution system operators (DSOs) are tooled up, and most meters are already smart. One very concrete obstacle remains for most citizens, SMEs and local authorities: **how to find a community willing to take new members**, and **what to check before signing**.
 
 This guide is for that audience. Not for project leaders who want to create a community — for that, see our [step-by-step creation guide](/en/guides/create-energy-community-wallonia/) — nor for those still discovering the concept — start with [“Energy communities in Belgium: CER, CEC, CEL”](/en/guides/energy-communities-belgium/). It is for anyone who wants to **join an existing operation** and wants to know exactly how to go about it.
 
@@ -64,7 +64,7 @@ Municipalities, inter-municipal entities, communal schools and public welfare of
 
 Three technical conditions must be met at your delivery point before you can enrol:
 
-- **Smart meter**: mandatory. If you don't have one yet, your DSO (ORES, RESA or AIEG) installs it **free of charge**, typically within 60 days. See the [AIEG energy-sharing guide](https://www.aieg.be/le-partage-denergie) for the operator-side technical details.
+- **Smart meter**: mandatory. If you don't have one yet, your DSO installs it **free of charge**, typically within 60 days. See the [AIEG energy-sharing guide](https://www.aieg.be/le-partage-denergie) for the operator-side technical details.
 - **Identifiable EAN**: your delivery-point number, 18 digits starting with `541449...`. It appears on every electricity bill, in the “technical data” or “delivery point” section.
 - **Geographic scope**: required for a **CER** (you must be within the proximity perimeter defined with the producers), not required for a **CEC**. For the CER vs CEC refresher, see the [comparison table in our parent article](/en/guides/energy-communities-belgium/).
 
@@ -78,7 +78,7 @@ This is the trickiest question in Wallonia today. Several channels coexist, from
 | 2 | SPW Energy Community facilitator | Citizens wanting personal guidance | Medium — first contact |
 | 3 | Énergie commune (matchmaking) | Citizens oriented toward cooperatives / values | Low — online form |
 | 4 | Local inter-municipal entity / cooperative | Residents of a specific area | Variable |
-| 5 | DSO pages (ORES, RESA, AIEG) | Cross-checking after identification | Low |
+| 5 | DSO pages | Cross-checking after identification | Low |
 | 6 | Municipality, local press, word of mouth | Serendipitous discovery | Variable |
 
 ### The OptimCE public registry
@@ -97,11 +97,11 @@ The non-profit [Énergie commune](https://energiecommune.be) offers a **contact 
 
 ### Local inter-municipal entities and cooperatives
 
-Several inter-municipal entities run their own sharing dynamic. The [AIEG](https://www.aieg.be/le-partage-denergie), for instance, actively coordinates energy sharing in the municipalities of Andenne, Éghezée and Gesves. Citizen cooperatives (Courant d'Air, Énergie 2030, Lucéole, among others) also lead sharing projects in their home region — a quick look at their websites is often worth the detour.
+Several inter-municipal entities run their own sharing dynamic. The [AIEG](https://www.aieg.be/le-partage-denergie), for instance, actively coordinates energy sharing in the municipalities it serves (Andenne, Brunehaut, Gesves, Ohey, Rumes and Viroinval). Citizen cooperatives (Courant d'Air, Énergie 2030, Lucéole, among others) also lead sharing projects in their home region — a quick look at their websites is often worth the detour.
 
 ### DSO information pages
 
-ORES, RESA and AIEG publish information pages on the communities active in their territory. They don't do direct matchmaking, but they let you cross-check the existence of a project identified through another channel.
+ORES, RESA and AIEG, for instance, publish information pages on the communities active in their territory. They don't do direct matchmaking, but they let you cross-check the existence of a project identified through another channel.
 
 ### Municipality, local press, word of mouth
 
@@ -121,7 +121,7 @@ What to bring to that first contact: your most recent electricity bill (or at le
 
 The community manager verifies a few elements:
 
-- Your **EAN** is connected to the relevant DSO (ORES/RESA/AIEG depending on the municipality).
+- Your **EAN** is connected to the relevant DSO: ORES, RESA, AIEG, AIESH or REW depending on the municipality. Our [“Find your DSO”](/en/tools/find-my-dso/) tool gives it from the postcode.
 - Your delivery point lies within the community's **perimeter** (essential for a CER; not applicable for a CEC).
 - Your **meter** is smart. If not, the DSO schedules a free replacement.
 
@@ -143,7 +143,7 @@ Depending on the community's legal structure, formalities vary:
 
 ### Step 5 — Communication to the DSO and go-live
 
-Good news for you: at this step, **you have nothing to do**. The community manager transmits your EAN to the DSO (ORES, RESA or AIEG), which adds you to the sharing operation on an agreed date. No supplier change, no contract termination, no new contract to sign on the energy side.
+Good news for you: at this step, **you have nothing to do**. The community manager transmits your EAN to your DSO, which adds you to the sharing operation on an agreed date. No supplier change, no contract termination, no new contract to sign on the energy side.
 
 The delay between signature and first shared kWh is typically **4 to 8 weeks**. The limiting factor is DSO scheduling, plus a potential smart-meter installation if you didn't have one.
 
@@ -239,7 +239,7 @@ Three channels to take action:
 
 > **[Create an energy community in Wallonia](/en/guides/create-energy-community-wallonia/)**
 >
-> Choosing between CER and CEC, framing the project, notifying the CWaPE, receiving the acknowledgement and launching the sharing with ORES, RESA or AIEG.
+> Choosing between CER and CEC, framing the project, notifying the CWaPE, receiving the acknowledgement and launching the sharing with the DSO.
 
 For the broader context — what an energy community is and the European foundations — see the article [“Energy communities in Belgium: CER, CEC, CEL”](/en/guides/energy-communities-belgium/).
 
@@ -251,3 +251,4 @@ For the broader context — what an energy community is and the European foundat
 - [Énergie commune — Community](https://energiecommune.be) — matchmaking form for citizens looking for a Walloon community.
 - [Énergie+ — How to set up an energy community in Wallonia](https://energieplus-lesite.be/webinaire/comment-mettre-en-place-une-communaute-denergie-en-wallonie/) — membership and participation logic.
 - [AIEG — Energy sharing](https://www.aieg.be/le-partage-denergie) — local operational examples and DSO-side technical requirements.
+- [CWaPE — Network operators](https://www.cwape.be/node/160) — the five electricity DSOs active in Wallonia: ORES, RESA, AIEG, AIESH and REW.

@@ -2,7 +2,7 @@
 layout: post
 title: "Energiegemeinschaft: Leitfaden für Gemeinden"
 date: 2026-08-30 06:00:00 +0200
-last_modified_at: 2026-10-11 10:00:00 +0200
+last_modified_at: 2026-10-22 10:00:00 +0200
 author: "Eric, OptimCE"
 excerpt: "262 wallonische Gemeinden. Dreizehn Energiegemeinschaften mit vollständiger Akte bei der CWaPE, von denen nur sechs tatsächlich Strom teilen. Das ist kein Mangel an Ehrgeiz: es hat nur kaum jemand bemerkt, was das wallonische Recht bereits sagt. Das erste der beiden Nähekriterien einer Erneuerbare-Energie-Gemeinschaft lautet wörtlich „das Gebiet einer einzigen und derselben Gemeinde“. Wallonien ist die einzige der drei Regionen, in der der Gesetzgeber den Perimeter selbst gezogen hat — entlang der Gemeindegrenze."
 description: "In Wallonien ist der Perimeter einer Erneuerbare-Energie-Gemeinschaft das Gemeindegebiet. Was die Gemeinde damit tun kann und zu welchem Preis."
@@ -205,7 +205,7 @@ Was folgt, ist kein Zeitplan — er hängt zu sehr von der Vergabe ab — sonder
 | 2 | Die Teilnehmer: welche Gemeindegebäude, das Sozialhilfezentrum, welche Bürger, welche KMU | Kollegium, dann Rat | Auf Grundlage der Verbrauchsprofile, nicht des guten Willens |
 | 3 | Rechtsform und Governance | Gemeinderat | Beschluss + Aufsicht; VoG in allen dreizehn wallonischen Fällen |
 | 4 | Anmeldung der Gemeinschaft bei der CWaPE | Vertreter der Gemeinschaft | Online-Formulare auf `monespace.wallonie.be` |
-| 5 | Teilungsgenehmigung und Vereinbarung mit dem Netzbetreiber | Vertreter der Teilung | CWaPE, dann Mustervereinbarung mit ORES, RESA oder AIEG |
+| 5 | Teilungsgenehmigung und Vereinbarung mit dem Netzbetreiber | Vertreter der Teilung | CWaPE, dann Mustervereinbarung mit dem Netzbetreiber |
 | 6 | Aufteilungsschlüssel und interner Preis | Generalversammlung der Gemeinschaft | CWaPE-Standardschlüssel oder maßgeschneiderter Schlüssel |
 | 7 | Jährliche Berichterstattung | Vertreter der Gemeinschaft | Jedes Jahr, **bis zum 1. September** |
 

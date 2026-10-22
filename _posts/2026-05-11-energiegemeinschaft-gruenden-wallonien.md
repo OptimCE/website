@@ -3,13 +3,13 @@ layout: post
 title: "Energiegemeinschaft in der Wallonie gründen"
 date: 2026-05-11 14:00:00 +0200
 author: "Eric, OptimCE"
-excerpt: "Wie man eine Energiegemeinschaft (CER oder CEC) in der Wallonie gründet: Modellwahl, Rechtsform, Meldung bei der CWaPE, Empfangsbestätigung und Start der Energieteilung mit ORES, RESA oder AIEG."
-description: "CER- oder CEC-Modell, Rechtsform, Meldung bei der CWaPE und Start der Energieteilung mit ORES, RESA oder AIEG: die konkreten Schritte."
+excerpt: "Wie man eine Energiegemeinschaft (CER oder CEC) in der Wallonie gründet: Modellwahl, Rechtsform, Meldung bei der CWaPE, Empfangsbestätigung und Start der Energieteilung mit dem Verteilnetzbetreiber (VNB)."
+description: "CER- oder CEC-Modell, Rechtsform, Meldung bei der CWaPE und Start der Energieteilung mit dem Netzbetreiber: die konkreten Schritte."
 tags: [community, administrative, guide]
 lang: de
 ref: create-energy-community-wallonia
 pillar: communautes-energie
-last_modified_at: 2026-10-11 10:00:00 +0200
+last_modified_at: 2026-10-22 10:00:00 +0200
 permalink: /de/ratgeber/energiegemeinschaft-gruenden-wallonien/
 ---
 
@@ -25,7 +25,7 @@ Der Leitfaden richtet sich an zwei typische Profile: ein **Kollektiv, das bei nu
 | 2 | Projekt strukturieren | Mitglieder, Rechtsform, Vertreter | Projektträger | 1–3 Monate |
 | 3 | CWaPE benachrichtigen | Standardformular einreichen | CWaPE | 1 Tag (Einreichung) |
 | 4 | Empfangsbestätigung erhalten | Behördliches grünes Licht | CWaPE | **10 Werktage** |
-| 5 | Teilung mit dem VNB starten | Vereinbarung, Schlüssel, Zähler | ORES / RESA / AIEG | 1–2 Monate |
+| 5 | Teilung mit dem VNB starten | Vereinbarung, Schlüssel, Zähler | VNB | 1–2 Monate |
 | 6 | Betreiben und berichten | Jahresbericht, Governance | Gemeinschaft | Laufend |
 
 Rechnen Sie mit **3 bis 6 Monaten** zwischen der ersten Idee und der ersten geteilten Kilowattstunde, hauptsächlich wegen der rechtlichen Strukturierung (Schritt 2) und der technischen Abstimmung mit dem VNB (Schritt 5).
@@ -88,7 +88,7 @@ Die CWaPE stellt ein **Standardformular** zur Strukturierung der Meldung bereit.
 - Den **benannten Vertreter** und seine Kontaktdaten.
 - Die **Liste der Gründungsmitglieder** (Privatpersonen, KMU, Gebietskörperschaften) mit ihren EANs.
 - Die **vorgesehene Teilungskonfiguration**: Gemeinschaftstyp (CER/CEC), Umfang, geteilte Energiequelle, Aufteilungsschlüssel.
-- Den **betroffenen Netzbetreiber** (ORES, RESA oder AIEG) und die zugehörigen Lieferpunkte.
+- Den **betroffenen Netzbetreiber** (ORES, RESA, AIEG, AIESH oder REW) und die zugehörigen Lieferpunkte.
 
 ### Wo und wie einreichen
 
@@ -114,13 +114,15 @@ Sobald die Empfangsbestätigung vorliegt, wird die Teilung zu einem **technische
 
 ### Den zuständigen VNB identifizieren
 
-In der Wallonie teilen sich drei VNB das Gebiet:
+In der Wallonie teilen sich fünf VNB das Stromnetz ([CWaPE](https://www.cwape.be/node/160)):
 
 - **ORES** — die große Mehrheit der wallonischen Gemeinden.
-- **RESA** — die Region Lüttich.
-- **AIEG** — die Gemeinden Andenne, Éghezée und Gesves.
+- **RESA** — der größte Teil der Provinz Lüttich.
+- **AIEG** — Andenne, Brunehaut (seit dem 1. Januar 2026), Gesves, Ohey, Rumes und Viroinval.
+- **AIESH** — Beaumont, Chimay, Couvin, Froidchapelle, Momignies und Sivry-Rance.
+- **REW** (Réseau d'Énergies de Wavre) — Wavre.
 
-Zuständig ist der VNB, der das **Netz betreibt, an das Ihre Zähler angeschlossen sind**. Wenn die Gemeinschaft Mitglieder aus unterschiedlichen Gebieten umfasst, können mehrere VNB beteiligt sein — selten, aber möglich.
+Nur ORES und RESA verteilen auch Gas: Für die Stromteilung zählt der Stromnetzbetreiber. Zuständig ist der VNB, der das **Netz betreibt, an das Ihre Zähler angeschlossen sind**; unser Werkzeug [„Netzbetreiber finden“](/de/werkzeuge/netzbetreiber-finden/) nennt ihn anhand der Postleitzahl. Wenn die Gemeinschaft Mitglieder aus unterschiedlichen Gebieten umfasst, können mehrere VNB beteiligt sein — selten, aber möglich.
 
 ### Die Teilungskonfiguration übermitteln
 
@@ -193,9 +195,9 @@ Die CWaPE „genehmigt“ keine Gemeinschaft: Sie **bestätigt den Empfang** ein
 
 Der **kollektive Eigenverbrauch innerhalb eines Gebäudes** ist eine Teilungsoperation, die auf die Bewohner eines einzigen Gebäudes beschränkt ist (etwa eines Mehrfamilienhauses). Sie ist administrativ einfacher, aber im Umfang stärker eingegrenzt. Eine **CER oder CEC** geht über diese Grenze hinaus und kann mehrere Gebäude oder ein ganzes Wohnviertel abdecken.
 
-### Ist mein VNB ORES, RESA oder AIEG?
+### Ist mein VNB ORES, RESA, AIEG, AIESH oder REW?
 
-Das hängt von Ihrer **Gemeinde** ab: ORES bedient den Großteil der Wallonie, RESA arbeitet in Lüttich und Umgebung, AIEG in Andenne, Éghezée und Gesves. Auf der Stromrechnung jedes künftigen Mitglieds steht der VNB; Sie können auch über die EAN auf der Website des VNB nachprüfen.
+Das hängt von Ihrer **Gemeinde** ab: ORES bedient den Großteil der Wallonie und RESA den größten Teil der Provinz Lüttich; AIEG ist für Andenne, Brunehaut, Gesves, Ohey, Rumes und Viroinval zuständig, AIESH für Beaumont, Chimay, Couvin, Froidchapelle, Momignies und Sivry-Rance und REW für Wavre. Unser Werkzeug [„Netzbetreiber finden“](/de/werkzeuge/netzbetreiber-finden/) nennt ihn anhand der Postleitzahl; auch auf der Stromrechnung jedes künftigen Mitglieds steht der VNB.
 
 ### Muss ich den Stromlieferanten wechseln?
 
@@ -228,6 +230,7 @@ Zum Einstieg oder zum Funktionsvergleich konsultieren Sie das [OptimCE-Benutzerh
 - [CWaPE — Welches Verfahren ist zur Gründung einer Energiegemeinschaft zu befolgen?](https://www.cwape.be/node/6052) — verpflichtende Meldung, Standardformular, 10-Werktage-Frist für die Empfangsbestätigung.
 - [CWaPE — Energiegemeinschaften](https://www.cwape.be/node/158) — wallonischer Rahmen, Gemeinschaftstypen, Rechtsgrundlagen, Meldung und Jahresberichterstattung.
 - [CWaPE — Energiegemeinschaften und Energieteilung](https://www.cwape.be/secteur/communautes-partage-energie) — allgemeiner wallonischer Rahmen für Teilung und Gemeinschaften.
+- [CWaPE — Die Netzbetreiber](https://www.cwape.be/node/160) — die fünf in der Wallonie tätigen Stromnetzbetreiber, von denen zwei, ORES und RESA, auch Gas verteilen.
 - [ORES — Eine Energiegemeinschaft starten (CER/CEC)](https://www.ores.be/particulier/demarrer-partage-cer-cec) — Vorgehen auf Seiten des Verteilnetzbetreibers.
 - [AIEG — Die Energieteilung](https://www.aieg.be/le-partage-denergie) — operative Aspekte und VNB-seitige Inbetriebnahme.
 - [MaCER / Cluster TWEED — Die Schlüsselschritte](https://macer.clustertweed.be/etapes) — Begleitung zur Strukturierung eines Energiegemeinschaftsprojekts.

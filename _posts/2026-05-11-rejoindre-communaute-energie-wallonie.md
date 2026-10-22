@@ -10,10 +10,10 @@ lang: fr
 ref: join-energy-community-wallonia
 pillar: communautes-energie
 permalink: /guides/rejoindre-communaute-energie-wallonie/
-last_modified_at: 2026-09-16 06:00:00 +0200
+last_modified_at: 2026-10-22 10:00:00 +0200
 ---
 
-En Wallonie, les communautés d'énergie ne sont plus une expérimentation marginale : des centaines d'opérations de partage sont actives ou en cours de notification. Le cadre légal est stabilisé, les gestionnaires de réseau (ORES, RESA, AIEG) sont rodés, et la majorité des compteurs sont déjà communicants. Reste un obstacle bien concret pour la plupart des citoyens, PME et autorités locales : **comment trouver une communauté qui accepte de nouveaux membres**, et **quoi vérifier avant de signer**.
+En Wallonie, les communautés d'énergie ne sont plus une expérimentation marginale : des centaines d'opérations de partage sont actives ou en cours de notification. Le cadre légal est stabilisé, les gestionnaires de réseau de distribution (GRD) sont rodés, et la majorité des compteurs sont déjà communicants. Reste un obstacle bien concret pour la plupart des citoyens, PME et autorités locales : **comment trouver une communauté qui accepte de nouveaux membres**, et **quoi vérifier avant de signer**.
 
 Ce guide est conçu pour ce public. Pas pour les porteurs de projet qui veulent créer une communauté — pour cela, consultez notre [guide de création étape par étape](/guides/creer-communaute-energie-wallonie/) — ni pour ceux qui découvrent encore le concept — voyez d'abord [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/guides/communautes-energie-belgique/). Il s'adresse à toute personne qui souhaite **rejoindre une opération existante** et veut savoir comment s'y prendre.
 
@@ -64,7 +64,7 @@ Communes, intercommunales, écoles communales, CPAS : tous peuvent participer, e
 
 Avant d'adhérer, trois conditions techniques doivent être remplies sur votre point de fourniture :
 
-- **Compteur communicant** : obligatoire. Si vous n'en avez pas encore, le GRD (ORES, RESA ou AIEG) le pose **gratuitement**, généralement dans les 60 jours. Voir le [guide partage d'énergie de l'AIEG](https://www.aieg.be/le-partage-denergie) pour les détails techniques côté gestionnaire.
+- **Compteur communicant** : obligatoire. Si vous n'en avez pas encore, votre GRD le pose **gratuitement**, généralement dans les 60 jours. Voir le [guide partage d'énergie de l'AIEG](https://www.aieg.be/le-partage-denergie) pour les détails techniques côté gestionnaire.
 - **EAN identifiable** : c'est votre numéro de point de fourniture, 18 chiffres commençant par `541449...`. Il figure sur chaque facture d'électricité, dans la rubrique « données techniques » ou « point de fourniture ».
 - **Périmètre géographique** : requis pour une **CER** (vous devez être dans le périmètre de proximité défini avec les producteurs), non requis pour une **CEC**. Pour le rappel CER vs CEC, voyez le [tableau comparatif de notre article-mère](/guides/communautes-energie-belgique/).
 
@@ -78,7 +78,7 @@ C'est la question la plus délicate aujourd'hui en Wallonie. Plusieurs canaux co
 | 2 | Facilitateur Communautés d'énergie du SPW | Citoyen voulant un accompagnement | Moyen — prise de contact |
 | 3 | Énergie commune (mise en relation) | Citoyen orienté coopérative / valeurs | Faible — formulaire en ligne |
 | 4 | Intercommunale / coopérative locale | Habitants d'une zone précise | Variable |
-| 5 | Pages GRD (ORES, RESA, AIEG) | Recoupement après identification | Faible |
+| 5 | Pages des GRD | Recoupement après identification | Faible |
 | 6 | Commune, presse locale, bouche-à-oreille | Découverte fortuite | Variable |
 
 ### Le registre public d'OptimCE
@@ -97,11 +97,11 @@ L'association [Énergie commune](https://energiecommune.be) propose un **formula
 
 ### Les intercommunales et coopératives locales
 
-Plusieurs intercommunales animent leur propre dynamique de partage. L'[AIEG](https://www.aieg.be/le-partage-denergie), par exemple, anime activement le partage d'énergie sur les communes d'Andenne, Éghezée et Gesves. Des coopératives citoyennes (Courant d'Air, Énergie 2030, Lucéole et d'autres) portent également des projets de partage dans leur région d'implantation — un détour par leur site web vaut souvent le coup.
+Plusieurs intercommunales animent leur propre dynamique de partage. L'[AIEG](https://www.aieg.be/le-partage-denergie), par exemple, anime activement le partage d'énergie dans les communes qu'elle dessert (Andenne, Brunehaut, Gesves, Ohey, Rumes et Viroinval). Des coopératives citoyennes (Courant d'Air, Énergie 2030, Lucéole et d'autres) portent également des projets de partage dans leur région d'implantation — un détour par leur site web vaut souvent le coup.
 
 ### Les pages des gestionnaires de réseau
 
-ORES, RESA et AIEG publient des pages d'information sur les communautés actives sur leur territoire. Elles ne font pas de mise en relation directe, mais permettent de recouper l'existence d'un projet identifié par un autre canal.
+ORES, RESA et l'AIEG, par exemple, publient des pages d'information sur les communautés actives sur leur territoire. Elles ne font pas de mise en relation directe, mais permettent de recouper l'existence d'un projet identifié par un autre canal.
 
 ### Commune, presse locale, bouche-à-oreille
 
@@ -121,7 +121,7 @@ Ce que vous apportez à ce premier contact : votre dernière facture d'électric
 
 Le gestionnaire de la communauté vérifie quelques éléments :
 
-- Votre **EAN** est bien raccordé au GRD compétent (ORES/RESA/AIEG selon la commune).
+- Votre **EAN** est bien raccordé au GRD compétent : ORES, RESA, AIEG, AIESH ou REW selon la commune. Notre outil [« Quel est mon GRD ? »](/outils/quel-est-mon-grd/) le donne à partir du code postal.
 - Votre point de fourniture se situe dans le **périmètre** de la communauté (essentiel pour une CER ; sans objet pour une CEC).
 - Votre **compteur** est communicant. À défaut, le GRD planifie son remplacement gratuit.
 
@@ -143,7 +143,7 @@ Selon la structure juridique de la communauté, les formalités varient :
 
 ### Étape 5 — Communication au GRD et démarrage
 
-Bonne nouvelle pour vous : à cette étape, **vous n'avez rien à faire**. Le gestionnaire de la communauté transmet votre EAN au GRD (ORES, RESA ou AIEG), qui vous ajoute à l'opération de partage à une date convenue. Aucun changement de fournisseur, aucune résiliation, aucun nouveau contrat à signer côté énergie.
+Bonne nouvelle pour vous : à cette étape, **vous n'avez rien à faire**. Le gestionnaire de la communauté transmet votre EAN à votre GRD, qui vous ajoute à l'opération de partage à une date convenue. Aucun changement de fournisseur, aucune résiliation, aucun nouveau contrat à signer côté énergie.
 
 Le délai entre la signature et le premier kWh partagé est typiquement de **4 à 8 semaines**. Le facteur limitant est la planification GRD, et éventuellement la pose d'un compteur communicant si vous n'en aviez pas.
 
@@ -239,7 +239,7 @@ Trois canaux pour passer à l'action :
 
 > **[Créer une communauté d'énergie en Wallonie](/guides/creer-communaute-energie-wallonie/)**
 >
-> Choix entre CER et CEC, cadrage du projet, notification à la CWaPE, accusé de réception et démarrage du partage avec ORES, RESA ou AIEG.
+> Choix entre CER et CEC, cadrage du projet, notification à la CWaPE, accusé de réception et démarrage du partage avec le GRD.
 
 Pour le contexte général — qu'est-ce qu'une communauté d'énergie, quelles sont les bases européennes — voyez l'article [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/guides/communautes-energie-belgique/).
 
@@ -251,3 +251,4 @@ Pour le contexte général — qu'est-ce qu'une communauté d'énergie, quelles 
 - [Énergie commune — Communauté](https://energiecommune.be) — formulaire de mise en relation citoyen ↔ communauté en Wallonie.
 - [Énergie+ — Comment mettre en place une communauté d'énergie en Wallonie](https://energieplus-lesite.be/webinaire/comment-mettre-en-place-une-communaute-denergie-en-wallonie/) — logique d'adhésion et de participation.
 - [AIEG — Le partage d'énergie](https://www.aieg.be/le-partage-denergie) — exemples opérationnels locaux et exigences techniques côté GRD.
+- [CWaPE — Les gestionnaires de réseaux](https://www.cwape.be/node/160) — les cinq GRD d'électricité actifs en Wallonie : ORES, RESA, AIEG, AIESH et REW.

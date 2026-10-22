@@ -9,7 +9,7 @@ tags: [community, administrative]
 lang: nl
 ref: energy-communities-belgium
 pillar: communautes-energie
-last_modified_at: 2026-07-20 10:00:00 +0200
+last_modified_at: 2026-10-22 10:00:00 +0200
 permalink: /nl/gidsen/energiegemeenschappen-belgie/
 ---
 
@@ -82,7 +82,7 @@ Belangrijk om te begrijpen: energiedelen is **administratief, niet fysiek**. De 
 
 ## Betrokken actoren
 
-- **De distributienetbeheerders (DNB)** — ORES, RESA, AIEG in Wallonië; Sibelga in Brussel; Fluvius in Vlaanderen — beheren de meters, valideren deelnemers en berekenen de toewijzingen. Zie bijvoorbeeld de [pagina van ORES](https://www.ores.be/particulier/communautes-denergie).
+- **De distributienetbeheerders (DNB)** — ORES, RESA, AIEG, AIESH en REW in Wallonië; Sibelga in Brussel; Fluvius in Vlaanderen — beheren de meters, valideren deelnemers en berekenen de toewijzingen. Zie bijvoorbeeld de [pagina van ORES](https://www.ores.be/particulier/communautes-denergie). Onze tool [“Wie is mijn netbeheerder?”](/nl/tools/wie-is-mijn-netbeheerder/) vindt de uwe aan de hand van uw postcode.
 - **De gewestelijke regulatoren** — [CWaPE](https://www.cwape.be/secteur/communautes-partage-energie) in Wallonië, [BRUGEL](https://environnement.brussels/citoyen/agir-pour-lenvironnement/devenir-eco-responsable/partage-et-communautes-denergie) in Brussel, [Vlaamse Nutsregulator (ex-VREG)](https://www.vlaamsenutsregulator.be) in Vlaanderen — bepalen de regels, houden toezicht op de tarieven en publiceren richtlijnen voor gemeenschappen.
 - **De energieleveranciers** blijven de **resterende energie** factureren, dat wil zeggen het deel van het verbruik dat niet door interne deling werd gedekt.
 - **De leden** zijn zowel prosumenten (bv. uitgerust met zonnepanelen) als zuivere verbruikers, kmo's of lokale overheden.
@@ -136,7 +136,7 @@ Via de **slimme meters** (smart meters) die door de DNB's worden uitgerold en de
 
 > **[Energiegemeenschap oprichten in Wallonië](/nl/gidsen/energiegemeenschap-oprichten-wallonie/)**
 >
-> Keuze tussen CER en CEC, uitwerken van het project, melding bij de CWaPE, ontvangstbevestiging en opstart van het delen met ORES, RESA of AIEG.
+> Keuze tussen CER en CEC, uitwerken van het project, melding bij de CWaPE, ontvangstbevestiging en opstart van het delen met de netbeheerder.
 
 > **Binnenkort — Brussel en Vlaanderen**
 >

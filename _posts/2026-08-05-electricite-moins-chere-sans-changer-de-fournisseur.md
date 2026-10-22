@@ -2,7 +2,7 @@
 layout: post
 title: "Baisser sa facture sans changer de fournisseur"
 date: 2026-08-05 04:00:00 +0200
-last_modified_at: 2026-08-27 06:00:00 +0200
+last_modified_at: 2026-10-22 10:00:00 +0200
 author: "Eric d'OptimCE"
 excerpt: "Tous les guides d'économies finissent par la même phrase : comparez, puis changez de fournisseur. Il existe pourtant un mécanisme qui fait baisser la facture sans résilier quoi que ce soit — le partage d'énergie. La question n'est pas de savoir s'il est légal : il l'est dans les trois régions. Elle est de savoir s'il est accessible chez vous, et la réponse tient dans deux chiffres : 38 communautés autorisées à Bruxelles, 8 en Wallonie."
 description: "Le partage d'énergie fait baisser la facture sans résilier son contrat. Ce qu'il rapporte vraiment, et dans quelle région il est réellement accessible."
@@ -89,7 +89,7 @@ Voici le cœur du sujet. Le tableau ci-dessous résume la disponibilité réelle
 
 | | Bruxelles | Wallonie | Flandre |
 |---|---|---|---|
-| **Régulateur / GRD** | Brugel / Sibelga | CWaPE / ORES, RESA, AIEG | VREG / Fluvius |
+| **Régulateur / GRD** | Brugel / Sibelga | CWaPE / ORES, RESA, AIEG, AIESH, REW | VREG / Fluvius |
 | **Pair-à-pair** | **opérationnel** | **bloqué** — décret 2022, arrêté d'exécution manquant | opérationnel |
 | **Même bâtiment** | opérationnel | opérationnel | opérationnel |
 | **Communauté** | opérationnel | opérationnel | opérationnel |

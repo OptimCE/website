@@ -181,13 +181,15 @@ a documentation site that is not online yet.
 
 ### Newsletter (homepage)
 
-The same Mailchimp form (`_includes/newsletter-form.html`) opens and closes the
+The same Mailchimp form (`_includes/newsletter-form.html`) appears twice on the
 page.
 
-- Above the hero, a full-width tinted strip: the title and a one-line lead on
-  the left, the form on the right from 992px. It has no heading, so the
-  hero's h1 stays the page's first. Below 768px the lead is hidden and the
-  button stays beside the field, so the hero title stays in the first screen.
+- In the hero, under the buttons and the open-source line, above the
+  quarter-hour grid. It sits behind a hairline at the lead's 36rem measure,
+  with the title and a one-line lead. The title is a `<strong>`, not a
+  heading, because the foot band holds the h2 with the same words. From
+  1280px it takes a second row in the lead's column, so the title still lines
+  up with the open-source line. The button stays beside the field on phones.
 - At the foot, the band with the benefits list.
 
 ### Article rail

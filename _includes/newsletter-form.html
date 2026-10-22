@@ -1,8 +1,8 @@
 {% assign lang = page.lang | default: site.lang %}
 {% assign t = site.data.i18n[lang] %}
 {%- comment -%}
-  The homepage newsletter form, shared by the strip above the hero and the
-  band at the foot. main.js posts it to Mailchimp (JSONP) and writes the
+  The homepage newsletter form, shared by the hero and the band at the
+  foot. main.js posts it to Mailchimp (JSONP) and writes the
   result into [data-newsletter-status]: the caller wraps this in one element,
   so the status shares the form's parent. compact=true keeps the field and
   the button on one row on phones.

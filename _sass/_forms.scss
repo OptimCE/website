@@ -110,52 +110,6 @@
   }
 }
 
-// --- Strip above the homepage hero ---
-// Tinted like the band, full width. Title and lead on the left, the form on
-// the right from $bp-lg; stacked below.
-.newsletter-strip {
-  padding: var(--space-4) 0;
-  background-color: var(--color-tint);
-}
-
-.newsletter-strip__inner {
-  display: grid;
-  gap: var(--space-3);
-
-  @media (min-width: $bp-lg) {
-    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
-    align-items: center;
-    column-gap: var(--space-16);
-  }
-}
-
-.newsletter-strip__copy {
-  margin: 0;
-  font-size: var(--text-sm);
-}
-
-.newsletter-strip__title {
-  display: block;
-  font-family: var(--font-heading);
-  font-size: var(--text-base);
-  color: var(--color-heading);
-}
-
-// On phones the title and the form say enough: the hero stays in view.
-.newsletter-strip__lead {
-  @media (max-width: ($bp-md - 1px)) {
-    display: none;
-  }
-}
-
-.newsletter-strip__form {
-  max-width: 36rem; // .hero__subtitle
-
-  .newsletter-form__privacy {
-    margin-top: var(--space-2);
-  }
-}
-
 // Inline submission feedback (homepage and footer forms).
 .newsletter-form__status,
 .footer-newsletter__status {

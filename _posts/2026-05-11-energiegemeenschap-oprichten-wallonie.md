@@ -3,13 +3,13 @@ layout: post
 title: "Energiegemeenschap oprichten in Wallonië"
 date: 2026-05-11 14:00:00 +0200
 author: "Eric van OptimCE"
-excerpt: "Hoe u een energiegemeenschap (CER of CEC) opricht in Wallonië: keuze van het model, juridische structuur, melding bij CWaPE, ontvangstbevestiging en opstart van het delen met ORES, RESA of AIEG."
-description: "CER- of CEC-model, juridische structuur, melding bij CWaPE en opstart van het delen met ORES, RESA of AIEG: de concrete stappen."
+excerpt: "Hoe u een energiegemeenschap (CER of CEC) opricht in Wallonië: keuze van het model, juridische structuur, melding bij CWaPE, ontvangstbevestiging en opstart van het delen met de distributienetbeheerder (DNB)."
+description: "CER- of CEC-model, juridische structuur, melding bij CWaPE en opstart van het delen met de netbeheerder: de concrete stappen."
 tags: [community, administrative, guide]
 lang: nl
 ref: create-energy-community-wallonia
 pillar: communautes-energie
-last_modified_at: 2026-10-11 10:00:00 +0200
+last_modified_at: 2026-10-22 10:00:00 +0200
 permalink: /nl/gidsen/energiegemeenschap-oprichten-wallonie/
 ---
 
@@ -25,7 +25,7 @@ De gids richt zich tot twee typische profielen: een **collectief dat van nul sta
 | 2 | Project uitwerken | Leden, juridische vorm, vertegenwoordiger | Projectleider | 1–3 maanden |
 | 3 | CWaPE melden | Standaardformulier indienen | CWaPE | 1 dag (indiening) |
 | 4 | Ontvangstbevestiging ontvangen | Administratief groen licht | CWaPE | **10 werkdagen** |
-| 5 | Delen opstarten met de DNB | Overeenkomst, sleutels, meters | ORES / RESA / AIEG | 1–2 maanden |
+| 5 | Delen opstarten met de DNB | Overeenkomst, sleutels, meters | DNB | 1–2 maanden |
 | 6 | Uitbaten en rapporteren | Jaarrapportage, governance | Gemeenschap | Doorlopend |
 
 Reken op **3 tot 6 maanden** tussen het idee en de eerste gedeelde kilowattuur, hoofdzakelijk door het juridische uitwerkwerk (stap 2) en de technische afstemming met de DNB (stap 5).
@@ -88,7 +88,7 @@ De CWaPE stelt een **standaardformulier** ter beschikking dat de melding structu
 - De aangeduide **vertegenwoordiger** en zijn contactgegevens.
 - De **lijst van oprichtende leden** (particulieren, kmo's, lokale overheden) met hun EAN's.
 - De **voorziene deelconfiguratie**: type gemeenschap (CER/CEC), bereik, bron van de gedeelde energie, verdeelsleutel.
-- De **betrokken netbeheerder** (ORES, RESA of AIEG) en de bijbehorende leveringspunten.
+- De **betrokken netbeheerder** (ORES, RESA, AIEG, AIESH of REW) en de bijbehorende leveringspunten.
 
 ### Waar en hoe indienen
 
@@ -114,13 +114,15 @@ Zodra de ontvangstbevestiging binnen is, wordt het delen een **technische operat
 
 ### De juiste DNB identificeren
 
-In Wallonië verdelen drie DNB's het grondgebied:
+In Wallonië beheren vijf DNB's het elektriciteitsnet ([CWaPE](https://www.cwape.be/node/160)):
 
 - **ORES** — de grote meerderheid van de Waalse gemeenten.
-- **RESA** — de regio Luik.
-- **AIEG** — de gemeenten Andenne, Éghezée en Gesves.
+- **RESA** — het grootste deel van de provincie Luik.
+- **AIEG** — Andenne, Brunehaut (sinds 1 januari 2026), Gesves, Ohey, Rumes en Viroinval.
+- **AIESH** — Beaumont, Chimay, Couvin, Froidchapelle, Momignies en Sivry-Rance.
+- **REW** (Réseau d'Énergies de Wavre) — Waver.
 
-De bevoegde DNB is degene die het **net beheert waarop uw meters zijn aangesloten**. Als de gemeenschap leden uit verschillende gebieden samenbrengt, kunnen meerdere DNB's betrokken zijn — zeldzaam maar mogelijk.
+Alleen ORES en RESA verdelen ook gas: voor het delen van elektriciteit telt de netbeheerder voor elektriciteit. De bevoegde DNB is degene die het **net beheert waarop uw meters zijn aangesloten**; onze tool [“Wie is mijn netbeheerder?”](/nl/tools/wie-is-mijn-netbeheerder/) vindt hem aan de hand van uw postcode. Als de gemeenschap leden uit verschillende gebieden samenbrengt, kunnen meerdere DNB's betrokken zijn — zeldzaam maar mogelijk.
 
 ### De deelconfiguratie doorgeven
 
@@ -193,9 +195,9 @@ De CWaPE “keurt” geen gemeenschap goed: zij **bevestigt de ontvangst** van e
 
 **Collectief zelfverbruik binnen een gebouw** is een deelactie beperkt tot de bewoners van één gebouw (bv. een appartementsgebouw). Administratief eenvoudiger, maar in bereik beperkter. Een **CER of CEC** gaat verder dan die grens en kan meerdere gebouwen of een hele wijk dekken.
 
-### Is mijn DNB ORES, RESA of AIEG?
+### Is mijn DNB ORES, RESA, AIEG, AIESH of REW?
 
-Dat hangt af van uw **gemeente**: ORES bestrijkt het grootste deel van Wallonië, RESA werkt in Luik en omgeving, AIEG in Andenne, Éghezée en Gesves. De elektriciteitsfactuur van elk toekomstig lid vermeldt de DNB; u kunt ook controleren op de website van de DNB via het EAN.
+Dat hangt af van uw **gemeente**: ORES bestrijkt het grootste deel van Wallonië en RESA het merendeel van de provincie Luik; AIEG bedient Andenne, Brunehaut, Gesves, Ohey, Rumes en Viroinval, AIESH Beaumont, Chimay, Couvin, Froidchapelle, Momignies en Sivry-Rance, en REW Waver. Onze tool [“Wie is mijn netbeheerder?”](/nl/tools/wie-is-mijn-netbeheerder/) vindt hem aan de hand van uw postcode; ook de elektriciteitsfactuur van elk toekomstig lid vermeldt de DNB.
 
 ### Moet ik van elektriciteitsleverancier veranderen?
 
@@ -228,6 +230,7 @@ Om te starten of de functies te vergelijken, raadpleeg de [gebruikersgids van Op
 - [CWaPE — Wat is de procedure om een energiegemeenschap op te richten?](https://www.cwape.be/node/6052) — verplichte melding, standaardformulier, termijn van 10 werkdagen voor de ontvangstbevestiging.
 - [CWaPE — Energiegemeenschappen](https://www.cwape.be/node/158) — Waals kader, soorten gemeenschappen, juridische grondslagen, melding en jaarlijkse rapportage.
 - [CWaPE — Energiegemeenschappen en energiedelen](https://www.cwape.be/secteur/communautes-partage-energie) — algemeen Waals kader voor delen en gemeenschappen.
+- [CWaPE — De netbeheerders](https://www.cwape.be/node/160) — de vijf distributienetbeheerders voor elektriciteit in Wallonië, van wie er twee, ORES en RESA, ook gas verdelen.
 - [ORES — Een energiegemeenschap opstarten (CER/CEC)](https://www.ores.be/particulier/demarrer-partage-cer-cec) — stappen aan de zijde van de netbeheerder.
 - [AIEG — Het energiedelen](https://www.aieg.be/le-partage-denergie) — operationele aspecten en DNB-opstart.
 - [MaCER / Cluster TWEED — De sleutelstappen](https://macer.clustertweed.be/etapes) — begeleiding om een project van energiegemeenschap te structureren.

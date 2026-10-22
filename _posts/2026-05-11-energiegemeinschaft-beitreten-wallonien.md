@@ -9,11 +9,11 @@ tags: [community, administrative, guide]
 lang: de
 ref: join-energy-community-wallonia
 pillar: communautes-energie
-last_modified_at: 2026-09-16 06:00:00 +0200
+last_modified_at: 2026-10-22 10:00:00 +0200
 permalink: /de/ratgeber/energiegemeinschaft-beitreten-wallonien/
 ---
 
-In der Wallonie sind Energiegemeinschaften kein Randexperiment mehr: Hunderte Teilungsoperationen sind aktiv oder in der Meldungsphase. Der gesetzliche Rahmen ist stabil, die Verteilnetzbetreiber (ORES, RESA, AIEG) sind technisch vorbereitet, und die meisten Zähler sind bereits intelligent. Ein ganz konkretes Hindernis bleibt für die meisten Bürger, KMU und Gebietskörperschaften: **wie findet man eine Gemeinschaft, die neue Mitglieder aufnimmt**, und **worauf muss man vor der Unterschrift achten**?
+In der Wallonie sind Energiegemeinschaften kein Randexperiment mehr: Hunderte Teilungsoperationen sind aktiv oder in der Meldungsphase. Der gesetzliche Rahmen ist stabil, die Verteilnetzbetreiber (VNB) sind technisch vorbereitet, und die meisten Zähler sind bereits intelligent. Ein ganz konkretes Hindernis bleibt für die meisten Bürger, KMU und Gebietskörperschaften: **wie findet man eine Gemeinschaft, die neue Mitglieder aufnimmt**, und **worauf muss man vor der Unterschrift achten**?
 
 Dieser Leitfaden richtet sich an dieses Publikum. Nicht an Projektträger, die eine Gemeinschaft gründen wollen — dafür siehe unseren [Schritt-für-Schritt-Gründungsleitfaden](/de/ratgeber/energiegemeinschaft-gruenden-wallonien/) — und nicht an jene, die das Konzept noch entdecken — beginnen Sie in diesem Fall mit [„Energiegemeinschaften in Belgien: CER, CEC, CEL“](/de/ratgeber/energiegemeinschaften-belgien/). Er ist für alle gedacht, die einer **bestehenden Operation beitreten** und wissen wollen, wie das konkret abläuft.
 
@@ -64,7 +64,7 @@ Gemeinden, Interkommunalen, Gemeindeschulen und Sozialhilfezentren können alle 
 
 Bevor Sie beitreten können, müssen an Ihrem Lieferpunkt drei technische Voraussetzungen erfüllt sein:
 
-- **Intelligenter Zähler**: verpflichtend. Haben Sie noch keinen, baut der VNB (ORES, RESA oder AIEG) ihn **kostenlos** ein, in der Regel innerhalb von 60 Tagen. Siehe den [AIEG-Leitfaden zur Energieteilung](https://www.aieg.be/le-partage-denergie) für die technischen Details auf Netzseite.
+- **Intelligenter Zähler**: verpflichtend. Haben Sie noch keinen, baut Ihr VNB ihn **kostenlos** ein, in der Regel innerhalb von 60 Tagen. Siehe den [AIEG-Leitfaden zur Energieteilung](https://www.aieg.be/le-partage-denergie) für die technischen Details auf Netzseite.
 - **Identifizierbarer EAN**: Ihre Lieferpunktnummer, 18 Ziffern beginnend mit `541449...`. Sie steht auf jeder Stromrechnung in der Rubrik „technische Daten“ oder „Lieferpunkt“.
 - **Geografischer Umfang**: erforderlich bei einer **CER** (Sie müssen innerhalb des mit den Erzeugern definierten Nähe-Perimeters liegen), nicht erforderlich bei einer **CEC**. Zur Auffrischung CER vs. CEC siehe die [Vergleichstabelle in unserem Mutterartikel](/de/ratgeber/energiegemeinschaften-belgien/).
 
@@ -78,7 +78,7 @@ Das ist heute die heikelste Frage in der Wallonie. Mehrere Kanäle existieren ne
 | 2 | SPW-Facilitator Energiegemeinschaften | Bürger, die persönliche Begleitung wünschen | Mittel — Kontaktaufnahme |
 | 3 | Énergie commune (Vermittlung) | Bürger mit genossenschaftlicher / werteorientierter Ausrichtung | Niedrig — Online-Formular |
 | 4 | Lokale Interkommunale / Genossenschaft | Einwohner eines bestimmten Gebiets | Variabel |
-| 5 | VNB-Seiten (ORES, RESA, AIEG) | Abgleich nach Identifizierung | Niedrig |
+| 5 | VNB-Seiten | Abgleich nach Identifizierung | Niedrig |
 | 6 | Gemeinde, lokale Presse, Mundpropaganda | Zufällige Entdeckung | Variabel |
 
 ### Das öffentliche Register von OptimCE
@@ -97,11 +97,11 @@ Die Vereinigung [Énergie commune](https://energiecommune.be) stellt ein **Konta
 
 ### Lokale Interkommunalen und Genossenschaften
 
-Mehrere Interkommunalen pflegen eine eigene Teilungsdynamik. Die [AIEG](https://www.aieg.be/le-partage-denergie) etwa koordiniert aktiv die Energieteilung in den Gemeinden Andenne, Éghezée und Gesves. Bürgergenossenschaften (Courant d'Air, Énergie 2030, Lucéole und andere) tragen ebenfalls Teilungsprojekte in ihrer Heimatregion — ein Blick auf ihre Webseite lohnt sich häufig.
+Mehrere Interkommunalen pflegen eine eigene Teilungsdynamik. Die [AIEG](https://www.aieg.be/le-partage-denergie) etwa koordiniert aktiv die Energieteilung in ihren Gemeinden (Andenne, Brunehaut, Gesves, Ohey, Rumes und Viroinval). Bürgergenossenschaften (Courant d'Air, Énergie 2030, Lucéole und andere) tragen ebenfalls Teilungsprojekte in ihrer Heimatregion — ein Blick auf ihre Webseite lohnt sich häufig.
 
 ### Informationsseiten der Netzbetreiber
 
-ORES, RESA und AIEG veröffentlichen Informationsseiten zu den auf ihrem Gebiet aktiven Gemeinschaften. Sie betreiben keine direkte Vermittlung, ermöglichen aber, das Bestehen eines über einen anderen Kanal identifizierten Projekts zu bestätigen.
+ORES, RESA und AIEG etwa veröffentlichen Informationsseiten zu den auf ihrem Gebiet aktiven Gemeinschaften. Sie betreiben keine direkte Vermittlung, ermöglichen aber, das Bestehen eines über einen anderen Kanal identifizierten Projekts zu bestätigen.
 
 ### Gemeinde, lokale Presse, Mundpropaganda
 
@@ -121,7 +121,7 @@ Was Sie zu diesem ersten Kontakt mitbringen: Ihre letzte Stromrechnung (mindeste
 
 Der Manager prüft mehrere Elemente:
 
-- Ihr **EAN** ist tatsächlich am zuständigen VNB angeschlossen (ORES/RESA/AIEG je nach Gemeinde).
+- Ihr **EAN** ist tatsächlich am zuständigen VNB angeschlossen: je nach Gemeinde ORES, RESA, AIEG, AIESH oder REW. Unser Werkzeug [„Netzbetreiber finden“](/de/werkzeuge/netzbetreiber-finden/) nennt ihn anhand der Postleitzahl.
 - Ihr Lieferpunkt liegt innerhalb des **Perimeters** der Gemeinschaft (wesentlich bei einer CER; nicht anwendbar bei einer CEC).
 - Ihr **Zähler** ist intelligent. Andernfalls plant der VNB einen kostenlosen Austausch.
 
@@ -143,7 +143,7 @@ Je nach Rechtsform der Gemeinschaft variieren die Formalitäten:
 
 ### Schritt 5 — Mitteilung an den VNB und Inbetriebnahme
 
-Gute Nachricht für Sie: In diesem Schritt **müssen Sie nichts tun**. Der Manager der Gemeinschaft übermittelt Ihren EAN an den VNB (ORES, RESA oder AIEG), der Sie an einem vereinbarten Datum zur Teilungsoperation hinzufügt. Kein Lieferantenwechsel, keine Kündigung, kein neuer Vertrag auf Energieseite.
+Gute Nachricht für Sie: In diesem Schritt **müssen Sie nichts tun**. Der Manager der Gemeinschaft übermittelt Ihren EAN an Ihren VNB, der Sie an einem vereinbarten Datum zur Teilungsoperation hinzufügt. Kein Lieferantenwechsel, keine Kündigung, kein neuer Vertrag auf Energieseite.
 
 Die Dauer zwischen Unterzeichnung und erster geteilter kWh beträgt typischerweise **4 bis 8 Wochen**. Der limitierende Faktor ist die VNB-Planung sowie gegebenenfalls die Installation eines intelligenten Zählers, falls Sie noch keinen hatten.
 
@@ -239,7 +239,7 @@ Drei Kanäle, um aktiv zu werden:
 
 > **[Energiegemeinschaft in der Wallonie gründen](/de/ratgeber/energiegemeinschaft-gruenden-wallonien/)**
 >
-> Wahl zwischen CER und CEC, Strukturierung des Projekts, Meldung bei der CWaPE, Empfangsbestätigung und Start der Teilung mit ORES, RESA oder AIEG.
+> Wahl zwischen CER und CEC, Strukturierung des Projekts, Meldung bei der CWaPE, Empfangsbestätigung und Start der Teilung mit dem Netzbetreiber.
 
 Für den allgemeinen Kontext — was eine Energiegemeinschaft ist und welche europäischen Grundlagen gelten — siehe den Artikel [„Energiegemeinschaften in Belgien: CER, CEC, CEL“](/de/ratgeber/energiegemeinschaften-belgien/).
 
@@ -251,3 +251,4 @@ Für den allgemeinen Kontext — was eine Energiegemeinschaft ist und welche eur
 - [Énergie commune — Gemeinschaft](https://energiecommune.be) — Vermittlungsformular für Bürger auf der Suche nach einer wallonischen Gemeinschaft.
 - [Énergie+ — Wie eine Energiegemeinschaft in der Wallonie aufsetzen](https://energieplus-lesite.be/webinaire/comment-mettre-en-place-une-communaute-denergie-en-wallonie/) — Logik des Beitritts und der Teilnahme.
 - [AIEG — Die Energieteilung](https://www.aieg.be/le-partage-denergie) — lokale operative Beispiele und technische Anforderungen netzseitig.
+- [CWaPE — Die Netzbetreiber](https://www.cwape.be/node/160) — die fünf in der Wallonie tätigen Stromnetzbetreiber: ORES, RESA, AIEG, AIESH und REW.

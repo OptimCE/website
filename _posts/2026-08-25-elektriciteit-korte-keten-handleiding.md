@@ -9,7 +9,7 @@ tags: [guide, community]
 lang: nl
 ref: local-electricity-short-circuit
 pillar: facture-electricite
-last_modified_at: 2026-09-10 06:00:00 +0200
+last_modified_at: 2026-10-22 10:00:00 +0200
 permalink: /nl/gidsen/elektriciteit-korte-keten-handleiding/
 faq:
   - q: "Kan ik in Wallonië de stroom van mijn overbuur kopen?"
@@ -51,7 +51,7 @@ Toegepast op stroom is deze definitie **onbereikbaar**. Niet moeilijk: onbereikb
 
 ### De tol die u nooit omzeilt
 
-Tussen een paneel op het dak van de school en het stopcontact van de bakker aan de overkant staat er altijd minstens één actor die geen enkele juridische constructie doet verdwijnen: de **distributienetbeheerder**. ORES, RESA of AIEG bezitten en exploiteren de kabel. Zij verkopen geen stroom — zij vervoeren hem — maar zij zijn een tussenschakel in de volle betekenis: zij komen ertussen, zij meten, en zij factureren.
+Tussen een paneel op het dak van de school en het stopcontact van de bakker aan de overkant staat er altijd minstens één actor die geen enkele juridische constructie doet verdwijnen: de **distributienetbeheerder**. Naargelang de gemeente bezitten en exploiteren ORES, RESA, AIEG, AIESH of REW de kabel. Zij verkopen geen stroom — zij vervoeren hem — maar zij zijn een tussenschakel in de volle betekenis: zij komen ertussen, zij meten, en zij factureren.
 
 Dat is het structurele verschil met de tomaat. Een groenteteler kan beslissen zijn kisten zelf te leveren en de groothandelslogistiek volledig te schrappen. Een stroomproducent heeft geen enkel middel om zijn elektronen rechtstreeks te leveren: de weg is een gereguleerd monopolie, en er staat tol op.
 

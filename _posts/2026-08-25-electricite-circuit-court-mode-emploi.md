@@ -10,7 +10,7 @@ lang: fr
 ref: local-electricity-short-circuit
 pillar: facture-electricite
 permalink: /guides/electricite-circuit-court-mode-emploi/
-last_modified_at: 2026-09-10 06:00:00 +0200
+last_modified_at: 2026-10-22 10:00:00 +0200
 faq:
   - q: "Puis-je acheter l'électricité de mon voisin d'en face en Wallonie ?"
     a: "Non, pas en août 2026. Cette forme d'échange s'appelle le pair-à-pair et c'est la plus simple des quatre : deux compteurs, un prix convenu, rien d'autre. Elle est prévue par le décret wallon du 5 mai 2022, mais elle reste inopérante faute d'arrêté d'exécution. ORES l'écrit sans détour sur sa page dédiée : il n'est pas encore possible actuellement de partager son énergie en pair à pair, et le cadre législatif n'est pas encore finalisé. Ce qu'un Wallon peut faire aujourd'hui, c'est partager au sein d'un même bâtiment, ou rejoindre une communauté d'énergie constituée en personne morale et autorisée par la CWaPE. En pratique, le mot quartier désigne donc soit votre immeuble, soit une association que quelqu'un a créée, pas la maison d'en face."
@@ -51,7 +51,7 @@ Appliquée à l'électricité, cette définition est **inatteignable**. Pas diff
 
 ### Le péage qu'on ne contourne jamais
 
-Entre un panneau posé sur le toit de l'école et la prise de la boulangère d'en face, il y a toujours au moins un acteur qu'aucun montage juridique ne fait disparaître : le **gestionnaire de réseau de distribution**. ORES, RESA ou AIEG possèdent et exploitent le câble. Ils ne vendent pas d'électricité — ils la transportent — mais ils sont un intermédiaire au sens plein : ils s'interposent, ils mesurent, et ils facturent.
+Entre un panneau posé sur le toit de l'école et la prise de la boulangère d'en face, il y a toujours au moins un acteur qu'aucun montage juridique ne fait disparaître : le **gestionnaire de réseau de distribution**. ORES, RESA, AIEG, AIESH ou REW, selon la commune, possèdent et exploitent le câble. Ils ne vendent pas d'électricité — ils la transportent — mais ils sont un intermédiaire au sens plein : ils s'interposent, ils mesurent, et ils facturent.
 
 C'est la différence structurelle avec la tomate. Un maraîcher peut décider de livrer lui-même ses cageots et supprimer intégralement la logistique de gros. Un producteur d'électricité n'a aucun moyen de livrer ses électrons en direct : la route est un monopole régulé, et elle est à péage.
 

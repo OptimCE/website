@@ -9,13 +9,13 @@ tags: [allocation-key, administrative]
 lang: nl
 ref: allocation-key-belgium
 pillar: cle-de-repartition
-last_modified_at: 2026-10-11 10:00:00 +0200
+last_modified_at: 2026-10-22 10:00:00 +0200
 permalink: /nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/
 ---
 
 De **verdeelsleutel** is het stille mechanisme dat een lokale elektriciteitsproductie omzet in een concreet voordeel voor elk lid van een energiegemeenschap. Kwartier per kwartier bepaalt hij *wie hoeveel* gedeelde energie ontvangt. En dat is precies waar België ingewikkeld wordt: Wallonië, Brussel en Vlaanderen hebben geen identieke lijst van standaardsleutels, gebruiken niet dezelfde terminologie en leggen niet dezelfde validatieregels op.
 
-Dit artikel overloopt de drie gewestelijke kaders — **CWaPE / ORES / RESA / AIEG** in Wallonië, **BRUGEL / Sibelga** in Brussel, **VREG / Fluvius** in Vlaanderen — om te vergelijken wat in elk gewest werkelijk toegelaten is en community managers te helpen een sleutel te kiezen die over tijd standhoudt. Bent u nieuw bij het concept van een energiegemeenschap, start dan bij ons artikel [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/gidsen/energiegemeenschappen-belgie/) — het zet de begrippen vast die hier worden gebruikt.
+Dit artikel overloopt de drie gewestelijke kaders — **CWaPE / ORES / RESA / AIEG / AIESH / REW** in Wallonië, **BRUGEL / Sibelga** in Brussel, **VREG / Fluvius** in Vlaanderen — om te vergelijken wat in elk gewest werkelijk toegelaten is en community managers te helpen een sleutel te kiezen die over tijd standhoudt. Bent u nieuw bij het concept van een energiegemeenschap, start dan bij ons artikel [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/gidsen/energiegemeenschappen-belgie/) — het zet de begrippen vast die hier worden gebruikt.
 
 <img src="/assets/images/diagrams/allocation-key-flow-nl.svg"
      alt="Schema in vijf stappen: kwartierwaarden, generatie of simulatie, kandidaatsleutel, validatie door de leden, doorgifte aan de netbeheerder."
@@ -51,7 +51,7 @@ In Wallonië wordt energiedelen geregeld door het decreet van 12 april 2001 over
 
 ### Niet-standaard sleutels
 
-De gemeenschap kan een **alternatieve sleutel voorstellen**, maar dan moet die **specifiek worden toegestaan**: ORES, RESA of AIEG legt hem voor aan CWaPE, die valideert of aanpassingen vraagt. Deze weg blijft een minderheid; in de praktijk dekken de drie standaardsleutels de overgrote meerderheid van de Waalse projecten.
+De gemeenschap kan een **alternatieve sleutel voorstellen**, maar dan moet die **specifiek worden toegestaan**: de DNB legt hem voor aan CWaPE, die valideert of aanpassingen vraagt. Deze weg blijft een minderheid; in de praktijk dekken de drie standaardsleutels de overgrote meerderheid van de Waalse projecten.
 
 ### Een sleutel wijzigen na de opstart
 
@@ -104,7 +104,7 @@ Praktisch verschil met Wallonië: Vlaanderen heeft **geen door de VREG gepublice
 | Criterium | Wallonië | Brussel | Vlaanderen |
 |---|---|---|---|
 | Regulator | **CWaPE** | **BRUGEL** | **VREG** |
-| DNB | ORES / RESA / AIEG | **Sibelga** (enig) | **Fluvius** (enig) |
+| DNB | ORES / RESA / AIEG / AIESH / REW | **Sibelga** (enig) | **Fluvius** (enig) |
 | Referentiedocument | Voorstel CD-23d27-CWaPE-0928 (27/04/2023) | Sibelga-pagina “Verdelings­methoden” | Fluvius-protocol v3.x (juli 2024) |
 | Sleutel n°1 — Egalitair | Egalitaire vaste sleutel | Vaste methode (1 ronde, gelijke delen) | Vaste verdeelsleutel |
 | Sleutel n°2 — Specifieke percentages | Specifieke vaste sleutel | Vaste methode (vooraf bepaalde percentages) | Vaste verdeelsleutel (onderhandelde percentages) |
@@ -198,7 +198,7 @@ De sleutel wordt **herberekend** om het nieuwe lid te integreren. Bij een **egal
 
 ## Wat u moet onthouden
 
-Drie regulatoren (CWaPE, BRUGEL, VREG), drie referentie-DNB's (ORES/RESA/AIEG, Sibelga, Fluvius), drie terminologieën (“sleutel”, “methode”, “verdeelsleutel”) — maar één gemeenschappelijke mechanica per kwartier, afhankelijk van de slimme meters, en georganiseerd rond twee grote families: de **vaste** sleutels (egalitair of gewogen) en de **dynamische / geoptimaliseerde** sleutels (prorata, hybride, optimaal).
+Drie regulatoren (CWaPE, BRUGEL, VREG), drie DNB-landschappen (ORES/RESA/AIEG/AIESH/REW, Sibelga, Fluvius), drie terminologieën (“sleutel”, “methode”, “verdeelsleutel”) — maar één gemeenschappelijke mechanica per kwartier, afhankelijk van de slimme meters, en georganiseerd rond twee grote families: de **vaste** sleutels (egalitair of gewogen) en de **dynamische / geoptimaliseerde** sleutels (prorata, hybride, optimaal).
 
 De keuze van een sleutel is geen technische kwestie: het is een politieke governance­keuze die de waarden en de beperkingen van de leden moet weerspiegelen. En omdat geen enkele sleutel in steen gebeiteld staat, hebt u een tool nodig om hem te configureren, te historiseren, correct te laten evolueren — en nu ook **automatisch te genereren uit reële gemeenschapsdata**: dat is precies wat **OptimCE** vandaag aanbiedt.
 
@@ -214,7 +214,7 @@ Lees meer in onze andere gidsen:
 
 > **[Energiegemeenschap oprichten in Wallonië](/nl/gidsen/energiegemeenschap-oprichten-wallonie/)**
 >
-> Keuze tussen CER en CEC, uitwerken van het project, melding bij CWaPE, ontvangstbevestiging en opstart van het delen met ORES, RESA of AIEG — inclusief de plaats van de verdeelsleutel in het dossier.
+> Keuze tussen CER en CEC, uitwerken van het project, melding bij CWaPE, ontvangstbevestiging en opstart van het delen met de netbeheerder — inclusief de plaats van de verdeelsleutel in het dossier.
 
 > **[Toetreden tot een energiegemeenschap in Wallonië](/nl/gidsen/energiegemeenschap-aansluiten-wallonie/)**
 >

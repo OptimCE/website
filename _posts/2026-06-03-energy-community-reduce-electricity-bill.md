@@ -9,7 +9,7 @@ tags: [community]
 lang: en
 ref: reduce-electricity-bill
 pillar: facture-electricite
-last_modified_at: 2026-08-05 10:00:00 +0200
+last_modified_at: 2026-10-22 10:00:00 +0200
 permalink: /en/guides/energy-community-reduce-electricity-bill/
 ---
 
@@ -68,7 +68,7 @@ The savings mechanisms exist in all three regions, but the actors and some terms
 | Criterion | Wallonia | Brussels | Flanders |
 |---|---|---|---|
 | Regulator | CWaPE | BRUGEL | VREG |
-| Distribution system operator (DSO) | ORES, RESA, AIEG | Sibelga | Fluvius |
+| Distribution system operator (DSO) | ORES, RESA, AIEG, AIESH, REW | Sibelga | Fluvius |
 | Grid tariff on shared energy | No reduction in a community; −80% on the proportional terms within the same building | Graduated reduction across four perimeters: proportional term removed within the same building, −50% on the same LV cabin; the fixed term is charged in none of the four | No reduction |
 | Extra income for the producer | Green certificates | Green certificates (≈ first 10 years) | Specific support — see VREG |
 | Smart meter required | Yes | Yes | Yes |

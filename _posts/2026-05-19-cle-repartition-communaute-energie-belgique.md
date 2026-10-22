@@ -10,12 +10,12 @@ lang: fr
 ref: allocation-key-belgium
 pillar: cle-de-repartition
 permalink: /guides/cle-repartition-communaute-energie-belgique/
-last_modified_at: 2026-10-11 10:00:00 +0200
+last_modified_at: 2026-10-22 10:00:00 +0200
 ---
 
 La **clé de répartition** est le rouage discret qui transforme une production locale d'électricité en avantage tangible pour chaque membre d'une communauté d'énergie. Elle décide, quart d'heure par quart d'heure, *qui reçoit combien* d'énergie partagée. Et c'est précisément là que la Belgique se complique : la Wallonie, Bruxelles et la Flandre n'ont pas adopté la même grille de clés standards, n'utilisent pas le même vocabulaire, et n'imposent pas les mêmes règles de validation.
 
-Cet article fait le tour des trois cadres régionaux — **CWaPE / ORES / RESA / AIEG** en Wallonie, **BRUGEL / Sibelga** à Bruxelles, **VREG / Fluvius** en Flandre — pour comparer ce qui est réellement permis dans chaque région et aider les gestionnaires de communauté à choisir une clé qui tienne dans le temps. Si vous découvrez la notion même de communauté d'énergie, commencez par notre article [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/guides/communautes-energie-belgique/) — il pose le vocabulaire repris ici.
+Cet article fait le tour des trois cadres régionaux — **CWaPE / ORES / RESA / AIEG / AIESH / REW** en Wallonie, **BRUGEL / Sibelga** à Bruxelles, **VREG / Fluvius** en Flandre — pour comparer ce qui est réellement permis dans chaque région et aider les gestionnaires de communauté à choisir une clé qui tienne dans le temps. Si vous découvrez la notion même de communauté d'énergie, commencez par notre article [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/guides/communautes-energie-belgique/) — il pose le vocabulaire repris ici.
 
 <img src="/assets/images/diagrams/allocation-key-flow-fr.svg"
      alt="Schéma en cinq étapes : données au quart d'heure, génération ou simulation, clé candidate, validation par les membres, transmission au gestionnaire de réseau."
@@ -51,7 +51,7 @@ En Wallonie, le partage d'énergie est encadré par le décret du 12 avril 2001 
 
 ### Clés non standards
 
-La communauté peut **proposer une clé alternative**, mais elle doit alors être **autorisée spécifiquement** : ORES, RESA ou AIEG la transmet à la CWaPE qui valide ou demande des ajustements. Cette voie reste minoritaire ; en pratique, les trois clés standards couvrent l'écrasante majorité des projets wallons.
+La communauté peut **proposer une clé alternative**, mais elle doit alors être **autorisée spécifiquement** : le GRD la transmet à la CWaPE qui valide ou demande des ajustements. Cette voie reste minoritaire ; en pratique, les trois clés standards couvrent l'écrasante majorité des projets wallons.
 
 ### Modifier une clé après le démarrage
 
@@ -104,7 +104,7 @@ Différence pratique avec la Wallonie : la Flandre n'a **pas de liste de clés �
 | Critère | Wallonie | Bruxelles | Flandre |
 |---|---|---|---|
 | Régulateur | **CWaPE** | **BRUGEL** | **VREG** |
-| GRD | ORES / RESA / AIEG | **Sibelga** (unique) | **Fluvius** (unique) |
+| GRD | ORES / RESA / AIEG / AIESH / REW | **Sibelga** (unique) | **Fluvius** (unique) |
 | Documentation de référence | Proposition CD-23d27-CWaPE-0928 (27/04/2023) | Page « Méthodes de répartition » de Sibelga | Protocole Fluvius v3.x (juillet 2024) |
 | Clé n°1 — Égalitaire | Clé fixe égalitaire | Méthode fixe (1 tour, parts égales) | Vaste verdeelsleutel |
 | Clé n°2 — Pourcentages spécifiques | Clé fixe spécifique | Méthode fixe (pourcentages prédéfinis) | Vaste verdeelsleutel (pourcentages négociés) |
@@ -198,7 +198,7 @@ La clé est **recalculée** pour intégrer le nouveau membre. Avec une **clé fi
 
 ## Ce qu'il faut retenir
 
-Trois régulateurs (CWaPE, BRUGEL, VREG), trois gestionnaires de réseau de référence (ORES/RESA/AIEG, Sibelga, Fluvius), trois vocabulaires (« clé », « méthode », « verdeelsleutel ») — mais une mécanique commune au quart d'heure, dépendante des compteurs communicants, et organisée autour de deux grandes familles : les clés **fixes** (égalitaires ou pondérées) et les clés **dynamiques / optimisées** (prorata, hybride, optimale).
+Trois régulateurs (CWaPE, BRUGEL, VREG), trois paysages de gestionnaires de réseau (ORES/RESA/AIEG/AIESH/REW, Sibelga, Fluvius), trois vocabulaires (« clé », « méthode », « verdeelsleutel ») — mais une mécanique commune au quart d'heure, dépendante des compteurs communicants, et organisée autour de deux grandes familles : les clés **fixes** (égalitaires ou pondérées) et les clés **dynamiques / optimisées** (prorata, hybride, optimale).
 
 Le choix d'une clé n'est pas une question technique : c'est un choix politique de gouvernance, qui doit refléter les valeurs et les contraintes des membres. Et parce qu'aucune clé n'est figée, il faut un outil pour la configurer, l'historiser, la faire évoluer proprement — et désormais la **générer automatiquement à partir des données réelles** de la communauté : c'est exactement ce qu'**OptimCE** propose aujourd'hui.
 
@@ -214,7 +214,7 @@ Pour aller plus loin, consultez nos guides :
 
 > **[Créer une communauté d'énergie en Wallonie](/guides/creer-communaute-energie-wallonie/)**
 >
-> Choix entre CER et CEC, cadrage du projet, notification à la CWaPE, accusé de réception et démarrage du partage avec ORES, RESA ou AIEG — dont la place de la clé de répartition dans le dossier.
+> Choix entre CER et CEC, cadrage du projet, notification à la CWaPE, accusé de réception et démarrage du partage avec le GRD — dont la place de la clé de répartition dans le dossier.
 
 > **[Rejoindre une communauté d'énergie en Wallonie](/guides/rejoindre-communaute-energie-wallonie/)**
 >

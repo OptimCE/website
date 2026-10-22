@@ -2,7 +2,7 @@
 layout: post
 title: "Energiegemeenschap: de gids voor gemeenten"
 date: 2026-08-30 06:00:00 +0200
-last_modified_at: 2026-10-11 10:00:00 +0200
+last_modified_at: 2026-10-22 10:00:00 +0200
 author: "Eric van OptimCE"
 excerpt: "262 Waalse gemeenten. Dertien energiegemeenschappen met een volledig dossier bij de CWaPE, waarvan er slechts zes werkelijk stroom delen. Dat is geen gebrek aan ambitie: bijna niemand heeft gemerkt wat het Waalse recht al zegt. Het eerste van de twee nabijheidscriteria van een hernieuwbare-energiegemeenschap luidt letterlijk “het grondgebied van één en dezelfde gemeente”. Wallonië is het enige van de drie gewesten waar de wetgever de perimeter zelf heeft getrokken — langs de gemeentegrens."
 description: "In Wallonië is de perimeter van een hernieuwbare-energiegemeenschap het gemeentelijke grondgebied. Wat uw gemeente ermee kan, en tegen welke prijs."
@@ -205,7 +205,7 @@ Wat volgt is geen kalender — die hangt te sterk van de overheidsopdracht af �
 | 2 | De deelnemers: welke gemeentegebouwen, het OCMW, welke burgers, welke kmo's | College, daarna raad | Op basis van de verbruiksprofielen, niet van de goede wil |
 | 3 | De rechtsvorm en de governance | Gemeenteraad | Beraadslaging + toezicht; vzw in alle dertien Waalse gevallen |
 | 4 | De aanmelding van de gemeenschap bij de CWaPE | Vertegenwoordiger van de gemeenschap | Onlineformulieren op `monespace.wallonie.be` |
-| 5 | De delingsvergunning en de overeenkomst met de netbeheerder | Vertegenwoordiger van de deling | CWaPE, daarna de modelovereenkomst met ORES, RESA of AIEG |
+| 5 | De delingsvergunning en de overeenkomst met de netbeheerder | Vertegenwoordiger van de deling | CWaPE, daarna de modelovereenkomst met de netbeheerder |
 | 6 | De verdeelsleutel en de interne prijs | Algemene vergadering van de gemeenschap | CWaPE-standaardsleutels of een sleutel op maat |
 | 7 | De jaarlijkse rapportering | Vertegenwoordiger van de gemeenschap | Elk jaar, **tegen 1 september** |
 

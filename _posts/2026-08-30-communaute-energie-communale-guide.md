@@ -2,7 +2,7 @@
 layout: post
 title: "Communauté d'énergie : le guide des communes"
 date: 2026-08-30 06:00:00 +0200
-last_modified_at: 2026-10-11 10:00:00 +0200
+last_modified_at: 2026-10-22 10:00:00 +0200
 author: "Eric d'OptimCE"
 excerpt: "262 communes wallonnes. Treize communautés d'énergie au dossier complet chez la CWaPE, dont six seulement partagent réellement de l'électricité. Ce n'est pas un déficit d'ambition : c'est que presque personne n'a remarqué ce que le droit wallon dit déjà. Le premier des deux critères de proximité d'une communauté d'énergie renouvelable, c'est « le territoire d'une seule et même commune ». La Wallonie est la seule des trois régions où le législateur a tracé lui-même le périmètre — et il l'a fait passer par la limite communale."
 description: "En Wallonie, le périmètre d'une communauté d'énergie renouvelable, c'est le territoire communal. Ce que la commune peut y faire, et à quel prix."
@@ -205,7 +205,7 @@ Ce qui suit n'est pas un calendrier — il dépend trop du marché public — ma
 | 2 | Les participants : quels bâtiments communaux, le CPAS, quels citoyens, quelles PME | Collège, puis conseil | Sur la base des profils de consommation, pas des bonnes volontés |
 | 3 | La forme juridique et la gouvernance | Conseil communal | Délibération + tutelle CDLD ; ASBL dans les treize cas wallons |
 | 4 | La notification de la communauté à la CWaPE | Représentant de la communauté | Formulaires en ligne sur `monespace.wallonie.be` |
-| 5 | L'autorisation de partage et la convention avec le GRD | Représentant du partage | CWaPE, puis convention-type avec ORES, RESA ou AIEG |
+| 5 | L'autorisation de partage et la convention avec le GRD | Représentant du partage | CWaPE, puis convention-type avec le GRD |
 | 6 | La clé de répartition et le prix interne | Assemblée générale de la communauté | Clés standards CWaPE ou clé sur mesure |
 | 7 | Le rapportage annuel | Représentant de la communauté | Chaque année, **pour le 1<sup>er</sup> septembre** |
 

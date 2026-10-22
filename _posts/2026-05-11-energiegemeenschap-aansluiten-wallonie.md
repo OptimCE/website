@@ -9,11 +9,11 @@ tags: [community, administrative, guide]
 lang: nl
 ref: join-energy-community-wallonia
 pillar: communautes-energie
-last_modified_at: 2026-09-16 06:00:00 +0200
+last_modified_at: 2026-10-22 10:00:00 +0200
 permalink: /nl/gidsen/energiegemeenschap-aansluiten-wallonie/
 ---
 
-In Wallonië zijn energiegemeenschappen geen marginaal experiment meer: honderden deelacties zijn actief of in voorbereiding op melding. Het wettelijke kader is stabiel, de distributienetbeheerders (ORES, RESA, AIEG) zijn voorbereid, en het merendeel van de meters is al digitaal. Voor de meeste burgers, kmo's en lokale overheden blijft één concrete drempel: **hoe vindt u een gemeenschap die nieuwe leden aanvaardt**, en **wat moet u controleren vóór u tekent**?
+In Wallonië zijn energiegemeenschappen geen marginaal experiment meer: honderden deelacties zijn actief of in voorbereiding op melding. Het wettelijke kader is stabiel, de distributienetbeheerders (DNB's) zijn voorbereid, en het merendeel van de meters is al digitaal. Voor de meeste burgers, kmo's en lokale overheden blijft één concrete drempel: **hoe vindt u een gemeenschap die nieuwe leden aanvaardt**, en **wat moet u controleren vóór u tekent**?
 
 Deze gids is bedoeld voor dat publiek. Niet voor projectleiders die een gemeenschap willen oprichten — daarvoor verwijzen we naar onze [stap-voor-stap-oprichtingsgids](/nl/gidsen/energiegemeenschap-oprichten-wallonie/) — noch voor wie het concept nog moet ontdekken — begin in dat geval met [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/gidsen/energiegemeenschappen-belgie/). Hij richt zich tot iedereen die **wil toetreden tot een bestaande deelactie** en wil weten hoe dat precies in zijn werk gaat.
 
@@ -64,7 +64,7 @@ Gemeenten, intercommunales, gemeentescholen en OCMW's mogen allemaal deelnemen e
 
 Voor u kunt toetreden, moeten op uw leveringspunt drie technische voorwaarden vervuld zijn:
 
-- **Digitale meter**: verplicht. Hebt u er nog geen, dan plaatst de DNB (ORES, RESA of AIEG) hem **gratis**, doorgaans binnen 60 dagen. Zie de [gids energiedelen van AIEG](https://www.aieg.be/le-partage-denergie) voor de technische details aan netzijde.
+- **Digitale meter**: verplicht. Hebt u er nog geen, dan plaatst uw DNB hem **gratis**, doorgaans binnen 60 dagen. Zie de [gids energiedelen van AIEG](https://www.aieg.be/le-partage-denergie) voor de technische details aan netzijde.
 - **Identificeerbaar EAN**: uw leveringspuntnummer, 18 cijfers beginnend met `541449...`. Het staat op elke elektriciteitsfactuur, in de rubriek “technische gegevens” of “leveringspunt”.
 - **Geografisch bereik**: vereist voor een **CER** (u moet binnen de nabijheidsperimeter van de producenten liggen), niet vereist voor een **CEC**. Voor de herinnering CER vs CEC, zie de [vergelijkingstabel in ons moederartikel](/nl/gidsen/energiegemeenschappen-belgie/).
 
@@ -78,7 +78,7 @@ Dat is vandaag de moeilijkste vraag in Wallonië. Meerdere kanalen bestaan naast
 | 2 | SPW-facilitator Energiegemeenschappen | Burger die persoonlijke begeleiding wil | Gemiddeld — contactname |
 | 3 | Énergie commune (matching) | Burger gericht op coöperatie / waarden | Laag — online formulier |
 | 4 | Lokale intercommunale / coöperatie | Inwoners van een afgebakende zone | Variabel |
-| 5 | DNB-pagina's (ORES, RESA, AIEG) | Bevestiging na identificatie | Laag |
+| 5 | DNB-pagina's | Bevestiging na identificatie | Laag |
 | 6 | Gemeente, lokale pers, mond-tot-mond | Toevallige ontdekking | Variabel |
 
 ### Het openbare register van OptimCE
@@ -97,11 +97,11 @@ De vereniging [Énergie commune](https://energiecommune.be) stelt een **contactf
 
 ### Lokale intercommunales en coöperaties
 
-Verschillende intercommunales animeren hun eigen deeldynamiek. De [AIEG](https://www.aieg.be/le-partage-denergie), bijvoorbeeld, coördineert actief het energiedelen in de gemeenten Andenne, Éghezée en Gesves. Burgercoöperaties (Courant d'Air, Énergie 2030, Lucéole, en anderen) dragen eveneens deelprojecten in hun werkgebied — een blik op hun website is vaak de moeite waard.
+Verschillende intercommunales animeren hun eigen deeldynamiek. De [AIEG](https://www.aieg.be/le-partage-denergie), bijvoorbeeld, coördineert actief het energiedelen in de gemeenten die zij bedient (Andenne, Brunehaut, Gesves, Ohey, Rumes en Viroinval). Burgercoöperaties (Courant d'Air, Énergie 2030, Lucéole, en anderen) dragen eveneens deelprojecten in hun werkgebied — een blik op hun website is vaak de moeite waard.
 
 ### Informatiepagina's van de netbeheerders
 
-ORES, RESA en AIEG publiceren informatie over de actieve gemeenschappen op hun grondgebied. Zij doen geen rechtstreekse matching, maar laten toe om het bestaan van een project — al via een ander kanaal geïdentificeerd — te bevestigen.
+ORES, RESA en AIEG, bijvoorbeeld, publiceren informatie over de actieve gemeenschappen op hun grondgebied. Zij doen geen rechtstreekse matching, maar laten toe om het bestaan van een project — al via een ander kanaal geïdentificeerd — te bevestigen.
 
 ### Gemeente, lokale pers, mond-tot-mond
 
@@ -121,7 +121,7 @@ Wat u meebrengt naar dat eerste contact: uw laatste elektriciteitsfactuur (of mi
 
 De beheerder verifieert enkele elementen:
 
-- Uw **EAN** is wel aangesloten op de bevoegde DNB (ORES/RESA/AIEG naargelang de gemeente).
+- Uw **EAN** is wel aangesloten op de bevoegde DNB: ORES, RESA, AIEG, AIESH of REW naargelang de gemeente. Onze tool [“Wie is mijn netbeheerder?”](/nl/tools/wie-is-mijn-netbeheerder/) vindt hem aan de hand van uw postcode.
 - Uw leveringspunt ligt binnen de **perimeter** van de gemeenschap (essentieel voor een CER; niet van toepassing voor een CEC).
 - Uw **meter** is digitaal. Zo niet, dan plant de DNB een gratis vervanging.
 
@@ -143,7 +143,7 @@ Naargelang de juridische structuur van de gemeenschap variëren de formaliteiten
 
 ### Stap 5 — Communicatie aan de DNB en opstart
 
-Goed nieuws voor u: in deze fase **hoeft u niets te doen**. De beheerder van de gemeenschap geeft uw EAN door aan de DNB (ORES, RESA of AIEG), die u op een afgesproken datum aan de deelactie toevoegt. Geen verandering van leverancier, geen opzegging, geen nieuw contract aan energiezijde.
+Goed nieuws voor u: in deze fase **hoeft u niets te doen**. De beheerder van de gemeenschap geeft uw EAN door aan uw DNB, die u op een afgesproken datum aan de deelactie toevoegt. Geen verandering van leverancier, geen opzegging, geen nieuw contract aan energiezijde.
 
 De doorlooptijd tussen ondertekening en eerste gedeelde kWh is doorgaans **4 tot 8 weken**. De beperkende factor is de DNB-planning, eventueel verlengd door de plaatsing van een digitale meter als u er nog geen had.
 
@@ -239,7 +239,7 @@ Drie kanalen om de stap te zetten:
 
 > **[Energiegemeenschap oprichten in Wallonië](/nl/gidsen/energiegemeenschap-oprichten-wallonie/)**
 >
-> Keuze tussen CER en CEC, projectstructurering, melding aan de CWaPE, ontvangstbevestiging en opstart van het delen met ORES, RESA of AIEG.
+> Keuze tussen CER en CEC, projectstructurering, melding aan de CWaPE, ontvangstbevestiging en opstart van het delen met de netbeheerder.
 
 Voor de algemene context — wat is een energiegemeenschap, wat zijn de Europese grondslagen — zie het artikel [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/gidsen/energiegemeenschappen-belgie/).
 
@@ -251,3 +251,4 @@ Voor de algemene context — wat is een energiegemeenschap, wat zijn de Europese
 - [Énergie commune — Gemeenschap](https://energiecommune.be) — matchingformulier voor burgers op zoek naar een Waalse gemeenschap.
 - [Énergie+ — Hoe een energiegemeenschap opzetten in Wallonië](https://energieplus-lesite.be/webinaire/comment-mettre-en-place-une-communaute-denergie-en-wallonie/) — logica van aansluiting en deelname.
 - [AIEG — Het energiedelen](https://www.aieg.be/le-partage-denergie) — lokale operationele voorbeelden en technische vereisten aan netzijde.
+- [CWaPE — De netbeheerders](https://www.cwape.be/node/160) — de vijf distributienetbeheerders voor elektriciteit in Wallonië: ORES, RESA, AIEG, AIESH en REW.

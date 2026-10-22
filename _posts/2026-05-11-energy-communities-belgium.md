@@ -9,7 +9,7 @@ tags: [community, administrative]
 lang: en
 ref: energy-communities-belgium
 pillar: communautes-energie
-last_modified_at: 2026-07-20 10:00:00 +0200
+last_modified_at: 2026-10-22 10:00:00 +0200
 permalink: /en/guides/energy-communities-belgium/
 ---
 
@@ -82,7 +82,7 @@ Crucial point to grasp: energy sharing is **administrative, not physical**. Elec
 
 ## The actors involved
 
-- **DSOs** — ORES, RESA, AIEG in Wallonia; Sibelga in Brussels; Fluvius in Flanders — operate meters, validate participants and compute allocations. See for example the dedicated [ORES page](https://www.ores.be/particulier/communautes-denergie).
+- **DSOs** — ORES, RESA, AIEG, AIESH and REW in Wallonia; Sibelga in Brussels; Fluvius in Flanders — operate meters, validate participants and compute allocations. See for example the dedicated [ORES page](https://www.ores.be/particulier/communautes-denergie). Our [“Find your DSO”](/en/tools/find-my-dso/) tool gives yours from the postcode.
 - **Regional regulators** — [CWaPE](https://www.cwape.be/secteur/communautes-partage-energie) in Wallonia, [BRUGEL](https://environnement.brussels/citoyen/agir-pour-lenvironnement/devenir-eco-responsable/partage-et-communautes-denergie) in Brussels, [Vlaamse Nutsregulator (ex-VREG)](https://www.vlaamsenutsregulator.be) in Flanders — set rules, supervise tariffs and publish guidance for communities.
 - **Energy suppliers** continue to bill **residual energy**, i.e. the share of consumption not covered by the community's internal sharing.
 - **Members** are prosumers (e.g. equipped with PV), pure consumers, SMEs or local authorities.
@@ -136,7 +136,7 @@ Through the **smart meters** rolled out by the DSOs, which transmit data every *
 
 > **[Create an energy community in Wallonia](/en/guides/create-energy-community-wallonia/)**
 >
-> Choosing between CER and CEC, framing the project, notifying the CWaPE, receiving the acknowledgement, and launching the sharing with ORES, RESA or AIEG.
+> Choosing between CER and CEC, framing the project, notifying the CWaPE, receiving the acknowledgement, and launching the sharing with the DSO.
 
 > **Coming soon — Brussels and Flanders**
 >

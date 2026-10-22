@@ -10,7 +10,7 @@ lang: fr
 ref: energy-communities-belgium
 pillar: communautes-energie
 permalink: /guides/communautes-energie-belgique/
-last_modified_at: 2026-07-20 10:00:00 +0200
+last_modified_at: 2026-10-22 10:00:00 +0200
 ---
 
 Les communautés d'énergie sont au cœur de la transition énergétique en Belgique. Encadrées par l'Union européenne et déclinées par chaque région — Wallonie, Bruxelles, Flandre — elles permettent à des citoyens, des entreprises et des autorités locales de produire, partager et consommer leur propre énergie. Cet article passe en revue les trois formes officielles (CER, CEC, CEL), explique comment fonctionne le partage d'énergie, présente les acteurs clés et résume les bénéfices financiers et écologiques.
@@ -82,7 +82,7 @@ Point essentiel à comprendre : le partage d'énergie est **administratif, pas p
 
 ## Les acteurs impliqués
 
-- **Les gestionnaires de réseau (GRD)** — ORES, RESA, AIEG en Wallonie ; Sibelga à Bruxelles ; Fluvius en Flandre — exploitent les compteurs, valident les participants et calculent les répartitions. Voir par exemple la page dédiée d'[ORES](https://www.ores.be/particulier/communautes-denergie).
+- **Les gestionnaires de réseau (GRD)** — ORES, RESA, AIEG, AIESH et REW en Wallonie ; Sibelga à Bruxelles ; Fluvius en Flandre — exploitent les compteurs, valident les participants et calculent les répartitions. Voir par exemple la page dédiée d'[ORES](https://www.ores.be/particulier/communautes-denergie). Notre outil [« Quel est mon GRD ? »](/outils/quel-est-mon-grd/) donne le vôtre à partir du code postal.
 - **Les régulateurs régionaux** — la [CWaPE](https://www.cwape.be/secteur/communautes-partage-energie) en Wallonie, [BRUGEL](https://environnement.brussels/citoyen/agir-pour-lenvironnement/devenir-eco-responsable/partage-et-communautes-denergie) à Bruxelles, le [Vlaamse Nutsregulator (ex-VREG)](https://www.vlaamsenutsregulator.be) en Flandre — fixent les règles, supervisent les tarifs et publient des guides à destination des communautés.
 - **Les fournisseurs d'énergie** continuent de facturer l'**énergie résiduelle**, c'est-à-dire la part de la consommation non couverte par le partage interne.
 - **Les membres** sont à la fois des prosommateurs (équipés en photovoltaïque par exemple), des consommateurs, des PME ou des autorités locales.
@@ -136,7 +136,7 @@ Via les **compteurs communicants** (smart meters) déployés par les GRD, qui tr
 
 > **[Créer une communauté d'énergie en Wallonie](/guides/creer-communaute-energie-wallonie/)**
 >
-> Choix entre CER et CEC, cadrage du projet, notification à la CWaPE, accusé de réception et démarrage du partage avec ORES, RESA ou AIEG.
+> Choix entre CER et CEC, cadrage du projet, notification à la CWaPE, accusé de réception et démarrage du partage avec le GRD.
 
 > **Bientôt — Bruxelles et Flandre**
 >

@@ -2,7 +2,7 @@
 layout: post
 title: "Energy communities: a guide for municipalities"
 date: 2026-08-30 06:00:00 +0200
-last_modified_at: 2026-10-11 10:00:00 +0200
+last_modified_at: 2026-10-22 10:00:00 +0200
 author: "Eric from OptimCE"
 excerpt: "262 Walloon municipalities. Thirteen energy communities with a complete file at the CWaPE, of which only six actually share any electricity. This is not a shortage of ambition: it is that almost nobody has noticed what Walloon law already says. The first of the two proximity criteria for a renewable energy community is literally “the territory of one single and same municipality”. Wallonia is the only one of the three regions where the legislator drew the perimeter itself — and drew it along the municipal boundary."
 description: "In Wallonia, the perimeter of a renewable energy community is the municipal territory. What a municipality can do with it, and at what price."
@@ -205,7 +205,7 @@ What follows is not a timetable — it depends too much on the procurement proce
 | 2 | The participants: which municipal buildings, the welfare centre, which residents, which SMEs | Executive, then council | On the basis of consumption profiles, not goodwill |
 | 3 | The legal form and governance | Municipal council | Resolution + supervision; a non-profit association in all thirteen Walloon cases |
 | 4 | Notification of the community to the CWaPE | Community representative | Online forms on `monespace.wallonie.be` |
-| 5 | The sharing authorisation and the agreement with the network operator | Sharing representative | CWaPE, then the standard agreement with ORES, RESA or AIEG |
+| 5 | The sharing authorisation and the agreement with the network operator | Sharing representative | CWaPE, then the standard agreement with the DSO |
 | 6 | The allocation key and the internal price | General meeting of the community | CWaPE standard keys or a bespoke key |
 | 7 | Annual reporting | Community representative | Every year, **by 1 September** |
 
