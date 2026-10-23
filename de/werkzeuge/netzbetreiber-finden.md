@@ -12,7 +12,7 @@ tool_page: true
 tool: dso
 tool_order: 1
 date_published: 2026-10-18
-last_modified_at: 2026-10-18
+last_modified_at: 2026-10-23
 faq:
   - q: "Welcher Netzbetreiber ist für mich zuständig?"
     a: "Geben Sie Ihre Postleitzahl in das Werkzeug oben auf dieser Seite ein: Es zeigt den Strom- und den Gasnetzbetreiber Ihrer Gemeinde an. Umfasst die Postleitzahl mehrere Gemeinden oder wechselt der Netzbetreiber von einem Ortsteil zum anderen, fragt das Werkzeug nach. Zur Kontrolle sehen Sie auf Ihrer Jahresabrechnung für Strom nach: Bei einem Haushalt nennt sie den Namen und die Telefonnummer des Netzbetreibers, den Sie bei einer Störung anrufen."
@@ -218,7 +218,9 @@ beginnend mit 54
 je Energieträger, an die Lieferstelle gebunden und nicht an den Kunden
 ([ORES](https://media.ores.be/ores-cms/gn3fb430/ores_fiche_g-01_demarches_administratives_fr_web.pdf)).
 Der Ratgeber [„Belgische Stromrechnung Zeile für Zeile lesen“]({{ 'read-electricity-bill-belgium' | ref_url }})
-erklärt den Rest der Rechnung.
+erklärt den Rest der Rechnung, und der Ratgeber
+[„EAN-Code für Strom: wo finden, wozu er dient“]({{ 'ean-code-belgium' | ref_url }})
+zeigt, wo Sie den Code ohne Rechnung finden und wem Sie ihn geben.
 
 ## Ihr Netzbetreiber und die Energieteilung
 

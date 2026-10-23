@@ -2,7 +2,7 @@
 layout: post
 title: "Elektriciteitsfactuur lezen: regel per regel"
 date: 2026-07-30 10:00:00 +0200
-last_modified_at: 2026-08-22 06:00:00 +0200
+last_modified_at: 2026-10-23 06:00:00 +0200
 author: "Eric van OptimCE"
 excerpt: "U ontvangt een twaalftal documenten per jaar die “factuur” heten, en slechts één daarvan zegt u werkelijk wat u verschuldigd bent. Sinds 2022 legt een koninklijk besluit alle Belgische leveranciers vijf identieke rubrieken op. Deze gids ontcijfert het document: voorschot tegenover jaarafrekening, de EAN-code, werkelijke of geschatte meterstanden, elke prijsregel met haar echte bestemmeling, de vaste vergoeding die men soms tweemaal betaalt, en welke ombudsdienst bij welke regel hoort."
 description: "De vijf sinds 2022 verplichte rubrieken, voorschot tegenover jaarafrekening, de EAN-code, geschatte standen: elke regel van uw factuur ontcijferd."
@@ -78,7 +78,7 @@ Daaruit volgen twee gewoonten. Ten eerste: **rubriek A bevat de einddatum van uw
 
 Het identificatieblok bovenaan lijkt administratieve opvulling. In werkelijkheid schuilen daar de meeste dure vergissingen.
 
-**De EAN-code.** Het is een uniek nummer voor uw leveringspunt dat nooit verandert, ook niet als de meter wordt vervangen (Ecoconso). Achttien cijfers, in België beginnend met 54. Het essentiële punt: hij identificeert **een plaats**, niet een meter en niet een contract. U verandert van leverancier, de EAN blijft. Uw meter wordt vervangen, de EAN blijft. Hij wordt u gevraagd bij een verhuizing, bij een klacht, of om uw punt in te schrijven in een operatie van energiedelen. Kijk hem in een appartementsgebouw cijfer per cijfer na: twee naburige appartementen hebben EAN die alleen in de laatste tekens verschillen, en een verwisseling betaalt u jarenlang.
+**De EAN-code.** Het is een uniek nummer voor uw leveringspunt dat nooit verandert, ook niet als de meter wordt vervangen (Ecoconso). Achttien cijfers, in België beginnend met 54. Het essentiële punt: hij identificeert **een plaats**, niet een meter en niet een contract. U verandert van leverancier, de EAN blijft. Uw meter wordt vervangen, de EAN blijft. Hij wordt u gevraagd bij een verhuizing, bij een klacht, of om uw punt in te schrijven in een operatie van energiedelen. Kijk hem in een appartementsgebouw cijfer per cijfer na: twee naburige appartementen hebben EAN die alleen in de laatste tekens verschillen, en een verwisseling betaalt u jarenlang. Waar u hem zonder factuur vindt, hoeveel codes een woning heeft en aan wie u hem geeft: onze gids [“EAN-code elektriciteit: vinden en gebruiken”](/nl/gidsen/ean-code-elektriciteit-vinden/).
 
 **De factureringsperiode.** Vergelijk ze met de periode die werkelijk is verstreken. Daar schuilt de valstrik van de vaste vergoeding, waarop we hieronder terugkomen.
 

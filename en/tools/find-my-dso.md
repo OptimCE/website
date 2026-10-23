@@ -12,7 +12,7 @@ tool_page: true
 tool: dso
 tool_order: 1
 date_published: 2026-10-18
-last_modified_at: 2026-10-18
+last_modified_at: 2026-10-23
 faq:
   - q: "How do I find out who my distribution network operator is?"
     a: "Enter your postcode in the tool at the top of this page: it shows your municipality's distribution system operator (DSO) for electricity and the one for gas. If the postcode covers several municipalities, or if the operator changes from one section of the municipality to another, the tool asks you to specify. To check, look at your annual electricity statement: for a household, it gives the name and phone number of the network operator to call in the event of a power cut."
@@ -210,7 +210,9 @@ with 54
 for each energy type, linked to the supply point and not to the customer
 ([ORES](https://media.ores.be/ores-cms/gn3fb430/ores_fiche_g-01_demarches_administratives_fr_web.pdf)).
 The guide [“Read your Belgian electricity bill line by line”]({{ 'read-electricity-bill-belgium' | ref_url }})
-explains the rest of the bill.
+explains the rest of the bill, and the guide
+[“Belgian EAN code: where to find it, what it's for”]({{ 'ean-code-belgium' | ref_url }})
+explains where to find the code without a bill and who to give it to.
 
 ## Your DSO and energy sharing
 

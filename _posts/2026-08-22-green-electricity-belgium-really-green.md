@@ -2,7 +2,7 @@
 layout: post
 title: "Green electricity in Belgium: really green?"
 date: 2026-08-22 06:00:00 +0200
-last_modified_at: 2026-08-25 06:00:00 +0200
+last_modified_at: 2026-10-23 06:00:00 +0200
 author: "Eric from OptimCE"
 excerpt: "In 2024, suppliers active in Wallonia declared a supply mix that was 49.38 % renewable. That same year, the Belgian residual mix — what is left once every guarantee of origin has been claimed by someone — stood at 18.07 % renewable. Both figures are accurate, official and published by the regulators. The gap is not fraud: it is the system working exactly as designed. Here is what a guarantee of origin actually proves, what it does not, what changes on 27 September 2026, and how to check your own supply."
 description: "Guarantees of origin, residual mix, greenwashing: what a Belgian green offer really proves — and how to check your own supply."
@@ -21,7 +21,7 @@ faq:
   - q: "What changes on 27 September 2026 for green electricity offers?"
     a: "European Directive 2024/825 on empowering consumers for the green transition becomes applicable across all twenty-seven member states. It bans three practices that are directly present on the Belgian energy market: generic environmental claims without proof of recognised environmental performance, meaning the words green, ecological or environmentally friendly used on their own; sustainability labels not based on a public or approved certification scheme, which targets in-house labels created by sellers themselves; and climate neutrality claims based on offsetting. Belgium was due to transpose the text by 27 March 2026 and is subject to an infringement procedure for failing to communicate its transposition, but the European application date does not move as a result."
   - q: "How do I actually check where the green electricity I pay for comes from?"
-    a: "Each region has a tool, and they do not offer the same level of detail. In Flanders, the VREG Groencheck is the most precise in the country: it goes down to your own EAN code and tells you whether your supplier really filed with the regulator the guarantees of origin matching your consumption. In Brussels, the Brugel Greencheck lets every consumer verify the green percentage of their supply. In Wallonia, the fuel mix published by CWaPE gives the mix per supplier and the Belgian residual mix, but no individualised view per meter. In all three regions, the ranking published on monelectriciteverte.be usefully completes the picture, because it scores what a supplier actually produces and invests, not what it declares."
+    a: "Each region has a tool, and they do not offer the same level of detail. In Flanders, the VREG Groencheck goes down to your own EAN code and tells you whether your supplier really filed with the regulator the guarantees of origin matching your consumption. In Brussels, the Brugel Greencheck lets every consumer verify the green percentage of their supply. In Wallonia, the CWaPE GreenCheck shows, from your EAN code, the percentage of green energy your supplier has supplied to you over the last few months, and the fuel mix published by the regulator gives the mix per supplier and the Belgian residual mix. In all three regions, the ranking published on monelectriciteverte.be usefully completes the picture, because it scores what a supplier actually produces and invests, not what it declares."
   - q: "Why is energy sharing more verifiable than a conventional green offer?"
     a: "Because the nature of the proof changes. A conventional green offer rests on an annual declaration by the supplier, backed by certificates bought elsewhere and sometimes much later. Energy sharing rests on an allocation calculated by the distribution system operator, quarter-hour by quarter-hour, from the participants' real metering data, within a bounded grid perimeter. The rule is explicit in the Walloon decree: only energy produced, injected into the local grid and consumed within the same quarter-hour is shared. CWaPE itself describes these volumes as energy guaranteed 100 per cent renewable and local in origin. A participant can cross-check their own shared volumes against their meter readings, which no holder of a green offer can do with Norwegian certificates."
 ---
@@ -171,11 +171,11 @@ In practice, this means the question this article asks — *what backs your “g
 
 ## Checking your own electricity, region by region
 
-Enough theory. Here is how to check your own supply, using official tools. The level of detail varies sharply from one region to another, and Flanders is by far the best served.
+Enough theory. Here is how to check your own supply, using official tools. The level of detail varies from one region to another: in Flanders and Wallonia, the regulator's tool goes down to your EAN code.
 
 ### Flanders — the VREG Groencheck
 
-This is the most precise tool in the country, and the only one that goes down to the **individual connection point**: you enter your electricity EAN code, and it tells you how green your electricity actually was.
+The tool goes down to the **individual connection point**: you enter your electricity EAN code, and it tells you how green your electricity actually was.
 
 The key word is the verb. The Groencheck lets you check whether your supplier **actually submitted** guarantees of origin for your meter. It is not a brochure, it is a verification. The Flemish rule is explicit: if you signed a green electricity contract, your supplier must file the matching guarantees with the VREG **every month** — one per 1,000 kWh of green electricity consumed — and thereby prove that the power delivered to you did come from renewable sources: water, sun, wind, biogas, biomass.
 
@@ -183,9 +183,11 @@ The key word is the verb. The Groencheck lets you check whether your supplier **
 
 Brugel provides an equivalent tool in principle: “every Brussels consumer can verify the green percentage of their supply”. The regulator also publishes the annual breakdown of cancelled guarantees by technology and country of origin, which lets you place your own offer in the regional context.
 
-### Wallonia — the CWaPE fuel mix
+### Wallonia — the CWaPE GreenCheck and fuel mix
 
-Wallonia offers no individualised per-meter view. CWaPE does, however, publish the **fuel mix per supplier** as well as the Belgian residual mix, which lets you compare your supplier's disclosure with the market average — and measure the gap against the residual mix.
+CWaPE also offers a per-meter check, the **GreenCheck**: you enter your electricity EAN code and see “the percentage of green energy your supplier has supplied to you over the last few months”. The tool lets you “check whether your supplier has met its contractual obligations”, and it “only covers electricity contracts concluded in Wallonia”. The code is on your bill; if you cannot find it, our guide [“Belgian EAN code: where to find it, what it's for”](/en/guides/ean-code-belgium-where-to-find/) explains how to retrieve it. CWaPE warns against confusing your electricity EAN code with the gas one.
+
+The regulator also publishes the **fuel mix per supplier** as well as the Belgian residual mix, which lets you compare your supplier's disclosure with the market average — and measure the gap against the residual mix.
 
 ### The five questions to ask your supplier
 
@@ -292,7 +294,7 @@ European Directive **2024/825** on empowering consumers for the green transition
 
 ### How do I actually check where the green electricity I pay for comes from?
 
-Each region has a tool, and they do not offer the same level of detail. In **Flanders**, the VREG Groencheck is the most precise in the country: it goes down to your own EAN code and tells you whether your supplier really filed with the regulator the guarantees of origin matching your consumption. In **Brussels**, the Brugel Greencheck lets every consumer verify the green percentage of their supply. In **Wallonia**, the fuel mix published by CWaPE gives the mix per supplier and the Belgian residual mix, but no individualised view per meter. In all three regions, the ranking published on monelectriciteverte.be usefully completes the picture, because it scores what a supplier actually **produces and invests**, not what it declares.
+Each region has a tool, and they do not offer the same level of detail. In **Flanders**, the VREG Groencheck goes down to your own EAN code and tells you whether your supplier really filed with the regulator the guarantees of origin matching your consumption. In **Brussels**, the Brugel Greencheck lets every consumer verify the green percentage of their supply. In **Wallonia**, the CWaPE GreenCheck shows, from your EAN code, the percentage of green energy your supplier has supplied to you over the last few months, and the fuel mix published by the regulator gives the mix per supplier and the Belgian residual mix. In all three regions, the ranking published on monelectriciteverte.be usefully completes the picture, because it scores what a supplier actually **produces and invests**, not what it declares.
 
 ### Why is energy sharing more verifiable than a conventional green offer?
 
@@ -301,6 +303,7 @@ Because the nature of the proof changes. A conventional green offer rests on an 
 ## Sources
 
 - [CWaPE — Fuel Mix](https://www.cwape.be/node/165) — primary source for the 2024 Walloon supply mix at 49.38 % renewable, 17.21 % fossil and 33.41 % nuclear across 19,949,085 MWh, for the 2024 Belgian residual mix at 18.07 % renewable, and for the monthly control procedure cross-checking supplier declarations by EAN code against consumption reported by grid operators.
+- [CWaPE — GreenCheck (FR)](https://www.cwape.be/conso/greencheck) — verification tool based on the electricity EAN code: percentage of green energy supplied over the last few months and whether the supplier met its contractual obligations, for contracts concluded in Wallonia only. Accessed 23 October 2026.
 - [SPW Énergie — Guarantees of origin for electricity and gas](https://energie.wallonie.be/home/les-marches-et-les-acteurs/le-marche-des-garanties-d-origine/garanties-d-origine-de-l-electricite-et-du-gaz.html) — sale of guarantees of origin independently of the electricity produced, the GO élec-SER, GO gaz-SER and GO CHP categories, the EECS framework and CEN EN 16325 standard, trading via the AIB hub, and the observation that a significant number of guarantees trade at zero or unstated prices.
 - [Association of Issuing Bodies — European Residual Mix 2025](https://www.aib-net.org/facts/european-residual-mix/2025) — final results published on 26 May 2026: Belgian residual mix carbon intensity at 171.01 gCO₂/kWh, average renewable share of 21 % across European residual mixes and an average of 435 gCO₂/kWh. Definition of the residual mix as consumption not explicitly tracked by guarantees of origin.
 - [Brugel — Green energy supply](https://brugel.brussels/themes/energies-renouvelables-11/fourniture-d-energie-verte-42) — obligation on suppliers to purchase guarantees of origin equivalent to the green electricity sold, the possibility that these guarantees come from installations located in other European regions, the Greencheck consumer verification tool, and the 2023 breakdown of cancelled guarantees: France 25.58 %, federal entity and North Sea 19.13 %, Flanders 15.38 %, Norway 12.05 %.

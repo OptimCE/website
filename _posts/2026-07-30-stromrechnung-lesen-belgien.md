@@ -2,7 +2,7 @@
 layout: post
 title: "Belgische Stromrechnung Zeile für Zeile lesen"
 date: 2026-07-30 10:00:00 +0200
-last_modified_at: 2026-08-22 06:00:00 +0200
+last_modified_at: 2026-10-23 06:00:00 +0200
 author: "Eric, OptimCE"
 excerpt: "Sie erhalten ein Dutzend Dokumente pro Jahr, die „Rechnung“ heißen, und nur eines sagt Ihnen wirklich, was Sie schulden. Seit 2022 schreibt ein Königlicher Erlass allen belgischen Lieferanten fünf identische Abschnitte vor. Dieser Leitfaden entschlüsselt das Dokument: Abschlagsrechnung und Jahresabrechnung, EAN-Code, abgelesene oder geschätzte Zählerstände, jede Preiszeile mit ihrem tatsächlichen Empfänger, die Grundgebühr, die manche zweimal zahlen, und die je nach Zeile zuständige Ombudsstelle."
 description: "Die fünf seit 2022 vorgeschriebenen Abschnitte, Abschlag gegen Jahresabrechnung, EAN-Code, geschätzte Zählerstände: jede Zeile Ihrer Rechnung entschlüsselt."
@@ -78,7 +78,7 @@ Daraus folgen zwei Gewohnheiten. Erstens: **Abschnitt A enthält Ihr Vertragsend
 
 Der Identifikationsblock am Kopf wirkt wie Verwaltungsbeiwerk. Tatsächlich verbergen sich dort die meisten teuren Fehler.
 
-**Der EAN-Code.** Er ist eine eindeutige Nummer für Ihre Lieferstelle, die sich nie ändert, auch nicht bei Austausch des Zählers (Ecoconso). Achtzehn Ziffern, in Belgien beginnend mit 54. Entscheidend: Er bezeichnet **einen Ort**, nicht einen Zähler und nicht einen Vertrag. Sie wechseln den Lieferanten — der EAN bleibt. Ihr Zähler wird getauscht — der EAN bleibt. Er wird bei einem Umzug, einer Beschwerde oder der Anmeldung Ihrer Lieferstelle für eine Energieteilung abgefragt. Prüfen Sie ihn in einem Mehrfamilienhaus Ziffer für Ziffer: Zwei Nachbarwohnungen haben EAN, die sich nur in den letzten Stellen unterscheiden, und eine Verwechslung zahlt man über Jahre.
+**Der EAN-Code.** Er ist eine eindeutige Nummer für Ihre Lieferstelle, die sich nie ändert, auch nicht bei Austausch des Zählers (Ecoconso). Achtzehn Ziffern, in Belgien beginnend mit 54. Entscheidend: Er bezeichnet **einen Ort**, nicht einen Zähler und nicht einen Vertrag. Sie wechseln den Lieferanten — der EAN bleibt. Ihr Zähler wird getauscht — der EAN bleibt. Er wird bei einem Umzug, einer Beschwerde oder der Anmeldung Ihrer Lieferstelle für eine Energieteilung abgefragt. Prüfen Sie ihn in einem Mehrfamilienhaus Ziffer für Ziffer: Zwei Nachbarwohnungen haben EAN, die sich nur in den letzten Stellen unterscheiden, und eine Verwechslung zahlt man über Jahre. Wo Sie ihn ohne Rechnung finden, wie viele Codes eine Wohnung hat und wem Sie ihn geben: unser Ratgeber [„EAN-Code für Strom: wo finden, wozu er dient“](/de/ratgeber/ean-code-strom-wo-finden/).
 
 **Der Abrechnungszeitraum.** Vergleichen Sie ihn mit dem tatsächlich verstrichenen Zeitraum. Hier lauert die Falle bei der Grundgebühr, auf die wir weiter unten zurückkommen.
 

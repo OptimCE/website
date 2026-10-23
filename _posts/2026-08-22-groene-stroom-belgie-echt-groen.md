@@ -2,7 +2,7 @@
 layout: post
 title: "Groene stroom in België: echt groen?"
 date: 2026-08-22 06:00:00 +0200
-last_modified_at: 2026-08-25 06:00:00 +0200
+last_modified_at: 2026-10-23 06:00:00 +0200
 author: "Eric van OptimCE"
 excerpt: "In 2024 gaven de in Wallonië actieve leveranciers een leveringsmix op van 49,38 % hernieuwbaar. Datzelfde jaar bedroeg de Belgische residuele mix — wat overblijft zodra elke garantie van oorsprong door iemand is opgeëist — 18,07 % hernieuwbaar. Beide cijfers zijn juist, officieel en gepubliceerd door de regulatoren. De kloof is geen fraude: het is het systeem dat precies werkt zoals het ontworpen is. Hier leest u wat een garantie van oorsprong echt bewijst, wat niet, wat er verandert op 27 september 2026, en hoe u uw eigen levering controleert."
 description: "Garanties van oorsprong, residuele mix, greenwashing: wat een Belgisch groenestroomaanbod echt bewijst — en hoe u het zelf controleert."
@@ -21,7 +21,7 @@ faq:
   - q: "Wat verandert er op 27 september 2026 voor groenestroomaanbiedingen?"
     a: "De Europese richtlijn 2024/825 over het versterken van de positie van de consument in de groene transitie wordt van toepassing in alle zevenentwintig lidstaten. Ze verbiedt drie praktijken die rechtstreeks op de Belgische energiemarkt voorkomen: algemene milieuclaims zonder bewijs van erkende milieuprestaties, dus de woorden groen, ecologisch of milieuvriendelijk die op zichzelf worden gebruikt; duurzaamheidslabels die niet berusten op een openbaar of goedgekeurd certificeringssysteem, wat mikt op huislabels die verkopers zelf creëren; en claims van klimaatneutraliteit die op compensatie berusten. België moest de tekst omzetten tegen 27 maart 2026 en is voorwerp van een inbreukprocedure wegens niet-meegedeelde omzetting, maar de Europese toepassingsdatum verschuift daardoor niet."
   - q: "Hoe controleer ik concreet waar de groene stroom vandaan komt die ik betaal?"
-    a: "Elke regio beschikt over een instrument, en ze bieden niet hetzelfde detailniveau. In Vlaanderen is de Groencheck van de VREG de meest precieze van het land: hij daalt af tot uw eigen EAN-code en zegt u of uw leverancier de garanties van oorsprong voor uw verbruik werkelijk bij de regulator heeft ingediend. In Brussel laat de Greencheck van Brugel elke consument het groene percentage van zijn levering nagaan. In Wallonië geeft de door de CWaPE gepubliceerde fuel mix de mix per leverancier en de Belgische residuele mix, maar geen geïndividualiseerd beeld per meter. In alle drie de regio's vult de ranking op monelectriciteverte.be het plaatje nuttig aan, want die scoort wat een leverancier werkelijk produceert en investeert, en niet wat hij verklaart."
+    a: "Elke regio beschikt over een instrument, en ze bieden niet hetzelfde detailniveau. In Vlaanderen daalt de Groencheck van de VREG af tot uw eigen EAN-code en vertelt hij u of uw leverancier de garanties van oorsprong voor uw verbruik werkelijk bij de regulator heeft ingediend. In Brussel laat de Greencheck van Brugel elke consument het groene percentage van zijn levering nagaan. In Wallonië toont de GreenCheck van de CWaPE op basis van uw EAN-code het percentage groene energie dat uw leverancier u de voorbije maanden heeft geleverd, en geeft de door de regulator gepubliceerde fuel mix de mix per leverancier en de Belgische residuele mix. In alle drie de regio's vult de ranking op monelectriciteverte.be het plaatje nuttig aan, want die scoort wat een leverancier werkelijk produceert en investeert, en niet wat hij verklaart."
   - q: "Waarom is energiedelen beter controleerbaar dan een klassiek groenestroomaanbod?"
     a: "Omdat de aard van het bewijs verandert. Een klassiek groenestroomaanbod berust op een jaarlijkse verklaring van de leverancier, gedekt door elders en soms veel later gekochte certificaten. Energiedelen berust op een verdeling die de distributienetbeheerder kwartier per kwartier berekent op basis van de reële meetgegevens van de deelnemers, binnen een begrensde netperimeter. De regel staat uitdrukkelijk in het Waalse decreet: enkel energie die is geproduceerd, in het lokale net geïnjecteerd en binnen hetzelfde kwartier verbruikt, wordt gedeeld. De CWaPE bestempelt die volumes zelf als energie met gegarandeerd 100 procent hernieuwbare en lokale oorsprong. Een deelnemer kan zijn eigen gedeelde volumes naast zijn meterstanden leggen, wat geen enkele houder van een groenestroomaanbod met Noorse certificaten kan doen."
 ---
@@ -171,11 +171,11 @@ In de praktijk betekent dat: de vraag van dit artikel — *waarop berust uw verm
 
 ## Uw eigen stroom controleren, regio per regio
 
-Genoeg theorie. Zo controleert u uw eigen levering, met officiële instrumenten. Het detailniveau verschilt sterk tussen de regio's, en Vlaanderen is veruit het best bediend.
+Genoeg theorie. Zo controleert u uw eigen levering, met officiële instrumenten. Het detailniveau verschilt tussen de regio's: in Vlaanderen en Wallonië daalt het instrument van de regulator af tot uw EAN-code.
 
 ### Vlaanderen — de Groencheck van de VREG
 
-Dit is het meest precieze instrument van het land, en het enige dat afdaalt tot het **individuele aansluitingspunt**: u vult uw EAN-code voor elektriciteit in, en het vertelt u hoe groen uw stroom werkelijk was.
+Het instrument daalt af tot het **individuele aansluitingspunt**: u vult uw EAN-code voor elektriciteit in, en het vertelt u hoe groen uw stroom werkelijk was.
 
 Bepalend is het werkwoord. De Groencheck laat toe na te gaan of uw leverancier voor uw meter **effectief garanties van oorsprong heeft ingediend**. Dat is geen brochure, dat is een verificatie. De Vlaamse regel is expliciet: wie een contract voor groene stroom afsloot, diens leverancier moet **elke maand** de bijbehorende garanties bij de VREG indienen — één per 1 000 kWh verbruikte groene stroom — en zo bewijzen dat de geleverde elektriciteit wel degelijk uit hernieuwbare energiebronnen komt: water, zon, wind, biogas, biomassa.
 
@@ -183,9 +183,11 @@ Bepalend is het werkwoord. De Groencheck laat toe na te gaan of uw leverancier v
 
 Brugel stelt een in beginsel gelijkwaardig instrument ter beschikking: “elke Brusselse consument kan het groene percentage van zijn levering nagaan”. De regulator publiceert daarnaast de jaarlijkse uitsplitsing van de geschrapte garanties per technologie en per land van herkomst, wat toelaat het eigen aanbod in de regionale context te plaatsen.
 
-### Wallonië — de fuel mix van de CWaPE
+### Wallonië — de GreenCheck en de fuel mix van de CWaPE
 
-Wallonië biedt geen geïndividualiseerd beeld per meter. De CWaPE publiceert wel de **fuel mix per leverancier** en de Belgische residuele mix, wat toelaat de opgave van de eigen leverancier te vergelijken met het marktgemiddelde — en de afstand tot de residuele mix te meten.
+Ook de CWaPE biedt een controle per meter, de **GreenCheck**: u vult uw EAN-code voor elektriciteit in en ziet “het percentage groene energie dat uw leverancier u de voorbije maanden heeft geleverd”. Het instrument laat toe “na te gaan of uw leverancier zijn contractuele verplichtingen is nagekomen”, en het geldt “alleen voor elektriciteitscontracten die in Wallonië zijn gesloten”. De code staat op uw factuur; ontbreekt hij, dan legt onze gids [“EAN-code elektriciteit: vinden en gebruiken”](/nl/gidsen/ean-code-elektriciteit-vinden/) uit hoe u hem terugvindt. De CWaPE waarschuwt ervoor de EAN-code voor elektriciteit niet te verwarren met die voor gas.
+
+De regulator publiceert daarnaast de **fuel mix per leverancier** en de Belgische residuele mix, wat toelaat de opgave van de eigen leverancier te vergelijken met het marktgemiddelde — en de afstand tot de residuele mix te meten.
 
 ### De vijf vragen aan uw leverancier
 
@@ -292,7 +294,7 @@ De Europese richtlijn **2024/825** over het versterken van de positie van de con
 
 ### Hoe controleer ik concreet waar de groene stroom vandaan komt die ik betaal?
 
-Elke regio beschikt over een instrument, en ze bieden niet hetzelfde detailniveau. In **Vlaanderen** is de Groencheck van de VREG de meest precieze van het land: hij daalt af tot uw eigen EAN-code en zegt u of uw leverancier de garanties van oorsprong voor uw verbruik werkelijk bij de regulator heeft ingediend. In **Brussel** laat de Greencheck van Brugel elke consument het groene percentage van zijn levering nagaan. In **Wallonië** geeft de door de CWaPE gepubliceerde fuel mix de mix per leverancier en de Belgische residuele mix, maar geen geïndividualiseerd beeld per meter. In alle drie de regio's vult de ranking op monelectriciteverte.be het plaatje nuttig aan, want die scoort wat een leverancier werkelijk **produceert en investeert**, en niet wat hij verklaart.
+Elke regio beschikt over een instrument, en ze bieden niet hetzelfde detailniveau. In **Vlaanderen** daalt de Groencheck van de VREG af tot uw eigen EAN-code en vertelt hij u of uw leverancier de garanties van oorsprong voor uw verbruik werkelijk bij de regulator heeft ingediend. In **Brussel** laat de Greencheck van Brugel elke consument het groene percentage van zijn levering nagaan. In **Wallonië** toont de GreenCheck van de CWaPE op basis van uw EAN-code het percentage groene energie dat uw leverancier u de voorbije maanden heeft geleverd, en geeft de door de regulator gepubliceerde fuel mix de mix per leverancier en de Belgische residuele mix. In alle drie de regio's vult de ranking op monelectriciteverte.be het plaatje nuttig aan, want die scoort wat een leverancier werkelijk **produceert en investeert**, en niet wat hij verklaart.
 
 ### Waarom is energiedelen beter controleerbaar dan een klassiek groenestroomaanbod?
 
@@ -301,6 +303,7 @@ Omdat de aard van het bewijs verandert. Een klassiek groenestroomaanbod berust o
 ## Bronnen
 
 - [CWaPE — Fuel Mix](https://www.cwape.be/node/165) — primaire bron voor de Waalse leveringsmix 2024 met 49,38 % hernieuwbaar, 17,21 % fossiel en 33,41 % nucleair over 19 949 085 MWh, voor de Belgische residuele mix 2024 met 18,07 % hernieuwbaar, en voor de maandelijkse controleprocedure die de opgaven van de leveranciers per EAN-code toetst aan de door de netbeheerders doorgegeven verbruiken.
+- [CWaPE — GreenCheck](https://www.cwape.be/conso/greencheck) — verificatie-instrument op basis van de EAN-code voor elektriciteit: percentage groene energie dat de leverancier de voorbije maanden heeft geleverd en naleving van zijn contractuele verplichtingen, alleen voor contracten gesloten in Wallonië. Geraadpleegd op 23 oktober 2026.
 - [SPW Énergie — Garanties van oorsprong voor elektriciteit en gas](https://energie.wallonie.be/home/les-marches-et-les-acteurs/le-marche-des-garanties-d-origine/garanties-d-origine-de-l-electricite-et-du-gaz.html) — verkoop van garanties van oorsprong los van de geproduceerde elektriciteit, de categorieën GO élec-SER, GO gaz-SER en GO CHP, het EECS-kader en de norm CEN EN 16325, de handel via de AIB-hub, en de vaststelling dat een aanzienlijk aantal garanties tegen nulprijzen of zonder prijsopgave wordt verhandeld.
 - [Association of Issuing Bodies — European Residual Mix 2025](https://www.aib-net.org/facts/european-residual-mix/2025) — op 26 mei 2026 gepubliceerde definitieve resultaten: koolstofintensiteit van de Belgische residuele mix van 171,01 gCO₂/kWh, gemiddeld hernieuwbaar aandeel van 21 % in de Europese residuele mixen en gemiddelde van 435 gCO₂/kWh. Definitie van de residuele mix als het verbruik dat niet uitdrukkelijk via garanties van oorsprong wordt getraceerd.
 - [Brugel — Levering van groene energie](https://brugel.brussels/themes/energies-renouvelables-11/fourniture-d-energie-verte-42) — verplichting voor leveranciers om garanties van oorsprong te kopen ten belope van de verkochte groene stroom, mogelijkheid dat die garanties uit installaties in andere Europese regio's komen, het consumenteninstrument Greencheck, en de uitsplitsing van de in 2023 geschrapte garanties: Frankrijk 25,58 %, federale entiteit en Noordzee 19,13 %, Vlaanderen 15,38 %, Noorwegen 12,05 %.

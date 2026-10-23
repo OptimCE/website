@@ -9,7 +9,7 @@ tags: [community, administrative, guide]
 lang: nl
 ref: join-energy-community-wallonia
 pillar: communautes-energie
-last_modified_at: 2026-10-22 10:00:00 +0200
+last_modified_at: 2026-10-23 06:00:00 +0200
 permalink: /nl/gidsen/energiegemeenschap-aansluiten-wallonie/
 ---
 
@@ -65,7 +65,7 @@ Gemeenten, intercommunales, gemeentescholen en OCMW's mogen allemaal deelnemen e
 Voor u kunt toetreden, moeten op uw leveringspunt drie technische voorwaarden vervuld zijn:
 
 - **Digitale meter**: verplicht. Hebt u er nog geen, dan plaatst uw DNB hem **gratis**, doorgaans binnen 60 dagen. Zie de [gids energiedelen van AIEG](https://www.aieg.be/le-partage-denergie) voor de technische details aan netzijde.
-- **Identificeerbaar EAN**: uw leveringspuntnummer, 18 cijfers beginnend met `541449...`. Het staat op elke elektriciteitsfactuur, in de rubriek “technische gegevens” of “leveringspunt”.
+- **Identificeerbaar EAN**: uw leveringspuntnummer, 18 cijfers beginnend met 54. Het staat op elke elektriciteitsfactuur, in de rubriek “technische gegevens” of “leveringspunt”.
 - **Geografisch bereik**: vereist voor een **CER** (u moet binnen de nabijheidsperimeter van de producenten liggen), niet vereist voor een **CEC**. Voor de herinnering CER vs CEC, zie de [vergelijkingstabel in ons moederartikel](/nl/gidsen/energiegemeenschappen-belgie/).
 
 ## Waar vindt u een energiegemeenschap in Wallonië?
@@ -125,7 +125,7 @@ De beheerder verifieert enkele elementen:
 - Uw leveringspunt ligt binnen de **perimeter** van de gemeenschap (essentieel voor een CER; niet van toepassing voor een CEC).
 - Uw **meter** is digitaal. Zo niet, dan plant de DNB een gratis vervanging.
 
-Om uw EAN terug te vinden, kijkt u naar de rubriek “leveringspunt” of “technische gegevens” op uw factuur — 18 cijfers beginnend met `541449`. U kunt het ook raadplegen op het portaal van uw DNB.
+Om uw EAN terug te vinden, kijkt u naar de rubriek “leveringspunt” of “technische gegevens” op uw factuur — 18 cijfers beginnend met 54. U kunt het ook raadplegen op het portaal van uw DNB of het daar opvragen: [“EAN-code elektriciteit: vinden en gebruiken”](/nl/gidsen/ean-code-elektriciteit-vinden/) beschrijft de werkwijze bij elke netbeheerder.
 
 ### Stap 3 — De deelovereenkomst lezen en ondertekenen
 

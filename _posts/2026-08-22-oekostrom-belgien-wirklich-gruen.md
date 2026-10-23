@@ -2,7 +2,7 @@
 layout: post
 title: "Ökostrom in Belgien: wirklich grün?"
 date: 2026-08-22 06:00:00 +0200
-last_modified_at: 2026-08-25 06:00:00 +0200
+last_modified_at: 2026-10-23 06:00:00 +0200
 author: "Eric, OptimCE"
 excerpt: "2024 meldeten die in Wallonien tätigen Versorger einen Liefermix von 49,38 % erneuerbarer Energie. Im selben Jahr lag der belgische Residualmix — das, was übrig bleibt, sobald jeder Herkunftsnachweis von jemandem beansprucht wurde — bei 18,07 % erneuerbar. Beide Zahlen sind korrekt, amtlich und von den Regulierungsbehörden veröffentlicht. Die Lücke ist kein Betrug: Es ist das System, das genau so funktioniert, wie es entworfen wurde. Hier steht, was ein Herkunftsnachweis tatsächlich belegt, was nicht, was sich am 27. September 2026 ändert und wie Sie Ihre eigene Lieferung überprüfen."
 description: "Herkunftsnachweise, Residualmix, Greenwashing: was ein belgisches Ökostrom-Angebot wirklich belegt — und wie Sie es selbst überprüfen."
@@ -21,7 +21,7 @@ faq:
   - q: "Was ändert sich am 27. September 2026 für Ökostromangebote?"
     a: "Die europäische Richtlinie 2024/825 zur Stärkung der Verbraucher für den ökologischen Wandel wird in allen siebenundzwanzig Mitgliedstaaten anwendbar. Sie verbietet drei Praktiken, die auf dem belgischen Energiemarkt unmittelbar vorkommen: allgemeine Umweltaussagen ohne Nachweis einer anerkannten Umweltleistung, also die allein verwendeten Begriffe grün, ökologisch oder umweltfreundlich; Nachhaltigkeitssiegel, die nicht auf einem öffentlichen oder anerkannten Zertifizierungssystem beruhen, womit von Verkäufern selbst geschaffene Hauslabel gemeint sind; und Aussagen zur Klimaneutralität, die auf Kompensation beruhen. Belgien hätte den Text bis zum 27. März 2026 umsetzen müssen und ist Gegenstand eines Vertragsverletzungsverfahrens wegen nicht mitgeteilter Umsetzung, doch der europäische Anwendungstermin verschiebt sich dadurch nicht."
   - q: "Wie überprüfe ich konkret, woher der Ökostrom kommt, den ich bezahle?"
-    a: "Jede Region verfügt über ein Werkzeug, und sie liefern nicht dieselbe Detailtiefe. In Flandern ist der Groencheck der VREG das präziseste des Landes: Er reicht bis zu Ihrem eigenen EAN-Code hinab und sagt Ihnen, ob Ihr Versorger die Herkunftsnachweise für Ihren Verbrauch tatsächlich bei der Regulierungsbehörde eingereicht hat. In Brüssel erlaubt der Greencheck von Brugel jedem Verbraucher, den grünen Anteil seiner Lieferung zu überprüfen. In Wallonien liefert der von der CWaPE veröffentlichte Fuel Mix den Mix je Versorger und den belgischen Residualmix, aber keine zählerindividuelle Ansicht. In allen drei Regionen ergänzt das auf monelectriciteverte.be veröffentlichte Ranking das Bild sinnvoll, denn es bewertet, was ein Versorger tatsächlich erzeugt und investiert, und nicht, was er erklärt."
+    a: "Jede Region verfügt über ein Werkzeug, und sie liefern nicht dieselbe Detailtiefe. In Flandern reicht der Groencheck der VREG bis zu Ihrem eigenen EAN-Code hinab und sagt Ihnen, ob Ihr Versorger die Herkunftsnachweise für Ihren Verbrauch tatsächlich bei der Regulierungsbehörde eingereicht hat. In Brüssel erlaubt der Greencheck von Brugel jedem Verbraucher, den grünen Anteil seiner Lieferung zu überprüfen. In Wallonien zeigt der GreenCheck der CWaPE anhand Ihres EAN-Codes den Anteil grüner Energie, den Ihr Versorger Ihnen in den letzten Monaten geliefert hat, und der von der Regulierungsbehörde veröffentlichte Fuel Mix liefert den Mix je Versorger und den belgischen Residualmix. In allen drei Regionen ergänzt das auf monelectriciteverte.be veröffentlichte Ranking das Bild sinnvoll, denn es bewertet, was ein Versorger tatsächlich erzeugt und investiert, und nicht, was er erklärt."
   - q: "Warum ist Energieteilen besser überprüfbar als ein klassisches Ökostromangebot?"
     a: "Weil sich die Natur des Beweises ändert. Ein klassisches Ökostromangebot beruht auf einer jährlichen Erklärung des Versorgers, gedeckt durch anderswo und mitunter viel später gekaufte Zertifikate. Das Energieteilen beruht auf einer Aufteilung, die der Verteilnetzbetreiber Viertelstunde für Viertelstunde aus den realen Zählerdaten der Teilnehmer berechnet, innerhalb eines begrenzten Netzperimeters. Die Regel steht ausdrücklich im wallonischen Dekret: Geteilt wird nur Energie, die erzeugt, in das lokale Netz eingespeist und innerhalb derselben Viertelstunde verbraucht wird. Die CWaPE bezeichnet diese Volumen selbst als Energie mit garantiert 100 Prozent erneuerbarer und lokaler Herkunft. Ein Teilnehmer kann seine eigenen geteilten Volumen mit seinen Zählerständen abgleichen, was kein Inhaber eines Ökostromangebots mit norwegischen Zertifikaten tun kann."
 ---
@@ -171,11 +171,11 @@ Praktisch heißt das: Die Frage dieses Artikels — *worauf beruht Ihre Angabe �
 
 ## Die eigene Stromlieferung prüfen, Region für Region
 
-Genug Theorie. So prüfen Sie Ihre eigene Lieferung mit amtlichen Werkzeugen. Die Detailtiefe unterscheidet sich stark zwischen den Regionen, und Flandern ist mit Abstand am besten versorgt.
+Genug Theorie. So prüfen Sie Ihre eigene Lieferung mit amtlichen Werkzeugen. Die Detailtiefe unterscheidet sich zwischen den Regionen: In Flandern und in der Wallonie reicht das Werkzeug der Regulierungsbehörde bis zu Ihrem EAN-Code.
 
 ### Flandern — der Groencheck der VREG
 
-Das ist das präziseste Werkzeug des Landes und das einzige, das bis zum **einzelnen Anschlusspunkt** hinabreicht: Sie geben Ihren EAN-Code für Strom ein, und es sagt Ihnen, wie grün Ihr Strom tatsächlich war.
+Das Werkzeug reicht bis zum **einzelnen Anschlusspunkt** hinab: Sie geben Ihren EAN-Code für Strom ein, und es sagt Ihnen, wie grün Ihr Strom tatsächlich war.
 
 Entscheidend ist das Verb. Der Groencheck erlaubt zu prüfen, ob Ihr Versorger für Ihren Zähler **tatsächlich Herkunftsnachweise eingereicht hat**. Das ist keine Broschüre, das ist eine Überprüfung. Die flämische Regel ist eindeutig: Wer einen Ökostromvertrag abgeschlossen hat, dessen Versorger muss **jeden Monat** die entsprechenden Nachweise bei der VREG einreichen — einen je 1 000 kWh verbrauchten Ökostroms — und damit belegen, dass der gelieferte Strom tatsächlich aus erneuerbaren Quellen stammt: Wasser, Sonne, Wind, Biogas, Biomasse.
 
@@ -183,9 +183,11 @@ Entscheidend ist das Verb. Der Groencheck erlaubt zu prüfen, ob Ihr Versorger f
 
 Brugel stellt ein im Prinzip gleichwertiges Werkzeug bereit: „Jeder Brüsseler Verbraucher kann den grünen Anteil seiner Lieferung überprüfen.“ Die Regulierungsbehörde veröffentlicht zudem die jährliche Aufschlüsselung der entwerteten Nachweise nach Technologie und Herkunftsland, was erlaubt, das eigene Angebot in den regionalen Kontext einzuordnen.
 
-### Wallonien — der Fuel Mix der CWaPE
+### Wallonien — GreenCheck und Fuel Mix der CWaPE
 
-Wallonien bietet keine zählerindividuelle Ansicht. Die CWaPE veröffentlicht jedoch den **Fuel Mix je Versorger** sowie den belgischen Residualmix, was erlaubt, die Angaben des eigenen Versorgers mit dem Marktdurchschnitt zu vergleichen — und den Abstand zum Residualmix zu messen.
+Auch die CWaPE bietet eine Prüfung je Zähler, den **GreenCheck**: Sie geben Ihren EAN-Code für Strom ein und sehen „den Prozentsatz grüner Energie, den Ihr Versorger Ihnen in den letzten Monaten geliefert hat“. Das Werkzeug dient dazu, „zu prüfen, ob Ihr Versorger seine vertraglichen Verpflichtungen eingehalten hat“, und gilt „nur für in der Wallonie geschlossene Stromverträge“. Der Code steht auf Ihrer Rechnung; fehlt er Ihnen, erklärt unser Ratgeber [„EAN-Code für Strom: wo finden, wozu er dient“](/de/ratgeber/ean-code-strom-wo-finden/), wie Sie ihn wiederfinden. Die CWaPE warnt davor, den EAN-Code für Strom mit dem für Gas zu verwechseln.
+
+Die Regulierungsbehörde veröffentlicht außerdem den **Fuel Mix je Versorger** sowie den belgischen Residualmix, was erlaubt, die Angaben des eigenen Versorgers mit dem Marktdurchschnitt zu vergleichen — und den Abstand zum Residualmix zu messen.
 
 ### Die fünf Fragen an Ihren Versorger
 
@@ -292,7 +294,7 @@ Die europäische Richtlinie **2024/825** zur Stärkung der Verbraucher für den 
 
 ### Wie überprüfe ich konkret, woher der Ökostrom kommt, den ich bezahle?
 
-Jede Region verfügt über ein Werkzeug, und sie liefern nicht dieselbe Detailtiefe. In **Flandern** ist der Groencheck der VREG das präziseste des Landes: Er reicht bis zu Ihrem eigenen EAN-Code hinab und sagt Ihnen, ob Ihr Versorger die Herkunftsnachweise für Ihren Verbrauch tatsächlich bei der Regulierungsbehörde eingereicht hat. In **Brüssel** erlaubt der Greencheck von Brugel jedem Verbraucher, den grünen Anteil seiner Lieferung zu überprüfen. In **Wallonien** liefert der von der CWaPE veröffentlichte Fuel Mix den Mix je Versorger und den belgischen Residualmix, aber keine zählerindividuelle Ansicht. In allen drei Regionen ergänzt das auf monelectriciteverte.be veröffentlichte Ranking das Bild sinnvoll, denn es bewertet, was ein Versorger tatsächlich **erzeugt und investiert**, und nicht, was er erklärt.
+Jede Region verfügt über ein Werkzeug, und sie liefern nicht dieselbe Detailtiefe. In **Flandern** reicht der Groencheck der VREG bis zu Ihrem eigenen EAN-Code hinab und sagt Ihnen, ob Ihr Versorger die Herkunftsnachweise für Ihren Verbrauch tatsächlich bei der Regulierungsbehörde eingereicht hat. In **Brüssel** erlaubt der Greencheck von Brugel jedem Verbraucher, den grünen Anteil seiner Lieferung zu überprüfen. In **Wallonien** zeigt der GreenCheck der CWaPE anhand Ihres EAN-Codes den Anteil grüner Energie, den Ihr Versorger Ihnen in den letzten Monaten geliefert hat, und der von der Regulierungsbehörde veröffentlichte Fuel Mix liefert den Mix je Versorger und den belgischen Residualmix. In allen drei Regionen ergänzt das auf monelectriciteverte.be veröffentlichte Ranking das Bild sinnvoll, denn es bewertet, was ein Versorger tatsächlich **erzeugt und investiert**, und nicht, was er erklärt.
 
 ### Warum ist Energieteilen besser überprüfbar als ein klassisches Ökostromangebot?
 
@@ -301,6 +303,7 @@ Weil sich die Natur des Beweises ändert. Ein klassisches Ökostromangebot beruh
 ## Quellen
 
 - [CWaPE — Fuel Mix](https://www.cwape.be/node/165) — Primärquelle für den wallonischen Liefermix 2024 mit 49,38 % erneuerbar, 17,21 % fossil und 33,41 % nuklear über 19 949 085 MWh, für den belgischen Residualmix 2024 mit 18,07 % erneuerbar sowie für das monatliche Kontrollverfahren, das Versorgermeldungen je EAN-Code mit den von den Netzbetreibern übermittelten Verbräuchen abgleicht.
+- [CWaPE — GreenCheck (FR)](https://www.cwape.be/conso/greencheck) — Prüfwerkzeug auf Basis des EAN-Codes für Strom: Anteil grüner Energie, den der Versorger in den letzten Monaten geliefert hat, und Einhaltung seiner vertraglichen Verpflichtungen, nur für in der Wallonie geschlossene Verträge. Abgerufen am 23. Oktober 2026.
 - [SPW Énergie — Herkunftsnachweise für Strom und Gas](https://energie.wallonie.be/home/les-marches-et-les-acteurs/le-marche-des-garanties-d-origine/garanties-d-origine-de-l-electricite-et-du-gaz.html) — Verkauf der Herkunftsnachweise unabhängig vom erzeugten Strom, die Kategorien GO élec-SER, GO gaz-SER und GO CHP, der EECS-Rahmen und die Norm CEN EN 16325, der Handel über den AIB-Hub sowie die Feststellung, dass eine erhebliche Zahl von Nachweisen zu Nullpreisen oder ohne Preisangabe gehandelt wird.
 - [Association of Issuing Bodies — European Residual Mix 2025](https://www.aib-net.org/facts/european-residual-mix/2025) — am 26. Mai 2026 veröffentlichte Endergebnisse: CO₂-Intensität des belgischen Residualmixes von 171,01 gCO₂/kWh, durchschnittlicher erneuerbarer Anteil von 21 % in den europäischen Residualmixen und Durchschnitt von 435 gCO₂/kWh. Definition des Residualmixes als der nicht ausdrücklich durch Herkunftsnachweise nachverfolgte Verbrauch.
 - [Brugel — Lieferung grüner Energie](https://brugel.brussels/themes/energies-renouvelables-11/fourniture-d-energie-verte-42) — Pflicht der Versorger, Herkunftsnachweise in Höhe des verkauften Ökostroms zu kaufen, Möglichkeit, dass diese Nachweise aus Anlagen in anderen europäischen Regionen stammen, das Verbraucherwerkzeug Greencheck sowie die Aufschlüsselung der 2023 entwerteten Nachweise: Frankreich 25,58 %, Föderalebene und Nordsee 19,13 %, Flandern 15,38 %, Norwegen 12,05 %.

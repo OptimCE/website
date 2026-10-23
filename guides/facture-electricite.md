@@ -8,10 +8,10 @@ ref: pillar-facture-electricite
 pillar: facture-electricite
 permalink: /guides/facture-electricite/
 breadcrumb_parent: guides
-last_modified_at: 2026-09-26
+last_modified_at: 2026-10-23
 sections:
   - title: "Comprendre sa facture"
-    refs: [why-electricity-bill-stays-high, read-electricity-bill-belgium]
+    refs: [why-electricity-bill-stays-high, read-electricity-bill-belgium, ean-code-belgium]
   - title: "Réduire sa facture"
     refs: [reduce-electricity-bill-wallonia-2026, choose-electricity-tariff-belgium, cheaper-electricity-without-switching-supplier, reduce-electricity-bill]
   - title: "Aides et origine de l'électricité"

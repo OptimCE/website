@@ -10,7 +10,7 @@ lang: fr
 ref: join-energy-community-wallonia
 pillar: communautes-energie
 permalink: /guides/rejoindre-communaute-energie-wallonie/
-last_modified_at: 2026-10-22 10:00:00 +0200
+last_modified_at: 2026-10-23 06:00:00 +0200
 ---
 
 En Wallonie, les communautés d'énergie ne sont plus une expérimentation marginale : des centaines d'opérations de partage sont actives ou en cours de notification. Le cadre légal est stabilisé, les gestionnaires de réseau de distribution (GRD) sont rodés, et la majorité des compteurs sont déjà communicants. Reste un obstacle bien concret pour la plupart des citoyens, PME et autorités locales : **comment trouver une communauté qui accepte de nouveaux membres**, et **quoi vérifier avant de signer**.
@@ -65,7 +65,7 @@ Communes, intercommunales, écoles communales, CPAS : tous peuvent participer, e
 Avant d'adhérer, trois conditions techniques doivent être remplies sur votre point de fourniture :
 
 - **Compteur communicant** : obligatoire. Si vous n'en avez pas encore, votre GRD le pose **gratuitement**, généralement dans les 60 jours. Voir le [guide partage d'énergie de l'AIEG](https://www.aieg.be/le-partage-denergie) pour les détails techniques côté gestionnaire.
-- **EAN identifiable** : c'est votre numéro de point de fourniture, 18 chiffres commençant par `541449...`. Il figure sur chaque facture d'électricité, dans la rubrique « données techniques » ou « point de fourniture ».
+- **EAN identifiable** : c'est votre numéro de point de fourniture, 18 chiffres commençant par 54. Il figure sur chaque facture d'électricité, dans la rubrique « données techniques » ou « point de fourniture ».
 - **Périmètre géographique** : requis pour une **CER** (vous devez être dans le périmètre de proximité défini avec les producteurs), non requis pour une **CEC**. Pour le rappel CER vs CEC, voyez le [tableau comparatif de notre article-mère](/guides/communautes-energie-belgique/).
 
 ## Où trouver une communauté d'énergie en Wallonie ?
@@ -125,7 +125,7 @@ Le gestionnaire de la communauté vérifie quelques éléments :
 - Votre point de fourniture se situe dans le **périmètre** de la communauté (essentiel pour une CER ; sans objet pour une CEC).
 - Votre **compteur** est communicant. À défaut, le GRD planifie son remplacement gratuit.
 
-Pour retrouver votre EAN, regardez la rubrique « point de fourniture » ou « données techniques » de votre facture — 18 chiffres commençant par `541449`. Vous pouvez aussi le consulter sur le portail de votre GRD.
+Pour retrouver votre EAN, regardez la rubrique « point de fourniture » ou « données techniques » de votre facture — 18 chiffres commençant par 54. Vous pouvez aussi le consulter sur le portail de votre GRD, ou le lui demander : [« Code EAN électricité : où le trouver et l'utiliser »](/guides/code-ean-electricite-ou-le-trouver/) détaille la démarche chez chaque gestionnaire.
 
 ### Étape 3 — Lire et signer la convention de partage
 

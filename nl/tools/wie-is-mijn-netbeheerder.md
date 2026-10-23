@@ -12,7 +12,7 @@ tool_page: true
 tool: dso
 tool_order: 1
 date_published: 2026-10-18
-last_modified_at: 2026-10-18
+last_modified_at: 2026-10-23
 faq:
   - q: "Hoe weet ik wie mijn netbeheerder is?"
     a: "Vul uw postcode in de tool bovenaan deze pagina in: die toont de netbeheerder voor elektriciteit en die voor aardgas in uw gemeente. Als de postcode meerdere gemeenten omvat, of als de netbeheerder per deelgemeente verschilt, vraagt de tool u om dat te verduidelijken. Ter controle kijkt u op uw afrekeningsfactuur voor elektriciteit: voor een gezin vermeldt die de naam en het telefoonnummer van de netbeheerder die u belt bij een storing."
@@ -206,7 +206,9 @@ met 54 ([Fluvius](https://www.fluvius.be/nl/contact/contactformulier/ean-code)),
 energiesoort, verbonden aan het leveringspunt en niet aan de klant
 ([ORES](https://media.ores.be/ores-cms/gn3fb430/ores_fiche_g-01_demarches_administratives_fr_web.pdf)).
 De gids [“Elektriciteitsfactuur lezen: regel per regel”]({{ 'read-electricity-bill-belgium' | ref_url }})
-legt de rest van de factuur uit.
+legt de rest van de factuur uit, en de gids
+[“EAN-code elektriciteit: vinden en gebruiken”]({{ 'ean-code-belgium' | ref_url }})
+legt uit waar u de code zonder factuur vindt en aan wie u hem geeft.
 
 ## Uw netbeheerder en energiedelen
 

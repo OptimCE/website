@@ -2,7 +2,7 @@
 layout: post
 title: "Read your Belgian electricity bill line by line"
 date: 2026-07-30 10:00:00 +0200
-last_modified_at: 2026-08-22 06:00:00 +0200
+last_modified_at: 2026-10-23 06:00:00 +0200
 author: "Eric from OptimCE"
 excerpt: "You receive a dozen documents a year called an invoice, and only one of them actually tells you what you owe. Since 2022, a royal decree has imposed five identical sections on every Belgian supplier. This guide decodes the document: instalments versus the annual statement, the EAN code, actual versus estimated meter readings, every price line with its real recipient, the standing charge people sometimes pay twice, and which ombudsman to contact for which line."
 description: "The five sections mandated since 2022, instalments versus the annual statement, the EAN code, estimated readings: decode every line of your bill."
@@ -78,7 +78,7 @@ Two habits follow. First, **section A contains your contract end date**: it is t
 
 The identification block at the top looks like administrative filler. It is in fact where most of the expensive errors hide.
 
-**The EAN code.** It is a unique number for your supply point that never changes, even if the meter is replaced (Ecoconso). Eighteen digits, starting with 54 in Belgium. The key point: it identifies **a place**, not a meter and not a contract. Switch supplier, the EAN stays. Have your meter replaced, the EAN stays. It is what you will be asked for when moving, when complaining, or when registering your point in an energy sharing operation. In an apartment building, check it digit by digit: two neighbouring flats have EANs that differ only in the last few characters, and a mix-up is paid for over years.
+**The EAN code.** It is a unique number for your supply point that never changes, even if the meter is replaced (Ecoconso). Eighteen digits, starting with 54 in Belgium. The key point: it identifies **a place**, not a meter and not a contract. Switch supplier, the EAN stays. Have your meter replaced, the EAN stays. It is what you will be asked for when moving, when complaining, or when registering your point in an energy sharing operation. In an apartment building, check it digit by digit: two neighbouring flats have EANs that differ only in the last few characters, and a mix-up is paid for over years. Where to find it without a bill, how many codes a home has and who to give it to: our guide [“Belgian EAN code: where to find it, what it's for”](/en/guides/ean-code-belgium-where-to-find/).
 
 **The billing period.** Compare it with the period that has actually elapsed. This is where the standing-charge trap hides, which we come back to below.
 

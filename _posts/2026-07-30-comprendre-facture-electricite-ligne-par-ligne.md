@@ -2,7 +2,7 @@
 layout: post
 title: "Lire sa facture d'électricité ligne par ligne"
 date: 2026-07-30 10:00:00 +0200
-last_modified_at: 2026-08-22 06:00:00 +0200
+last_modified_at: 2026-10-23 06:00:00 +0200
 author: "Eric d'OptimCE"
 excerpt: "Vous recevez une douzaine de documents par an appelés « facture », et un seul vous dit vraiment ce que vous devez. Depuis 2022, un arrêté royal impose cinq sections identiques chez tous les fournisseurs belges. Ce guide décode le document : acompte et décompte annuel, code EAN, index réel ou estimé, chaque ligne de prix avec son destinataire réel, la redevance fixe qu'on paie parfois deux fois, et l'interlocuteur à saisir selon la ligne contestée."
 description: "Les cinq sections imposées depuis 2022, l'acompte face au décompte annuel, le code EAN, l'index estimé : décoder chaque ligne de sa facture."
@@ -78,7 +78,7 @@ Deux réflexes en découlent. D'abord, **la section A contient la date de fin de
 
 Le bloc d'identification en tête de facture paraît administratif. Il est en réalité l'endroit où se logent la plupart des erreurs coûteuses.
 
-**Le code EAN.** C'est « un numéro unique pour notre point de fourniture, qui ne change jamais, même si le compteur est remplacé » (Ecoconso). Dix-huit chiffres, commençant par 54 en Belgique. Point important : il identifie **un endroit**, pas un compteur ni un contrat. Vous changez de fournisseur, l'EAN reste. On remplace votre compteur, l'EAN reste. C'est lui qu'on vous demandera pour un déménagement, une réclamation, ou pour inscrire votre point dans une opération de partage d'énergie. Dans un immeuble, vérifiez-le chiffre à chiffre : deux appartements voisins ont des EAN qui ne diffèrent que par les dernières décimales, et une inversion se paie pendant des années.
+**Le code EAN.** C'est « un numéro unique pour notre point de fourniture, qui ne change jamais, même si le compteur est remplacé » (Ecoconso). Dix-huit chiffres, commençant par 54 en Belgique. Point important : il identifie **un endroit**, pas un compteur ni un contrat. Vous changez de fournisseur, l'EAN reste. On remplace votre compteur, l'EAN reste. C'est lui qu'on vous demandera pour un déménagement, une réclamation, ou pour inscrire votre point dans une opération de partage d'énergie. Dans un immeuble, vérifiez-le chiffre à chiffre : deux appartements voisins ont des EAN qui ne diffèrent que par les dernières décimales, et une inversion se paie pendant des années. Où le retrouver sans facture, combien de codes compte un logement et à qui le confier : notre guide [« Code EAN électricité : où le trouver et l'utiliser »](/guides/code-ean-electricite-ou-le-trouver/).
 
 **La période de facturation.** Comparez-la à la période réellement écoulée. C'est là que se niche la mauvaise surprise sur la redevance fixe, sur laquelle nous revenons plus bas.
 

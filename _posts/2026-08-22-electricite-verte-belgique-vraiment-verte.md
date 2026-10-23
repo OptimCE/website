@@ -2,7 +2,7 @@
 layout: post
 title: "Électricité verte en Belgique : vraiment verte ?"
 date: 2026-08-22 06:00:00 +0200
-last_modified_at: 2026-08-25 06:00:00 +0200
+last_modified_at: 2026-10-23 06:00:00 +0200
 author: "Eric d'OptimCE"
 excerpt: "En 2024, les fournisseurs actifs en Wallonie ont déclaré un mix de fourniture à 49,38 % renouvelable. La même année, le mix résiduel belge — ce qui reste une fois que toutes les garanties d'origine ont été revendiquées par quelqu'un — pesait 18,07 % de renouvelable. Les deux chiffres sont exacts, officiels, publiés par les régulateurs. L'écart n'est pas une fraude : c'est le système qui fonctionne exactement comme il a été conçu. Voici ce qu'une garantie d'origine prouve réellement, ce qu'elle ne prouve pas, ce qui change le 27 septembre 2026, et comment vérifier votre propre fourniture."
 description: "Garanties d'origine, mix résiduel, greenwashing : ce que prouve vraiment une offre « verte » en Belgique, et comment le vérifier vous-même."
@@ -21,7 +21,7 @@ faq:
   - q: "Qu'est-ce qui change le 27 septembre 2026 pour les offres d'électricité verte ?"
     a: "La directive européenne 2024/825 sur le renforcement du pouvoir des consommateurs dans la transition verte devient applicable dans les vingt-sept États membres. Elle interdit trois pratiques directement présentes sur le marché belge de l'énergie : les allégations environnementales génériques sans preuve d'une performance environnementale reconnue, autrement dit les mentions vert, écologique ou respectueux de l'environnement employées seules ; les labels de durabilité qui ne reposent pas sur un système de certification public ou approuvé, ce qui vise les labels maison créés par les vendeurs eux-mêmes ; et les allégations de neutralité climatique fondées sur la compensation. La Belgique devait transposer le texte pour le 27 mars 2026 et fait l'objet d'une procédure d'infraction pour transposition non communiquée, mais le calendrier d'application européen ne bouge pas pour autant."
   - q: "Comment vérifier concrètement d'où vient l'électricité verte que je paie ?"
-    a: "Chaque région dispose d'un outil, et ils ne donnent pas le même niveau de détail. En Flandre, la Groencheck du VREG est la plus précise du pays : elle descend au niveau de votre propre code EAN et vous dit si votre fournisseur a réellement déposé auprès du régulateur les garanties d'origine correspondant à votre consommation. À Bruxelles, le Greencheck de Brugel permet à chaque consommateur de vérifier le pourcentage vert de sa fourniture. En Wallonie, le fuel mix publié par la CWaPE donne le mix par fournisseur et le mix résiduel belge, mais pas de vue individualisée par compteur. Dans les trois régions, le classement publié sur monelectriciteverte.be complète utilement le tableau, puisqu'il note ce que le fournisseur produit et investit réellement, et non ce qu'il déclare."
+    a: "Chaque région dispose d'un outil, et ils ne donnent pas le même niveau de détail. En Flandre, la Groencheck du VREG descend au niveau de votre propre code EAN et vous dit si votre fournisseur a réellement déposé auprès du régulateur les garanties d'origine correspondant à votre consommation. À Bruxelles, le Greencheck de Brugel permet à chaque consommateur de vérifier le pourcentage vert de sa fourniture. En Wallonie, le GreenCheck de la CWaPE affiche, à partir de votre code EAN, le pourcentage d'énergie verte que votre fournisseur vous a fourni au cours des derniers mois, et le fuel mix publié par le régulateur donne le mix par fournisseur et le mix résiduel belge. Dans les trois régions, le classement publié sur monelectriciteverte.be complète utilement le tableau, puisqu'il note ce que le fournisseur produit et investit réellement, et non ce qu'il déclare."
   - q: "En quoi le partage d'énergie est-il plus vérifiable qu'une offre verte classique ?"
     a: "Parce que la preuve change de nature. Une offre verte classique repose sur une déclaration annuelle du fournisseur, couverte par des certificats achetés ailleurs et parfois beaucoup plus tard. Le partage d'énergie repose sur une répartition calculée par le gestionnaire de réseau, quart d'heure par quart d'heure, à partir des données de comptage réelles des participants, sur un périmètre de réseau borné. La règle est explicite dans le décret wallon : seule est partagée l'énergie produite, injectée sur le réseau local et consommée au cours d'un même quart d'heure. La CWaPE qualifie d'ailleurs ces volumes d'énergie garantie 100 pour cent d'origine renouvelable et locale. Le participant peut recouper ses propres volumes partagés avec ses relevés de compteur, ce qu'aucun détenteur d'une offre verte ne peut faire avec des certificats norvégiens."
 ---
@@ -171,11 +171,11 @@ Pratiquement, cela signifie que la question posée par cet article — *sur quoi
 
 ## Vérifier votre propre électricité, région par région
 
-Assez de théorie. Voici comment contrôler votre propre fourniture, avec les outils officiels. Le niveau de détail varie fortement d'une région à l'autre, et la Flandre est de loin la mieux servie.
+Assez de théorie. Voici comment contrôler votre propre fourniture, avec les outils officiels. Le niveau de détail varie d'une région à l'autre : en Flandre et en Wallonie, l'outil du régulateur descend jusqu'à votre code EAN.
 
 ### Flandre — la Groencheck du VREG
 
-C'est l'outil le plus précis du pays, et le seul qui descende au **point de raccordement individuel** : vous y entrez votre code EAN d'électricité, et il vous dit à quel point votre électricité a réellement été verte.
+L'outil descend au **point de raccordement individuel** : vous y entrez votre code EAN d'électricité, et il vous dit à quel point votre électricité a réellement été verte.
 
 Le point important est le verbe. La Groencheck permet de contrôler si votre fournisseur **a effectivement déposé** des garanties d'origine pour votre compteur. Ce n'est pas une brochure, c'est une vérification. La règle flamande est explicite : si vous avez souscrit un contrat d'électricité verte, votre fournisseur doit déposer **chaque mois** auprès du VREG les garanties correspondantes — une par tranche de 1 000 kWh verts consommés — et prouver ainsi que l'électricité qu'il vous a livrée provient bien de sources renouvelables : eau, soleil, vent, biogaz, biomasse.
 
@@ -183,9 +183,11 @@ Le point important est le verbe. La Groencheck permet de contrôler si votre fou
 
 Brugel met à disposition un outil équivalent dans son principe : « chaque consommateur bruxellois peut vérifier le pourcentage vert de sa fourniture ». Le régulateur publie par ailleurs la ventilation annuelle des garanties annulées par filière et par pays d'origine, ce qui permet de replacer sa propre offre dans le contexte régional.
 
-### Wallonie — le fuel mix de la CWaPE
+### Wallonie — le GreenCheck et le fuel mix de la CWaPE
 
-La Wallonie ne propose pas de vue individualisée par compteur. En revanche, la CWaPE publie le **fuel mix par fournisseur** ainsi que le mix résiduel belge, ce qui permet de comparer l'affichage de son fournisseur à la moyenne du marché — et de mesurer l'écart avec le mix résiduel.
+La CWaPE propose elle aussi une vérification par compteur, le **GreenCheck** : vous y entrez votre code EAN d'électricité, et vous voyez « le pourcentage d'énergie verte que votre fournisseur vous a fourni au cours des derniers mois ». L'outil permet de « vérifier si votre fournisseur a bien respecté ses obligations contractuelles », et il « ne vise que les contrats d'électricité conclus en Wallonie ». Le code figure sur votre facture ; s'il vous manque, notre guide [« Code EAN électricité : où le trouver et l'utiliser »](/guides/code-ean-electricite-ou-le-trouver/) explique comment le retrouver. La CWaPE prévient : ne confondez pas votre code EAN pour l'électricité avec celui du gaz.
+
+Le régulateur publie par ailleurs le **fuel mix par fournisseur** ainsi que le mix résiduel belge, ce qui permet de comparer l'affichage de son fournisseur à la moyenne du marché — et de mesurer l'écart avec le mix résiduel.
 
 ### Les cinq questions à poser à votre fournisseur
 
@@ -292,7 +294,7 @@ La directive européenne **2024/825** sur le renforcement du pouvoir des consomm
 
 ### Comment vérifier concrètement d'où vient l'électricité verte que je paie ?
 
-Chaque région dispose d'un outil, et ils ne donnent pas le même niveau de détail. En **Flandre**, la Groencheck du VREG est la plus précise du pays : elle descend au niveau de votre propre code EAN et vous dit si votre fournisseur a réellement déposé auprès du régulateur les garanties d'origine correspondant à votre consommation. À **Bruxelles**, le Greencheck de Brugel permet à chaque consommateur de vérifier le pourcentage vert de sa fourniture. En **Wallonie**, le fuel mix publié par la CWaPE donne le mix par fournisseur et le mix résiduel belge, mais pas de vue individualisée par compteur. Dans les trois régions, le classement publié sur monelectriciteverte.be complète utilement le tableau, puisqu'il note ce que le fournisseur **produit et investit** réellement, et non ce qu'il déclare.
+Chaque région dispose d'un outil, et ils ne donnent pas le même niveau de détail. En **Flandre**, la Groencheck du VREG descend au niveau de votre propre code EAN et vous dit si votre fournisseur a réellement déposé auprès du régulateur les garanties d'origine correspondant à votre consommation. À **Bruxelles**, le Greencheck de Brugel permet à chaque consommateur de vérifier le pourcentage vert de sa fourniture. En **Wallonie**, le GreenCheck de la CWaPE affiche, à partir de votre code EAN, le pourcentage d'énergie verte que votre fournisseur vous a fourni au cours des derniers mois, et le fuel mix publié par le régulateur donne le mix par fournisseur et le mix résiduel belge. Dans les trois régions, le classement publié sur monelectriciteverte.be complète utilement le tableau, puisqu'il note ce que le fournisseur **produit et investit** réellement, et non ce qu'il déclare.
 
 ### En quoi le partage d'énergie est-il plus vérifiable qu'une offre verte classique ?
 
@@ -301,6 +303,7 @@ Parce que la preuve change de nature. Une offre verte classique repose sur une d
 ## Sources
 
 - [CWaPE — Fuel Mix](https://www.cwape.be/node/165) — source primaire du mix de fourniture wallon 2024 à 49,38 % de renouvelable, 17,21 % de fossile et 33,41 % de nucléaire sur 19 949 085 MWh, du mix résiduel belge 2024 à 18,07 % de renouvelable, et de la procédure de contrôle mensuel par croisement des déclarations des fournisseurs par code EAN avec les consommations transmises par les gestionnaires de réseau.
+- [CWaPE — GreenCheck](https://www.cwape.be/conso/greencheck) — outil de vérification par code EAN d'électricité : pourcentage d'énergie verte fourni par le fournisseur au cours des derniers mois et respect de ses obligations contractuelles, pour les seuls contrats conclus en Wallonie. Consulté le 23 octobre 2026.
 - [SPW Énergie — Garanties d'origine de l'électricité et du gaz](https://energie.wallonie.be/home/les-marches-et-les-acteurs/le-marche-des-garanties-d-origine/garanties-d-origine-de-l-electricite-et-du-gaz.html) — vente des garanties d'origine indépendamment de l'électricité produite, catégories GO élec-SER, GO gaz-SER et GO CHP, cadre EECS et norme CEN EN 16325, échange via le hub de l'AIB, et constat qu'un nombre significatif de garanties s'échangent à des prix nuls ou non renseignés.
 - [Association of Issuing Bodies — European Residual Mix 2025](https://www.aib-net.org/facts/european-residual-mix/2025) — résultats définitifs publiés le 26 mai 2026 : intensité carbone du mix résiduel belge à 171,01 gCO₂/kWh, part renouvelable moyenne de 21 % dans les mix résiduels européens et moyenne de 435 gCO₂/kWh. Définition du mix résiduel comme la consommation non explicitement tracée par des garanties d'origine.
 - [Brugel — Fourniture d'énergie verte](https://brugel.brussels/themes/energies-renouvelables-11/fourniture-d-energie-verte-42) — obligation pour les fournisseurs d'acheter des garanties d'origine en quantité équivalente à l'électricité verte vendue, possibilité que ces garanties proviennent d'installations situées dans d'autres régions européennes, outil Greencheck de vérification par le consommateur, et ventilation 2023 des garanties annulées : France 25,58 %, entité fédérale et mer du Nord 19,13 %, Flandre 15,38 %, Norvège 12,05 %.

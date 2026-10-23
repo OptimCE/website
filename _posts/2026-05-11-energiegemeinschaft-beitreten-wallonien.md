@@ -9,7 +9,7 @@ tags: [community, administrative, guide]
 lang: de
 ref: join-energy-community-wallonia
 pillar: communautes-energie
-last_modified_at: 2026-10-22 10:00:00 +0200
+last_modified_at: 2026-10-23 06:00:00 +0200
 permalink: /de/ratgeber/energiegemeinschaft-beitreten-wallonien/
 ---
 
@@ -65,7 +65,7 @@ Gemeinden, Interkommunalen, Gemeindeschulen und Sozialhilfezentren können alle 
 Bevor Sie beitreten können, müssen an Ihrem Lieferpunkt drei technische Voraussetzungen erfüllt sein:
 
 - **Intelligenter Zähler**: verpflichtend. Haben Sie noch keinen, baut Ihr VNB ihn **kostenlos** ein, in der Regel innerhalb von 60 Tagen. Siehe den [AIEG-Leitfaden zur Energieteilung](https://www.aieg.be/le-partage-denergie) für die technischen Details auf Netzseite.
-- **Identifizierbarer EAN**: Ihre Lieferpunktnummer, 18 Ziffern beginnend mit `541449...`. Sie steht auf jeder Stromrechnung in der Rubrik „technische Daten“ oder „Lieferpunkt“.
+- **Identifizierbarer EAN**: Ihre Lieferpunktnummer, 18 Ziffern beginnend mit 54. Sie steht auf jeder Stromrechnung in der Rubrik „technische Daten“ oder „Lieferpunkt“.
 - **Geografischer Umfang**: erforderlich bei einer **CER** (Sie müssen innerhalb des mit den Erzeugern definierten Nähe-Perimeters liegen), nicht erforderlich bei einer **CEC**. Zur Auffrischung CER vs. CEC siehe die [Vergleichstabelle in unserem Mutterartikel](/de/ratgeber/energiegemeinschaften-belgien/).
 
 ## Wo finden Sie eine Energiegemeinschaft in der Wallonie?
@@ -125,7 +125,7 @@ Der Manager prüft mehrere Elemente:
 - Ihr Lieferpunkt liegt innerhalb des **Perimeters** der Gemeinschaft (wesentlich bei einer CER; nicht anwendbar bei einer CEC).
 - Ihr **Zähler** ist intelligent. Andernfalls plant der VNB einen kostenlosen Austausch.
 
-Um Ihren EAN zu finden, sehen Sie auf Ihrer Rechnung in der Rubrik „Lieferpunkt“ oder „technische Daten“ nach — 18 Ziffern beginnend mit `541449`. Sie können ihn auch auf dem Portal Ihres VNB einsehen.
+Um Ihren EAN zu finden, sehen Sie auf Ihrer Rechnung in der Rubrik „Lieferpunkt“ oder „technische Daten“ nach — 18 Ziffern beginnend mit 54. Sie können ihn auch auf dem Portal Ihres VNB einsehen oder dort anfragen: [„EAN-Code für Strom: wo finden, wozu er dient“](/de/ratgeber/ean-code-strom-wo-finden/) beschreibt das Vorgehen bei jedem Netzbetreiber.
 
 ### Schritt 3 — Die Teilungsvereinbarung lesen und unterzeichnen
 

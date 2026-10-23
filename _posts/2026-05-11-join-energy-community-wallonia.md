@@ -9,7 +9,7 @@ tags: [community, administrative, guide]
 lang: en
 ref: join-energy-community-wallonia
 pillar: communautes-energie
-last_modified_at: 2026-10-22 10:00:00 +0200
+last_modified_at: 2026-10-23 06:00:00 +0200
 permalink: /en/guides/join-energy-community-wallonia/
 ---
 
@@ -65,7 +65,7 @@ Municipalities, inter-municipal entities, communal schools and public welfare of
 Three technical conditions must be met at your delivery point before you can enrol:
 
 - **Smart meter**: mandatory. If you don't have one yet, your DSO installs it **free of charge**, typically within 60 days. See the [AIEG energy-sharing guide](https://www.aieg.be/le-partage-denergie) for the operator-side technical details.
-- **Identifiable EAN**: your delivery-point number, 18 digits starting with `541449...`. It appears on every electricity bill, in the “technical data” or “delivery point” section.
+- **Identifiable EAN**: your delivery-point number, 18 digits starting with 54. It appears on every electricity bill, in the “technical data” or “delivery point” section.
 - **Geographic scope**: required for a **CER** (you must be within the proximity perimeter defined with the producers), not required for a **CEC**. For the CER vs CEC refresher, see the [comparison table in our parent article](/en/guides/energy-communities-belgium/).
 
 ## Where to find an energy community in Wallonia?
@@ -125,7 +125,7 @@ The community manager verifies a few elements:
 - Your delivery point lies within the community's **perimeter** (essential for a CER; not applicable for a CEC).
 - Your **meter** is smart. If not, the DSO schedules a free replacement.
 
-To find your EAN, look at the “delivery point” or “technical data” section of your bill — 18 digits starting with `541449`. You can also retrieve it from your DSO's online portal.
+To find your EAN, look at the “delivery point” or “technical data” section of your bill — 18 digits starting with 54. You can also retrieve it from your DSO's online portal, or ask the DSO for it: [“Belgian EAN code: where to find it, what it's for”](/en/guides/ean-code-belgium-where-to-find/) explains how each operator handles the request.
 
 ### Step 3 — Read and sign the sharing agreement
 
