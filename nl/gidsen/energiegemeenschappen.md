@@ -8,10 +8,10 @@ ref: pillar-communautes-energie
 pillar: communautes-energie
 permalink: /nl/gidsen/energiegemeenschappen/
 breadcrumb_parent: guides
-last_modified_at: 2026-09-26
+last_modified_at: 2026-10-26
 sections:
   - title: "Het kader begrijpen"
-    refs: [energy-communities-europe, energy-communities-belgium, self-consumption-belgium]
+    refs: [energy-communities-europe, energy-communities-belgium, self-consumption-belgium, impact-tariff-energy-sharing]
   - title: "Een gemeenschap oprichten of ertoe toetreden"
     refs: [create-energy-community-wallonia, join-energy-community-wallonia]
   - title: "De gemeenschap dagelijks beheren"

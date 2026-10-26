@@ -46,11 +46,11 @@ Vanuit “Mijn gemeenschappen” maakt u de gemeenschap aan: een naam en haar re
 Wallonië vooraf ingesteld op de CWaPE. U wordt er beheerder van; daarna moet u ze nog activeren om
 ze in te stellen.
 
-Handleiding (in het Engels, net als de volgende):
-[een gemeenschap aanmaken](https://guide.optimce.be/community-create/en.html). Voor het overzicht:
+Handleiding:
+[een gemeenschap aanmaken](https://guide.optimce.be/community-create/nl.html). Voor het overzicht:
 [beheersoftware voor energiegemeenschappen]({{ "features" | ref_url }}).
 
-{% include product-shot.html name="start-dashboard" alt="Dashboard van een nieuwe gemeenschap (Engelstalige interface): “Things to check” (aandachtspunten) somt vijf ontbrekende gegevens op (btw-nummer, officiële naam, IBAN, rekeninghouder, adres van de zetel), en er bestaat nog geen enkele deelactie (“No sharing operation yet”)." caption="Het dashboard van een pas aangemaakte gemeenschap: wat er nog moet worden aangevuld (testgegevens, Engelstalige interface)." %}
+{% include product-shot.html name="start-dashboard" alt="Dashboard van een nieuwe gemeenschap: “Aandachtspunten” somt vijf ontbrekende gegevens op (btw-nummer, juridische naam, IBAN, rekeninghouder, adres van de zetel), en er bestaat nog geen enkele deelbewerking." caption="Het dashboard van een pas aangemaakte gemeenschap: wat er nog moet worden aangevuld (testgegevens)." %}
 
 ### 2. De leden toevoegen
 
@@ -58,10 +58,10 @@ Een wizard in vier stappen registreert elk lid: zijn status, zijn persoonlijke g
 adressen en zijn bankgegevens. Daarna stelt een venster voor om meteen zijn meter toe te voegen;
 dat kunt u ook later doen vanuit zijn fiche. U kunt leden ook via een uitnodiging toevoegen.
 
-Handleiding: [een lid aanmaken](https://guide.optimce.be/member-create/en.html). Module:
+Handleiding: [een lid aanmaken](https://guide.optimce.be/member-create/nl.html). Module:
 [leden, meters en gemeenschappen]({{ "features" | ref_url }}).
 
-{% include product-shot.html name="start-member" alt="Eerste stap van de wizard “Add a member” (lid toevoegen, Engelstalige interface): de keuze van de status, particulier (“Individual”) of bedrijf (“Company”), gevolgd door de stappen persoonlijke gegevens, adressen en bankgegevens." caption="De wizard om een lid aan te maken, bij de eerste stap (testgegevens, Engelstalige interface)." %}
+{% include product-shot.html name="start-member" alt="Eerste stap van de wizard “Lid toevoegen”: de keuze van de status, “Particulier” of “Bedrijf”, gevolgd door de stappen “Persoonlijke informatie”, “Adressen” en “Bankgegevens”." caption="De wizard om een lid aan te maken, bij de eerste stap (testgegevens)." %}
 
 ### 3. De meters toevoegen
 
@@ -70,7 +70,7 @@ naam hij staat en de activeringsdatum. De energiewaarden van de meter, zoals het
 de productiecapaciteit, voeden de verdeelberekeningen. Vóór zijn activeringsdatum telt de meter in
 geen enkele berekening mee.
 
-Handleiding: [een meter aanmaken](https://guide.optimce.be/meter-create/en.html). Module:
+Handleiding: [een meter aanmaken](https://guide.optimce.be/meter-create/nl.html). Module:
 [leden, meters en gemeenschappen]({{ "features" | ref_url }}).
 
 ### 4. De deelactie aanmaken
@@ -79,7 +79,7 @@ Geef ze een naam, een type (binnen een gebouw, hernieuwbare-energiegemeenschap o
 burgerenergiegemeenschap) en de gemeenten die ze dekt. De tarieven, de facturen en de
 administratieve dossiers worden daarna aan deze deelactie gekoppeld.
 
-Handleiding: [een deelactie aanmaken](https://guide.optimce.be/sharing-op-create/en.html).
+Handleiding: [een deelactie aanmaken](https://guide.optimce.be/sharing-op-create/nl.html).
 Module: [het CWaPE-dossier van de deelactie]({{ "product-cwape" | ref_url }}).
 
 ### 5. De verdeelsleutel vastleggen
@@ -88,7 +88,7 @@ Geef met de wizard het aantal verbruikers en hun namen op, en daarna de iteratie
 percentage van de energie verdelen, tot 100 %. U kunt ook een sleutel laten voorstellen op basis
 van uw gegevens, en hem simuleren voordat u hem aanneemt.
 
-Handleiding: [een sleutel aanmaken met de wizard](https://guide.optimce.be/key-create-wizard/en.html).
+Handleiding: [een sleutel aanmaken met de wizard](https://guide.optimce.be/key-create-wizard/nl.html).
 Module: [verdeelsleutel: genereren, simuleren, opvolgen]({{ "product-allocation-key" | ref_url }}).
 
 ### 6. Factureren
@@ -97,7 +97,7 @@ Leg de verkoopprijs van de gedeelde energie en de terugkoopprijs van de injectie
 de meetgegevens van de periode, genereer een ontwerp per lid, reik de documenten uit en volg daarna
 de betalingen op.
 
-Handleiding: [een deelactie factureren, van het tarief tot de ontvangen betaling](https://guide.optimce.be/billing-tarification-pay/en.html).
+Handleiding: [een deelactie factureren, van het tarief tot de ontvangen betaling](https://guide.optimce.be/billing-tarification-pay/nl.html).
 Module: [de facturatiesoftware]({{ "product-billing" | ref_url }}).
 
 ### En daarna

@@ -10,10 +10,10 @@
   captures (test data, said in the caption), built by
   scripts/build_product_shots.py. Phones get the app's phone layout, which
   stays legible at their width; from 768px, the desktop layout. Both show the
-  same screen, so one alt text serves both. French capture on the French
-  page, English elsewhere until German and Dutch captures exist.
+  same screen, so one alt text serves both. Each page shows the capture in
+  its own language.
 {%- endcomment %}
-{% if lang == "fr" %}{% assign shot_lang = "fr" %}{% else %}{% assign shot_lang = "en" %}{% endif %}
+{% assign shot_lang = lang %}
 <section id="{{ features_id }}" class="section section--alt modules">
   <div class="container">
     <header class="section__header">

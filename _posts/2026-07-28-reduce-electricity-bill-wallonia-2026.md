@@ -2,7 +2,7 @@
 layout: post
 title: "Reduce your electricity bill: Wallonia 2026"
 date: 2026-07-28 10:00:00 +0200
-last_modified_at: 2026-09-22 06:00:00 +0200
+last_modified_at: 2026-10-26 06:00:00 +0100
 author: "Eric from OptimCE"
 excerpt: "The official comparator, the new Impact tariff, the social tariff, the 30 September grant deadline, self-consumption and energy sharing: ten Walloon levers costed from the ORES 2026 tariff schedule approved by CWaPE. Six of them cost nothing. For each one, the realistic annual saving, the condition to meet and the lead time."
 description: "Ten concrete, costed and sourced levers to cut your electricity bill in Wallonia in 2026 — from the official comparator to energy sharing."
@@ -108,7 +108,7 @@ Four cautions before switching:
 - **Do not confuse the two grids.** The dual-rate and Impact bands differ: 22:00–01:00 is off-peak under dual-rate but MEDIUM under Impact.
 - **Access conditions for Impact**: a connection of 56 kVA or less and a smart meter with the communication function switched on — hence the next lever.
 
-CWaPE provides a simulator and an eligibility test at [tarifimpact.be](https://www.tarifimpact.be/). The switch is requested from **your supplier**, not from the network operator.
+CWaPE provides a simulator and an eligibility test at [tarifimpact.be](https://www.tarifimpact.be/). The switch is requested from **your supplier**, not from the network operator. If you take part in energy sharing, what the Impact tariff changes on each shared kilowatt-hour is calculated in [“Impact tariff and energy communities”](/en/guides/impact-tariff-energy-community/).
 
 ## 4. Ask for your smart meter to be activated
 

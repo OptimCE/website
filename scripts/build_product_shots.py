@@ -1,13 +1,14 @@
 #!/usr/bin/env python3
 """Build the homepage's product shots from the user guide's captures.
 
-    python scripts/build_product_shots.py [--guide PATH]
+    python scripts/build_product_shots.py [--guide PATH] [--langs fr en de nl]
 
-The user guide (sibling repository, ../user-guide by default) captures the
-manager's dashboard tour in French and English, on a desktop (1440x900) and
-on a phone (390x844 at 3x). Step 9 is the dashboard. _includes/modules.html
-shows the phone shot below 768px and the desktop shot from there; German and
-Dutch pages use the English one.
+The user guide (sibling repository, ../user-guide by default, or the Steppy
+build it is exported from, ../e2e/output/static/generated) captures the
+manager's dashboard tour in French, English, German and Dutch, on a desktop
+(1440x900) and on a phone (390x844 at 3x). Step 9 is the dashboard.
+_includes/modules.html shows the phone shot below 768px and the desktop shot
+from there, in the page's language. --langs rebuilds some languages only.
 
 Writes, in assets/images/product/, for each language:
   dashboard-<lang>.webp            desktop: the top-left 1290x712 of the capture
@@ -29,7 +30,7 @@ from PIL import Image
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT_DIR = ROOT / "assets" / "images" / "product"
-LANGS = ("fr", "en")
+LANGS = ("fr", "en", "de", "nl")
 STEP = "step-09.png"
 QUALITY = 82
 
@@ -50,10 +51,12 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     ap.add_argument("--guide", type=Path, default=ROOT.parent / "user-guide",
                     help="the user guide repository (default: ../user-guide)")
+    ap.add_argument("--langs", nargs="+", choices=LANGS, default=LANGS,
+                    help="the languages to build (default: all)")
     args = ap.parse_args()
     tour = args.guide / "assets" / "dashboard-manager-tour"
 
-    for lang in LANGS:
+    for lang in args.langs:
         for shot, (folder, box, widths) in SHOTS.items():
             src = tour / lang / folder / STEP
             if not src.exists():

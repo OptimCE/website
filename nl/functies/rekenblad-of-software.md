@@ -75,7 +75,7 @@ In OptimCE worden het nummer en de gestructureerde mededeling bij de uitreiking 
 een correctie via een creditnota en blijft de historiek volledig. Zie de
 [facturatiesoftware]({{ "product-billing" | ref_url }}).
 
-{% include product-shot.html name="billing-member" alt="Overzicht “My invoices” van een lid (Engelstalige interface): een vergoedingsafrekening DP-2025-00001 met de status “Issued” (uitgereikt), van 36,69 €, met haar gestructureerde mededeling." caption="Elk lid ziet zijn eigen documenten, met de gestructureerde mededeling die het bij zijn overschrijving vermeldt (testgegevens, Engelstalige interface)." %}
+{% include product-shot.html name="billing-member" alt="Overzicht “Mijn facturen” van een lid: een vergoedingsafrekening DP-2025-00001 met de status “Uitgereikt”, van 36,69 €, met haar gestructureerde mededeling." caption="Elk lid ziet zijn eigen documenten, met de gestructureerde mededeling die het bij zijn overschrijving vermeldt (testgegevens)." %}
 
 ### De CWaPE-dossiers
 
@@ -88,7 +88,7 @@ In OptimCE worden de officiële formulieren vooraf ingevuld op basis van de lede
 versie bewaard en worden de termijnen in werkdagen berekend. Zie het
 [CWaPE-dossier]({{ "product-cwape" | ref_url }}).
 
-{% include product-shot.html name="cwape-deadlines" alt="Tabblad “Deadlines” van de administratieve documenten (“Administrative documents”, Engelstalige interface): een volledigheidscontrole (“Completeness check”) met vervaldatum 15/09/2026 voor dossier nr. 1, met de status “Open”." caption="De openstaande termijnen van alle dossiers, berekend op basis van de statuswijzigingen (testgegevens, Engelstalige interface)." %}
+{% include product-shot.html name="cwape-deadlines" alt="Tabblad “Termijnen” van de “Administratieve documenten”: een “Volledigheidscontrole” met vervaldatum 06/11/2026 voor dossier nr. 1, met de status “Open”." caption="De openstaande termijnen van alle dossiers, berekend op basis van de statuswijzigingen (testgegevens)." %}
 
 ### Toegang voor de leden en de overdracht
 

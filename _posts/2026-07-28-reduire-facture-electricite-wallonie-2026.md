@@ -2,7 +2,7 @@
 layout: post
 title: "Réduire sa facture d'électricité : Wallonie 2026"
 date: 2026-07-28 10:00:00 +0200
-last_modified_at: 2026-09-22 06:00:00 +0200
+last_modified_at: 2026-10-26 06:00:00 +0100
 author: "Eric d'OptimCE"
 excerpt: "Comparateur officiel, nouveau tarif Impact, tarif social, primes avant le 30 septembre, autoconsommation, partage d'énergie : dix leviers wallons chiffrés à partir de la grille tarifaire ORES 2026 approuvée par la CWaPE. Six d'entre eux ne coûtent rien. Pour chacun, le gain annuel réaliste, la condition à remplir et le délai."
 description: "Dix leviers concrets, chiffrés et sourcés pour alléger sa facture d'électricité en Wallonie en 2026 — du comparateur officiel au partage d'énergie."
@@ -108,7 +108,7 @@ Quatre précautions avant de basculer :
 - **Ne confondez pas les deux grilles.** Les plages du bihoraire et celles du tarif Impact sont différentes : 22h–1h est une heure creuse en bihoraire mais une heure MEDIUM en Impact.
 - **Conditions d'accès au tarif Impact** : un raccordement de 56 kVA au maximum et un compteur communicant dont la fonction de communication est activée — d'où le levier suivant.
 
-La CWaPE met à disposition un simulateur et un test d'éligibilité sur [tarifimpact.be](https://www.tarifimpact.be/). Le changement se demande **à votre fournisseur**, pas au gestionnaire de réseau.
+La CWaPE met à disposition un simulateur et un test d'éligibilité sur [tarifimpact.be](https://www.tarifimpact.be/). Le changement se demande **à votre fournisseur**, pas au gestionnaire de réseau. Si vous participez à un partage d'énergie, ce que le tarif Impact change sur chaque kilowattheure partagé est calculé dans [« Tarif Impact et communauté d'énergie »](/guides/tarif-impact-communaute-energie/).
 
 ## 4. Demander l'activation de votre compteur communicant
 

@@ -46,7 +46,7 @@ regels hetzelfde lid betreffen, wint de meest specifieke. Een verlaagd tarief vo
 voor een gezin vraagt dus geen tweede deelactie: een prijs op het leveringspunt (EAN) van dat lid
 volstaat.
 
-{% include product-shot.html name="billing-tariffs" alt="Tabblad “Tariffs” van de module “Billing” (Engelstalige interface): een verkoopprijs voor verbruikers (“Consumer selling price”) van 0,12 €/kWh en een terugkoopprijs voor producenten (“Producer buyback price”) van 0,05 €/kWh, allebei met globale reikwijdte (“Global”) en geldig vanaf 1 januari 2025." caption="De twee prijzen van een deelactie, zoals de stapsgewijze handleiding ze toont (testgegevens, Engelstalige interface)." %}
+{% include product-shot.html name="billing-tariffs" alt="Tabblad “Tarieven” van de module “Facturatie”: een “Verkoopprijs voor verbruiker” van 0,12 €/kWh en een “Terugkoopprijs voor producent” van 0,05 €/kWh, allebei met reikwijdte “Globaal” en geldig vanaf 1 januari 2025." caption="De twee prijzen van een deelactie, zoals de stapsgewijze handleiding ze toont (testgegevens)." %}
 
 ### U start een cyclus voor een periode
 
@@ -82,7 +82,7 @@ is, en facturen waarvan de vervaldatum verstreken is, verschijnen als achterstal
 Elk lid vindt op zijn beurt zijn eigen documenten terug in de applicatie, met hun nummer, bedrag,
 status en gestructureerde mededeling. De documenten van de andere leden ziet het niet.
 
-{% include product-shot.html name="billing-member" alt="Overzicht “My invoices” van een lid (Engelstalige interface): een vergoedingsafrekening DP-2025-00001 met de status “Issued” (uitgereikt), van 36,69 €, met haar gestructureerde mededeling (“Structured communication”) +++000/0000/00202+++." caption="Wat een lid ziet: zijn documenten en de gestructureerde mededeling die het bij zijn overschrijving vermeldt (testgegevens, Engelstalige interface)." %}
+{% include product-shot.html name="billing-member" alt="Overzicht “Mijn facturen” van een lid: een vergoedingsafrekening DP-2025-00001 met de status “Uitgereikt”, van 36,69 €, met haar “Gestructureerde mededeling” +++000/0000/00202+++." caption="Wat een lid ziet: zijn documenten en de gestructureerde mededeling die het bij zijn overschrijving vermeldt (testgegevens)." %}
 
 ## Wat het niet doet
 

@@ -38,7 +38,7 @@ de iteraties: elke iteratie verdeelt een percentage van de beschikbare energie, 
 relatief, naar rato van ieders werkelijke verbruik, tot 100 % bereikt is. Een overzichtspagina
 toont de volledige tabel voordat u de sleutel opslaat.
 
-{% include product-shot.html name="key-wizard" alt="Overzichtstabel van een sleutel die met de wizard is aangemaakt (Engelstalige interface): een eerste iteratie van 70 % en daarna een tweede van 30 % van de energie, telkens “Pro rata” verdeeld over drie verbruikers, Cons1 tot Cons3." caption="Een sleutel in twee iteraties pro rata, nagelezen voordat hij wordt opgeslagen (testgegevens, Engelstalige interface)." %}
+{% include product-shot.html name="key-wizard" alt="Overzichtstabel van een sleutel die met de wizard is aangemaakt: een eerste iteratie van 70 % en daarna een tweede van 30 % van de energie, telkens “Pro-rata” verdeeld over drie verbruikers, Cons1 tot Cons3." caption="Een sleutel in twee iteraties pro rata, nagelezen voordat hij wordt opgeslagen (testgegevens)." %}
 
 ### Een kandidaat-sleutel genereren
 
@@ -59,7 +59,7 @@ De generatie komt in een wachtrij, daarna verschijnt de lijst van berekende sleu
 detail van de verdeling per iteratie. De sleutel die u bevalt, slaat u op bij uw verdeelsleutels. De
 generatiemodule activeert u bij de annexdiensten van de gemeenschap.
 
-{% include product-shot.html name="key-generation" alt="Formulier “Start a generation” (Engelstalige interface): het algoritme “Linear Optimization and Genetic Algorithm with Atypical Speciation” is geselecteerd, met de naam van de generatie, de injectiekolom “Production” en de zone om het gegevensbestand op te laden." caption="Een generatie starten: het algoritme, de productiekolom en het gegevensbestand (testgegevens, Engelstalige interface)." %}
+{% include product-shot.html name="key-generation" alt="Formulier “Start een generatie”: het algoritme “Lineaire optimalisatie en genetisch algoritme met atypische speciatie” is geselecteerd, de verbruiksgegevens komen uit een geïmporteerd bestand, met de naam van de generatie en de injectiekolom “Production”." caption="Een generatie starten: het algoritme, de productiekolom en het gegevensbestand (testgegevens)." %}
 
 ### Een sleutel simuleren op uw gegevens
 

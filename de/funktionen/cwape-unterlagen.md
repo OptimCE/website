@@ -40,7 +40,7 @@ Solange das Dossier „in Vorbereitung“ ist, bleibt es bearbeitbar, und es lä
 Seite bündelt seine Dokumente, seine Fristen und die Historie seiner Statuswechsel und bietet nur die
 Statuswechsel an, die in diesem Stadium zulässig sind. Das Modul wird je Gemeinschaft aktiviert.
 
-{% include product-shot.html name="cwape-dossier" alt="Seite eines Dossiers vom Typ „Creation notification“ (Meldung der Gründung) mit dem Status „In preparation“ in der englischen Oberfläche: Teilungsoperation, Aktenzeichen CWAPE-2026-0042, Region „Wallonia (CWaPE)“, Schaltflächen „Submitted“ und „Lapsed“, Reiter „Documents“, „Deadlines“ und „History“." caption="Die Seite eines Dossiers direkt nach seiner Anlage, in der Schritt-für-Schritt-Anleitung (Testdaten, englische Oberfläche)." %}
+{% include product-shot.html name="cwape-dossier" alt="Seite eines Dossiers vom Typ „Gründungsmeldung“ mit dem Status „In Vorbereitung“: Teilungsoperation, Aktenzeichen CWAPE-2026-0042, Region „Wallonien (CWaPE)“, Schaltflächen „Eingereicht“ und „Verfallen“, Reiter „Dokumente“, „Fristen“ und „Verlauf“." caption="Die Seite eines Dossiers direkt nach seiner Anlage, in der Schritt-für-Schritt-Anleitung (Testdaten)." %}
 
 ### Die amtlichen Formulare, vorausgefüllt
 
@@ -74,7 +74,7 @@ auf Französisch, Niederländisch, Deutsch oder Englisch melden die Verwaltungsf
 Ist eine Pflicht erfüllt, markieren Sie die Frist als eingehalten: Sie verschwindet aus der Liste
 der offenen Fristen, die Historie des Dossiers bewahrt sie aber auf.
 
-{% include product-shot.html name="cwape-deadlines" alt="Reiter „Deadlines“ der Verwaltungsdokumente („Administrative documents“) in der englischen Oberfläche: eine Vollständigkeitsprüfung („Completeness check“), fällig am 15.09.2026 für Dossier Nr. 1, mit dem Status „Open“." caption="Die Tabelle der offenen Fristen, berechnet aus den erfassten Statuswechseln (Testdaten, englische Oberfläche)." %}
+{% include product-shot.html name="cwape-deadlines" alt="Reiter „Fristen“ der „Verwaltungsdokumente“: eine „Vollständigkeitsprüfung“, fällig am 06.11.2026 für Dossier Nr. 1, mit dem Status „Offen“." caption="Die Tabelle der offenen Fristen, berechnet aus den erfassten Statuswechseln (Testdaten)." %}
 
 ### Was jedes Mitglied prüfen kann
 

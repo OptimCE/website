@@ -42,7 +42,7 @@ De fiche van het dossier brengt zijn documenten, zijn termijnen en de historiek 
 samen, en biedt alleen de statuswijzigingen aan die in dat stadium zijn toegestaan. De module wordt
 per gemeenschap geactiveerd.
 
-{% include product-shot.html name="cwape-dossier" alt="Fiche van een dossier “Creation notification” (kennisgeving van oprichting) met de status “In preparation”, in de Engelstalige interface: deelactie, referentie CWAPE-2026-0042, gewest “Wallonia (CWaPE)”, knoppen “Submitted” en “Lapsed”, tabbladen “Documents”, “Deadlines” en “History”." caption="De fiche van een dossier, net na de aanmaak, in de stapsgewijze handleiding (testgegevens, Engelstalige interface)." %}
+{% include product-shot.html name="cwape-dossier" alt="Fiche van een dossier “Kennisgeving van oprichting” met de status “In voorbereiding”: deelverrichting, dossierreferentie CWAPE-2026-0042, regio “Wallonië (CWaPE)”, knoppen “Ingediend” en “Vervallen”, tabbladen “Documenten”, “Termijnen” en “Historiek”." caption="De fiche van een dossier, net na de aanmaak, in de stapsgewijze handleiding (testgegevens)." %}
 
 ### De officiële formulieren, vooraf ingevuld
 
@@ -77,7 +77,7 @@ termijnen.
 Is een verplichting nagekomen, dan markeert u de termijn als gehaald: hij verdwijnt uit de lijst
 van openstaande termijnen, maar de historiek van het dossier houdt hem bij.
 
-{% include product-shot.html name="cwape-deadlines" alt="Tabblad “Deadlines” van de administratieve documenten (“Administrative documents”, Engelstalige interface): een volledigheidscontrole (“Completeness check”) met vervaldatum 15/09/2026 voor dossier nr. 1, met de status “Open”." caption="De lijst van openstaande termijnen, berekend op basis van de geregistreerde statuswijzigingen (testgegevens, Engelstalige interface)." %}
+{% include product-shot.html name="cwape-deadlines" alt="Tabblad “Termijnen” van de “Administratieve documenten”: een “Volledigheidscontrole” met vervaldatum 06/11/2026 voor dossier nr. 1, met de status “Open”." caption="De lijst van openstaande termijnen, berekend op basis van de geregistreerde statuswijzigingen (testgegevens)." %}
 
 ### Wat elk lid kan nagaan
 

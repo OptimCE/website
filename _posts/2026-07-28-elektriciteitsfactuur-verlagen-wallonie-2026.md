@@ -2,7 +2,7 @@
 layout: post
 title: "Elektriciteitsfactuur verlagen: Wallonië 2026"
 date: 2026-07-28 10:00:00 +0200
-last_modified_at: 2026-09-22 06:00:00 +0200
+last_modified_at: 2026-10-26 06:00:00 +0100
 author: "Eric van OptimCE"
 excerpt: "Officiële vergelijker, nieuw Impact-tarief, sociaal tarief, premiedeadline van 30 september, zelfverbruik en energiedelen: tien Waalse hefbomen, berekend op basis van de door de CWaPE goedgekeurde ORES-tarieflijst 2026. Zes ervan kosten niets. Voor elke hefboom de realistische jaarwinst, de voorwaarde en de doorlooptijd."
 description: "Tien concrete, becijferde en gestaafde hefbomen om uw elektriciteitsfactuur in Wallonië te verlagen in 2026 — van de officiële vergelijker tot energiedelen."
@@ -108,7 +108,7 @@ Vier voorzorgen vóór u overstapt:
 - **Verwar de twee roosters niet.** De blokken van het tweevoudig tarief en die van het Impact-tarief verschillen: 22 tot 1 uur is een daluur in tweevoudig tarief, maar een MEDIUM-uur in Impact.
 - **Toegangsvoorwaarden voor het Impact-tarief**: een aansluiting van hoogstens 56 kVA en een digitale meter waarvan de communicatiefunctie geactiveerd is — vandaar de volgende hefboom.
 
-De CWaPE biedt een simulator en een geschiktheidstest aan op [tarifimpact.be](https://www.tarifimpact.be/). De wijziging vraagt u aan **bij uw leverancier**, niet bij de netbeheerder.
+De CWaPE biedt een simulator en een geschiktheidstest aan op [tarifimpact.be](https://www.tarifimpact.be/). De wijziging vraagt u aan **bij uw leverancier**, niet bij de netbeheerder. Neemt u deel aan energiedelen, dan rekent [“Impact-tarief en energiegemeenschap”](/nl/gidsen/impact-tarief-energiegemeenschap/) voor wat het Impact-tarief verandert aan elke gedeelde kilowattuur.
 
 ## 4. De activering van uw digitale meter aanvragen
 

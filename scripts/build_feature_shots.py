@@ -1,26 +1,28 @@
 #!/usr/bin/env python3
 """Build the product pages' screenshots from the user guide's captures.
 
-    python scripts/build_feature_shots.py [--guide PATH]
+    python scripts/build_feature_shots.py [--guide PATH] [--langs fr en de nl]
 
 The user guide (sibling repository, ../user-guide by default) captures each
-scenario in French and English on a 1440x900 desktop. Use a checkout of what
-guide.optimce.be publishes (origin/main of OptimCE/user-guide): the step
-numbers below are those of its 2026-09-04 capture.
+scenario in French, English, German and Dutch on a 1440x900 desktop. Use a
+checkout of what guide.optimce.be publishes (origin/main of OptimCE/user-guide),
+or the Steppy build it is exported from (../e2e/output/static/generated): the
+step numbers below are those of the 2026-09-04 capture (French, English) and of
+the 2026-10-24 one (German, Dutch). --langs rebuilds some languages only.
 
 Each shot is one step of one scenario, cropped to the part of the screen the
 page talks about, without the app's sidebar (no toasts, no Steppy highlight, no
 untranslated keys): the pages show it in a 38rem column, where a full-width
 capture would be too small to read.
-French pages use the French capture; English, German and Dutch pages use the
-English one, until the guide is captured in German and Dutch
-(_includes/product-shot.html picks it).
+Each page uses the capture in its own language (_includes/product-shot.html
+picks it).
 
 Writes, in assets/images/product/features/, for each shot and language:
   <shot>-<lang>.webp       the crop at its own width (1x on a wide screen)
   <shot>-<lang>-800.webp   the same, 800px wide
-and _data/feature_shots.json, the size of each shot, which the include reads
-so that the page reserves the image's space before it loads.
+and _data/feature_shots.json, the size of each shot in each language, which
+the include reads so that the page reserves the image's space before it loads
+(the languages not rebuilt keep their entry).
 
 Rerun it when the guide is captured again, look at every crop, and move a
 step number or a crop box if the screen changed.
@@ -35,7 +37,7 @@ from PIL import Image
 ROOT = Path(__file__).resolve().parent.parent
 OUT_DIR = ROOT / "assets" / "images" / "product" / "features"
 DATA = ROOT / "_data" / "feature_shots.json"
-LANGS = ("fr", "en")
+LANGS = ("fr", "en", "de", "nl")
 WIDTHS = (None, 800)  # None: the crop's own width (the base file)
 QUALITY = 82
 
@@ -59,17 +61,30 @@ SHOTS = {
     "start-member": ("member-create", "step-32.png", (300, 240, 1140, 665)),
 }
 
+# (shot, lang): a crop box for a language whose screen is laid out differently.
+BOXES = {
+    # The longer labels wrap the filters on two rows: go down to the structured communication.
+    ("billing-member", "de"): (350, 140, 1160, 560),
+    ("billing-member", "nl"): (350, 140, 1160, 560),
+    # The wizard's dialog is wider (its steps are joined by lines).
+    ("start-member", "de"): (250, 240, 1190, 665),
+    ("start-member", "nl"): (250, 240, 1190, 665),
+}
+
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     ap.add_argument("--guide", type=Path, default=ROOT.parent / "user-guide",
                     help="the user guide repository (default: ../user-guide)")
+    ap.add_argument("--langs", nargs="+", choices=LANGS, default=LANGS,
+                    help="the languages to build (default: all)")
     args = ap.parse_args()
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
-    sizes = {}
-    for shot, (scenario, step, box) in SHOTS.items():
-        for lang in LANGS:
+    sizes = json.loads(DATA.read_text(encoding="utf-8")) if DATA.exists() else {}
+    for shot, (scenario, step, default_box) in SHOTS.items():
+        for lang in args.langs:
+            box = BOXES.get((shot, lang), default_box)
             src = args.guide / "assets" / scenario / lang / "desktop" / step
             if not src.exists():
                 sys.exit(f"missing capture: {src}")
@@ -77,7 +92,7 @@ def main():
             if capture.width < box[2] or capture.height < box[3]:
                 sys.exit(f"{src} is {capture.width}x{capture.height}, smaller than the crop {box}")
             crop = capture.crop(box)
-            sizes[shot] = {"width": crop.width, "height": crop.height}
+            sizes.setdefault(shot, {})[lang] = {"width": crop.width, "height": crop.height}
             for width in WIDTHS:
                 if width is None:
                     image, name = crop, f"{shot}-{lang}.webp"

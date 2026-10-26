@@ -114,7 +114,7 @@ modules:
     Eén installatie kan meerdere gemeenschappen herbergen, en tools van derden
     koppelen aan haar gebeurtenissen (NATS).
   shot_alt: "Het dashboard van een beheerder in OptimCE, met de aandachtspunten en de gedeelde energie."
-  shot_caption: "Het dashboard van een beheerder in de alphaversie, met testgegevens (Engelstalige interface)."
+  shot_caption: "Het dashboard van een beheerder in de alphaversie, met testgegevens."
 
 # Hosting (_includes/cloud-or-self-host.html)
 hosting:
@@ -202,7 +202,7 @@ product_cta:
   text: "De app is gratis tijdens de alpha. De stapsgewijze handleiding toont u elk scherm voordat u begint."
   app: "De app openen"
   demo: "De demo proberen"
-  guide: "Stapsgewijze handleiding (Engels)"
+  guide: "Stapsgewijze handleiding"
 
 # GRD tool ("Wie is mijn netbeheerder?", ref tool-dso) and its municipality
 # table (ref tool-dso-list). Same keys as the grd_tool block of fr.yml, which

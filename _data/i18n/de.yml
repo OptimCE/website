@@ -114,7 +114,7 @@ modules:
     Eine Installation kann mehrere Gemeinschaften beherbergen, und
     Drittanbieter-Tools docken an ihre Ereignisse an (NATS).
   shot_alt: "Das Dashboard einer Verwaltung in OptimCE, mit den zu prüfenden Punkten und der geteilten Energie."
-  shot_caption: "Das Dashboard einer Verwaltung in der Alpha-Version, mit Testdaten (englische Oberfläche)."
+  shot_caption: "Das Dashboard einer Verwaltung in der Alpha-Version, mit Testdaten."
 
 # Hosting (_includes/cloud-or-self-host.html)
 hosting:
@@ -204,7 +204,7 @@ product_cta:
   text: "Die App ist während der Alpha kostenlos. Die Schritt-für-Schritt-Anleitung zeigt Ihnen jeden Bildschirm, bevor Sie loslegen."
   app: "App öffnen"
   demo: "Demo ausprobieren"
-  guide: "Schritt-für-Schritt-Anleitung (Englisch)"
+  guide: "Schritt-für-Schritt-Anleitung"
 
 # GRD tool ("Netzbetreiber finden", ref tool-dso) and its municipality table
 # (ref tool-dso-list). Same keys as the grd_tool block of fr.yml, which

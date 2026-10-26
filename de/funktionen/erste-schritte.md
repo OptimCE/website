@@ -46,10 +46,10 @@ Legen Sie die Gemeinschaft unter „Meine Gemeinschaften“ an: mit einem Namen 
 Regulierungsbehörde, für die Wallonie ist die CWaPE vorausgewählt. Sie werden Administrator der
 Gemeinschaft; danach müssen Sie sie noch aktivieren, um sie zu konfigurieren.
 
-Anleitung (auf Englisch): [eine Gemeinschaft erstellen](https://guide.optimce.be/community-create/en.html).
+Anleitung: [eine Gemeinschaft erstellen](https://guide.optimce.be/community-create/de.html).
 Für den Überblick: [die Software für Energiegemeinschaften]({{ "features" | ref_url }}).
 
-{% include product-shot.html name="start-dashboard" alt="Dashboard einer neuen Gemeinschaft in der englischen Oberfläche: „Things to check“ (zu prüfende Punkte) listet fünf fehlende Angaben auf (MwSt.-Nummer, rechtliche Bezeichnung, IBAN, Kontoinhaber, Anschrift des Sitzes), und es gibt noch keine Teilungsoperation." caption="Das Dashboard einer soeben angelegten Gemeinschaft: was noch zu ergänzen ist (Testdaten, englische Oberfläche)." %}
+{% include product-shot.html name="start-dashboard" alt="Übersicht einer neuen Gemeinschaft: „Zu prüfende Punkte“ listet fünf fehlende Angaben auf (USt-IdNr., juristischer Name, IBAN, Kontoinhaber, Sitzadresse), und es gibt noch keinen Teilungsvorgang." caption="Das Dashboard einer soeben angelegten Gemeinschaft: was noch zu ergänzen ist (Testdaten)." %}
 
 ### 2. Die Mitglieder hinzufügen
 
@@ -58,10 +58,10 @@ seine Adressen und seine Bankverbindung. Danach bietet ein Fenster an, direkt mi
 weiterzumachen; das können Sie auch später von seiner Detailseite aus tun. Mitglieder lassen sich
 auch per Einladung hinzufügen.
 
-Anleitung: [ein Mitglied anlegen](https://guide.optimce.be/member-create/en.html). Modul:
+Anleitung: [ein Mitglied anlegen](https://guide.optimce.be/member-create/de.html). Modul:
 [Mitglieder, Zähler und Gemeinschaften]({{ "features" | ref_url }}).
 
-{% include product-shot.html name="start-member" alt="Erster Schritt des Assistenten „Add a member“ (Mitglied hinzufügen) in der englischen Oberfläche: die Wahl des Status, „Individual“ oder „Company“ (Privatperson oder Unternehmen), gefolgt von den Schritten persönliche Angaben, Adressen und Bankverbindung." caption="Der Assistent zum Anlegen eines Mitglieds, beim ersten Schritt (Testdaten, englische Oberfläche)." %}
+{% include product-shot.html name="start-member" alt="Erster Schritt des Assistenten „Mitglied hinzufügen“: die Wahl des Status, „Privatperson“ oder „Unternehmen“, gefolgt von den Schritten „Persönliche Informationen“, „Adressen“ und „Bankdaten“." caption="Der Assistent zum Anlegen eines Mitglieds, beim ersten Schritt (Testdaten)." %}
 
 ### 3. Die Zähler hinzufügen
 
@@ -70,7 +70,7 @@ auf dessen Namen er läuft, und sein Aktivierungsdatum. Seine Energiewerte, etwa
 Entnahmeleistung und die Erzeugungskapazität, fließen in die Aufteilungsberechnungen ein. Vor
 seinem Aktivierungsdatum geht der Zähler in keine Berechnung ein.
 
-Anleitung: [einen Zähler anlegen](https://guide.optimce.be/meter-create/en.html). Modul:
+Anleitung: [einen Zähler anlegen](https://guide.optimce.be/meter-create/de.html). Modul:
 [Mitglieder, Zähler und Gemeinschaften]({{ "features" | ref_url }}).
 
 ### 4. Die Teilungsoperation anlegen
@@ -79,7 +79,7 @@ Geben Sie ihr einen Namen, einen Typ (innerhalb eines Gebäudes, Erneuerbare-Ene
 oder Bürgerenergiegemeinschaft) und die Gemeinden, die sie abdeckt. Tarife, Rechnungen und
 Verwaltungsdossiers werden anschließend dieser Operation zugeordnet.
 
-Anleitung: [eine Teilungsoperation anlegen](https://guide.optimce.be/sharing-op-create/en.html).
+Anleitung: [eine Teilungsoperation anlegen](https://guide.optimce.be/sharing-op-create/de.html).
 Modul: [die CWaPE-Unterlagen der Operation]({{ "product-cwape" | ref_url }}).
 
 ### 5. Den Aufteilungsschlüssel festlegen
@@ -88,7 +88,7 @@ Geben Sie im Assistenten die Zahl der Verbraucher und ihre Namen an, dann Iterat
 einen Prozentsatz der Energie verteilen, bis 100 % erreicht sind. Sie können sich auch aus Ihren
 Daten einen Schlüssel vorschlagen lassen und ihn simulieren, bevor Sie ihn übernehmen.
 
-Anleitung: [einen Schlüssel mit dem Assistenten anlegen](https://guide.optimce.be/key-create-wizard/en.html).
+Anleitung: [einen Schlüssel mit dem Assistenten anlegen](https://guide.optimce.be/key-create-wizard/de.html).
 Modul: [Aufteilungsschlüssel: berechnen, testen, verfolgen]({{ "product-allocation-key" | ref_url }}).
 
 ### 6. Abrechnen
@@ -97,7 +97,7 @@ Legen Sie den Verkaufspreis der geteilten Energie und den Rückkaufpreis der Ein
 importieren Sie die Messwerte der Periode, erzeugen Sie einen Entwurf je Mitglied, stellen Sie die
 Dokumente aus und verfolgen Sie dann die Zahlungen.
 
-Anleitung: [eine Operation abrechnen, vom Tarif bis zum Zahlungseingang](https://guide.optimce.be/billing-tarification-pay/en.html).
+Anleitung: [eine Operation abrechnen, vom Tarif bis zum Zahlungseingang](https://guide.optimce.be/billing-tarification-pay/de.html).
 Modul: [die Abrechnungssoftware]({{ "product-billing" | ref_url }}).
 
 ### Und danach

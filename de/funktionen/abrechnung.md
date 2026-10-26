@@ -45,7 +45,7 @@ oder für eine bestimmte Lieferstelle und hat einen Gültigkeitszeitraum. Betref
 dasselbe Mitglied, gewinnt die genaueste. Ein ermäßigter Tarif für eine Schule oder einen Haushalt
 erfordert also keine zweite Operation: Ein Preis auf der betreffenden EAN genügt.
 
-{% include product-shot.html name="billing-tariffs" alt="Reiter „Tariffs“ des Abrechnungsmoduls in der englischen Oberfläche: ein Verkaufspreis für Verbraucher von 0,12 €/kWh und ein Rückkaufpreis für Erzeuger von 0,05 €/kWh, beide mit globalem Geltungsbereich und gültig ab dem 1. Januar 2025." caption="Die beiden Preise einer Teilungsoperation, wie sie die Schritt-für-Schritt-Anleitung zeigt (Testdaten, englische Oberfläche)." %}
+{% include product-shot.html name="billing-tariffs" alt="Reiter „Tarife“ des Moduls „Abrechnung“: ein „Verkaufspreis für Verbraucher“ von 0,12 €/kWh und ein „Rückkaufpreis für Erzeuger“ von 0,05 €/kWh, beide mit dem Geltungsbereich „Global“ und gültig ab dem 1. Januar 2025." caption="Die beiden Preise einer Teilungsoperation, wie sie die Schritt-für-Schritt-Anleitung zeigt (Testdaten)." %}
 
 ### Sie starten einen Abrechnungslauf für eine Periode
 
@@ -83,7 +83,7 @@ erreicht ist, und Rechnungen mit überschrittener Fälligkeit erscheinen als üb
 Jedes Mitglied findet seinerseits seine eigenen Dokumente in der Anwendung, mit Nummer, Betrag,
 Status und strukturierter Mitteilung. Es sieht nur seine eigenen.
 
-{% include product-shot.html name="billing-member" alt="Bereich „My invoices“ eines Mitglieds in der englischen Oberfläche: eine Vergütungsabrechnung DP-2025-00001 mit dem Status „Issued“ (ausgestellt) über 36,69 €, mit ihrer strukturierten Mitteilung." caption="Was ein Mitglied sieht: seine Dokumente und die strukturierte Mitteilung, die es bei seiner Überweisung angibt (Testdaten, englische Oberfläche)." %}
+{% include product-shot.html name="billing-member" alt="Bereich „Meine Rechnungen“ eines Mitglieds: eine Vergütungsabrechnung DP-2025-00001 mit dem Status „Ausgestellt“ über 36,69 €, mit ihrer strukturierten Mitteilung." caption="Was ein Mitglied sieht: seine Dokumente und die strukturierte Mitteilung, die es bei seiner Überweisung angibt (Testdaten)." %}
 
 ## Was es nicht leistet
 

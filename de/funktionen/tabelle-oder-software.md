@@ -76,7 +76,7 @@ In OptimCE werden Nummer und strukturierte Mitteilung bei der Ausstellung vergeb
 läuft über eine Gutschrift, und die Historie bleibt vollständig. Siehe die
 [Abrechnungssoftware]({{ "product-billing" | ref_url }}).
 
-{% include product-shot.html name="billing-member" alt="Bereich „My invoices“ eines Mitglieds in der englischen Oberfläche: eine Vergütungsabrechnung DP-2025-00001 mit dem Status „Issued“ (ausgestellt) über 36,69 €, mit ihrer strukturierten Mitteilung." caption="Jedes Mitglied sieht seine eigenen Dokumente, mit der strukturierten Mitteilung für seine Überweisung (Testdaten, englische Oberfläche)." %}
+{% include product-shot.html name="billing-member" alt="Bereich „Meine Rechnungen“ eines Mitglieds: eine Vergütungsabrechnung DP-2025-00001 mit dem Status „Ausgestellt“ über 36,69 €, mit ihrer strukturierten Mitteilung." caption="Jedes Mitglied sieht seine eigenen Dokumente, mit der strukturierten Mitteilung für seine Überweisung (Testdaten)." %}
 
 ### Die CWaPE-Dossiers
 
@@ -89,7 +89,7 @@ In OptimCE werden die amtlichen Formulare aus der Mitgliederliste vorausgefüllt
 aufbewahrt, und die Fristen werden in Werktagen berechnet. Siehe die
 [CWaPE-Unterlagen]({{ "product-cwape" | ref_url }}).
 
-{% include product-shot.html name="cwape-deadlines" alt="Reiter „Deadlines“ der Verwaltungsdokumente („Administrative documents“) in der englischen Oberfläche: eine Vollständigkeitsprüfung („Completeness check“), fällig am 15.09.2026 für Dossier Nr. 1, mit dem Status „Open“." caption="Die offenen Fristen aller Dossiers, berechnet aus den Statuswechseln (Testdaten, englische Oberfläche)." %}
+{% include product-shot.html name="cwape-deadlines" alt="Reiter „Fristen“ der „Verwaltungsdokumente“: eine „Vollständigkeitsprüfung“, fällig am 06.11.2026 für Dossier Nr. 1, mit dem Status „Offen“." caption="Die offenen Fristen aller Dossiers, berechnet aus den Statuswechseln (Testdaten)." %}
 
 ### Zugang der Mitglieder und Übergabe
 

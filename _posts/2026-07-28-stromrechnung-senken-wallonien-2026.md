@@ -2,7 +2,7 @@
 layout: post
 title: "Stromrechnung senken: Wallonien 2026"
 date: 2026-07-28 10:00:00 +0200
-last_modified_at: 2026-10-18 10:00:00 +0200
+last_modified_at: 2026-10-26 06:00:00 +0100
 author: "Eric, OptimCE"
 excerpt: "Offizieller Vergleichsrechner, neuer Impact-Tarif, Sozialtarif, Prämienfrist am 30. September, Eigenverbrauch und Energieteilung: zehn wallonische Hebel, berechnet auf Grundlage der von der CWaPE genehmigten ORES-Tarifliste 2026. Sechs davon kosten nichts. Für jeden Hebel die realistische Jahresersparnis, die Bedingung und die Vorlaufzeit."
 description: "Zehn konkrete, belegte Hebel zur Senkung der Stromrechnung in Wallonien 2026 — vom offiziellen Vergleichsrechner bis zur Energieteilung."
@@ -108,7 +108,7 @@ Vier Vorsichtsmaßnahmen vor dem Wechsel:
 - **Verwechseln Sie die beiden Raster nicht.** Die Zeitfenster von Zweitarif und Impact-Tarif unterscheiden sich: 22 bis 1 Uhr ist im Zweitarif Schwachlast, im Impact-Tarif dagegen MEDIUM.
 - **Zugangsbedingungen für den Impact-Tarif**: ein Anschluss von höchstens 56 kVA und ein intelligenter Zähler mit aktivierter Kommunikationsfunktion — daher der nächste Hebel.
 
-Die CWaPE stellt unter [tarifimpact.be](https://www.tarifimpact.be/) einen Simulator und einen Eignungstest bereit. Der Wechsel wird **bei Ihrem Lieferanten** beantragt, nicht beim Netzbetreiber.
+Die CWaPE stellt unter [tarifimpact.be](https://www.tarifimpact.be/) einen Simulator und einen Eignungstest bereit. Der Wechsel wird **bei Ihrem Lieferanten** beantragt, nicht beim Netzbetreiber. Wenn Sie an einem Energieteilen teilnehmen: Was der Impact-Tarif an jeder geteilten Kilowattstunde ändert, rechnet [„Impact-Tarif und Energiegemeinschaft“](/de/ratgeber/impact-tarif-energiegemeinschaft/) vor.
 
 ## 4. Die Aktivierung des intelligenten Zählers beantragen
 

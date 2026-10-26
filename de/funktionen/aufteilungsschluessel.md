@@ -39,7 +39,7 @@ Prozentsatz der verfügbaren Energie, zum Beispiel anteilig zum tatsächlichen V
 Einzelnen, bis 100 % erreicht sind. Eine Prüfseite zeigt Ihnen das vollständige Raster, bevor Sie
 den Schlüssel speichern.
 
-{% include product-shot.html name="key-wizard" alt="Prüfraster eines mit dem Assistenten erstellten Schlüssels in der englischen Oberfläche: eine erste Iteration mit 70 % und eine zweite mit 30 % der Energie, jeweils anteilig („Pro rata“) auf drei Verbraucher, Cons1 bis Cons3, verteilt." caption="Ein Schlüssel in zwei anteiligen Iterationen, vor dem Speichern geprüft (Testdaten, englische Oberfläche)." %}
+{% include product-shot.html name="key-wizard" alt="Prüfraster eines mit dem Assistenten erstellten Schlüssels: eine erste Iteration mit 70 % und eine zweite mit 30 % der Energie, jeweils anteilig („Pro-rata“) auf drei Verbraucher, Cons1 bis Cons3, verteilt." caption="Ein Schlüssel in zwei anteiligen Iterationen, vor dem Speichern geprüft (Testdaten)." %}
 
 ### Einen Kandidatenschlüssel generieren
 
@@ -61,7 +61,7 @@ berechneten Schlüssel, jeder mit dem Detail seiner Aufteilung je Iteration. Den
 speichern Sie anschließend in Ihren Aufteilungsschlüsseln. Das Generierungsmodul wird unter den
 Zusatzdiensten der Gemeinschaft aktiviert.
 
-{% include product-shot.html name="key-generation" alt="Formular „Start a generation“ in der englischen Oberfläche: Der Algorithmus „Linear Optimization and Genetic Algorithm with Atypical Speciation“ ist ausgewählt, dazu der Name der Generierung, die Einspeisespalte „Production“ und das Feld zum Hochladen der Datendatei." caption="Der Start einer Generierung: Algorithmus, Erzeugungsspalte und Datendatei (Testdaten, englische Oberfläche)." %}
+{% include product-shot.html name="key-generation" alt="Formular „Generierung starten“: Der Algorithmus „Lineare Optimierung und genetischer Algorithmus mit atypischer Speziation“ ist ausgewählt, die Verbrauchsdaten kommen aus einer importierten Datei, dazu der Name der Generierung und die Einspeisespalte „Production“." caption="Der Start einer Generierung: Algorithmus, Erzeugungsspalte und Datendatei (Testdaten)." %}
 
 ### Einen Schlüssel auf Ihren Daten simulieren
 

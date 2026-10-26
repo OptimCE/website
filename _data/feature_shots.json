@@ -1,34 +1,146 @@
 {
   "billing-tariffs": {
-    "width": 1030,
-    "height": 450
+    "fr": {
+      "width": 1030,
+      "height": 450
+    },
+    "en": {
+      "width": 1030,
+      "height": 450
+    },
+    "de": {
+      "width": 1030,
+      "height": 450
+    },
+    "nl": {
+      "width": 1030,
+      "height": 450
+    }
   },
   "billing-member": {
-    "width": 810,
-    "height": 330
+    "fr": {
+      "width": 810,
+      "height": 330
+    },
+    "en": {
+      "width": 810,
+      "height": 330
+    },
+    "de": {
+      "width": 810,
+      "height": 420
+    },
+    "nl": {
+      "width": 810,
+      "height": 420
+    }
   },
   "cwape-dossier": {
-    "width": 1050,
-    "height": 560
+    "fr": {
+      "width": 1050,
+      "height": 560
+    },
+    "en": {
+      "width": 1050,
+      "height": 560
+    },
+    "de": {
+      "width": 1050,
+      "height": 560
+    },
+    "nl": {
+      "width": 1050,
+      "height": 560
+    }
   },
   "cwape-deadlines": {
-    "width": 1030,
-    "height": 540
+    "fr": {
+      "width": 1030,
+      "height": 540
+    },
+    "en": {
+      "width": 1030,
+      "height": 540
+    },
+    "de": {
+      "width": 1030,
+      "height": 540
+    },
+    "nl": {
+      "width": 1030,
+      "height": 540
+    }
   },
   "key-generation": {
-    "width": 1290,
-    "height": 520
+    "fr": {
+      "width": 1290,
+      "height": 520
+    },
+    "en": {
+      "width": 1290,
+      "height": 520
+    },
+    "de": {
+      "width": 1290,
+      "height": 520
+    },
+    "nl": {
+      "width": 1290,
+      "height": 520
+    }
   },
   "key-wizard": {
-    "width": 1290,
-    "height": 565
+    "fr": {
+      "width": 1290,
+      "height": 565
+    },
+    "en": {
+      "width": 1290,
+      "height": 565
+    },
+    "de": {
+      "width": 1290,
+      "height": 565
+    },
+    "nl": {
+      "width": 1290,
+      "height": 565
+    }
   },
   "start-dashboard": {
-    "width": 1040,
-    "height": 560
+    "fr": {
+      "width": 1040,
+      "height": 560
+    },
+    "en": {
+      "width": 1040,
+      "height": 560
+    },
+    "de": {
+      "width": 1040,
+      "height": 560
+    },
+    "nl": {
+      "width": 1040,
+      "height": 560
+    }
   },
   "start-member": {
-    "width": 840,
-    "height": 425
+    "fr": {
+      "width": 840,
+      "height": 425
+    },
+    "en": {
+      "width": 840,
+      "height": 425
+    },
+    "de": {
+      "width": 940,
+      "height": 425
+    },
+    "nl": {
+      "width": 940,
+      "height": 425
+    }
   }
 }
