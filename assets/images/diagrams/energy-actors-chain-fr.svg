@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520" role="img" aria-labelledby="t d">
+<title id="t">Qui fait quoi, de la centrale à votre compteur</title><desc id="d">Schéma en deux rangées. La première suit le courant : la production (centrales, éoliennes, panneaux solaires), le transport par Elia à haute tension (Fluxys pour le gaz), la distribution par votre GRD (ORES, RESA, Sibelga, Fluvius…), imposé par votre adresse, puis votre logement, avec son compteur et son code EAN. La seconde suit le contrat et l'argent : vous payez une seule facture au fournisseur, que vous choisissez ; il garde l'énergie et sa marge, reverse les frais de réseau au GRD et à Elia, et les taxes et la TVA aux pouvoirs publics. Le GRD relève votre compteur et transmet vos volumes au fournisseur. Une bande indique les régulateurs : la CREG pour le transport, au niveau fédéral ; la CWaPE, Brugel et le VREG pour la distribution, dans les régions.</desc>
+<rect width="800" height="520" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="46" y="46" font-size="21" fill="#212529" font-weight="700" text-anchor="start">Qui fait quoi, de la centrale à votre compteur</text>
+<text x="46" y="72" font-size="13.5" fill="#495057" font-weight="400" text-anchor="start">Le courant suit le réseau ; le contrat et l'argent passent par le fournisseur</text>
+<text x="46" y="112" font-size="11.5" fill="#495057" font-weight="700" text-anchor="start">Le chemin du courant</text>
+<rect x="46" y="122" width="156" height="92" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<path d="M46 132 a10 10 0 0 1 10 -10 h136 a10 10 0 0 1 10 10 v24 h-156 z" fill="#2e7d32"/>
+<text x="58" y="145" font-size="14.5" fill="#FFFFFF" font-weight="700" text-anchor="start">Production</text>
+<text x="58" y="178" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Centrales, éoliennes,</text>
+<text x="58" y="197" font-size="13" fill="#212529" font-weight="400" text-anchor="start">panneaux solaires</text>
+<path d="M206 174 H226 m-6 -5 l6 5 l-6 5" fill="none" stroke="#868E96" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="230" y="122" width="156" height="92" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<path d="M230 132 a10 10 0 0 1 10 -10 h136 a10 10 0 0 1 10 10 v24 h-156 z" fill="#2e7d32"/>
+<text x="242" y="145" font-size="14.5" fill="#FFFFFF" font-weight="700" text-anchor="start">Transport</text>
+<text x="242" y="178" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Elia, haute tension</text>
+<text x="242" y="197" font-size="13" fill="#212529" font-weight="400" text-anchor="start">(gaz : Fluxys)</text>
+<path d="M390 174 H410 m-6 -5 l6 5 l-6 5" fill="none" stroke="#868E96" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="414" y="122" width="156" height="92" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<path d="M414 132 a10 10 0 0 1 10 -10 h136 a10 10 0 0 1 10 10 v24 h-156 z" fill="#1b5e20"/>
+<text x="426" y="145" font-size="14.5" fill="#FFFFFF" font-weight="700" text-anchor="start">Distribution</text>
+<text x="426" y="178" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Votre GRD : ORES,</text>
+<text x="426" y="197" font-size="13" fill="#212529" font-weight="400" text-anchor="start">RESA, Sibelga, Fluvius…</text>
+<path d="M574 174 H594 m-6 -5 l6 5 l-6 5" fill="none" stroke="#868E96" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="598" y="122" width="156" height="92" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<path d="M598 132 a10 10 0 0 1 10 -10 h136 a10 10 0 0 1 10 10 v24 h-156 z" fill="#2e7d32"/>
+<text x="610" y="145" font-size="14.5" fill="#FFFFFF" font-weight="700" text-anchor="start">Votre logement</text>
+<text x="610" y="178" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Compteur et</text>
+<text x="610" y="197" font-size="13" fill="#212529" font-weight="400" text-anchor="start">code EAN</text>
+<text x="492" y="232" font-size="11.5" fill="#1b5e20" font-weight="700" text-anchor="middle">Imposé par votre adresse</text>
+<text x="46" y="268" font-size="11.5" fill="#495057" font-weight="700" text-anchor="start">Le chemin du contrat et de l'argent</text>
+<rect x="46" y="290" width="156" height="96" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<path d="M46 300 a10 10 0 0 1 10 -10 h136 a10 10 0 0 1 10 10 v24 h-156 z" fill="#495057"/>
+<text x="58" y="313" font-size="14.5" fill="#FFFFFF" font-weight="700" text-anchor="start">Vous</text>
+<text x="58" y="346" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Une seule facture,</text>
+<text x="58" y="365" font-size="13" fill="#212529" font-weight="400" text-anchor="start">un seul interlocuteur</text>
+<path d="M206 344 H226 m-6 -5 l6 5 l-6 5" fill="none" stroke="#868E96" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="230" y="278" width="220" height="120" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<path d="M230 288 a10 10 0 0 1 10 -10 h200 a10 10 0 0 1 10 10 v24 h-220 z" fill="#2e7d32"/>
+<text x="242" y="301" font-size="14.5" fill="#FFFFFF" font-weight="700" text-anchor="start">Le fournisseur</text>
+<text x="242" y="334" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Choisi par vous</text>
+<text x="242" y="353" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Contrat et prix de l'énergie</text>
+<text x="242" y="372" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Encaisse toute la facture</text>
+<path d="M450 338 H462 M462 300 V376" fill="none" stroke="#868E96" stroke-width="1.6"/>
+<path d="M462 300 H476 m-6 -5 l6 5 l-6 5" fill="none" stroke="#868E96" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="480" y="284" width="274" height="32" rx="6" fill="#F8F9FA" stroke="#DEE2E6" stroke-width="1"/>
+<text x="492" y="305" font-size="12.5" fill="#212529" font-weight="400" text-anchor="start">Énergie et marge : il les garde</text>
+<path d="M462 338 H476 m-6 -5 l6 5 l-6 5" fill="none" stroke="#868E96" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="480" y="322" width="274" height="32" rx="6" fill="#F8F9FA" stroke="#DEE2E6" stroke-width="1"/>
+<text x="492" y="343" font-size="12.5" fill="#212529" font-weight="400" text-anchor="start">Frais de réseau : reversés au GRD et à Elia</text>
+<path d="M462 376 H476 m-6 -5 l6 5 l-6 5" fill="none" stroke="#868E96" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="480" y="360" width="274" height="32" rx="6" fill="#F8F9FA" stroke="#DEE2E6" stroke-width="1"/>
+<text x="492" y="381" font-size="12.5" fill="#212529" font-weight="400" text-anchor="start">Taxes et TVA : reversées aux pouvoirs publics</text>
+<text x="46" y="428" font-size="12.5" fill="#495057" font-weight="400" text-anchor="start">Le GRD relève votre compteur et transmet vos volumes au fournisseur, qui les facture.</text>
+<rect x="46" y="452" width="708" height="34" rx="8" fill="#E8F5E9"/>
+<text x="58" y="474" font-size="12.5" fill="#1b5e20" font-weight="700" text-anchor="start">Contrôle : CREG pour le transport (fédéral) · CWaPE, Brugel, VREG pour la distribution (régions)</text>
+<text x="46" y="508" font-size="11.5" fill="#868E96" font-weight="400" text-anchor="start">Sources : CWaPE, CREG, ORES, Fluxys</text>
+</g>
+</svg>

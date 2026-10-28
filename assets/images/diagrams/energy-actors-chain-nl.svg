@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520" role="img" aria-labelledby="t d">
+<title id="t">Wie doet wat, van centrale tot meter</title><desc id="d">Schema in twee rijen. De eerste volgt de stroom: de productie (centrales, windturbines, zonnepanelen), de transmissie door Elia op hoogspanning (Fluxys voor aardgas), de distributie door uw netbeheerder (Fluvius, Sibelga, ORES, RESA…), bepaald door uw adres, en dan uw woning, met meter en EAN-code. De tweede volgt het contract en het geld: u betaalt één factuur aan de leverancier, die u kiest; hij houdt de energie en zijn marge, stort de nettarieven door aan de netbeheerder en Elia, en de belastingen en btw aan de overheid. De netbeheerder leest uw meter af en bezorgt uw volumes aan de leverancier. Een band toont de regulatoren: de CREG voor de transmissie, op federaal niveau; de VREG, BRUGEL en de CWaPE voor de distributie, in de gewesten.</desc>
+<rect width="800" height="520" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="46" y="46" font-size="21" fill="#212529" font-weight="700" text-anchor="start">Wie doet wat, van centrale tot meter</text>
+<text x="46" y="72" font-size="13.5" fill="#495057" font-weight="400" text-anchor="start">De stroom volgt het net; contract en geld lopen via de leverancier</text>
+<text x="46" y="112" font-size="11.5" fill="#495057" font-weight="700" text-anchor="start">De weg van de stroom</text>
+<rect x="46" y="122" width="156" height="92" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<path d="M46 132 a10 10 0 0 1 10 -10 h136 a10 10 0 0 1 10 10 v24 h-156 z" fill="#2e7d32"/>
+<text x="58" y="145" font-size="14.5" fill="#FFFFFF" font-weight="700" text-anchor="start">Productie</text>
+<text x="58" y="178" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Centrales, windturbines</text>
+<text x="58" y="197" font-size="13" fill="#212529" font-weight="400" text-anchor="start">en zonnepanelen</text>
+<path d="M206 174 H226 m-6 -5 l6 5 l-6 5" fill="none" stroke="#868E96" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="230" y="122" width="156" height="92" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<path d="M230 132 a10 10 0 0 1 10 -10 h136 a10 10 0 0 1 10 10 v24 h-156 z" fill="#2e7d32"/>
+<text x="242" y="145" font-size="14.5" fill="#FFFFFF" font-weight="700" text-anchor="start">Transmissie</text>
+<text x="242" y="178" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Elia, hoogspanning</text>
+<text x="242" y="197" font-size="13" fill="#212529" font-weight="400" text-anchor="start">(aardgas: Fluxys)</text>
+<path d="M390 174 H410 m-6 -5 l6 5 l-6 5" fill="none" stroke="#868E96" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="414" y="122" width="156" height="92" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<path d="M414 132 a10 10 0 0 1 10 -10 h136 a10 10 0 0 1 10 10 v24 h-156 z" fill="#1b5e20"/>
+<text x="426" y="145" font-size="14.5" fill="#FFFFFF" font-weight="700" text-anchor="start">Distributie</text>
+<text x="426" y="178" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Netbeheerder: Fluvius,</text>
+<text x="426" y="197" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Sibelga, ORES, RESA…</text>
+<path d="M574 174 H594 m-6 -5 l6 5 l-6 5" fill="none" stroke="#868E96" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="598" y="122" width="156" height="92" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<path d="M598 132 a10 10 0 0 1 10 -10 h136 a10 10 0 0 1 10 10 v24 h-156 z" fill="#2e7d32"/>
+<text x="610" y="145" font-size="14.5" fill="#FFFFFF" font-weight="700" text-anchor="start">Uw woning</text>
+<text x="610" y="178" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Meter en</text>
+<text x="610" y="197" font-size="13" fill="#212529" font-weight="400" text-anchor="start">EAN-code</text>
+<text x="492" y="232" font-size="11.5" fill="#1b5e20" font-weight="700" text-anchor="middle">Bepaald door uw adres</text>
+<text x="46" y="268" font-size="11.5" fill="#495057" font-weight="700" text-anchor="start">De weg van contract en geld</text>
+<rect x="46" y="290" width="156" height="96" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<path d="M46 300 a10 10 0 0 1 10 -10 h136 a10 10 0 0 1 10 10 v24 h-156 z" fill="#495057"/>
+<text x="58" y="313" font-size="14.5" fill="#FFFFFF" font-weight="700" text-anchor="start">U</text>
+<text x="58" y="346" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Eén factuur,</text>
+<text x="58" y="365" font-size="13" fill="#212529" font-weight="400" text-anchor="start">één aanspreekpunt</text>
+<path d="M206 344 H226 m-6 -5 l6 5 l-6 5" fill="none" stroke="#868E96" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="230" y="278" width="220" height="120" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<path d="M230 288 a10 10 0 0 1 10 -10 h200 a10 10 0 0 1 10 10 v24 h-220 z" fill="#2e7d32"/>
+<text x="242" y="301" font-size="14.5" fill="#FFFFFF" font-weight="700" text-anchor="start">De leverancier</text>
+<text x="242" y="334" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Door u gekozen</text>
+<text x="242" y="353" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Contract en energieprijs</text>
+<text x="242" y="372" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Int de hele factuur</text>
+<path d="M450 338 H462 M462 300 V376" fill="none" stroke="#868E96" stroke-width="1.6"/>
+<path d="M462 300 H476 m-6 -5 l6 5 l-6 5" fill="none" stroke="#868E96" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="480" y="284" width="274" height="32" rx="6" fill="#F8F9FA" stroke="#DEE2E6" stroke-width="1"/>
+<text x="492" y="305" font-size="12.5" fill="#212529" font-weight="400" text-anchor="start">Energie en marge: houdt hij</text>
+<path d="M462 338 H476 m-6 -5 l6 5 l-6 5" fill="none" stroke="#868E96" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="480" y="322" width="274" height="32" rx="6" fill="#F8F9FA" stroke="#DEE2E6" stroke-width="1"/>
+<text x="492" y="343" font-size="12.5" fill="#212529" font-weight="400" text-anchor="start">Nettarieven: naar netbeheerder en Elia</text>
+<path d="M462 376 H476 m-6 -5 l6 5 l-6 5" fill="none" stroke="#868E96" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="480" y="360" width="274" height="32" rx="6" fill="#F8F9FA" stroke="#DEE2E6" stroke-width="1"/>
+<text x="492" y="381" font-size="12.5" fill="#212529" font-weight="400" text-anchor="start">Belastingen en btw: naar de overheid</text>
+<text x="46" y="428" font-size="12.5" fill="#495057" font-weight="400" text-anchor="start">De netbeheerder leest uw meter af en bezorgt uw volumes aan de leverancier, die ze factureert.</text>
+<rect x="46" y="452" width="708" height="34" rx="8" fill="#E8F5E9"/>
+<text x="58" y="474" font-size="12.5" fill="#1b5e20" font-weight="700" text-anchor="start">Toezicht: CREG voor transmissie (federaal) · VREG, BRUGEL, CWaPE voor distributie (gewesten)</text>
+<text x="46" y="508" font-size="11.5" fill="#868E96" font-weight="400" text-anchor="start">Bronnen: CWaPE, CREG, ORES, Fluxys</text>
+</g>
+</svg>

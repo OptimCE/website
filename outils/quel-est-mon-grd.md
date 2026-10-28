@@ -12,7 +12,7 @@ tool_page: true
 tool: dso
 tool_order: 1
 date_published: 2026-10-18
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 faq:
   - q: "Comment savoir quel est mon GRD ?"
     a: "Entrez votre code postal dans l'outil en haut de cette page : il affiche le gestionnaire de réseau d'électricité et celui du gaz de votre commune. Si le code postal couvre plusieurs communes, ou si le gestionnaire change d'une section de commune à l'autre, l'outil vous demande de préciser. Pour vérifier, regardez votre facture de décompte d'électricité : pour un ménage, elle donne le nom et le numéro de téléphone du gestionnaire de réseau à appeler en cas de panne."
@@ -215,6 +215,10 @@ Le guide [« Lire sa facture d'électricité ligne par ligne »]({{ 'read-electr
 décode le reste de la facture, et le guide
 [« Code EAN électricité : où le trouver et l'utiliser »]({{ 'ean-code-belgium' | ref_url }})
 explique où retrouver le code sans facture et à qui le donner.
+
+Qui appeler pour quoi, ce que chacun pèse sur la facture et quand le GRD devient lui-même fournisseur : le guide
+[« Différence GRD et fournisseur : qui fait quoi ? »]({{ 'dso-supplier-roles' | ref_url }})
+reprend chaque acteur en détail.
 
 ## Votre GRD et le partage d'énergie
 

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520" role="img" aria-labelledby="t d">
+<title id="t">Who does what, from power plant to meter</title><desc id="d">Diagram in two rows. The first follows the power: generation (power plants, wind turbines, solar panels), transmission by Elia at high voltage (Fluxys for gas), distribution by your DSO (ORES, RESA, Sibelga, Fluvius…), set by your address, then your home, with its meter and EAN code. The second follows the contract and the money: you pay a single bill to the supplier, which you choose; it keeps the energy and its margin, passes network costs on to the DSO and Elia, and taxes and VAT to the public authorities. The DSO reads your meter and sends your volumes to the supplier. A band shows the regulators: the CREG for transmission, at federal level; the CWaPE, BRUGEL and the VREG for distribution, in the regions.</desc>
+<rect width="800" height="520" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="46" y="46" font-size="21" fill="#212529" font-weight="700" text-anchor="start">Who does what, from power plant to meter</text>
+<text x="46" y="72" font-size="13.5" fill="#495057" font-weight="400" text-anchor="start">Power follows the grid; the contract and the money go through the supplier</text>
+<text x="46" y="112" font-size="11.5" fill="#495057" font-weight="700" text-anchor="start">The path of the power</text>
+<rect x="46" y="122" width="156" height="92" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<path d="M46 132 a10 10 0 0 1 10 -10 h136 a10 10 0 0 1 10 10 v24 h-156 z" fill="#2e7d32"/>
+<text x="58" y="145" font-size="14.5" fill="#FFFFFF" font-weight="700" text-anchor="start">Generation</text>
+<text x="58" y="178" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Power plants, wind</text>
+<text x="58" y="197" font-size="13" fill="#212529" font-weight="400" text-anchor="start">turbines, solar panels</text>
+<path d="M206 174 H226 m-6 -5 l6 5 l-6 5" fill="none" stroke="#868E96" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="230" y="122" width="156" height="92" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<path d="M230 132 a10 10 0 0 1 10 -10 h136 a10 10 0 0 1 10 10 v24 h-156 z" fill="#2e7d32"/>
+<text x="242" y="145" font-size="14.5" fill="#FFFFFF" font-weight="700" text-anchor="start">Transmission</text>
+<text x="242" y="178" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Elia, high voltage</text>
+<text x="242" y="197" font-size="13" fill="#212529" font-weight="400" text-anchor="start">(gas: Fluxys)</text>
+<path d="M390 174 H410 m-6 -5 l6 5 l-6 5" fill="none" stroke="#868E96" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="414" y="122" width="156" height="92" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<path d="M414 132 a10 10 0 0 1 10 -10 h136 a10 10 0 0 1 10 10 v24 h-156 z" fill="#1b5e20"/>
+<text x="426" y="145" font-size="14.5" fill="#FFFFFF" font-weight="700" text-anchor="start">Distribution</text>
+<text x="426" y="178" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Your DSO: ORES,</text>
+<text x="426" y="197" font-size="13" fill="#212529" font-weight="400" text-anchor="start">RESA, Sibelga, Fluvius…</text>
+<path d="M574 174 H594 m-6 -5 l6 5 l-6 5" fill="none" stroke="#868E96" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="598" y="122" width="156" height="92" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<path d="M598 132 a10 10 0 0 1 10 -10 h136 a10 10 0 0 1 10 10 v24 h-156 z" fill="#2e7d32"/>
+<text x="610" y="145" font-size="14.5" fill="#FFFFFF" font-weight="700" text-anchor="start">Your home</text>
+<text x="610" y="178" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Meter and</text>
+<text x="610" y="197" font-size="13" fill="#212529" font-weight="400" text-anchor="start">EAN code</text>
+<text x="492" y="232" font-size="11.5" fill="#1b5e20" font-weight="700" text-anchor="middle">Set by your address</text>
+<text x="46" y="268" font-size="11.5" fill="#495057" font-weight="700" text-anchor="start">The path of the contract and the money</text>
+<rect x="46" y="290" width="156" height="96" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<path d="M46 300 a10 10 0 0 1 10 -10 h136 a10 10 0 0 1 10 10 v24 h-156 z" fill="#495057"/>
+<text x="58" y="313" font-size="14.5" fill="#FFFFFF" font-weight="700" text-anchor="start">You</text>
+<text x="58" y="346" font-size="13" fill="#212529" font-weight="400" text-anchor="start">One bill,</text>
+<text x="58" y="365" font-size="13" fill="#212529" font-weight="400" text-anchor="start">one point of contact</text>
+<path d="M206 344 H226 m-6 -5 l6 5 l-6 5" fill="none" stroke="#868E96" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="230" y="278" width="220" height="120" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<path d="M230 288 a10 10 0 0 1 10 -10 h200 a10 10 0 0 1 10 10 v24 h-220 z" fill="#2e7d32"/>
+<text x="242" y="301" font-size="14.5" fill="#FFFFFF" font-weight="700" text-anchor="start">The supplier</text>
+<text x="242" y="334" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Chosen by you</text>
+<text x="242" y="353" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Contract and energy price</text>
+<text x="242" y="372" font-size="13" fill="#212529" font-weight="400" text-anchor="start">Collects the whole bill</text>
+<path d="M450 338 H462 M462 300 V376" fill="none" stroke="#868E96" stroke-width="1.6"/>
+<path d="M462 300 H476 m-6 -5 l6 5 l-6 5" fill="none" stroke="#868E96" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="480" y="284" width="274" height="32" rx="6" fill="#F8F9FA" stroke="#DEE2E6" stroke-width="1"/>
+<text x="492" y="305" font-size="12.5" fill="#212529" font-weight="400" text-anchor="start">Energy and margin: it keeps them</text>
+<path d="M462 338 H476 m-6 -5 l6 5 l-6 5" fill="none" stroke="#868E96" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="480" y="322" width="274" height="32" rx="6" fill="#F8F9FA" stroke="#DEE2E6" stroke-width="1"/>
+<text x="492" y="343" font-size="12.5" fill="#212529" font-weight="400" text-anchor="start">Network costs: to the DSO and Elia</text>
+<path d="M462 376 H476 m-6 -5 l6 5 l-6 5" fill="none" stroke="#868E96" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="480" y="360" width="274" height="32" rx="6" fill="#F8F9FA" stroke="#DEE2E6" stroke-width="1"/>
+<text x="492" y="381" font-size="12.5" fill="#212529" font-weight="400" text-anchor="start">Taxes and VAT: to the public authorities</text>
+<text x="46" y="428" font-size="12.5" fill="#495057" font-weight="400" text-anchor="start">The DSO reads your meter and sends your volumes to the supplier, which bills them.</text>
+<rect x="46" y="452" width="708" height="34" rx="8" fill="#E8F5E9"/>
+<text x="58" y="474" font-size="12.5" fill="#1b5e20" font-weight="700" text-anchor="start">Oversight: CREG for transmission (federal) · CWaPE, BRUGEL, VREG for distribution (regions)</text>
+<text x="46" y="508" font-size="11.5" fill="#868E96" font-weight="400" text-anchor="start">Sources: CWaPE, CREG, ORES, Fluxys</text>
+</g>
+</svg>
