@@ -10,7 +10,7 @@ lang: fr
 ref: create-energy-community-wallonia
 pillar: communautes-energie
 permalink: /guides/creer-communaute-energie-wallonie/
-last_modified_at: 2026-10-22 10:00:00 +0200
+last_modified_at: 2026-11-04 06:00:00 +0100
 ---
 
 La Wallonie est, à ce jour, la région belge où les communautés d'énergie se déploient le plus rapidement. Cadre légal stabilisé depuis 2022, formulaire-type publié par la CWaPE, gestionnaires de réseau outillés : tous les ingrédients sont réunis pour qu'un groupe de citoyens, une commune, une école ou un parc d'entreprises lance son propre partage d'énergie. Ce guide décrit, pas à pas, **la procédure complète** : du choix du type de communauté à la mise en service du partage avec votre gestionnaire de réseau de distribution (GRD). Si vous n'êtes pas encore familier avec la notion même de communauté d'énergie, commencez par notre article [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/guides/communautes-energie-belgique/) — il pose le vocabulaire repris ici.
@@ -66,9 +66,9 @@ C'est l'étape la plus longue, mais aussi celle qui détermine la solidité de l
 Une communauté d'énergie est **obligatoirement une personne morale**. En Wallonie, deux formes dominent :
 
 - **L'ASBL (association sans but lucratif)** — adaptée aux projets citoyens, écoles, communes ; gouvernance souple, pas de capital minimum.
-- **La coopérative (SCRL/SC)** — adaptée quand l'investissement (panneaux, raccordement) est porté par les membres ; permet de rémunérer les parts.
+- **La coopérative (SC)** — adaptée quand l'investissement (panneaux, raccordement) est porté par les membres ; permet de rémunérer les parts, dans les limites des statuts et, le cas échéant, de l'agrément.
 
-Plus rarement, une fondation ou une intercommunale peut porter la communauté. Le choix dépend de **qui investit, qui décide et comment les bénéfices reviennent aux membres**. Le guide [« Comment mettre en place une communauté d'énergie en Wallonie »](https://energieplus-lesite.be/webinaire/comment-mettre-en-place-une-communaute-denergie-en-wallonie/) d'Énergie+ détaille les arbitrages.
+La CWaPE juge la SA et la SRL inadaptées et exclut la fondation, qui n'a pas de membres. Le choix dépend de **qui investit, qui décide et comment les bénéfices reviennent aux membres**. Notre guide [« Communauté d'énergie : ASBL ou coopérative ? »](/guides/communaute-energie-asbl-ou-cooperative/) compare les deux formes, et le guide [« Comment mettre en place une communauté d'énergie en Wallonie »](https://energieplus-lesite.be/webinaire/comment-mettre-en-place-une-communaute-denergie-en-wallonie/) d'Énergie+ détaille les arbitrages.
 
 ### Désigner le représentant
 

@@ -9,7 +9,7 @@ tags: [community, administrative, guide]
 lang: de
 ref: create-energy-community-wallonia
 pillar: communautes-energie
-last_modified_at: 2026-10-22 10:00:00 +0200
+last_modified_at: 2026-11-04 06:00:00 +0100
 permalink: /de/ratgeber/energiegemeinschaft-gruenden-wallonien/
 ---
 
@@ -66,9 +66,9 @@ Dies ist der längste Schritt, aber auch derjenige, der die Belastbarkeit der Ge
 Eine Energiegemeinschaft ist **zwingend eine juristische Person**. In der Wallonie dominieren zwei Formen:
 
 - **Die VoG (Vereinigung ohne Gewinnerzielungsabsicht / ASBL)** — geeignet für Bürgerprojekte, Schulen, Gemeinden; flexible Governance, kein Mindestkapital.
-- **Die Genossenschaft (SCRL/SC)** — geeignet, wenn die Investition (Module, Netzanschluss) von den Mitgliedern getragen wird; ermöglicht eine Vergütung der Anteile.
+- **Die Genossenschaft (SC)** — geeignet, wenn die Investition (Module, Netzanschluss) von den Mitgliedern getragen wird; ermöglicht eine Vergütung der Anteile, in den Grenzen der Satzung und gegebenenfalls der Zulassung.
 
-Seltener kann eine Stiftung oder ein Interkommunale-Verband die Gemeinschaft tragen. Die Wahl hängt davon ab, **wer investiert, wer entscheidet und wie Vorteile an die Mitglieder zurückfließen**. Der Leitfaden [„Wie eine Energiegemeinschaft in der Wallonie aufgesetzt wird“](https://energieplus-lesite.be/webinaire/comment-mettre-en-place-une-communaute-denergie-en-wallonie/) von Énergie+ erläutert die Abwägungen.
+Die CWaPE hält AG und BV für ungeeignet und schließt die Stiftung aus, die keine Mitglieder hat. Die Wahl hängt davon ab, **wer investiert, wer entscheidet und wie Vorteile an die Mitglieder zurückfließen**. Unser Ratgeber [„Energiegemeinschaft: VoG oder Genossenschaft?“](/de/ratgeber/energiegemeinschaft-vog-oder-genossenschaft/) vergleicht beide Formen, und der Leitfaden [„Wie eine Energiegemeinschaft in der Wallonie aufgesetzt wird“](https://energieplus-lesite.be/webinaire/comment-mettre-en-place-une-communaute-denergie-en-wallonie/) von Énergie+ erläutert die Abwägungen.
 
 ### Den Vertreter benennen
 

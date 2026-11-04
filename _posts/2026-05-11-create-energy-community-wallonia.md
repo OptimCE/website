@@ -9,7 +9,7 @@ tags: [community, administrative, guide]
 lang: en
 ref: create-energy-community-wallonia
 pillar: communautes-energie
-last_modified_at: 2026-10-22 10:00:00 +0200
+last_modified_at: 2026-11-04 06:00:00 +0100
 permalink: /en/guides/create-energy-community-wallonia/
 ---
 
@@ -66,9 +66,9 @@ This is the longest step, but it's also the one that determines the community's 
 An energy community is **mandatorily a legal entity**. In Wallonia, two forms dominate:
 
 - **The non-profit association (ASBL)** — fits citizen projects, schools, municipalities; flexible governance, no minimum capital.
-- **The cooperative (SCRL/SC)** — fits when investment (panels, connection) is borne by members; allows shares to be remunerated.
+- **The cooperative (SC)** — fits when investment (panels, connection) is borne by members; allows shares to be remunerated, within the limits of the statutes and, where relevant, accreditation.
 
-More rarely, a foundation or an inter-municipal entity can host the community. The choice depends on **who invests, who decides and how benefits flow back to members**. The guide [“How to set up an energy community in Wallonia”](https://energieplus-lesite.be/webinaire/comment-mettre-en-place-une-communaute-denergie-en-wallonie/) by Énergie+ details the trade-offs.
+The CWaPE considers the SA and SRL unsuitable and rules out the foundation, which has no members. The choice depends on **who invests, who decides and how benefits flow back to members**. Our guide [“Energy community: non-profit or cooperative?”](/en/guides/energy-community-non-profit-or-cooperative/) compares the two forms, and the guide [“How to set up an energy community in Wallonia”](https://energieplus-lesite.be/webinaire/comment-mettre-en-place-une-communaute-denergie-en-wallonie/) by Énergie+ details the trade-offs.
 
 ### Appoint the representative
 
