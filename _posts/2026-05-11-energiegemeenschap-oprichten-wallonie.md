@@ -9,7 +9,7 @@ tags: [community, administrative, guide]
 lang: nl
 ref: create-energy-community-wallonia
 pillar: communautes-energie
-last_modified_at: 2026-10-22 10:00:00 +0200
+last_modified_at: 2026-11-04 06:00:00 +0100
 permalink: /nl/gidsen/energiegemeenschap-oprichten-wallonie/
 ---
 
@@ -66,9 +66,9 @@ Dit is de langste stap, maar ook degene die de soliditeit van de gemeenschap bep
 Een energiegemeenschap is **verplicht een rechtspersoon**. In Wallonië domineren twee vormen:
 
 - **De vzw (vereniging zonder winstoogmerk)** — geschikt voor burgerprojecten, scholen, gemeenten; flexibele governance, geen minimumkapitaal.
-- **De coöperatie (CVBA/CV)** — geschikt wanneer de investering (panelen, aansluiting) door de leden wordt gedragen; maakt het mogelijk de aandelen te vergoeden.
+- **De coöperatie (cv)** — geschikt wanneer de investering (panelen, aansluiting) door de leden wordt gedragen; maakt het mogelijk de aandelen te vergoeden, binnen de grenzen van de statuten en, in voorkomend geval, van de erkenning.
 
-Zeldzamer kan een stichting of een intercommunale de gemeenschap dragen. De keuze hangt af van **wie investeert, wie beslist en hoe de voordelen terugvloeien naar de leden**. De gids [“Hoe een energiegemeenschap opzetten in Wallonië”](https://energieplus-lesite.be/webinaire/comment-mettre-en-place-une-communaute-denergie-en-wallonie/) van Énergie+ beschrijft de afwegingen.
+De CWaPE vindt de nv en de bv ongeschikt en sluit de stichting uit, die geen leden heeft. De keuze hangt af van **wie investeert, wie beslist en hoe de voordelen terugvloeien naar de leden**. Onze gids [“Energiegemeenschap: vzw of coöperatie?”](/nl/gidsen/energiegemeenschap-vzw-of-cooperatie/) vergelijkt beide vormen, en de gids [“Hoe een energiegemeenschap opzetten in Wallonië”](https://energieplus-lesite.be/webinaire/comment-mettre-en-place-une-communaute-denergie-en-wallonie/) van Énergie+ beschrijft de afwegingen.
 
 ### De vertegenwoordiger aanduiden
 
