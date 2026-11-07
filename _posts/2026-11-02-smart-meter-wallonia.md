@@ -8,7 +8,8 @@ description: "Smart meters in Wallonia: who gets one, how to request one from yo
 tags: [guide, community]
 lang: en
 ref: smart-meter-wallonia
-pillar: facture-electricite
+pillar: reseau-grd
+last_modified_at: 2026-11-06
 permalink: /en/guides/smart-meter-wallonia/
 faq:
   - q: "How do I request a smart meter in Wallonia?"

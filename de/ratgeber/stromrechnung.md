@@ -8,10 +8,10 @@ ref: pillar-facture-electricite
 pillar: facture-electricite
 permalink: /de/ratgeber/stromrechnung/
 breadcrumb_parent: guides
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-06
 sections:
   - title: "Die Stromrechnung verstehen"
-    refs: [why-electricity-bill-stays-high, read-electricity-bill-belgium, regularisation-bill-too-high, ean-code-belgium, dso-supplier-roles, smart-meter-wallonia]
+    refs: [why-electricity-bill-stays-high, read-electricity-bill-belgium, regularisation-bill-too-high]
   - title: "Die Stromrechnung senken"
     refs: [reduce-electricity-bill-wallonia-2026, choose-electricity-tariff-belgium, cheaper-electricity-without-switching-supplier, reduce-electricity-bill]
   - title: "Hilfen und Herkunft des Stroms"

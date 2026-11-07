@@ -8,7 +8,8 @@ description: "Différence GRD fournisseur : l'un gère le réseau, l'autre vend 
 tags: [guide]
 lang: fr
 ref: dso-supplier-roles
-pillar: facture-electricite
+pillar: reseau-grd
+last_modified_at: 2026-11-06
 permalink: /guides/difference-grd-fournisseur-elia/
 faq:
   - q: "Quelle est la différence entre le GRD et le fournisseur d'électricité ?"

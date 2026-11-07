@@ -8,10 +8,10 @@ ref: pillar-facture-electricite
 pillar: facture-electricite
 permalink: /guides/facture-electricite/
 breadcrumb_parent: guides
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-06
 sections:
   - title: "Comprendre sa facture"
-    refs: [why-electricity-bill-stays-high, read-electricity-bill-belgium, regularisation-bill-too-high, ean-code-belgium, dso-supplier-roles, smart-meter-wallonia]
+    refs: [why-electricity-bill-stays-high, read-electricity-bill-belgium, regularisation-bill-too-high]
   - title: "Réduire sa facture"
     refs: [reduce-electricity-bill-wallonia-2026, choose-electricity-tariff-belgium, cheaper-electricity-without-switching-supplier, reduce-electricity-bill]
   - title: "Aides et origine de l'électricité"

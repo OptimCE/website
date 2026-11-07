@@ -8,7 +8,8 @@ description: "Your electricity EAN code identifies your supply point, not your m
 tags: [guide]
 lang: en
 ref: ean-code-belgium
-pillar: facture-electricite
+pillar: reseau-grd
+last_modified_at: 2026-11-06
 permalink: /en/guides/ean-code-belgium-where-to-find/
 faq:
   - q: "Where can I find my electricity EAN code?"

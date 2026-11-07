@@ -8,7 +8,8 @@ description: "Verschil tussen netbeheerder en leverancier in België: de ene beh
 tags: [guide]
 lang: nl
 ref: dso-supplier-roles
-pillar: facture-electricite
+pillar: reseau-grd
+last_modified_at: 2026-11-06
 permalink: /nl/gidsen/netbeheerder-leverancier-elia-wie-doet-wat/
 faq:
   - q: "Wat is het verschil tussen de netbeheerder en de energieleverancier?"
