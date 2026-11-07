@@ -8,7 +8,8 @@ description: "De EAN-code elektriciteit duidt uw leveringspunt aan, niet uw mete
 tags: [guide]
 lang: nl
 ref: ean-code-belgium
-pillar: facture-electricite
+pillar: reseau-grd
+last_modified_at: 2026-11-06
 permalink: /nl/gidsen/ean-code-elektriciteit-vinden/
 faq:
   - q: "Waar vind ik mijn EAN-code voor elektriciteit?"

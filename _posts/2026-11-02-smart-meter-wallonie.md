@@ -8,7 +8,8 @@ description: "Smart Meter in der Wallonie: wer ihn bekommt, wie Sie ihn beim Net
 tags: [guide, community]
 lang: de
 ref: smart-meter-wallonia
-pillar: facture-electricite
+pillar: reseau-grd
+last_modified_at: 2026-11-06
 permalink: /de/ratgeber/smart-meter-wallonie/
 faq:
   - q: "Wie beantrage ich einen Smart Meter in der Wallonie?"

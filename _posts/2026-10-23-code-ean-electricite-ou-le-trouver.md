@@ -8,7 +8,8 @@ description: "Le code EAN électricité identifie votre point de fourniture. Où
 tags: [guide]
 lang: fr
 ref: ean-code-belgium
-pillar: facture-electricite
+pillar: reseau-grd
+last_modified_at: 2026-11-06
 permalink: /guides/code-ean-electricite-ou-le-trouver/
 faq:
   - q: "Où trouver mon code EAN d'électricité ?"

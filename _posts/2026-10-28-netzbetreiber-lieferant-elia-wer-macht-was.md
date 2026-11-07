@@ -8,7 +8,8 @@ description: "Unterschied zwischen Netzbetreiber und Lieferant in Belgien: der e
 tags: [guide]
 lang: de
 ref: dso-supplier-roles
-pillar: facture-electricite
+pillar: reseau-grd
+last_modified_at: 2026-11-06
 permalink: /de/ratgeber/netzbetreiber-lieferant-elia-wer-macht-was/
 faq:
   - q: "Was ist der Unterschied zwischen Netzbetreiber und Stromlieferant?"

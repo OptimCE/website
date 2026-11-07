@@ -8,7 +8,8 @@ description: "Der EAN-Code für Strom bezeichnet Ihre Lieferstelle, nicht den Z�
 tags: [guide]
 lang: de
 ref: ean-code-belgium
-pillar: facture-electricite
+pillar: reseau-grd
+last_modified_at: 2026-11-06
 permalink: /de/ratgeber/ean-code-strom-wo-finden/
 faq:
   - q: "Wo finde ich meinen EAN-Code für Strom?"

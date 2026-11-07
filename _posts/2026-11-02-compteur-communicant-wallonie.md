@@ -8,7 +8,8 @@ description: "Compteur communicant en Wallonie : qui le reçoit, comment le dema
 tags: [guide, community]
 lang: fr
 ref: smart-meter-wallonia
-pillar: facture-electricite
+pillar: reseau-grd
+last_modified_at: 2026-11-06
 permalink: /guides/compteur-communicant-wallonie/
 faq:
   - q: "Comment demander un compteur communicant en Wallonie ?"

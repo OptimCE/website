@@ -53,7 +53,17 @@
     nl: "Elektriciteitsfactuur"
   cta_communaute: true
   tags: []
-  categories: [facturation, marche, reseau, reglementaire]
+  categories: [facturation, marche, reglementaire]
+
+- key: reseau-grd
+  label:
+    fr: "Réseau et GRD"
+    en: "Grid and DSOs"
+    de: "Netz und Netzbetreiber"
+    nl: "Net en netbeheerders"
+  cta_communaute: true
+  tags: []
+  categories: [reseau]
 
 - key: solaire-surplus
   label:

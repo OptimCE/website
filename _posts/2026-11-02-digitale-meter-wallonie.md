@@ -8,7 +8,8 @@ description: "Digitale meter in Wallonië: wie hem krijgt, hoe u hem aanvraagt b
 tags: [guide, community]
 lang: nl
 ref: smart-meter-wallonia
-pillar: facture-electricite
+pillar: reseau-grd
+last_modified_at: 2026-11-06
 permalink: /nl/gidsen/digitale-meter-wallonie/
 faq:
   - q: "Hoe vraag ik een digitale meter aan in Wallonië?"

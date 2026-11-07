@@ -8,7 +8,8 @@ description: "The difference between DSO and supplier in Belgium: one runs the g
 tags: [guide]
 lang: en
 ref: dso-supplier-roles
-pillar: facture-electricite
+pillar: reseau-grd
+last_modified_at: 2026-11-06
 permalink: /en/guides/dso-vs-supplier-who-does-what-belgium/
 faq:
   - q: "What is the difference between a DSO and an electricity supplier?"
