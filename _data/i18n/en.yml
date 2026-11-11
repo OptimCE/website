@@ -88,8 +88,8 @@ modules:
           text: "Memberships, roles, bank details and documents for each member."
         - title: "Meters and map"
           text: "Every meter with its quarter-hour readings, as a list or on the map."
-        - title: "Public directory"
-          text: "Present your community so that new members can find it."
+        - title: "Community directory"
+          text: "Present your community to registered users looking near where they live."
     - name: "Sharing"
       items:
         - title: "Allocation keys"

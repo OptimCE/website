@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "May 2026 release: public registry and guide"
+title: "May 2026 release: community directory and guide"
 date: 2026-05-07 10:00:00 +0200
-last_modified_at: 2026-07-26 10:00:00 +0200
+last_modified_at: 2026-11-10 06:00:00 +0100
 author: "Eric from OptimCE"
-excerpt: "A new OptimCE release is out, with bug fixes, a brand-new user guide and a public registry to discover open energy-sharing operations."
-description: "Bug fixes, a new user guide and a public registry of open sharing operations, now available inside the application."
+excerpt: "A new OptimCE release is out, with bug fixes, a brand-new user guide and a directory to discover communities and their energy-sharing operations."
+description: "Bug fixes, a new user guide and a directory of communities and their sharing operations, now available inside the application."
 tags: [app, announcement, news]
 lang: en
 ref: release-may-2026
@@ -24,9 +24,9 @@ OptimCE now ships with a complete **user guide** at [guide.optimce.be](https://g
 
 ## Discover open sharing operations
 
-The app now includes a **public registry of sharing operations**. Any community manager can choose to publish their operation, and anyone — citizens, businesses, prospective members — can browse the list to find an operation open to new members near them. We hope it will help more people join an energy community and give existing communities better visibility.
+The app now includes a **community directory**. Any community manager can make a sharing operation public there, and anyone with an OptimCE account — citizens, businesses, prospective members — can browse the directory to find a community near them. We hope it will help more people join an energy community and give existing communities better visibility.
 
-The registry lives inside the application: **[browse the open sharing operations](https://app.optimce.be)**.
+The directory lives inside the application and requires an account: **[browse the community directory](https://app.optimce.be)**.
 
 If you are looking to join an existing community, our guide [“Join an energy community in Wallonia”](/en/guides/join-energy-community-wallonia/) sets out the eligibility conditions and what to check before you sign.
 

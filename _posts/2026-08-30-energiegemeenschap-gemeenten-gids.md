@@ -2,7 +2,7 @@
 layout: post
 title: "Energiegemeenschap: de gids voor gemeenten"
 date: 2026-08-30 06:00:00 +0200
-last_modified_at: 2026-11-04 06:00:00 +0100
+last_modified_at: 2026-11-10 06:00:00 +0100
 author: "Eric van OptimCE"
 excerpt: "262 Waalse gemeenten. Dertien energiegemeenschappen met een volledig dossier bij de CWaPE, waarvan er slechts zes werkelijk stroom delen. Dat is geen gebrek aan ambitie: bijna niemand heeft gemerkt wat het Waalse recht al zegt. Het eerste van de twee nabijheidscriteria van een hernieuwbare-energiegemeenschap luidt letterlijk “het grondgebied van één en dezelfde gemeente”. Wallonië is het enige van de drie gewesten waar de wetgever de perimeter zelf heeft getrokken — langs de gemeentegrens."
 description: "In Wallonië is de perimeter van een hernieuwbare-energiegemeenschap het gemeentelijke grondgebied. Wat uw gemeente ermee kan, en tegen welke prijs."
@@ -28,7 +28,7 @@ faq:
 
 Wallonië telt **262 gemeenten**. Op 3 september 2026 vermeldt de CWaPE **dertien energiegemeenschappen** waarvan het dossier volledig is verklaard — en **slechts zes daarvan** beschikken over minstens één vergunde delingsactiviteit. Zeven hebben een rechtspersoon, statuten, een ontvangstbevestiging, en geen enkele gedeelde kilowattuur.
 
-Lees nu hun namen: *Soleil d'Aubange*, *DURBUY 1*, *LASNENERGIE*, *Soleil de Rixensart*, *Courants de Gaume*, *Communauté d'énergie partagée by BEP*. Dat zijn geen namen van start-ups. Dat zijn namen van gebieden. De Waalse beweging van energiegemeenschappen is in de feiten een beweging van lokale overheden — maar zij betreft vandaag één gemeente op twintig.
+Lees nu enkele van de dertien namen op de lijst: *Soleil d'Aubange*, *DURBUY 1*, *LASNENERGIE*, *Soleil de Rixensart*, *Courants de Gaume*, *Communauté d'énergie partagée by BEP*. Dat zijn geen namen van start-ups. Dat zijn namen van gebieden. De Waalse beweging van energiegemeenschappen is in de feiten een beweging van lokale overheden — maar zij betreft vandaag één gemeente op twintig.
 
 Dit artikel herhaalt niet wat elders op deze site al staat: het verschil tussen de drie Belgische statuten komt aan bod in [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/gidsen/energiegemeenschappen-belgie/), de algemene oprichtingsprocedure in [“Energiegemeenschap oprichten in Wallonië”](/nl/gidsen/energiegemeenschap-oprichten-wallonie/), de documenten en termijnen van de regulator in [“Energiegemeenschap: CWaPE-documenten en termijnen”](/nl/gidsen/energiegemeenschap-administratieve-documenten-wallonie/), de interne prijszetting in [“Interne overdrachtsprijs in een gemeenschap”](/nl/gidsen/prijs-elektriciteit-energiegemeenschap/), de sleutels in [“Verdeelsleutel in België: de 3 regio's”](/nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/) en de gradaties van de korte keten in [“Stroom in de korte keten: de handleiding”](/nl/gidsen/elektriciteit-korte-keten-handleiding/).
 
@@ -304,9 +304,9 @@ vervoegen en weer verlaten. OptimCE, [beheersoftware voor energiegemeenschappen]
 - **De Waalse procedures voorbereiden.** De documenten van de CWaPE worden op basis van die
   gegevens vooraf ingevuld, de termijnen worden berekend en het dashboard signaleert de naderende.
   Het indienen blijft de zaak van de gemeenschap.
-- **De deelactie bekendmaken.** Publiceer ze in het publiek register van de applicatie, waar
-  inwoners een open deelactie in hun buurt zoeken, en informeer en raadpleeg de leden daarna met
-  het nieuwsbord en de polls.
+- **De deelactie bekendmaken.** Maak ze openbaar: de gemeenschap verschijnt dan in het overzicht
+  van gemeenschappen van de applicatie, waar iedereen met een OptimCE-account haar per gemeente kan
+  vinden. Informeer en raadpleeg de leden daarna met het nieuwsbord en de polls.
 - **De gedeelde elektriciteit factureren** binnen het Waalse kader, met opvolging van de
   betalingen.
 

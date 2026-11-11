@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Version Mai 2026: Register und Handbuch"
+title: "Version Mai 2026: Verzeichnis und Handbuch"
 date: 2026-05-07 10:00:00 +0200
-last_modified_at: 2026-07-26 10:00:00 +0200
+last_modified_at: 2026-11-10 06:00:00 +0100
 author: "Eric, OptimCE"
-excerpt: "Eine neue OptimCE-Version ist verfügbar — mit Fehlerbehebungen, einem brandneuen Benutzerhandbuch und einem öffentlichen Register zur Entdeckung offener Energieteilungsoperationen."
-description: "Fehlerbehebungen, ein neues Benutzerhandbuch und ein öffentliches Register offener Teilungsoperationen in der Anwendung."
+excerpt: "Eine neue OptimCE-Version ist verfügbar — mit Fehlerbehebungen, einem brandneuen Benutzerhandbuch und einem Verzeichnis, in dem Sie Gemeinschaften und ihre Teilungsoperationen entdecken."
+description: "Fehlerbehebungen, ein neues Benutzerhandbuch und ein Verzeichnis der Gemeinschaften und ihrer Teilungsoperationen in der Anwendung."
 tags: [app, announcement, news]
 lang: de
 ref: release-may-2026
@@ -24,9 +24,9 @@ OptimCE wird nun mit einem vollständigen **Benutzerhandbuch** unter [guide.opti
 
 ## Offene Teilungsoperationen entdecken
 
-Die App enthält nun ein **öffentliches Register der Teilungsoperationen**. Jede verantwortliche Person einer Gemeinschaft kann ihre Operation dort veröffentlichen, und alle — Bürgerinnen und Bürger, Unternehmen, künftige Mitglieder — können die Liste durchsuchen, um in ihrer Nähe eine Operation zu finden, die für neue Mitglieder offen ist. Wir hoffen, dass dies mehr Menschen den Zugang zu einer Energiegemeinschaft erleichtert und bestehenden Gemeinschaften mehr Sichtbarkeit verschafft.
+Die App enthält nun ein **Gemeinschaftsverzeichnis**. Jede verantwortliche Person einer Gemeinschaft kann dort eine Teilungsoperation öffentlich machen, und alle mit einem OptimCE-Konto — Bürgerinnen und Bürger, Unternehmen, künftige Mitglieder — können das Verzeichnis durchsuchen, um eine Gemeinschaft in ihrer Nähe zu finden. Wir hoffen, dass dies mehr Menschen den Zugang zu einer Energiegemeinschaft erleichtert und bestehenden Gemeinschaften mehr Sichtbarkeit verschafft.
 
-Das Register ist direkt in der Anwendung erreichbar: **[offene Teilungsoperationen durchsuchen](https://app.optimce.be)**.
+Das Verzeichnis ist in der Anwendung erreichbar, mit einem Konto: **[Gemeinschaftsverzeichnis durchsuchen](https://app.optimce.be)**.
 
 Wenn Sie einer bestehenden Gemeinschaft beitreten möchten, beschreibt unser Leitfaden [„Energiegemeinschaft in der Wallonie beitreten“](/de/ratgeber/energiegemeinschaft-beitreten-wallonien/) die Voraussetzungen und die Punkte, die Sie vor der Unterschrift prüfen sollten.
 

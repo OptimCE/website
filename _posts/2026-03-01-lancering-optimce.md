@@ -2,7 +2,7 @@
 layout: post
 title: "Lancering van OptimCE: het ontstaan"
 date: 2026-03-01 10:00:00 +0100
-last_modified_at: 2026-07-26 10:00:00 +0200
+last_modified_at: 2026-11-10 06:00:00 +0100
 author: "Eric van OptimCE"
 excerpt: "OptimCE is niet ontstaan in een incubator maar in een laboratorium. Een terugblik op Locomotrice, het Waalse onderzoeksproject achter het platform, op de partners die het droegen, en op de redenen om het als opensource te publiceren."
 description: "Waar OptimCE vandaan komt: het onderzoeksproject Locomotrice, de partners Universiteit Luik en CECOTEPE, en waarom het opensource is."
@@ -75,7 +75,7 @@ De architectuur is **gebeurtenisgestuurd en modulair**, waardoor modules van der
 
 De details van het project, zijn partners en zijn financiering staan op de pagina [Over ons](/nl/about/).
 
-Sinds die lancering is het platform blijven evolueren: zie de [release van mei 2026](/nl/nieuws/2026/05/07/release-nieuws/), die het publieke register van deelacties en de gebruikersgids introduceerde.
+Sinds die lancering is het platform blijven evolueren: zie de [release van mei 2026](/nl/nieuws/2026/05/07/release-nieuws/), die het overzicht van gemeenschappen en de gebruikersgids introduceerde.
 
 ## FAQ
 

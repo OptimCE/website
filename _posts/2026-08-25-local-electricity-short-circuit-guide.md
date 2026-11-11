@@ -3,13 +3,13 @@ layout: post
 title: "Local electricity: the short-circuit guide"
 date: 2026-08-25 06:00:00 +0200
 author: "Eric from OptimCE"
-excerpt: "In 2020, 3,478 Walloon farms sold through a short supply chain — 27 % of all farms, up from 8 % a decade earlier. In August 2026, CWaPE lists 13 energy communities and roughly 126 people actually taking part in electricity sharing. Same region, same word, two different worlds. The explanation is not cultural: a box of vegetables waits in the fridge, an unconsumed kilowatt-hour vanishes in fifteen minutes. Here are the four degrees of the energy short circuit, what they really shorten, and why a neighbourhood is assembled by timetable rather than by affinity."
+excerpt: "In 2020, 3,478 Walloon farms sold through a short supply chain — 27 % of all farms, up from 8 % a decade earlier. In August 2026, CWaPE lists 13 energy communities, and an association's mapping counts roughly 126 people actually taking part in electricity sharing. Same region, same word, two different worlds. The explanation is not cultural: a box of vegetables waits in the fridge, an unconsumed kilowatt-hour vanishes in fifteen minutes. Here are the four degrees of the energy short circuit, what they really shorten, and why a neighbourhood is assembled by timetable rather than by affinity."
 description: "The four degrees of the energy short circuit in Wallonia, what they really shorten, and why a neighbourhood is assembled by timetable."
 tags: [guide, community]
 lang: en
 ref: local-electricity-short-circuit
 pillar: facture-electricite
-last_modified_at: 2026-10-22 10:00:00 +0200
+last_modified_at: 2026-11-10 06:00:00 +0100
 permalink: /en/guides/local-electricity-short-circuit-guide/
 faq:
   - q: "Can I buy electricity from the neighbour across the street in Wallonia?"
@@ -110,7 +110,7 @@ The energy community is an almost literal transposition of it, with one heavy di
 
 The full procedure is detailed in [“Create an energy community in Wallonia”](/en/guides/create-energy-community-wallonia/) and, from the prospective participant's side, in [“Join an energy community in Wallonia”](/en/guides/join-energy-community-wallonia/).
 
-The count itself is quickly done. On 25 August 2026, CWaPE's public list held **13 communities** with a complete file, spread from Aubange to Rixensart, from Gesves to Tournai. The oldest, Soleil d'Aubange, was notified in May 2024. A June 2026 mapping exercise counted **8 sharing operations actually running**, carried by 5 communities only, the others not having started yet.
+The count itself is quickly done. On 25 August 2026, CWaPE's public list held **13 communities** with a complete file, spread from Aubange to Rixensart, from Gesves to Tournai. The oldest, Soleil d'Aubange, was notified in May 2024. A June 2026 mapping exercise counted **8 sharing operations actually running**, carried by 5 communities only, the others not having started yet. The count of sharing activities authorised by the CWaPE, decision by decision, is kept up to date in our [barometer of authorised sharing](/en/guides/energy-communities-wallonia-barometer/).
 
 ### Degree 4 — The cooperative shop: the citizen cooperative
 
@@ -269,7 +269,7 @@ Back to the opening paradox. 3,478 farms in the food short supply chain, 13 ener
 
 CWaPE says nothing different. In its opinion delivered in spring 2025, when the region still counted only four in-building sharing operations and three in communities, the regulator found that “these new arrangements are not meeting the expected success” and that the directive's accessibility objectives “are not being met”. The obstacles it listed are administrative before they are technical: cumbersome procedures, a complex legal framework, a restrictive status for production installations, ill-suited market processes. Its recommendations include finalising the peer-to-peer framework, administrative simplification and appointing a dedicated facilitator.
 
-The regional contrast confirms the diagnosis. In Brussels, where sharing benefits from public facilitation, automated data exchange and more favourable tariff treatment, Brugel had authorised more than forty energy communities by mid-2026, for roughly **1,417 participants** — against **126** in Wallonia, on a territory three times more populated.
+The regional contrast confirms the diagnosis. In Brussels, where sharing benefits from public facilitation, automated data exchange and more favourable tariff treatment, Brugel had authorised 34 energy communities by mid-2026 (36 on 10 November 2026), for roughly **1,417 participants** — against **126** in Wallonia, on a territory three times more populated.
 
 So this is neither a lack of appetite nor a problem of local culture. Wallonia has demonstrated, with its farms, that it knows how to do short supply chains at scale. **What it does not yet have is the framework that makes an energy short circuit as easy to build as a purchasing group.**
 
@@ -332,7 +332,7 @@ They are two distinct legal and economic objects, often confused because they sh
 - [Renouvelle — Supplier surcharges: a brake on energy sharing?](https://www.renouvelle.be/fr/surtarifs-fournisseurs-partage-energie/) — the justification advanced by suppliers, namely manual processing of sharing data and balancing; the wide variation between suppliers; and CREG's lack of control over fees that fall within the liberalised part of the bill. Article of 27 October 2025.
 - [Renouvelle — Sharing and energy communities in Wallonia: CWaPE's opinion](https://www.renouvelle.be/fr/partage-et-communautes-energie-en-wallonie-avis-de-la-cwape/) — the regulator's finding that “these new arrangements are not meeting the expected success”, the count of four in-building operations and three in communities at that date, the list of obstacles identified and the recommendations on the peer-to-peer framework, administrative simplification and a dedicated facilitator. Article of 18 March 2025.
 - [GAL Condruses — Mapping of energy communities in Wallonia](https://www.galcondruses.be/blog/energie-6/cartographie-des-communautes-denergie-en-wallonie-112) — source of the estimate of roughly 126 sharing participants in Wallonia and 1,417 in Brussels, and of the count of eight active operations carried by five communities. Survey of 17 June 2026; this is an association's mapping exercise, not an official regulator's return.
-- [Brugel — Authorised communities](https://energysharing.brugel.brussels/energysharing/les-communautes-autorisees-586) — the register of energy communities authorised in the Brussels-Capital Region, whose count exceeded forty by mid-2026, used here for the regional contrast.
+- [Brugel — Authorised communities](https://energysharing.brugel.brussels/energysharing/les-communautes-autorisees-586) — the register of energy communities authorised in the Brussels-Capital Region, listing 34 authorised communities by mid-2026 and 36 on 10 November 2026, according to the authorisation dates of the list as recounted that day; used here for the regional contrast.
 - [REScoop Wallonie](https://www.rescoop-wallonie.be/) — the federation's figures as at the end of 2024: 20 citizen cooperatives, some 23,000 members, 31.6 million euros of capital, 102 MW installed and 196 million kWh produced, the equivalent of the electricity consumption of 56,000 households.
 - [Cociter — Our energy short circuit](https://www.cociter.be/notre-electricite/notre-circuit-court-denergie/) — the model of a supplier owned by Walloon citizen cooperatives, the line “What if your electricity came from your neighbours?” and the 250 € entry amount to become a cooperative member.
 - [Gaume Nature Park — Energy community in Aubange](https://parc-naturel-gaume.be/cer_aubange_premierewallonne/) — the first renewable energy community recognised in Wallonia, built around installations carried by the municipality with the support of a local action group and a specialist non-profit, cited here as the textbook case of starting from a public roof.

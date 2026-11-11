@@ -6,7 +6,7 @@ description: "Open-Source-Software für Energiegemeinschaften: Mitglieder, Aufte
 lang: de
 ref: features
 permalink: /de/funktionen/
-last_modified_at: 2026-10-11
+last_modified_at: 2026-11-10
 feature_list:
   - "Verwaltung von Mitgliedern, Lieferstellen und Zählern"
   - "Archivierte Aufteilungsschlüssel mit Nachverfolgung der Zustimmung der Mitglieder"
@@ -16,7 +16,7 @@ feature_list:
   - "Vorausgefüllte CWaPE-Verwaltungsdokumente und Fristenverfolgung"
   - "E-Mail-Benachrichtigungen in vier Sprachen"
   - "Nachrichtenboard und Abstimmungen"
-  - "Öffentliches Register der Teilungsoperationen"
+  - "Gemeinschaftsverzeichnis, einsehbar mit einem OptimCE-Konto"
   - "Mehrere Gemeinschaften, ereignisgesteuerte Integration, REST-API"
 ---
 
@@ -102,11 +102,13 @@ Sichtbarkeit der Ergebnisse sind vorgesehen: anonym, transparent oder Ergebnisse
 Abschluss. Ein erweiterter Modus regelt getrennt, was der Verwalter und was die Mitglieder sehen.
 Siehe [Mitglieder einer Energiegemeinschaft einbinden]({{ "engage-energy-community" | ref_url }}).
 
-## Öffentliches Register der Teilungsoperationen
+## Gemeinschaftsverzeichnis
 
-Ein Verwalter kann seine Teilungsoperation in einem öffentlichen Register veröffentlichen, das in
-die Anwendung integriert ist. Jeder kann es durchsuchen, um eine für neue Mitglieder offene
-Operation zu finden.
+Ein Verwalter kann eine Teilungsoperation öffentlich machen, sobald für sie mindestens eine Gemeinde
+angegeben ist. Seine Gemeinschaft erscheint dann im Gemeinschaftsverzeichnis der Anwendung, mit
+Beschreibung, Website, Sitz und ihren öffentlichen Operationen. Das Verzeichnis ist mit einem
+OptimCE-Konto einsehbar und lässt sich nach Gemeinde oder Regulierungsbehörde filtern, als Liste
+oder auf einer Karte.
 
 ## Eine offene Plattform
 

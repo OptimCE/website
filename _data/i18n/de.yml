@@ -92,8 +92,8 @@ modules:
           text: "Mitgliedschaften, Rollen, Bankdaten und Dokumente jedes Mitglieds."
         - title: "Zähler und Karte"
           text: "Jeder Zähler mit seinen Viertelstundenwerten, als Liste oder auf der Karte."
-        - title: "Öffentliches Verzeichnis"
-          text: "Stellen Sie Ihre Gemeinschaft vor, damit neue Mitglieder sie finden."
+        - title: "Gemeinschaftsverzeichnis"
+          text: "Stellen Sie Ihre Gemeinschaft registrierten Nutzern vor, die in ihrer Nähe suchen."
     - name: "Teilen"
       items:
         - title: "Aufteilungsschlüssel"

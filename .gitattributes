@@ -2,3 +2,7 @@
 # against its SHA256SUMS (scripts/sync_dso.py, _plugins/dso_pages.rb). With
 # core.autocrlf=true a checkout would turn LF into CRLF and break every hash.
 _data/dso/** -text
+
+# Published data files keep the bytes they were written with (LF), so the CSV
+# served locally and the one built in CI are identical.
+assets/data/*.csv -text

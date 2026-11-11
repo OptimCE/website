@@ -6,7 +6,7 @@ description: "Open source energy community management software: members, allocat
 lang: en
 ref: features
 permalink: /en/features/
-last_modified_at: 2026-10-11
+last_modified_at: 2026-11-10
 feature_list:
   - "Management of members, supply points and meters"
   - "Versioned allocation keys, with members' acceptance tracked"
@@ -16,7 +16,7 @@ feature_list:
   - "Pre-filled CWaPE administrative documents and deadline tracking"
   - "Email notifications in four languages"
   - "News board and polls"
-  - "Public registry of sharing operations"
+  - "Community directory, open to anyone with an OptimCE account"
   - "Multi-community, event-driven integration, REST API"
 ---
 
@@ -98,10 +98,12 @@ available: anonymous, transparent, or results revealed at closing. An advanced m
 separately what the manager and the members see. See
 [engaging energy community members]({{ "engage-energy-community" | ref_url }}).
 
-## Public registry of sharing operations
+## Community directory
 
-A manager can publish their sharing operation in a public registry built into the application.
-Anyone can browse it to find an operation open to new members.
+A manager can make a sharing operation public once at least one municipality has been entered for
+it. Their community then appears in the application's community directory, with its description,
+website, registered office and public operations. The directory is open to anyone signed in with an
+OptimCE account, who can filter it by municipality or by regulator, as a list or on a map.
 
 ## An open platform
 

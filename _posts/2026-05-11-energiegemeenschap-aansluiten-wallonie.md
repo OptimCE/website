@@ -3,17 +3,17 @@ layout: post
 title: "Toetreden tot een energiegemeenschap in Wallonië"
 date: 2026-05-11 16:00:00 +0200
 author: "Eric van OptimCE"
-excerpt: "Hoe toetreden tot een energiegemeenschap in Wallonië: voorwaarden, waar een open deelactie vinden (OptimCE-register, SPW-facilitator, Énergie commune), stappen en aandachtspunten vóór ondertekening."
+excerpt: "Hoe toetreden tot een energiegemeenschap in Wallonië: voorwaarden, waar een open deelactie vinden (OptimCE-overzicht, SPW-facilitator, Énergie commune), stappen en aandachtspunten vóór ondertekening."
 description: "Voorwaarden, waar u een open deelactie vindt, de stappen om toe te treden en wat u moet nakijken vóór u tekent."
 tags: [community, administrative, guide]
 lang: nl
 ref: join-energy-community-wallonia
 pillar: communautes-energie
-last_modified_at: 2026-10-23 06:00:00 +0200
+last_modified_at: 2026-11-10 06:00:00 +0100
 permalink: /nl/gidsen/energiegemeenschap-aansluiten-wallonie/
 ---
 
-In Wallonië zijn energiegemeenschappen geen marginaal experiment meer: honderden deelacties zijn actief of in voorbereiding op melding. Het wettelijke kader is stabiel, de distributienetbeheerders (DNB's) zijn voorbereid, en het merendeel van de meters is al digitaal. Voor de meeste burgers, kmo's en lokale overheden blijft één concrete drempel: **hoe vindt u een gemeenschap die nieuwe leden aanvaardt**, en **wat moet u controleren vóór u tekent**?
+In Wallonië komen energiegemeenschappen pas uit de experimentele fase: op 10 november 2026 had de CWaPE twaalf deelactiviteiten in zes gemeenschappen toegelaten, die onze [barometer van de toegelaten deelactiviteiten](/nl/gidsen/energiegemeenschappen-wallonie-barometer/) één voor één opsomt. Het wettelijke kader is stabiel, de distributienetbeheerders (DNB's) zijn voorbereid, en het merendeel van de meters is al digitaal. Voor de meeste burgers, kmo's en lokale overheden blijft één concrete drempel: **hoe vindt u een gemeenschap die nieuwe leden aanvaardt**, en **wat moet u controleren vóór u tekent**?
 
 Deze gids is bedoeld voor dat publiek. Niet voor projectleiders die een gemeenschap willen oprichten — daarvoor verwijzen we naar onze [stap-voor-stap-oprichtingsgids](/nl/gidsen/energiegemeenschap-oprichten-wallonie/) — noch voor wie het concept nog moet ontdekken — begin in dat geval met [“Energiegemeenschappen in België: CER, CEC, CEL”](/nl/gidsen/energiegemeenschappen-belgie/). Hij richt zich tot iedereen die **wil toetreden tot een bestaande deelactie** en wil weten hoe dat precies in zijn werk gaat.
 
@@ -74,18 +74,18 @@ Dat is vandaag de moeilijkste vraag in Wallonië. Meerdere kanalen bestaan naast
 
 | Rang | Kanaal | Doelgroep | Inspanning |
 |---|---|---|---|
-| 1 | OptimCE openbaar register | Burgers, kmo's — snel zoeken per gemeente | Laag — webbrowsing |
+| 1 | Overzicht van gemeenschappen van OptimCE | Burgers, kmo's — zoeken per gemeente | Laag — OptimCE-account vereist |
 | 2 | SPW-facilitator Energiegemeenschappen | Burger die persoonlijke begeleiding wil | Gemiddeld — contactname |
 | 3 | Énergie commune (matching) | Burger gericht op coöperatie / waarden | Laag — online formulier |
 | 4 | Lokale intercommunale / coöperatie | Inwoners van een afgebakende zone | Variabel |
 | 5 | DNB-pagina's | Bevestiging na identificatie | Laag |
 | 6 | Gemeente, lokale pers, mond-tot-mond | Toevallige ontdekking | Variabel |
 
-### Het openbare register van OptimCE
+### Het overzicht van gemeenschappen van OptimCE
 
-OptimCE biedt een **[openbaar register van deelacties](https://app.optimce.be)** dat in de applicatie is geïntegreerd. Elke gemeenschapsbeheerder kan ervoor kiezen om zijn deelactie te publiceren; iedereen kan vervolgens de lijst doorbladeren, filteren per gemeente, de deelacties identificeren die **openstaan voor nieuwe leden** en rechtstreeks contact opnemen met de beheerder.
+OptimCE bouwt in de applicatie een **[overzicht van gemeenschappen](https://app.optimce.be)** in. Een gemeenschap verschijnt erin zodra haar beheerder een van haar deelacties openbaar maakt, nadat hij er minstens één gemeente voor heeft ingevuld. Het overzicht is te raadplegen met een OptimCE-account: u kunt filteren per gemeente of per regulator, als lijst of op een kaart, en elke fiche toont de openbare deelacties van de gemeenschap en, als ze zijn ingevuld, haar beschrijving, website en maatschappelijke zetel.
 
-Vandaag is het het **enige interregionale register dat vrij raadpleegbaar is zonder voorafgaande stap**: de andere kanalen veronderstellen ofwel een eerste contact met een facilitator, ofwel kennis van een lokaal project. Het is ook het snelste kanaal voor een eerste algemeen overzicht.
+Het overzicht toont alleen de gemeenschappen die met OptimCE worden beheerd en een deelactie openbaar hebben gemaakt: het is geen volledige lijst. De officiële lijst van de gemeenschappen met een volledig dossier wordt bijgehouden door de CWaPE, en onze [barometer van de toegelaten deelactiviteiten](/nl/gidsen/energiegemeenschappen-wallonie-barometer/) toont welke er al delen. Het overzicht blijft het snelste kanaal voor een eerste algemeen beeld, zonder te wachten op een afspraak met een facilitator.
 
 ### De SPW-facilitator Energiegemeenschappen
 
@@ -231,7 +231,7 @@ Neen. Het energiedelen is een **recht dat door het Waalse decreet wordt erkend**
 
 Drie kanalen om de stap te zetten:
 
-- Doorblader het [openbare register van deelacties](https://app.optimce.be) van OptimCE om open deelacties bij u in de buurt te ontdekken.
+- Doorblader met een OptimCE-account het [overzicht van gemeenschappen](https://app.optimce.be) om gemeenschappen bij u in de buurt te vinden die een deelactie openbaar hebben gemaakt.
 - Neem contact op met de **facilitator Energiegemeenschappen** van [SPW Énergie](https://energie.wallonie.be) voor persoonlijke begeleiding.
 - Vul het **matchingformulier** in van [Énergie commune](https://energiecommune.be) als uw oriëntatie eerder coöperatief en burgerlijk is.
 

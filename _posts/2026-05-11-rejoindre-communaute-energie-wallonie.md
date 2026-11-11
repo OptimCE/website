@@ -3,17 +3,17 @@ layout: post
 title: "Rejoindre une communauté d'énergie en Wallonie"
 date: 2026-05-11 16:00:00 +0200
 author: "Eric d'OptimCE"
-excerpt: "Comment rejoindre une communauté d'énergie en Wallonie : éligibilité, où trouver une opération de partage ouverte (registre OptimCE, facilitateur SPW, Énergie commune), démarches et points de vigilance avant de signer."
+excerpt: "Comment rejoindre une communauté d'énergie en Wallonie : éligibilité, où trouver une opération de partage ouverte (annuaire OptimCE, facilitateur SPW, Énergie commune), démarches et points de vigilance avant de signer."
 description: "Conditions d'éligibilité, où trouver une opération de partage ouverte, les démarches et les points à vérifier avant de signer."
 tags: [community, administrative, guide]
 lang: fr
 ref: join-energy-community-wallonia
 pillar: communautes-energie
 permalink: /guides/rejoindre-communaute-energie-wallonie/
-last_modified_at: 2026-10-23 06:00:00 +0200
+last_modified_at: 2026-11-10 06:00:00 +0100
 ---
 
-En Wallonie, les communautés d'énergie ne sont plus une expérimentation marginale : des centaines d'opérations de partage sont actives ou en cours de notification. Le cadre légal est stabilisé, les gestionnaires de réseau de distribution (GRD) sont rodés, et la majorité des compteurs sont déjà communicants. Reste un obstacle bien concret pour la plupart des citoyens, PME et autorités locales : **comment trouver une communauté qui accepte de nouveaux membres**, et **quoi vérifier avant de signer**.
+En Wallonie, les communautés d'énergie sortent à peine de l'expérimentation : au 10 novembre 2026, la CWaPE avait autorisé douze activités de partage, dans six communautés, que notre [baromètre des partages autorisés](/guides/barometre-communautes-energie-wallonie/) recense une à une. Le cadre légal est stabilisé, les gestionnaires de réseau de distribution (GRD) sont rodés, et la majorité des compteurs sont déjà communicants. Reste un obstacle bien concret pour la plupart des citoyens, PME et autorités locales : **comment trouver une communauté qui accepte de nouveaux membres**, et **quoi vérifier avant de signer**.
 
 Ce guide est conçu pour ce public. Pas pour les porteurs de projet qui veulent créer une communauté — pour cela, consultez notre [guide de création étape par étape](/guides/creer-communaute-energie-wallonie/) — ni pour ceux qui découvrent encore le concept — voyez d'abord [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/guides/communautes-energie-belgique/). Il s'adresse à toute personne qui souhaite **rejoindre une opération existante** et veut savoir comment s'y prendre.
 
@@ -74,18 +74,18 @@ C'est la question la plus délicate aujourd'hui en Wallonie. Plusieurs canaux co
 
 | Rang | Canal | Cible | Effort |
 |---|---|---|---|
-| 1 | Registre public OptimCE | Citoyens, PME — recherche rapide par commune | Faible — navigation web |
+| 1 | Annuaire des communautés OptimCE | Citoyens, PME — recherche par commune | Faible — compte OptimCE requis |
 | 2 | Facilitateur Communautés d'énergie du SPW | Citoyen voulant un accompagnement | Moyen — prise de contact |
 | 3 | Énergie commune (mise en relation) | Citoyen orienté coopérative / valeurs | Faible — formulaire en ligne |
 | 4 | Intercommunale / coopérative locale | Habitants d'une zone précise | Variable |
 | 5 | Pages des GRD | Recoupement après identification | Faible |
 | 6 | Commune, presse locale, bouche-à-oreille | Découverte fortuite | Variable |
 
-### Le registre public d'OptimCE
+### L'annuaire des communautés d'OptimCE
 
-OptimCE met à disposition un **[registre public des opérations de partage](https://app.optimce.be)** intégré à l'application. Chaque gestionnaire de communauté peut choisir d'y publier son opération ; n'importe qui peut alors parcourir la liste, filtrer par commune, repérer celles qui sont **ouvertes à de nouveaux membres**, et contacter directement le gestionnaire.
+OptimCE intègre à l'application un **[annuaire des communautés](https://app.optimce.be)**. Une communauté y apparaît dès que son gestionnaire rend publique une de ses opérations de partage, après y avoir indiqué au moins une commune. L'annuaire se consulte avec un compte OptimCE : on y filtre par commune ou par régulateur, en liste ou sur une carte, et chaque fiche donne les opérations publiques de la communauté et, quand ils sont renseignés, sa description, son site web et son siège.
 
-C'est à ce jour le **seul registre interrégional consultable librement et sans démarche préalable** : les autres canaux supposent soit un contact préalable avec un facilitateur, soit la connaissance d'un projet local. C'est aussi le canal le plus rapide pour une première vue d'ensemble.
+L'annuaire ne montre que les communautés gérées avec OptimCE qui ont rendu une opération publique : ce n'est pas une liste complète. La liste officielle des communautés au dossier complet est tenue par la CWaPE, et notre [baromètre des partages autorisés](/guides/barometre-communautes-energie-wallonie/) indique lesquelles partagent déjà. L'annuaire reste le canal le plus rapide pour une première vue d'ensemble, sans attendre un rendez-vous avec un facilitateur.
 
 ### Le facilitateur Communautés d'énergie du SPW
 
@@ -231,7 +231,7 @@ Non. Le partage d'énergie est un **droit reconnu par le décret wallon**. Votre
 
 Trois canaux pour passer à l'action :
 
-- Parcourez le [registre public des opérations de partage](https://app.optimce.be) d'OptimCE pour repérer les opérations ouvertes près de chez vous.
+- Avec un compte OptimCE, parcourez l'[annuaire des communautés](https://app.optimce.be) pour repérer celles qui ont rendu publique une opération près de chez vous.
 - Contactez le **facilitateur Communautés d'énergie** du [SPW Énergie](https://energie.wallonie.be) pour un accompagnement personnalisé.
 - Remplissez le **formulaire de mise en relation** d'[Énergie commune](https://energiecommune.be) si votre orientation est plutôt coopérative et citoyenne.
 

@@ -3,13 +3,13 @@ layout: post
 title: "Strom auf kurzem Weg: Anleitung für Wallonien"
 date: 2026-08-25 06:00:00 +0200
 author: "Eric, OptimCE"
-excerpt: "2020 vermarkteten 3 478 wallonische Betriebe über kurze Wege — 27 % aller Höfe, gegenüber 8 % zehn Jahre zuvor. Im August 2026 führt die CWaPE 13 Energiegemeinschaften und rund 126 tatsächliche Teilnehmende am Stromteilen. Dieselbe Region, dasselbe Wort, zwei Welten. Die Erklärung ist nicht kulturell: Ein Gemüsekorb wartet im Kühlschrank, eine nicht verbrauchte Kilowattstunde verschwindet in fünfzehn Minuten. Hier sind die vier Stufen des kurzen Wegs beim Strom, was sie wirklich verkürzen, und warum ein Quartier nach Zeitplan und nicht nach Sympathie zusammengestellt wird."
+excerpt: "2020 vermarkteten 3 478 wallonische Betriebe über kurze Wege — 27 % aller Höfe, gegenüber 8 % zehn Jahre zuvor. Im August 2026 führt die CWaPE 13 Energiegemeinschaften, und die Kartierung eines Vereins zählt rund 126 tatsächliche Teilnehmende am Stromteilen. Dieselbe Region, dasselbe Wort, zwei Welten. Die Erklärung ist nicht kulturell: Ein Gemüsekorb wartet im Kühlschrank, eine nicht verbrauchte Kilowattstunde verschwindet in fünfzehn Minuten. Hier sind die vier Stufen des kurzen Wegs beim Strom, was sie wirklich verkürzen, und warum ein Quartier nach Zeitplan und nicht nach Sympathie zusammengestellt wird."
 description: "Die vier Stufen des kurzen Wegs beim Strom in Wallonien, was sie wirklich verkürzen, und warum ein Quartier nach Zeitplan entsteht."
 tags: [guide, community]
 lang: de
 ref: local-electricity-short-circuit
 pillar: facture-electricite
-last_modified_at: 2026-10-22 10:00:00 +0200
+last_modified_at: 2026-11-10 06:00:00 +0100
 permalink: /de/ratgeber/strom-kurze-wege-anleitung/
 faq:
   - q: "Kann ich in Wallonien den Strom meines Nachbarn gegenüber kaufen?"
@@ -110,7 +110,7 @@ Die Energiegemeinschaft ist deren beinahe wörtliche Übertragung, mit einem gew
 
 Die vollständigen Schritte sind in [„Energiegemeinschaft in der Wallonie gründen“](/de/ratgeber/energiegemeinschaft-gruenden-wallonien/) beschrieben und, aus Sicht der Beitrittswilligen, in [„Energiegemeinschaft in der Wallonie beitreten“](/de/ratgeber/energiegemeinschaft-beitreten-wallonien/).
 
-Die Zählung selbst ist schnell erledigt. Am 25. August 2026 führte die öffentliche Liste der CWaPE **13 Gemeinschaften** mit vollständiger Akte, verteilt von Aubange bis Rixensart, von Gesves bis Tournai. Die älteste, Soleil d'Aubange, wurde im Mai 2024 gemeldet. Eine Kartierung vom Juni 2026 zählte **8 tatsächlich laufende Teilungsvorgänge**, getragen von lediglich 5 Gemeinschaften, während die übrigen noch nicht gestartet waren.
+Die Zählung selbst ist schnell erledigt. Am 25. August 2026 führte die öffentliche Liste der CWaPE **13 Gemeinschaften** mit vollständiger Akte, verteilt von Aubange bis Rixensart, von Gesves bis Tournai. Die älteste, Soleil d'Aubange, wurde im Mai 2024 gemeldet. Eine Kartierung vom Juni 2026 zählte **8 tatsächlich laufende Teilungsvorgänge**, getragen von lediglich 5 Gemeinschaften, während die übrigen noch nicht gestartet waren. Die Zählung der von der CWaPE genehmigten Teilungsaktivitäten, Beschluss für Beschluss, führen wir laufend in unserem [Barometer der genehmigten Teilungen](/de/ratgeber/energiegemeinschaften-wallonien-barometer/).
 
 ### Stufe 4 — Der Genossenschaftsladen: die Bürgergenossenschaft
 
@@ -269,7 +269,7 @@ Zurück zum Ausgangsparadox. 3 478 Höfe auf kurzem Weg bei Lebensmitteln, 13 En
 
 Die CWaPE sagt nichts anderes. In ihrer im Frühjahr 2025 abgegebenen Stellungnahme, als die Region erst vier Teilungsvorgänge innerhalb eines Gebäudes und drei in Gemeinschaften zählte, stellte die Regulierungsbehörde fest, dass „diese neuen Vorrichtungen nicht den erhofften Erfolg finden“ und dass die Zugänglichkeitsziele der Richtlinie „nicht erreicht werden“. Die von ihr aufgezählten Hindernisse sind eher verwaltungstechnisch als technisch: Schwerfälligkeit der Verfahren, Komplexität des Rechtsrahmens, restriktiver Status der Erzeugungsanlagen, ungeeignete Marktprozesse. Zu ihren Empfehlungen zählen die Fertigstellung des Peer-to-Peer-Rahmens, die Verwaltungsvereinfachung und die Benennung eines eigenen Facilitators.
 
-Der regionale Kontrast bestätigt die Diagnose. In Brüssel, wo das Teilen von öffentlicher Begleitung, automatisiertem Datenaustausch und günstigerer Tarifbehandlung profitiert, hatte Brugel bis Mitte 2026 mehr als vierzig Energiegemeinschaften genehmigt, mit rund **1 417 Teilnehmenden** — gegenüber **126** in Wallonien, auf einem dreimal bevölkerungsreicheren Gebiet.
+Der regionale Kontrast bestätigt die Diagnose. In Brüssel, wo das Teilen von öffentlicher Begleitung, automatisiertem Datenaustausch und günstigerer Tarifbehandlung profitiert, hatte Brugel bis Mitte 2026 34 Energiegemeinschaften genehmigt (36 am 10. November 2026), mit rund **1 417 Teilnehmenden** — gegenüber **126** in Wallonien, auf einem dreimal bevölkerungsreicheren Gebiet.
 
 Es ist also weder mangelnde Bereitschaft noch ein Problem lokaler Kultur. Wallonien hat mit seinen Höfen bewiesen, dass es kurze Wege im großen Maßstab beherrscht. **Was ihm noch fehlt, ist der Rahmen, der einen kurzen Weg beim Strom so einfach macht wie eine Einkaufsgruppe.**
 
@@ -332,7 +332,7 @@ Es sind zwei rechtlich und wirtschaftlich verschiedene Gegenstände, die häufig
 - [Renouvelle — Aufschläge der Anbieter: eine Bremse für das Energieteilen?](https://www.renouvelle.be/fr/surtarifs-fournisseurs-partage-energie/) — von den Anbietern vorgebrachte Begründung, nämlich manuelle Verarbeitung der Teilungsdaten und Bilanzierung; starke Schwankung zwischen den Anbietern; fehlende Kontrollbefugnis der CREG über Gebühren, die zum liberalisierten Teil der Rechnung gehören. Artikel vom 27. Oktober 2025.
 - [Renouvelle — Teilung und Energiegemeinschaften in Wallonien: die Stellungnahme der CWaPE](https://www.renouvelle.be/fr/partage-et-communautes-energie-en-wallonie-avis-de-la-cwape/) — Feststellung der Regulierungsbehörde, dass „diese neuen Vorrichtungen nicht den erhofften Erfolg finden“, Zählung von vier Vorgängen im Gebäude und drei in Gemeinschaften zu diesem Zeitpunkt, Liste der ermittelten Hindernisse und Empfehlungen zum Peer-to-Peer-Rahmen, zur Verwaltungsvereinfachung und zu einem eigenen Facilitator. Artikel vom 18. März 2025.
 - [GAL Condruses — Kartierung der Energiegemeinschaften in Wallonien](https://www.galcondruses.be/blog/energie-6/cartographie-des-communautes-denergie-en-wallonie-112) — Quelle der Schätzung von rund 126 Teilnehmenden am Teilen in Wallonien und 1 417 in Brüssel sowie der Zählung von acht aktiven Vorgängen, getragen von fünf Gemeinschaften. Erhebung vom 17. Juni 2026; es handelt sich um eine Kartierung eines Vereins, nicht um eine amtliche Erhebung der Regulierungsbehörde.
-- [Brugel — Die genehmigten Gemeinschaften](https://energysharing.brugel.brussels/energysharing/les-communautes-autorisees-586) — Verzeichnis der in der Region Brüssel-Hauptstadt genehmigten Energiegemeinschaften, deren Zahl Mitte 2026 vierzig überstieg, hier für den regionalen Kontrast verwendet.
+- [Brugel — Die genehmigten Gemeinschaften](https://energysharing.brugel.brussels/energysharing/les-communautes-autorisees-586) — Verzeichnis der in der Region Brüssel-Hauptstadt genehmigten Energiegemeinschaften, mit 34 genehmigten Gemeinschaften bis Mitte 2026 und 36 am 10. November 2026, nach den Genehmigungsdaten der an diesem Tag neu gezählten Liste; hier für den regionalen Kontrast verwendet.
 - [REScoop Wallonie](https://www.rescoop-wallonie.be/) — Zahlen des Dachverbands zum Stand Ende 2024: 20 Bürgergenossenschaften, rund 23 000 Mitglieder, 31,6 Millionen Euro Kapital, 102 MW installierte Leistung und 196 Millionen kWh Erzeugung, dem Stromverbrauch von 56 000 Haushalten entsprechend.
 - [Cociter — Unser kurzer Weg beim Strom](https://www.cociter.be/notre-electricite/notre-circuit-court-denergie/) — Modell eines Anbieters im Eigentum der wallonischen Bürgergenossenschaften, Formel „Und wenn Ihr Strom von Ihren Nachbarinnen und Nachbarn käme?“ und Einstiegsbetrag von 250 €, um Genossenschaftsmitglied zu werden.
 - [Naturpark Gaume — Energiegemeinschaft in Aubange](https://parc-naturel-gaume.be/cer_aubange_premierewallonne/) — erste in Wallonien anerkannte erneuerbare Energiegemeinschaft, aufgebaut um Anlagen in Trägerschaft der Gemeinde mit Unterstützung einer lokalen Aktionsgruppe und einer spezialisierten Vereinigung, hier als Musterbeispiel für den Start über ein öffentliches Dach angeführt.

@@ -2,7 +2,7 @@
 layout: post
 title: "Energiegemeinschaft: Leitfaden für Gemeinden"
 date: 2026-08-30 06:00:00 +0200
-last_modified_at: 2026-11-04 06:00:00 +0100
+last_modified_at: 2026-11-10 06:00:00 +0100
 author: "Eric, OptimCE"
 excerpt: "262 wallonische Gemeinden. Dreizehn Energiegemeinschaften mit vollständiger Akte bei der CWaPE, von denen nur sechs tatsächlich Strom teilen. Das ist kein Mangel an Ehrgeiz: es hat nur kaum jemand bemerkt, was das wallonische Recht bereits sagt. Das erste der beiden Nähekriterien einer Erneuerbare-Energie-Gemeinschaft lautet wörtlich „das Gebiet einer einzigen und derselben Gemeinde“. Wallonien ist die einzige der drei Regionen, in der der Gesetzgeber den Perimeter selbst gezogen hat — entlang der Gemeindegrenze."
 description: "In Wallonien ist der Perimeter einer Erneuerbare-Energie-Gemeinschaft das Gemeindegebiet. Was die Gemeinde damit tun kann und zu welchem Preis."
@@ -28,7 +28,7 @@ faq:
 
 Wallonien zählt **262 Gemeinden**. Am 3. September 2026 führt die CWaPE **dreizehn Energiegemeinschaften**, deren Akte für vollständig erklärt wurde — und **nur sechs davon** verfügen über mindestens eine genehmigte Teilungstätigkeit. Sieben haben eine juristische Person, eine Satzung, eine Empfangsbestätigung, und keine einzige geteilte Kilowattstunde.
 
-Lesen Sie nun ihre Namen: *Soleil d'Aubange*, *DURBUY 1*, *LASNENERGIE*, *Soleil de Rixensart*, *Courants de Gaume*, *Communauté d'énergie partagée by BEP*. Das sind keine Start-up-Namen. Das sind Namen von Gebieten. Die wallonische Bewegung der Energiegemeinschaften ist faktisch eine Bewegung lokaler Behörden — sie betrifft heute jedoch eine von zwanzig Gemeinden.
+Lesen Sie nun einige der dreizehn Namen auf der Liste: *Soleil d'Aubange*, *DURBUY 1*, *LASNENERGIE*, *Soleil de Rixensart*, *Courants de Gaume*, *Communauté d'énergie partagée by BEP*. Das sind keine Start-up-Namen. Das sind Namen von Gebieten. Die wallonische Bewegung der Energiegemeinschaften ist faktisch eine Bewegung lokaler Behörden — sie betrifft heute jedoch eine von zwanzig Gemeinden.
 
 Dieser Artikel wiederholt nicht, was auf dieser Website bereits steht: der Unterschied zwischen den drei belgischen Statuten wird in [„Energiegemeinschaften in Belgien: CER, CEC, CEL“](/de/ratgeber/energiegemeinschaften-belgien/) behandelt, das allgemeine Gründungsverfahren in [„Energiegemeinschaft in der Wallonie gründen“](/de/ratgeber/energiegemeinschaft-gruenden-wallonien/), die Dokumente und Fristen der Regulierungsbehörde in [„Energiegemeinschaft: CWaPE-Dokumente und Fristen“](/de/ratgeber/energiegemeinschaft-verwaltungsdokumente-wallonien/), die interne Preisbildung in [„Interner Verrechnungspreis für geteilten Strom“](/de/ratgeber/strompreis-energiegemeinschaft/), die Schlüssel in [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/ratgeber/verteilungsschluessel-energiegemeinschaft-belgien/) und die Stufen des kurzen Weges in [„Strom auf kurzem Weg: Anleitung für Wallonien“](/de/ratgeber/strom-kurze-wege-anleitung/).
 
@@ -304,9 +304,10 @@ beitreten und sie wieder verlassen. OptimCE, die [Software für Energiegemeinsch
 - **Die wallonischen Verfahren vorbereiten.** Die Dokumente der CWaPE werden aus diesen Daten
   vorausgefüllt, die Fristen berechnet, und das Dashboard meldet die nahenden. Die Einreichung
   bleibt Sache der Gemeinschaft.
-- **Die Operation bekannt machen.** Veröffentlichen Sie sie im öffentlichen Register der
-  Anwendung, in dem Einwohner nach einer offenen Operation in ihrer Nähe suchen, und informieren
-  und befragen Sie die Mitglieder dann über das Nachrichtenboard und die Abstimmungen.
+- **Die Operation bekannt machen.** Machen Sie sie öffentlich: Die Gemeinschaft erscheint dann im
+  Gemeinschaftsverzeichnis der Anwendung, in dem jede Person mit einem OptimCE-Konto sie nach
+  Gemeinde finden kann. Informieren und befragen Sie die Mitglieder dann über das Nachrichtenboard
+  und die Abstimmungen.
 - **Den geteilten Strom abrechnen** im wallonischen Rahmen, mit Zahlungsverfolgung.
 
 Die Anwendung ist während der Alphaphase kostenlos.

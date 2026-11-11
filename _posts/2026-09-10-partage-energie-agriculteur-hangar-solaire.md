@@ -2,7 +2,7 @@
 layout: post
 title: "Hangar agricole : le guide du partage d'énergie"
 date: 2026-09-10 06:00:00 +0200
-last_modified_at: 2026-11-04 06:00:00 +0100
+last_modified_at: 2026-11-10 06:00:00 +0100
 author: "Eric d'OptimCE"
 excerpt: "Un hangar agricole porte entre 100 et 350 kilowatts-crête. C'est le plus grand toit disponible de la Wallonie rurale, le mieux orienté, et le plus simple à équiper : les panneaux en toiture sont dispensés de permis d'urbanisme quelle que soit leur puissance. Pourtant, sur les treize communautés d'énergie notifiées à la CWaPE, aucune n'est adossée à une exploitation agricole. Ce n'est pas de l'indifférence. Deux arrêtés du Gouvernement wallon adoptés à trois semaines d'écart, en février et en mars 2023, poussent dans des directions exactement opposées : le premier ne subventionne le photovoltaïque agricole que dans la proportion autoconsommée, le second organise le partage du surplus."
 description: "Deux arrêtés wallons de 2023 se contredisent : l'aide agricole s'arrête là où le partage commence. Ce que le toit d'un hangar rapporte vraiment."
@@ -253,8 +253,9 @@ janvier. OptimCE, [logiciel de gestion de communauté d'énergie](/fonctionnalit
   chaque version de la clé est historisée et l'acceptation par les membres est suivie.
 - **Préparer les documents.** Les documents de la CWaPE sont préremplis et les échéances sont
   calculées. Le dépôt reste de votre ressort.
-- **Trouver des participants.** Publiez l'opération dans le registre public de l'application, où
-  chacun peut chercher une opération ouverte à de nouveaux membres.
+- **Trouver des participants.** Rendez l'opération publique : la communauté apparaît alors dans
+  l'annuaire des communautés de l'application, où toute personne disposant d'un compte OptimCE peut
+  la trouver par commune.
 - **Facturer l'énergie partagée** dans le cadre wallon, décompte du producteur compris, avec suivi
   des paiements.
 

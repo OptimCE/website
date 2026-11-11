@@ -6,7 +6,7 @@ description: "Logiciel open source de gestion de communauté d'énergie : membre
 lang: fr
 ref: features
 permalink: /fonctionnalites/
-last_modified_at: 2026-10-11
+last_modified_at: 2026-11-10
 feature_list:
   - "Gestion des membres, des points de fourniture et des compteurs"
   - "Clés de répartition historisées, avec suivi de l'acceptation par les membres"
@@ -16,7 +16,7 @@ feature_list:
   - "Documents administratifs CWaPE préremplis et suivi des échéances"
   - "Notifications par e-mail en quatre langues"
   - "Tableau d'actualités et sondages"
-  - "Registre public des opérations de partage"
+  - "Annuaire des communautés, consultable avec un compte OptimCE"
   - "Multi-communautés, intégration événementielle, API REST"
 ---
 
@@ -101,10 +101,12 @@ visibilité des résultats sont prévus : anonyme, transparent, ou résultats d�
 Un mode avancé règle séparément ce que voient le gestionnaire et les membres. Voir
 [animer une communauté d'énergie au quotidien]({{ "engage-energy-community" | ref_url }}).
 
-## Registre public des opérations de partage
+## Annuaire des communautés
 
-Un gestionnaire peut publier son opération de partage dans un registre public intégré à
-l'application. Chacun peut le parcourir pour trouver une opération ouverte à de nouveaux membres.
+Un gestionnaire peut rendre publique une opération de partage, après y avoir indiqué au moins une
+commune. Sa communauté apparaît alors dans l'annuaire des communautés de l'application, avec sa
+description, son site web, son siège et ses opérations publiques. L'annuaire se consulte avec un
+compte OptimCE : on y filtre par commune ou par régulateur, en liste ou sur une carte.
 
 ## Une plateforme ouverte
 

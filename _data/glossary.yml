@@ -250,10 +250,10 @@
     de: "Genehmigung"
     nl: "Toelating"
   definition:
-    fr: "Accord préalable du régulateur requis lorsqu'une communauté sort du cadre standard, notamment pour une clé de répartition qui n'appartient pas aux familles reconnues dans sa région."
-    en: "Prior approval from the regulator, required when a community steps outside the standard framework — in particular for an allocation key that does not belong to the families recognised in its region."
-    de: "Vorherige Genehmigung des Regulators, erforderlich wenn eine Gemeinschaft den Standardrahmen verlässt — insbesondere für einen Aufteilungsschlüssel außerhalb der in ihrer Region anerkannten Familien."
-    nl: "Voorafgaande goedkeuring van de regulator, vereist wanneer een gemeenschap buiten het standaardkader treedt — met name voor een verdeelsleutel die niet tot de in haar gewest erkende families behoort."
+    fr: "Accord préalable du régulateur. En Wallonie, la CWaPE autorise chaque activité de partage d'une communauté d'énergie, et chacune de ses modifications, avant sa mise en œuvre ; à Bruxelles, Brugel autorise la communauté elle-même. Une autorisation est aussi requise lorsqu'une communauté sort du cadre standard, notamment pour une clé de répartition qui n'appartient pas aux familles reconnues dans sa région."
+    en: "Prior approval from the regulator. In Wallonia, the CWaPE authorises each sharing activity of an energy community, and each change to it, before it is implemented; in Brussels, Brugel authorises the community itself. Approval is also required when a community steps outside the standard framework — in particular for an allocation key that does not belong to the families recognised in its region."
+    de: "Vorherige Genehmigung des Regulators. In der Wallonie genehmigt die CWaPE jede Teilungsaktivität einer Energiegemeinschaft und jede ihrer Änderungen, bevor sie umgesetzt wird; in Brüssel genehmigt Brugel die Gemeinschaft selbst. Eine Genehmigung ist auch erforderlich, wenn eine Gemeinschaft den Standardrahmen verlässt — insbesondere für einen Aufteilungsschlüssel außerhalb der in ihrer Region anerkannten Familien."
+    nl: "Voorafgaande goedkeuring van de regulator. In Wallonië keurt de CWaPE elke deelactiviteit van een energiegemeenschap, en elke wijziging ervan, goed voordat ze van start gaat; in Brussel verleent Brugel de toelating aan de gemeenschap zelf. Een toelating is ook vereist wanneer een gemeenschap buiten het standaardkader treedt — met name voor een verdeelsleutel die niet tot de in haar gewest erkende families behoort."
   alias:
     fr: []
     en: ["authorization"]

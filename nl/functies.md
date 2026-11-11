@@ -6,7 +6,7 @@ description: "Opensource beheersoftware voor energiegemeenschappen: leden, verde
 lang: nl
 ref: features
 permalink: /nl/functies/
-last_modified_at: 2026-10-11
+last_modified_at: 2026-11-10
 feature_list:
   - "Beheer van leden, leveringspunten en meters"
   - "Bewaarde versies van verdeelsleutels, met opvolging van de aanvaarding door de leden"
@@ -16,7 +16,7 @@ feature_list:
   - "Vooraf ingevulde administratieve documenten van de CWaPE en opvolging van termijnen"
   - "E-mailmeldingen in vier talen"
   - "Nieuwsbord en polls"
-  - "Publiek register van deelacties"
+  - "Overzicht van gemeenschappen, te raadplegen met een OptimCE-account"
   - "Meerdere gemeenschappen, event-gestuurde integratie, REST-API"
 ---
 
@@ -101,10 +101,13 @@ van de resultaten: anoniem, transparant, of resultaten pas bij de afsluiting. Ee
 modus regelt apart wat de beheerder en wat de leden zien. Zie
 [leden van een energiegemeenschap betrekken]({{ "engage-energy-community" | ref_url }}).
 
-## Publiek register van deelacties
+## Overzicht van gemeenschappen
 
-Een beheerder kan zijn deelactie publiceren in een publiek register dat in de applicatie is
-ingebouwd. Iedereen kan het doorzoeken om een deelactie te vinden die openstaat voor nieuwe leden.
+Een beheerder kan een deelactie openbaar maken zodra er minstens één gemeente voor is ingevuld. Zijn
+gemeenschap verschijnt dan in het overzicht van gemeenschappen van de applicatie, met haar
+beschrijving, website, maatschappelijke zetel en openbare deelacties. Het overzicht is te
+raadplegen met een OptimCE-account en laat zich filteren per gemeente of per regulator, als lijst
+of op een kaart.
 
 ## Een open platform
 

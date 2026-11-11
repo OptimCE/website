@@ -9,7 +9,7 @@ tags: [community, administrative]
 lang: nl
 ref: energy-communities-belgium
 pillar: communautes-energie
-last_modified_at: 2026-10-22 10:00:00 +0200
+last_modified_at: 2026-11-10 06:00:00 +0100
 permalink: /nl/gidsen/energiegemeenschappen-belgie/
 ---
 
@@ -67,7 +67,7 @@ Specifiek voor het **Brussels Hoofdstedelijk Gewest** is de **CEL** (*Communaut�
 | Energiebronnen | Enkel hernieuwbaar | Alle | Alle |
 | Gedeelde energie | Elektriciteit + warmte | Elektriciteit | Elektriciteit (+ diensten) |
 | Geografische perimeter | Beperkt (nabijheid) | Geen | Wijk, multi-gebouw |
-| Meest actieve gewest | Wallonië | Wallonië | Brussel |
+| Gewesten | Wallonië, Brussel, Vlaanderen | Wallonië, Brussel, Vlaanderen | Alleen Brussel |
 
 ## Energiegemeenschap versus deelactie
 
@@ -86,7 +86,7 @@ Belangrijk om te begrijpen: energiedelen is **administratief, niet fysiek**. De 
 - **De gewestelijke regulatoren** — [CWaPE](https://www.cwape.be/secteur/communautes-partage-energie) in Wallonië, [BRUGEL](https://environnement.brussels/citoyen/agir-pour-lenvironnement/devenir-eco-responsable/partage-et-communautes-denergie) in Brussel, [Vlaamse Nutsregulator (ex-VREG)](https://www.vlaamsenutsregulator.be) in Vlaanderen — bepalen de regels, houden toezicht op de tarieven en publiceren richtlijnen voor gemeenschappen.
 - **De energieleveranciers** blijven de **resterende energie** factureren, dat wil zeggen het deel van het verbruik dat niet door interne deling werd gedekt.
 - **De leden** zijn zowel prosumenten (bv. uitgerust met zonnepanelen) als zuivere verbruikers, kmo's of lokale overheden.
-- **De community manager** is de entiteit die de gemeenschap dagelijks aanstuurt: nieuwe leden onboarden, verdeelsleutels configureren, rapporteren aan de DNB. Dit is precies de rol die **OptimCE** vereenvoudigt — bekijk de [gebruikersgids](https://guide.optimce.be) en het publieke register van [open deelacties](https://app.optimce.be).
+- **De community manager** is de entiteit die de gemeenschap dagelijks aanstuurt: nieuwe leden onboarden, verdeelsleutels configureren, rapporteren aan de DNB. Dit is precies de rol die **OptimCE** vereenvoudigt — bekijk de [gebruikersgids](https://guide.optimce.be); de applicatie bevat ook een [overzicht van gemeenschappen](https://app.optimce.be), te raadplegen met een OptimCE-account.
 
 ## Voordelen — financieel en ecologisch
 
@@ -144,11 +144,11 @@ Via de **slimme meters** (smart meters) die door de DNB's worden uitgerold en de
 
 ## Wilt u toetreden tot een energiegemeenschap?
 
-**In Wallonië** zoeken honderden deelacties actief naar nieuwe leden. U hoeft geen eigen gemeenschap op te richten om van het delen te profiteren — een praktische gids leidt u stap voor stap naar de toetreding tot een bestaande deelactie in enkele weken.
+**In Wallonië** had de CWaPE op 10 november 2026 twaalf deelactiviteiten in zes gemeenschappen toegelaten: onze [barometer](/nl/gidsen/energiegemeenschappen-wallonie-barometer/) toont welke en op welk net. U hoeft geen eigen gemeenschap op te richten om van het delen te profiteren — een praktische gids leidt u stap voor stap naar de toetreding tot een bestaande deelactie in enkele weken.
 
 > **[Toetreden tot een energiegemeenschap in Wallonië](/nl/gidsen/energiegemeenschap-aansluiten-wallonie/)**
 >
-> Wie kan toetreden, waar een open deelactie te vinden (OptimCE-register, SPW-facilitator, Énergie commune), stap-voor-stap-procedure en aandachtspunten vóór ondertekening.
+> Wie kan toetreden, waar een open deelactie te vinden (OptimCE-overzicht, SPW-facilitator, Énergie commune), stap-voor-stap-procedure en aandachtspunten vóór ondertekening.
 
 > **Binnenkort — Brussel en Vlaanderen**
 >

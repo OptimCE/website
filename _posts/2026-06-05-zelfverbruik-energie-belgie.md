@@ -9,7 +9,7 @@ tags: [community]
 lang: nl
 ref: self-consumption-belgium
 pillar: communautes-energie
-last_modified_at: 2026-10-22 10:00:00 +0200
+last_modified_at: 2026-11-10 06:00:00 +0100
 permalink: /nl/gidsen/zelfverbruik-energie-belgie/
 faq:
   - q: "Wat is de zelfverbruiksgraad?"
@@ -150,7 +150,7 @@ De eenvoudigste manier om van individueel zelfverbruik naar delen te gaan, is **
 
 <div class="post-cta" markdown="0">
   <h3>Klaar om uw productie te valoriseren? Begin met OptimCE</h3>
-  <p>Doorzoek het publieke register van open energiegemeenschappen bij u in de buurt, neem contact op met de gemeenschap die bij u past, of richt uw eigen op. OptimCE — een opensourceplatform — automatiseert daarna het ledenbeheer, de verdeelsleutels en de rapportering aan uw netbeheerder.</p>
+  <p>Doorzoek met een OptimCE-account het overzicht van energiegemeenschappen bij u in de buurt, neem contact op met de gemeenschap die bij u past, of richt uw eigen op. OptimCE — een opensourceplatform — automatiseert daarna het ledenbeheer, de verdeelsleutels en de rapportering aan uw netbeheerder.</p>
   <p class="post-cta__actions">
     <a class="btn btn-primary btn--lg" href="https://app.optimce.be">Open de OptimCE-app</a>
     <a class="btn btn-outline" href="https://guide.optimce.be">Lees de gebruikersgids</a>

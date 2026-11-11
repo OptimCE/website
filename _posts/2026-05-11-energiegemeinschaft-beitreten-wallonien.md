@@ -3,17 +3,17 @@ layout: post
 title: "Energiegemeinschaft in der Wallonie beitreten"
 date: 2026-05-11 16:00:00 +0200
 author: "Eric, OptimCE"
-excerpt: "Wie man einer Energiegemeinschaft in der Wallonie beitritt: Voraussetzungen, wo eine offene Teilungsoperation finden (OptimCE-Register, SPW-Facilitator, Énergie commune), Schritte und Punkte zur Beachtung vor der Unterzeichnung."
+excerpt: "Wie man einer Energiegemeinschaft in der Wallonie beitritt: Voraussetzungen, wo eine offene Teilungsoperation finden (OptimCE-Verzeichnis, SPW-Facilitator, Énergie commune), Schritte und Punkte zur Beachtung vor der Unterzeichnung."
 description: "Voraussetzungen, wo Sie eine offene Teilungsoperation finden, die Schritte zum Beitritt und was Sie vor der Unterschrift prüfen sollten."
 tags: [community, administrative, guide]
 lang: de
 ref: join-energy-community-wallonia
 pillar: communautes-energie
-last_modified_at: 2026-10-23 06:00:00 +0200
+last_modified_at: 2026-11-10 06:00:00 +0100
 permalink: /de/ratgeber/energiegemeinschaft-beitreten-wallonien/
 ---
 
-In der Wallonie sind Energiegemeinschaften kein Randexperiment mehr: Hunderte Teilungsoperationen sind aktiv oder in der Meldungsphase. Der gesetzliche Rahmen ist stabil, die Verteilnetzbetreiber (VNB) sind technisch vorbereitet, und die meisten Zähler sind bereits intelligent. Ein ganz konkretes Hindernis bleibt für die meisten Bürger, KMU und Gebietskörperschaften: **wie findet man eine Gemeinschaft, die neue Mitglieder aufnimmt**, und **worauf muss man vor der Unterschrift achten**?
+In der Wallonie verlassen Energiegemeinschaften gerade erst die Versuchsphase: Am 10. November 2026 hatte die CWaPE zwölf Teilungsaktivitäten in sechs Gemeinschaften genehmigt, die unser [Barometer der genehmigten Teilungen](/de/ratgeber/energiegemeinschaften-wallonien-barometer/) einzeln aufführt. Der gesetzliche Rahmen ist stabil, die Verteilnetzbetreiber (VNB) sind technisch vorbereitet, und die meisten Zähler sind bereits intelligent. Ein ganz konkretes Hindernis bleibt für die meisten Bürger, KMU und Gebietskörperschaften: **wie findet man eine Gemeinschaft, die neue Mitglieder aufnimmt**, und **worauf muss man vor der Unterschrift achten**?
 
 Dieser Leitfaden richtet sich an dieses Publikum. Nicht an Projektträger, die eine Gemeinschaft gründen wollen — dafür siehe unseren [Schritt-für-Schritt-Gründungsleitfaden](/de/ratgeber/energiegemeinschaft-gruenden-wallonien/) — und nicht an jene, die das Konzept noch entdecken — beginnen Sie in diesem Fall mit [„Energiegemeinschaften in Belgien: CER, CEC, CEL“](/de/ratgeber/energiegemeinschaften-belgien/). Er ist für alle gedacht, die einer **bestehenden Operation beitreten** und wissen wollen, wie das konkret abläuft.
 
@@ -74,18 +74,18 @@ Das ist heute die heikelste Frage in der Wallonie. Mehrere Kanäle existieren ne
 
 | Rang | Kanal | Zielgruppe | Aufwand |
 |---|---|---|---|
-| 1 | OptimCE-Öffentliches Register | Bürger, KMU — schnelle Suche pro Gemeinde | Niedrig — Web-Navigation |
+| 1 | OptimCE-Gemeinschaftsverzeichnis | Bürger, KMU — Suche pro Gemeinde | Niedrig — OptimCE-Konto erforderlich |
 | 2 | SPW-Facilitator Energiegemeinschaften | Bürger, die persönliche Begleitung wünschen | Mittel — Kontaktaufnahme |
 | 3 | Énergie commune (Vermittlung) | Bürger mit genossenschaftlicher / werteorientierter Ausrichtung | Niedrig — Online-Formular |
 | 4 | Lokale Interkommunale / Genossenschaft | Einwohner eines bestimmten Gebiets | Variabel |
 | 5 | VNB-Seiten | Abgleich nach Identifizierung | Niedrig |
 | 6 | Gemeinde, lokale Presse, Mundpropaganda | Zufällige Entdeckung | Variabel |
 
-### Das öffentliche Register von OptimCE
+### Das Gemeinschaftsverzeichnis von OptimCE
 
-OptimCE bietet ein **[öffentliches Register der Teilungsoperationen](https://app.optimce.be)**, das in die Anwendung integriert ist. Jeder Gemeinschaftsmanager kann seine Operation veröffentlichen; jede Person kann anschließend die Liste durchsuchen, nach Gemeinde filtern, die **für neue Mitglieder offenen** Operationen identifizieren und den Manager direkt kontaktieren.
+OptimCE integriert in die Anwendung ein **[Gemeinschaftsverzeichnis](https://app.optimce.be)**. Eine Gemeinschaft erscheint darin, sobald ihr Verwalter eine ihrer Teilungsoperationen öffentlich macht, nachdem er dafür mindestens eine Gemeinde angegeben hat. Das Verzeichnis ist mit einem OptimCE-Konto einsehbar: Es lässt sich nach Gemeinde oder Regulierungsbehörde filtern, als Liste oder auf einer Karte, und jeder Eintrag nennt die öffentlichen Operationen der Gemeinschaft und, sofern angegeben, ihre Beschreibung, Website und ihren Sitz.
 
-Es ist derzeit das **einzige interregionale Register, das frei und ohne vorherigen Schritt einsehbar ist**: Die anderen Kanäle setzen entweder einen vorherigen Kontakt mit einem Facilitator oder die Kenntnis eines lokalen Projekts voraus. Es ist außerdem der schnellste Kanal für einen ersten Überblick.
+Das Verzeichnis zeigt nur die mit OptimCE verwalteten Gemeinschaften, die eine Operation öffentlich gemacht haben: Es ist keine vollständige Liste. Die amtliche Liste der Gemeinschaften mit vollständiger Akte führt die CWaPE, und unser [Barometer der genehmigten Teilungen](/de/ratgeber/energiegemeinschaften-wallonien-barometer/) zeigt, welche bereits teilen. Für einen ersten Überblick bleibt das Verzeichnis der schnellste Kanal, ohne auf einen Termin mit einem Facilitator zu warten.
 
 ### Der SPW-Facilitator Energiegemeinschaften
 
@@ -231,7 +231,7 @@ Nein. Die Energieteilung ist ein **vom wallonischen Dekret anerkanntes Recht**. 
 
 Drei Kanäle, um aktiv zu werden:
 
-- Durchstöbern Sie das [öffentliche Register der Teilungsoperationen](https://app.optimce.be) von OptimCE, um offene Operationen in Ihrer Nähe zu entdecken.
+- Durchsuchen Sie mit einem OptimCE-Konto das [Gemeinschaftsverzeichnis](https://app.optimce.be), um Gemeinschaften in Ihrer Nähe zu entdecken, die eine Operation öffentlich gemacht haben.
 - Kontaktieren Sie den **Facilitator Energiegemeinschaften** bei [SPW Énergie](https://energie.wallonie.be) für eine persönliche Begleitung.
 - Füllen Sie das **Vermittlungsformular** von [Énergie commune](https://energiecommune.be) aus, wenn Ihre Ausrichtung eher genossenschaftlich und bürgerschaftlich ist.
 

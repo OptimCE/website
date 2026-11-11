@@ -10,7 +10,7 @@ lang: fr
 ref: reduce-electricity-bill
 pillar: facture-electricite
 permalink: /guides/communaute-energie-reduire-facture-electricite/
-last_modified_at: 2026-10-22 10:00:00 +0200
+last_modified_at: 2026-11-10 06:00:00 +0100
 ---
 
 Depuis 2022, les factures d'électricité belges ont connu des hausses brutales et imprévisibles. Face à cette volatilité, les communautés d'énergie offrent un levier concret et durable : payer son électricité **moins cher** et à un **prix plus stable**, sans changer de fournisseur ni installer le moindre panneau solaire. Cet article explique précisément comment ce gain se construit, jusqu'où il peut aller, ce qui change d'une région à l'autre, et qui en profite le plus. Et si vous vous demandez d'abord *pourquoi* votre facture reste élevée alors que les prix de l'énergie ont baissé, commencez par notre décomposition [« Facture d'électricité : pourquoi elle reste élevée »](/guides/pourquoi-facture-electricite-reste-elevee-belgique/) : elle chiffre bloc par bloc ce sur quoi le partage agit — et ce sur quoi il n'agit pas.
@@ -130,7 +130,7 @@ La façon la plus simple de réduire votre facture est de **rejoindre une opéra
 
 <div class="post-cta" markdown="0">
   <h3>Prêt à réduire votre facture ? Commencez avec OptimCE</h3>
-  <p>Parcourez le registre public des communautés d'énergie ouvertes près de chez vous, prenez contact avec celle qui vous correspond, ou créez la vôtre. OptimCE, plateforme open source, automatise ensuite la gestion des membres, les clés de répartition et le reporting au gestionnaire de réseau.</p>
+  <p>Avec un compte OptimCE, parcourez l'annuaire des communautés d'énergie près de chez vous, prenez contact avec celle qui vous correspond, ou créez la vôtre. OptimCE, plateforme open source, automatise ensuite la gestion des membres, les clés de répartition et le reporting au gestionnaire de réseau.</p>
   <p class="post-cta__actions">
     <a class="btn btn-primary btn--lg" href="https://app.optimce.be">Ouvrir l'application OptimCE</a>
     <a class="btn btn-outline" href="https://guide.optimce.be">Lire le guide utilisateur</a>

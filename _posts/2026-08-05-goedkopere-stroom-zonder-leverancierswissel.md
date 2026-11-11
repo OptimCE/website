@@ -2,9 +2,9 @@
 layout: post
 title: "Goedkopere stroom zonder leverancierswissel"
 date: 2026-08-05 04:00:00 +0200
-last_modified_at: 2026-10-22 10:00:00 +0200
+last_modified_at: 2026-11-10 06:00:00 +0100
 author: "Eric van OptimCE"
-excerpt: "Elke gids over besparen op elektriciteit eindigt met dezelfde zin: vergelijk en verander dan van leverancier. Toch bestaat er een mechanisme dat uw factuur verlaagt zonder dat u iets moet opzeggen — energiedelen. De vraag is niet of het legaal is: dat is het in alle drie de gewesten. De vraag is of het beschikbaar is waar u woont, en twee cijfers schetsen het antwoord: 38 vergunde gemeenschappen in Brussel, 8 in Wallonië."
+excerpt: "Elke gids over besparen op elektriciteit eindigt met dezelfde zin: vergelijk en verander dan van leverancier. Toch bestaat er een mechanisme dat uw factuur verlaagt zonder dat u iets moet opzeggen — energiedelen. De vraag is niet of het legaal is: dat is het in alle drie de gewesten. De vraag is of het beschikbaar is waar u woont, en twee cijfers schetsen het antwoord: 36 vergunde gemeenschappen in Brussel en 13 aangemelde in Wallonië, waarvan er maar zes delen, in november 2026."
 description: "Energiedelen verlaagt uw factuur zonder uw contract op te zeggen. Wat het echt oplevert en in welk gewest het werkelijk beschikbaar is."
 tags: [guide, administrative, community]
 lang: nl
@@ -30,7 +30,7 @@ Elke gids over het verlagen van uw elektriciteitsfactuur eindigt met dezelfde zi
 
 Er bestaat nochtans een mechanisme dat de factuur verlaagt **zonder het contract aan te raken**. Geen promotie, geen doorverwijspremie, geen groepsaankoop: een wettelijk geregeld systeem, omkaderd door de drie regulatoren van het land, waarbij een deel van de productie van een lokale producent naar uw meter wordt geleid, tegen een prijs die u onderling afspreekt. Dat is energiedelen, en het is sinds 2022 overal in België legaal.
 
-De interessante vraag is dus niet “bestaat dat?”. Ze luidt: **is het beschikbaar waar ik woon?** En daar valt het land in drie stukken uiteen. Twee cijfers volstaan om het probleem te schetsen: op 5 augustus 2026 telde Brugel **38 vergunde energiegemeenschappen** in het Brussels Hoofdstedelijk Gewest, met de recentste vergunning van 29 mei 2026. In Wallonië waren er dat **acht** in februari 2026, en de CWaPE-evaluatie van maart 2025 telde op het hele grondgebied **zeven deelverrichtingen**.
+De interessante vraag is dus niet “bestaat dat?”. Ze luidt: **is het beschikbaar waar ik woon?** En daar valt het land in drie stukken uiteen. Twee cijfers volstaan om het probleem te schetsen: op 10 november 2026 telde Brugel **36 vergunde energiegemeenschappen** in het Brussels Hoofdstedelijk Gewest, met de recentste vergunning van 17 september 2026. In Wallonië telde de CWaPE op dezelfde datum **13** aangemelde gemeenschappen met een volledig dossier, waarvan er maar zes een toegelaten deelactiviteit hadden, volgens onze [barometer](/nl/gidsen/energiegemeenschappen-wallonie-barometer/); in februari 2026 waren het er acht, en de CWaPE-evaluatie van maart 2025 telde op het hele grondgebied **zeven deelverrichtingen**.
 
 Dit artikel legt niet opnieuw uit wat een energiegemeenschap is, noch wat een HEG van een BEG onderscheidt — dat staat in [“Energiegemeenschappen in België: HEG, BEG, LEG”](/nl/gidsen/energiegemeenschappen-belgie/). Het behandelt evenmin de mechaniek van de twee facturen, beschreven in [“Gedeelde elektriciteit factureren in België”](/nl/gidsen/gedeelde-elektriciteit-factureren-belgie/), noch de vergelijking met het sociaal tarief en het dynamische contract, behandeld in [“Welk elektriciteitstarief kiezen in België?”](/nl/gidsen/elektriciteitstarief-kiezen-belgie/). Het beantwoordt een meer aardse vraag: **is energiedelen vandaag, daar waar u woont, een reële optie voor u** — en zo ja, in welke vorm.
 
@@ -95,7 +95,7 @@ Hier ligt de kern van de zaak. De tabel hieronder vat de werkelijke beschikbaarh
 | **Gemeenschap** | operationeel | operationeel | operationeel |
 | **Verlaging van het nettarief** | **getrapt over 4 perimeters** | −80 % van de proportionele term, **enkel zelfde gebouw** | **geen** |
 | **Slimme meter** | verplicht, **vervanging gratis** | verplicht (communicerend of AMR) | verplicht |
-| **Gemeten gebruik** | 38 vergunde gemeenschappen; 1 009 deelnemers / 129 projecten (okt. 2024) | 8 gemeenschappen (feb. 2026); 7 deelverrichtingen (maart 2025) | 7 779 toegangspunten (dec. 2023), oftewel 0,2 % |
+| **Gemeten gebruik** | 36 vergunde gemeenschappen (nov. 2026); 1 009 deelnemers / 129 projecten (okt. 2024) | 8 gemeenschappen (feb. 2026); 7 deelverrichtingen (maart 2025) | 7 779 toegangspunten (dec. 2023), oftewel 0,2 % |
 
 Drie lezingen, en ze gaan niet de verwachte richting uit.
 
@@ -105,7 +105,7 @@ Brussel loopt voorop, en de kloof wordt groter. Delen is er legaal sinds mei 202
 
 De gebruikscijfers komen van twee afzonderlijke tellingen, die men niet mag optellen. Het observatorium van Brugel, verspreid in oktober 2024, registreerde **1 009 deelnemers in 129 projecten en 6,63 MWp gedeeld vermogen**, tegenover 397 deelnemers het jaar voordien. Sibelga van zijn kant kondigde in juni 2025 **1 280 deelnemers in 2024 aan tegenover 454 in 2023**, op een park van 93 702 geplaatste slimme meters. Perimeters en peildata verschillen; wat samenvalt, is de helling — het aantal deelnemers is volgens beide bronnen **op één jaar meer dan verdubbeld**.
 
-De lijst van vergunde gemeenschappen, die Brugel bijhoudt, geeft de omvang van de beweging aan: van de eerste vergunning op 16 mei 2023 — *Illuminons notre quartier* — tot de recentste op 29 mei 2026 telt men **38 vergunde gemeenschappen**, waaronder *Brupower*, vergund op 17 april 2024. De vergunningen versnellen: een handvol in 2023, een vijftiental in 2025.
+De lijst van vergunde gemeenschappen, die Brugel bijhoudt, geeft de omvang van de beweging aan: van de eerste vergunning op 16 mei 2023 — *Illuminons notre quartier* — tot de recentste, *Sun Is Up 2*, op 17 september 2026 telt men **36 vergunde gemeenschappen**, waaronder *Brupower*, vergund op 17 april 2024. De vergunningen versnellen: een handvol in 2023, een vijftiental in 2025.
 
 Twee infrastructuurelementen verklaren die voorsprong deels. Ten eerste is de vervanging van uw meter door een slimme meter **gratis** voor deelnemers aan een deelverrichting. Ten tweede automatiseert sinds juni 2026 het platform **BEST** — Brussels Energy Sharing Tool, ontwikkeld door de vzw Simply Energy met steun van Bruxelles Environnement — het administratieve beheer en de facturatie van het delen. Daarbij komt een **gratis facilitator “Delen en Energiegemeenschappen”**, bereikbaar voor elke Brusselaar. Nog een wijziging op 1 januari 2026: de termijn om een energiegemeenschap te verlaten is teruggebracht tot **24 uur**, wat het gepercipieerde instaprisico gevoelig verlaagt.
 
@@ -188,7 +188,7 @@ Wat beweegt: het besluit van 5 februari 2026 wijzigde het kader van 2023, het aa
 
 **Woont u in Brussel.** Neem contact op met de facilitator “Delen en Energiegemeenschappen” van Bruxelles Environnement — de dienst is gratis. Raadpleeg de kaart met lopende projecten op de site van Brugel om te zien of er al een verrichting in uw wijk bestaat, en ga bij Sibelga na of uw slimme meter geplaatst is: de vervanging is gratis voor deelnemers. Woont u in een mede-eigendom met een dak, kijk dan eerst naar perimeter A: het is de voordeligste regeling van het land.
 
-**Woont u in Wallonië.** Ga eerst na of uw gebouw delen binnen hetzelfde gebouw toelaat — de enige configuratie die het ontbreken van een rechtspersoon combineert met de verlaging van 80 % van de proportionele term. Zo niet, zoek dan een open deelverrichting in de buurt; het openbare register van OptimCE en de facilitator van de SPW houden er een overzicht van bij. Wacht niet op peer-to-peer om te handelen: er is geen enkele planning aangekondigd.
+**Woont u in Wallonië.** Ga eerst na of uw gebouw delen binnen hetzelfde gebouw toelaat — de enige configuratie die het ontbreken van een rechtspersoon combineert met de verlaging van 80 % van de proportionele term. Zo niet, zoek dan een open deelverrichting in de buurt; de facilitator van de SPW kan u de weg wijzen, en het overzicht van gemeenschappen van OptimCE, te raadplegen met een account, toont er een deel van. Wacht niet op peer-to-peer om te handelen: er is geen enkele planning aangekondigd.
 
 **Woont u in Vlaanderen.** Delen en verkopen staan open, ook tussen particulieren, maar zonder netvoordeel: de volledige winst komt uit het prijsverschil. Twee controles vóór u tekent — het VREG-dashboard voor de cijfers van de lopende maand, en vooral het tariefblad van uw leverancier, want sommige rekenen deelnemers extra kosten aan die het voordeel bij kleine volumes tenietdoen.
 
@@ -201,7 +201,7 @@ Zodra de vorm is gekozen, blijft de meest concrete vraag over: met wie. Omdat de
 1. **Ja, u kunt minder betalen voor elektriciteit zonder van leverancier te veranderen** — maar de besparing geldt alleen voor de energiecomponent van de gedeelde kWh, een fractie van 38,5 % van de factuur.
 2. **“Energiedelen” is geen synoniem van “energiegemeenschap”.** Er bestaan drie vormen, en de twee eenvoudigste — peer-to-peer en hetzelfde gebouw — vereisen geen rechtspersoon.
 3. **De rendabelste configuratie is delen binnen hetzelfde gebouw**: proportionele term geschrapt in Brussel, met 80 % verlaagd in Wallonië.
-4. **Brussel is het enige gewest waar alle drie de vormen werken**: 38 vergunde gemeenschappen, aantal deelnemers op één jaar meer dan verdubbeld, gratis slimme meter, platform BEST en een openbare facilitator.
+4. **Brussel is het enige gewest waar alle drie de vormen werken**: 36 vergunde gemeenschappen op 10 november 2026, aantal deelnemers op één jaar meer dan verdubbeld, gratis slimme meter, platform BEST en een openbare facilitator.
 5. **In Wallonië is peer-to-peer sinds 2022 wettelijk voorzien maar nog steeds niet operationeel**, bij gebrek aan een uitvoeringsbesluit. Zeven deelverrichtingen geteld door de CWaPE in maart 2025.
 6. **In Vlaanderen is het kader open maar is het netvoordeel nul**, en sommige leveranciers rekenen deelnemers extra kosten aan.
 7. **Een percentage zonder perimeter, gewest en datum is waardeloos** — ook in dit artikel, waarin elk cijfer zijn bron en zijn jaargang draagt.
@@ -243,7 +243,7 @@ De gedocumenteerde grootteorde bedraagt ongeveer **145 € per jaar** voor een v
 ## Bronnen
 
 - [Brugel — Nettarieven van toepassing op energiedelen](https://energysharing.brugel.brussels/energysharing/tarifs-de-reseau-409) — bron van de vier perimeters A, B, C en D en van de behandeling van elke tariefterm, uit beslissing 285bis van 4 november 2024, van toepassing van 1 januari 2025 tot 31 december 2029; vermeldt ook de regel die een gemengde deelverrichting indeelt op haar minst lokale deelnemer, en de gratis metervervanging voor deelnemers.
-- [Brugel — De vergunde gemeenschappen](https://energysharing.brugel.brussels/energysharing/les-communautes-autorisees-586) — nominatieve en gedateerde lijst van de in het Brussels Hoofdstedelijk Gewest vergunde energiegemeenschappen, van “Illuminons notre quartier” op 16 mei 2023 tot de vergunningen van 29 mei 2026; in totaal 38 gemeenschappen bij raadpleging op 5 augustus 2026.
+- [Brugel — De vergunde gemeenschappen](https://energysharing.brugel.brussels/energysharing/les-communautes-autorisees-586) — nominatieve en gedateerde lijst van de in het Brussels Hoofdstedelijk Gewest vergunde energiegemeenschappen, van “Illuminons notre quartier” op 16 mei 2023 tot “Sun Is Up 2” op 17 september 2026; 36 gemeenschappen op 10 november 2026. Die dag opnieuw geteld, dateert de lijst 34 vergunningen tot 29 mei 2026, tegenover 38 geteld op 5 augustus 2026; ze vermeldt geen intrekking.
 - [Brugel — Nieuwe statistische set over energiedelen in Brussel](https://brugel.brussels/actualites/nouveau-set-statistique-sur-le-partage-d-energie-a-bruxelles-661) — voorstelling van het gewestelijke observatorium: aantal projecten, deelnemers en gedeeld geïnstalleerd vermogen, met een kaart gemeente per gemeente.
 - [Renouvelle — Energiedelen in Brussel: meer dan 1 000 deelnemers!](https://www.renouvelle.be/fr/partage-denergie-a-bruxelles-plus-de-1000-participants/) — telling van 16 oktober 2024: 1 009 deelnemers, 129 projecten en 6,63 MWp gedeeld sinds 2022, tegenover 397 deelnemers het jaar voordien, met de opsplitsing per vorm van delen (zelfde gebouw 72 projecten / 533 deelnemers, peer-to-peer 47 / 94, gemeenschappen 10 / 382).
 - [La DH — Het energiedelen tussen gebruikers is in Brussel op één jaar bijna verdrievoudigd](https://www.dhnet.be/regions/bruxelles/2025/06/29/le-partage-denergie-entre-usagers-a-presque-triple-en-un-an-a-bruxelles-FRCFU2ZFOZDIBNL725OQOJACPM/) — Sibelga-telling van 29 juni 2025, onderscheiden van die van Brugel: 1 280 deelnemers in 2024 tegenover 454 in 2023, op 93 702 geplaatste slimme meters.

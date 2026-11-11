@@ -9,7 +9,7 @@ tags: [community, administrative, guide]
 lang: en
 ref: create-energy-community-wallonia
 pillar: communautes-energie
-last_modified_at: 2026-11-04 06:00:00 +0100
+last_modified_at: 2026-11-10 06:00:00 +0100
 permalink: /en/guides/create-energy-community-wallonia/
 ---
 
@@ -149,7 +149,7 @@ Once the configuration is technically validated, the DSO activates the sharing o
 2. Applies the allocation key to assign shared energy to each member.
 3. Transmits the shared volumes to the members' **energy suppliers** for billing adjustment.
 
-Electrons keep flowing on the grid as before: sharing is **administrative and tariff-based**, not physical. For examples of configurations already live, see our list of [open sharing operations](https://app.optimce.be).
+Electrons keep flowing on the grid as before: sharing is **administrative and tariff-based**, not physical. For examples of configurations already authorised, see our [barometer of authorised sharing](/en/guides/energy-communities-wallonia-barometer/).
 
 ## Step 6 — Operate, govern and report
 
@@ -217,13 +217,13 @@ If creating a community from scratch feels too heavy, **joining an existing oper
 
 > **[Join an energy community in Wallonia](/en/guides/join-energy-community-wallonia/)**
 >
-> Who can join, where to find an open operation (OptimCE registry, SPW facilitator, Énergie commune), step-by-step enrolment and points to check before you sign.
+> Who can join, where to find an open operation (OptimCE directory, SPW facilitator, Énergie commune), step-by-step enrolment and points to check before you sign.
 
 ## How OptimCE can help
 
 Once the community is notified and operational, the work begins: onboarding members, configuring allocation keys, tracking shared volumes at 15-minute granularity, producing the annual CWaPE report. **OptimCE** is an open source platform designed precisely for this: it automates the day-to-day management of energy communities and interfaces with the Walloon DSOs. The notification forms are part of the [CWaPE filing prepared by OptimCE](/en/features/cwape-filing/).
 
-To get started or to compare features, see the [OptimCE user guide](https://guide.optimce.be) and the public list of [open sharing operations](https://app.optimce.be) already managed via the platform.
+To get started or to compare features, see the [OptimCE user guide](https://guide.optimce.be); with an account, the application's [community directory](https://app.optimce.be) shows the sharing operations already managed on the platform that their managers have made public.
 
 ## Sources
 

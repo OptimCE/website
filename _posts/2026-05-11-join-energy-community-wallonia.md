@@ -3,17 +3,17 @@ layout: post
 title: "Join an energy community in Wallonia"
 date: 2026-05-11 16:00:00 +0200
 author: "Eric from OptimCE"
-excerpt: "How to join an energy community in Wallonia: eligibility, where to find an open sharing operation (OptimCE registry, SPW facilitator, Énergie commune), steps to enrol and points to check before you sign."
+excerpt: "How to join an energy community in Wallonia: eligibility, where to find an open sharing operation (OptimCE directory, SPW facilitator, Énergie commune), steps to enrol and points to check before you sign."
 description: "Eligibility conditions, where to find an open sharing operation, the enrolment steps and what to check before you sign."
 tags: [community, administrative, guide]
 lang: en
 ref: join-energy-community-wallonia
 pillar: communautes-energie
-last_modified_at: 2026-10-23 06:00:00 +0200
+last_modified_at: 2026-11-10 06:00:00 +0100
 permalink: /en/guides/join-energy-community-wallonia/
 ---
 
-In Wallonia, energy communities are no longer a fringe experiment: hundreds of sharing operations are live or in the notification pipeline. The legal framework is stable, the distribution system operators (DSOs) are tooled up, and most meters are already smart. One very concrete obstacle remains for most citizens, SMEs and local authorities: **how to find a community willing to take new members**, and **what to check before signing**.
+In Wallonia, energy communities are only just leaving the experimental stage: as of 10 November 2026, the CWaPE had authorised twelve sharing activities, in six communities, which our [barometer of authorised sharing](/en/guides/energy-communities-wallonia-barometer/) lists one by one. The legal framework is stable, the distribution system operators (DSOs) are tooled up, and most meters are already smart. One very concrete obstacle remains for most citizens, SMEs and local authorities: **how to find a community willing to take new members**, and **what to check before signing**.
 
 This guide is for that audience. Not for project leaders who want to create a community — for that, see our [step-by-step creation guide](/en/guides/create-energy-community-wallonia/) — nor for those still discovering the concept — start with [“Energy communities in Belgium: CER, CEC, CEL”](/en/guides/energy-communities-belgium/). It is for anyone who wants to **join an existing operation** and wants to know exactly how to go about it.
 
@@ -74,18 +74,18 @@ This is the trickiest question in Wallonia today. Several channels coexist, from
 
 | Rank | Channel | Target | Effort |
 |---|---|---|---|
-| 1 | OptimCE public registry | Citizens, SMEs — quick search by municipality | Low — web browsing |
+| 1 | OptimCE community directory | Citizens, SMEs — search by municipality | Low — OptimCE account required |
 | 2 | SPW Energy Community facilitator | Citizens wanting personal guidance | Medium — first contact |
 | 3 | Énergie commune (matchmaking) | Citizens oriented toward cooperatives / values | Low — online form |
 | 4 | Local inter-municipal entity / cooperative | Residents of a specific area | Variable |
 | 5 | DSO pages | Cross-checking after identification | Low |
 | 6 | Municipality, local press, word of mouth | Serendipitous discovery | Variable |
 
-### The OptimCE public registry
+### The OptimCE community directory
 
-OptimCE offers a **[public registry of sharing operations](https://app.optimce.be)** built into the application. Each community manager can choose to publish their operation; anyone can then browse the list, filter by municipality, identify those **open to new members**, and contact the manager directly.
+OptimCE builds a **[community directory](https://app.optimce.be)** into the application. A community appears in it as soon as its manager makes one of its sharing operations public, after entering at least one municipality for it. The directory is open to anyone with an OptimCE account: you can filter it by municipality or by regulator, as a list or on a map, and each entry gives the community's public operations and, where they have been filled in, its description, website and registered office.
 
-It is currently the **only interregional registry freely browsable without prior contact**: other channels require either reaching out to a facilitator first or already knowing of a local project. It's also the fastest channel for an initial overview.
+The directory only shows communities managed with OptimCE that have made an operation public: it is not a complete list. The official list of communities with a complete file is kept by the CWaPE, and our [barometer of authorised sharing](/en/guides/energy-communities-wallonia-barometer/) shows which ones already share. The directory remains the fastest channel for an initial overview, without waiting for an appointment with a facilitator.
 
 ### The SPW Energy Community facilitator
 
@@ -231,7 +231,7 @@ No. Energy sharing is a **right recognised by the Walloon decree**. Your supplie
 
 Three channels to take action:
 
-- Browse OptimCE's [public registry of sharing operations](https://app.optimce.be) to spot operations open near you.
+- With an OptimCE account, browse the [community directory](https://app.optimce.be) to spot communities that have made an operation public near you.
 - Contact the **Energy Community facilitator** at [SPW Énergie](https://energie.wallonie.be) for personal guidance.
 - Fill in the **matchmaking form** at [Énergie commune](https://energiecommune.be) if your orientation is more cooperative and citizen-led.
 

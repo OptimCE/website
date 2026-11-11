@@ -9,7 +9,7 @@ tags: [community]
 lang: en
 ref: self-consumption-belgium
 pillar: communautes-energie
-last_modified_at: 2026-10-22 10:00:00 +0200
+last_modified_at: 2026-11-10 06:00:00 +0100
 permalink: /en/guides/energy-self-consumption-belgium/
 faq:
   - q: "What is the self-consumption rate?"
@@ -150,7 +150,7 @@ The simplest way to move from individual self-consumption to sharing is to **joi
 
 <div class="post-cta" markdown="0">
   <h3>Ready to put your production to use? Start with OptimCE</h3>
-  <p>Browse the public registry of open energy communities near you, reach out to the one that fits, or create your own. OptimCE — an open-source platform — then automates member management, allocation keys and reporting to your network operator.</p>
+  <p>With an OptimCE account, browse the directory of energy communities near you, reach out to the one that fits, or create your own. OptimCE — an open-source platform — then automates member management, allocation keys and reporting to your network operator.</p>
   <p class="post-cta__actions">
     <a class="btn btn-primary btn--lg" href="https://app.optimce.be">Open the OptimCE app</a>
     <a class="btn btn-outline" href="https://guide.optimce.be">Read the user guide</a>

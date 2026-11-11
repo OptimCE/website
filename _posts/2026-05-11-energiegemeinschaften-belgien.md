@@ -9,7 +9,7 @@ tags: [community, administrative]
 lang: de
 ref: energy-communities-belgium
 pillar: communautes-energie
-last_modified_at: 2026-10-22 10:00:00 +0200
+last_modified_at: 2026-11-10 06:00:00 +0100
 permalink: /de/ratgeber/energiegemeinschaften-belgien/
 ---
 
@@ -67,7 +67,7 @@ Spezifisch für die **Region Brüssel-Hauptstadt** untersteht die **CEL** (*Comm
 | Energiequellen | Nur erneuerbar | Alle | Alle |
 | Geteilte Energie | Strom + Wärme | Strom | Strom (+ Dienste) |
 | Geografischer Perimeter | Begrenzt (Nähe) | Keiner | Quartier, Multi-Gebäude |
-| Aktivste Region | Wallonie | Wallonie | Brüssel |
+| Regionen | Wallonie, Brüssel, Flandern | Wallonie, Brüssel, Flandern | Nur Brüssel |
 
 ## Energiegemeinschaft vs. Teilungsoperation
 
@@ -86,7 +86,7 @@ Wichtig zu verstehen: Energieteilung ist **administrativ, nicht physisch**. Die 
 - **Die regionalen Regulierungsbehörden** — [CWaPE](https://www.cwape.be/secteur/communautes-partage-energie) in der Wallonie, [BRUGEL](https://environnement.brussels/citoyen/agir-pour-lenvironnement/devenir-eco-responsable/partage-et-communautes-denergie) in Brüssel, [Vlaamse Nutsregulator (ex-VREG)](https://www.vlaamsenutsregulator.be) in Flandern — legen die Regeln fest, überwachen die Tarife und veröffentlichen Leitfäden für Gemeinschaften.
 - **Die Energielieferanten** stellen weiterhin die **Restenergie** in Rechnung, also den Anteil des Verbrauchs, der nicht durch die interne Teilung gedeckt ist.
 - **Die Mitglieder** sind sowohl Prosumer (z. B. mit Photovoltaikanlage) als auch reine Verbraucher, KMU oder lokale Behörden.
-- **Der Community Manager** ist die Einheit, die die Gemeinschaft im Tagesgeschäft führt: Onboarding neuer Mitglieder, Konfiguration der Aufteilungsschlüssel, Reporting an den VNB. Genau diese Rolle vereinfacht **OptimCE** — siehe das [Benutzerhandbuch](https://guide.optimce.be) und das öffentliche Register der [offenen Teilungsoperationen](https://app.optimce.be).
+- **Der Community Manager** ist die Einheit, die die Gemeinschaft im Tagesgeschäft führt: Onboarding neuer Mitglieder, Konfiguration der Aufteilungsschlüssel, Reporting an den VNB. Genau diese Rolle vereinfacht **OptimCE** — siehe das [Benutzerhandbuch](https://guide.optimce.be); die Anwendung enthält außerdem ein [Gemeinschaftsverzeichnis](https://app.optimce.be), das mit einem OptimCE-Konto einsehbar ist.
 
 ## Vorteile — finanziell und ökologisch
 
@@ -144,11 +144,11 @@ Flandern verfügt über einen gleichwertigen Rahmen unter Aufsicht des **VREG**,
 
 ## Möchten Sie einer Energiegemeinschaft beitreten?
 
-**In der Wallonie** suchen Hunderte von Teilungsoperationen aktiv neue Mitglieder. Sie müssen keine eigene Gemeinschaft gründen, um von der Teilung zu profitieren — ein praktischer Leitfaden führt Sie Schritt für Schritt zum Beitritt zu einer bestehenden Operation in wenigen Wochen.
+**In der Wallonie** hatte die CWaPE am 10. November 2026 zwölf Teilungsaktivitäten in sechs Gemeinschaften genehmigt: Unser [Barometer](/de/ratgeber/energiegemeinschaften-wallonien-barometer/) zeigt, welche und in welchem Netz. Sie müssen keine eigene Gemeinschaft gründen, um von der Teilung zu profitieren — ein praktischer Leitfaden führt Sie Schritt für Schritt zum Beitritt zu einer bestehenden Operation in wenigen Wochen.
 
 > **[Energiegemeinschaft in der Wallonie beitreten](/de/ratgeber/energiegemeinschaft-beitreten-wallonien/)**
 >
-> Wer beitreten kann, wo eine offene Operation finden (OptimCE-Register, SPW-Facilitator, Énergie commune), Beitrittsschritte und Punkte zur Beachtung vor der Unterzeichnung.
+> Wer beitreten kann, wo eine offene Operation finden (OptimCE-Verzeichnis, SPW-Facilitator, Énergie commune), Beitrittsschritte und Punkte zur Beachtung vor der Unterzeichnung.
 
 > **Demnächst — Brüssel und Flandern**
 >

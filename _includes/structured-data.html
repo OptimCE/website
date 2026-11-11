@@ -220,6 +220,48 @@
       {%- endif -%}
     }
     {%- endif -%}
+    {%- comment -%}
+      Dataset: a post that publishes a data file declares it in front matter
+      (`dataset:` with name, description, file, temporal, spatial, based_on,
+      keywords). The license is CC BY 4.0 unless `dataset.license` says
+      otherwise. Each language page describes the same file in its language.
+    {%- endcomment -%}
+    {%- if page.layout == 'post' and page.dataset -%}
+    ,{
+      "@type": "Dataset",
+      "@id": {{ page_url | append: '#dataset' | jsonify }},
+      "name": {{ page.dataset.name | jsonify }},
+      "description": {{ page.dataset.description | jsonify }},
+      "url": {{ page_url | jsonify }},
+      "inLanguage": {{ lang | jsonify }},
+      "isAccessibleForFree": true,
+      "license": {{ page.dataset.license | default: 'https://creativecommons.org/licenses/by/4.0/' | jsonify }},
+      "creator": { "@id": {{ org_id | jsonify }} },
+      "publisher": { "@id": {{ org_id | jsonify }} },
+      "datePublished": {{ page.date | date_to_xmlschema | jsonify }},
+      "dateModified": {{ page.last_modified_at | default: page.date | date_to_xmlschema | jsonify }},
+      {%- if page.dataset.temporal %}
+      "temporalCoverage": {{ page.dataset.temporal | jsonify }},
+      {%- endif %}
+      {%- if page.dataset.spatial %}
+      "spatialCoverage": { "@type": "Place", "name": {{ page.dataset.spatial | jsonify }} },
+      {%- endif %}
+      {%- if page.dataset.based_on %}
+      "isBasedOn": {{ page.dataset.based_on | jsonify }},
+      {%- endif %}
+      {%- if page.dataset.keywords %}
+      "keywords": {{ page.dataset.keywords | join: ', ' | jsonify }},
+      {%- endif %}
+      "subjectOf": { "@id": {{ page_url | append: '#article' | jsonify }} },
+      "distribution": [
+        {
+          "@type": "DataDownload",
+          "encodingFormat": "text/csv",
+          "contentUrl": {{ page.dataset.file | absolute_url | jsonify }}
+        }
+      ]
+    }
+    {%- endif -%}
     {%- if page.ref == 'about' -%}
     ,{
       "@type": "AboutPage",

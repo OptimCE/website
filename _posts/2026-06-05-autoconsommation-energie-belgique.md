@@ -10,7 +10,7 @@ lang: fr
 ref: self-consumption-belgium
 pillar: communautes-energie
 permalink: /guides/autoconsommation-energie-belgique/
-last_modified_at: 2026-10-22 10:00:00 +0200
+last_modified_at: 2026-11-10 06:00:00 +0100
 faq:
   - q: "Qu'est-ce que le taux d'autoconsommation ?"
     a: "C'est la part de votre production solaire que vous consommez vous-même, au lieu de l'injecter sur le réseau. Un taux de 30 % signifie que vous consommez directement 30 % de ce que vos panneaux produisent ; le reste est injecté. Plus le taux est élevé, plus vous valorisez votre production."
@@ -150,7 +150,7 @@ La façon la plus simple de passer de l'autoconsommation individuelle au partage
 
 <div class="post-cta" markdown="0">
   <h3>Prêt à valoriser votre production ? Commencez avec OptimCE</h3>
-  <p>Parcourez le registre public des communautés d'énergie ouvertes près de chez vous, prenez contact avec celle qui vous correspond, ou créez la vôtre. OptimCE, plateforme open source, automatise ensuite la gestion des membres, les clés de répartition et le reporting au gestionnaire de réseau.</p>
+  <p>Avec un compte OptimCE, parcourez l'annuaire des communautés d'énergie près de chez vous, prenez contact avec celle qui vous correspond, ou créez la vôtre. OptimCE, plateforme open source, automatise ensuite la gestion des membres, les clés de répartition et le reporting au gestionnaire de réseau.</p>
   <p class="post-cta__actions">
     <a class="btn btn-primary btn--lg" href="https://app.optimce.be">Ouvrir l'application OptimCE</a>
     <a class="btn btn-outline" href="https://guide.optimce.be">Lire le guide utilisateur</a>

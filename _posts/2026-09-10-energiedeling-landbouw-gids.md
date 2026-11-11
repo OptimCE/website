@@ -2,7 +2,7 @@
 layout: post
 title: "Landbouwloods: de gids voor energiedelen"
 date: 2026-09-10 06:00:00 +0200
-last_modified_at: 2026-10-11 10:00:00 +0200
+last_modified_at: 2026-11-10 06:00:00 +0100
 author: "Eric van OptimCE"
 excerpt: "Een landbouwloods draagt tussen 100 en 350 kilowattpiek. Het is het grootste beschikbare dak van landelijk Wallonië, het best georiënteerde en het eenvoudigst uit te rusten: panelen op het dak hebben er geen stedenbouwkundige vergunning nodig, ongeacht hun vermogen. Toch is van de dertien bij de CWaPE gemelde energiegemeenschappen er geen enkele op een landbouwbedrijf gebouwd. Dat is geen onverschilligheid. Twee besluiten van de Waalse Regering, met drie weken tussentijd genomen in februari en maart 2023, duwen precies de tegenovergestelde kant op: het eerste subsidieert landbouwzonne-energie enkel in verhouding tot het zelfverbruikte deel, het tweede organiseert het delen van het overschot."
 description: "Twee Waalse besluiten uit 2023 spreken elkaar tegen: de landbouwsteun stopt waar het delen begint. Wat een loodsdak echt opbrengt."
@@ -252,8 +252,9 @@ diepst van januari. OptimCE, [beheersoftware voor energiegemeenschappen](/nl/fun
   versie van de sleutel wordt bewaard en de aanvaarding door de leden wordt opgevolgd.
 - **De documenten voorbereiden.** De documenten van de CWaPE worden vooraf ingevuld en de termijnen
   worden berekend. Het indienen blijft uw zaak.
-- **Deelnemers vinden.** Publiceer de deelactie in het publiek register van de applicatie, waar
-  iedereen een deelactie kan zoeken die openstaat voor nieuwe leden.
+- **Deelnemers vinden.** Maak de deelactie openbaar: de gemeenschap verschijnt dan in het overzicht
+  van gemeenschappen van de applicatie, waar iedereen met een OptimCE-account haar per gemeente kan
+  vinden.
 - **De gedeelde elektriciteit factureren** binnen het Waalse kader, afrekening voor de producent
   inbegrepen, met opvolging van de betalingen.
 

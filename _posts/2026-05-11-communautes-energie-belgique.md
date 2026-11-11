@@ -10,7 +10,7 @@ lang: fr
 ref: energy-communities-belgium
 pillar: communautes-energie
 permalink: /guides/communautes-energie-belgique/
-last_modified_at: 2026-10-22 10:00:00 +0200
+last_modified_at: 2026-11-10 06:00:00 +0100
 ---
 
 Les communautés d'énergie sont au cœur de la transition énergétique en Belgique. Encadrées par l'Union européenne et déclinées par chaque région — Wallonie, Bruxelles, Flandre — elles permettent à des citoyens, des entreprises et des autorités locales de produire, partager et consommer leur propre énergie. Cet article passe en revue les trois formes officielles (CER, CEC, CEL), explique comment fonctionne le partage d'énergie, présente les acteurs clés et résume les bénéfices financiers et écologiques.
@@ -67,7 +67,7 @@ Spécifique à la **Région de Bruxelles-Capitale**, la **CEL** est encadrée pa
 | Sources d'énergie | Renouvelables uniquement | Toutes | Toutes |
 | Énergie partagée | Électricité + chaleur | Électricité | Électricité (+ services) |
 | Périmètre géographique | Limité (proximité) | Aucun | Quartier, multi-bâtiments |
-| Région la plus active | Wallonie | Wallonie | Bruxelles |
+| Régions | Wallonie, Bruxelles, Flandre | Wallonie, Bruxelles, Flandre | Bruxelles uniquement |
 
 ## Communauté d'énergie et opération de partage
 
@@ -86,7 +86,7 @@ Point essentiel à comprendre : le partage d'énergie est **administratif, pas p
 - **Les régulateurs régionaux** — la [CWaPE](https://www.cwape.be/secteur/communautes-partage-energie) en Wallonie, [BRUGEL](https://environnement.brussels/citoyen/agir-pour-lenvironnement/devenir-eco-responsable/partage-et-communautes-denergie) à Bruxelles, le [Vlaamse Nutsregulator (ex-VREG)](https://www.vlaamsenutsregulator.be) en Flandre — fixent les règles, supervisent les tarifs et publient des guides à destination des communautés.
 - **Les fournisseurs d'énergie** continuent de facturer l'**énergie résiduelle**, c'est-à-dire la part de la consommation non couverte par le partage interne.
 - **Les membres** sont à la fois des prosommateurs (équipés en photovoltaïque par exemple), des consommateurs, des PME ou des autorités locales.
-- **Le gestionnaire de communauté** est l'entité qui pilote la communauté au quotidien : intégration de nouveaux membres, configuration des clés de répartition, reporting au GRD. C'est précisément ce rôle qu'**OptimCE** simplifie : consultez le [guide utilisateur](https://guide.optimce.be) et la liste publique des [opérations de partage ouvertes](https://app.optimce.be).
+- **Le gestionnaire de communauté** est l'entité qui pilote la communauté au quotidien : intégration de nouveaux membres, configuration des clés de répartition, reporting au GRD. C'est précisément ce rôle qu'**OptimCE** simplifie : consultez le [guide utilisateur](https://guide.optimce.be) ; l'application comprend aussi un [annuaire des communautés](https://app.optimce.be), consultable avec un compte OptimCE.
 
 ## Bénéfices : financiers et écologiques
 
@@ -144,11 +144,11 @@ Via les **compteurs communicants** (smart meters) déployés par les GRD, qui tr
 
 ## Vous voulez rejoindre une communauté d'énergie ?
 
-**En Wallonie**, des centaines d'opérations de partage cherchent activement de nouveaux membres. Pas besoin de créer votre propre communauté pour profiter du partage : un guide pratique détaille comment rejoindre une opération existante en quelques semaines.
+**En Wallonie**, la CWaPE avait autorisé douze activités de partage au 10 novembre 2026, dans six communautés : notre [baromètre](/guides/barometre-communautes-energie-wallonie/) indique lesquelles et sur quel réseau. Pas besoin de créer votre propre communauté pour profiter du partage : un guide pratique détaille comment rejoindre une opération existante en quelques semaines.
 
 > **[Rejoindre une communauté d'énergie en Wallonie](/guides/rejoindre-communaute-energie-wallonie/)**
 >
-> Qui peut adhérer, où trouver une opération ouverte (registre OptimCE, facilitateur SPW, Énergie commune), démarches pas à pas et points de vigilance avant de signer.
+> Qui peut adhérer, où trouver une opération ouverte (annuaire OptimCE, facilitateur SPW, Énergie commune), démarches pas à pas et points de vigilance avant de signer.
 
 > **Bientôt — Bruxelles et Flandre**
 >

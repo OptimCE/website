@@ -9,7 +9,7 @@ tags: [community, administrative]
 lang: en
 ref: energy-communities-belgium
 pillar: communautes-energie
-last_modified_at: 2026-10-22 10:00:00 +0200
+last_modified_at: 2026-11-10 06:00:00 +0100
 permalink: /en/guides/energy-communities-belgium/
 ---
 
@@ -67,7 +67,7 @@ Specific to the **Brussels-Capital Region**, the **CEL** (*Communauté d'Énergi
 | Energy sources | Renewable only | All | All |
 | Energy shared | Electricity + heat | Electricity | Electricity (+ services) |
 | Geographic perimeter | Limited (proximity) | None | Neighbourhood, multi-building |
-| Most active region | Wallonia | Wallonia | Brussels |
+| Regions | Wallonia, Brussels, Flanders | Wallonia, Brussels, Flanders | Brussels only |
 
 ## Energy community vs. sharing operation
 
@@ -86,7 +86,7 @@ Crucial point to grasp: energy sharing is **administrative, not physical**. Elec
 - **Regional regulators** — [CWaPE](https://www.cwape.be/secteur/communautes-partage-energie) in Wallonia, [BRUGEL](https://environnement.brussels/citoyen/agir-pour-lenvironnement/devenir-eco-responsable/partage-et-communautes-denergie) in Brussels, [Vlaamse Nutsregulator (ex-VREG)](https://www.vlaamsenutsregulator.be) in Flanders — set rules, supervise tariffs and publish guidance for communities.
 - **Energy suppliers** continue to bill **residual energy**, i.e. the share of consumption not covered by the community's internal sharing.
 - **Members** are prosumers (e.g. equipped with PV), pure consumers, SMEs or local authorities.
-- **The community manager** is the entity that runs the community day to day: onboarding new members, configuring allocation keys, reporting to the DSO. This is exactly the role that **OptimCE** simplifies — see the [user guide](https://guide.optimce.be) and the public registry of [open sharing operations](https://app.optimce.be).
+- **The community manager** is the entity that runs the community day to day: onboarding new members, configuring allocation keys, reporting to the DSO. This is exactly the role that **OptimCE** simplifies — see the [user guide](https://guide.optimce.be); the application also includes a [community directory](https://app.optimce.be), open to anyone with an OptimCE account.
 
 ## Benefits — financial and ecological
 
@@ -144,11 +144,11 @@ Through the **smart meters** rolled out by the DSOs, which transmit data every *
 
 ## Want to join an energy community?
 
-**In Wallonia**, hundreds of sharing operations are actively looking for new members. You don't have to create your own community to benefit from sharing — a practical guide walks you through joining an existing operation in a few weeks.
+**In Wallonia**, the CWaPE had authorised twelve sharing activities in six communities as of 10 November 2026: our [barometer](/en/guides/energy-communities-wallonia-barometer/) shows which ones and on which grid. You don't have to create your own community to benefit from sharing — a practical guide walks you through joining an existing operation in a few weeks.
 
 > **[Join an energy community in Wallonia](/en/guides/join-energy-community-wallonia/)**
 >
-> Who can join, where to find an open operation (OptimCE registry, SPW facilitator, Énergie commune), step-by-step enrolment and points to check before you sign.
+> Who can join, where to find an open operation (OptimCE directory, SPW facilitator, Énergie commune), step-by-step enrolment and points to check before you sign.
 
 > **Coming soon — Brussels and Flanders**
 >

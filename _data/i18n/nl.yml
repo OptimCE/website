@@ -92,8 +92,8 @@ modules:
           text: "Lidmaatschappen, rollen, bankgegevens en documenten van elk lid."
         - title: "Meters en kaart"
           text: "Elke meter met zijn kwartierwaarden, als lijst of op de kaart."
-        - title: "Openbare gids"
-          text: "Stel uw gemeenschap voor, zodat nieuwe leden haar vinden."
+        - title: "Overzicht van gemeenschappen"
+          text: "Stel uw gemeenschap voor aan geregistreerde gebruikers die in hun buurt zoeken."
     - name: "Delen"
       items:
         - title: "Verdeelsleutels"

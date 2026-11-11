@@ -2,7 +2,7 @@
 layout: post
 title: "Energy communities: a guide for municipalities"
 date: 2026-08-30 06:00:00 +0200
-last_modified_at: 2026-11-04 06:00:00 +0100
+last_modified_at: 2026-11-10 06:00:00 +0100
 author: "Eric from OptimCE"
 excerpt: "262 Walloon municipalities. Thirteen energy communities with a complete file at the CWaPE, of which only six actually share any electricity. This is not a shortage of ambition: it is that almost nobody has noticed what Walloon law already says. The first of the two proximity criteria for a renewable energy community is literally “the territory of one single and same municipality”. Wallonia is the only one of the three regions where the legislator drew the perimeter itself — and drew it along the municipal boundary."
 description: "In Wallonia, the perimeter of a renewable energy community is the municipal territory. What a municipality can do with it, and at what price."
@@ -28,7 +28,7 @@ faq:
 
 Wallonia has **262 municipalities**. As of 3 September 2026, the CWaPE lists **thirteen energy communities** whose file has been declared complete — and **only six of them** hold at least one authorised sharing activity. Seven have a legal entity, articles of association, an acknowledgement of receipt, and not a single shared kilowatt-hour.
 
-Now read their names: *Soleil d'Aubange*, *DURBUY 1*, *LASNENERGIE*, *Soleil de Rixensart*, *Courants de Gaume*, *Communauté d'énergie partagée by BEP*. These are not start-up names. They are the names of territories. The Walloon energy-community movement is, in practice, a movement of local authorities — but it currently involves one municipality in twenty.
+Now read some of the thirteen names on the list: *Soleil d'Aubange*, *DURBUY 1*, *LASNENERGIE*, *Soleil de Rixensart*, *Courants de Gaume*, *Communauté d'énergie partagée by BEP*. These are not start-up names. They are the names of territories. The Walloon energy-community movement is, in practice, a movement of local authorities — but it currently involves one municipality in twenty.
 
 This article does not repeat what is already written elsewhere on this site: the difference between the three Belgian statuses is covered in [“Energy communities in Belgium: CER, CEC, CEL”](/en/guides/energy-communities-belgium/), the general creation procedure in [“Create an energy community in Wallonia”](/en/guides/create-energy-community-wallonia/), the regulator's documents and deadlines in [“Energy community: CWaPE documents and deadlines”](/en/guides/energy-community-administrative-documents-wallonia/), internal pricing in [“Internal transfer price in an energy community”](/en/guides/energy-community-electricity-price/), allocation keys in [“Allocation key in Belgium: the 3 regions”](/en/guides/allocation-key-belgium/), and the degrees of the local short circuit in [“Local electricity: the short-circuit guide”](/en/guides/local-electricity-short-circuit-guide/).
 
@@ -303,9 +303,9 @@ leave the community. OptimCE, our [energy community management software](/en/fea
 - **Prepare the Walloon procedures.** The CWaPE documents are pre-filled from that data, the
   deadlines are calculated and the dashboard flags the ones coming up. Filing them remains the
   community's responsibility.
-- **Make the operation known.** Publish it in the application's public registry, where residents
-  look for an open operation near them, then inform and consult members with the news board and
-  polls.
+- **Make the operation known.** Make it public: the community then appears in the application's
+  community directory, where anyone with an OptimCE account can find it by municipality. Then
+  inform and consult members with the news board and polls.
 - **Invoice the shared electricity** under the Walloon framework, with payment tracking.
 
 The application is free during the alpha phase.

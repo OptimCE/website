@@ -3,13 +3,13 @@ layout: post
 title: "Stroom in de korte keten: de handleiding"
 date: 2026-08-25 06:00:00 +0200
 author: "Eric van OptimCE"
-excerpt: "In 2020 verkochten 3 478 Waalse landbouwbedrijven via de korte keten — 27 % van alle boerderijen, tegenover 8 % tien jaar eerder. In augustus 2026 telt de CWaPE 13 energiegemeenschappen en ongeveer 126 werkelijke deelnemers aan energiedelen. Dezelfde regio, hetzelfde woord, twee werelden. De verklaring is niet cultureel: een groentemand wacht in de koelkast, een niet-verbruikte kilowattuur verdwijnt in vijftien minuten. Hier zijn de vier gradaties van de korte keten voor stroom, wat ze werkelijk verkorten, en waarom u een wijk samenstelt op uurrooster en niet op sympathie."
+excerpt: "In 2020 verkochten 3 478 Waalse landbouwbedrijven via de korte keten — 27 % van alle boerderijen, tegenover 8 % tien jaar eerder. In augustus 2026 telt de CWaPE 13 energiegemeenschappen, en de cartografie van een vereniging ongeveer 126 werkelijke deelnemers aan energiedelen. Dezelfde regio, hetzelfde woord, twee werelden. De verklaring is niet cultureel: een groentemand wacht in de koelkast, een niet-verbruikte kilowattuur verdwijnt in vijftien minuten. Hier zijn de vier gradaties van de korte keten voor stroom, wat ze werkelijk verkorten, en waarom u een wijk samenstelt op uurrooster en niet op sympathie."
 description: "De vier gradaties van de korte keten voor stroom in Wallonië, wat ze echt verkorten, en waarom u een wijk samenstelt op uurrooster."
 tags: [guide, community]
 lang: nl
 ref: local-electricity-short-circuit
 pillar: facture-electricite
-last_modified_at: 2026-10-22 10:00:00 +0200
+last_modified_at: 2026-11-10 06:00:00 +0100
 permalink: /nl/gidsen/elektriciteit-korte-keten-handleiding/
 faq:
   - q: "Kan ik in Wallonië de stroom van mijn overbuur kopen?"
@@ -110,7 +110,7 @@ De energiegemeenschap is daarvan de bijna letterlijke omzetting, met één zwaar
 
 De volledige stappen staan beschreven in [“Energiegemeenschap oprichten in Wallonië”](/nl/gidsen/energiegemeenschap-oprichten-wallonie/) en, langs de zijde van de kandidaat-deelnemer, in [“Toetreden tot een energiegemeenschap in Wallonië”](/nl/gidsen/energiegemeenschap-aansluiten-wallonie/).
 
-De telling zelf is snel gemaakt. Op 25 augustus 2026 bevatte de openbare lijst van de CWaPE **13 gemeenschappen** met een volledig dossier, verspreid van Aubange tot Rixensart, van Gesves tot Doornik. De oudste, Soleil d'Aubange, werd in mei 2024 aangemeld. Een cartografie van juni 2026 telde **8 werkelijk lopende operaties van delen**, gedragen door slechts 5 gemeenschappen, terwijl de overige nog niet waren gestart.
+De telling zelf is snel gemaakt. Op 25 augustus 2026 bevatte de openbare lijst van de CWaPE **13 gemeenschappen** met een volledig dossier, verspreid van Aubange tot Rixensart, van Gesves tot Doornik. De oudste, Soleil d'Aubange, werd in mei 2024 aangemeld. Een cartografie van juni 2026 telde **8 werkelijk lopende operaties van delen**, gedragen door slechts 5 gemeenschappen, terwijl de overige nog niet waren gestart. De telling van de door de CWaPE toegelaten deelactiviteiten, beslissing per beslissing, houden wij bij in onze [barometer van de toegelaten deelactiviteiten](/nl/gidsen/energiegemeenschappen-wallonie-barometer/).
 
 ### Gradatie 4 — De coöperatieve winkel: de burgercoöperatie
 
@@ -269,7 +269,7 @@ Terug naar de aanvankelijke paradox. 3 478 boerderijen in de korte keten voor vo
 
 De CWaPE zegt niets anders. In haar advies van het voorjaar 2025, toen het Gewest nog maar vier operaties van delen binnen een gebouw en drie in gemeenschappen telde, stelde de regulator vast dat “deze nieuwe regelingen niet het verhoopte succes kennen” en dat de toegankelijkheidsdoelstellingen van de richtlijn “niet worden bereikt”. De hindernissen die zij opsomde, zijn eerder administratief dan technisch: zwaarte van de procedures, complexiteit van het juridische kader, restrictief statuut van de productie-installaties, ongeschikte marktprocessen. Tot haar aanbevelingen behoren de afronding van het peer-to-peerkader, de administratieve vereenvoudiging en de aanstelling van een specifieke facilitator.
 
-Het regionale contrast bevestigt de diagnose. In Brussel, waar het delen geniet van publieke begeleiding, geautomatiseerde gegevensuitwisseling en een gunstiger tariefbehandeling, had Brugel medio 2026 meer dan veertig energiegemeenschappen vergund, met ongeveer **1 417 deelnemers** — tegenover **126** in Wallonië, op een grondgebied met drie keer meer inwoners.
+Het regionale contrast bevestigt de diagnose. In Brussel, waar het delen geniet van publieke begeleiding, geautomatiseerde gegevensuitwisseling en een gunstiger tariefbehandeling, had Brugel medio 2026 34 energiegemeenschappen vergund (36 op 10 november 2026), met ongeveer **1 417 deelnemers** — tegenover **126** in Wallonië, op een grondgebied met drie keer meer inwoners.
 
 Het gaat dus noch om een gebrek aan bereidheid, noch om een probleem van lokale cultuur. Wallonië heeft met zijn boerderijen aangetoond dat het korte ketens op grote schaal aankan. **Wat het nog niet heeft, is het kader dat een korte keten voor stroom even eenvoudig maakt om op te zetten als een aankoopgroep.**
 
@@ -332,7 +332,7 @@ Het zijn twee juridisch en economisch verschillende dingen, vaak verward omdat z
 - [Renouvelle — Toeslagen van leveranciers: een rem op energiedelen?](https://www.renouvelle.be/fr/surtarifs-fournisseurs-partage-energie/) — de door de leveranciers aangevoerde verantwoording, namelijk manuele verwerking van de gegevens van het delen en balancering; sterke variatie van leverancier tot leverancier; ontbreken van controlebevoegdheid van de CREG over kosten die tot het geliberaliseerde deel van de factuur behoren. Artikel van 27 oktober 2025.
 - [Renouvelle — Delen en energiegemeenschappen in Wallonië: het advies van de CWaPE](https://www.renouvelle.be/fr/partage-et-communautes-energie-en-wallonie-avis-de-la-cwape/) — vaststelling van de regulator dat “deze nieuwe regelingen niet het verhoopte succes kennen”, telling van vier operaties binnen een gebouw en drie in gemeenschappen op dat ogenblik, lijst van de vastgestelde hindernissen en aanbevelingen over het peer-to-peerkader, de administratieve vereenvoudiging en een specifieke facilitator. Artikel van 18 maart 2025.
 - [GAL Condruses — Cartografie van de energiegemeenschappen in Wallonië](https://www.galcondruses.be/blog/energie-6/cartographie-des-communautes-denergie-en-wallonie-112) — bron van de raming van ongeveer 126 deelnemers aan het delen in Wallonië en 1 417 in Brussel, en van de telling van acht actieve operaties gedragen door vijf gemeenschappen. Opname van 17 juni 2026; het gaat om een cartografie van een vereniging, niet om een officiële opgave van de regulator.
-- [Brugel — De vergunde gemeenschappen](https://energysharing.brugel.brussels/energysharing/les-communautes-autorisees-586) — register van de in het Brussels Hoofdstedelijk Gewest vergunde energiegemeenschappen, waarvan het aantal medio 2026 de veertig overschreed, hier gebruikt voor het regionale contrast.
+- [Brugel — De vergunde gemeenschappen](https://energysharing.brugel.brussels/energysharing/les-communautes-autorisees-586) — register van de in het Brussels Hoofdstedelijk Gewest vergunde energiegemeenschappen, met 34 vergunde gemeenschappen medio 2026 en 36 op 10 november 2026, volgens de vergunningsdata van de lijst zoals die dag opnieuw geteld; hier gebruikt voor het regionale contrast.
 - [REScoop Wallonie](https://www.rescoop-wallonie.be/) — cijfers van de federatie per eind 2024: 20 burgercoöperaties, ongeveer 23 000 vennoten, 31,6 miljoen euro kapitaal, 102 MW geïnstalleerd vermogen en 196 miljoen kWh geproduceerd, het equivalent van het elektriciteitsverbruik van 56 000 gezinnen.
 - [Cociter — Onze korte keten voor energie](https://www.cociter.be/notre-electricite/notre-circuit-court-denergie/) — model van een leverancier in handen van de Waalse burgercoöperaties, de zin “En als uw stroom van uw buren kwam?” en het instapbedrag van 250 € om vennoot te worden.
 - [Natuurpark Gaume — Energiegemeenschap in Aubange](https://parc-naturel-gaume.be/cer_aubange_premierewallonne/) — eerste in Wallonië erkende hernieuwbare energiegemeenschap, opgebouwd rond installaties gedragen door de gemeente met de steun van een plaatselijke actiegroep en een gespecialiseerde vzw, hier aangehaald als schoolvoorbeeld van een start via een openbaar dak.

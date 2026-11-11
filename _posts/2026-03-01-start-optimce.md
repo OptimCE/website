@@ -2,7 +2,7 @@
 layout: post
 title: "Start von OptimCE: die Ursprünge des Projekts"
 date: 2026-03-01 10:00:00 +0100
-last_modified_at: 2026-07-26 10:00:00 +0200
+last_modified_at: 2026-11-10 06:00:00 +0100
 author: "Eric, OptimCE"
 excerpt: "OptimCE ist nicht in einem Inkubator entstanden, sondern in einem Labor. Ein Rückblick auf Locomotrice, das wallonische Forschungsprojekt hinter der Plattform, auf die beteiligten Partner und auf die Gründe für die Veröffentlichung als Open Source."
 description: "Woher OptimCE kommt: das Forschungsprojekt Locomotrice, die Partner Universität Lüttich und CECOTEPE, und warum es quelloffen ist."
@@ -75,7 +75,7 @@ Die Architektur ist **ereignisgesteuert und modular**, sodass sich Module Dritte
 
 Einzelheiten zum Projekt, zu den Partnern und zur Förderung finden sich auf der Seite [Über uns](/de/about/).
 
-Seit diesem Start hat sich die Plattform weiterentwickelt: siehe die [Version Mai 2026](/de/aktuelles/2026/05/07/release-neuigkeiten/), die das öffentliche Register der Teilungsoperationen und das Benutzerhandbuch eingeführt hat.
+Seit diesem Start hat sich die Plattform weiterentwickelt: siehe die [Version Mai 2026](/de/aktuelles/2026/05/07/release-neuigkeiten/), die das Gemeinschaftsverzeichnis und das Benutzerhandbuch eingeführt hat.
 
 ## FAQ
 

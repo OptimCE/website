@@ -9,7 +9,7 @@ tags: [community, administrative, guide]
 lang: nl
 ref: create-energy-community-wallonia
 pillar: communautes-energie
-last_modified_at: 2026-11-04 06:00:00 +0100
+last_modified_at: 2026-11-10 06:00:00 +0100
 permalink: /nl/gidsen/energiegemeenschap-oprichten-wallonie/
 ---
 
@@ -149,7 +149,7 @@ Eenmaal de configuratie technisch gevalideerd, activeert de DNB het delen op een
 2. Past hij de verdeelsleutel toe om de gedeelde energie aan elk lid toe te wijzen.
 3. Bezorgt hij de gedeelde volumes aan de **energieleveranciers** van de leden voor aanpassing van de facturatie.
 
-De elektronen blijven normaal stromen op het net: het delen is **administratief en tarifair**, niet fysiek. Voor voorbeelden van reeds actieve configuraties, zie onze lijst van [open deelacties](https://app.optimce.be).
+De elektronen blijven normaal stromen op het net: het delen is **administratief en tarifair**, niet fysiek. Voor voorbeelden van reeds toegelaten configuraties, zie onze [barometer van de toegelaten deelactiviteiten](/nl/gidsen/energiegemeenschappen-wallonie-barometer/).
 
 ## Stap 6 — Uitbaten, besturen en rapporteren
 
@@ -217,13 +217,13 @@ Lijkt een gemeenschap van nul oprichten te zwaar, dan is **toetreden tot een bes
 
 > **[Toetreden tot een energiegemeenschap in Wallonië](/nl/gidsen/energiegemeenschap-aansluiten-wallonie/)**
 >
-> Wie kan toetreden, waar een open deelactie te vinden (OptimCE-register, SPW-facilitator, Énergie commune), stap-voor-stap-procedure en aandachtspunten vóór ondertekening.
+> Wie kan toetreden, waar een open deelactie te vinden (OptimCE-overzicht, SPW-facilitator, Énergie commune), stap-voor-stap-procedure en aandachtspunten vóór ondertekening.
 
 ## Hoe OptimCE kan helpen
 
 Zodra de gemeenschap is gemeld en operationeel, begint het werk: leden onboarden, verdeelsleutels configureren, gedeelde volumes opvolgen om de 15 minuten, het jaarrapport voor de CWaPE opstellen. **OptimCE** is een open source platform dat hier specifiek voor is gemaakt: het automatiseert het dagelijkse beheer van energiegemeenschappen en sluit aan op de Waalse DNB's. De kennisgevingsformulieren maken deel uit van het [CWaPE-dossier dat OptimCE voorbereidt](/nl/functies/cwape-dossier/).
 
-Om te starten of de functies te vergelijken, raadpleeg de [gebruikersgids van OptimCE](https://guide.optimce.be) en de openbare lijst van [open deelacties](https://app.optimce.be) die al via het platform worden beheerd.
+Om te starten of de functies te vergelijken, raadpleeg de [gebruikersgids van OptimCE](https://guide.optimce.be); met een account toont het [overzicht van gemeenschappen](https://app.optimce.be) in de applicatie de deelacties die al via het platform worden beheerd en die hun beheerders openbaar hebben gemaakt.
 
 ## Bronnen
 

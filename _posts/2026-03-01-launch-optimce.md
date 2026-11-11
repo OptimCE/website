@@ -2,7 +2,7 @@
 layout: post
 title: "Launching OptimCE: the origins of the project"
 date: 2026-03-01 10:00:00 +0100
-last_modified_at: 2026-07-26 10:00:00 +0200
+last_modified_at: 2026-11-10 06:00:00 +0100
 author: "Eric from OptimCE"
 excerpt: "OptimCE was not born in an incubator but in a laboratory. A look back at Locomotrice, the Walloon research project that produced the platform, at the partners behind it, and at the reasons it was released as open source."
 description: "Where OptimCE comes from: the Locomotrice research project, the ULiège and CECOTEPE partners, and why the platform is open source."
@@ -75,7 +75,7 @@ The architecture is **event-driven and modular**, which allows third-party modul
 
 The details of the project, its partners and its funding are on the [About](/en/about/) page.
 
-The platform has kept moving since that launch: see the [May 2026 release](/en/news/2026/05/07/release-news/), which introduced the public registry of sharing operations and the user guide.
+The platform has kept moving since that launch: see the [May 2026 release](/en/news/2026/05/07/release-news/), which introduced the community directory and the user guide.
 
 ## FAQ
 

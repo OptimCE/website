@@ -9,7 +9,7 @@ tags: [community]
 lang: de
 ref: reduce-electricity-bill
 pillar: facture-electricite
-last_modified_at: 2026-10-22 10:00:00 +0200
+last_modified_at: 2026-11-10 06:00:00 +0100
 permalink: /de/ratgeber/energiegemeinschaft-stromrechnung-senken/
 ---
 
@@ -130,7 +130,7 @@ Der einfachste Weg, Ihre Rechnung zu senken, ist der **Beitritt zu einer bestehe
 
 <div class="post-cta" markdown="0">
   <h3>Bereit, Ihre Rechnung zu senken? Starten Sie mit OptimCE</h3>
-  <p>Durchsuchen Sie das öffentliche Register offener Energiegemeinschaften in Ihrer Nähe, nehmen Sie Kontakt mit der passenden auf, oder gründen Sie Ihre eigene. OptimCE — eine Open-Source-Plattform — automatisiert anschließend die Mitgliederverwaltung, die Aufteilungsschlüssel und das Reporting an Ihren Netzbetreiber.</p>
+  <p>Durchsuchen Sie mit einem OptimCE-Konto das Verzeichnis der Energiegemeinschaften in Ihrer Nähe, nehmen Sie Kontakt mit der passenden auf, oder gründen Sie Ihre eigene. OptimCE — eine Open-Source-Plattform — automatisiert anschließend die Mitgliederverwaltung, die Aufteilungsschlüssel und das Reporting an Ihren Netzbetreiber.</p>
   <p class="post-cta__actions">
     <a class="btn btn-primary btn--lg" href="https://app.optimce.be">OptimCE-App öffnen</a>
     <a class="btn btn-outline" href="https://guide.optimce.be">Benutzerleitfaden lesen</a>

@@ -2,9 +2,9 @@
 layout: post
 title: "Cheaper electricity without switching supplier"
 date: 2026-08-05 04:00:00 +0200
-last_modified_at: 2026-10-22 10:00:00 +0200
+last_modified_at: 2026-11-10 06:00:00 +0100
 author: "Eric from OptimCE"
-excerpt: "Every guide to saving on electricity ends with the same sentence: compare, then switch supplier. Yet one mechanism lowers the bill without cancelling anything — energy sharing. The question is not whether it is legal: it is, in all three regions. It is whether it is available where you live, and two numbers frame the answer: 38 authorised communities in Brussels, 8 in Wallonia."
+excerpt: "Every guide to saving on electricity ends with the same sentence: compare, then switch supplier. Yet one mechanism lowers the bill without cancelling anything — energy sharing. The question is not whether it is legal: it is, in all three regions. It is whether it is available where you live, and two numbers frame the answer: 36 authorised communities in Brussels and 13 notified in Wallonia, only six of which share, in November 2026."
 description: "Energy sharing lowers your bill without cancelling your contract. What it is really worth, and which Belgian region can actually offer it to you."
 tags: [guide, administrative, community]
 lang: en
@@ -30,7 +30,7 @@ Every guide to cutting your electricity bill ends with the same sentence. Compar
 
 There is, however, a mechanism that lowers the bill **without touching the contract**. Not a promotion, not a referral scheme, not a group purchase: a legal arrangement, regulated by the country's three regulators, which routes part of a local producer's output to your meter at a price agreed between you. This is energy sharing, and it has been legal everywhere in Belgium since 2022.
 
-So the interesting question is not "does it exist?". It is: **is it available where I live?** And that is where the country splits in three. Two numbers frame the problem: as of 5 August 2026, Brugel listed **38 authorised energy communities** in the Brussels-Capital Region, the most recent authorisation dated 29 May 2026. In Wallonia, there were **8** in February 2026, and the CWaPE assessment of March 2025 counted **seven sharing operations** in total across the territory.
+So the interesting question is not "does it exist?". It is: **is it available where I live?** And that is where the country splits in three. Two numbers frame the problem: as of 10 November 2026, Brugel listed **36 authorised energy communities** in the Brussels-Capital Region, the most recent authorisation dated 17 September 2026. In Wallonia, the CWaPE listed **13** notified communities with a complete file on the same date, only six of which had an authorised sharing activity, according to our [barometer](/en/guides/energy-communities-wallonia-barometer/); there were 8 in February 2026, and the CWaPE assessment of March 2025 counted **seven sharing operations** in total across the territory.
 
 This article does not re-explain what an energy community is, or what separates a REC from a CEC — that is covered in [“Energy communities in Belgium: REC, CEC, LEC”](/en/guides/energy-communities-belgium/). Nor does it detail the two-invoice mechanics, described in [“Who invoices shared electricity in Belgium”](/en/guides/who-invoices-shared-electricity-belgium/), or the comparison with the social tariff and dynamic contracts, handled in [“Which electricity tariff should you choose in Belgium?”](/en/guides/choose-electricity-tariff-belgium/). It answers a more down-to-earth question: **is energy sharing a real option for you, today, where you live** — and if so, in which form.
 
@@ -95,7 +95,7 @@ Here is the heart of the matter. The table below summarises the real availabilit
 | **Community** | operational | operational | operational |
 | **Network tariff reduction** | **graduated across 4 perimeters** | −80 % of the proportional term, **same building only** | **none** |
 | **Smart meter** | mandatory, **replacement free** | mandatory (communicating or AMR) | mandatory |
-| **Measured take-up** | 38 authorised communities; 1,009 participants / 129 projects (Oct. 2024) | 8 communities (Feb. 2026); 7 sharing operations (Mar. 2025) | 7,779 access points (Dec. 2023), i.e. 0.2 % |
+| **Measured take-up** | 36 authorised communities (Nov. 2026); 1,009 participants / 129 projects (Oct. 2024) | 8 communities (Feb. 2026); 7 sharing operations (Mar. 2025) | 7,779 access points (Dec. 2023), i.e. 0.2 % |
 
 Three readings, and they do not run in the expected direction.
 
@@ -105,7 +105,7 @@ Brussels is ahead, and the gap is widening. Sharing has been legal there since M
 
 The take-up figures come from two distinct counters, which should not be added together. Brugel's observatory, relayed in October 2024, recorded **1,009 participants across 129 projects and 6.63 MWp shared**, against 397 participants the previous year. Sibelga, for its part, announced in June 2025 **1,280 participants in 2024 against 454 in 2023**, on a base of 93,702 smart meters installed. Perimeters and dates differ; what converges is the slope — the number of participants **more than doubled in a year** according to both sources.
 
-The list of authorised communities, maintained by Brugel, gives the measure of the movement: from the first authorisation on 16 May 2023 — *Illuminons notre quartier* — to the most recent on 29 May 2026, there are **38 authorised communities**, including *Brupower*, authorised on 17 April 2024. Authorisations are accelerating: a handful in 2023, around fifteen in 2025.
+The list of authorised communities, maintained by Brugel, gives the measure of the movement: from the first authorisation on 16 May 2023 — *Illuminons notre quartier* — to the most recent, *Sun Is Up 2*, on 17 September 2026, there are **36 authorised communities**, including *Brupower*, authorised on 17 April 2024. Authorisations are accelerating: a handful in 2023, around fifteen in 2025.
 
 Two infrastructure elements partly explain this lead. First, replacing your meter with a smart meter is **free** for sharing participants. Second, since June 2026 the **BEST** platform — Brussels Energy Sharing Tool, developed by the non-profit Simply Energy with support from Bruxelles Environnement — has automated the administrative management and invoicing of sharing. On top of that comes a **free “Energy Sharing and Communities” facilitator**, available to any Brussels resident. Another change on 1 January 2026: the notice period for leaving an energy community has been cut to **24 hours**, which materially lowers the perceived risk of joining.
 
@@ -188,7 +188,7 @@ What is moving: the order of 5 February 2026 amended the 2023 framework, the num
 
 **If you live in Brussels.** Contact the “Energy Sharing and Communities” facilitator at Bruxelles Environnement — the service is free. Check the map of ongoing projects on Brugel's site to see whether an operation already exists in your neighbourhood, and confirm with Sibelga that your smart meter is in place: replacement is free for participants. If you are in a co-ownership with a roof, look at perimeter A before anything else: it is the most advantageous regime in the country.
 
-**If you live in Wallonia.** First check whether your building allows same-building sharing — the only configuration combining no legal entity with the 80 % reduction of the proportional term. Failing that, look for an open sharing operation nearby; OptimCE's public register and the SPW facilitator both list them. Do not wait for peer-to-peer before acting: no timetable has been announced.
+**If you live in Wallonia.** First check whether your building allows same-building sharing — the only configuration combining no legal entity with the 80 % reduction of the proportional term. Failing that, look for an open sharing operation nearby; the SPW facilitator can point you to one, and OptimCE's community directory, open to anyone with an account, shows some of them. Do not wait for peer-to-peer before acting: no timetable has been announced.
 
 **If you live in Flanders.** Sharing and selling are open, including between individuals, but with no network advantage: the entire gain comes from the price gap. Two checks before signing — the VREG dashboard for this month's figures, and above all your supplier's tariff sheet, since some charge participants extra fees that wipe out the benefit on small volumes.
 
@@ -201,7 +201,7 @@ Once the form is chosen, the most concrete question remains: with whom. Because 
 1. **Yes, you can pay less for electricity without switching supplier** — but the saving only applies to the energy component of shared kWh, a fraction of 38.5 % of the bill.
 2. **“Energy sharing” is not a synonym for “energy community”.** There are three forms, and the two simplest — peer-to-peer and same-building — require no legal entity.
 3. **The most profitable configuration is same-building sharing**: proportional term removed in Brussels, cut by 80 % in Wallonia.
-4. **Brussels is the only region where all three forms work**: 38 authorised communities, participants more than doubled in a year, free smart meter, the BEST platform and a public facilitator.
+4. **Brussels is the only region where all three forms work**: 36 authorised communities as of 10 November 2026, participants more than doubled in a year, free smart meter, the BEST platform and a public facilitator.
 5. **In Wallonia, peer-to-peer has been legally provided for since 2022 but is still inoperative** for lack of an implementing order. Seven sharing operations counted by the CWaPE in March 2025.
 6. **In Flanders the framework is open but the network advantage is nil**, and some suppliers charge participants extra fees.
 7. **A percentage without its perimeter, region and date is worthless** — including in this article, where every figure carries its source and its vintage.
@@ -243,7 +243,7 @@ The documented order of magnitude is around **€145 per year** for a consumer r
 ## Sources
 
 - [Brugel — Network tariffs applicable to energy sharing](https://energysharing.brugel.brussels/energysharing/tarifs-de-reseau-409) — source for the four perimeters A, B, C and D and the treatment of each tariff term, from decision 285bis of 4 November 2024 applicable from 1 January 2025 to 31 December 2029; also states the rule classifying a mixed sharing operation on its least local participant, and the free meter replacement for participants.
-- [Brugel — Authorised communities](https://energysharing.brugel.brussels/energysharing/les-communautes-autorisees-586) — named and dated list of energy communities authorised in the Brussels-Capital Region, from “Illuminons notre quartier” on 16 May 2023 to the authorisations of 29 May 2026; 38 communities in total as consulted on 5 August 2026.
+- [Brugel — Authorised communities](https://energysharing.brugel.brussels/energysharing/les-communautes-autorisees-586) — named and dated list of energy communities authorised in the Brussels-Capital Region, from “Illuminons notre quartier” on 16 May 2023 to “Sun Is Up 2” on 17 September 2026; 36 communities as of 10 November 2026. Recounted that day, the list dates 34 authorisations up to 29 May 2026, against 38 counted on 5 August 2026; it reports no withdrawal.
 - [Brugel — New statistical set on energy sharing in Brussels](https://brugel.brussels/actualites/nouveau-set-statistique-sur-le-partage-d-energie-a-bruxelles-661) — presentation of the regional observatory: number of projects, participants and shared installed capacity, with a municipality-by-municipality map.
 - [Renouvelle — Energy sharing in Brussels: more than 1,000 participants!](https://www.renouvelle.be/fr/partage-denergie-a-bruxelles-plus-de-1000-participants/) — survey of 16 October 2024: 1,009 participants, 129 projects and 6.63 MWp shared since 2022, against 397 participants the previous year, with the breakdown by form of sharing (same building 72 projects / 533 participants, peer-to-peer 47 / 94, communities 10 / 382).
 - [La DH — Energy sharing between users has almost tripled in a year in Brussels](https://www.dhnet.be/regions/bruxelles/2025/06/29/le-partage-denergie-entre-usagers-a-presque-triple-en-un-an-a-bruxelles-FRCFU2ZFOZDIBNL725OQOJACPM/) — Sibelga count of 29 June 2025, distinct from Brugel's: 1,280 participants in 2024 against 454 in 2023, on 93,702 smart meters installed.

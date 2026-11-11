@@ -2,7 +2,7 @@
 layout: post
 title: "Farm roofs: the energy-sharing guide"
 date: 2026-09-10 06:00:00 +0200
-last_modified_at: 2026-10-11 10:00:00 +0200
+last_modified_at: 2026-11-10 06:00:00 +0100
 author: "Eric from OptimCE"
 excerpt: "A farm shed carries between 100 and 350 kilowatt-peak. It is the largest available roof in rural Wallonia, the best oriented, and the easiest to equip: roof-mounted panels need no planning permission there, whatever their power. Yet of the thirteen energy communities notified to the CWaPE, not one is anchored on a farm. This is not indifference. Two Walloon Government orders adopted three weeks apart, in February and March 2023, push in exactly opposite directions: the first subsidises farm solar only in proportion to the self-consumed part, the second organises the sharing of the surplus."
 description: "Two Walloon orders from 2023 contradict each other: farm aid stops where sharing begins. What a shed roof is really worth, step by step."
@@ -252,8 +252,8 @@ January. OptimCE, our [energy community management software](/en/features/), hel
   every version of the key is recorded and members' acceptance is tracked.
 - **Prepare the paperwork.** The CWaPE documents are pre-filled and the deadlines are calculated.
   Filing them remains your responsibility.
-- **Find participants.** Publish the operation in the application's public registry, where anyone
-  can look for an operation open to new members.
+- **Find participants.** Make the operation public: the community then appears in the application's
+  community directory, where anyone with an OptimCE account can find it by municipality.
 - **Invoice the shared electricity** under the Walloon framework, producer's statement included,
   with payment tracking.
 

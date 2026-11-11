@@ -88,8 +88,8 @@ modules:
           text: "Adhésions, rôles, coordonnées bancaires et documents de chaque membre."
         - title: "Compteurs et carte"
           text: "Chaque compteur et ses relevés au quart d'heure, en liste ou sur la carte."
-        - title: "Annuaire public"
-          text: "Présentez votre communauté pour que de nouveaux membres la trouvent."
+        - title: "Annuaire des communautés"
+          text: "Présentez votre communauté aux personnes inscrites qui cherchent près de chez elles."
     - name: "Partage"
       items:
         - title: "Clés de répartition"

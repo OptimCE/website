@@ -2,7 +2,7 @@
 layout: post
 title: "Landwirte: der Leitfaden zum Energieteilen"
 date: 2026-09-10 06:00:00 +0200
-last_modified_at: 2026-10-11 10:00:00 +0200
+last_modified_at: 2026-11-10 06:00:00 +0100
 author: "Eric, OptimCE"
 excerpt: "Eine Landwirtschaftshalle trägt zwischen 100 und 350 Kilowatt-Peak. Es ist das größte verfügbare Dach der ländlichen Wallonie, das am besten ausgerichtete und das am einfachsten zu bestückende: Module auf dem Dach brauchen dort keine Städtebaugenehmigung, gleich welcher Leistung. Und doch ist von den dreizehn bei der CWaPE gemeldeten Energiegemeinschaften keine einzige an einen landwirtschaftlichen Betrieb angelehnt. Das ist keine Gleichgültigkeit. Zwei Erlasse der Wallonischen Regierung, im Abstand von drei Wochen im Februar und März 2023 verabschiedet, ziehen in genau entgegengesetzte Richtungen: Der erste fördert Photovoltaik nur im Verhältnis zum selbst verbrauchten Teil, der zweite organisiert das Teilen des Überschusses."
 description: "Zwei wallonische Erlasse von 2023 widersprechen sich: Die Agrarbeihilfe endet dort, wo das Teilen beginnt. Was ein Hallendach wirklich einbringt."
@@ -253,8 +253,9 @@ zum tiefsten Januar. OptimCE, die [Software für Energiegemeinschaften](/de/funk
   jede Version des Schlüssels wird archiviert und die Zustimmung der Mitglieder nachverfolgt.
 - **Die Unterlagen vorbereiten.** Die Dokumente der CWaPE werden vorausgefüllt und die Fristen
   berechnet. Die Einreichung bleibt Ihre Sache.
-- **Teilnehmer finden.** Veröffentlichen Sie die Operation im öffentlichen Register der Anwendung,
-  in dem jeder nach einer für neue Mitglieder offenen Operation suchen kann.
+- **Teilnehmer finden.** Machen Sie die Operation öffentlich: Die Gemeinschaft erscheint dann im
+  Gemeinschaftsverzeichnis der Anwendung, in dem jede Person mit einem OptimCE-Konto sie nach
+  Gemeinde finden kann.
 - **Den geteilten Strom abrechnen** im wallonischen Rahmen, einschließlich der Abrechnung für den
   Erzeuger, mit Zahlungsverfolgung.
 

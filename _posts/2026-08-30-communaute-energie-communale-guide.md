@@ -2,7 +2,7 @@
 layout: post
 title: "Communauté d'énergie : le guide des communes"
 date: 2026-08-30 06:00:00 +0200
-last_modified_at: 2026-11-04 06:00:00 +0100
+last_modified_at: 2026-11-10 06:00:00 +0100
 author: "Eric d'OptimCE"
 excerpt: "262 communes wallonnes. Treize communautés d'énergie au dossier complet chez la CWaPE, dont six seulement partagent réellement de l'électricité. Ce n'est pas un déficit d'ambition : c'est que presque personne n'a remarqué ce que le droit wallon dit déjà. Le premier des deux critères de proximité d'une communauté d'énergie renouvelable, c'est « le territoire d'une seule et même commune ». La Wallonie est la seule des trois régions où le législateur a tracé lui-même le périmètre — et il l'a fait passer par la limite communale."
 description: "En Wallonie, le périmètre d'une communauté d'énergie renouvelable, c'est le territoire communal. Ce que la commune peut y faire, et à quel prix."
@@ -28,7 +28,7 @@ faq:
 
 La Wallonie compte **262 communes**. Au 3 septembre 2026, la CWaPE recense **treize communautés d'énergie** dont le dossier a été déclaré complet — et **six d'entre elles seulement** disposent d'au moins une activité de partage autorisée. Sept ont une personne morale, des statuts, un accusé de réception, et pas un kilowattheure partagé.
 
-Lisez maintenant leurs noms : *Soleil d'Aubange*, *DURBUY 1*, *LASNENERGIE*, *Soleil de Rixensart*, *Courants de Gaume*, *Communauté d'énergie partagée by BEP*. Ce ne sont pas des noms de start-ups. Ce sont des noms de territoires. Le mouvement wallon des communautés d'énergie est, dans les faits, un mouvement de pouvoirs locaux — mais il concerne aujourd'hui une commune sur vingt.
+Lisez maintenant quelques-uns des treize noms de la liste : *Soleil d'Aubange*, *DURBUY 1*, *LASNENERGIE*, *Soleil de Rixensart*, *Courants de Gaume*, *Communauté d'énergie partagée by BEP*. Ce ne sont pas des noms de start-ups. Ce sont des noms de territoires. Le mouvement wallon des communautés d'énergie est, dans les faits, un mouvement de pouvoirs locaux — mais il concerne aujourd'hui une commune sur vingt.
 
 Cet article ne refait pas ce qui est déjà écrit ailleurs sur ce site : la différence entre les trois statuts belges est traitée dans [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/guides/communautes-energie-belgique/), la procédure générale de création dans [« Créer une communauté d'énergie en Wallonie »](/guides/creer-communaute-energie-wallonie/), les documents et les délais du régulateur dans [« Communauté d'énergie : documents et délais CWaPE »](/guides/documents-administratifs-communaute-energie-wallonie/), la fixation du prix interne dans [« Prix de cession interne en communauté d'énergie »](/guides/prix-electricite-communaute-energie/), les clés dans [« Clé de répartition en Belgique : les 3 régions »](/guides/cle-repartition-communaute-energie-belgique/), et les degrés du circuit court dans [« Électricité en circuit court : le mode d'emploi »](/guides/electricite-circuit-court-mode-emploi/).
 
@@ -303,9 +303,9 @@ sortent de la communauté. OptimCE, [logiciel de gestion de communauté d'énerg
 - **Préparer les démarches wallonnes.** Les documents de la CWaPE sont préremplis à partir de ces
   données, les échéances sont calculées et le tableau de bord signale celles qui approchent. Le
   dépôt reste du ressort de la communauté.
-- **Faire connaître l'opération.** Publiez-la dans le registre public de l'application, où les
-  habitants cherchent une opération ouverte près de chez eux, puis informez et consultez les
-  membres avec le tableau d'actualités et les sondages.
+- **Faire connaître l'opération.** Rendez-la publique : la communauté apparaît alors dans l'annuaire
+  des communautés de l'application, où toute personne disposant d'un compte OptimCE peut la trouver
+  par commune. Informez et consultez ensuite les membres avec le tableau d'actualités et les sondages.
 - **Facturer l'énergie partagée** dans le cadre wallon, avec suivi des paiements.
 
 L'application est gratuite pendant la phase alpha.
