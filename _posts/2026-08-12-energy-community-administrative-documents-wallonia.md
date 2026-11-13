@@ -8,7 +8,7 @@ description: "Notification, annual report, grid operator agreements: which docum
 tags: [administrative, app, guide]
 lang: en
 ref: cwape-administrative-documents
-last_modified_at: 2026-10-11 10:00:00 +0200
+last_modified_at: 2026-11-13 08:00:00 +0100
 pillar: communautes-energie
 permalink: /en/guides/energy-community-administrative-documents-wallonia/
 faq:
@@ -21,7 +21,7 @@ faq:
   - q: "Are the PDF forms still used now that Mon Espace exists?"
     a: "It depends on the procedure. Since 25 June 2026, the notification of the creation of an energy community, its modifications and the filing of the annual report are carried out through digitalised forms hosted on monespace.wallonie.be. Everything touching the sharing activity itself, however — the electricity sharing form, the sharing modification form, their participant annexes and the sworn declarations — is still published by the CWaPE as PDF and Excel files to download, fill in and transmit to the distribution system operator. The model agreements with the grid operator likewise remain Word documents to complete and sign."
   - q: "Does OptimCE file the documents with the CWaPE for me?"
-    a: "No, and that is deliberate. OptimCE prepares the documents from your data, computes the deadlines, keeps every version that was sent and records who transmitted what and when. Filing itself remains yours to do: on Mon Espace for the notification, its modifications and the annual report, and with your distribution system operator for sharing and the agreements. There is no automated interface between the platform and the regulator. OptimCE does not sign anything either: the Word agreements remain documents the parties edit and sign, and the PDFs produced remain fillable forms, so whatever OptimCE cannot derive stays editable by hand."
+    a: "No, and that is deliberate. OptimCE prepares the documents from your data, computes the deadlines, keeps every version that was sent and records who transmitted what and when. Filing itself remains yours to do: on Mon Espace for the notification, its modifications and the annual report, and with your distribution system operator for sharing and the agreements. There is no automated interface between the platform and the regulator. As of 11 November 2026, a single document can be signed in the app: annex 8, the sworn declaration of persons taking part in the sharing, with a simple electronic signature within the meaning of the eIDAS Regulation. The Word agreements remain documents the parties edit and sign, and whatever OptimCE cannot derive stays editable by hand."
   - q: "What about Brussels and Flanders?"
     a: "Administrative document management currently covers Wallonia and the CWaPE only. The architecture is keyed by regulator, and both Brugel and the VREG are already declared in the platform's shared registry, but they are inactive there: an unknown or inactive regulator raises an explicit error rather than falling back silently on the Walloon rules. The reason is editorial rather than technical: adding a region mostly means authoring that region's document bundles, and Brussels and Flanders mandate different documents. We would rather not announce a date until those bundles are written."
 ---
@@ -156,7 +156,7 @@ These five points have one thing in common: none of them requires any particular
 
 ## What OptimCE now does
 
-This is the point of the block of features delivered in August 2026: an administrative document module, dashboards, and email sending — which, until then, did not exist on the platform at all. For an overview, see how to [prepare your CWaPE filing in OptimCE](/en/features/cwape-filing/).
+This is the point of the block of features delivered in August 2026: an administrative document module, dashboards, and email sending — which, until then, did not exist on the platform at all. For an overview, see how to [prepare your CWaPE procedures in OptimCE](/en/features/cwape-filing/). As of 11 November 2026, the module is organised into procedures and annex 8 can be signed in the app: [our news post](/en/news/2026/11/11/cwape-procedures-annex-8-signature/) details what changed.
 
 ### Eleven documents prefilled from the official files
 
@@ -171,25 +171,25 @@ Two practical consequences:
 
 The data comes from the CRM — members, delivery points, installations, meters — so the participant list is maintained in one place and propagates to the three annexes that require it.
 
-### A journal that is never rewritten
+### Procedures that are never rewritten
 
-A dossier moves through **in preparation → submitted → complete → closed**, with **lapsed** as a side exit. A document moves through **draft → ready → sent → acknowledged**, with **obsolete**.
+As of November 2026, the work is organised into **procedures**: a form, a recipient (the reference grid operator or the CWaPE) and an effective date. Changes made in the CRM feed the draft of the right procedure, which you send when you decide to. A document first comes out marked “BROUILLON” (draft); “Generate the final versions” then produces the unmarked versions.
 
-What matters here is less the list of states than the way they change. **A status is never edited in place**: every change appends a row to the journal, and a database constraint rejects any status not backed by a journal entry. A correction does not erase the mistake, it is appended after it. The interface puts it in those terms: “Every status change is recorded permanently. Corrections are added, they erase nothing.”
+What matters here is less the path than what happens on sending. Once the date and the channel have been entered, **the procedure is frozen**: the database refuses any modification or deletion of its documents, and a sent version can be re-verified, its rendering replayed identically. You then record the replies in the procedure, which keeps the whole thread: acknowledgment of completeness, request for additional information, decision, amendment…
 
 The same principle applies to files. Every submission is kept as a **definitive version**, addressed by its content, with no update path. Eight months later, the question “what exactly did we transmit?” has an answer, and that answer is the file itself.
 
 ### Deadlines computed, not typed in
 
-The regulatory rules are data, not code: a transition triggers evaluation of the applicable rules and materialises the corresponding deadlines. Working-day periods are computed on the **Belgian calendar**, movable feasts included — which, for a ten-working-day period starting in early April, is not a detail.
+The regulatory rules are data, not code: each procedure carries its deadlines, the community's as well as those of third parties, that is, the date by which the DSO or the CWaPE must have replied. Working-day periods are computed on the **Belgian calendar**, movable feasts included — which, for a ten-working-day period starting in early April, is not a detail.
 
-A daily sweep runs at **06:00 Brussels time** and raises both upcoming and missed deadlines. The reminder window is **fourteen days**.
+A daily sweep runs at **06:00 Brussels time** and raises both upcoming and missed deadlines. In the app, reminders appear **14, 7 and 2 days before the deadline**, then once it has passed.
 
-The manager dashboard surfaces these in two tiles, “Administrative deadlines” and “Administrative dossiers”, with the number of open deadlines and the number of overdue ones.
+The manager dashboard surfaces these in two tiles, “Administrative deadlines” and “Administrative procedures”, with the number of open deadlines and the number of overdue ones.
 
 ### Email, at last
 
-Until this summer, OptimCE sent no email whatsoever. A dedicated service now handles it, with six message types, each available in **French, Dutch, German and English**:
+Until this summer, OptimCE sent no email whatsoever. A dedicated service now handles it, in **French, Dutch, German and English**. Among its messages:
 
 | Message | When | Category |
 |---|---|---|
@@ -197,12 +197,12 @@ Until this summer, OptimCE sent no email whatsoever. A dedicated service now han
 | Manager invitation | On invitation | Transactional |
 | Invoice available | On issue | Transactional |
 | Invoice overdue | On expiry | Transactional |
-| **Administrative deadline approaching** | 14 days before | Informational |
-| **Administrative deadline missed** | On expiry | Transactional |
 
-The distinction is not cosmetic. An informational message can be turned off from the Notifications tab of your profile, channel by channel — “In the app” and “Email” are two separate settings. A transactional message cannot: “Essential messages — invoices, invitations and missed regulatory deadlines — are always sent and cannot be disabled.”
+Administrative deadlines, for their part, have had no email of their own since November 2026. They are flagged in the app and, by email, in an **administrative summary**: at most one per day per recipient, across all communities. This summary is disabled by default; a community administrator enables it, chooses the frequency and the recipients, and each person can opt out of it in their profile.
 
-In other words, you can decide not to be warned fourteen days ahead. You cannot decide not to be warned once the deadline has passed.
+The distinction is not cosmetic. An informational message can be turned off from the Notifications tab of your profile, channel by channel — “In the app” and “Email” are two separate settings. A transactional message cannot: “Essential messages — invoices and invitations — are always sent and cannot be turned off. A missed regulatory deadline is always shown in the app; by email, it is part of the administrative summary.”
+
+In other words, a missed deadline is always flagged to you in the app; the email, for its part, goes through the summary.
 
 Other events exist as in-app notifications only, with no email: a document upload, a member update, the acknowledgment of a dossier, the completion of a billing run, and the publication of a news post or a poll.
 
@@ -212,19 +212,19 @@ The dashboard module delivered at the same time answers three questions that do 
 
 **The community manager** opens “Points to check”. The tile lists what actually blocks: operations without a valid allocation key, keys awaiting approval, meters awaiting the grid operator or awaiting confirmation, meters not part of any sharing operation, incomplete member records, members pending validation, and missing fields at community level — VAT number, legal name, IBAN, registered address, regulator. When everything is in order, the tile says so: “Everything we check is in order.” Alongside it sit the month's energy, the sharing operations, arrivals in progress and the activity log.
 
-**The member** sees “My participation” — their share in the allocation key, including edge cases such as “Pro rata to consumption” or “Not included in the allocation key” — along with energy consumed and received through sharing, their member record, and their documents.
+**The member** sees “My participation” — their share in the allocation key, including edge cases such as “Pro rata of consumption” or “Not listed in the allocation key” — along with energy consumed and received through sharing, their member record, and their documents.
 
 **The home page**, finally, spans communities: it works even with no active community, and shows “{count} thing(s) waiting for you” — invitations, missing profile fields, unread notifications. When there is nothing, it shows nothing.
 
-### “What has been declared about me”
+### “What has been filed about me”
 
 This is the feature we are happiest with, and the least spectacular.
 
 Someone taking part in a sharing operation appears, by name, in documents transmitted to a regulator: their name, their delivery points, their production installations, any storage installations. In the usual way of working they know nothing about it — the annexes circulate between the representative, the CWaPE and the grid operator.
 
-OptimCE gives every member a page titled “What has been declared about me”, with this subtitle: “The information about you transmitted to the regulator by your community.” It is available to any member, with no particular role, and shows what was actually filed, as at the filing date. The page says as much: these values are the ones transmitted on the date shown, and they do not change if your information is corrected afterwards.
+OptimCE gives every member a page titled “What has been filed about me”, with this subtitle: “The information about you that your community sent to the regulator.” It is available to any member, with no particular role, and shows what was actually filed, as at the filing date. The page says as much: these values are the ones transmitted on the date shown, and they do not change if your information is corrected afterwards.
 
-It is a direct consequence of the immutable journal described above: because nothing is overwritten, we can show a member what was said about them, and when.
+It is a direct consequence of the above: because nothing is overwritten, we can show a member what was said about them, and when.
 
 ## What it does not do
 
@@ -232,7 +232,7 @@ Four limits, better known before you commit.
 
 **OptimCE does not file on your behalf.** There is no automated interface between the platform and the CWaPE. Filing happens on Mon Espace for the notification, its modifications and the annual report, and with your grid operator for sharing and the agreements. What the platform does is prepare the document, record that you transmitted it and when, and keep the exact version that went out.
 
-**OptimCE signs nothing.** There is no electronic signature in the platform. The Word agreements remain contracts the parties edit and sign; the PDFs produced remain fillable forms. “Prefilled, ready to sign” is accurate; “signed in the app” would not be.
+**Only one document is signed in OptimCE.** As of 11 November 2026, annex 8, the sworn declaration of persons taking part in the sharing, can be signed in the app. It is a simple electronic signature within the meaning of the eIDAS Regulation, neither advanced nor qualified: it cannot be rejected as evidence solely on the grounds that it is electronic, but it does not automatically have the value of a handwritten signature. Nothing else is signed in OptimCE: the Word agreements remain contracts the parties edit and sign, and neither amendments nor membership forms are signed there.
 
 **Coverage is Walloon.** The module knows only the CWaPE today. Brugel and the VREG are already declared in the regulator registry shared across the services, but they are inactive there, and deliberately so: an inactive regulator raises an explicit error rather than falling back silently on the Walloon rules, which would produce wrong documents with every appearance of rigour. Adding a region means first authoring that region's document bundles — Brussels and Flanders mandate different documents. We will not announce a date until that work is done.
 
@@ -265,8 +265,8 @@ The gain is not where you expect it. Filling in the forms is not what costs; rec
 3. **The annual report is a fixed date, not an anniversary.** A community declared complete in March reports by the following 1 September.
 4. **Since 25 June 2026 the move to Mon Espace is partial**: what goes to the CWaPE has been digitalised, what goes to the grid operator remains a file to download and sign.
 5. **OptimCE prepares eleven documents from the official, unmodified files** — what is filed is the regulator's own document, not a reproduction — and leaves editable the fields it cannot derive.
-6. **Nothing is overwritten**: statuses are appended to a journal, transmitted versions are kept as they were, and members can see what was declared about them and on what date.
-7. **Filing and signing remain yours to do**, and coverage is Walloon today.
+6. **Nothing is overwritten**: a sent procedure is frozen, transmitted versions are kept as they were, and members can see what was declared about them and on what date.
+7. **Filing remains yours to do**, only annex 8 can be signed in the app, and coverage is Walloon today.
 
 What not to expect: none of these features makes an energy community more profitable, and none replaces reading the regulatory framework. What they do, and shared spreadsheets do not, is **guarantee that a deadline does not slip by unnoticed and that a transmitted version stays retrievable** — the only two causes, in our experience, of dossiers lost for bad reasons.
 
@@ -296,7 +296,7 @@ It depends on the procedure. Since **25 June 2026**, the notification of the cre
 
 ### Does OptimCE file the documents with the CWaPE for me?
 
-No, and that is deliberate. OptimCE prepares the documents from your data, computes the deadlines, keeps every version that was sent and records who transmitted what and when. **Filing itself remains yours to do**: on Mon Espace for the notification, its modifications and the annual report, and with your distribution system operator for sharing and the agreements. There is no automated interface between the platform and the regulator. OptimCE does not sign anything either: the Word agreements remain documents the parties edit and sign, and the PDFs produced remain fillable forms, so whatever OptimCE cannot derive stays editable by hand.
+No, and that is deliberate. OptimCE prepares the documents from your data, computes the deadlines, keeps every version that was sent and records who transmitted what and when. **Filing itself remains yours to do**: on Mon Espace for the notification, its modifications and the annual report, and with your distribution system operator for sharing and the agreements. There is no automated interface between the platform and the regulator. As of 11 November 2026, a single document can be signed in the app: annex 8, the sworn declaration of persons taking part in the sharing, with a simple electronic signature within the meaning of the eIDAS Regulation. The Word agreements remain documents the parties edit and sign, and whatever OptimCE cannot derive stays editable by hand.
 
 ### What about Brussels and Flanders?
 
@@ -308,4 +308,4 @@ Administrative document management currently covers **Wallonia and the CWaPE onl
 - [CWaPE — Energy sharing](https://www.cwape.be/node/5618) — list and numbering of the forms and annexes cited in this article: the electricity sharing form (5609) and its explanatory guide (5610), annex 6 of participants and production installations (5611), annex 6bis on storage installations (6578), annex 8 of sworn declarations (5612), the sharing modification form (6018) and its guide (6017) with annexes 2 (6019), 3 (6020) and 3bis (6579), as well as the two model agreements of 12 October 2023 between the grid operator and the representative, in their energy community and same-building versions.
 - [CWaPE — Energy community forms available through the Walloon “Mon Espace” portal](https://www.cwape.be/documents-recents/formulaires-relatifs-aux-communautes-denergie-accessibles-le-site-mon-espace-de) — notice of 25 June 2026: the notification of the creation of an energy community, its modifications and the filing of its annual report are carried out through digitalised forms hosted on monespace.wallonie.be.
 - [Renouvelle — Energy sharing and communities in Wallonia: the CWaPE's assessment](https://www.renouvelle.be/fr/partage-et-communautes-energie-en-wallonie-avis-de-la-cwape/) — assessment of 18 March 2025: 4 sharing operations within a single building and 3 within an energy community recorded in Wallonia, and the obstacles identified by the regulator.
-- [OptimCE — platform source code](https://github.com/optimce) — source of every product claim in this article: the eleven document bundles and their nature as unmodified official files, the capacities read from the forms themselves, the journaled state machine of dossiers and documents, the immutability of transmitted versions, the computation of deadlines in Belgian working days with a daily sweep at 06:00 and a fourteen-day reminder window, the six email types in four languages and their split between informational and transactional messages, the manager and member dashboards, and the restriction of the regulator registry to the CWaPE alone.
+- [OptimCE — platform source code](https://github.com/optimce) — source of every product claim in this article: the eleven document bundles and their nature as unmodified official files, the capacities read from the forms themselves, the procedures and the freezing of their documents after sending, the immutability of transmitted versions, the computation of deadlines in Belgian working days with a daily sweep at 06:00 and reminders 14, 7 and 2 days before the deadline, the emails in four languages, the administrative summary and the split between informational and transactional messages, the simple electronic signature of annex 8, the manager and member dashboards, and the restriction of the regulator registry to the CWaPE alone.

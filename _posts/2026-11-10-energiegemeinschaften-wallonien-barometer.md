@@ -2,7 +2,7 @@
 layout: post
 title: "Energiegemeinschaften in der Wallonie: Barometer"
 date: 2026-11-10 06:00:00 +0100
-last_modified_at: 2026-11-10 06:00:00 +0100
+last_modified_at: 2026-11-13 08:00:00 +0100
 author: "Eric von OptimCE"
 excerpt: "Am 10. November 2026 hatte die CWaPE in der Wallonie zwölf Teilungsaktivitäten genehmigt, getragen von sechs der dreizehn Energiegemeinschaften mit vollständigem Dossier. Eine davon, ES2, hält sieben. Hier sind die neunzehn seit Juli 2024 veröffentlichten Entscheidungen, gezählt, geordnet und mit ihrem PDF verlinkt, dazu die Daten als CSV. Die Seite wird jedes Quartal unter derselben Adresse aktualisiert."
 description: "Energiegemeinschaften in der Wallonie: die 12 von der CWaPE genehmigten Teilungsaktivitäten, mit VNB, Perimeter und CSV. Vierteljährlich aktualisiert."
@@ -140,6 +140,8 @@ In den Erstgenehmigungen nennen die Entscheidungen Privatpersonen nur in vier vo
 
 Nur eine Entscheidung nennt eine Gemeinde unter den Teilnehmern: die Stadt Aubange, die den Überschuss ihrer Anlage zur Verfügung stellt. Dieser Fall wird in [„Energiegemeinschaft: Leitfaden für Gemeinden“](/de/loesungen/gemeinden/) analysiert.
 
+Aubange ist nicht die einzige Gemeinde mit einer eigenen Gemeinschaft. In Rixensart hat der Gemeinderat am 4. März 2026 *Soleil de Rixensart* gegründet, eine Erneuerbare-Energie-Gemeinschaft, der vorerst nur die Gemeinde und ihr ÖSHZ angehören. Das ÖSHZ soll darin den Überschuss der Photovoltaikanlagen zweier Gemeindeschulen kaufen, zu einem Preis unter dem Marktpreis, aber über dem, was die Einspeisung einbrächte. Das Dossier der Gemeinschaft ist seit dem 23. Juli 2026 vollständig, genehmigt ist aber noch keine Teilungsaktivität; deshalb taucht Soleil de Rixensart in keiner Entscheidung auf. Ist der Versuch erfolgreich, will die Gemeinde sie nach neun bis zwölf Monaten Betrieb für Einwohner, Geschäfte und KMU öffnen.
+
 Eine letzte Gemeinsamkeit: Keine Gemeinschaft teilt eigene Produktion. Alle Entscheidungen beschreiben Anlagen, die Mitglieder zur Eigenversorgung betreiben und deren Überschuss sie teilen, und der Evaluierungsbericht der CWaPE bestätigt das für alle aktiven Gemeinschaften.
 
 ### Melden heißt nicht teilen
@@ -220,11 +222,11 @@ Die Spalten:
 5. **Genehmigt heißt nicht in Betrieb**: Ein Drittel der Genehmigungen wartet auf die Messung R3, und die CWaPE zählte am 30. September 2026 neun Aktivitäten in Betrieb.
 6. **Die Daten sind offen**: eine CSV unter der Lizenz CC BY 4.0, jedes Quartal aktualisiert.
 
-> ### Bereiten Sie das CWaPE-Dossier Ihrer Teilung vor
+> ### Bereiten Sie die CWaPE-Verfahren Ihrer Teilung vor
 >
-> OptimCE ist eine Open-Source-Plattform für die Verwaltung von Energiegemeinschaften, derzeit in der Alpha-Phase. Sie legt ein Dossier je Teilungsvorhaben an und füllt die offiziellen Formulare der CWaPE aus den Mitgliedern, Lieferpunkten und Zählern Ihrer Gemeinschaft vor. Sie prüfen, Sie reichen selbst ein, und die Anwendung berechnet die Fristen ab dem Einreichungsdatum, das Sie erfassen.
+> OptimCE ist eine Open-Source-Plattform für die Verwaltung von Energiegemeinschaften, derzeit in der Alpha-Phase. Änderungen in Ihrem CRM fließen in CWaPE-Verfahren, deren offizielle Formulare aus den Mitgliedern, Lieferpunkten und Zählern Ihrer Gemeinschaft vorausgefüllt werden. Sie prüfen, Sie senden selbst, und die Anwendung verfolgt die Fristen in Werktagen.
 >
-> **[CWaPE-Unterlagen in OptimCE ansehen](/de/funktionen/cwape-unterlagen/)**
+> **[CWaPE-Verfahren in OptimCE ansehen](/de/funktionen/cwape-unterlagen/)**
 
 ## FAQ
 
@@ -255,15 +257,18 @@ Indem Sie die Gemeinschaft kontaktieren, die dann die Änderung ihrer Aktivität
 ## Aktualisierungsverlauf
 
 - **10. November 2026**: erste Ausgabe. Neunzehn von der CWaPE zwischen dem 21. Juli 2024 und dem 29. September 2026 veröffentlichte Entscheidungen: zwölf Genehmigungen und sieben Änderungen, in sechs von dreizehn Gemeinschaften.
+- **13. November 2026**: Soleil de Rixensart ergänzt, die Gemeinschaft der Gemeinde Rixensart und ihres ÖSHZ, die noch keine genehmigte Teilung hat. Keine Zahl ändert sich.
 
 ## Quellen
 
 - [CWaPE — Documents récents](https://www.cwape.be/documents-recents) — Register, in dem die CWaPE ihre Entscheidungen ankündigt, Seite für Seite durchgesehen, um die neunzehn Teilungsentscheidungen zu erfassen; die jüngste wurde am 29. September 2026 angekündigt. Abgerufen am 10. November 2026.
-- [CWaPE — Partages autorisés](https://www.cwape.be/node/5618) — Liste der zwölf genehmigten Teilungsaktivitäten und ihrer sieben Änderungen, mit Gebiet und Aktenzeichen; sie deckt sich genau mit unserer Zählung. Abgerufen am 10. November 2026.
-- [CWaPE — Communautés d'énergie et partage d'énergie](https://www.cwape.be/node/158) — Liste der dreizehn gemeldeten Gemeinschaften mit vollständigem Dossier, mit Gebiet und Datum der Vollständigkeit; Quelle der Tabelle der Gemeinschaften. Abgerufen am 10. November 2026.
+- [CWaPE — Partages autorisés](https://www.cwape.be/node/5618) — Liste der zwölf genehmigten Teilungsaktivitäten und ihrer sieben Änderungen, mit Gebiet und Aktenzeichen; sie deckt sich genau mit unserer Zählung. Abgerufen am 10. November 2026, erneut geprüft am 13. November 2026: keine neue Entscheidung.
+- [CWaPE — Communautés d'énergie et partage d'énergie](https://www.cwape.be/node/158) — Liste der dreizehn gemeldeten Gemeinschaften mit vollständigem Dossier, mit Gebiet und Datum der Vollständigkeit; Quelle der Tabelle der Gemeinschaften. Abgerufen am 10. November 2026, erneut geprüft am 13. November 2026: weiterhin dreizehn Gemeinschaften.
 - CWaPE — die neunzehn Entscheidungen, von CD-24g11-CWaPE-0958 vom 11. Juli 2024 bis CD-26i03-CWaPE-1293 vom 3. September 2026, einzeln in den Tabellen und in der CSV verlinkt — Quelle jeder Zeile: Teilnehmer, VNB, Perimeter, aufschiebende Bedingungen und Antragsdaten. Gelesen am 10. November 2026.
 - [CWaPE — Évaluation des dispositions des décrets électricité et gaz, CD-26i30-CWaPE-0133 vom 30. September 2026](https://www.cwape.be/sites/default/files/cwape-documents/2026.09.30-0133-Evaluation%20des%20d%C3%A9crets%20%C3%A9lec%20et%20gaz.pdf) — Seiten 45 und 46: dreizehn Gemeinschaften (sieben CER, sechs CEC), 222 Teilnehmer, neun umgesetzte Aktivitäten in Gemeinschaften (85 und 123 Entnahmestellen) und achtzehn innerhalb eines Gebäudes (129 Entnahmestellen); Seite 49: Keine aktive Gemeinschaft verfügt über eigene Erzeugungsanlagen, und die Peer-to-Peer-Teilung ist noch nicht möglich. Abgerufen am 10. November 2026.
 - [CWaPE — Jahresbericht 2025](https://www.cwape.be/sites/default/files/cwape-documents/2026.07.03-RAG%202025.pdf) — Anhang der Entscheidungen von 2025, der sich mit den fünf Genehmigungen dieses Jahres deckt. Abgerufen am 10. November 2026.
+- [L'Avenir — Auch Rixensart gründet eine Erneuerbare-Energie-Gemeinschaft](https://www.lavenir.net/regions/brabantwallon/rixensart/2026/03/09/rixensart-va-a-son-tour-creer-une-communaute-denergie-renouvelable-OEDNNWZVDFG3VODKIBYTV7GI7U/) — Beschluss des Gemeinderats vom 4. März 2026, Gemeinde und ÖSHZ als zunächst einzige Mitglieder, Überschuss der Anlagen der Gemeindeschulen im Zentrum und in Genval vom ÖSHZ gekauft, Öffnung für Einwohner, Geschäfte und KMU nach neun bis zwölf Monaten Betrieb erwogen (9. März 2026). Abgerufen am 13. November 2026.
+- [RTBF — Rixensart richtet eine Erneuerbare-Energie-Gemeinschaft ein](https://www.rtbf.be/article/communaute-d-energie-renouvelable-de-rixensart-11695838) — Überschuss der Schulen unter dem Marktpreis und über dem Einspeiseerlös an das ÖSHZ verkauft, Testphase vor jeder Erweiterung (17. März 2026). Abgerufen am 13. November 2026.
 - [Wallex — Décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité](https://wallex.wallonie.be/eli/loi-decret/2001/04/12/2001027238/2026/11/06) — Artikel 35quaterdecies § 3: Genehmigung jeder Teilungsaktivität einer Energiegemeinschaft durch die CWaPE; Artikel 35nonies § 2: bloße Meldung an den VNB beim Teilen innerhalb eines Gebäudes; Artikel 35octies § 4: Modalitäten der Peer-to-Peer-Teilung der Regierung überlassen. Konsolidierte Fassung, abgerufen am 10. November 2026.
 - [Wallex — Arrêté du Gouvernement wallon du 17 mars 2023 relatif aux communautés d'énergie et au partage d'énergie](https://wallex.wallonie.be/eli/arrete/2023/03/17/2023044651/2026/02/26) — Artikel 20 und 21: Antrag beim VNB, zehn Werktage für die Vollständigkeit, zwanzig für die technische Stellungnahme, vierzig für die Entscheidung der CWaPE, aufschiebende Bedingungen und dasselbe Verfahren für Änderungen. Fassung in Kraft seit dem 26. Februar 2026, abgerufen am 10. November 2026.
 - [Brugel — Les communautés autorisées](https://energysharing.brugel.brussels/energysharing/les-communautes-autorisees-586) — Liste der 36 in Brüssel genehmigten Energiegemeinschaften, die erste vom 16. Mai 2023, die jüngste vom 17. September 2026. Abgerufen am 10. November 2026.

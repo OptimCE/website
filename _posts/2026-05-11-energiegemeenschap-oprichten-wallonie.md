@@ -9,7 +9,7 @@ tags: [community, administrative, guide]
 lang: nl
 ref: create-energy-community-wallonia
 pillar: communautes-energie
-last_modified_at: 2026-11-10 06:00:00 +0100
+last_modified_at: 2026-11-13 08:00:00 +0100
 permalink: /nl/gidsen/energiegemeenschap-oprichten-wallonie/
 ---
 
@@ -221,7 +221,7 @@ Lijkt een gemeenschap van nul oprichten te zwaar, dan is **toetreden tot een bes
 
 ## Hoe OptimCE kan helpen
 
-Zodra de gemeenschap is gemeld en operationeel, begint het werk: leden onboarden, verdeelsleutels configureren, gedeelde volumes opvolgen om de 15 minuten, het jaarrapport voor de CWaPE opstellen. **OptimCE** is een open source platform dat hier specifiek voor is gemaakt: het automatiseert het dagelijkse beheer van energiegemeenschappen en sluit aan op de Waalse DNB's. De kennisgevingsformulieren maken deel uit van het [CWaPE-dossier dat OptimCE voorbereidt](/nl/functies/cwape-dossier/).
+Zodra de gemeenschap is gemeld en operationeel, begint het werk: leden onboarden, verdeelsleutels configureren, gedeelde volumes opvolgen om de 15 minuten, het jaarrapport voor de CWaPE opstellen. **OptimCE** is een open source platform dat hier specifiek voor is gemaakt: het automatiseert het dagelijkse beheer van energiegemeenschappen. De kennisgevingsformulieren maken deel uit van de [CWaPE-procedures die in OptimCE worden voorbereid](/nl/functies/cwape-dossier/). U leest ze na en verstuurt ze zelf: OptimCE verstuurt niets naar de DNB of de CWaPE.
 
 Om te starten of de functies te vergelijken, raadpleeg de [gebruikersgids van OptimCE](https://guide.optimce.be); met een account toont het [overzicht van gemeenschappen](https://app.optimce.be) in de applicatie de deelacties die al via het platform worden beheerd en die hun beheerders openbaar hebben gemaakt.
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Communautés d'énergie en Wallonie : le baromètre"
 date: 2026-11-10 06:00:00 +0100
-last_modified_at: 2026-11-10 06:00:00 +0100
+last_modified_at: 2026-11-13 08:00:00 +0100
 author: "Eric d'OptimCE"
 excerpt: "Au 10 novembre 2026, la CWaPE a autorisé douze activités de partage d'énergie en Wallonie, portées par six des treize communautés d'énergie au dossier complet. Une seule, ES2, en détient sept. Voici les dix-neuf décisions publiées depuis juillet 2024, comptées, classées et reliées à leur PDF, avec les données en CSV. La page est mise à jour chaque trimestre, à la même adresse."
 description: "Communautés d'énergie en Wallonie : les 12 partages autorisés par la CWaPE, décision par décision, avec GRD, périmètre et CSV. Mis à jour chaque trimestre."
@@ -140,6 +140,8 @@ Dans les autorisations initiales, les décisions ne citent des personnes physiqu
 
 Une seule décision nomme une commune parmi les participants : la Ville d'Aubange, qui met à disposition le surplus de son installation. Ce cas est analysé dans [« Communauté d'énergie : le guide des communes »](/solutions/communes/).
 
+Aubange n'est pas la seule commune à s'être dotée d'une communauté. À Rixensart, le conseil communal a créé le 4 mars 2026 *Soleil de Rixensart*, une communauté d'énergie renouvelable qui ne réunit pour l'instant que la commune et son CPAS. Le CPAS doit y acheter le surplus des panneaux photovoltaïques de deux écoles communales, à un prix inférieur à celui du marché mais supérieur à ce que rapporterait l'injection. Le dossier de la communauté est complet depuis le 23 juillet 2026, mais aucune activité de partage n'y est encore autorisée : Soleil de Rixensart n'apparaît donc dans aucune décision. Si l'essai est concluant, la commune envisage de l'ouvrir aux habitants, aux commerces et aux PME après neuf à douze mois de fonctionnement.
+
 Dernier point commun : aucune communauté ne partage sa propre production. Toutes les décisions décrivent des installations « en autoproduction », dont les membres partagent le surplus, et le rapport d'évaluation de la CWaPE le confirme pour l'ensemble des communautés actives.
 
 ### Notifier n'est pas partager
@@ -220,11 +222,11 @@ Les colonnes :
 5. **Autorisé ne veut pas dire en service** : un tiers des autorisations attendent le comptage R3, et la CWaPE comptait neuf activités en service au 30 septembre 2026.
 6. **Les données sont ouvertes** : CSV sous licence CC BY 4.0, mis à jour chaque trimestre.
 
-> ### Préparez le dossier CWaPE de votre partage
+> ### Préparez les démarches CWaPE de votre partage
 >
-> OptimCE est une plateforme open source de gestion des communautés d'énergie, en phase alpha. Elle ouvre un dossier par opération de partage et pré-remplit les formulaires officiels de la CWaPE à partir des membres, des points de fourniture et des compteurs de votre communauté. Vous relisez, vous déposez vous-même, et l'application calcule les échéances à partir de la date de dépôt que vous enregistrez.
+> OptimCE est une plateforme open source de gestion des communautés d'énergie, en phase alpha. Les changements faits dans votre CRM y alimentent des démarches CWaPE, dont les formulaires officiels sont préremplis à partir des membres, des points de fourniture et des compteurs de votre communauté. Vous relisez, vous envoyez vous-même, et l'application suit les échéances en jours ouvrables.
 >
-> **[Voir le dossier CWaPE dans OptimCE](/fonctionnalites/dossier-cwape/)**
+> **[Voir les démarches CWaPE dans OptimCE](/fonctionnalites/dossier-cwape/)**
 
 ## FAQ
 
@@ -255,15 +257,18 @@ En contactant la communauté, qui demande ensuite la modification de son activit
 ## Historique des mises à jour
 
 - **10 novembre 2026** : première édition. Dix-neuf décisions publiées par la CWaPE entre le 21 juillet 2024 et le 29 septembre 2026, soit douze autorisations et sept modifications, dans six communautés sur treize.
+- **13 novembre 2026** : ajout de Soleil de Rixensart, la communauté de la commune de Rixensart et de son CPAS, qui n'a pas encore de partage autorisé. Aucun chiffre ne change.
 
 ## Sources
 
 - [CWaPE — Documents récents](https://www.cwape.be/documents-recents) — registre où la CWaPE annonce ses décisions, parcouru page par page pour relever les dix-neuf décisions de partage, la plus récente annoncée le 29 septembre 2026. Consulté le 10 novembre 2026.
-- [CWaPE — Partages autorisés](https://www.cwape.be/node/5618) — liste des douze activités de partage autorisées et de leurs sept modifications, avec le territoire et la référence de chaque décision ; elle recoupe exactement notre décompte. Consulté le 10 novembre 2026.
-- [CWaPE — Communautés d'énergie et partage d'énergie](https://www.cwape.be/node/158) — liste des treize communautés notifiées dont le dossier est complet, avec leur territoire et la date de complétude ; source du tableau des communautés. Consulté le 10 novembre 2026.
+- [CWaPE — Partages autorisés](https://www.cwape.be/node/5618) — liste des douze activités de partage autorisées et de leurs sept modifications, avec le territoire et la référence de chaque décision ; elle recoupe exactement notre décompte. Consulté le 10 novembre 2026 et revérifié le 13 novembre 2026 : aucune nouvelle décision.
+- [CWaPE — Communautés d'énergie et partage d'énergie](https://www.cwape.be/node/158) — liste des treize communautés notifiées dont le dossier est complet, avec leur territoire et la date de complétude ; source du tableau des communautés. Consulté le 10 novembre 2026 et revérifié le 13 novembre 2026 : toujours treize communautés.
 - CWaPE — les dix-neuf décisions, de CD-24g11-CWaPE-0958 du 11 juillet 2024 à CD-26i03-CWaPE-1293 du 3 septembre 2026, liées une à une dans les tableaux et dans le CSV — source de chaque ligne : participants, GRD, périmètres, conditions suspensives et dates de demande. Lues le 10 novembre 2026.
 - [CWaPE — Évaluation des dispositions des décrets électricité et gaz, CD-26i30-CWaPE-0133 du 30 septembre 2026](https://www.cwape.be/sites/default/files/cwape-documents/2026.09.30-0133-Evaluation%20des%20d%C3%A9crets%20%C3%A9lec%20et%20gaz.pdf) — pages 45 et 46 : treize communautés (sept CER, six CEC), 222 participants, neuf activités en service au sein des communautés (85 et 123 points de prélèvement) et dix-huit au sein d'un même bâtiment (129 points) ; page 49 : aucune communauté active ne dispose de ses propres unités de production, et le pair-à-pair n'est pas encore opérationnel. Consulté le 10 novembre 2026.
 - [CWaPE — Rapport annuel 2025](https://www.cwape.be/sites/default/files/cwape-documents/2026.07.03-RAG%202025.pdf) — annexe des décisions de 2025, qui recoupe les cinq autorisations de l'année. Consulté le 10 novembre 2026.
+- [L'Avenir — Rixensart va, à son tour, créer une communauté d'énergie renouvelable](https://www.lavenir.net/regions/brabantwallon/rixensart/2026/03/09/rixensart-va-a-son-tour-creer-une-communaute-denergie-renouvelable-OEDNNWZVDFG3VODKIBYTV7GI7U/) — vote du conseil communal du 4 mars 2026, la commune et son CPAS seuls membres au départ, surplus des panneaux des écoles du Centre et de Genval acheté par le CPAS, ouverture envisagée aux habitants, aux commerces et aux PME après neuf à douze mois de fonctionnement (9 mars 2026). Consulté le 13 novembre 2026.
+- [RTBF — Rixensart met en place une communauté d'énergie renouvelable](https://www.rtbf.be/article/communaute-d-energie-renouvelable-de-rixensart-11695838) — surplus des écoles vendu au CPAS sous le prix du marché et au-dessus du prix de l'injection, phase d'essai avant tout élargissement (17 mars 2026). Consulté le 13 novembre 2026.
 - [Wallex — Décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité](https://wallex.wallonie.be/eli/loi-decret/2001/04/12/2001027238/2026/11/06) — article 35quaterdecies, § 3 : autorisation de chaque activité de partage d'une communauté d'énergie par la CWaPE ; article 35nonies, § 2 : simple notification au GRD pour le partage au sein d'un même bâtiment ; article 35octies, § 4 : modalités du pair-à-pair renvoyées au Gouvernement. Version consolidée consultée le 10 novembre 2026.
 - [Wallex — Arrêté du Gouvernement wallon du 17 mars 2023 relatif aux communautés d'énergie et au partage d'énergie](https://wallex.wallonie.be/eli/arrete/2023/03/17/2023044651/2026/02/26) — articles 20 et 21 : demande introduite auprès du GRD, dix jours ouvrables pour la complétude, vingt pour l'avis technique, quarante pour la décision de la CWaPE, conditions suspensives et même procédure pour les modifications. Version en vigueur depuis le 26 février 2026, consultée le 10 novembre 2026.
 - [Brugel — Les communautés autorisées](https://energysharing.brugel.brussels/energysharing/les-communautes-autorisees-586) — liste des 36 communautés d'énergie autorisées à Bruxelles, la première le 16 mai 2023, la dernière le 17 septembre 2026. Consulté le 10 novembre 2026.

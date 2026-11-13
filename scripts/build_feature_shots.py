@@ -1,14 +1,17 @@
 #!/usr/bin/env python3
 """Build the product pages' screenshots from the user guide's captures.
 
-    python scripts/build_feature_shots.py [--guide PATH] [--langs fr en de nl]
+    python scripts/build_feature_shots.py [--guide PATH] [--langs fr en de nl] [--shots NAME ...]
 
 The user guide (sibling repository, ../user-guide by default) captures each
 scenario in French, English, German and Dutch on a 1440x900 desktop. Use a
 checkout of what guide.optimce.be publishes (origin/main of OptimCE/user-guide),
 or the Steppy build it is exported from (../e2e/output/static/generated): the
 step numbers below are those of the 2026-09-04 capture (French, English) and of
-the 2026-10-24 one (German, Dutch). --langs rebuilds some languages only.
+the 2026-10-24 one (German, Dutch), except the procedure and signature shots,
+taken from the Steppy build of 2026-11-06 (all four languages; not yet on
+guide.optimce.be on 2026-11-11). --langs rebuilds some languages only, --shots
+some shots only (the others keep their files and their entry).
 
 Each shot is one step of one scenario, cropped to the part of the screen the
 page talks about, without the app's sidebar (no toasts, no Steppy highlight, no
@@ -47,10 +50,12 @@ SHOTS = {
     "billing-tariffs": ("billing-tarification-pay", "step-38.png", (240, 0, 1270, 450)),
     # A member's "My invoices": number, status, amount, structured communication.
     "billing-member": ("billing-member-view", "step-20.png", (350, 140, 1160, 470)),
-    # A dossier's page: status, allowed transitions, documents, deadlines, history.
-    "cwape-dossier": ("admin-doc-dossier-create", "step-32.png", (230, 0, 1280, 560)),
-    # The deadline board: due date, type, dossier, status.
-    "cwape-deadlines": ("admin-doc-submit-deadline", "step-34.png", (240, 0, 1270, 540)),
+    # A procedure's page: status, recipient, steps and their time limits, the CRM
+    # change it carries, its documents, annex 8 signed (no toast on this step).
+    "cwape-procedure": ("signature-signed-evidence", "step-22.png", (230, 0, 1280, 815)),
+    # Signing annex 8: the exact PDF and the panel, down to the typed signature.
+    # Stop above the consent checkbox: its wording is under legal review.
+    "cwape-signature": ("signature-sign", "step-28.png", (175, 50, 1335, 730)),
     # Starting a generation: the algorithm, its description, the data file.
     "key-generation": ("algorithm-generate", "step-34.png", (110, 0, 1400, 520)),
     # The wizard's review grid: iterations, percentages, consumers, pro rata.
@@ -69,6 +74,9 @@ BOXES = {
     # The wizard's dialog is wider (its steps are joined by lines).
     ("start-member", "de"): (250, 240, 1190, 665),
     ("start-member", "nl"): (250, 240, 1190, 665),
+    # The recipient and the route wrap on two lines: go down to annex 8's links.
+    ("cwape-procedure", "de"): (230, 0, 1280, 878),
+    ("cwape-procedure", "nl"): (230, 0, 1280, 878),
 }
 
 
@@ -78,11 +86,14 @@ def main():
                     help="the user guide repository (default: ../user-guide)")
     ap.add_argument("--langs", nargs="+", choices=LANGS, default=LANGS,
                     help="the languages to build (default: all)")
+    ap.add_argument("--shots", nargs="+", choices=sorted(SHOTS), default=sorted(SHOTS),
+                    help="the shots to build (default: all)")
     args = ap.parse_args()
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     sizes = json.loads(DATA.read_text(encoding="utf-8")) if DATA.exists() else {}
-    for shot, (scenario, step, default_box) in SHOTS.items():
+    for shot in args.shots:
+        scenario, step, default_box = SHOTS[shot]
         for lang in args.langs:
             box = BOXES.get((shot, lang), default_box)
             src = args.guide / "assets" / scenario / lang / "desktop" / step

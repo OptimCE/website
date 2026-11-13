@@ -2,18 +2,18 @@
 layout: page
 title: "Logiciel de gestion de communauté d'énergie"
 subtitle: "Ce que le logiciel OptimCE fait aujourd'hui pour gérer une communauté d'énergie, de l'arrivée des membres à la facture."
-description: "Logiciel open source de gestion de communauté d'énergie : membres, clés de répartition, facturation, dossiers CWaPE, sondages. Gratuit pendant l'alpha."
+description: "Logiciel open source de gestion de communauté d'énergie : membres, clés de répartition, facturation, démarches CWaPE, sondages. Gratuit pendant l'alpha."
 lang: fr
 ref: features
 permalink: /fonctionnalites/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-13
 feature_list:
   - "Gestion des membres, des points de fourniture et des compteurs"
   - "Clés de répartition historisées, avec suivi de l'acceptation par les membres"
   - "Génération automatique de clés de répartition (parcours des clés standards, LOGAAS)"
   - "Simulation d'une clé de répartition sur ses propres données"
   - "Facturation de l'énergie partagée (première version, cadre wallon)"
-  - "Documents administratifs CWaPE préremplis et suivi des échéances"
+  - "Démarches CWaPE, documents préremplis, échéances et signature de l'annexe 8"
   - "Notifications par e-mail en quatre langues"
   - "Tableau d'actualités et sondages"
   - "Annuaire des communautés, consultable avec un compte OptimCE"
@@ -82,17 +82,21 @@ officiels, non modifiés : onze lots de PDF remplissables, de classeurs Excel et
 Word, préremplis avec les données de la communauté. Les champs que la plateforme ne sait pas
 déduire restent modifiables.
 
-- Chaque dossier et chaque document suivent des statuts consignés dans un journal : une correction
-  s'ajoute, elle n'efface rien.
-- Les échéances sont calculées en jours ouvrables sur le calendrier belge et remontées dans le
-  tableau de bord du gestionnaire.
+- Le travail s'organise en démarches : les changements faits dans le CRM alimentent le brouillon de
+  la bonne démarche, que vous envoyez quand vous le décidez. Une fois l'envoi enregistré, la
+  démarche est figée.
+- Les échéances se comptent en jours ouvrables, jours fériés belges exclus. Les rappels tombent dans
+  l'application à J-14, J-7 et J-2, puis au dépassement.
 - Des e-mails, en français, en néerlandais, en allemand et en anglais, signalent les invitations,
-  les factures et les échéances administratives.
+  les factures et les demandes de signature. Les échéances administratives passent par un
+  récapitulatif par e-mail, désactivé par défaut.
+- L'annexe 8, la déclaration sur l'honneur des personnes qui prennent part au partage, se signe
+  dans l'application : une signature électronique simple au sens du règlement eIDAS.
 - Chaque membre peut consulter ce qui a été déclaré à son sujet au régulateur.
 
-OptimCE ne dépose rien et ne signe rien à votre place : le dépôt reste de votre ressort. Voir
+OptimCE ne dépose rien à votre place : le dépôt reste de votre ressort. Voir
 [les documents et délais de la CWaPE]({{ "cwape-administrative-documents" | ref_url }}). Le module est présenté
-sur la page [dossier CWaPE de votre communauté d'énergie]({{ "product-cwape" | ref_url }}).
+sur la page [démarches CWaPE de votre communauté d'énergie]({{ "product-cwape" | ref_url }}).
 
 ## Animer la communauté
 

@@ -2,18 +2,18 @@
 layout: page
 title: "Software für Energiegemeinschaften"
 subtitle: "Was die Software OptimCE heute leistet, um eine Energiegemeinschaft zu führen – vom Beitritt der Mitglieder bis zur Rechnung."
-description: "Open-Source-Software für Energiegemeinschaften: Mitglieder, Aufteilungsschlüssel, Abrechnung, CWaPE-Unterlagen, Abstimmungen. In der Alpha kostenlos."
+description: "Open-Source-Software für Energiegemeinschaften: Mitglieder, Aufteilungsschlüssel, Abrechnung, CWaPE-Verfahren, Abstimmungen. In der Alpha kostenlos."
 lang: de
 ref: features
 permalink: /de/funktionen/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-13
 feature_list:
   - "Verwaltung von Mitgliedern, Lieferstellen und Zählern"
   - "Archivierte Aufteilungsschlüssel mit Nachverfolgung der Zustimmung der Mitglieder"
   - "Automatische Generierung von Aufteilungsschlüsseln (Durchlauf der Standardschlüssel, LOGAAS)"
   - "Simulation eines Aufteilungsschlüssels auf den eigenen Daten"
   - "Abrechnung der geteilten Energie (erste Version, wallonischer Rahmen)"
-  - "Vorausgefüllte CWaPE-Verwaltungsdokumente und Fristenverfolgung"
+  - "CWaPE-Verfahren, vorausgefüllte Dokumente, Fristen und Unterzeichnung der Anlage 8"
   - "E-Mail-Benachrichtigungen in vier Sprachen"
   - "Nachrichtenboard und Abstimmungen"
   - "Gemeinschaftsverzeichnis, einsehbar mit einem OptimCE-Konto"
@@ -83,17 +83,21 @@ unveränderten Dateien vor: elf Pakete aus ausfüllbaren PDFs, Excel-Arbeitsmapp
 Word-Vereinbarungen, vorausgefüllt mit den Daten der Gemeinschaft. Felder, die die Plattform nicht
 ableiten kann, bleiben bearbeitbar.
 
-- Jede Akte und jedes Dokument durchlaufen Status, die in einem Protokoll festgehalten werden:
-  eine Korrektur kommt hinzu, sie löscht nichts.
-- Die Fristen werden in Werktagen nach dem belgischen Kalender berechnet und im Dashboard des
-  Verwalters angezeigt.
+- Die Arbeit ist in Verfahren gegliedert: Änderungen im CRM fließen in den Entwurf des passenden
+  Verfahrens, den Sie senden, wann Sie es entscheiden. Sobald der Versand erfasst ist, ist das
+  Verfahren festgeschrieben.
+- Die Fristen werden in Werktagen gezählt, ohne die belgischen Feiertage. Die Erinnerungen
+  erscheinen in der Anwendung 14, 7 und 2 Tage vorher und dann bei Überschreitung der Frist.
 - E-Mails auf Französisch, Niederländisch, Deutsch und Englisch melden Einladungen, Rechnungen und
-  Verwaltungsfristen.
+  Unterschriftsanfragen. Die Verwaltungsfristen laufen über eine Zusammenfassung per E-Mail, die
+  standardmäßig deaktiviert ist.
+- Die Anlage 8, die ehrenwörtliche Erklärung der an der Teilung Beteiligten, wird in der Anwendung
+  unterschrieben: eine einfache elektronische Signatur im Sinne der eIDAS-Verordnung.
 - Jedes Mitglied kann einsehen, was über es an die Regulierungsbehörde gemeldet wurde.
 
-OptimCE reicht nichts ein und unterschreibt nichts an Ihrer Stelle: die Einreichung bleibt Ihre
+OptimCE reicht nichts an Ihrer Stelle ein: die Einreichung bleibt Ihre
 Sache. Siehe [CWaPE-Dokumente und Fristen]({{ "cwape-administrative-documents" | ref_url }}). Das Modul wird auf
-der Seite [CWaPE-Unterlagen Ihrer Energiegemeinschaft]({{ "product-cwape" | ref_url }}) vorgestellt.
+der Seite [CWaPE-Verfahren Ihrer Energiegemeinschaft]({{ "product-cwape" | ref_url }}) vorgestellt.
 
 ## Die Gemeinschaft beleben
 

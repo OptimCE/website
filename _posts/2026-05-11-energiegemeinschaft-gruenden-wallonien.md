@@ -9,7 +9,7 @@ tags: [community, administrative, guide]
 lang: de
 ref: create-energy-community-wallonia
 pillar: communautes-energie
-last_modified_at: 2026-11-10 06:00:00 +0100
+last_modified_at: 2026-11-13 08:00:00 +0100
 permalink: /de/ratgeber/energiegemeinschaft-gruenden-wallonien/
 ---
 
@@ -221,7 +221,7 @@ Falls eine Gemeinschaft von Grund auf zu gründen Ihnen zu aufwändig erscheint,
 
 ## Wie OptimCE helfen kann
 
-Sobald die Gemeinschaft gemeldet und betriebsbereit ist, beginnt die Arbeit: Mitglieder einbinden, Aufteilungsschlüssel konfigurieren, geteilte Volumina im 15-Minuten-Takt verfolgen, den jährlichen CWaPE-Bericht erstellen. **OptimCE** ist eine genau dafür gedachte Open-Source-Plattform: Sie automatisiert das tägliche Management von Energiegemeinschaften und arbeitet mit den wallonischen VNB zusammen. Die Meldeformulare sind Teil der [von OptimCE vorbereiteten CWaPE-Unterlagen](/de/funktionen/cwape-unterlagen/).
+Sobald die Gemeinschaft gemeldet und betriebsbereit ist, beginnt die Arbeit: Mitglieder einbinden, Aufteilungsschlüssel konfigurieren, geteilte Volumina im 15-Minuten-Takt verfolgen, den jährlichen CWaPE-Bericht erstellen. **OptimCE** ist eine genau dafür gedachte Open-Source-Plattform: Sie automatisiert das tägliche Management von Energiegemeinschaften. Die Meldeformulare sind Teil der [in OptimCE vorbereiteten CWaPE-Verfahren](/de/funktionen/cwape-unterlagen/). Sie prüfen sie und senden sie selbst ab: OptimCE sendet nichts an den VNB oder die CWaPE.
 
 Zum Einstieg oder zum Funktionsvergleich konsultieren Sie das [OptimCE-Benutzerhandbuch](https://guide.optimce.be); mit einem Konto zeigt das [Gemeinschaftsverzeichnis](https://app.optimce.be) der Anwendung die bereits über die Plattform verwalteten Teilungsoperationen, die ihre Verwalter öffentlich gemacht haben.
 

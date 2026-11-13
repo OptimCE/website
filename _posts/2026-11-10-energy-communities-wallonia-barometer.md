@@ -2,7 +2,7 @@
 layout: post
 title: "Energy communities in Wallonia: the barometer"
 date: 2026-11-10 06:00:00 +0100
-last_modified_at: 2026-11-10 06:00:00 +0100
+last_modified_at: 2026-11-13 08:00:00 +0100
 author: "Eric from OptimCE"
 excerpt: "As of 10 November 2026, the CWaPE has authorised twelve energy-sharing activities in Wallonia, run by six of the thirteen energy communities with a complete file. One of them, ES2, holds seven. Here are the nineteen decisions published since July 2024, counted, sorted and linked to their PDF, with the data as a CSV file. The page is updated every quarter, at the same address."
 description: "Energy communities in Wallonia: the 12 sharing activities authorised by the CWaPE, decision by decision, with DSO, perimeter and CSV. Updated quarterly."
@@ -140,6 +140,8 @@ In the initial authorisations, the decisions mention private individuals in only
 
 Only one decision names a municipality among the participants: the town of Aubange, which makes the surplus of its installation available. This case is analysed in [“Energy communities: a guide for municipalities”](/en/solutions/municipalities/).
 
+Aubange is not the only municipality to have set up a community of its own. In Rixensart, the municipal council created *Soleil de Rixensart* on 4 March 2026, a renewable energy community whose only members, for now, are the municipality and its CPAS. The CPAS is to buy the surplus from the solar panels of two municipal schools, at a price below the market rate but above what feeding it into the grid would earn. The community's file has been complete since 23 July 2026, but no sharing activity has been authorised yet, so Soleil de Rixensart does not appear in any decision. If the trial proves conclusive, the municipality plans to open it to residents, shops and SMEs after nine to twelve months of operation.
+
 One last thing in common: no community shares its own production. Every decision describes installations held by members for their own use, who share their surplus, and the CWaPE's evaluation report confirms this for all active communities.
 
 ### Notifying is not sharing
@@ -220,11 +222,11 @@ The columns:
 5. **Authorised does not mean in operation**: a third of the authorisations wait for R3 metering, and the CWaPE counted nine activities in operation on 30 September 2026.
 6. **The data is open**: a CSV under the CC BY 4.0 licence, updated every quarter.
 
-> ### Prepare your sharing activity's CWaPE file
+> ### Prepare your sharing activity's CWaPE procedures
 >
-> OptimCE is an open-source platform for managing energy communities, currently in alpha. It opens one file per sharing operation and prefills the CWaPE's official forms from your community's members, supply points and meters. You review, you file it yourself, and the application computes the deadlines from the filing date you record.
+> OptimCE is an open-source platform for managing energy communities, currently in alpha. Changes made in your CRM feed CWaPE procedures, whose official forms are prefilled from your community's members, supply points and meters. You review, you send them yourself, and the application tracks the deadlines in working days.
 >
-> **[See CWaPE filing in OptimCE](/en/features/cwape-filing/)**
+> **[See CWaPE procedures in OptimCE](/en/features/cwape-filing/)**
 
 ## FAQ
 
@@ -255,15 +257,18 @@ By contacting the community, which then asks for its activity to be modified. Yo
 ## Update history
 
 - **10 November 2026**: first edition. Nineteen decisions published by the CWaPE between 21 July 2024 and 29 September 2026: twelve authorisations and seven modifications, in six communities out of thirteen.
+- **13 November 2026**: added Soleil de Rixensart, the community of the municipality of Rixensart and its CPAS, which has no authorised sharing yet. No figure changes.
 
 ## Sources
 
 - [CWaPE — Documents récents](https://www.cwape.be/documents-recents) — register where the CWaPE announces its decisions, read page by page to find the nineteen sharing decisions, the latest announced on 29 September 2026. Accessed 10 November 2026.
-- [CWaPE — Partages autorisés](https://www.cwape.be/node/5618) — list of the twelve authorised sharing activities and their seven modifications, with territory and decision references; it matches our count exactly. Accessed 10 November 2026.
-- [CWaPE — Communautés d'énergie et partage d'énergie](https://www.cwape.be/node/158) — list of the thirteen notified communities with a complete file, with territory and completion date; source of the table of communities. Accessed 10 November 2026.
+- [CWaPE — Partages autorisés](https://www.cwape.be/node/5618) — list of the twelve authorised sharing activities and their seven modifications, with territory and decision references; it matches our count exactly. Accessed 10 November 2026 and checked again on 13 November 2026: no new decision.
+- [CWaPE — Communautés d'énergie et partage d'énergie](https://www.cwape.be/node/158) — list of the thirteen notified communities with a complete file, with territory and completion date; source of the table of communities. Accessed 10 November 2026 and checked again on 13 November 2026: still thirteen communities.
 - CWaPE — the nineteen decisions, from CD-24g11-CWaPE-0958 of 11 July 2024 to CD-26i03-CWaPE-1293 of 3 September 2026, linked one by one in the tables and in the CSV — source of every row: participants, DSOs, perimeters, suspensive conditions and request dates. Read 10 November 2026.
 - [CWaPE — Évaluation des dispositions des décrets électricité et gaz, CD-26i30-CWaPE-0133 of 30 September 2026](https://www.cwape.be/sites/default/files/cwape-documents/2026.09.30-0133-Evaluation%20des%20d%C3%A9crets%20%C3%A9lec%20et%20gaz.pdf) — pages 45 and 46: thirteen communities (seven CERs, six CECs), 222 participants, nine activities implemented within communities (85 and 123 offtake points) and eighteen within a single building (129 points); page 49: no active community has its own production units, and peer-to-peer sharing is not yet operational. Accessed 10 November 2026.
 - [CWaPE — Annual report 2025](https://www.cwape.be/sites/default/files/cwape-documents/2026.07.03-RAG%202025.pdf) — annex of 2025 decisions, which matches the five authorisations of that year. Accessed 10 November 2026.
+- [L'Avenir — Rixensart, in turn, is to create a renewable energy community](https://www.lavenir.net/regions/brabantwallon/rixensart/2026/03/09/rixensart-va-a-son-tour-creer-une-communaute-denergie-renouvelable-OEDNNWZVDFG3VODKIBYTV7GI7U/) — municipal council vote of 4 March 2026, the municipality and its CPAS as the only initial members, surplus from the panels of the Centre and Genval schools bought by the CPAS, opening to residents, shops and SMEs considered after nine to twelve months of operation (9 March 2026). Accessed 13 November 2026.
+- [RTBF — Rixensart sets up a renewable energy community](https://www.rtbf.be/article/communaute-d-energie-renouvelable-de-rixensart-11695838) — school surplus sold to the CPAS below the market price and above what it would earn if fed into the grid, trial phase before any extension (17 March 2026). Accessed 13 November 2026.
 - [Wallex — Décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité](https://wallex.wallonie.be/eli/loi-decret/2001/04/12/2001027238/2026/11/06) — article 35quaterdecies, § 3: CWaPE authorisation of each sharing activity of an energy community; article 35nonies, § 2: notification to the DSO only for sharing within a single building; article 35octies, § 4: peer-to-peer rules left to the Government. Consolidated version accessed 10 November 2026.
 - [Wallex — Arrêté du Gouvernement wallon du 17 mars 2023 relatif aux communautés d'énergie et au partage d'énergie](https://wallex.wallonie.be/eli/arrete/2023/03/17/2023044651/2026/02/26) — articles 20 and 21: request filed with the DSO, ten working days for completeness, twenty for the technical opinion, forty for the CWaPE's decision, suspensive conditions and the same procedure for modifications. Version in force since 26 February 2026, accessed 10 November 2026.
 - [Brugel — Les communautés autorisées](https://energysharing.brugel.brussels/energysharing/les-communautes-autorisees-586) — list of the 36 energy communities authorised in Brussels, the first on 16 May 2023, the latest on 17 September 2026. Accessed 10 November 2026.

@@ -9,7 +9,7 @@ ref: product-vs-spreadsheet
 permalink: /de/funktionen/tabelle-oder-software/
 breadcrumb_parent: features
 product_page: true
-last_modified_at: 2026-10-11
+last_modified_at: 2026-11-13
 faq:
   - q: "Genügt eine Tabelle für eine kleine Energiegemeinschaft?"
     a: "Oft ja. Mit einer Handvoll Mitgliedern, einer einzigen Teilungsoperation und einem Standardschlüssel, der sich nicht ändert, reicht eine sorgfältig geführte Tabelle aus. Anfällig wird sie, wenn sich der Schlüssel weiterentwickelt, wenn sich die Rechnungen häufen oder wenn mehrere Personen daran arbeiten müssen."
@@ -78,18 +78,17 @@ läuft über eine Gutschrift, und die Historie bleibt vollständig. Siehe die
 
 {% include product-shot.html name="billing-member" alt="Bereich „Meine Rechnungen“ eines Mitglieds: eine Vergütungsabrechnung DP-2025-00001 mit dem Status „Ausgestellt“ über 36,69 €, mit ihrer strukturierten Mitteilung." caption="Jedes Mitglied sieht seine eigenen Dokumente, mit der strukturierten Mitteilung für seine Überweisung (Testdaten)." %}
 
-### Die CWaPE-Dossiers
+### Die CWaPE-Verfahren
 
 Dieselben Daten (Mitglieder, Lieferstellen, Anlagen) werden in mehrere Formulare der CWaPE
 abgeschrieben, und jede Änderung der Gemeinschaft zieht neue nach sich, mit Fristen in Werktagen.
-Eine Tabelle weiß nicht, dass ein Dossier gerade seinen Status gewechselt hat, und auch nicht,
-welche Version eines Formulars verschickt wurde.
+Eine Tabelle weiß nicht, dass ein hinzugefügter Zähler ein Verfahren nach sich zieht, und auch
+nicht, welche Version eines Formulars verschickt wurde.
 
-In OptimCE werden die amtlichen Formulare aus der Mitgliederliste vorausgefüllt, jede Version wird
-aufbewahrt, und die Fristen werden in Werktagen berechnet. Siehe die
-[CWaPE-Unterlagen]({{ "product-cwape" | ref_url }}).
-
-{% include product-shot.html name="cwape-deadlines" alt="Reiter „Fristen“ der „Verwaltungsdokumente“: eine „Vollständigkeitsprüfung“, fällig am 06.11.2026 für Dossier Nr. 1, mit dem Status „Offen“." caption="Die offenen Fristen aller Dossiers, berechnet aus den Statuswechseln (Testdaten)." %}
+In OptimCE fließen Änderungen im CRM in den Entwurf des passenden Verfahrens, die amtlichen
+Formulare werden aus der Mitgliederliste vorausgefüllt, jede gesendete Version wird aufbewahrt, und
+die Fristen werden in Werktagen gezählt. Siehe die
+[CWaPE-Verfahren]({{ "product-cwape" | ref_url }}).
 
 ### Zugang der Mitglieder und Übergabe
 

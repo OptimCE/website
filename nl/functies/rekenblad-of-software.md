@@ -9,7 +9,7 @@ ref: product-vs-spreadsheet
 permalink: /nl/functies/rekenblad-of-software/
 breadcrumb_parent: features
 product_page: true
-last_modified_at: 2026-10-11
+last_modified_at: 2026-11-13
 faq:
   - q: "Volstaat een rekenblad voor een kleine energiegemeenschap?"
     a: "Vaak wel. Met een handvol leden, één deelactie en een standaardsleutel die niet verandert, volstaat een goed bijgehouden rekenblad. Het wordt kwetsbaar wanneer de sleutel evolueert, wanneer de facturen zich opstapelen of wanneer meerdere mensen erin moeten werken."
@@ -77,18 +77,17 @@ een correctie via een creditnota en blijft de historiek volledig. Zie de
 
 {% include product-shot.html name="billing-member" alt="Overzicht “Mijn facturen” van een lid: een vergoedingsafrekening DP-2025-00001 met de status “Uitgereikt”, van 36,69 €, met haar gestructureerde mededeling." caption="Elk lid ziet zijn eigen documenten, met de gestructureerde mededeling die het bij zijn overschrijving vermeldt (testgegevens)." %}
 
-### De CWaPE-dossiers
+### De CWaPE-procedures
 
 Dezelfde gegevens (leden, leveringspunten, installaties) worden overgenomen in meerdere formulieren
 van de CWaPE, en elke wijziging in de gemeenschap vraagt nieuwe formulieren, met termijnen in
-werkdagen. Een rekenblad weet niet dat een dossier net van status is veranderd, en ook niet welke
-versie van een formulier is vertrokken.
+werkdagen. Een rekenblad weet niet dat een toegevoegde meter een procedure vraagt, en ook niet
+welke versie van een formulier is vertrokken.
 
-In OptimCE worden de officiële formulieren vooraf ingevuld op basis van de ledenlijst, wordt elke
-versie bewaard en worden de termijnen in werkdagen berekend. Zie het
-[CWaPE-dossier]({{ "product-cwape" | ref_url }}).
-
-{% include product-shot.html name="cwape-deadlines" alt="Tabblad “Termijnen” van de “Administratieve documenten”: een “Volledigheidscontrole” met vervaldatum 06/11/2026 voor dossier nr. 1, met de status “Open”." caption="De openstaande termijnen van alle dossiers, berekend op basis van de statuswijzigingen (testgegevens)." %}
+In OptimCE komen wijzigingen in het CRM in het concept van de juiste procedure terecht, worden de
+officiële formulieren vooraf ingevuld op basis van de ledenlijst, wordt elke verstuurde versie
+bewaard en worden de termijnen in werkdagen geteld. Zie de
+[CWaPE-procedures]({{ "product-cwape" | ref_url }}).
 
 ### Toegang voor de leden en de overdracht
 

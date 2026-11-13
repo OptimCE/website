@@ -2,18 +2,18 @@
 layout: page
 title: "Beheersoftware voor energiegemeenschappen"
 subtitle: "Wat de OptimCE-software vandaag doet om een energiegemeenschap te beheren, van de toetreding van leden tot de factuur."
-description: "Opensource beheersoftware voor energiegemeenschappen: leden, verdeelsleutels, facturatie, CWaPE-dossiers, polls. Gratis tijdens de alfa."
+description: "Opensource beheersoftware voor energiegemeenschappen: leden, verdeelsleutels, facturatie, CWaPE-procedures, polls. Gratis tijdens de alfa."
 lang: nl
 ref: features
 permalink: /nl/functies/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-13
 feature_list:
   - "Beheer van leden, leveringspunten en meters"
   - "Bewaarde versies van verdeelsleutels, met opvolging van de aanvaarding door de leden"
   - "Automatische generatie van verdeelsleutels (doorlopen van de standaardsleutels, LOGAAS)"
   - "Simulatie van een verdeelsleutel op uw eigen gegevens"
   - "Facturatie van gedeelde energie (eerste versie, Waals kader)"
-  - "Vooraf ingevulde administratieve documenten van de CWaPE en opvolging van termijnen"
+  - "CWaPE-procedures, vooraf ingevulde documenten, termijnen en ondertekening van bijlage 8"
   - "E-mailmeldingen in vier talen"
   - "Nieuwsbord en polls"
   - "Overzicht van gemeenschappen, te raadplegen met een OptimCE-account"
@@ -82,17 +82,21 @@ officiële, ongewijzigde bestanden: elf pakketten invulbare pdf's, Excel-werkmap
 Word-overeenkomsten, vooraf ingevuld met de gegevens van de gemeenschap. Velden die het platform
 niet kan afleiden, blijven bewerkbaar.
 
-- Elk dossier en elk document doorlopen statussen die in een logboek worden vastgelegd: een
-  correctie komt erbij, ze wist niets.
-- De termijnen worden berekend in werkdagen volgens de Belgische kalender en getoond op het
-  dashboard van de beheerder.
+- Het werk is in procedures georganiseerd: wijzigingen in het CRM komen in het concept van de
+  juiste procedure terecht, dat u verstuurt wanneer u dat beslist. Zodra de verzending is
+  geregistreerd, ligt de procedure vast.
+- De termijnen worden in werkdagen geteld, Belgische feestdagen niet meegerekend. De herinneringen
+  verschijnen in de applicatie 14, 7 en 2 dagen vooraf, en daarna zodra de termijn is overschreden.
 - E-mails, in het Frans, Nederlands, Duits en Engels, melden uitnodigingen, facturen en
-  administratieve termijnen.
+  ondertekeningsverzoeken. De administratieve termijnen lopen via een samenvatting per e-mail, die
+  standaard uitgeschakeld is.
+- Bijlage 8, de verklaring op erewoord van wie deelneemt aan het delen, wordt in de applicatie
+  ondertekend: een eenvoudige elektronische handtekening in de zin van de eIDAS-verordening.
 - Elk lid kan inzien wat er over hem of haar aan de regulator is gemeld.
 
-OptimCE dient niets in en ondertekent niets in uw plaats: het indienen blijft uw zaak. Zie
+OptimCE dient niets in uw plaats in: het indienen blijft uw zaak. Zie
 [de CWaPE-documenten en termijnen]({{ "cwape-administrative-documents" | ref_url }}). De module wordt voorgesteld
-op de pagina [CWaPE-dossier van uw energiegemeenschap]({{ "product-cwape" | ref_url }}).
+op de pagina [CWaPE-procedures van uw energiegemeenschap]({{ "product-cwape" | ref_url }}).
 
 ## De gemeenschap levend houden
 

@@ -35,42 +35,6 @@
       "height": 420
     }
   },
-  "cwape-dossier": {
-    "fr": {
-      "width": 1050,
-      "height": 560
-    },
-    "en": {
-      "width": 1050,
-      "height": 560
-    },
-    "de": {
-      "width": 1050,
-      "height": 560
-    },
-    "nl": {
-      "width": 1050,
-      "height": 560
-    }
-  },
-  "cwape-deadlines": {
-    "fr": {
-      "width": 1030,
-      "height": 540
-    },
-    "en": {
-      "width": 1030,
-      "height": 540
-    },
-    "de": {
-      "width": 1030,
-      "height": 540
-    },
-    "nl": {
-      "width": 1030,
-      "height": 540
-    }
-  },
   "key-generation": {
     "fr": {
       "width": 1290,
@@ -141,6 +105,42 @@
     "nl": {
       "width": 940,
       "height": 425
+    }
+  },
+  "cwape-procedure": {
+    "fr": {
+      "width": 1050,
+      "height": 815
+    },
+    "en": {
+      "width": 1050,
+      "height": 815
+    },
+    "de": {
+      "width": 1050,
+      "height": 878
+    },
+    "nl": {
+      "width": 1050,
+      "height": 878
+    }
+  },
+  "cwape-signature": {
+    "fr": {
+      "width": 1160,
+      "height": 680
+    },
+    "en": {
+      "width": 1160,
+      "height": 680
+    },
+    "de": {
+      "width": 1160,
+      "height": 680
+    },
+    "nl": {
+      "width": 1160,
+      "height": 680
     }
   }
 }

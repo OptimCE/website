@@ -8,7 +8,7 @@ description: "Notification, rapportage annuel, conventions GRD : quels documents
 tags: [administrative, app, guide]
 lang: fr
 ref: cwape-administrative-documents
-last_modified_at: 2026-10-11 10:00:00 +0200
+last_modified_at: 2026-11-13 08:00:00 +0100
 pillar: communautes-energie
 permalink: /guides/documents-administratifs-communaute-energie-wallonie/
 faq:
@@ -21,7 +21,7 @@ faq:
   - q: "Faut-il encore utiliser les formulaires PDF depuis le passage à Mon Espace ?"
     a: "Cela dépend de la procédure. Depuis le 25 juin 2026, la notification de la création d'une communauté d'énergie, ses modifications et l'introduction du rapportage annuel s'effectuent au moyen de formulaires digitalisés hébergés sur monespace.wallonie.be. En revanche, tout ce qui touche à l'activité de partage elle-même — le formulaire de partage d'électricité, le formulaire de modification de partage, leurs annexes de participants et les déclarations sur l'honneur — reste publié par la CWaPE sous forme de fichiers PDF et Excel à télécharger, remplir et transmettre au gestionnaire de réseau. Les conventions-types avec le gestionnaire de réseau restent, elles aussi, des documents Word à compléter et à signer."
   - q: "OptimCE dépose-t-il les documents à la CWaPE à ma place ?"
-    a: "Non, et c'est délibéré. OptimCE prépare les documents à partir de vos données, calcule les échéances, conserve chaque version envoyée et enregistre qui a transmis quoi et quand. Le dépôt lui-même reste de votre ressort : sur Mon Espace pour la notification, ses modifications et le rapportage annuel, auprès de votre gestionnaire de réseau pour le partage et les conventions. Il n'existe aucune interface automatisée entre la plateforme et le régulateur. OptimCE ne signe rien non plus : les conventions Word restent des documents que les parties éditent et signent, et les PDF produits restent des formulaires remplissables, de sorte que ce qu'OptimCE ne peut pas déduire reste modifiable à la main."
+    a: "Non, et c'est délibéré. OptimCE prépare les documents à partir de vos données, calcule les échéances, conserve chaque version envoyée et enregistre qui a transmis quoi et quand. Le dépôt lui-même reste de votre ressort : sur Mon Espace pour la notification, ses modifications et le rapportage annuel, auprès de votre gestionnaire de réseau pour le partage et les conventions. Il n'existe aucune interface automatisée entre la plateforme et le régulateur. Depuis le 11 novembre 2026, un seul document se signe dans l'application : l'annexe 8, la déclaration sur l'honneur des personnes prenant part au partage, par une signature électronique simple au sens du règlement eIDAS. Les conventions Word restent des documents que les parties éditent et signent, et ce qu'OptimCE ne peut pas déduire reste modifiable à la main."
   - q: "Et pour Bruxelles et la Flandre ?"
     a: "La gestion des documents administratifs couvre aujourd'hui la Wallonie et la CWaPE uniquement. L'architecture est indexée par régulateur et Brugel comme la VREG sont déjà déclarés dans le registre partagé de la plateforme, mais ils y sont inactifs : un régulateur inconnu ou inactif provoque une erreur explicite plutôt qu'un repli silencieux sur les règles wallonnes. La raison est moins technique qu'éditoriale : ajouter une région, c'est surtout écrire les lots de documents de cette région, et Bruxelles comme la Flandre imposent des documents différents. Nous préférons ne pas annoncer d'échéance tant que ces lots ne sont pas écrits."
 ---
@@ -156,7 +156,7 @@ Ces cinq points ont une chose en commun : ils ne demandent aucune intelligence p
 
 ## Ce qu'OptimCE fait désormais
 
-C'est l'objet du bloc de fonctionnalités livré en août 2026 : un module de gestion des documents administratifs, des tableaux de bord, et l'envoi d'e-mails — qui, jusque-là, n'existait pas du tout sur la plateforme. Pour une vue d'ensemble, voir comment [préparer le dossier CWaPE dans OptimCE](/fonctionnalites/dossier-cwape/).
+C'est l'objet du bloc de fonctionnalités livré en août 2026 : un module de gestion des documents administratifs, des tableaux de bord, et l'envoi d'e-mails — qui, jusque-là, n'existait pas du tout sur la plateforme. Pour une vue d'ensemble, voir comment [préparer les démarches CWaPE dans OptimCE](/fonctionnalites/dossier-cwape/). Depuis le 11 novembre 2026, le module est organisé en démarches et l'annexe 8 se signe dans l'application : [notre actualité](/actualites/2026/11/11/demarches-cwape-signature-annexe-8/) détaille ce qui a changé.
 
 ### Onze documents préremplis à partir des fichiers officiels
 
@@ -171,25 +171,25 @@ Deux conséquences pratiques :
 
 Les données viennent du CRM — membres, points de fourniture, installations, compteurs — de sorte que la liste des participants est maintenue à un seul endroit et se propage dans les trois annexes qui la réclament.
 
-### Un journal qui ne se réécrit pas
+### Des démarches qui ne se réécrivent pas
 
-Un dossier suit les états **en préparation → soumis → complet → clôturé**, avec **caduc** en sortie latérale. Un document suit les états **brouillon → prêt → transmis → accusé de réception**, avec **obsolète**.
+Depuis novembre 2026, le travail s'organise en **démarches** : un formulaire, un destinataire (le gestionnaire de réseau de référence ou la CWaPE) et une date d'effet. Les changements faits dans le CRM alimentent le brouillon de la bonne démarche, que vous envoyez quand vous le décidez. Une pièce sort d'abord marquée « BROUILLON » ; « Générer les versions finales » produit ensuite les versions sans marque.
 
-Ce qui compte ici est moins la liste des états que la façon dont ils changent. **Un statut n'est jamais modifié en place** : chaque changement ajoute une ligne au journal, et une contrainte en base refuse un statut qui ne serait pas adossé à une entrée du journal. Une correction n'efface pas l'erreur, elle s'ajoute derrière. L'interface le dit dans ces termes : « Chaque changement de statut est enregistré définitivement. Les corrections s'ajoutent, elles n'effacent rien. »
+Ce qui compte ici est moins le parcours que ce qui se passe à l'envoi. Une fois la date et le canal indiqués, **la démarche est figée** : la base de données refuse toute modification ou suppression de ses pièces, et une version envoyée peut être revérifiée, son rendu rejoué à l'identique. Vous enregistrez ensuite les réponses dans la démarche, qui garde tout le fil : accusé de complétude, demande de compléments, décision, avenant…
 
 Même principe pour les fichiers. Chaque envoi est conservé comme une **version définitive**, adressée par son contenu, sans possibilité de mise à jour. Huit mois plus tard, la question « qu'avons-nous exactement transmis ? » a une réponse, et c'est le fichier lui-même.
 
 ### Des échéances calculées, pas saisies
 
-Les règles réglementaires sont des données, pas du code : une transition déclenche l'évaluation des règles applicables et matérialise les échéances correspondantes. Les délais en jours ouvrables sont calculés sur le **calendrier belge**, fêtes mobiles comprises — ce qui, pour un délai de dix jours ouvrables déposé début avril, n'est pas un détail.
+Les règles réglementaires sont des données, pas du code : chaque démarche porte ses échéances, celles de la communauté comme celles des tiers, c'est-à-dire la date à laquelle le GRD ou la CWaPE doit avoir répondu. Les délais en jours ouvrables sont calculés sur le **calendrier belge**, fêtes mobiles comprises — ce qui, pour un délai de dix jours ouvrables déposé début avril, n'est pas un détail.
 
-Un balayage quotidien tourne à **6 h, heure de Bruxelles**, et remonte les échéances à venir comme celles qui sont dépassées. La fenêtre de rappel est de **quatorze jours**.
+Un balayage quotidien tourne à **6 h, heure de Bruxelles**, et remonte les échéances à venir comme celles qui sont dépassées. Dans l'application, les rappels tombent à **J-14, J-7 et J-2**, puis au dépassement.
 
-Le tableau de bord manager expose ces échéances dans deux tuiles, « Échéances administratives » et « Dossiers administratifs », avec le nombre d'échéances ouvertes et le nombre d'échéances en retard.
+Le tableau de bord manager expose ces échéances dans deux tuiles, « Échéances administratives » et « Démarches administratives », avec le nombre d'échéances ouvertes et le nombre d'échéances en retard.
 
 ### Des e-mails, enfin
 
-Jusqu'à cet été, OptimCE n'envoyait aucun courriel. Un service dédié s'en charge désormais, avec six types de messages, chacun décliné en **français, néerlandais, allemand et anglais** :
+Jusqu'à cet été, OptimCE n'envoyait aucun courriel. Un service dédié s'en charge désormais, en **français, néerlandais, allemand et anglais**. Parmi ses messages :
 
 | Message | Quand | Catégorie |
 |---|---|---|
@@ -197,12 +197,12 @@ Jusqu'à cet été, OptimCE n'envoyait aucun courriel. Un service dédié s'en c
 | Invitation d'un gestionnaire | À l'invitation | Transactionnel |
 | Facture disponible | À l'émission | Transactionnel |
 | Facture échue | Au dépassement | Transactionnel |
-| **Échéance administrative proche** | 14 jours avant | Informationnel |
-| **Échéance administrative dépassée** | Au dépassement | Transactionnel |
 
-La distinction n'est pas cosmétique. Un message informationnel se coupe depuis l'onglet Notifications du profil, canal par canal — « Dans l'application » et « E-mail » sont deux réglages distincts. Un message transactionnel, non : « Les messages essentiels — factures, invitations et échéances réglementaires dépassées — sont toujours envoyés et ne peuvent pas être désactivés. »
+Les échéances administratives, elles, n'ont plus d'e-mail à elles depuis novembre 2026. Elles sont signalées dans l'application et, par e-mail, dans un **récapitulatif administratif** : au plus un par jour et par destinataire, toutes communautés confondues. Ce récapitulatif est désactivé par défaut ; un administrateur de la communauté l'active, choisit le rythme et les destinataires, et chacun peut le refuser dans son profil.
 
-Autrement dit, vous pouvez décider de ne pas être prévenu quatorze jours avant. Vous ne pouvez pas décider de ne pas être prévenu quand c'est dépassé.
+La distinction n'est pas cosmétique. Un message informationnel se coupe depuis l'onglet Notifications du profil, canal par canal — « Dans l'application » et « E-mail » sont deux réglages distincts. Un message transactionnel, non : « Les messages essentiels — factures et invitations — sont toujours envoyés et ne peuvent pas être désactivés. Une échéance réglementaire dépassée est toujours signalée dans l'application ; par e-mail, elle figure dans le récapitulatif administratif. »
+
+Autrement dit, une échéance dépassée vous est toujours signalée dans l'application ; l'e-mail, lui, passe par le récapitulatif.
 
 D'autres événements existent en notification interne uniquement, sans e-mail : le dépôt d'un document, la mise à jour d'un membre, l'accusé de réception d'un dossier, la fin d'une facturation, la publication d'une actualité ou d'un sondage.
 
@@ -224,7 +224,7 @@ Un participant à un partage figure, nommément, dans des documents transmis à 
 
 OptimCE ouvre une page à chaque membre, intitulée « Ce qui a été déclaré à mon sujet », avec ce sous-titre : « Les informations vous concernant transmises au régulateur par votre communauté. » Elle est accessible à tout membre, sans rôle particulier, et affiche ce qui a effectivement été déposé, à la date du dépôt. La page le précise d'ailleurs : ces valeurs sont celles qui ont été transmises à la date indiquée, et elles ne changent pas si vos informations sont corrigées ensuite.
 
-C'est une conséquence directe du journal immuable décrit plus haut : parce que rien n'est écrasé, on peut montrer au membre ce qui a été dit de lui, et quand.
+C'est une conséquence directe de ce qui précède : parce que rien n'est écrasé, on peut montrer au membre ce qui a été dit de lui, et quand.
 
 ## Ce que ça ne fait pas
 
@@ -232,7 +232,7 @@ Quatre limites, qu'il vaut mieux connaître avant de s'engager.
 
 **OptimCE ne dépose pas à votre place.** Il n'existe aucune interface automatisée entre la plateforme et la CWaPE. Le dépôt se fait sur Mon Espace pour la notification, ses modifications et le rapportage annuel, et auprès de votre gestionnaire de réseau pour le partage et les conventions. Ce que la plateforme fait, c'est préparer le document, enregistrer que vous l'avez transmis, à quelle date, et conserver la version exacte qui est partie.
 
-**OptimCE ne signe rien.** Il n'y a pas de signature électronique dans la plateforme. Les conventions Word restent des contrats que les parties éditent et signent ; les PDF produits restent des formulaires remplissables. « Prérempli, prêt à signer » est exact ; « signé dans l'application » ne le serait pas.
+**Un seul document se signe dans OptimCE.** Depuis le 11 novembre 2026, l'annexe 8, la déclaration sur l'honneur des personnes prenant part au partage, se signe dans l'application. C'est une signature électronique simple au sens du règlement eIDAS, ni avancée ni qualifiée : elle ne peut pas être écartée comme preuve au seul motif qu'elle est électronique, mais elle n'a pas d'office la valeur d'une signature manuscrite. Rien d'autre ne se signe dans OptimCE : les conventions Word restent des contrats que les parties éditent et signent, et ni les avenants ni les bulletins d'adhésion ne s'y signent.
 
 **La couverture est wallonne.** Le module ne connaît aujourd'hui que la CWaPE. Brugel et la VREG sont déjà déclarés dans le registre de régulateurs partagé par les services, mais ils y sont inactifs, et c'est volontaire : un régulateur inactif provoque une erreur explicite plutôt qu'un repli silencieux sur les règles wallonnes, qui produirait des documents faux avec l'apparence du sérieux. Ajouter une région, c'est d'abord écrire les lots de documents de cette région — Bruxelles et la Flandre imposent des documents différents. Nous n'annoncerons pas de date tant que ce travail ne sera pas fait.
 
@@ -265,8 +265,8 @@ Le gain ne se situe pas là où on l'attend. Ce n'est pas le remplissage des for
 3. **Le rapportage annuel est une date fixe, pas un anniversaire.** Une communauté déclarée complète en mars rapporte au 1<sup>er</sup> septembre suivant.
 4. **Depuis le 25 juin 2026, la bascule vers Mon Espace est partielle** : ce qui va à la CWaPE est digitalisé, ce qui va au gestionnaire de réseau reste un fichier à télécharger et à signer.
 5. **OptimCE prépare onze documents à partir des fichiers officiels non modifiés** — ce qui est déposé est le document du régulateur, pas une reproduction — et laisse modifiables les champs qu'il ne sait pas déduire.
-6. **Rien n'est écrasé** : les statuts s'ajoutent à un journal, les versions envoyées sont conservées telles quelles, et le membre peut voir ce qui a été déclaré à son sujet et à quelle date.
-7. **Le dépôt et la signature restent de votre ressort**, et la couverture est wallonne aujourd'hui.
+6. **Rien n'est écrasé** : une démarche envoyée est figée, les versions envoyées sont conservées telles quelles, et le membre peut voir ce qui a été déclaré à son sujet et à quelle date.
+7. **Le dépôt reste de votre ressort**, seule l'annexe 8 se signe dans l'application, et la couverture est wallonne aujourd'hui.
 
 Ce qu'il ne faut pas en attendre : aucune de ces fonctionnalités ne rend une communauté d'énergie plus rentable, et aucune ne remplace la lecture du cadre réglementaire. Ce qu'elles font, et que des classeurs partagés ne font pas, c'est **garantir qu'une échéance ne passe pas inaperçue et qu'une version transmise reste retrouvable** — les deux seules causes, dans notre expérience, de dossiers perdus pour de mauvaises raisons.
 
@@ -296,7 +296,7 @@ Cela dépend de la procédure. Depuis le **25 juin 2026**, la notification de la
 
 ### OptimCE dépose-t-il les documents à la CWaPE à ma place ?
 
-Non, et c'est délibéré. OptimCE prépare les documents à partir de vos données, calcule les échéances, conserve chaque version envoyée et enregistre qui a transmis quoi et quand. **Le dépôt lui-même reste de votre ressort** : sur Mon Espace pour la notification, ses modifications et le rapportage annuel, auprès de votre gestionnaire de réseau pour le partage et les conventions. Il n'existe aucune interface automatisée entre la plateforme et le régulateur. OptimCE ne signe rien non plus : les conventions Word restent des documents que les parties éditent et signent, et les PDF produits restent des formulaires remplissables, de sorte que ce qu'OptimCE ne peut pas déduire reste modifiable à la main.
+Non, et c'est délibéré. OptimCE prépare les documents à partir de vos données, calcule les échéances, conserve chaque version envoyée et enregistre qui a transmis quoi et quand. **Le dépôt lui-même reste de votre ressort** : sur Mon Espace pour la notification, ses modifications et le rapportage annuel, auprès de votre gestionnaire de réseau pour le partage et les conventions. Il n'existe aucune interface automatisée entre la plateforme et le régulateur. Depuis le 11 novembre 2026, un seul document se signe dans l'application : l'annexe 8, la déclaration sur l'honneur des personnes prenant part au partage, par une signature électronique simple au sens du règlement eIDAS. Les conventions Word restent des documents que les parties éditent et signent, et ce qu'OptimCE ne peut pas déduire reste modifiable à la main.
 
 ### Et pour Bruxelles et la Flandre ?
 
@@ -308,4 +308,4 @@ La gestion des documents administratifs couvre aujourd'hui **la Wallonie et la C
 - [CWaPE — Partage d'énergie](https://www.cwape.be/node/5618) — liste et numérotation des formulaires et annexes cités dans cet article : formulaire de partage d'électricité (5609) et son guide explicatif (5610), annexe 6 des participants et installations de production (5611), annexe 6bis relative aux installations de stockage (6578), annexe 8 de déclaration sur l'honneur (5612), formulaire de modification de partage (6018) et son guide (6017) avec les annexes 2 (6019), 3 (6020) et 3bis (6579), ainsi que les deux conventions-types du 12 octobre 2023 entre le gestionnaire de réseau et le représentant, en version communauté d'énergie et en version même bâtiment.
 - [CWaPE — Formulaires relatifs aux communautés d'énergie accessibles via le site « Mon Espace » de la Wallonie](https://www.cwape.be/documents-recents/formulaires-relatifs-aux-communautes-denergie-accessibles-le-site-mon-espace-de) — avis du 25 juin 2026 : la notification de la création d'une communauté d'énergie, ses modifications et l'introduction de son rapportage annuel s'effectuent au moyen de formulaires digitalisés hébergés sur monespace.wallonie.be.
 - [Renouvelle — Partage et communautés d'énergie en Wallonie : l'avis de la CWaPE](https://www.renouvelle.be/fr/partage-et-communautes-energie-en-wallonie-avis-de-la-cwape/) — évaluation du 18 mars 2025 : 4 opérations de partage au sein d'un même bâtiment et 3 au sein d'une communauté d'énergie recensées en Wallonie, et freins identifiés par le régulateur.
-- [OptimCE — code source de la plateforme](https://github.com/optimce) — source de toutes les affirmations produit de cet article : les onze lots de documents et leur nature de fichiers officiels non modifiés, les capacités lues sur les formulaires eux-mêmes, la machine à états journalisée des dossiers et des documents, l'immuabilité des versions transmises, le calcul des délais en jours ouvrables belges avec balayage quotidien à 6 h et fenêtre de rappel de quatorze jours, les six types d'e-mails en quatre langues et leur distinction entre messages informationnels et transactionnels, les tableaux de bord gestionnaire et membre, et la restriction du registre des régulateurs à la seule CWaPE active.
+- [OptimCE — code source de la plateforme](https://github.com/optimce) — source de toutes les affirmations produit de cet article : les onze lots de documents et leur nature de fichiers officiels non modifiés, les capacités lues sur les formulaires eux-mêmes, les démarches et le gel de leurs pièces après l'envoi, l'immuabilité des versions transmises, le calcul des délais en jours ouvrables belges avec balayage quotidien à 6 h et rappels à J-14, J-7 et J-2, les e-mails en quatre langues, le récapitulatif administratif et la distinction entre messages informationnels et transactionnels, la signature électronique simple de l'annexe 8, les tableaux de bord gestionnaire et membre, et la restriction du registre des régulateurs à la seule CWaPE active.

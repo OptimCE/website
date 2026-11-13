@@ -9,7 +9,7 @@ ref: product-getting-started
 permalink: /en/features/getting-started/
 breadcrumb_parent: features
 product_page: true
-last_modified_at: 2026-10-11
+last_modified_at: 2026-11-11
 faq:
   - q: "Do I need to install OptimCE to get started?"
     a: "No. OptimCE Cloud, at app.optimce.be, needs no installation: you create an account, then your community. Self-hosting is another route, for teams that want to host the platform themselves."
@@ -73,11 +73,12 @@ Guide: [create a meter](https://guide.optimce.be/meter-create/en.html). Module:
 ### 4. Create the sharing operation
 
 Give it a name, a type (within a building, renewable energy community or citizen energy
-community) and the municipalities it covers. Tariffs, invoices and administrative dossiers are
-then attached to this operation.
+community) and the municipalities it covers. Tariffs and invoices are then attached to this
+operation. If the administrative module is active, creating it also feeds the draft of a CWaPE
+procedure.
 
 Guide: [create a sharing operation](https://guide.optimce.be/sharing-op-create/en.html).
-Module: [the operation's CWaPE filing]({{ "product-cwape" | ref_url }}).
+Module: [CWaPE procedures]({{ "product-cwape" | ref_url }}).
 
 ### 5. Set the allocation key
 

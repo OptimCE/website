@@ -9,7 +9,7 @@ ref: product-getting-started
 permalink: /fonctionnalites/premiers-pas/
 breadcrumb_parent: features
 product_page: true
-last_modified_at: 2026-10-11
+last_modified_at: 2026-11-11
 faq:
   - q: "Faut-il installer OptimCE pour démarrer ?"
     a: "Non. OptimCE Cloud, sur app.optimce.be, ne demande aucune installation : vous créez un compte, puis votre communauté. L'auto-hébergement est une autre voie, pour les équipes qui veulent héberger la plateforme elles-mêmes."
@@ -75,11 +75,12 @@ Guide : [créer un compteur](https://guide.optimce.be/meter-create/fr.html). Mod
 ### 4. Créer l'opération de partage
 
 Donnez-lui un nom, un type (au sein d'un bâtiment, communauté d'énergie renouvelable ou communauté
-d'énergie citoyenne) et les communes qu'elle couvre. Les tarifs, les factures et les dossiers
-administratifs sont ensuite rattachés à cette opération.
+d'énergie citoyenne) et les communes qu'elle couvre. Les tarifs et les factures sont ensuite
+rattachés à cette opération. Si le module administratif est actif, sa création alimente aussi le
+brouillon d'une démarche CWaPE.
 
 Guide : [créer une opération de partage](https://guide.optimce.be/sharing-op-create/fr.html).
-Module : [le dossier CWaPE de l'opération]({{ "product-cwape" | ref_url }}).
+Module : [les démarches CWaPE]({{ "product-cwape" | ref_url }}).
 
 ### 5. Définir la clé de répartition
 

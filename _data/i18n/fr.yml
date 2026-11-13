@@ -75,12 +75,13 @@ how:
     - title: "Facturez et rendez compte"
       text: >-
         Pour chaque période, OptimCE facture l'énergie partagée à chaque
-        membre et prépare les dossiers à déposer à la CWaPE.
+        membre. Il prépare aussi les démarches CWaPE, que vous envoyez
+        vous-même.
 
 # Application modules (_includes/modules.html)
 modules:
   title: "Ce que fait l'application"
-  subtitle: "Les modules d'OptimCE, du registre des membres aux dossiers pour la CWaPE."
+  subtitle: "Les modules d'OptimCE, du registre des membres aux démarches CWaPE."
   groups:
     - name: "Communauté"
       items:
@@ -102,8 +103,8 @@ modules:
       items:
         - title: "Facturation"
           text: "Tarifs, campagnes de facturation, notes de crédit et suivi des paiements."
-        - title: "Dossiers CWaPE"
-          text: "Échéances, chronologie et formulaires générés pour le régulateur wallon."
+        - title: "Démarches CWaPE"
+          text: "Formulaires du régulateur wallon préremplis, échéances et signature de l'annexe 8."
         - title: "Actualités et sondages"
           text: "Informez vos membres et consultez-les dans l'application."
   note: >-

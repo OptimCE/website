@@ -2,18 +2,18 @@
 layout: page
 title: "Energy community management software"
 subtitle: "What the OptimCE software does today to run an energy community, from members joining to the invoice."
-description: "Open source energy community management software: members, allocation keys, billing, CWaPE filings, polls. Free during the alpha."
+description: "Open source energy community management software: members, allocation keys, billing, CWaPE procedures, polls. Free during the alpha."
 lang: en
 ref: features
 permalink: /en/features/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-13
 feature_list:
   - "Management of members, supply points and meters"
   - "Versioned allocation keys, with members' acceptance tracked"
   - "Automatic allocation key generation (search over standard keys, LOGAAS)"
   - "Allocation key simulation on your own data"
   - "Billing of shared energy (first version, Walloon framework)"
-  - "Pre-filled CWaPE administrative documents and deadline tracking"
+  - "CWaPE procedures, pre-filled documents, deadlines and annex 8 signing"
   - "Email notifications in four languages"
   - "News board and polls"
   - "Community directory, open to anyone with an OptimCE account"
@@ -79,17 +79,20 @@ For Walloon communities, OptimCE prepares the CWaPE documents from the official,
 files: eleven sets of fillable PDFs, Excel workbooks and Word agreements, pre-filled with the
 community's data. Fields the platform cannot derive remain editable.
 
-- Every file and every document goes through statuses recorded in a log: a correction is added,
-  it erases nothing.
-- Deadlines are calculated in working days on the Belgian calendar and surfaced on the manager's
-  dashboard.
-- Emails, in French, Dutch, German and English, report invitations, invoices and administrative
-  deadlines.
+- Work is organised into procedures: changes made in the CRM feed the draft of the right
+  procedure, which you send when you decide to. Once the sending is recorded, the procedure is
+  frozen.
+- Deadlines are counted in working days, excluding Belgian public holidays. Reminders appear in the
+  application 14, 7 and 2 days before the deadline, then once it has passed.
+- Emails, in French, Dutch, German and English, report invitations, invoices and signature
+  requests. Administrative deadlines go through an email summary, disabled by default.
+- Annex 8, the sworn declaration of persons taking part in the sharing, is signed in the
+  application: a simple electronic signature within the meaning of the eIDAS Regulation.
 - Each member can see what has been declared about them to the regulator.
 
-OptimCE files nothing and signs nothing on your behalf: filing remains your responsibility. See
+OptimCE files nothing on your behalf: filing remains your responsibility. See
 [CWaPE documents and deadlines]({{ "cwape-administrative-documents" | ref_url }}). The module is presented
-on the [CWaPE filing for your energy community]({{ "product-cwape" | ref_url }}) page.
+on the [CWaPE procedures for your energy community]({{ "product-cwape" | ref_url }}) page.
 
 ## Engaging the community
 

@@ -9,7 +9,7 @@ ref: product-vs-spreadsheet
 permalink: /en/features/spreadsheet-or-software/
 breadcrumb_parent: features
 product_page: true
-last_modified_at: 2026-10-11
+last_modified_at: 2026-11-13
 faq:
   - q: "Is a spreadsheet enough for a small energy community?"
     a: "Often, yes. With a handful of members, a single sharing operation and a standard key that does not change, a well-kept spreadsheet does the job. It becomes fragile when the key evolves, when invoices multiply or when several people need to work on it."
@@ -75,17 +75,16 @@ goes through a credit note, and the history stays complete. See the
 
 {% include product-shot.html name="billing-member" alt="A member's “My invoices” area: remuneration statement DP-2025-00001, status “Issued”, €36.69, with its structured payment reference, labelled “Structured communication” in the interface." caption="Each member sees their own documents, with the structured payment reference to quote in their transfer (test data)." %}
 
-### CWaPE dossiers
+### CWaPE procedures
 
 The same data (members, supply points, installations) is copied into several CWaPE forms, and
 every change to the community calls for new ones, with deadlines in working days. A spreadsheet
-does not know that a dossier has just changed status, or which version of a form went out.
+does not know that an added meter calls for a procedure, or which version of a form went out.
 
-In OptimCE, the official forms are prefilled from the list of members, every version is kept and
-deadlines are calculated in working days. See the [CWaPE filing]({{ "product-cwape" | ref_url }})
+In OptimCE, changes made in the CRM feed the draft of the right procedure, the official forms are
+prefilled from the list of members, every version sent is kept and deadlines are counted in
+working days. See the [CWaPE procedures]({{ "product-cwape" | ref_url }})
 page.
-
-{% include product-shot.html name="cwape-deadlines" alt="The “Deadlines” tab of “Administrative documents”: a “Completeness check” due on 15/09/2026 for dossier #1, with status “Open”." caption="The open deadlines of every dossier, calculated from the status changes (test data)." %}
 
 ### Member access and handover
 

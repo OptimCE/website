@@ -8,7 +8,7 @@ description: "Kennisgeving, jaarlijkse rapportering, overeenkomsten: welke docum
 tags: [administrative, app, guide]
 lang: nl
 ref: cwape-administrative-documents
-last_modified_at: 2026-10-11 10:00:00 +0200
+last_modified_at: 2026-11-13 08:00:00 +0100
 pillar: communautes-energie
 permalink: /nl/gidsen/energiegemeenschap-administratieve-documenten-wallonie/
 faq:
@@ -21,7 +21,7 @@ faq:
   - q: "Moet u de pdf-formulieren nog gebruiken sinds de overstap naar Mon Espace?"
     a: "Dat hangt af van de procedure. Sinds 25 juni 2026 gebeuren de kennisgeving van de oprichting van een energiegemeenschap, de wijzigingen ervan en de indiening van de jaarlijkse rapportering via gedigitaliseerde formulieren op monespace.wallonie.be. Alles wat de deelactiviteit zelf betreft — het formulier voor het delen van elektriciteit, het wijzigingsformulier, de deelnemersbijlagen en de verklaringen op erewoord — publiceert de CWaPE daarentegen nog steeds als pdf- en Excel-bestanden om te downloaden, in te vullen en te bezorgen aan de distributienetbeheerder. Ook de modelovereenkomsten met de netbeheerder blijven Word-documenten die u invult en ondertekent."
   - q: "Dient OptimCE de documenten in mijn plaats in bij de CWaPE?"
-    a: "Nee, en dat is bewust. OptimCE bereidt de documenten voor op basis van uw gegevens, berekent de termijnen, bewaart elke verzonden versie en registreert wie wat wanneer heeft bezorgd. De indiening zelf blijft uw taak: via Mon Espace voor de kennisgeving, de wijzigingen ervan en de jaarlijkse rapportering, en bij uw distributienetbeheerder voor het delen en de overeenkomsten. Er bestaat geen geautomatiseerde koppeling tussen het platform en de regulator. OptimCE ondertekent evenmin iets: de Word-overeenkomsten blijven documenten die de partijen bewerken en ondertekenen, en de gemaakte pdf-bestanden blijven invulbare formulieren, zodat wat OptimCE niet kan afleiden met de hand aanpasbaar blijft."
+    a: "Nee, en dat is bewust. OptimCE bereidt de documenten voor op basis van uw gegevens, berekent de termijnen, bewaart elke verzonden versie en registreert wie wat wanneer heeft bezorgd. De indiening zelf blijft uw taak: via Mon Espace voor de kennisgeving, de wijzigingen ervan en de jaarlijkse rapportering, en bij uw distributienetbeheerder voor het delen en de overeenkomsten. Er bestaat geen geautomatiseerde koppeling tussen het platform en de regulator. Sinds 11 november 2026 wordt één enkel document in de applicatie ondertekend: bijlage 8, de verklaring op erewoord van wie deelneemt aan het delen, met een eenvoudige elektronische handtekening in de zin van de eIDAS-verordening. De Word-overeenkomsten blijven documenten die de partijen bewerken en ondertekenen, en wat OptimCE niet kan afleiden, blijft met de hand aanpasbaar."
   - q: "En hoe zit het met Brussel en Vlaanderen?"
     a: "Het beheer van administratieve documenten dekt vandaag uitsluitend Wallonië en de CWaPE. De architectuur is opgebouwd per regulator, en zowel Brugel als de VREG staan al in het gedeelde register van het platform, maar daar zijn ze inactief: een onbekende of inactieve regulator geeft een uitdrukkelijke foutmelding in plaats van stilzwijgend terug te vallen op de Waalse regels. De reden is minder technisch dan redactioneel: een regio toevoegen betekent vooral de documentenpakketten van die regio schrijven, en zowel Brussel als Vlaanderen leggen andere documenten op. Wij kondigen liever geen datum aan zolang die pakketten niet geschreven zijn."
 ---
@@ -156,7 +156,7 @@ Die vijf punten hebben één ding gemeen: geen enkel vraagt bijzondere intellige
 
 ## Wat OptimCE voortaan doet
 
-Dat is het opzet van het pakket functies dat in augustus 2026 werd opgeleverd: een module voor het beheer van administratieve documenten, dashboards, en het versturen van e-mails — dat tot dan helemaal niet bestond op het platform. Bekijk ook in één overzicht hoe u [het CWaPE-dossier in OptimCE voorbereidt](/nl/functies/cwape-dossier/).
+Dat is het opzet van het pakket functies dat in augustus 2026 werd opgeleverd: een module voor het beheer van administratieve documenten, dashboards, en het versturen van e-mails — dat tot dan helemaal niet bestond op het platform. Bekijk ook in één overzicht hoe u [de CWaPE-procedures in OptimCE voorbereidt](/nl/functies/cwape-dossier/). Sinds 11 november 2026 is de module in procedures georganiseerd en wordt bijlage 8 in de applicatie ondertekend: [ons nieuwsbericht](/nl/nieuws/2026/11/11/cwape-procedures-ondertekening-bijlage-8/) beschrijft wat er is veranderd.
 
 ### Elf documenten, vooraf ingevuld op basis van de officiële bestanden
 
@@ -171,25 +171,25 @@ Twee praktische gevolgen:
 
 De gegevens komen uit het CRM — leden, leveringspunten, installaties, meters — zodat de deelnemerslijst op één plaats wordt bijgehouden en doorstroomt naar de drie bijlagen die haar vragen.
 
-### Een journaal dat niet wordt herschreven
+### Procedures die niet worden herschreven
 
-Een dossier doorloopt de toestanden **in voorbereiding → ingediend → volledig → afgesloten**, met **vervallen** als zijuitgang. Een document doorloopt **ontwerp → klaar → bezorgd → ontvangstbevestiging**, met **verouderd**.
+Sinds november 2026 is het werk georganiseerd in **procedures**: een formulier, een bestemmeling (de referentienetbeheerder of de CWaPE) en een ingangsdatum. De wijzigingen die in het CRM worden aangebracht, voeden het concept van de juiste procedure, dat u verstuurt wanneer u dat beslist. Een stuk is eerst gemarkeerd met “BROUILLON” (concept); “De definitieve versies genereren” maakt daarna de versies zonder markering aan.
 
-Wat hier telt, is minder de lijst van toestanden dan de manier waarop zij veranderen. **Een status wordt nooit ter plaatse gewijzigd**: elke verandering voegt een regel toe aan het journaal, en een databankvoorwaarde weigert elke status die niet door een journaalregel wordt gedekt. Een correctie wist de fout niet, zij komt erachter. De interface zegt het in die bewoordingen: “Elke statuswijziging wordt definitief geregistreerd. Correcties komen erbij, ze wissen niets.”
+Wat hier telt, is minder het verloop dan wat er bij het versturen gebeurt. Zodra de datum en het kanaal zijn opgegeven, **ligt de procedure vast**: de databank weigert elke wijziging of verwijdering van haar stukken, en een verstuurde versie kan opnieuw worden gecontroleerd, waarbij de weergave identiek opnieuw wordt opgebouwd. Daarna registreert u de antwoorden in de procedure, die de hele draad bijhoudt: ontvangstbevestiging van volledigheid, vraag om aanvullingen, beslissing, aanhangsel…
 
 Hetzelfde beginsel geldt voor de bestanden. Elke verzending wordt bewaard als een **definitieve versie**, geadresseerd op basis van haar inhoud, zonder mogelijkheid tot bijwerking. Acht maanden later heeft de vraag “wat hebben wij precies bezorgd?” een antwoord, en dat antwoord is het bestand zelf.
 
 ### Berekende, niet ingetikte termijnen
 
-De reglementaire regels zijn gegevens, geen code: een overgang zet de evaluatie van de toepasselijke regels in gang en materialiseert de bijbehorende termijnen. Termijnen in werkdagen worden berekend op de **Belgische kalender**, beweeglijke feestdagen inbegrepen — wat voor een termijn van tien werkdagen begin april geen detail is.
+De reglementaire regels zijn gegevens, geen code: elke procedure bevat haar termijnen, zowel die van de gemeenschap als die van derden, dat wil zeggen de datum waarop de netbeheerder of de CWaPE moet hebben geantwoord. Termijnen in werkdagen worden berekend op de **Belgische kalender**, beweeglijke feestdagen inbegrepen — wat voor een termijn van tien werkdagen begin april geen detail is.
 
-Een dagelijkse doorloop draait om **6 uur, Brusselse tijd**, en signaleert zowel naderende als overschreden termijnen. Het herinneringsvenster bedraagt **veertien dagen**.
+Een dagelijkse doorloop draait om **6 uur, Brusselse tijd**, en signaleert zowel naderende als overschreden termijnen. In de applicatie verschijnen de herinneringen **14, 7 en 2 dagen vooraf**, en daarna zodra de termijn is overschreden.
 
-Het dashboard voor beheerders toont dit in twee tegels, “Administratieve termijnen” en “Administratieve dossiers”, met het aantal openstaande en het aantal achterstallige termijnen.
+Het dashboard voor beheerders toont dit in twee tegels, “Administratieve deadlines” en “Administratieve procedures”, met het aantal openstaande en het aantal achterstallige termijnen.
 
 ### Eindelijk e-mails
 
-Tot deze zomer verstuurde OptimCE geen enkele e-mail. Een aparte dienst neemt dat nu voor zijn rekening, met zes berichttypes, elk in het **Frans, Nederlands, Duits en Engels**:
+Tot deze zomer verstuurde OptimCE geen enkele e-mail. Een aparte dienst neemt dat nu voor zijn rekening, in het **Frans, Nederlands, Duits en Engels**. Enkele van zijn berichten:
 
 | Bericht | Wanneer | Categorie |
 |---|---|---|
@@ -197,12 +197,12 @@ Tot deze zomer verstuurde OptimCE geen enkele e-mail. Een aparte dienst neemt da
 | Uitnodiging van een beheerder | Bij de uitnodiging | Transactioneel |
 | Factuur beschikbaar | Bij de uitgifte | Transactioneel |
 | Factuur vervallen | Bij overschrijding | Transactioneel |
-| **Administratieve termijn nadert** | 14 dagen vooraf | Informatief |
-| **Administratieve termijn overschreden** | Bij overschrijding | Transactioneel |
 
-Het onderscheid is niet cosmetisch. Een informatief bericht schakelt u uit via het tabblad Meldingen van uw profiel, kanaal per kanaal — “In de applicatie” en “E-mail” zijn twee aparte instellingen. Een transactioneel bericht niet: “Essentiële berichten — facturen, uitnodigingen en overschreden reglementaire termijnen — worden altijd verzonden en kunnen niet worden uitgeschakeld.”
+De administratieve termijnen hebben sinds november 2026 geen eigen e-mail meer. Ze worden in de applicatie gemeld en, per e-mail, in een **administratief overzicht**: hoogstens één per dag en per bestemmeling, voor alle gemeenschappen samen. Dat overzicht is standaard uitgeschakeld; een administrator van de gemeenschap schakelt het in, kiest de frequentie en de bestemmelingen, en iedereen kan het in zijn profiel weigeren.
 
-Met andere woorden: u kunt beslissen niet veertien dagen vooraf te worden verwittigd. U kunt niet beslissen niet te worden verwittigd wanneer de termijn verstreken is.
+Het onderscheid is niet cosmetisch. Een informatief bericht schakelt u uit via het tabblad Meldingen van uw profiel, kanaal per kanaal — “In de applicatie” en “E-mail” zijn twee aparte instellingen. Een transactioneel bericht niet: “Essentiële berichten — facturen en uitnodigingen — worden altijd verstuurd en kunnen niet worden uitgeschakeld. Een verstreken regelgevende termijn wordt altijd in de app gemeld; per e-mail staat hij in het administratieve overzicht.”
+
+Met andere woorden: een overschreden termijn wordt u altijd in de applicatie gemeld; per e-mail loopt dat via het overzicht.
 
 Andere gebeurtenissen bestaan enkel als melding in de applicatie, zonder e-mail: het opladen van een document, de bijwerking van een lid, de ontvangstbevestiging van een dossier, het einde van een facturatieronde, en de publicatie van een nieuwsbericht of een peiling.
 
@@ -212,19 +212,19 @@ De dashboardmodule die tegelijk werd opgeleverd, beantwoordt drie vragen die zic
 
 **De beheerder van de gemeenschap** opent “Punten om na te kijken”. De tegel somt op wat werkelijk blokkeert: activiteiten zonder geldige verdeelsleutel, sleutels die op goedkeuring wachten, meters die wachten op de netbeheerder of op bevestiging, meters die tot geen enkele deelactiviteit behoren, onvolledige ledenfiches, leden die op validatie wachten, en ontbrekende velden op het niveau van de gemeenschap — btw-nummer, wettelijke benaming, IBAN, adres van de zetel, regulator. Is alles in orde, dan zegt de tegel het: “Alles wat wij nakijken, is in orde.” Daarnaast staan de energie van de maand, de deelactiviteiten, de lopende instromen en het activiteitenlogboek.
 
-**Het lid** ziet “Mijn deelname” — zijn aandeel in de verdeelsleutel, met inbegrip van bijzondere gevallen zoals “Naar rato van het verbruik” of “Niet opgenomen in de verdeelsleutel” —, daarnaast verbruikte en via delen ontvangen energie, zijn ledenfiche en zijn documenten.
+**Het lid** ziet “Mijn deelname” — zijn aandeel in de verdeelsleutel, met inbegrip van bijzondere gevallen zoals “Pro rata van het verbruik” of “Niet opgenomen in de verdeelsleutel” —, daarnaast verbruikte en via delen ontvangen energie, zijn ledenfiche en zijn documenten.
 
 **De startpagina**, ten slotte, overspant de gemeenschappen: zij werkt ook zonder actieve gemeenschap en toont “{aantal} ding(en) wachten op u” — uitnodigingen, ontbrekende profielgegevens, ongelezen meldingen. Is er niets, dan toont zij niets.
 
-### “Wat er over mij is aangegeven”
+### “Wat er over mij is ingediend”
 
 Dit is de functie waarover wij het meest tevreden zijn, en de minst spectaculaire.
 
 Wie deelneemt aan een deelactiviteit, komt bij naam voor in documenten die aan een regulator worden bezorgd: zijn naam, zijn leveringspunten, zijn productie-installaties, eventuele opslaginstallaties. In de gebruikelijke gang van zaken weet die persoon daar niets van — de bijlagen circuleren tussen de vertegenwoordiger, de CWaPE en de netbeheerder.
 
-OptimCE geeft elk lid een pagina met als titel “Wat er over mij is aangegeven”, met deze ondertitel: “De informatie over u die uw gemeenschap aan de regulator heeft bezorgd.” Zij staat open voor elk lid, zonder bijzondere rol, en toont wat effectief werd ingediend, op de datum van indiening. De pagina vermeldt dat ook: die waarden zijn de waarden die op de vermelde datum werden bezorgd, en zij veranderen niet als uw gegevens nadien worden gecorrigeerd.
+OptimCE geeft elk lid een pagina met als titel “Wat er over mij is ingediend”, met deze ondertitel: “De informatie over u die uw gemeenschap aan de regulator heeft bezorgd.” Zij staat open voor elk lid, zonder bijzondere rol, en toont wat effectief werd ingediend, op de datum van indiening. De pagina vermeldt dat ook: die waarden zijn de waarden die op de vermelde datum werden bezorgd, en zij veranderen niet als uw gegevens nadien worden gecorrigeerd.
 
-Het is een rechtstreeks gevolg van het onveranderlijke journaal hierboven: omdat niets wordt overschreven, kan aan een lid worden getoond wat er over hem is gezegd, en wanneer.
+Het is een rechtstreeks gevolg van wat voorafgaat: omdat niets wordt overschreven, kan aan een lid worden getoond wat er over hem is gezegd, en wanneer.
 
 ## Wat het niet doet
 
@@ -232,7 +232,7 @@ Vier grenzen, die u beter vooraf kent.
 
 **OptimCE dient niet in uw plaats in.** Er bestaat geen geautomatiseerde koppeling tussen het platform en de CWaPE. De indiening gebeurt via Mon Espace voor de kennisgeving, de wijzigingen ervan en de jaarlijkse rapportering, en bij uw netbeheerder voor het delen en de overeenkomsten. Wat het platform doet, is het document voorbereiden, registreren dat en wanneer u het hebt bezorgd, en de precieze verzonden versie bewaren.
 
-**OptimCE ondertekent niets.** Er is geen elektronische handtekening in het platform. De Word-overeenkomsten blijven contracten die de partijen bewerken en ondertekenen; de gemaakte pdf-bestanden blijven invulbare formulieren. “Vooraf ingevuld, klaar om te ondertekenen” klopt; “ondertekend in de applicatie” zou niet kloppen.
+**In OptimCE wordt maar één document ondertekend.** Sinds 11 november 2026 wordt bijlage 8, de verklaring op erewoord van wie deelneemt aan het delen, in de applicatie ondertekend. Het is een eenvoudige elektronische handtekening in de zin van de eIDAS-verordening, geen geavanceerde en geen gekwalificeerde: zij kan niet als bewijs worden geweerd louter omdat zij elektronisch is, maar zij heeft niet automatisch de waarde van een handgeschreven handtekening. Verder wordt niets in OptimCE ondertekend: de Word-overeenkomsten blijven contracten die de partijen bewerken en ondertekenen, en noch de aanhangsels noch de toetredingsformulieren worden er ondertekend.
 
 **De dekking is Waals.** De module kent vandaag alleen de CWaPE. Brugel en de VREG staan al in het register van regulatoren dat de diensten delen, maar zij zijn daar inactief, en dat is bewust: een inactieve regulator geeft een uitdrukkelijke foutmelding in plaats van stilzwijgend terug te vallen op de Waalse regels, wat verkeerde documenten zou opleveren met alle schijn van zorgvuldigheid. Een regio toevoegen betekent eerst de documentenpakketten van die regio schrijven — Brussel en Vlaanderen leggen andere documenten op. Wij kondigen geen datum aan zolang dat werk niet af is.
 
@@ -265,8 +265,8 @@ De winst zit niet waar u hem verwacht. Het invullen van de formulieren is niet w
 3. **De jaarlijkse rapportering is een vaste datum, geen verjaardag.** Een gemeenschap die in maart volledig werd verklaard, rapporteert tegen de eerstvolgende 1 september.
 4. **Sinds 25 juni 2026 is de overstap naar Mon Espace slechts gedeeltelijk**: wat naar de CWaPE gaat is gedigitaliseerd, wat naar de netbeheerder gaat blijft een bestand om te downloaden en te ondertekenen.
 5. **OptimCE bereidt elf documenten voor op basis van de ongewijzigde officiële bestanden** — wat wordt ingediend is het document van de regulator, geen namaak — en laat de velden aanpasbaar die het niet kan afleiden.
-6. **Niets wordt overschreven**: statussen komen bij een journaal, bezorgde versies blijven zoals zij waren, en leden kunnen zien wat er over hen is aangegeven en op welke datum.
-7. **Indienen en ondertekenen blijven uw taak**, en de dekking is vandaag Waals.
+6. **Niets wordt overschreven**: een verstuurde procedure ligt vast, bezorgde versies blijven zoals zij waren, en leden kunnen zien wat er over hen is aangegeven en op welke datum.
+7. **Indienen blijft uw taak**, alleen bijlage 8 wordt in de applicatie ondertekend, en de dekking is vandaag Waals.
 
 Wat u er niet van moet verwachten: geen van deze functies maakt een energiegemeenschap rendabeler, en geen enkele vervangt het lezen van het reglementaire kader. Wat zij wel doen, en wat gedeelde rekenbladen niet doen, is **waarborgen dat een termijn niet onopgemerkt voorbijgaat en dat een bezorgde versie terugvindbaar blijft** — naar onze ervaring de enige twee oorzaken van dossiers die om verkeerde redenen verloren gaan.
 
@@ -296,7 +296,7 @@ Dat hangt af van de procedure. Sinds **25 juni 2026** gebeuren de kennisgeving v
 
 ### Dient OptimCE de documenten in mijn plaats in bij de CWaPE?
 
-Nee, en dat is bewust. OptimCE bereidt de documenten voor op basis van uw gegevens, berekent de termijnen, bewaart elke verzonden versie en registreert wie wat wanneer heeft bezorgd. **De indiening zelf blijft uw taak**: via Mon Espace voor de kennisgeving, de wijzigingen ervan en de jaarlijkse rapportering, en bij uw distributienetbeheerder voor het delen en de overeenkomsten. Er bestaat geen geautomatiseerde koppeling tussen het platform en de regulator. OptimCE ondertekent evenmin iets: de Word-overeenkomsten blijven documenten die de partijen bewerken en ondertekenen, en de gemaakte pdf-bestanden blijven invulbare formulieren, zodat wat OptimCE niet kan afleiden met de hand aanpasbaar blijft.
+Nee, en dat is bewust. OptimCE bereidt de documenten voor op basis van uw gegevens, berekent de termijnen, bewaart elke verzonden versie en registreert wie wat wanneer heeft bezorgd. **De indiening zelf blijft uw taak**: via Mon Espace voor de kennisgeving, de wijzigingen ervan en de jaarlijkse rapportering, en bij uw distributienetbeheerder voor het delen en de overeenkomsten. Er bestaat geen geautomatiseerde koppeling tussen het platform en de regulator. Sinds 11 november 2026 wordt één enkel document in de applicatie ondertekend: bijlage 8, de verklaring op erewoord van wie deelneemt aan het delen, met een eenvoudige elektronische handtekening in de zin van de eIDAS-verordening. De Word-overeenkomsten blijven documenten die de partijen bewerken en ondertekenen, en wat OptimCE niet kan afleiden, blijft met de hand aanpasbaar.
 
 ### En hoe zit het met Brussel en Vlaanderen?
 
@@ -308,4 +308,4 @@ Het beheer van administratieve documenten dekt vandaag **uitsluitend Wallonië e
 - [CWaPE — Energiedelen](https://www.cwape.be/node/5618) — lijst en nummering van de in dit artikel vermelde formulieren en bijlagen: het formulier voor het delen van elektriciteit (5609) en de toelichtingsgids erbij (5610), bijlage 6 van de deelnemers en productie-installaties (5611), bijlage 6bis over opslaginstallaties (6578), bijlage 8 van de verklaringen op erewoord (5612), het wijzigingsformulier voor het delen (6018) en de gids erbij (6017) met de bijlagen 2 (6019), 3 (6020) en 3bis (6579), en de twee modelovereenkomsten van 12 oktober 2023 tussen de netbeheerder en de vertegenwoordiger, in de versie voor een energiegemeenschap en in de versie voor eenzelfde gebouw.
 - [CWaPE — Formulieren over energiegemeenschappen via de Waalse site “Mon Espace”](https://www.cwape.be/documents-recents/formulaires-relatifs-aux-communautes-denergie-accessibles-le-site-mon-espace-de) — bericht van 25 juni 2026: de kennisgeving van de oprichting van een energiegemeenschap, de wijzigingen ervan en de indiening van haar jaarlijkse rapportering gebeuren via gedigitaliseerde formulieren op monespace.wallonie.be.
 - [Renouvelle — Energiedelen en energiegemeenschappen in Wallonië: het advies van de CWaPE](https://www.renouvelle.be/fr/partage-et-communautes-energie-en-wallonie-avis-de-la-cwape/) — evaluatie van 18 maart 2025: 4 deelactiviteiten binnen eenzelfde gebouw en 3 binnen een energiegemeenschap geteld in Wallonië, en de knelpunten die de regulator heeft vastgesteld.
-- [OptimCE — broncode van het platform](https://github.com/optimce) — bron van alle productuitspraken in dit artikel: de elf documentenpakketten en hun aard van ongewijzigde officiële bestanden, de capaciteiten die van de formulieren zelf worden afgelezen, de gejournaliseerde toestandsmachine van dossiers en documenten, de onveranderlijkheid van de bezorgde versies, de berekening van de termijnen in Belgische werkdagen met een dagelijkse doorloop om 6 uur en een herinneringsvenster van veertien dagen, de zes e-mailtypes in vier talen en hun onderscheid tussen informatieve en transactionele berichten, de dashboards voor beheerders en leden, en de beperking van het register van regulatoren tot de CWaPE als enige actieve.
+- [OptimCE — broncode van het platform](https://github.com/optimce) — bron van alle productuitspraken in dit artikel: de elf documentenpakketten en hun aard van ongewijzigde officiële bestanden, de capaciteiten die van de formulieren zelf worden afgelezen, de procedures en het vastzetten van hun stukken na het versturen, de onveranderlijkheid van de bezorgde versies, de berekening van de termijnen in Belgische werkdagen met een dagelijkse doorloop om 6 uur en herinneringen 14, 7 en 2 dagen vooraf, de e-mails in vier talen, het administratieve overzicht en het onderscheid tussen informatieve en transactionele berichten, de eenvoudige elektronische handtekening van bijlage 8, de dashboards voor beheerders en leden, en de beperking van het register van regulatoren tot de CWaPE als enige actieve.

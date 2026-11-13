@@ -78,13 +78,13 @@ how:
     - title: "Factureer en rapporteer"
       text: >-
         Voor elke facturatieperiode factureert OptimCE de gedeelde energie aan
-        elk lid en bereidt het de dossiers voor de Waalse regulator (CWaPE)
-        voor.
+        elk lid. Het bereidt ook de CWaPE-procedures voor, die u zelf
+        verstuurt.
 
 # Application modules (_includes/modules.html)
 modules:
   title: "Wat de app doet"
-  subtitle: "De modules van OptimCE, van het ledenregister tot de dossiers voor de CWaPE."
+  subtitle: "De modules van OptimCE, van het ledenregister tot de CWaPE-procedures."
   groups:
     - name: "Gemeenschap"
       items:
@@ -106,8 +106,8 @@ modules:
       items:
         - title: "Facturatie"
           text: "Tarieven, facturatierondes, creditnota's en opvolging van betalingen."
-        - title: "CWaPE-dossiers"
-          text: "Termijnen, tijdlijn en gegenereerde formulieren voor de Waalse regulator."
+        - title: "CWaPE-procedures"
+          text: "Vooraf ingevulde formulieren van de Waalse regulator, termijnen en ondertekening van bijlage 8."
         - title: "Nieuws en peilingen"
           text: "Informeer uw leden en raadpleeg hen in de app."
   note: >-

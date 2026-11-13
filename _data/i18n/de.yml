@@ -78,13 +78,13 @@ how:
     - title: "Abrechnen und berichten"
       text: >-
         Für jeden Abrechnungszeitraum rechnet OptimCE die geteilte Energie mit
-        jedem Mitglied ab und bereitet die Unterlagen für die wallonische
-        Regulierungsbehörde (CWaPE) vor.
+        jedem Mitglied ab. Es bereitet auch die CWaPE-Verfahren vor, die Sie
+        selbst absenden.
 
 # Application modules (_includes/modules.html)
 modules:
   title: "Was die App kann"
-  subtitle: "Die Module von OptimCE, vom Mitgliederverzeichnis bis zu den Unterlagen für die CWaPE."
+  subtitle: "Die Module von OptimCE, vom Mitgliederverzeichnis bis zu den CWaPE-Verfahren."
   groups:
     - name: "Gemeinschaft"
       items:
@@ -106,8 +106,8 @@ modules:
       items:
         - title: "Abrechnung"
           text: "Tarife, Abrechnungsläufe, Gutschriften und Zahlungsverfolgung."
-        - title: "CWaPE-Unterlagen"
-          text: "Fristen, Zeitleiste und erzeugte Formulare für die wallonische Regulierungsbehörde."
+        - title: "CWaPE-Verfahren"
+          text: "Vorausgefüllte Formulare der wallonischen Regulierungsbehörde, Fristen und Unterzeichnung der Anlage 8."
         - title: "Neuigkeiten und Umfragen"
           text: "Informieren Sie Ihre Mitglieder und befragen Sie sie in der App."
   note: >-

@@ -9,7 +9,7 @@ ref: product-vs-spreadsheet
 permalink: /fonctionnalites/tableur-ou-logiciel/
 breadcrumb_parent: features
 product_page: true
-last_modified_at: 2026-10-11
+last_modified_at: 2026-11-13
 faq:
   - q: "Un tableur suffit-il pour une petite communauté d'énergie ?"
     a: "Souvent, oui. Avec une poignée de membres, une seule opération de partage et une clé standard qui ne change pas, un tableur bien tenu fait l'affaire. Il devient fragile quand la clé évolue, quand les factures se multiplient ou quand plusieurs personnes doivent y travailler."
@@ -76,18 +76,17 @@ passe par une note de crédit, et l'historique reste complet. Voir le
 
 {% include product-shot.html name="billing-member" alt="Espace « Mes factures » d'un membre : un décompte de rémunération DP-2025-00001 au statut « Émise », de 36,69 €, avec sa communication structurée." caption="Chaque membre voit ses propres documents, avec la communication structurée à reprendre dans son virement (données de test)." %}
 
-### Les dossiers CWaPE
+### Les démarches CWaPE
 
 Les mêmes données (membres, points de fourniture, installations) se recopient dans plusieurs
 formulaires de la CWaPE, et chaque modification de la communauté en appelle de nouveaux, avec des
-délais en jours ouvrables. Un tableur ne sait pas qu'un dossier vient de changer de statut, ni
+délais en jours ouvrables. Un tableur ne sait pas qu'un compteur ajouté appelle une démarche, ni
 quelle version d'un formulaire est partie.
 
-Dans OptimCE, les formulaires officiels sont préremplis à partir de la liste des membres, chaque
-version est conservée et les échéances sont calculées en jours ouvrables. Voir le
-[dossier CWaPE]({{ "product-cwape" | ref_url }}).
-
-{% include product-shot.html name="cwape-deadlines" alt="Onglet « Échéances » des documents administratifs : un contrôle de complétude dû le 15/09/2026 pour le dossier n° 1, au statut « En cours »." caption="Les échéances ouvertes de tous les dossiers, calculées à partir des changements de statut (données de test)." %}
+Dans OptimCE, les changements faits dans le CRM alimentent le brouillon de la bonne démarche, les
+formulaires officiels sont préremplis à partir de la liste des membres, chaque version envoyée est
+conservée et les échéances se comptent en jours ouvrables. Voir les
+[démarches CWaPE]({{ "product-cwape" | ref_url }}).
 
 ### L'accès des membres et la passation
 

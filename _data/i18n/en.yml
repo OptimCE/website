@@ -75,12 +75,13 @@ how:
     - title: "Bill and report"
       text: >-
         For each billing period, OptimCE bills each member for the shared
-        energy and prepares the filings for the Walloon regulator (CWaPE).
+        energy. It also prepares the CWaPE procedures, which you send
+        yourself.
 
 # Application modules (_includes/modules.html)
 modules:
   title: "What the app does"
-  subtitle: "OptimCE's modules, from the member register to the filings for the regulator."
+  subtitle: "OptimCE's modules, from the member register to the CWaPE procedures."
   groups:
     - name: "Community"
       items:
@@ -102,8 +103,8 @@ modules:
       items:
         - title: "Billing"
           text: "Tariffs, billing runs, credit notes and payment tracking."
-        - title: "CWaPE filings"
-          text: "Deadlines, timeline and generated forms for the Walloon regulator."
+        - title: "CWaPE procedures"
+          text: "The Walloon regulator's forms prefilled, deadlines and annex 8 signing."
         - title: "News and polls"
           text: "Keep members informed and consult them in the app."
   note: >-

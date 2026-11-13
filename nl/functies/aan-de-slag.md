@@ -9,7 +9,7 @@ ref: product-getting-started
 permalink: /nl/functies/aan-de-slag/
 breadcrumb_parent: features
 product_page: true
-last_modified_at: 2026-10-11
+last_modified_at: 2026-11-11
 faq:
   - q: "Moet u OptimCE installeren om te starten?"
     a: "Nee. OptimCE Cloud, op app.optimce.be, vraagt geen installatie: u maakt een account aan, daarna uw gemeenschap. Zelf hosten is een andere weg, voor teams die het platform zelf willen hosten."
@@ -76,11 +76,12 @@ Handleiding: [een meter aanmaken](https://guide.optimce.be/meter-create/nl.html)
 ### 4. De deelactie aanmaken
 
 Geef ze een naam, een type (binnen een gebouw, hernieuwbare-energiegemeenschap of
-burgerenergiegemeenschap) en de gemeenten die ze dekt. De tarieven, de facturen en de
-administratieve dossiers worden daarna aan deze deelactie gekoppeld.
+burgerenergiegemeenschap) en de gemeenten die ze dekt. De tarieven en de facturen worden daarna
+aan deze deelactie gekoppeld. Is de administratieve module actief, dan komt het aanmaken ervan ook
+in het concept van een CWaPE-procedure terecht.
 
 Handleiding: [een deelactie aanmaken](https://guide.optimce.be/sharing-op-create/nl.html).
-Module: [het CWaPE-dossier van de deelactie]({{ "product-cwape" | ref_url }}).
+Module: [de CWaPE-procedures]({{ "product-cwape" | ref_url }}).
 
 ### 5. De verdeelsleutel vastleggen
 

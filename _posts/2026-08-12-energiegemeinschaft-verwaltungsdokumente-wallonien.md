@@ -8,7 +8,7 @@ description: "Meldung, Jahresbericht, Netzbetreibervertrag: welche Dokumente ein
 tags: [administrative, app, guide]
 lang: de
 ref: cwape-administrative-documents
-last_modified_at: 2026-10-11 10:00:00 +0200
+last_modified_at: 2026-11-13 08:00:00 +0100
 pillar: communautes-energie
 permalink: /de/ratgeber/energiegemeinschaft-verwaltungsdokumente-wallonien/
 faq:
@@ -21,7 +21,7 @@ faq:
   - q: "Werden die PDF-Formulare seit dem Wechsel zu Mon Espace noch verwendet?"
     a: "Das hängt vom Verfahren ab. Seit dem 25. Juni 2026 erfolgen die Meldung der Gründung einer Energiegemeinschaft, ihre Änderungen und die Einreichung des Jahresberichts über digitalisierte Formulare auf monespace.wallonie.be. Alles, was die Teilungstätigkeit selbst betrifft — das Formular zur Stromteilung, das Änderungsformular, ihre Teilnehmeranlagen und die ehrenwörtlichen Erklärungen —, veröffentlicht die CWaPE dagegen weiterhin als PDF- und Excel-Dateien zum Herunterladen, Ausfüllen und Übermitteln an den Verteilernetzbetreiber. Auch die Musterverträge mit dem Netzbetreiber bleiben Word-Dokumente, die auszufüllen und zu unterzeichnen sind."
   - q: "Reicht OptimCE die Dokumente an meiner Stelle bei der CWaPE ein?"
-    a: "Nein, und das ist bewusst so. OptimCE bereitet die Dokumente aus Ihren Daten vor, berechnet die Fristen, bewahrt jede versandte Fassung auf und hält fest, wer was wann übermittelt hat. Die Einreichung selbst bleibt Ihre Aufgabe: über Mon Espace für die Meldung, ihre Änderungen und den Jahresbericht, und bei Ihrem Verteilernetzbetreiber für die Teilung und die Verträge. Es gibt keine automatisierte Schnittstelle zwischen der Plattform und der Regulierungsbehörde. OptimCE unterzeichnet auch nichts: Die Word-Verträge bleiben Dokumente, welche die Parteien bearbeiten und unterschreiben, und die erzeugten PDF bleiben ausfüllbare Formulare, sodass alles, was OptimCE nicht ableiten kann, von Hand änderbar bleibt."
+    a: "Nein, und das ist bewusst so. OptimCE bereitet die Dokumente aus Ihren Daten vor, berechnet die Fristen, bewahrt jede versandte Fassung auf und hält fest, wer was wann übermittelt hat. Die Einreichung selbst bleibt Ihre Aufgabe: über Mon Espace für die Meldung, ihre Änderungen und den Jahresbericht, und bei Ihrem Verteilernetzbetreiber für die Teilung und die Verträge. Es gibt keine automatisierte Schnittstelle zwischen der Plattform und der Regulierungsbehörde. Seit dem 11. November 2026 wird ein einziges Dokument in der Anwendung unterschrieben: die Anlage 8, die ehrenwörtliche Erklärung der an der Teilung Beteiligten, mit einer einfachen elektronischen Signatur im Sinne der eIDAS-Verordnung. Die Word-Verträge bleiben Dokumente, welche die Parteien bearbeiten und unterschreiben, und alles, was OptimCE nicht ableiten kann, bleibt von Hand änderbar."
   - q: "Und wie sieht es für Brüssel und Flandern aus?"
     a: "Die Verwaltung der Verwaltungsdokumente deckt derzeit ausschließlich Wallonien und die CWaPE ab. Die Architektur ist nach Regulierungsbehörde gegliedert, und sowohl Brugel als auch die VREG sind bereits im gemeinsamen Register der Plattform eingetragen, dort aber inaktiv: Eine unbekannte oder inaktive Regulierungsbehörde löst einen ausdrücklichen Fehler aus, statt stillschweigend auf die wallonischen Regeln zurückzufallen. Der Grund ist weniger technisch als redaktionell: Eine Region hinzuzufügen bedeutet vor allem, die Dokumentenpakete dieser Region zu erstellen, und Brüssel wie Flandern schreiben andere Dokumente vor. Wir nennen lieber kein Datum, solange diese Pakete nicht geschrieben sind."
 ---
@@ -156,7 +156,7 @@ Diese fünf Punkte haben eines gemeinsam: Keiner erfordert besondere Intelligenz
 
 ## Was OptimCE nun leistet
 
-Darum geht es bei dem im August 2026 ausgelieferten Funktionsblock: ein Modul zur Verwaltung der Verwaltungsdokumente, Dashboards und der Versand von E-Mails — den es auf der Plattform bis dahin überhaupt nicht gab. Für einen Überblick sehen Sie, wie Sie [die CWaPE-Unterlagen in OptimCE vorbereiten](/de/funktionen/cwape-unterlagen/).
+Darum geht es bei dem im August 2026 ausgelieferten Funktionsblock: ein Modul zur Verwaltung der Verwaltungsdokumente, Dashboards und der Versand von E-Mails — den es auf der Plattform bis dahin überhaupt nicht gab. Für einen Überblick sehen Sie, wie Sie [die CWaPE-Verfahren in OptimCE vorbereiten](/de/funktionen/cwape-unterlagen/). Seit dem 11. November 2026 ist das Modul in Verfahren gegliedert, und die Anlage 8 wird in der Anwendung unterschrieben: [Unser Beitrag](/de/aktuelles/2026/11/11/cwape-verfahren-unterschrift-anlage-8/) erläutert im Einzelnen, was sich geändert hat.
 
 ### Elf Dokumente, vorausgefüllt auf Basis der amtlichen Dateien
 
@@ -171,25 +171,25 @@ Zwei praktische Folgen:
 
 Die Daten stammen aus dem CRM — Mitglieder, Lieferstellen, Anlagen, Zähler —, sodass die Teilnehmerliste an einer einzigen Stelle gepflegt wird und in die drei Anlagen fließt, die sie verlangen.
 
-### Ein Journal, das nicht umgeschrieben wird
+### Verfahren, die nicht umgeschrieben werden
 
-Ein Dossier durchläuft die Zustände **in Vorbereitung → eingereicht → vollständig → abgeschlossen**, mit **verfallen** als seitlichem Ausgang. Ein Dokument durchläuft **Entwurf → bereit → übermittelt → Empfangsbestätigung**, mit **veraltet**.
+Seit November 2026 ist die Arbeit in **Verfahren** gegliedert: ein Formular, ein Empfänger (der maßgebliche Netzbetreiber oder die CWaPE) und ein Wirksamkeitsdatum. Die im CRM vorgenommenen Änderungen fließen in den Entwurf des passenden Verfahrens, den Sie dann senden, wenn Sie es entscheiden. Eine Unterlage ist zunächst mit „BROUILLON“ (Entwurf) gekennzeichnet; „Die endgültigen Fassungen erzeugen“ erstellt anschließend die Fassungen ohne Kennzeichnung.
 
-Entscheidend ist dabei weniger die Liste der Zustände als die Art, wie sie wechseln. **Ein Status wird nie an Ort und Stelle geändert**: Jede Änderung hängt eine Zeile an das Journal an, und eine Datenbankbedingung weist jeden Status zurück, der nicht durch einen Journaleintrag gedeckt ist. Eine Korrektur löscht den Fehler nicht, sie tritt dahinter. Die Oberfläche formuliert es so: „Jede Statusänderung wird dauerhaft festgehalten. Korrekturen kommen hinzu, sie löschen nichts.“
+Entscheidend ist dabei weniger der Ablauf als das, was beim Versand geschieht. Sobald Datum und Kanal angegeben sind, **ist das Verfahren festgeschrieben**: Die Datenbank verweigert jede Änderung oder Löschung seiner Unterlagen, und eine gesendete Fassung kann erneut geprüft werden, indem ihre Erzeugung identisch wiederholt wird. Anschließend erfassen Sie die Antworten im Verfahren, das den gesamten Verlauf bewahrt: Vollständigkeitsbestätigung, Nachforderung, Entscheidung, Nachtrag …
 
 Dasselbe Prinzip gilt für die Dateien. Jede Übermittlung wird als **endgültige Fassung** bewahrt, über ihren Inhalt adressiert, ohne Möglichkeit der Aktualisierung. Acht Monate später hat die Frage „Was genau haben wir übermittelt?“ eine Antwort, und diese Antwort ist die Datei selbst.
 
 ### Berechnete statt eingetragene Fristen
 
-Die regulatorischen Regeln sind Daten, nicht Code: Ein Zustandswechsel löst die Auswertung der einschlägigen Regeln aus und erzeugt die entsprechenden Fristen. Fristen in Werktagen werden auf dem **belgischen Kalender** berechnet, bewegliche Feiertage eingeschlossen — was bei einer Zehn-Werktage-Frist Anfang April kein Detail ist.
+Die regulatorischen Regeln sind Daten, nicht Code: Jedes Verfahren trägt seine Fristen, die der Gemeinschaft wie die Dritter, also das Datum, bis zu dem der Netzbetreiber oder die CWaPE geantwortet haben muss. Fristen in Werktagen werden auf dem **belgischen Kalender** berechnet, bewegliche Feiertage eingeschlossen — was bei einer Zehn-Werktage-Frist Anfang April kein Detail ist.
 
-Ein täglicher Durchlauf um **6 Uhr Brüsseler Zeit** meldet sowohl bevorstehende als auch überschrittene Fristen. Das Erinnerungsfenster beträgt **vierzehn Tage**.
+Ein täglicher Durchlauf um **6 Uhr Brüsseler Zeit** meldet sowohl bevorstehende als auch überschrittene Fristen. In der Anwendung erscheinen die Erinnerungen **14, 7 und 2 Tage vorher** und dann bei Überschreitung der Frist.
 
-Das Dashboard für Verwalter zeigt dies in zwei Kacheln, „Verwaltungsfristen“ und „Verwaltungsdossiers“, mit der Zahl der offenen und der Zahl der überfälligen Fristen.
+Das Dashboard für Verwalter zeigt dies in zwei Kacheln, „Verwaltungsfristen“ und „Verwaltungsverfahren“, mit der Zahl der offenen und der Zahl der überfälligen Fristen.
 
 ### Endlich E-Mails
 
-Bis zu diesem Sommer verschickte OptimCE überhaupt keine E-Mails. Ein eigener Dienst übernimmt das nun, mit sechs Nachrichtentypen, jeweils auf **Französisch, Niederländisch, Deutsch und Englisch**:
+Bis zu diesem Sommer verschickte OptimCE überhaupt keine E-Mails. Ein eigener Dienst übernimmt das nun, auf **Französisch, Niederländisch, Deutsch und Englisch**. Zu seinen Nachrichten gehören:
 
 | Nachricht | Wann | Kategorie |
 |---|---|---|
@@ -197,12 +197,12 @@ Bis zu diesem Sommer verschickte OptimCE überhaupt keine E-Mails. Ein eigener D
 | Einladung eines Verwalters | Bei der Einladung | Transaktional |
 | Rechnung verfügbar | Bei Ausstellung | Transaktional |
 | Rechnung überfällig | Bei Überschreitung | Transaktional |
-| **Verwaltungsfrist rückt näher** | 14 Tage vorher | Informativ |
-| **Verwaltungsfrist überschritten** | Bei Überschreitung | Transaktional |
 
-Die Unterscheidung ist nicht kosmetisch. Eine informative Nachricht lässt sich im Reiter Benachrichtigungen des Profils abschalten, Kanal für Kanal — „In der Anwendung“ und „E-Mail“ sind zwei getrennte Einstellungen. Eine transaktionale Nachricht nicht: „Wesentliche Nachrichten — Rechnungen, Einladungen und überschrittene regulatorische Fristen — werden immer versandt und können nicht deaktiviert werden.“
+Die Verwaltungsfristen haben seit November 2026 keine eigene E-Mail mehr. Sie werden in der Anwendung gemeldet und per E-Mail in einer **Verwaltungsübersicht** aufgeführt: höchstens eine pro Tag und Empfänger, über alle Gemeinschaften hinweg. Diese Übersicht ist standardmäßig deaktiviert; ein Administrator der Gemeinschaft aktiviert sie, wählt den Rhythmus und die Empfänger, und jeder kann sie in seinem Profil ablehnen.
 
-Mit anderen Worten: Sie können entscheiden, vierzehn Tage vorher nicht gewarnt zu werden. Sie können nicht entscheiden, nach Ablauf nicht gewarnt zu werden.
+Die Unterscheidung ist nicht kosmetisch. Eine informative Nachricht lässt sich im Reiter Benachrichtigungen des Profils abschalten, Kanal für Kanal — „In der Anwendung“ und „E-Mail“ sind zwei getrennte Einstellungen. Eine transaktionale Nachricht nicht: „Wichtige Nachrichten — Rechnungen und Einladungen — werden immer versendet und können nicht deaktiviert werden. Eine überschrittene regulatorische Frist wird in der App immer gemeldet; per E-Mail steht sie in der Verwaltungsübersicht.“
+
+Mit anderen Worten: Eine überschrittene Frist wird Ihnen in der Anwendung immer gemeldet; die E-Mail dagegen läuft über die Übersicht.
 
 Weitere Ereignisse bestehen ausschließlich als anwendungsinterne Benachrichtigung, ohne E-Mail: das Hochladen eines Dokuments, die Aktualisierung eines Mitglieds, die Empfangsbestätigung eines Dossiers, der Abschluss eines Abrechnungslaufs sowie die Veröffentlichung einer Nachricht oder einer Umfrage.
 
@@ -212,19 +212,19 @@ Das gleichzeitig ausgelieferte Dashboard-Modul beantwortet drei Fragen, die sich
 
 **Der Verwalter der Gemeinschaft** öffnet „Zu prüfende Punkte“. Die Kachel listet auf, was tatsächlich blockiert: Vorgänge ohne gültigen Aufteilungsschlüssel, Schlüssel in Wartestellung, Zähler, die auf den Netzbetreiber oder auf eine Bestätigung warten, Zähler, die zu keinem Teilungsvorgang gehören, unvollständige Mitgliederakten, Mitglieder in Wartestellung sowie fehlende Angaben auf Ebene der Gemeinschaft — Umsatzsteuernummer, Rechtsname, IBAN, Sitzadresse, Regulierungsbehörde. Ist alles in Ordnung, sagt die Kachel es: „Alles, was wir prüfen, ist in Ordnung.“ Daneben stehen die Energie des Monats, die Teilungsvorgänge, die laufenden Zugänge und das Aktivitätsprotokoll.
 
-**Das Mitglied** sieht „Meine Beteiligung“ — seinen Anteil am Aufteilungsschlüssel, einschließlich Sonderfällen wie „Anteilig zum Verbrauch“ oder „Nicht im Aufteilungsschlüssel enthalten“ —, dazu verbrauchte und geteilt erhaltene Energie, seine Mitgliederakte und seine Dokumente.
+**Das Mitglied** sieht „Meine Beteiligung“ — seinen Anteil am Aufteilungsschlüssel, einschließlich Sonderfällen wie „Anteilig zum Verbrauch“ oder „Nicht im Verteilschlüssel aufgeführt“ —, dazu verbrauchte und geteilt erhaltene Energie, seine Mitgliederakte und seine Dokumente.
 
 **Die Startseite** schließlich ist gemeinschaftsübergreifend: Sie funktioniert auch ohne aktive Gemeinschaft und zeigt „{Anzahl} Sache(n) warten auf Sie“ — Einladungen, fehlende Profilangaben, ungelesene Benachrichtigungen. Gibt es nichts, zeigt sie nichts.
 
-### „Was über mich gemeldet wurde“
+### „Was über mich eingereicht wurde“
 
 Das ist die Funktion, über die wir uns am meisten freuen, und die unscheinbarste.
 
 Wer an einer Teilung teilnimmt, erscheint namentlich in Dokumenten, die einer Regulierungsbehörde übermittelt werden: Name, Lieferstellen, Erzeugungsanlagen, gegebenenfalls Speicheranlagen. Im üblichen Ablauf erfährt die Person davon nichts — die Anlagen zirkulieren zwischen Vertreter, CWaPE und Netzbetreiber.
 
-OptimCE stellt jedem Mitglied eine Seite mit dem Titel „Was über mich gemeldet wurde“ bereit, mit diesem Untertitel: „Die Sie betreffenden Angaben, die Ihre Gemeinschaft der Regulierungsbehörde übermittelt hat.“ Sie steht jedem Mitglied offen, ohne besondere Rolle, und zeigt, was tatsächlich eingereicht wurde, zum Datum der Einreichung. Die Seite hält das auch fest: Diese Werte sind diejenigen, die zum angegebenen Datum übermittelt wurden, und sie ändern sich nicht, wenn Ihre Angaben später berichtigt werden.
+OptimCE stellt jedem Mitglied eine Seite mit dem Titel „Was über mich eingereicht wurde“ bereit, mit diesem Untertitel: „Die Angaben zu Ihnen, die Ihre Gemeinschaft an die Regulierungsbehörde übermittelt hat.“ Sie steht jedem Mitglied offen, ohne besondere Rolle, und zeigt, was tatsächlich eingereicht wurde, zum Datum der Einreichung. Die Seite hält das auch fest: Diese Werte sind diejenigen, die zum angegebenen Datum übermittelt wurden, und sie ändern sich nicht, wenn Ihre Angaben später berichtigt werden.
 
-Das ist eine unmittelbare Folge des oben beschriebenen unveränderlichen Journals: Weil nichts überschrieben wird, lässt sich einem Mitglied zeigen, was über es gesagt wurde und wann.
+Das ist eine unmittelbare Folge des Vorhergehenden: Weil nichts überschrieben wird, lässt sich einem Mitglied zeigen, was über es gesagt wurde und wann.
 
 ## Was es nicht leistet
 
@@ -232,7 +232,7 @@ Vier Grenzen, die man besser vorher kennt.
 
 **OptimCE reicht nicht an Ihrer Stelle ein.** Es gibt keine automatisierte Schnittstelle zwischen der Plattform und der CWaPE. Die Einreichung erfolgt über Mon Espace für die Meldung, ihre Änderungen und den Jahresbericht, und bei Ihrem Netzbetreiber für die Teilung und die Verträge. Was die Plattform leistet, ist: das Dokument vorbereiten, festhalten, dass und wann Sie es übermittelt haben, und die genaue versandte Fassung bewahren.
 
-**OptimCE unterschreibt nichts.** Es gibt keine elektronische Signatur in der Plattform. Die Word-Verträge bleiben Verträge, welche die Parteien bearbeiten und unterschreiben; die erzeugten PDF bleiben ausfüllbare Formulare. „Vorausgefüllt, unterschriftsreif“ trifft zu; „in der Anwendung unterschrieben“ träfe nicht zu.
+**In OptimCE wird nur ein Dokument unterschrieben.** Seit dem 11. November 2026 wird die Anlage 8, die ehrenwörtliche Erklärung der an der Teilung Beteiligten, in der Anwendung unterschrieben. Es ist eine einfache elektronische Signatur im Sinne der eIDAS-Verordnung, weder fortgeschritten noch qualifiziert: Sie kann als Beweismittel nicht allein deshalb ausgeschlossen werden, weil sie elektronisch ist, hat aber nicht ohne Weiteres den Wert einer handschriftlichen Unterschrift. Sonst wird nichts in OptimCE unterschrieben: Die Word-Verträge bleiben Verträge, welche die Parteien bearbeiten und unterschreiben, und weder Nachträge noch Beitrittsformulare werden dort unterschrieben.
 
 **Die Abdeckung ist wallonisch.** Das Modul kennt heute nur die CWaPE. Brugel und die VREG sind im dienstübergreifenden Register der Regulierungsbehörden bereits eingetragen, dort aber inaktiv, und das bewusst: Eine inaktive Regulierungsbehörde löst einen ausdrücklichen Fehler aus, statt stillschweigend auf die wallonischen Regeln zurückzufallen, was falsche Dokumente mit dem Anschein von Sorgfalt hervorbringen würde. Eine Region hinzuzufügen heißt zuerst, die Dokumentenpakete dieser Region zu erstellen — Brüssel und Flandern schreiben andere Dokumente vor. Wir nennen kein Datum, solange diese Arbeit nicht getan ist.
 
@@ -265,8 +265,8 @@ Der Gewinn liegt nicht dort, wo man ihn erwartet. Teuer ist nicht das Ausfüllen
 3. **Der Jahresbericht ist ein festes Datum, kein Jahrestag.** Eine im März für vollständig erklärte Gemeinschaft berichtet zum darauffolgenden 1. September.
 4. **Seit dem 25. Juni 2026 ist der Wechsel zu Mon Espace nur teilweise vollzogen**: Was an die CWaPE geht, ist digitalisiert; was an den Netzbetreiber geht, bleibt eine herunterzuladende und zu unterzeichnende Datei.
 5. **OptimCE bereitet elf Dokumente aus den unveränderten amtlichen Dateien vor** — eingereicht wird das Dokument der Regulierungsbehörde, keine Nachbildung — und lässt die Felder änderbar, die es nicht ableiten kann.
-6. **Nichts wird überschrieben**: Status werden an ein Journal angehängt, übermittelte Fassungen bleiben, wie sie waren, und Mitglieder können sehen, was über sie gemeldet wurde und wann.
-7. **Einreichung und Unterschrift bleiben Ihre Aufgabe**, und die Abdeckung ist heute wallonisch.
+6. **Nichts wird überschrieben**: Ein gesendetes Verfahren ist festgeschrieben, übermittelte Fassungen bleiben, wie sie waren, und Mitglieder können sehen, was über sie gemeldet wurde und wann.
+7. **Die Einreichung bleibt Ihre Aufgabe**, nur die Anlage 8 wird in der Anwendung unterschrieben, und die Abdeckung ist heute wallonisch.
 
 Was man nicht erwarten sollte: Keine dieser Funktionen macht eine Energiegemeinschaft rentabler, und keine ersetzt die Lektüre des Rechtsrahmens. Was sie leisten und geteilte Tabellen nicht leisten, ist die **Gewähr, dass keine Frist unbemerkt verstreicht und eine übermittelte Fassung auffindbar bleibt** — die nach unserer Erfahrung einzigen beiden Gründe, aus denen Dossiers aus schlechten Gründen verloren gehen.
 
@@ -296,7 +296,7 @@ Das hängt vom Verfahren ab. Seit dem **25. Juni 2026** erfolgen die Meldung der
 
 ### Reicht OptimCE die Dokumente an meiner Stelle bei der CWaPE ein?
 
-Nein, und das ist bewusst so. OptimCE bereitet die Dokumente aus Ihren Daten vor, berechnet die Fristen, bewahrt jede versandte Fassung auf und hält fest, wer was wann übermittelt hat. **Die Einreichung selbst bleibt Ihre Aufgabe**: über Mon Espace für die Meldung, ihre Änderungen und den Jahresbericht, und bei Ihrem Verteilernetzbetreiber für die Teilung und die Verträge. Es gibt keine automatisierte Schnittstelle zwischen der Plattform und der Regulierungsbehörde. OptimCE unterzeichnet auch nichts: Die Word-Verträge bleiben Dokumente, welche die Parteien bearbeiten und unterschreiben, und die erzeugten PDF bleiben ausfüllbare Formulare, sodass alles, was OptimCE nicht ableiten kann, von Hand änderbar bleibt.
+Nein, und das ist bewusst so. OptimCE bereitet die Dokumente aus Ihren Daten vor, berechnet die Fristen, bewahrt jede versandte Fassung auf und hält fest, wer was wann übermittelt hat. **Die Einreichung selbst bleibt Ihre Aufgabe**: über Mon Espace für die Meldung, ihre Änderungen und den Jahresbericht, und bei Ihrem Verteilernetzbetreiber für die Teilung und die Verträge. Es gibt keine automatisierte Schnittstelle zwischen der Plattform und der Regulierungsbehörde. Seit dem 11. November 2026 wird ein einziges Dokument in der Anwendung unterschrieben: die Anlage 8, die ehrenwörtliche Erklärung der an der Teilung Beteiligten, mit einer einfachen elektronischen Signatur im Sinne der eIDAS-Verordnung. Die Word-Verträge bleiben Dokumente, welche die Parteien bearbeiten und unterschreiben, und alles, was OptimCE nicht ableiten kann, bleibt von Hand änderbar.
 
 ### Und wie sieht es für Brüssel und Flandern aus?
 
@@ -308,4 +308,4 @@ Die Verwaltung der Verwaltungsdokumente deckt derzeit **ausschließlich Wallonie
 - [CWaPE — Stromteilung](https://www.cwape.be/node/5618) — Liste und Nummerierung der in diesem Artikel genannten Formulare und Anlagen: Formular zur Stromteilung (5609) und dessen Leitfaden (5610), Anlage 6 der Teilnehmer und Erzeugungsanlagen (5611), Anlage 6bis zu Speicheranlagen (6578), Anlage 8 der ehrenwörtlichen Erklärungen (5612), Änderungsformular zur Teilung (6018) und dessen Leitfaden (6017) mit den Anlagen 2 (6019), 3 (6020) und 3bis (6579) sowie die beiden Musterverträge vom 12. Oktober 2023 zwischen dem Netzbetreiber und dem Vertreter, in der Fassung für eine Energiegemeinschaft und in der Fassung für dasselbe Gebäude.
 - [CWaPE — Formulare zu Energiegemeinschaften über das wallonische Portal „Mon Espace“](https://www.cwape.be/documents-recents/formulaires-relatifs-aux-communautes-denergie-accessibles-le-site-mon-espace-de) — Mitteilung vom 25. Juni 2026: Die Meldung der Gründung einer Energiegemeinschaft, ihre Änderungen und die Einreichung ihres Jahresberichts erfolgen über digitalisierte Formulare auf monespace.wallonie.be.
 - [Renouvelle — Stromteilung und Energiegemeinschaften in Wallonien: die Bewertung der CWaPE](https://www.renouvelle.be/fr/partage-et-communautes-energie-en-wallonie-avis-de-la-cwape/) — Bewertung vom 18. März 2025: 4 Teilungsvorgänge innerhalb desselben Gebäudes und 3 innerhalb einer Energiegemeinschaft in Wallonien erfasst, dazu die von der Regulierungsbehörde benannten Hemmnisse.
-- [OptimCE — Quellcode der Plattform](https://github.com/optimce) — Grundlage sämtlicher Produktaussagen dieses Artikels: die elf Dokumentenpakete und ihre Eigenschaft als unveränderte amtliche Dateien, die aus den Formularen selbst ausgelesenen Kapazitäten, die journalisierte Zustandsmaschine der Dossiers und Dokumente, die Unveränderlichkeit der übermittelten Fassungen, die Fristberechnung in belgischen Werktagen mit täglichem Durchlauf um 6 Uhr und vierzehntägigem Erinnerungsfenster, die sechs E-Mail-Typen in vier Sprachen und ihre Unterscheidung zwischen informativen und transaktionalen Nachrichten, die Dashboards für Verwalter und Mitglieder sowie die Beschränkung des Registers der Regulierungsbehörden auf die allein aktive CWaPE.
+- [OptimCE — Quellcode der Plattform](https://github.com/optimce) — Grundlage sämtlicher Produktaussagen dieses Artikels: die elf Dokumentenpakete und ihre Eigenschaft als unveränderte amtliche Dateien, die aus den Formularen selbst ausgelesenen Kapazitäten, die Verfahren und das Festschreiben ihrer Unterlagen nach dem Versand, die Unveränderlichkeit der übermittelten Fassungen, die Fristberechnung in belgischen Werktagen mit täglichem Durchlauf um 6 Uhr und Erinnerungen 14, 7 und 2 Tage vorher, die E-Mails in vier Sprachen, die Verwaltungsübersicht und die Unterscheidung zwischen informativen und transaktionalen Nachrichten, die einfache elektronische Signatur der Anlage 8, die Dashboards für Verwalter und Mitglieder sowie die Beschränkung des Registers der Regulierungsbehörden auf die allein aktive CWaPE.

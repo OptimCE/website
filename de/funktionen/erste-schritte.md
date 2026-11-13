@@ -9,7 +9,7 @@ ref: product-getting-started
 permalink: /de/funktionen/erste-schritte/
 breadcrumb_parent: features
 product_page: true
-last_modified_at: 2026-10-11
+last_modified_at: 2026-11-11
 faq:
   - q: "Muss ich OptimCE installieren, um zu starten?"
     a: "Nein. OptimCE Cloud unter app.optimce.be erfordert keine Installation: Sie legen ein Konto an, dann Ihre Gemeinschaft. Das Selbst-Hosting ist ein anderer Weg, für Teams, die die Plattform selbst hosten möchten."
@@ -76,11 +76,12 @@ Anleitung: [einen Zähler anlegen](https://guide.optimce.be/meter-create/de.html
 ### 4. Die Teilungsoperation anlegen
 
 Geben Sie ihr einen Namen, einen Typ (innerhalb eines Gebäudes, Erneuerbare-Energie-Gemeinschaft
-oder Bürgerenergiegemeinschaft) und die Gemeinden, die sie abdeckt. Tarife, Rechnungen und
-Verwaltungsdossiers werden anschließend dieser Operation zugeordnet.
+oder Bürgerenergiegemeinschaft) und die Gemeinden, die sie abdeckt. Tarife und Rechnungen werden
+anschließend dieser Operation zugeordnet. Ist das Verwaltungsmodul aktiv, fließt das Anlegen der
+Operation auch in den Entwurf eines CWaPE-Verfahrens ein.
 
 Anleitung: [eine Teilungsoperation anlegen](https://guide.optimce.be/sharing-op-create/de.html).
-Modul: [die CWaPE-Unterlagen der Operation]({{ "product-cwape" | ref_url }}).
+Modul: [die CWaPE-Verfahren]({{ "product-cwape" | ref_url }}).
 
 ### 5. Den Aufteilungsschlüssel festlegen
 
