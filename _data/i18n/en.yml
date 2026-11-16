@@ -470,6 +470,11 @@ not_found:
   message: "The page you are looking for does not exist or has been moved."
   back_home: "Back to home"
 
+# Stub of a moved URL (_layouts/redirect.html)
+redirect:
+  title: "Page moved"
+  new_address: "This page has a new address:"
+
 # Language names (for switcher)
 languages:
   fr: "Français"

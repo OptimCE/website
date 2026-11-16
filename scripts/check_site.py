@@ -6,7 +6,9 @@ the whole built site at once. Each one guards a failure that still deploys
 green:
 
   redirects  every row of _data/redirects.csv produced a stub that points
-             straight (no chain) at a real page, and no stub is unaccounted for
+             straight (no chain) at a real page, and no stub is unaccounted for;
+             each stub names the language of its path and has a title of its
+             own, shared with no other stub and not with its target
   links      no internal link is broken, points at a redirect stub, or targets
              a #fragment that does not exist on the target page
   hreflang   every indexable page lists fr/en/de/nl + x-default (= fr), the
@@ -31,6 +33,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import html
 import json
 import pathlib
 import re
@@ -45,6 +48,8 @@ SITEMAP_NS = "{http://www.sitemaps.org/schemas/sitemap/0.9}"
 LANGS = ("fr", "en", "de", "nl")
 MARKERS = ("[À VÉRIFIER", "[À COMPLÉTER")
 RE_REFRESH = re.compile(r'http-equiv="refresh"\s+content="0;\s*url=([^"]+)"', re.I)
+RE_TITLE = re.compile(r"<title>(.*?)</title>", re.S | re.I)
+RE_HTML_LANG = re.compile(r'<html[^>]*\blang=["\']([^"\']*)["\']', re.I)
 
 # Required properties per schema.org type, for the nodes we emit ourselves.
 REQUIRED = {
@@ -169,6 +174,19 @@ def is_stub(body: str) -> bool:
     return 'http-equiv="refresh"' in body and len(body) < 2000
 
 
+def lang_of(path: str) -> str:
+    """Language that owns a URL path: its prefix, or French without one."""
+    for code in LANGS[1:]:
+        if path.startswith(f"/{code}/"):
+            return code
+    return LANGS[0]
+
+
+def title_of(body: str) -> str:
+    m = RE_TITLE.search(body)
+    return html.unescape(re.sub(r"\s+", " ", m.group(1))).strip() if m else ""
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--site", default="_site")
@@ -213,6 +231,7 @@ def main() -> int:
     # --- parse every HTML file once --------------------------------------------
     pages: dict[str, Page] = {}
     stubs: dict[str, str] = {}  # path -> absolute target
+    stub_bodies: dict[str, str] = {}
     bodies: dict[str, str] = {}
     for f in sorted(site.rglob("*.html")):
         body = f.read_text(encoding="utf-8", errors="replace")
@@ -220,6 +239,7 @@ def main() -> int:
         if is_stub(body):
             m = RE_REFRESH.search(body)
             stubs[path] = m.group(1) if m else ""
+            stub_bodies[path] = body
             continue
         p = Page()
         p.feed(body)
@@ -249,6 +269,28 @@ def main() -> int:
     for path in stubs:
         if path not in froms:
             rep.error("redirects", f"{path}: redirect stub not declared in _data/redirects.csv")
+    # GitHub Pages has no 301: a stub is a page served with a 200, which Bing
+    # can keep as a URL of its own. With one shared "Redirecting…" title in
+    # lang="en-US", Bing Webmaster Tools reported the stubs as duplicates of one
+    # another (2026-11-14). _layouts/redirect.html gives each its own.
+    by_title: dict[str, list[str]] = defaultdict(list)
+    for path, body in stub_bodies.items():
+        m = RE_HTML_LANG.search(body)
+        got, want = (m.group(1) if m else ""), lang_of(path)
+        if got != want:
+            rep.error("redirects", f"{path}: stub has <html lang='{got}'>, its path implies '{want}'")
+        title = title_of(body)
+        if not title:
+            rep.error("redirects", f"{path}: stub has no <title>")
+            continue
+        by_title[title].append(path)
+        target = bodies.get(internal_path(stubs[path]) or "")
+        if target is not None and title_of(target) == title:
+            rep.error("redirects", f"{path}: stub has the same <title> as its target")
+    for title, paths in by_title.items():
+        if len(paths) > 1:
+            rep.error("redirects", f"{len(paths)} stubs share the <title> {title!r}: "
+                                   f"{', '.join(sorted(paths)[:3])}…")
     rj = site / "redirects.json"
     if rj.is_file():
         declared = json.loads(rj.read_text(encoding="utf-8"))

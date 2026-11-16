@@ -481,6 +481,11 @@ not_found:
   message: "Die gesuchte Seite existiert nicht oder wurde verschoben."
   back_home: "Zurück zur Startseite"
 
+# Stub of a moved URL (_layouts/redirect.html)
+redirect:
+  title: "Seite verschoben"
+  new_address: "Diese Seite hat eine neue Adresse:"
+
 # Language names (for switcher)
 languages:
   fr: "Français"

@@ -8,12 +8,12 @@ ref: pillar-reseau-grd
 pillar: reseau-grd
 permalink: /nl/gidsen/netbeheerders/
 breadcrumb_parent: guides
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-14
 sections:
   - title: "Begrijpen wie wat doet"
     refs: [dso-supplier-roles, ean-code-belgium]
   - title: "Uw meter"
-    refs: [smart-meter-wallonia]
+    refs: [meter-reading-index, smart-meter-wallonia]
 ---
 Op uw elektriciteitsfactuur staat maar één naam: die van uw leverancier. Toch brengt niet hij u de stroom. De leverancier verkoopt u de energie en int de hele factuur; de distributienetbeheerder vervoert de stroom tot aan uw meter, leest die af en lost storingen op. De eerste kiest u. De tweede nooit: hij is aangewezen voor een grondgebied en hoort bij uw adres. In Wallonië delen vijf netbeheerders het elektriciteitsnet, ORES, RESA, AIEG, AIESH en REW, en alleen ORES en RESA verdelen ook gas. [Onze tool “Wie is mijn netbeheerder?”]({{ "tool-dso" | ref_url }}) geeft u de uwe, voor elektriciteit en voor gas, op basis van uw postcode.
 
@@ -25,6 +25,8 @@ Die verdeling zegt wie u belt:
 Daarvoor transporteert Elia de stroom op hoogspanning, en vier regulatoren delen het toezicht: de CREG op federaal niveau, de CWaPE, Brugel en de VREG in de gewesten. [“Netbeheerder en leverancier: wie doet wat?”]({{ "dso-supplier-roles" | ref_url }}) overloopt elke speler, wat elk weegt op uw factuur, en de gevallen waarin de netbeheerder zelf uw leverancier wordt.
 
 Voor bijna al die stappen vraagt men uw EAN-code: achttien cijfers die met 54 beginnen, gedrukt op elke factuur. Hij duidt niet uw meter of uw contract aan, maar de plek waar de elektriciteit uw woning binnenkomt. Hij verandert dus niet als u van leverancier wisselt, en u hebt er één per energie. [“EAN-code elektriciteit: vinden en gebruiken”]({{ "ean-code-belgium" | ref_url }}) legt uit waar u hem vindt zonder factuur, wanneer u hem geeft en aan wie u hem niet geeft.
+
+Zolang uw meter een klassieke is, leest u hem zelf af: de netbeheerder komt minstens om de twee jaar langs en nodigt u de andere jaren uit uw meterstanden door te geven. Zonder meterstand schat hij uw verbruik, en het verschil komt terug op de jaarafrekening. [“Meterstand doorgeven in Wallonië: de gids”]({{ "meter-reading-index" | ref_url }}) toont hoe u elke meter afleest en geeft de kanalen van elk van de vijf Waalse netbeheerders.
 
 De meter zelf verandert. Sinds januari 2026 moet elk Waals leveringspunt tegen eind 2029 een digitale meter krijgen, en de plaatsing weigeren kan niet meer: alleen de communicatiefunctie kan worden uitgeschakeld, met zware gevolgen. De vervanging van een klassieke meter is gratis, en u kunt ze zonder te wachten aanvragen bij uw netbeheerder. De digitale meter opent het Impact-tarief, de P1-poort en de toegang tot uw kwartierdata.
 

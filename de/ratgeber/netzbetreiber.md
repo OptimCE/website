@@ -8,12 +8,12 @@ ref: pillar-reseau-grd
 pillar: reseau-grd
 permalink: /de/ratgeber/netzbetreiber/
 breadcrumb_parent: guides
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-14
 sections:
   - title: "Verstehen, wer was macht"
     refs: [dso-supplier-roles, ean-code-belgium]
   - title: "Ihr Zähler"
-    refs: [smart-meter-wallonia]
+    refs: [meter-reading-index, smart-meter-wallonia]
 ---
 Auf Ihrer Stromrechnung steht nur ein Name: der Ihres Lieferanten. Doch nicht er bringt Ihnen den Strom. Der Lieferant verkauft Ihnen die Energie und kassiert die ganze Rechnung; der Verteilernetzbetreiber (VNB, auf Französisch GRD) bringt den Strom bis zu Ihrem Zähler, liest ihn ab und behebt Störungen. Den ersten wählen Sie. Den zweiten nie: Er ist für ein Gebiet bestimmt und hängt von Ihrer Adresse ab. In der Wallonie teilen sich fünf Netzbetreiber das Stromnetz, ORES, RESA, AIEG, AIESH und REW, und nur ORES und RESA verteilen auch Gas. [Unser Werkzeug „Netzbetreiber finden“]({{ "tool-dso" | ref_url }}) nennt Ihnen Ihren Netzbetreiber für Strom und für Gas, anhand Ihrer Postleitzahl.
 
@@ -25,6 +25,8 @@ Diese Aufteilung sagt Ihnen, wen Sie anrufen:
 Davor transportiert Elia den Strom auf Hochspannung, und vier Regulierungsbehörden teilen sich die Aufsicht: die CREG auf föderaler Ebene, CWaPE, BRUGEL und VREG in den Regionen. [„Netzbetreiber und Lieferant: wer macht was?“]({{ "dso-supplier-roles" | ref_url }}) stellt jeden Akteur vor, zeigt, was er auf der Rechnung ausmacht, und in welchen Fällen der Netzbetreiber selbst Ihr Lieferant wird.
 
 Für fast jeden dieser Schritte fragt man Sie nach Ihrem EAN-Code: achtzehn Ziffern, die mit 54 beginnen und auf jeder Rechnung stehen. Er bezeichnet weder Ihren Zähler noch Ihren Vertrag, sondern die Stelle, an der der Strom in Ihre Wohnung gelangt. Deshalb ändert er sich bei einem Lieferantenwechsel nicht, und Sie haben einen pro Energie. [„EAN-Code für Strom: wo finden, wozu er dient“]({{ "ean-code-belgium" | ref_url }}) erklärt, wo Sie ihn ohne Rechnung finden, wann Sie ihn angeben und wem Sie ihn nicht geben.
+
+Solange Ihr Zähler ein klassischer ist, lesen Sie ihn selbst ab: Der Netzbetreiber kommt mindestens alle zwei Jahre und lädt Sie in den anderen Jahren ein, Ihre Zählerstände zu melden. Ohne Zählerstand schätzt er Ihren Verbrauch, und die Differenz kommt mit der Jahresabrechnung zurück. [„Stromzähler ablesen, Zählerstand melden: Ratgeber“]({{ "meter-reading-index" | ref_url }}) zeigt, wie Sie jeden Zähler ablesen, und nennt die Kanäle jedes der fünf wallonischen Netzbetreiber.
 
 Der Zähler selbst verändert sich. Seit Januar 2026 muss jeder Lieferpunkt in der Wallonie bis Ende 2029 einen Smart Meter erhalten, und den Einbau kann man nicht mehr ablehnen: Abschalten lässt sich nur seine Kommunikationsfunktion, mit schweren Folgen. Der Austausch eines herkömmlichen Zählers ist kostenlos, und Sie können ihn ohne Wartezeit bei Ihrem Netzbetreiber beantragen. Der Smart Meter öffnet den Impact-Tarif, den P1-Port und den Zugang zu Ihren Viertelstundendaten.
 

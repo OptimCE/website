@@ -477,6 +477,11 @@ not_found:
   message: "De pagina die u zoekt bestaat niet of is verplaatst."
   back_home: "Terug naar home"
 
+# Stub of a moved URL (_layouts/redirect.html)
+redirect:
+  title: "Pagina verplaatst"
+  new_address: "Deze pagina heeft een nieuw adres:"
+
 # Language names (for switcher)
 languages:
   fr: "Français"

@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520" role="img" aria-labelledby="t d">
+<title id="t">Wat u van uw meter noteert</title><desc id="d">Schema van vijf meters en wat u noteert. Enkelvoudige meter: één telwerk, u noteert 25003 zonder de decimaal. Tweevoudige meter: twee standen, piekuren (zon, I) 52002 en daluren (maan, II) 25003; daluren van 11 tot 17 uur en van 22 tot 7 uur. Exclusief nacht: een aparte meter, één stand, op de uren van de netbeheerder. Elektronische meter: één scherm waarop de registers elke 7 à 8 seconden wisselen, 1.8.1 piekuren, 1.8.2 daluren, 2.8.1 en 2.8.2 injectie. Digitale meter: elke dag op afstand uitgelezen, niets door te geven tenzij de netbeheerder erom vraagt.</desc>
+<rect width="800" height="520" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="46" y="46" font-size="21" fill="#212529" font-weight="700" text-anchor="start">Wat u van uw meter noteert</text>
+<text x="46" y="72" font-size="13.5" fill="#495057" font-weight="400" text-anchor="start">Vijf meters: noteer nooit de cijfers na de komma</text>
+<rect x="46" y="96" width="224" height="190" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<path d="M46 106 a10 10 0 0 1 10 -10 h204 a10 10 0 0 1 10 10 v24 h-224 z" fill="#2e7d32"/>
+<text x="58" y="119" font-size="14.5" fill="#FFFFFF" font-weight="700" text-anchor="start">Enkelvoudige meter</text>
+<rect x="62" y="154" width="20" height="32" rx="3" fill="#212529"/>
+<text x="72.0" y="176.0" font-size="17" fill="#FFFFFF" font-weight="700" text-anchor="middle">2</text>
+<rect x="84" y="154" width="20" height="32" rx="3" fill="#212529"/>
+<text x="94.0" y="176.0" font-size="17" fill="#FFFFFF" font-weight="700" text-anchor="middle">5</text>
+<rect x="106" y="154" width="20" height="32" rx="3" fill="#212529"/>
+<text x="116.0" y="176.0" font-size="17" fill="#FFFFFF" font-weight="700" text-anchor="middle">0</text>
+<rect x="128" y="154" width="20" height="32" rx="3" fill="#212529"/>
+<text x="138.0" y="176.0" font-size="17" fill="#FFFFFF" font-weight="700" text-anchor="middle">0</text>
+<rect x="150" y="154" width="20" height="32" rx="3" fill="#212529"/>
+<text x="160.0" y="176.0" font-size="17" fill="#FFFFFF" font-weight="700" text-anchor="middle">3</text>
+<text x="174" y="182" font-size="18" fill="#212529" font-weight="700" text-anchor="start">,</text>
+<rect x="182" y="154" width="20" height="32" rx="3" fill="#c62828"/>
+<text x="192.0" y="176.0" font-size="17" fill="#FFFFFF" font-weight="700" text-anchor="middle">4</text>
+<text x="62" y="222" font-size="14" fill="#2e7d32" font-weight="700" text-anchor="start">Noteren: 25003</text>
+<text x="62" y="246" font-size="12.5" fill="#495057" font-weight="400" text-anchor="start">Eén telwerk,</text>
+<text x="62" y="264" font-size="12.5" fill="#495057" font-weight="400" text-anchor="start">zonder decimaal</text>
+<rect x="288" y="96" width="224" height="190" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<path d="M288 106 a10 10 0 0 1 10 -10 h204 a10 10 0 0 1 10 10 v24 h-224 z" fill="#2e7d32"/>
+<text x="300" y="119" font-size="14.5" fill="#FFFFFF" font-weight="700" text-anchor="start">Tweevoudige meter</text>
+<circle cx="314" cy="159" r="5.5" fill="none" stroke="#212529" stroke-width="1.6"/><line x1="322.5" y1="159.0" x2="325.5" y2="159.0" stroke="#212529" stroke-width="1.6" stroke-linecap="round"/><line x1="305.5" y1="159.0" x2="302.5" y2="159.0" stroke="#212529" stroke-width="1.6" stroke-linecap="round"/><line x1="314.0" y1="167.5" x2="314.0" y2="170.5" stroke="#212529" stroke-width="1.6" stroke-linecap="round"/><line x1="314.0" y1="150.5" x2="314.0" y2="147.5" stroke="#212529" stroke-width="1.6" stroke-linecap="round"/><line x1="320.0" y1="165.0" x2="322.1" y2="167.1" stroke="#212529" stroke-width="1.6" stroke-linecap="round"/><line x1="308.0" y1="165.0" x2="305.9" y2="167.1" stroke="#212529" stroke-width="1.6" stroke-linecap="round"/><line x1="320.0" y1="153.0" x2="322.1" y2="150.9" stroke="#212529" stroke-width="1.6" stroke-linecap="round"/><line x1="308.0" y1="153.0" x2="305.9" y2="150.9" stroke="#212529" stroke-width="1.6" stroke-linecap="round"/>
+<text x="332" y="164" font-size="13" fill="#212529" font-weight="700" text-anchor="start">I</text>
+<rect x="346" y="144" width="19" height="30" rx="3" fill="#212529"/>
+<text x="355.5" y="165.0" font-size="17" fill="#FFFFFF" font-weight="700" text-anchor="middle">5</text>
+<rect x="367" y="144" width="19" height="30" rx="3" fill="#212529"/>
+<text x="376.5" y="165.0" font-size="17" fill="#FFFFFF" font-weight="700" text-anchor="middle">2</text>
+<rect x="388" y="144" width="19" height="30" rx="3" fill="#212529"/>
+<text x="397.5" y="165.0" font-size="17" fill="#FFFFFF" font-weight="700" text-anchor="middle">0</text>
+<rect x="409" y="144" width="19" height="30" rx="3" fill="#212529"/>
+<text x="418.5" y="165.0" font-size="17" fill="#FFFFFF" font-weight="700" text-anchor="middle">0</text>
+<rect x="430" y="144" width="19" height="30" rx="3" fill="#212529"/>
+<text x="439.5" y="165.0" font-size="17" fill="#FFFFFF" font-weight="700" text-anchor="middle">2</text>
+<text x="453" y="170" font-size="18" fill="#212529" font-weight="700" text-anchor="start">,</text>
+<rect x="461" y="144" width="19" height="30" rx="3" fill="#c62828"/>
+<text x="470.5" y="165.0" font-size="17" fill="#FFFFFF" font-weight="700" text-anchor="middle">1</text>
+<path d="M315 190 a9 9 0 1 0 6 15.5 a7 7 0 1 1 -6 -15.5 z" fill="none" stroke="#212529" stroke-width="1.6" stroke-linejoin="round"/>
+<text x="329" y="204" font-size="13" fill="#212529" font-weight="700" text-anchor="start">II</text>
+<rect x="346" y="184" width="19" height="30" rx="3" fill="#212529"/>
+<text x="355.5" y="205.0" font-size="17" fill="#FFFFFF" font-weight="700" text-anchor="middle">2</text>
+<rect x="367" y="184" width="19" height="30" rx="3" fill="#212529"/>
+<text x="376.5" y="205.0" font-size="17" fill="#FFFFFF" font-weight="700" text-anchor="middle">5</text>
+<rect x="388" y="184" width="19" height="30" rx="3" fill="#212529"/>
+<text x="397.5" y="205.0" font-size="17" fill="#FFFFFF" font-weight="700" text-anchor="middle">0</text>
+<rect x="409" y="184" width="19" height="30" rx="3" fill="#212529"/>
+<text x="418.5" y="205.0" font-size="17" fill="#FFFFFF" font-weight="700" text-anchor="middle">0</text>
+<rect x="430" y="184" width="19" height="30" rx="3" fill="#212529"/>
+<text x="439.5" y="205.0" font-size="17" fill="#FFFFFF" font-weight="700" text-anchor="middle">3</text>
+<text x="453" y="210" font-size="18" fill="#212529" font-weight="700" text-anchor="start">,</text>
+<rect x="461" y="184" width="19" height="30" rx="3" fill="#c62828"/>
+<text x="470.5" y="205.0" font-size="17" fill="#FFFFFF" font-weight="700" text-anchor="middle">7</text>
+<text x="304" y="238" font-size="14" fill="#2e7d32" font-weight="700" text-anchor="start">Noteren: beide standen</text>
+<text x="304" y="260" font-size="12.5" fill="#495057" font-weight="400" text-anchor="start">Daluren: 11–17 uur</text>
+<text x="304" y="277" font-size="12.5" fill="#495057" font-weight="400" text-anchor="start">en 22–7 uur, elke dag</text>
+<rect x="530" y="96" width="224" height="190" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<path d="M530 106 a10 10 0 0 1 10 -10 h204 a10 10 0 0 1 10 10 v24 h-224 z" fill="#2e7d32"/>
+<text x="542" y="119" font-size="14.5" fill="#FFFFFF" font-weight="700" text-anchor="start">Exclusief nacht</text>
+<path d="M559 160 a9 9 0 1 0 6 15.5 a7 7 0 1 1 -6 -15.5 z" fill="none" stroke="#212529" stroke-width="1.6" stroke-linejoin="round"/>
+<rect x="578" y="154" width="20" height="32" rx="3" fill="#212529"/>
+<text x="588.0" y="176.0" font-size="17" fill="#FFFFFF" font-weight="700" text-anchor="middle">1</text>
+<rect x="600" y="154" width="20" height="32" rx="3" fill="#212529"/>
+<text x="610.0" y="176.0" font-size="17" fill="#FFFFFF" font-weight="700" text-anchor="middle">8</text>
+<rect x="622" y="154" width="20" height="32" rx="3" fill="#212529"/>
+<text x="632.0" y="176.0" font-size="17" fill="#FFFFFF" font-weight="700" text-anchor="middle">7</text>
+<rect x="644" y="154" width="20" height="32" rx="3" fill="#212529"/>
+<text x="654.0" y="176.0" font-size="17" fill="#FFFFFF" font-weight="700" text-anchor="middle">6</text>
+<rect x="666" y="154" width="20" height="32" rx="3" fill="#212529"/>
+<text x="676.0" y="176.0" font-size="17" fill="#FFFFFF" font-weight="700" text-anchor="middle">0</text>
+<text x="690" y="182" font-size="18" fill="#212529" font-weight="700" text-anchor="start">,</text>
+<rect x="698" y="154" width="20" height="32" rx="3" fill="#c62828"/>
+<text x="708.0" y="176.0" font-size="17" fill="#FFFFFF" font-weight="700" text-anchor="middle">2</text>
+<text x="546" y="222" font-size="14" fill="#2e7d32" font-weight="700" text-anchor="start">Noteren: 18760</text>
+<text x="546" y="246" font-size="12.5" fill="#495057" font-weight="400" text-anchor="start">Aparte meter, één stand,</text>
+<text x="546" y="264" font-size="12.5" fill="#495057" font-weight="400" text-anchor="start">uren van de netbeheerder</text>
+<rect x="46" y="304" width="345" height="170" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<path d="M46 314 a10 10 0 0 1 10 -10 h325 a10 10 0 0 1 10 10 v24 h-345 z" fill="#2e7d32"/>
+<text x="58" y="327" font-size="14.5" fill="#FFFFFF" font-weight="700" text-anchor="start">Elektronische meter</text>
+<rect x="62" y="352" width="118" height="58" rx="6" fill="#e8f5e9" stroke="#2e7d32" stroke-width="1.2"/>
+<text x="72" y="370" font-size="12" fill="#1b5e20" font-weight="700" text-anchor="start">1.8.1</text>
+<text x="72" y="398" font-size="17" fill="#212529" font-weight="700" text-anchor="start" font-family="ui-monospace,Consolas,'Courier New',monospace">003202,2</text>
+<text x="62" y="432" font-size="14" fill="#2e7d32" font-weight="700" text-anchor="start">Noteren: 3202</text>
+<text x="192" y="364" font-size="12.5" fill="#1b5e20" font-weight="700" text-anchor="start">1.8.1</text>
+<text x="230" y="364" font-size="12" fill="#212529" font-weight="400" text-anchor="start">piekuren, afname</text>
+<text x="192" y="383" font-size="12.5" fill="#1b5e20" font-weight="700" text-anchor="start">1.8.2</text>
+<text x="230" y="383" font-size="12" fill="#212529" font-weight="400" text-anchor="start">daluren, afname</text>
+<text x="192" y="402" font-size="12.5" fill="#1b5e20" font-weight="700" text-anchor="start">2.8.1</text>
+<text x="230" y="402" font-size="12" fill="#212529" font-weight="400" text-anchor="start">piekuren, injectie</text>
+<text x="192" y="421" font-size="12.5" fill="#1b5e20" font-weight="700" text-anchor="start">2.8.2</text>
+<text x="230" y="421" font-size="12" fill="#212529" font-weight="400" text-anchor="start">daluren, injectie</text>
+<text x="62" y="458" font-size="12" fill="#495057" font-weight="400" text-anchor="start">Elke 7 à 8 s een ander register: wacht op de juiste code</text>
+<rect x="409" y="304" width="345" height="170" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<path d="M409 314 a10 10 0 0 1 10 -10 h325 a10 10 0 0 1 10 10 v24 h-345 z" fill="#1b5e20"/>
+<text x="421" y="327" font-size="14.5" fill="#FFFFFF" font-weight="700" text-anchor="start">Digitale meter</text>
+<rect x="425" y="352" width="160" height="58" rx="6" fill="#e8f5e9" stroke="#2e7d32" stroke-width="1.2"/>
+<text x="435" y="370" font-size="12" fill="#1b5e20" font-weight="700" text-anchor="start">1.8.1</text>
+<text x="435" y="398" font-size="17" fill="#212529" font-weight="700" text-anchor="start" font-family="ui-monospace,Consolas,'Courier New',monospace">000011.155</text>
+<text x="575" y="398" font-size="12" fill="#495057" font-weight="400" text-anchor="end">kWh</text>
+<text x="599" y="370" font-size="13" fill="#2e7d32" font-weight="700" text-anchor="start">Niets door te geven</text>
+<text x="599" y="390" font-size="12" fill="#212529" font-weight="400" text-anchor="start">Op afstand uitgelezen,</text>
+<text x="599" y="406" font-size="12" fill="#212529" font-weight="400" text-anchor="start">elke dag</text>
+<text x="425" y="432" font-size="12.5" fill="#495057" font-weight="700" text-anchor="start">Tenzij de netbeheerder erom vraagt:</text>
+<text x="425" y="450" font-size="12.5" fill="#495057" font-weight="400" text-anchor="start">1.8.1 en 1.8.2, plus 2.8.x</text>
+<text x="425" y="466" font-size="12.5" fill="#495057" font-weight="400" text-anchor="start">als u injecteert</text>
+<text x="46" y="503" font-size="11.5" fill="#868E96" font-weight="400" text-anchor="start">Bronnen: ORES, brochure over de meteropname (augustus 2026); AIEG; REW; CWaPE, uren tweevoudig 2026.</text>
+</g>
+</svg>

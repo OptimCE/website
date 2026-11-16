@@ -9,6 +9,7 @@ tags: [guide]
 lang: en
 ref: regularisation-bill-too-high
 pillar: facture-electricite
+last_modified_at: 2026-11-15 06:00:00 +0100
 permalink: /en/guides/electricity-settlement-bill-too-high-what-to-do/
 faq:
   - q: "Do I have to pay a settlement bill I am disputing?"
@@ -45,7 +46,7 @@ The order runs from the quickest check to the longest: the first two take a few 
 
 | Cause | What you see on the statement | Who to contact |
 |---|---|---|
-| 1. Estimated reading | the word “estimated” next to a reading | the distribution system operator (DSO) |
+| 1. Estimated reading | the word “estimated” next to a reading | the distribution system operator (DSO), directly or through your supplier |
 | 2. Instalments too low | more actual kWh than the instalments covered | the supplier |
 | 3. Higher price | a kWh dearer than on the previous statement | the supplier, then a price comparison tool |
 | 4. Changed circumstances | more kWh, with no reading error | nobody: adjust your instalments |
@@ -71,24 +72,24 @@ In that case the balance is due; the correction is made on the next instalments.
 
 **4. Changed circumstances.** Heat pump, electric car, a new occupant, home working, a faulty appliance: consumption has gone up and the bill is right. Adjust your instalments so that the gap does not come back.
 
-**5. A plain error.** Check the EAN code, the meter number and the billing period. In a block of flats, an EAN swapped with a neighbour's makes you pay for their consumption; our guide [“Belgian EAN code: where to find it, what it's for”](/en/guides/ean-code-belgium-where-to-find/) explains how to check it. After a move, the new occupant “cannot be assigned consumption prior to moving in” (technical regulation for the management of electricity distribution grids in Wallonia, article V.76, § 4): the reading on the handover document is what counts.
+**5. A plain error.** Check the EAN code, the meter number and the billing period. In a block of flats, an EAN swapped with a neighbour's makes you pay for their consumption; our guide [“Belgian EAN code: where to find it, what it's for”](/en/guides/ean-code-belgium-where-to-find/) explains how to check it. After a move, keep the CWaPE's [handover document](https://www.cwape.be/formulaire-de-reprise-des-energies) (*formulaire de reprise des énergies*) signed with the previous occupant: the CWaPE states that “the document has legal value”. If the home was left without a contract between two occupants, your contract can today start before you actually moved in, and it is up to you to dispute it, with evidence. The new technical regulation, approved by the CWaPE on 27 August 2026 but not yet published in the Belgian Official Gazette, fixes this: the new user “cannot be assigned consumption prior to moving in” (article V.76, § 4).
 
 ## Estimated reading: have the DSO correct it
 
-In Wallonia, the distribution system operator reads the meters, validates the readings you send it and passes the data to the supplier, which bills what it receives. So the DSO corrects a reading; the supplier then redoes the bill. If you do not know who runs your grid, **[the “Find my DSO” tool](/en/tools/find-my-dso/)** finds it from your postcode, and [the list by municipality](/en/tools/find-my-dso/municipalities/) covers all 565 Belgian municipalities.
+In Wallonia, the distribution system operator reads the meters, validates the readings you send it and passes the data to the supplier, which bills what it receives. So the DSO corrects a reading, even when the request goes through the supplier; the supplier then redoes the bill. If you do not know who runs your grid, **[the “Find my DSO” tool](/en/tools/find-my-dso/)** finds it from your postcode, and [the list by municipality](/en/tools/find-my-dso/municipalities/) covers all 565 Belgian municipalities.
 
-The Walloon technical regulation offers two routes (article V.76, unchanged in the version approved by the CWaPE on 27 August 2026):
+The Walloon technical regulation offers two routes (article V.76, §§ 2 and 3, unchanged in the version approved by the CWaPE on 27 August 2026):
 
 - **if the disputed reading came from the DSO**, ask for a new physical reading: free if it reveals an error, otherwise charged at the tariff approved by the CWaPE;
 - **if the reading came from you**, send a new one, “only once per annual statement”, with “any supporting evidence”: a dated photo of the meter.
 
-At ORES, a technician “comes every two years” to read electromechanical meters; in the other years you submit your reading through myORES or the Indexphone on 078/15.70.01. If the reading looks wrong, ORES advises contacting your supplier first; the corrected data are then “sent to your energy supplier so that it can issue a new invoice” ([ORES](https://www.ores.be/faq/releves-et-consommation), in French). The other Walloon DSOs apply the same technical regulation.
+At ORES, a technician “comes every two years” to read electromechanical meters; in the other years you submit your reading through myORES or the Indexphone on 078/15.70.01. If the reading looks wrong, ORES advises contacting your supplier first; the corrected data are then “sent to your energy supplier so that it can issue a new invoice” ([ORES](https://www.ores.be/faq/releves-et-consommation), in French). RESA also accepts a direct request to mri@resa.be, with a dated photo of the meter. The technical regulation lets you dispute a reading with the DSO or through your supplier (article V.76, § 1); [our meter-reading guide](/en/guides/electricity-meter-reading-wallonia/) gives the way in for each of the five Walloon DSOs.
 
 ### The twenty-four-month limit
 
 After several years of estimated readings, the first actual reading can reveal a large catch-up. Since the decree of 25 April 2024 it is capped: unless the customer's bad faith is proven, the correction and the resulting bill “may not relate to a period of more than twenty-four months before the last actual meter reading”. The DSO spreads the kWh between the last two actual readings over the whole period, and “only the consumption corresponding to the last twenty-four months may be billed” (Walloon electricity decree, article 34, § 1, 2°).
 
-The limit rises to five years if the customer's bad faith is proven and the DSO also failed in its reading obligations. The technical regulation cites, among other things, deliberately refusing access to the meter and deliberately wrong readings (article V.77, § 2). A correction in your favour is not limited to twenty-four months.
+The limit rises to five years if the customer's bad faith is proven and the DSO also failed in its reading obligations. The technical regulation cites, among other things, deliberately refusing access to the meter and deliberately wrong readings (article V.77, § 5). A correction in your favour is not limited to twenty-four months.
 
 ## Disputing the bill with the supplier: deadlines and form
 
@@ -149,7 +150,7 @@ If the supplier or the DSO does not reply, or replies badly, two ombudsman servi
 
 **Adjust your instalments.** The decree requires the supplier to adapt your instalment invoices “on the basis of the readings taken by the customer and validated by the distribution system operator”, smoothing consumption over twelve months (Walloon electricity decree, article 34*bis*, 4°). Ask it to recalculate the instalment on your actual consumption. If the supplier proposes an adjustment itself, it must give reasons, and according to the FPS Economy it may only charge it if you do not object within fifteen days ([FPS Economy](https://news.economie.fgov.be/214501-un-probleme-avec-votre-contrat-d-energie-des-solutions-existent/), in French).
 
-**Read your meter.** Send your readings to your DSO, up to once a quarter: it must validate them and pass them to the supplier, in particular to adjust instalments (Walloon electricity decree, article 34, § 1, 2°). With a smart meter, readings are taken remotely and a monthly statement replaces the instalments, as [our guide to reading the bill](/en/guides/read-electricity-bill-belgium/) explains.
+**Read your meter.** Send your readings to your DSO, up to once a quarter: it must validate them and pass them to the supplier, in particular to adjust instalments (Walloon electricity decree, article 34, § 1, 2°). [Our meter-reading guide](/en/guides/electricity-meter-reading-wallonia/) shows how to read each meter and how to send your readings to each of the five Walloon DSOs. With a smart meter, readings are taken remotely and a monthly statement replaces the instalments, as [our guide to reading the bill](/en/guides/read-electricity-bill-belgium/) explains.
 
 **Compare your price.** If the price was the cause, the contract is the fix: the energy component is the only block of the bill that changes from one supplier to another. [“Reduce your electricity bill: Wallonia 2026”](/en/guides/reduce-electricity-bill-wallonia/) and [“Cheaper electricity without switching supplier”](/en/guides/cheaper-electricity-without-switching-supplier/) set out the options.
 
@@ -164,7 +165,7 @@ If the supplier or the DSO does not reply, or replies badly, two ombudsman servi
 ## Key takeaways
 
 1. **Check in order**: estimated reading, instalments too low, higher price, changed circumstances, EAN or period error.
-2. **A reading is corrected by the DSO**, a price by the supplier; a dated photo of the meter is your best evidence.
+2. **A reading is corrected by the DSO**, contacted directly or through your supplier, a price by the supplier; a dated photo of the meter is your best evidence.
 3. **A catch-up after estimated readings is capped at twenty-four months** in Wallonia, unless bad faith is proven.
 4. **Dispute in writing before the due date** and pay the undisputed part.
 5. **Ask for a payment plan straight away**; at the formal notice it becomes a framed, free right.
@@ -172,7 +173,7 @@ If the supplier or the DSO does not reply, or replies badly, two ombudsman servi
 
 > ### Find your grid operator
 >
-> To have a reading corrected, the DSO is the one to contact. Enter your postcode: OptimCE's free tool shows your electricity and gas DSO, in all 565 Belgian municipalities.
+> The DSO is the one that corrects a reading, whether you contact it directly or through your supplier. Enter your postcode: OptimCE's free tool shows your electricity and gas DSO, in all 565 Belgian municipalities.
 >
 > **[Find my DSO →](/en/tools/find-my-dso/)**
 
@@ -206,11 +207,14 @@ Not in Wallonia, unless bad faith is proven: after several years of estimated re
 
 - [Wallex — Decree of 12 April 2001 on the organisation of the regional electricity market, consolidated version](https://wallex.wallonie.be/eli/loi-decret/2001/04/12/2001027238) (in French) — article 2, 58° (winter period from 1 November to 31 March), article 31*ter* (compensation for billing errors), article 33*bis*/1 (fifteen-day due date, fourteen-day reminder since the decree of 19 December 2025, formal notice, reasonable payment plan, form, transmission to the CPAS, suspension of the procedure, disconnection one month after the judgment is served), article 33*bis*/4 (no disconnection in the winter period), article 34, § 1, 2° (validation and transmission of customer readings, twenty-four-month and five-year correction limits introduced by the decree of 25 April 2024), article 34*bis*, § 1, 4° (invitation to agree a reasonable payment plan, adjustment of instalments smoothed over twelve months). Checked on 29 October 2026.
 - [Wallex — Walloon Government order of 30 March 2006 on public service obligations in the electricity market](https://wallex.wallonie.be/eli/arrete/2006/03/30/2006201391) (in French) — article 7 (sixty-day deadline for the statement, refund within thirty days), article 7*bis* (explanation within five working days, suspension of the procedure), articles 29 to 31*bis* (reminder, formal notice above 100 €, free reading for an estimated reading, reasonable payment plan, fees capped at 7.50 €, 15 € and 55 € a year, payment default, prepayment activated within forty days at most), article 37*ter* (recovery suspended during regional mediation). Checked on 29 October 2026.
-- [CWaPE — Decision CD-26h27-CWaPE-1284 approving the technical regulation for the management of electricity distribution grids in Wallonia](https://www.cwape.be/sites/default/files/cwape-documents/CD-26h27-CWaPE-1284-D%C3%A9cision%20d%27approbation%20du%20RTDE%20%26%20annexes_site.pdf) (in French) — articles V.76 (disputing a reading, new physical reading, new reading once per statement, moving house) and V.77 (correction, cases of bad faith), identical to the version in force. Document dated 27 August 2026, checked on 29 October 2026.
+- [CWaPE — Technical regulation for the management of electricity distribution grids in Wallonia, proposal CD-21a29-CWaPE-1874](https://www.cwape.be/documents/download/4448) (in French), approved by the Walloon Government Order of 27 May 2021, version in force — articles V.76, §§ 1 to 3 (disputing a reading, new physical reading, new reading once per statement) and V.77, § 5 (examples of bad faith). Checked on 15 November 2026.
+- [CWaPE — Formulaire de reprise des énergies](https://www.cwape.be/formulaire-de-reprise-des-energies) (in French) — two copies, legal value of the document. Checked on 15 November 2026.
+- [CWaPE — Decision CD-26h27-CWaPE-1284 approving the technical regulation for the management of electricity distribution grids in Wallonia](https://www.cwape.be/sites/default/files/cwape-documents/CD-26h27-CWaPE-1284-D%C3%A9cision%20d%27approbation%20du%20RTDE%20%26%20annexes_site.pdf) (in French) — article V.76, §§ 2 and 3 (new physical reading, new reading once per statement), identical to the version in force, and § 4, new (no consumption before moving in for the new user), with its commentary (contract starting before the actual move-in when the home was left without a contract). Document dated 27 August 2026, not yet published in the Belgian Official Gazette, checked on 29 October and 15 November 2026.
 - [CWaPE — Regional Energy Ombudsman Service: mediation](https://www.cwape.be/srme/mediation) (in French) — prior written step, twenty working days, urgent cases, filing a complaint, regional and federal remits, non-binding recommendation, one-year limit. [CWaPE — Compensation](https://www.cwape.be/srme/indemnisations) (in French) — compensation procedure. Checked on 29 October 2026.
 - [Energy Ombudsman Service — FAQ](https://www.mediateurenergie.be/fr/faq) (in French) — free of charge, five- or ten-day wait, acknowledgement within three weeks, 90-day handling, collection of disputed amounts frozen, non-binding recommendation, possible refusal after one year. Undated page, checked on 29 October 2026.
 - [FPS Economy — A problem with your energy contract? Solutions exist](https://news.economie.fgov.be/214501-un-probleme-avec-votre-contrat-d-energie-des-solutions-existent/) (in French) — reasoned adjustment of instalments, objection within fifteen days, suspension of collection of disputed amounts. News item of 18 May 2022, checked on 29 October 2026.
 - [ORES — Readings and consumption](https://www.ores.be/faq/releves-et-consommation) (in French) — electromechanical meters read every two years, myORES and Indexphone (078/15.70.01), estimates based on consumption history, corrected data sent to the supplier. Checked on 29 October 2026.
+- [RESA — Mes index ont été estimés. Comment faire pour communiquer les bons index ?](https://www.resa.be/fr/aide-et-contact/index/contester-mes-index/mes-index-ont-ete-estimes-comment-faire-pour-communiquer-les-bons-index/) (in French) — correction request through the supplier or directly to mri@resa.be, with a dated photo of the meter. Checked on 15 November 2026.
 - [CREG — Monthly electricity and natural gas dashboard, September 2026](https://www.creg.be/sites/default/files/assets/Prices/Dashboard/tableaudebord202609.pdf) (in French) — average “all-in” price for a Walloon household using 3,500 kWh on a single-rate meter, 1,474.73 € a year. Checked on 29 October 2026.
 - [BRUGEL — When to apply for protected-customer status?](https://brugel.brussels/themes/se-proteger-d-une-coupure-9/quand-demander-le-statut-de-client-protege-59) (in French) and [BRUGEL Dispute Service](https://www.litigesenergie.brussels) — Brussels recovery procedure, fees capped at 55 €, justice of the peace, winter truce, protected-customer status. Checked on 29 October 2026.
 - [Vlaanderen.be — What if you do not pay your electricity and gas bill?](https://www.vlaanderen.be/bouwen-wonen-en-energie/elektriciteit-en-aardgas/factuur-voor-elektriciteit-en-aardgas/wat-als-u-uw-factuur-voor-elektriciteit-en-aardgas-niet-betaalt) (in Dutch) — Flemish procedure, payment plan, 45 days' notice, prepayment at Fluvius, 75 € emergency credit, 10 amps, no disconnection from 1 December to 1 April. Checked on 29 October 2026.

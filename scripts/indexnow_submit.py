@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Incremental IndexNow submitter for a Jekyll site.
 
-Parses a built sitemap.xml, diffs it against a small JSON state file, and POSTs
-only the new/changed URLs to the IndexNow API (Bing/Yandex/Naver/Seznam). Google
-does NOT use IndexNow; this is purely additive and never touches the sitemap or
-robots.txt.
+Parses a built sitemap.xml (and, with --redirects, the redirect table), diffs
+them against a small JSON state file, and POSTs only the new/changed URLs to the
+IndexNow API (Bing/Yandex/Naver/Seznam). Google does NOT use IndexNow; this is
+purely additive and never touches the sitemap or robots.txt.
 
 stdlib only (Python 3.11+). No third-party packages.
 
@@ -18,6 +18,7 @@ If any of the three differ, the verifying crawlers reject the batch.
 from __future__ import annotations
 
 import argparse
+import csv
 import json
 import os
 import sys
@@ -46,6 +47,26 @@ def parse_sitemap(path):
     return urls
 
 
+REDIRECT_PREFIX = "redirect:"
+
+
+def parse_redirects(path, host):
+    """Return {old_url: "redirect:<new_url>"} for every row of the redirect table.
+
+    GitHub Pages serves a moved URL as an HTML stub with a 200, not a 301, so a
+    search engine keeps it as a page of its own until it re-crawls it. Each
+    source is tracked in the state with its target as the value: it is
+    submitted when first seen, and again only if its target changes.
+    """
+    if not path:
+        return {}
+    origin = f"https://{host}"
+    with open(path, "r", encoding="utf-8-sig", newline="") as fh:
+        rows = list(csv.DictReader(fh))
+    return {f"{origin}{row['from'].strip()}": f"{REDIRECT_PREFIX}{origin}{row['to'].strip()}"
+            for row in rows}
+
+
 def apply_excludes(urls, excludes):
     if not excludes:
         return dict(urls)
@@ -59,21 +80,25 @@ def load_state(path):
         return json.load(fh)
 
 
-def compute_diff(sitemap_urls, state):
+def compute_diff(sitemap_urls, state, redirect_urls=None):
     """Submit URLs absent from state, or whose lastmod changed.
 
     A URL with no lastmod is submitted once (when first seen) and never again.
-    `removed` lists URLs known from a previous run but gone from the sitemap:
-    moved (now a redirect stub) or deleted.
+    `redirected` lists redirect sources that are new to the state or whose
+    target changed. `removed` lists URLs known from a previous run that are
+    neither in the sitemap nor redirect sources: deleted, or moved without
+    a redirect table to say so.
     """
+    redirect_urls = redirect_urls or {}
     to_submit = []
     for url, lastmod in sitemap_urls.items():
         if url not in state:
             to_submit.append(url)
         elif lastmod is not None and state.get(url) != lastmod:
             to_submit.append(url)
-    removed = [u for u in state if u not in sitemap_urls]
-    return to_submit, removed
+    redirected = [u for u, target in redirect_urls.items() if state.get(u) != target]
+    removed = [u for u in state if u not in sitemap_urls and u not in redirect_urls]
+    return to_submit, redirected, removed
 
 
 def post_batch(payload):
@@ -98,7 +123,11 @@ def main(argv=None):
     parser.add_argument("--sitemap", required=True, help="Path to built sitemap.xml")
     parser.add_argument("--host", required=True, help="Site host, e.g. www.optimce.be")
     parser.add_argument("--state", default=".indexnow/submitted.json",
-                        help="JSON state file (url -> lastmod). Missing = first run.")
+                        help="JSON state file (url -> lastmod, or redirect:<target> "
+                             "for a redirect source). Missing = first run.")
+    parser.add_argument("--redirects", default=None,
+                        help="Redirect table (CSV with from,to paths). Each source is "
+                             "submitted once, and again when its target changes.")
     parser.add_argument("--exclude", action="append", default=[],
                         help="Substring filter (repeatable); matching URLs are skipped.")
     parser.add_argument("--key", default=os.environ.get("INDEXNOW_KEY", ""),
@@ -112,31 +141,36 @@ def main(argv=None):
     key_location = args.key_location or f"https://{args.host}/{args.key}.txt"
 
     sitemap_urls = apply_excludes(parse_sitemap(args.sitemap), args.exclude)
+    redirect_urls = apply_excludes(parse_redirects(args.redirects, args.host), args.exclude)
     state = load_state(args.state)
-    to_submit, removed = compute_diff(sitemap_urls, state)
+    to_submit, redirected, removed = compute_diff(sitemap_urls, state, redirect_urls)
 
     print(f"[indexnow] sitemap={args.sitemap} host={args.host} state={args.state}")
-    print(f"[indexnow] total={len(sitemap_urls)} known={len(state)} "
-          f"to_submit={len(to_submit)} removed={len(removed)}")
+    print(f"[indexnow] total={len(sitemap_urls)} redirects={len(redirect_urls)} "
+          f"known={len(state)} to_submit={len(to_submit)} "
+          f"redirected={len(redirected)} removed={len(removed)}")
     for u in to_submit:
         print(f"[indexnow]   + {u}  (lastmod={sitemap_urls[u]})")
+    for u in redirected:
+        print(f"[indexnow]   > {u}  (-> {redirect_urls[u][len(REDIRECT_PREFIX):]})")
     for u in removed:
         print(f"[indexnow]   - {u}  (gone from the sitemap)")
 
-    # URLs that left the sitemap are submitted once as well. IndexNow accepts
-    # added, updated and deleted URLs alike; notifying the old address of a
-    # moved page makes the engines re-crawl it and find the redirect, instead
-    # of keeping it indexed until their next scheduled visit. After a
-    # successful submission they are pruned from the state below, so they are
-    # never sent again.
-    batch_urls = to_submit + removed
+    # Old addresses are submitted as well. IndexNow accepts added, updated and
+    # deleted URLs alike; notifying the old address of a moved page makes the
+    # engines re-crawl it and find the redirect, instead of keeping it as a
+    # duplicate of its target until their next scheduled visit. A redirect
+    # source stays in the state, so it is sent again only if its target
+    # changes; a URL with no redirect is pruned below and never sent again.
+    batch_urls = to_submit + redirected + removed
 
     if args.dry_run:
         print("[indexnow] dry-run: no network call, state left unchanged.")
         return 0
 
-    # Rebuild state from the current (filtered) sitemap so removed URLs are pruned.
-    new_state = dict(sitemap_urls)
+    # Rebuild state from the current (filtered) sitemap and redirect table, so
+    # removed URLs are pruned.
+    new_state = {**redirect_urls, **sitemap_urls}
 
     if not batch_urls:
         print("[indexnow] Nothing to submit.")
@@ -170,8 +204,9 @@ def main(argv=None):
             return 1
 
     write_state(args.state, new_state)
-    print(f"[indexnow] Submitted {len(to_submit)} new/changed and {len(removed)} "
-          f"removed URL(s); state updated ({len(new_state)} tracked).")
+    print(f"[indexnow] Submitted {len(to_submit)} new/changed, {len(redirected)} "
+          f"redirected and {len(removed)} removed URL(s); state updated "
+          f"({len(new_state)} tracked).")
     return 0
 
 

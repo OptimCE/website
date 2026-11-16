@@ -1,0 +1,22 @@
+{%- comment -%}
+  Stub for a moved URL (one per row of _data/redirects.csv). Replaces the
+  jekyll-redirect-from template, which titled every stub "Redirecting…" in
+  lang="en-US". page.lang and page.redirect_target_title come from
+  _plugins/redirect_stubs.rb.
+
+  Keep it under 2000 characters with its http-equiv="refresh": that is how
+  scripts/check_seo.py and scripts/check_site.py tell a stub from a page.
+{%- endcomment -%}
+{%- assign t = site.data.i18n[page.lang].redirect -%}
+{%- assign target_title = page.redirect_target_title | escape -%}
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+  <meta charset="utf-8">
+  <title>{{ t.title }} → {{ target_title }}{% if page.redirect_variant %} ({{ page.redirect_variant }}){% endif %}</title>
+  <link rel="canonical" href="{{ page.redirect.to }}">
+  <script>location="{{ page.redirect.to }}"</script>
+  <meta http-equiv="refresh" content="0; url={{ page.redirect.to }}">
+  <meta name="robots" content="noindex">
+  <h1>{{ t.title }}</h1>
+  <p>{{ t.new_address | fr_spacing: page.lang }} <a href="{{ page.redirect.to }}">{{ target_title | fr_spacing: page.lang }}</a></p>
+</html>

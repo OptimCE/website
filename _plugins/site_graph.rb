@@ -25,7 +25,9 @@
 #   8. URL guard        two files writing the same URL fail the build
 #
 # jekyll-redirect-from (:normal) then turns redirect_from into stub pages, and
-# jekyll-sitemap / jekyll-feed (:lowest) run after that.
+# jekyll-sitemap / jekyll-feed (:lowest) run after that. Before rendering, a
+# hook gives each stub the language and title of its target
+# (_plugins/redirect_stubs.rb, template _layouts/redirect.html).
 module OptimCE
   class SiteGraph < Jekyll::Generator
     safe true

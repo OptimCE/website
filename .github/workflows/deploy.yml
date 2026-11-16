@@ -105,6 +105,7 @@ jobs:
         run: |
           python scripts/indexnow_submit.py \
             --sitemap sitemap.xml \
+            --redirects _data/redirects.csv \
             --host www.optimce.be
       - name: Commit updated IndexNow state
         if: always()

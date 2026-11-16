@@ -9,6 +9,7 @@ tags: [guide]
 lang: fr
 ref: regularisation-bill-too-high
 pillar: facture-electricite
+last_modified_at: 2026-11-15 06:00:00 +0100
 permalink: /guides/facture-regularisation-trop-elevee-que-faire/
 faq:
   - q: "Dois-je payer une facture de régularisation que je conteste ?"
@@ -45,7 +46,7 @@ L'ordre va du contrôle le plus rapide au plus long : les deux premiers se font 
 
 | Cause | Ce que vous lisez sur le décompte | À qui vous adresser |
 |---|---|---|
-| 1. Index estimé | la mention « estimé » à côté d'un index | le gestionnaire de réseau (GRD) |
+| 1. Index estimé | la mention « estimé » à côté d'un index | le gestionnaire de réseau (GRD), directement ou via votre fournisseur |
 | 2. Acomptes trop bas | plus de kWh réels que de kWh couverts par les acomptes | le fournisseur |
 | 3. Prix en hausse | un kWh plus cher que sur le décompte précédent | le fournisseur, puis un comparateur |
 | 4. Situation changée | plus de kWh, sans erreur de relevé | personne : ajustez vos acomptes |
@@ -71,24 +72,24 @@ Dans ce cas, le solde est dû ; la correction se fait sur les acomptes suivants.
 
 **4. Une situation qui a changé.** Pompe à chaleur, voiture électrique, nouvel occupant, télétravail, appareil défectueux : la consommation a grimpé et la facture est juste. Ajustez les acomptes pour que l'écart ne se reproduise pas.
 
-**5. Une erreur pure.** Vérifiez le code EAN, le numéro de compteur et la période facturée. Dans un immeuble, un EAN échangé avec celui d'un voisin vous fait payer sa consommation ; notre guide [« Code EAN électricité : où le trouver et l'utiliser »](/guides/code-ean-electricite-ou-le-trouver/) explique comment le contrôler. Après un déménagement, le nouvel occupant « ne peut se voir attribuer des consommations antérieures à son entrée dans les lieux » (règlement technique pour la gestion des réseaux de distribution d'électricité en Wallonie, article V.76, § 4) : l'index du document de reprise fait foi.
+**5. Une erreur pure.** Vérifiez le code EAN, le numéro de compteur et la période facturée. Dans un immeuble, un EAN échangé avec celui d'un voisin vous fait payer sa consommation ; notre guide [« Code EAN électricité : où le trouver et l'utiliser »](/guides/code-ean-electricite-ou-le-trouver/) explique comment le contrôler. Après un déménagement, gardez le [formulaire de reprise des énergies](https://www.cwape.be/formulaire-de-reprise-des-energies) signé avec l'occupant précédent : la CWaPE précise que « le document a valeur juridique ». Si le logement est resté sans contrat entre deux occupants, votre contrat peut aujourd'hui démarrer avant votre entrée effective, et c'est à vous de contester, preuve à l'appui. Le nouveau règlement technique, approuvé par la CWaPE le 27 août 2026 mais pas encore publié au Moniteur belge, corrige ce point : le nouvel utilisateur « ne peut se voir attribuer des consommations antérieures à son entrée dans les lieux » (article V.76, § 4).
 
 ## Index estimé : le faire corriger par le GRD
 
-En Wallonie, le gestionnaire de réseau de distribution relève les compteurs, valide les index que vous lui communiquez et transmet les données au fournisseur, qui facture ce qu'il reçoit. C'est donc le GRD qui corrige un index ; le fournisseur refait ensuite la facture. Si vous ne savez pas qui gère votre réseau, **[l'outil « Quel est mon GRD ? »](/outils/quel-est-mon-grd/)** le trouve à partir de votre code postal, et [la liste par commune](/outils/quel-est-mon-grd/communes/) couvre les 565 communes belges.
+En Wallonie, le gestionnaire de réseau de distribution relève les compteurs, valide les index que vous lui communiquez et transmet les données au fournisseur, qui facture ce qu'il reçoit. C'est donc le GRD qui corrige un index, même quand la demande passe par le fournisseur ; celui-ci refait ensuite la facture. Si vous ne savez pas qui gère votre réseau, **[l'outil « Quel est mon GRD ? »](/outils/quel-est-mon-grd/)** le trouve à partir de votre code postal, et [la liste par commune](/outils/quel-est-mon-grd/communes/) couvre les 565 communes belges.
 
-Le règlement technique wallon ouvre deux voies (article V.76, identique dans la version approuvée par la CWaPE le 27 août 2026) :
+Le règlement technique wallon ouvre deux voies (article V.76, §§ 2 et 3, identiques dans la version approuvée par la CWaPE le 27 août 2026) :
 
 - **si l'index contesté vient du GRD**, demandez un nouveau relevé physique : gratuit s'il révèle une erreur, facturé au tarif approuvé par la CWaPE sinon ;
 - **si l'index venait de vous**, transmettez un nouveau relevé, « une seule fois par facture de décompte », avec « tout élément probant » : une photo datée du compteur.
 
-Chez ORES, un technicien « passe tous les deux ans » relever les compteurs électromécaniques ; les autres années, vous communiquez l'index via myORES ou l'Indexphone au 078/15.70.01. Si l'index vous semble faux, ORES conseille de contacter d'abord votre fournisseur ; les données corrigées sont ensuite « envoyées à votre fournisseur d'énergie pour qu'il établisse une nouvelle facture » ([ORES](https://www.ores.be/faq/releves-et-consommation)). Les autres GRD wallons appliquent le même règlement technique.
+Chez ORES, un technicien « passe tous les deux ans » relever les compteurs électromécaniques ; les autres années, vous communiquez l'index via myORES ou l'Indexphone au 078/15.70.01. Si l'index vous semble faux, ORES conseille de contacter d'abord votre fournisseur ; les données corrigées sont ensuite « envoyées à votre fournisseur d'énergie pour qu'il établisse une nouvelle facture » ([ORES](https://www.ores.be/faq/releves-et-consommation)). RESA accepte aussi une demande directe à mri@resa.be, avec une photo datée du compteur. Le règlement technique permet de contester un index auprès du GRD ou par l'intermédiaire de votre fournisseur (article V.76, § 1er) ; [notre guide du relevé d'index](/guides/releve-index-compteur-electricite/) donne la porte d'entrée de chacun des cinq GRD wallons.
 
 ### La limite des vingt-quatre mois
 
 Après plusieurs années d'index estimés, le premier relevé réel peut révéler un gros rattrapage. Il est plafonné depuis le décret du 25 avril 2024 : sauf mauvaise foi prouvée du client, la rectification et la facture qui en découle « ne peut se rapporter à une période de plus de vingt-quatre mois précédant le dernier relevé réel ». Le GRD répartit les kWh entre les deux derniers relevés réels sur toute la période, et « seule la consommation correspondant aux vingt-quatre derniers mois peut être facturée » (décret électricité, article 34, § 1er, 2°).
 
-La limite passe à cinq ans en cas de mauvaise foi prouvée du client et de manquement du GRD à ses obligations de relevé. Le règlement technique cite notamment le refus volontaire d'accès au compteur et les index volontairement erronés (article V.77, § 2). Une rectification en votre faveur, elle, n'est pas limitée à vingt-quatre mois.
+La limite passe à cinq ans en cas de mauvaise foi prouvée du client et de manquement du GRD à ses obligations de relevé. Le règlement technique cite notamment le refus volontaire d'accès au compteur et les index volontairement erronés (article V.77, § 5). Une rectification en votre faveur, elle, n'est pas limitée à vingt-quatre mois.
 
 ## Contester auprès du fournisseur : délais et forme
 
@@ -149,7 +150,7 @@ Si le fournisseur ou le GRD ne répond pas, ou répond mal, deux services de mé
 
 **Ajustez vos acomptes.** Le décret oblige le fournisseur à adapter vos factures d'acompte « sur la base des index relevés par le client et validé par le gestionnaire de réseau », en lissant la consommation sur douze mois (décret électricité, article 34*bis*, 4°). Demandez-lui de recalculer l'acompte sur votre consommation réelle. Si c'est lui qui propose un ajustement, il doit le motiver, et selon le SPF Économie il ne peut le facturer que si vous ne vous y opposez pas dans les quinze jours ([SPF Économie](https://news.economie.fgov.be/214501-un-probleme-avec-votre-contrat-d-energie-des-solutions-existent/)).
 
-**Relevez vos index.** Transmettez-les à votre GRD, jusqu'à une fois par trimestre : il doit les valider et les transmettre au fournisseur, notamment pour adapter les acomptes (décret électricité, article 34, § 1er, 2°). Avec un compteur communicant, le relevé se fait à distance, et un décompte mensuel remplace les acomptes, comme l'explique [notre guide de lecture de la facture](/guides/comprendre-facture-electricite-ligne-par-ligne/).
+**Relevez vos index.** Transmettez-les à votre GRD, jusqu'à une fois par trimestre : il doit les valider et les transmettre au fournisseur, notamment pour adapter les acomptes (décret électricité, article 34, § 1er, 2°). [Notre guide du relevé d'index](/guides/releve-index-compteur-electricite/) montre comment lire chaque compteur et par quel canal transmettre vos index à chacun des cinq GRD wallons. Avec un compteur communicant, le relevé se fait à distance, et un décompte mensuel remplace les acomptes, comme l'explique [notre guide de lecture de la facture](/guides/comprendre-facture-electricite-ligne-par-ligne/).
 
 **Comparez votre prix.** Si la cause était le prix, elle se règle par le contrat : la composante énergie est le seul bloc de la facture qui change d'un fournisseur à l'autre. [« Réduire sa facture d'électricité en Wallonie »](/guides/reduire-facture-electricite-wallonie/) et [« Baisser sa facture sans changer de fournisseur »](/guides/electricite-moins-chere-sans-changer-de-fournisseur/) détaillent les options.
 
@@ -164,7 +165,7 @@ Si le fournisseur ou le GRD ne répond pas, ou répond mal, deux services de mé
 ## Ce qu'il faut retenir
 
 1. **Vérifiez dans l'ordre** : index estimé, acomptes trop bas, prix en hausse, situation changée, erreur d'EAN ou de période.
-2. **Un index se corrige chez le GRD**, un prix chez le fournisseur ; une photo datée du compteur est votre meilleure preuve.
+2. **Un index est corrigé par le GRD**, saisi directement ou par votre fournisseur, un prix par le fournisseur ; une photo datée du compteur est votre meilleure preuve.
 3. **Un rattrapage d'index estimé est plafonné à vingt-quatre mois** en Wallonie, sauf mauvaise foi prouvée.
 4. **Contestez par écrit avant l'échéance** et payez la partie non contestée.
 5. **Le plan de paiement se demande tout de suite** ; à la mise en demeure, il devient un droit encadré et gratuit.
@@ -172,7 +173,7 @@ Si le fournisseur ou le GRD ne répond pas, ou répond mal, deux services de mé
 
 > ### Trouvez votre gestionnaire de réseau
 >
-> Pour faire corriger un index, c'est à lui qu'il faut s'adresser. Entrez votre code postal : l'outil gratuit d'OptimCE affiche votre GRD d'électricité et de gaz, dans les 565 communes belges.
+> C'est lui qui corrige un index, que vous le contactiez directement ou par votre fournisseur. Entrez votre code postal : l'outil gratuit d'OptimCE affiche votre GRD d'électricité et de gaz, dans les 565 communes belges.
 >
 > **[Quel est mon GRD ? →](/outils/quel-est-mon-grd/)**
 
@@ -206,11 +207,14 @@ Non, en Wallonie, sauf mauvaise foi prouvée : après des index estimés pendant
 
 - [Wallex — Décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité, version consolidée](https://wallex.wallonie.be/eli/loi-decret/2001/04/12/2001027238) — article 2, 58° (période hivernale du 1er novembre au 31 mars), article 31*ter* (indemnité pour erreur de facturation), article 33*bis*/1 (échéance de quinze jours, rappel de quatorze jours depuis le décret du 19 décembre 2025, mise en demeure, plan de paiement raisonnable, formulaire, transmission au CPAS, suspension de la procédure, coupure un mois après signification du jugement), article 33*bis*/4 (interdiction de coupure en période hivernale), article 34, § 1er, 2° (validation et transmission des index des clients, limite de rectification de vingt-quatre mois et de cinq ans introduite par le décret du 25 avril 2024), article 34*bis*, § 1er, 4° (invitation à conclure un plan de paiement raisonnable, adaptation des acomptes avec lissage sur douze mois). Consulté le 29 octobre 2026.
 - [Wallex — Arrêté du Gouvernement wallon du 30 mars 2006 relatif aux obligations de service public dans le marché de l'électricité](https://wallex.wallonie.be/eli/arrete/2006/03/30/2006201391) — article 7 (délai de soixante jours pour le décompte, remboursement en trente jours, mention du CPAS), article 7*bis* (explication en cinq jours ouvrables, suspension de la procédure), articles 29 à 31*bis* (rappel, mise en demeure au-delà de 100 €, relevé gratuit en cas d'index estimé, plan de paiement raisonnable, frais plafonnés à 7,50 €, 15 € et 55 € par an, défaut de paiement, activation du prépaiement en quarante jours au plus), article 37*ter* (suspension du recouvrement pendant la médiation régionale). Consulté le 29 octobre 2026.
-- [CWaPE — Décision CD-26h27-CWaPE-1284 d'approbation du règlement technique pour la gestion des réseaux de distribution d'électricité en Région wallonne](https://www.cwape.be/sites/default/files/cwape-documents/CD-26h27-CWaPE-1284-D%C3%A9cision%20d%27approbation%20du%20RTDE%20%26%20annexes_site.pdf) — articles V.76 (contestation d'un index, nouveau relevé physique, nouvel index une fois par décompte, déménagement) et V.77 (rectification, cas de mauvaise foi), identiques à la version en vigueur. Document du 27 août 2026, consulté le 29 octobre 2026.
+- [CWaPE — Règlement technique pour la gestion des réseaux de distribution d'électricité en Région wallonne, proposition CD-21a29-CWaPE-1874](https://www.cwape.be/documents/download/4448), approuvé par l'arrêté du Gouvernement wallon du 27 mai 2021, version en vigueur — articles V.76, §§ 1er à 3 (contestation d'un index, nouveau relevé physique, nouvel index une fois par décompte) et V.77, § 5 (exemples de mauvaise foi). Consulté le 15 novembre 2026.
+- [CWaPE — Formulaire de reprise des énergies](https://www.cwape.be/formulaire-de-reprise-des-energies) — deux exemplaires, valeur juridique du document. Consulté le 15 novembre 2026.
+- [CWaPE — Décision CD-26h27-CWaPE-1284 d'approbation du règlement technique pour la gestion des réseaux de distribution d'électricité en Région wallonne](https://www.cwape.be/sites/default/files/cwape-documents/CD-26h27-CWaPE-1284-D%C3%A9cision%20d%27approbation%20du%20RTDE%20%26%20annexes_site.pdf) — article V.76, §§ 2 et 3 (nouveau relevé physique, nouvel index une fois par décompte), identiques à la version en vigueur, et § 4, nouveau (aucune consommation antérieure à l'entrée dans les lieux pour le nouvel utilisateur), avec son commentaire (contrat qui démarre avant l'entrée effective quand le logement est resté sans contrat). Document du 27 août 2026, pas encore publié au Moniteur belge, consulté le 29 octobre et le 15 novembre 2026.
 - [CWaPE — Le Service régional de médiation pour l'énergie : la médiation](https://www.cwape.be/srme/mediation) — démarche écrite préalable, délai de vingt jours ouvrables, urgence, dépôt de la plainte, compétences régionales et fédérales, recommandation non contraignante, limite d'un an. [CWaPE — Indemnisations](https://www.cwape.be/srme/indemnisations) — procédure d'indemnisation. Consultés le 29 octobre 2026.
 - [Service de médiation de l'énergie — FAQ](https://www.mediateurenergie.be/fr/faq) — gratuité, délai de cinq ou dix jours, accusé de réception en trois semaines, traitement en 90 jours, gel de la perception des montants contestés, recommandation non contraignante, refus possible au-delà d'un an. Page non datée, consultée le 29 octobre 2026.
 - [SPF Économie — Un problème avec votre contrat d'énergie ? Des solutions existent](https://news.economie.fgov.be/214501-un-probleme-avec-votre-contrat-d-energie-des-solutions-existent/) — ajustement motivé des acomptes, opposition dans les quinze jours, suspension de la perception des montants contestés. Actualité du 18 mai 2022, consultée le 29 octobre 2026.
 - [ORES — Relevés et consommation](https://www.ores.be/faq/releves-et-consommation) — relevé tous les deux ans des compteurs électromécaniques, myORES et Indexphone (078/15.70.01), estimation sur l'historique, transmission des données corrigées au fournisseur. Consulté le 29 octobre 2026.
+- [RESA — Mes index ont été estimés. Comment faire pour communiquer les bons index ?](https://www.resa.be/fr/aide-et-contact/index/contester-mes-index/mes-index-ont-ete-estimes-comment-faire-pour-communiquer-les-bons-index/) — demande de rectification par le fournisseur ou directement à mri@resa.be, avec une photo datée du compteur. Consulté le 15 novembre 2026.
 - [CREG — Tableau de bord mensuel électricité et gaz naturel, septembre 2026](https://www.creg.be/sites/default/files/assets/Prices/Dashboard/tableaudebord202609.pdf) — prix moyen « all in » d'un ménage wallon de 3 500 kWh au compteur simple, 1 474,73 € par an. Consulté le 29 octobre 2026.
 - [Brugel — Quand demander le statut de client protégé ?](https://brugel.brussels/themes/se-proteger-d-une-coupure-9/quand-demander-le-statut-de-client-protege-59) et [Service des litiges de Brugel](https://www.litigesenergie.brussels) — procédure de recouvrement bruxelloise, frais limités à 55 €, juge de paix, trêve hivernale, statut de client protégé. Consultés le 29 octobre 2026.
 - [Vlaanderen.be — Wat als u uw factuur voor elektriciteit en aardgas niet betaalt?](https://www.vlaanderen.be/bouwen-wonen-en-energie/elektriciteit-en-aardgas/factuur-voor-elektriciteit-en-aardgas/wat-als-u-uw-factuur-voor-elektriciteit-en-aardgas-niet-betaalt) — procédure flamande, afbetalingsplan, préavis de 45 jours, prépaiement chez Fluvius, crédit de secours de 75 €, 10 ampères, interdiction de coupure du 1er décembre au 1er avril. Consulté le 29 octobre 2026.
