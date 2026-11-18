@@ -9,7 +9,7 @@ tags: [guide]
 lang: nl
 ref: dso-supplier-roles
 pillar: reseau-grd
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-17
 permalink: /nl/gidsen/netbeheerder-leverancier-elia-wie-doet-wat/
 faq:
   - q: "Wat is het verschil tussen de netbeheerder en de energieleverancier?"
@@ -135,7 +135,7 @@ De CREG publiceert elke maand de verdeling van een typische factuur. Voor een ge
 
 Het gevolg: **wie van leverancier verandert, raakt aan zo'n 43 tot 45 % van de factuur**. De nettarieven hangen af van uw netbeheerder, dus van uw adres, en van uw tariefformule; de belastingen van de wetgever.
 
-Binnen het netblok weegt de distributie veel zwaarder dan het transport. Volgens het tarief van ORES in 2026 betaalt een Waals gezin met 3 500 kWh op een enkelvoudige meter ongeveer **433 € inclusief btw aan distributie** (14,10 € vast deel en 11,98 c€/kWh), tegenover **96 € transport** dat voor Elia wordt doorgerekend.
+Binnen het netblok weegt de distributie veel zwaarder dan het transport. Volgens het tarief van ORES in 2026 betaalt een Waals gezin met 3 500 kWh op een enkelvoudige meter ongeveer **433 € inclusief btw aan distributie** (14,10 € vast deel en 11,98 c€/kWh), tegenover **96 € transport** dat voor Elia wordt doorgerekend. Hoeveel dat per Waalse netbeheerder verschilt, van 400 € bij AIEG tot 495 € bij AIESH voor hetzelfde gezin, staat in [“Nettarieven Wallonië: 5 netbeheerders vergeleken”](/nl/gidsen/distributienettarieven-wallonie-vergelijking/).
 
 *Aannames: tariefoverzicht 2026 van de CWaPE (bijgewerkt op 3 februari 2026), residentiële klanten op laagspanning zonder piekmeting. De methode verschilt van die van de CREG: tel deze bedragen niet op bij de vorige tabel. De Vlaamse distributienettarieven, die de VREG jaarlijks goedkeurt, verschillen per netgebied.*
 

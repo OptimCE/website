@@ -2,7 +2,7 @@
 layout: post
 title: "Elektriciteitsfactuur verlagen: Wallonië 2026"
 date: 2026-07-28 10:00:00 +0200
-last_modified_at: 2026-10-26 06:00:00 +0100
+last_modified_at: 2026-11-17 06:00:00 +0100
 author: "Eric van OptimCE"
 excerpt: "Officiële vergelijker, nieuw Impact-tarief, sociaal tarief, premiedeadline van 30 september, zelfverbruik en energiedelen: tien Waalse hefbomen, berekend op basis van de door de CWaPE goedgekeurde ORES-tarieflijst 2026. Zes ervan kosten niets. Voor elke hefboom de realistische jaarwinst, de voorwaarde en de doorlooptijd."
 description: "Tien concrete, becijferde en gestaafde hefbomen om uw elektriciteitsfactuur in Wallonië te verlagen in 2026 — van de officiële vergelijker tot energiedelen."
@@ -30,7 +30,7 @@ Uw elektriciteitsfactuur is niet gedaald, en dat verbeeldt u zich niet. De groot
 
 Dit artikel legt het probleem niet opnieuw uit. Het somt op wat u **in Wallonië, in 2026** concreet kunt doen. Tien hefbomen, gerangschikt van de beste verhouding tussen opbrengst en inspanning tot de meest veeleisende. **De eerste zes kosten niets** — geen werken, geen materiaal, en voor de helft ervan zelfs geen gewoonteverandering.
 
-Een woord over de cijfers. De meeste artikels over dit onderwerp schrijven ramingen uit tweede hand over. Wat hieronder volgt, komt uit de **periodieke ORES-tarieflijst voor 2026, op 18 december 2025 goedgekeurd door de CWaPE** ([tariefdocument](https://www.cwape.be/sites/default/files/cwape-documents/ORES%20-%20Tarifs%20p%C3%A9riodiques%20de%20pr%C3%A9l%C3%A8vement%202026_0.pdf)), uit de kwartaalnota's van de CREG en van officiële pagina's van de Waalse Overheidsdienst. Waar een bedrag onze eigen berekening uit die lijsten is, staat dat erbij. ORES dekt het grootste deel van het Waalse grondgebied; hangt u af van RESA, AIEG of AIESH, dan kloppen de grootteordes maar verschillen de decimalen.
+Een woord over de cijfers. De meeste artikels over dit onderwerp schrijven ramingen uit tweede hand over. Wat hieronder volgt, komt uit de **periodieke ORES-tarieflijst voor 2026, op 18 december 2025 goedgekeurd door de CWaPE** ([tariefdocument](https://www.cwape.be/sites/default/files/cwape-documents/ORES%20-%20Tarifs%20p%C3%A9riodiques%20de%20pr%C3%A9l%C3%A8vement%202026_0.pdf)), uit de kwartaalnota's van de CREG en van officiële pagina's van de Waalse Overheidsdienst. Waar een bedrag onze eigen berekening uit die lijsten is, staat dat erbij. ORES dekt het grootste deel van het Waalse grondgebied; hangt u af van RESA, AIEG of AIESH, dan kloppen de grootteordes maar verschillen de decimalen. Wie de vijf netbeheerders wil vergelijken, REW inbegrepen, leest [“Nettarieven Wallonië: 5 netbeheerders vergeleken”](/nl/gidsen/distributienettarieven-wallonie-vergelijking/).
 
 <img src="/assets/images/diagrams/savings-levers-nl.svg"
      alt="Staafdiagram: tien hefbomen om de Waalse elektriciteitsfactuur te verlagen, gerangschikt naar jaarlijks bedrag — sociaal tarief ongeveer 400 €, prosumententarief 324 €, aanbod vergelijken meer dan 200 €, energiedelen ongeveer 145 € zonder werken en zonder leverancierswissel, Impact-tarief ongeveer 124 €, verbruik verschuiven ongeveer 100 €. Vier andere hefbomen hangen af van de situatie."

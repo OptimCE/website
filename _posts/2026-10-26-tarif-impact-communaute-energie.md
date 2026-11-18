@@ -2,6 +2,7 @@
 layout: post
 title: "Tarif Impact et communauté d'énergie"
 date: 2026-10-26 06:00:00 +0100
+last_modified_at: 2026-11-17 06:00:00 +0100
 author: "Eric d'OptimCE"
 excerpt: "Entre 11 h et 17 h, le tarif Impact facture le réseau cinq fois moins cher qu'entre 17 h et 22 h. C'est précisément la plage où les panneaux produisent : 70 % de la production d'une toiture namuroise y tombe. Pour un membre de communauté d'énergie, un kilowattheure partagé à midi cumule donc deux rabais qui ne viennent pas du même endroit. Voici le calcul chez ORES, ce que cela change pour la clé de répartition et le prix interne, et où en est le recours des fournisseurs."
 description: "Tarif Impact et communauté d'énergie : ce que coûte un kWh partagé en heures ECO, le calcul chez ORES, les conditions d'accès et le recours de la Febeg."
@@ -58,7 +59,7 @@ Le tarif dépend de votre gestionnaire de réseau (GRD). Si vous ne savez pas le
 
 *Hypothèses : tarifs de distribution 2026 en c€/kWh TVA comprise (6 %), obligations de service public, surcharges régionales et soldes régulatoires inclus, d'après la synthèse CWaPE du 3 février 2026. S'y ajoute le transport, 2,74 c€/kWh pour tous les GRD et toutes les plages. Hors cotisation énergie, accise spéciale et redevance de raccordement, identiques dans toutes les configurations.*
 
-Chez ORES, le terme proportionnel de distribution vaut **2,71 c€ en ECO et 13,54 c€ en PIC** hors TVA. La part fixe de la distribution, 13,30 €/an hors TVA, ne s'applique pas au tarif Impact.
+Chez ORES, le terme proportionnel de distribution vaut **2,71 c€ en ECO et 13,54 c€ en PIC** hors TVA. La part fixe de la distribution, 13,30 €/an hors TVA, ne s'applique pas au tarif Impact. Ce que ces écarts donnent en euros par an, GRD par GRD et profil par profil, est calculé dans [« Tarif de distribution en Wallonie : 5 GRD comparés »](/guides/tarif-distribution-electricite-wallonie/).
 
 ## Ce qui est facturé sur un kWh partagé, plage par plage
 

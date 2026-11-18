@@ -2,16 +2,18 @@
 layout: pillar
 title: "Netz und Netzbetreiber: Zähler und EAN-Code"
 subtitle: "Wer das Netz bis zu Ihrem Zähler betreibt, wen Sie wofür anrufen und was der Smart Meter für Sie ändert."
-description: "Netz und Netzbetreiber in der Wallonie: wer was macht zwischen Netzbetreiber und Lieferant, wo Sie Ihren EAN-Code finden, und der Smart Meter."
+description: "Netz und Netzbetreiber in der Wallonie: wer was macht zwischen Netzbetreiber und Lieferant, Verteilungstarife, EAN-Code und Smart Meter."
 lang: de
 ref: pillar-reseau-grd
 pillar: reseau-grd
 permalink: /de/ratgeber/netzbetreiber/
 breadcrumb_parent: guides
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-17
 sections:
   - title: "Verstehen, wer was macht"
     refs: [dso-supplier-roles, ean-code-belgium]
+  - title: "Was das Netz kostet"
+    refs: [distribution-tariffs-dso-wallonia]
   - title: "Ihr Zähler"
     refs: [meter-reading-index, smart-meter-wallonia]
 ---
@@ -24,6 +26,8 @@ Diese Aufteilung sagt Ihnen, wen Sie anrufen:
 
 Davor transportiert Elia den Strom auf Hochspannung, und vier Regulierungsbehörden teilen sich die Aufsicht: die CREG auf föderaler Ebene, CWaPE, BRUGEL und VREG in den Regionen. [„Netzbetreiber und Lieferant: wer macht was?“]({{ "dso-supplier-roles" | ref_url }}) stellt jeden Akteur vor, zeigt, was er auf der Rechnung ausmacht, und in welchen Fällen der Netzbetreiber selbst Ihr Lieferant wird.
 
+Der Netzbetreiber bestimmt auch einen Teil Ihrer Rechnung: den Verteilungstarif, den die CWaPE für jeden der fünf genehmigt. Bei gleichem Verbrauch ist er nicht überall gleich: Für 3 500 kWh im Eintarif reicht er 2026 von 400 € im Jahr bei der AIEG bis 495 € bei der AIESH, einschließlich Mehrwertsteuer. [„Verteilungstarife in der Wallonie: 5 im Vergleich“]({{ "distribution-tariffs-dso-wallonia" | ref_url }}) rechnet für jeden Netzbetreiber und jede Formel nach, erklärt, woher der Abstand kommt, und was Sie tun können, statt den Netzbetreiber zu wechseln, denn das ist nicht möglich.
+
 Für fast jeden dieser Schritte fragt man Sie nach Ihrem EAN-Code: achtzehn Ziffern, die mit 54 beginnen und auf jeder Rechnung stehen. Er bezeichnet weder Ihren Zähler noch Ihren Vertrag, sondern die Stelle, an der der Strom in Ihre Wohnung gelangt. Deshalb ändert er sich bei einem Lieferantenwechsel nicht, und Sie haben einen pro Energie. [„EAN-Code für Strom: wo finden, wozu er dient“]({{ "ean-code-belgium" | ref_url }}) erklärt, wo Sie ihn ohne Rechnung finden, wann Sie ihn angeben und wem Sie ihn nicht geben.
 
 Solange Ihr Zähler ein klassischer ist, lesen Sie ihn selbst ab: Der Netzbetreiber kommt mindestens alle zwei Jahre und lädt Sie in den anderen Jahren ein, Ihre Zählerstände zu melden. Ohne Zählerstand schätzt er Ihren Verbrauch, und die Differenz kommt mit der Jahresabrechnung zurück. [„Stromzähler ablesen, Zählerstand melden: Ratgeber“]({{ "meter-reading-index" | ref_url }}) zeigt, wie Sie jeden Zähler ablesen, und nennt die Kanäle jedes der fünf wallonischen Netzbetreiber.
@@ -32,4 +36,4 @@ Der Zähler selbst verändert sich. Seit Januar 2026 muss jeder Lieferpunkt in d
 
 Diese Viertelstundendaten sind auch die Voraussetzung für das Energieteilen. In einer Teilungsoperation liest der Netzbetreiber die Daten jedes Teilnehmers ab und wendet den Aufteilungsschlüssel an, der festlegt, welcher Anteil des geteilten Stroms jedem zugeordnet wird. Für einen Haushalt setzt die Teilnahme in der Praxis einen Smart Meter mit aktiver Kommunikationsfunktion voraus. [„Smart Meter in der Wallonie: der Ratgeber“]({{ "smart-meter-wallonia" | ref_url }}) erklärt, wie Sie ihn bei jedem der fünf Netzbetreiber bekommen, was er kostet und was das Abschalten seiner Kommunikation kostet.
 
-Die Ratgeber unten beginnen bei den Akteuren und wenden sich dann dem Zähler zu.
+Die Ratgeber unten beginnen bei den Akteuren und den Kosten des Netzes und wenden sich dann dem Zähler zu.

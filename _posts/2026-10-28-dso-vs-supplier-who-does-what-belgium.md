@@ -9,7 +9,7 @@ tags: [guide]
 lang: en
 ref: dso-supplier-roles
 pillar: reseau-grd
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-17
 permalink: /en/guides/dso-vs-supplier-who-does-what-belgium/
 faq:
   - q: "What is the difference between a DSO and an electricity supplier?"
@@ -136,7 +136,7 @@ The CREG publishes the breakdown of a typical bill every month. For a Walloon ho
 
 The consequence: **switching supplier acts on 43 % of the bill**. Network costs depend on your DSO, so on your address, and on the tariff formula you choose; taxes depend on lawmakers.
 
-Within the network block, distribution weighs far more than transmission. On the ORES 2026 tariff grid, a 3,500 kWh household on a single-rate meter pays about **433 € including VAT for distribution** (a 14.10 € fixed part plus 11.98 c€/kWh), against **96 € of transmission** re-invoiced for Elia. Since transmission is the same at all five Walloon DSOs, distribution is what makes network costs vary from one municipality to the next.
+Within the network block, distribution weighs far more than transmission. On the ORES 2026 tariff grid, a 3,500 kWh household on a single-rate meter pays about **433 € including VAT for distribution** (a 14.10 € fixed part plus 11.98 c€/kWh), against **96 € of transmission** re-invoiced for Elia. Since transmission is the same at all five Walloon DSOs, distribution is what makes network costs vary from one municipality to the next: from 400 € with AIEG to 495 € with AIESH for the same household, as [“Distribution tariffs in Wallonia: 5 DSOs compared”](/en/guides/distribution-tariffs-wallonia-dso-comparison/) details.
 
 *Assumptions: CWaPE summary of 2026 tariffs (updated 3 February 2026), residential low-voltage customers without peak metering. The method differs from the CREG's: do not mix these amounts with the previous table.*
 

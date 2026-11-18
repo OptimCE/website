@@ -12,7 +12,7 @@ tool_page: true
 tool: dso
 tool_order: 1
 date_published: 2026-10-18
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-17
 faq:
   - q: "Welcher Netzbetreiber ist für mich zuständig?"
     a: "Geben Sie Ihre Postleitzahl in das Werkzeug oben auf dieser Seite ein: Es zeigt den Strom- und den Gasnetzbetreiber Ihrer Gemeinde an. Umfasst die Postleitzahl mehrere Gemeinden oder wechselt der Netzbetreiber von einem Ortsteil zum anderen, fragt das Werkzeug nach. Zur Kontrolle sehen Sie auf Ihrer Jahresabrechnung für Strom nach: Bei einem Haushalt nennt sie den Namen und die Telefonnummer des Netzbetreibers, den Sie bei einer Störung anrufen."
@@ -131,6 +131,8 @@ Regulierungsbehörde seiner Region vorgibt: die CWaPE in der Wallonie
 ([CWaPE](https://www.cwape.be/de/netztarife)), Brugel in Brüssel ([Brugel](https://brugel.brussels/themes/tarifs-de-distribution-12)). In Flandern
 genehmigt die VREG sie jedes Jahr; sie hängen vom Netzgebiet ab, in dem Sie wohnen
 ([VREG](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/nettarieven/hoeveel-bedragen-de-distributienettarieven)).
+
+In der Wallonie ist der Abstand zwischen den Netzbetreibern real: Für 3 500 kWh im Eintarif kostet die Verteilung 2026 von 400 € bei der AIEG bis 495 € bei der AIESH, einschließlich Mehrwertsteuer. Die Berechnung für jeden Netzbetreiber und jede Formel steht in [„Verteilungstarife in der Wallonie: 5 im Vergleich“]({{ 'distribution-tariffs-dso-wallonia' | ref_url }}).
 
 ## Strom und Gas: ein oder zwei Netzbetreiber
 

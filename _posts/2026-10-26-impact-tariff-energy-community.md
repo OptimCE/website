@@ -2,6 +2,7 @@
 layout: post
 title: "Impact tariff and energy communities"
 date: 2026-10-26 06:00:00 +0100
+last_modified_at: 2026-11-17 06:00:00 +0100
 author: "Eric from OptimCE"
 excerpt: "Between 11 am and 5 pm, Wallonia's Impact tariff charges five times less for the distribution grid than between 5 pm and 10 pm. That is exactly when solar panels produce: 70% of a Namur roof's output falls in that window. For an energy community member, a kilowatt-hour shared at noon therefore stacks two discounts that come from different places. Here is the calculation at ORES, what it changes for the allocation key and the internal price, and where the suppliers' court challenge stands."
 description: "Impact tariff and energy communities in Wallonia: what a kWh shared in ECO hours costs at ORES, access conditions, and the state of the Febeg challenge."
@@ -58,7 +59,7 @@ The rate depends on your distribution system operator (DSO). If you do not know 
 
 *Assumptions: 2026 distribution rates in c€/kWh including 6% VAT, with public service obligations, regional levies and regulatory balances included, from the CWaPE summary of 3 February 2026. Transmission comes on top: 2.74 c€/kWh for every DSO and every band. Excludes the energy contribution, special excise duty and connection fee, which are the same in every configuration.*
 
-At ORES, the proportional distribution term is **2.71 c€ in ECO and 13.54 c€ in PIC**, excluding VAT. The fixed term of 13.30 € a year does not apply on the Impact tariff.
+At ORES, the proportional distribution term is **2.71 c€ in ECO and 13.54 c€ in PIC**, excluding VAT. The fixed term of 13.30 € a year does not apply on the Impact tariff. What these gaps mean in euros a year, DSO by DSO and profile by profile, is calculated in [“Distribution tariffs in Wallonia: 5 DSOs compared”](/en/guides/distribution-tariffs-wallonia-dso-comparison/).
 
 ## What is billed on a shared kWh, band by band
 

@@ -2,16 +2,18 @@
 layout: pillar
 title: "Réseau et GRD : gestionnaire, compteur, code EAN"
 subtitle: "Qui gère le réseau jusqu'à votre compteur, qui appeler pour quoi, et ce que le compteur communicant change pour vous."
-description: "Réseau et GRD en Wallonie : qui fait quoi entre gestionnaire de réseau et fournisseur, où trouver votre code EAN, et le compteur communicant."
+description: "Réseau et GRD en Wallonie : qui fait quoi entre gestionnaire de réseau et fournisseur, tarifs de distribution, code EAN et compteur communicant."
 lang: fr
 ref: pillar-reseau-grd
 pillar: reseau-grd
 permalink: /guides/reseau-grd/
 breadcrumb_parent: guides
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-17
 sections:
   - title: "Comprendre qui fait quoi"
     refs: [dso-supplier-roles, ean-code-belgium]
+  - title: "Ce que coûte le réseau"
+    refs: [distribution-tariffs-dso-wallonia]
   - title: "Votre compteur"
     refs: [meter-reading-index, smart-meter-wallonia]
 ---
@@ -24,6 +26,8 @@ Cette répartition dit qui appeler :
 
 En amont, Elia transporte le courant à haute tension, et quatre régulateurs se partagent le contrôle : la CREG au niveau fédéral, la CWaPE, Brugel et le VREG dans les régions. [« Différence GRD et fournisseur : qui fait quoi ? »]({{ "dso-supplier-roles" | ref_url }}) reprend chaque acteur, ce qu'il pèse sur la facture et les cas où le GRD devient lui-même votre fournisseur.
 
+Le GRD fixe aussi une part de votre facture : le tarif de distribution, que la CWaPE approuve pour chacun des cinq. À consommation égale, il n'est pas le même partout : pour 3 500 kWh au compteur simple, il va en 2026 de 400 € par an à l'AIEG à 495 € à l'AIESH, TVA comprise. [« Tarif de distribution en Wallonie : 5 GRD comparés »]({{ "distribution-tariffs-dso-wallonia" | ref_url }}) refait le calcul pour chaque GRD et chaque formule, explique d'où vient l'écart et ce que vous pouvez faire à la place de changer de GRD, ce qui est impossible.
+
 Pour presque toutes ces démarches, on vous demandera votre code EAN : dix-huit chiffres qui commencent par 54, imprimés sur chaque facture. Il ne désigne ni votre compteur ni votre contrat, mais le point où l'électricité entre chez vous. Il ne change donc pas quand vous changez de fournisseur, et vous en avez un par énergie. [« Code EAN électricité : où le trouver et l'utiliser »]({{ "ean-code-belgium" | ref_url }}) explique où le retrouver quand la facture manque, quand le donner et à qui ne pas le confier.
 
 Tant que votre compteur reste classique, c'est vous qui relevez vos index : le GRD passe au moins une fois en deux ans et vous invite à les transmettre les autres années. Sans index, il estime votre consommation, et l'écart revient à la régularisation. [« Relevé d'index du compteur électrique : le guide »]({{ "meter-reading-index" | ref_url }}) montre comment lire chaque compteur et donne les canaux de chacun des cinq GRD wallons.
@@ -32,4 +36,4 @@ Le compteur, lui, change de nature. Depuis janvier 2026, chaque point de fournit
 
 Ces données au quart d'heure sont aussi la condition du partage d'énergie. Dans une opération de partage, c'est le GRD qui relève les données de chaque participant et applique la clé de répartition, qui fixe la part d'électricité partagée attribuée à chacun. Pour un ménage, participer suppose en pratique un compteur communicant dont la fonction communicante est active. [« Compteur communicant en Wallonie : le guide »]({{ "smart-meter-wallonia" | ref_url }}) dit comment l'obtenir chez chacun des cinq GRD, ce qu'il coûte et ce que coûte la désactivation de sa communication.
 
-Les guides ci-dessous partent des acteurs, puis du compteur.
+Les guides ci-dessous partent des acteurs et de ce que coûte le réseau, puis du compteur.

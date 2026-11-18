@@ -2,6 +2,7 @@
 layout: post
 title: "Impact-tarief en energiegemeenschap"
 date: 2026-10-26 06:00:00 +0100
+last_modified_at: 2026-11-17 06:00:00 +0100
 author: "Eric van OptimCE"
 excerpt: "Tussen 11 en 17 uur rekent het Waalse Impact-tarief het distributienet vijf keer goedkoper aan dan tussen 17 en 22 uur. Precies dan produceren zonnepanelen: 70 % van de productie van een dak in Namen valt in dat tijdvak. Voor een lid van een energiegemeenschap stapelt een kilowattuur die ’s middags gedeeld wordt dus twee kortingen die niet van dezelfde plaats komen. Hier de berekening bij ORES, wat dat verandert voor de verdeelsleutel en de interne prijs, en hoe het beroep van de leveranciers ervoor staat. Het Impact-tarief bestaat alleen in Wallonië."
 description: "Impact-tarief en energiegemeenschap in Wallonië: wat een in ECO gedeelde kWh bij ORES kost, de voorwaarden en de stand van het beroep van Febeg."
@@ -60,7 +61,7 @@ Het tarief hangt af van uw distributienetbeheerder. Weet u niet welke uw adres b
 
 *Hypothesen: distributietarieven 2026 in c€/kWh inclusief 6 % btw, met openbaredienstverplichtingen, gewestelijke toeslagen en regulatoire saldi, volgens het overzicht van de CWaPE van 3 februari 2026. Daar komt de transmissie bij, 2,74 c€/kWh voor alle netbeheerders en alle tijdvakken. Zonder energiebijdrage, bijzondere accijns en aansluitingsvergoeding, die in alle configuraties gelijk zijn.*
 
-Bij ORES bedraagt de proportionele distributieterm **2,71 c€ in ECO en 13,54 c€ in PIC**, exclusief btw. Het vaste deel van 13,30 € per jaar geldt niet bij het Impact-tarief.
+Bij ORES bedraagt de proportionele distributieterm **2,71 c€ in ECO en 13,54 c€ in PIC**, exclusief btw. Het vaste deel van 13,30 € per jaar geldt niet bij het Impact-tarief. Wat die verschillen per jaar in euro betekenen, per netbeheerder en per profiel, staat berekend in [“Nettarieven Wallonië: 5 netbeheerders vergeleken”](/nl/gidsen/distributienettarieven-wallonie-vergelijking/).
 
 ## Wat er op een gedeelde kWh wordt aangerekend, tijdvak per tijdvak
 

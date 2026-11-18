@@ -12,7 +12,7 @@ tool_page: true
 tool: dso
 tool_order: 1
 date_published: 2026-10-18
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-17
 faq:
   - q: "Hoe weet ik wie mijn netbeheerder is?"
     a: "Vul uw postcode in de tool bovenaan deze pagina in: die toont de netbeheerder voor elektriciteit en die voor aardgas in uw gemeente. Als de postcode meerdere gemeenten omvat, of als de netbeheerder per deelgemeente verschilt, vraagt de tool u om dat te verduidelijken. Ter controle kijkt u op uw afrekeningsfactuur voor elektriciteit: voor een gezin vermeldt die de naam en het telefoonnummer van de netbeheerder die u belt bij een storing."
@@ -121,6 +121,8 @@ regulator van zijn gewest bepaalt: de CWaPE in Wallonië ([CWaPE](https://www.cw
 Brussel ([Brugel](https://brugel.brussels/nl_BE/themes/distributietarieven-12)). In Vlaanderen keurt de VREG ze elk jaar goed; ze
 verschillen naargelang het netgebied waarin u woont
 ([VREG](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/nettarieven/hoeveel-bedragen-de-distributienettarieven)).
+
+In Wallonië is het verschil tussen netbeheerders reëel: voor 3 500 kWh met een enkelvoudige meter kost de distributie in 2026 van 400 € bij AIEG tot 495 € bij AIESH, btw inbegrepen. De berekening voor elke netbeheerder en elke formule staat in [“Nettarieven Wallonië: 5 netbeheerders vergeleken”]({{ 'distribution-tariffs-dso-wallonia' | ref_url }}).
 
 ## Elektriciteit en gas: één of twee netbeheerders
 

@@ -9,7 +9,7 @@ tags: [guide]
 lang: de
 ref: dso-supplier-roles
 pillar: reseau-grd
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-17
 permalink: /de/ratgeber/netzbetreiber-lieferant-elia-wer-macht-was/
 faq:
   - q: "Was ist der Unterschied zwischen Netzbetreiber und Stromlieferant?"
@@ -136,7 +136,7 @@ Die CREG veröffentlicht jeden Monat die Aufteilung einer typischen Rechnung. F�
 
 Die Folge: **Mit einem Lieferantenwechsel beeinflussen Sie 43 % der Rechnung.** Die Netzkosten hängen von Ihrem Netzbetreiber ab, also von Ihrer Adresse, und von der gewählten Tarifformel; die Steuern vom Gesetzgeber.
 
-Im Netzblock wiegt die Verteilung weit mehr als die Übertragung. Nach dem ORES-Tarif 2026 zahlt ein Haushalt mit 3 500 kWh am Einfachtarifzähler rund **433 € inklusive MwSt. für die Verteilung** (14,10 € fester Anteil und 11,98 c€/kWh), gegenüber **96 € Übertragung**, die für Elia weiterberechnet werden. Da die Übertragung bei allen fünf wallonischen Netzbetreibern gleich ist, lässt die Verteilung die Netzkosten von Gemeinde zu Gemeinde schwanken.
+Im Netzblock wiegt die Verteilung weit mehr als die Übertragung. Nach dem ORES-Tarif 2026 zahlt ein Haushalt mit 3 500 kWh am Einfachtarifzähler rund **433 € inklusive MwSt. für die Verteilung** (14,10 € fester Anteil und 11,98 c€/kWh), gegenüber **96 € Übertragung**, die für Elia weiterberechnet werden. Da die Übertragung bei allen fünf wallonischen Netzbetreibern gleich ist, lässt die Verteilung die Netzkosten von Gemeinde zu Gemeinde schwanken: von 400 € bei der AIEG bis 495 € bei der AIESH für denselben Haushalt, wie [„Verteilungstarife in der Wallonie: 5 im Vergleich“](/de/ratgeber/verteilungstarife-wallonie-vergleich/) zeigt.
 
 *Annahmen: Tarifübersicht 2026 der CWaPE (aktualisiert am 3. Februar 2026), Privatkunden in Niederspannung ohne Spitzenmessung. Die Methode unterscheidet sich von der der CREG: Mischen Sie diese Beträge nicht mit der vorherigen Tabelle.*
 

@@ -12,7 +12,7 @@ tool_page: true
 tool: dso
 tool_order: 1
 date_published: 2026-10-18
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-17
 faq:
   - q: "How do I find out who my distribution network operator is?"
     a: "Enter your postcode in the tool at the top of this page: it shows your municipality's distribution system operator (DSO) for electricity and the one for gas. If the postcode covers several municipalities, or if the operator changes from one section of the municipality to another, the tool asks you to specify. To check, look at your annual electricity statement: for a household, it gives the name and phone number of the network operator to call in the event of a power cut."
@@ -123,6 +123,8 @@ regulator: the CWaPE in Wallonia ([CWaPE](https://www.cwape.be/acteur/tarif-dist
 ([Brugel](https://brugel.brussels/themes/tarifs-de-distribution-12)). In Flanders, the VREG approves them every year; they vary with
 the network area where you live
 ([VREG](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/nettarieven/hoeveel-bedragen-de-distributienettarieven)).
+
+In Wallonia, the gap between DSOs is real: for 3,500 kWh on a single-rate meter, distribution costs from 400 € with AIEG to 495 € with AIESH in 2026, VAT included. The calculation for each DSO and each formula is in [“Distribution tariffs in Wallonia: 5 DSOs compared”]({{ 'distribution-tariffs-dso-wallonia' | ref_url }}).
 
 ## Electricity and gas: one or two operators
 

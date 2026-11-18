@@ -9,7 +9,7 @@ tags: [guide]
 lang: fr
 ref: dso-supplier-roles
 pillar: reseau-grd
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-17
 permalink: /guides/difference-grd-fournisseur-elia/
 faq:
   - q: "Quelle est la différence entre le GRD et le fournisseur d'électricité ?"
@@ -136,7 +136,7 @@ La CREG publie chaque mois la répartition d'une facture type. Pour un ménage w
 
 Conséquence : **en changeant de fournisseur, vous agissez sur 43 % de la facture**. Les frais de réseau dépendent de votre GRD, donc de votre adresse, et de la formule tarifaire que vous choisissez ; les taxes, du législateur.
 
-Dans le bloc réseau, la distribution pèse bien plus que le transport. Sur la grille ORES 2026, un ménage de 3 500 kWh au compteur simple paie environ **433 € TVAC de distribution** (14,10 € de part fixe et 11,98 c€/kWh), contre **96 € de transport** refacturé pour Elia. Le transport étant identique chez les cinq GRD wallons, c'est la distribution qui fait varier les frais de réseau d'une commune à l'autre.
+Dans le bloc réseau, la distribution pèse bien plus que le transport. Sur la grille ORES 2026, un ménage de 3 500 kWh au compteur simple paie environ **433 € TVAC de distribution** (14,10 € de part fixe et 11,98 c€/kWh), contre **96 € de transport** refacturé pour Elia. Le transport étant identique chez les cinq GRD wallons, c'est la distribution qui fait varier les frais de réseau d'une commune à l'autre : de 400 € à l'AIEG à 495 € à l'AIESH pour ce même ménage, comme le détaille [« Tarif de distribution en Wallonie : 5 GRD comparés »](/guides/tarif-distribution-electricite-wallonie/).
 
 *Hypothèses : synthèse des tarifs 2026 de la CWaPE (mise à jour du 3 février 2026), clients résidentiels basse tension sans mesure de pointe. La méthode diffère de celle de la CREG : ne mélangez pas ces montants avec le tableau précédent.*
 

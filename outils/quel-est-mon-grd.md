@@ -12,7 +12,7 @@ tool_page: true
 tool: dso
 tool_order: 1
 date_published: 2026-10-18
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-17
 faq:
   - q: "Comment savoir quel est mon GRD ?"
     a: "Entrez votre code postal dans l'outil en haut de cette page : il affiche le gestionnaire de réseau d'électricité et celui du gaz de votre commune. Si le code postal couvre plusieurs communes, ou si le gestionnaire change d'une section de commune à l'autre, l'outil vous demande de préciser. Pour vérifier, regardez votre facture de décompte d'électricité : pour un ménage, elle donne le nom et le numéro de téléphone du gestionnaire de réseau à appeler en cas de panne."
@@ -124,6 +124,8 @@ région : la CWaPE en Wallonie ([CWaPE](https://www.cwape.be/acteur/tarif-distri
 Bruxelles ([Brugel](https://brugel.brussels/themes/tarifs-de-distribution-12)). En Flandre, le VREG
 les approuve chaque année ; ils varient selon la zone de réseau où vous habitez
 ([VREG](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/nettarieven/hoeveel-bedragen-de-distributienettarieven)).
+
+En Wallonie, l'écart entre GRD est réel : pour 3 500 kWh au compteur simple, la distribution coûte en 2026 de 400 € à l'AIEG à 495 € à l'AIESH, TVA comprise. Le calcul pour chaque GRD et chaque formule est dans [« Tarif de distribution en Wallonie : 5 GRD comparés »]({{ 'distribution-tariffs-dso-wallonia' | ref_url }}).
 
 ## Électricité et gaz : un ou deux gestionnaires
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Reduce your electricity bill: Wallonia 2026"
 date: 2026-07-28 10:00:00 +0200
-last_modified_at: 2026-10-26 06:00:00 +0100
+last_modified_at: 2026-11-17 06:00:00 +0100
 author: "Eric from OptimCE"
 excerpt: "The official comparator, the new Impact tariff, the social tariff, the 30 September grant deadline, self-consumption and energy sharing: ten Walloon levers costed from the ORES 2026 tariff schedule approved by CWaPE. Six of them cost nothing. For each one, the realistic annual saving, the condition to meet and the lead time."
 description: "Ten concrete, costed and sourced levers to cut your electricity bill in Wallonia in 2026 — from the official comparator to energy sharing."
@@ -30,7 +30,7 @@ Your electricity bill has not gone down, and that is not your imagination. Whole
 
 This article does not re-explain the problem. It lists what you can actually do, **in Wallonia, in 2026**. Ten levers, ranked from the best return on effort to the most demanding. **The first six cost nothing** — no works, no hardware, and for half of them no change of habit either.
 
-A word on the figures. Most articles on this subject recycle second-hand estimates. The ones below come from the **ORES periodic tariff schedule for 2026, approved by CWaPE on 18 December 2025** ([tariff document](https://www.cwape.be/sites/default/files/cwape-documents/ORES%20-%20Tarifs%20p%C3%A9riodiques%20de%20pr%C3%A9l%C3%A8vement%202026_0.pdf)), from CREG's quarterly notes, and from official Walloon public service pages. Where a figure is our own calculation from those schedules, we say so. ORES covers most of Walloon territory; if your operator is RESA, AIEG or AIESH the orders of magnitude hold but the decimals differ.
+A word on the figures. Most articles on this subject recycle second-hand estimates. The ones below come from the **ORES periodic tariff schedule for 2026, approved by CWaPE on 18 December 2025** ([tariff document](https://www.cwape.be/sites/default/files/cwape-documents/ORES%20-%20Tarifs%20p%C3%A9riodiques%20de%20pr%C3%A9l%C3%A8vement%202026_0.pdf)), from CREG's quarterly notes, and from official Walloon public service pages. Where a figure is our own calculation from those schedules, we say so. ORES covers most of Walloon territory; if your operator is RESA, AIEG or AIESH the orders of magnitude hold but the decimals differ. To compare all five DSOs, REW included, see [“Distribution tariffs in Wallonia: 5 DSOs compared”](/en/guides/distribution-tariffs-wallonia-dso-comparison/).
 
 <img src="/assets/images/diagrams/savings-levers-en.svg"
      alt="Bar chart: ten levers for cutting a Walloon electricity bill, ranked by annual amount at stake — social tariff around €400, prosumer charge €324, comparing offers over €200, energy sharing around €145 with no works and no change of supplier, Impact tariff around €124, shifting consumption around €100. Four further levers depend on circumstances."

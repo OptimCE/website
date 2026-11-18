@@ -2,6 +2,7 @@
 layout: post
 title: "Impact-Tarif und Energiegemeinschaft"
 date: 2026-10-26 06:00:00 +0100
+last_modified_at: 2026-11-17 06:00:00 +0100
 author: "Eric von OptimCE"
 excerpt: "Zwischen 11 und 17 Uhr berechnet der wallonische Impact-Tarif das Verteilnetz fünfmal günstiger als zwischen 17 und 22 Uhr. Genau dann produzieren Solaranlagen: 70 % der Produktion eines Dachs in Namur fallen in dieses Zeitfenster. Für ein Mitglied einer Energiegemeinschaft vereint eine mittags geteilte Kilowattstunde also zwei Rabatte, die nicht aus derselben Quelle stammen. Hier die Rechnung bei ORES, was sich für den Aufteilungsschlüssel und den internen Preis ändert, und der Stand der Klage der Versorger."
 description: "Impact-Tarif und Energiegemeinschaft in Wallonien: was eine im ECO-Fenster geteilte kWh bei ORES kostet, Zugangsbedingungen und Stand der Febeg-Klage."
@@ -58,7 +59,7 @@ Der Tarif hängt von Ihrem Verteilnetzbetreiber ab. Wenn Sie nicht wissen, welch
 
 *Annahmen: Verteilnetztarife 2026 in c€/kWh inklusive 6 % MwSt., einschließlich gemeinwirtschaftlicher Verpflichtungen, regionaler Abgaben und Regulierungssalden, laut Übersicht der CWaPE vom 3. Februar 2026. Hinzu kommt die Übertragung, 2,74 c€/kWh für alle Netzbetreiber und alle Fenster. Ohne Energiebeitrag, Sonderverbrauchsteuer und Anschlussabgabe, die in allen Konfigurationen gleich sind.*
 
-Bei ORES beträgt der proportionale Verteilnetzterm **2,71 c€ in ECO und 13,54 c€ in PIC**, ohne MwSt. Der Festbetrag von 13,30 € pro Jahr gilt im Impact-Tarif nicht.
+Bei ORES beträgt der proportionale Verteilnetzterm **2,71 c€ in ECO und 13,54 c€ in PIC**, ohne MwSt. Der Festbetrag von 13,30 € pro Jahr gilt im Impact-Tarif nicht. Was diese Unterschiede in Euro pro Jahr bedeuten, je Netzbetreiber und je Profil, ist in [„Verteilungstarife in der Wallonie: 5 im Vergleich“](/de/ratgeber/verteilungstarife-wallonie-vergleich/) berechnet.
 
 ## Was auf eine geteilte kWh berechnet wird, Fenster für Fenster
 

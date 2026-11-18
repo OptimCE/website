@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" width="800" height="470" role="img" aria-labelledby="t d">
+<title id="t">Hetzelfde gezin, vijf netfacturen</title><desc id="d">Staafdiagram: voor hetzelfde gezin met 3 408 kWh per jaar kost de distributie in 2026, btw inbegrepen, 334 € bij AIEG, 349 € bij RESA, 361 € bij ORES, 389 € bij REW en 410 € bij AIESH met het tweevoudig tarief zonder iets te veranderen, en 283 € bij AIEG, 293 € bij RESA, 313 € bij ORES, 329 € bij REW en 353 € bij AIESH met het Impact-tarief en een deel van het verbruik verschoven.</desc>
+<rect width="800" height="470" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="60" y="52" font-size="22" fill="#212529" font-weight="700">Hetzelfde gezin, vijf netfacturen</text>
+<text x="60" y="78" font-size="14" fill="#495057">Distributie per jaar in 2026, incl. btw, typegezin van de CWaPE (3 408 kWh)</text>
+<rect x="60" y="104" width="14" height="14" rx="3" fill="#868E96"/>
+<text x="82" y="116" font-size="14" fill="#212529">Tweevoudig, niets veranderd</text>
+<rect x="380" y="104" width="14" height="14" rx="3" fill="#2E7D32"/>
+<text x="402" y="116" font-size="14" fill="#212529">Impact-tarief, verbruik verschoven</text>
+<line x1="150.0" y1="146" x2="150.0" y2="406" stroke="#DEE2E6" stroke-width="1"/>
+<text x="150.0" y="424" font-size="12" fill="#495057" text-anchor="middle">0 €</text>
+<line x1="270.0" y1="146" x2="270.0" y2="406" stroke="#DEE2E6" stroke-width="1"/>
+<text x="270.0" y="424" font-size="12" fill="#495057" text-anchor="middle">100 €</text>
+<line x1="390.0" y1="146" x2="390.0" y2="406" stroke="#DEE2E6" stroke-width="1"/>
+<text x="390.0" y="424" font-size="12" fill="#495057" text-anchor="middle">200 €</text>
+<line x1="510.0" y1="146" x2="510.0" y2="406" stroke="#DEE2E6" stroke-width="1"/>
+<text x="510.0" y="424" font-size="12" fill="#495057" text-anchor="middle">300 €</text>
+<line x1="630.0" y1="146" x2="630.0" y2="406" stroke="#DEE2E6" stroke-width="1"/>
+<text x="630.0" y="424" font-size="12" fill="#495057" text-anchor="middle">400 €</text>
+<text x="136" y="184" font-size="15" fill="#212529" font-weight="600" text-anchor="end">AIEG</text>
+<path d="M150,154 h396.2 a4,4 0 0 1 4,4 v10 a4,4 0 0 1 -4,4 h-396.2 z" fill="#868E96"/>
+<text x="558.2" y="168" font-size="13" fill="#212529" font-weight="400">334 €</text>
+<path d="M150,174 h336.1 a4,4 0 0 1 4,4 v10 a4,4 0 0 1 -4,4 h-336.1 z" fill="#2E7D32"/>
+<text x="498.1" y="188" font-size="13" fill="#212529" font-weight="700">283 €</text>
+<text x="136" y="236" font-size="15" fill="#212529" font-weight="600" text-anchor="end">RESA</text>
+<path d="M150,206 h415.0 a4,4 0 0 1 4,4 v10 a4,4 0 0 1 -4,4 h-415.0 z" fill="#868E96"/>
+<text x="577.0" y="220" font-size="13" fill="#212529" font-weight="400">349 €</text>
+<path d="M150,226 h347.9 a4,4 0 0 1 4,4 v10 a4,4 0 0 1 -4,4 h-347.9 z" fill="#2E7D32"/>
+<text x="509.9" y="240" font-size="13" fill="#212529" font-weight="700">293 €</text>
+<text x="136" y="288" font-size="15" fill="#212529" font-weight="600" text-anchor="end">ORES</text>
+<path d="M150,258 h428.9 a4,4 0 0 1 4,4 v10 a4,4 0 0 1 -4,4 h-428.9 z" fill="#868E96"/>
+<text x="590.9" y="272" font-size="13" fill="#212529" font-weight="400">361 €</text>
+<path d="M150,278 h371.9 a4,4 0 0 1 4,4 v10 a4,4 0 0 1 -4,4 h-371.9 z" fill="#2E7D32"/>
+<text x="533.9" y="292" font-size="13" fill="#212529" font-weight="700">313 €</text>
+<text x="136" y="340" font-size="15" fill="#212529" font-weight="600" text-anchor="end">REW</text>
+<path d="M150,310 h463.2 a4,4 0 0 1 4,4 v10 a4,4 0 0 1 -4,4 h-463.2 z" fill="#868E96"/>
+<text x="625.2" y="324" font-size="13" fill="#212529" font-weight="400">389 €</text>
+<path d="M150,330 h391.0 a4,4 0 0 1 4,4 v10 a4,4 0 0 1 -4,4 h-391.0 z" fill="#2E7D32"/>
+<text x="553.0" y="344" font-size="13" fill="#212529" font-weight="700">329 €</text>
+<text x="136" y="392" font-size="15" fill="#212529" font-weight="600" text-anchor="end">AIESH</text>
+<path d="M150,362 h488.0 a4,4 0 0 1 4,4 v10 a4,4 0 0 1 -4,4 h-488.0 z" fill="#868E96"/>
+<text x="650.0" y="376" font-size="13" fill="#212529" font-weight="400">410 €</text>
+<path d="M150,382 h419.0 a4,4 0 0 1 4,4 v10 a4,4 0 0 1 -4,4 h-419.0 z" fill="#2E7D32"/>
+<text x="581.0" y="396" font-size="13" fill="#212529" font-weight="700">353 €</text>
+<text x="60" y="446" font-size="12" fill="#495057">Bron: door de CWaPE goedgekeurde tarieven 2026 van de netbeheerders, profiel P_Dc van de CWaPE. Berekening OptimCE, zonder transmissie.</text>
+</g>
+</svg>

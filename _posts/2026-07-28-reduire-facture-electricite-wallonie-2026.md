@@ -2,7 +2,7 @@
 layout: post
 title: "Réduire sa facture d'électricité : Wallonie 2026"
 date: 2026-07-28 10:00:00 +0200
-last_modified_at: 2026-10-26 06:00:00 +0100
+last_modified_at: 2026-11-17 06:00:00 +0100
 author: "Eric d'OptimCE"
 excerpt: "Comparateur officiel, nouveau tarif Impact, tarif social, primes avant le 30 septembre, autoconsommation, partage d'énergie : dix leviers wallons chiffrés à partir de la grille tarifaire ORES 2026 approuvée par la CWaPE. Six d'entre eux ne coûtent rien. Pour chacun, le gain annuel réaliste, la condition à remplir et le délai."
 description: "Dix leviers concrets, chiffrés et sourcés pour alléger sa facture d'électricité en Wallonie en 2026 — du comparateur officiel au partage d'énergie."
@@ -30,7 +30,7 @@ Votre facture d'électricité n'a pas baissé, et ce n'est pas une impression. L
 
 Cet article-ci ne réexplique pas le problème : il liste ce que vous pouvez faire, **en Wallonie, en 2026**. Dix leviers, classés du meilleur rapport gain/effort au plus exigeant. **Les six premiers ne coûtent rien** — ni travaux, ni matériel, ni changement d'habitude pour la moitié d'entre eux.
 
-Un mot sur les chiffres. La plupart des articles sur le sujet recopient des estimations de seconde main. Ceux qui suivent viennent de la **grille tarifaire périodique d'ORES pour 2026, approuvée par la CWaPE le 18 décembre 2025** ([document tarifaire](https://www.cwape.be/sites/default/files/cwape-documents/ORES%20-%20Tarifs%20p%C3%A9riodiques%20de%20pr%C3%A9l%C3%A8vement%202026_0.pdf)), des notes trimestrielles de la CREG et des pages officielles du Service public de Wallonie. Quand un montant est un calcul de notre part à partir de ces grilles, c'est écrit. ORES couvre la majeure partie du territoire wallon ; si vous dépendez de RESA, d'AIEG ou d'AIESH, les ordres de grandeur tiennent mais les décimales diffèrent.
+Un mot sur les chiffres. La plupart des articles sur le sujet recopient des estimations de seconde main. Ceux qui suivent viennent de la **grille tarifaire périodique d'ORES pour 2026, approuvée par la CWaPE le 18 décembre 2025** ([document tarifaire](https://www.cwape.be/sites/default/files/cwape-documents/ORES%20-%20Tarifs%20p%C3%A9riodiques%20de%20pr%C3%A9l%C3%A8vement%202026_0.pdf)), des notes trimestrielles de la CREG et des pages officielles du Service public de Wallonie. Quand un montant est un calcul de notre part à partir de ces grilles, c'est écrit. ORES couvre la majeure partie du territoire wallon ; si vous dépendez de RESA, d'AIEG ou d'AIESH, les ordres de grandeur tiennent mais les décimales diffèrent. Pour comparer les cinq GRD, REW compris, voyez [« Tarif de distribution en Wallonie : 5 GRD comparés »](/guides/tarif-distribution-electricite-wallonie/).
 
 <img src="/assets/images/diagrams/savings-levers-fr.svg"
      alt="Diagramme en barres : dix leviers de réduction de la facture d'électricité en Wallonie, classés par montant annuel en jeu — tarif social environ 400 €, tarif prosumer 324 €, comparaison des offres plus de 200 €, partage d'énergie environ 145 € sans travaux ni changement de fournisseur, tarif Impact environ 124 €, déplacement des consommations environ 100 €. Quatre autres leviers dépendent de la situation."
