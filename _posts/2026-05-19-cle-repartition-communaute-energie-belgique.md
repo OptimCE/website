@@ -3,19 +3,19 @@ layout: post
 title: "Clé de répartition en Belgique : les 3 régions"
 date: 2026-05-19 10:00:00 +0200
 author: "Eric d'OptimCE"
-excerpt: "Clé de répartition d'une communauté d'énergie : types CWaPE, BRUGEL, VREG, différences Wallonie / Bruxelles / Flandre et conseils pour choisir."
-description: "Types de clés reconnues par la CWaPE, BRUGEL et le VREG, ce qui change entre Wallonie, Bruxelles et Flandre, et comment choisir la vôtre."
+excerpt: "Clé de répartition d'une communauté d'énergie : types CWaPE, BRUGEL, Vlaamse Nutsregulator, différences Wallonie / Bruxelles / Flandre et conseils pour choisir."
+description: "Types de clés reconnues par la CWaPE, BRUGEL et la Vlaamse Nutsregulator, ce qui change entre Wallonie, Bruxelles et Flandre, et comment choisir la vôtre."
 tags: [allocation-key, administrative]
 lang: fr
 ref: allocation-key-belgium
 pillar: cle-de-repartition
 permalink: /guides/cle-repartition-communaute-energie-belgique/
-last_modified_at: 2026-10-22 10:00:00 +0200
+last_modified_at: 2026-11-21 06:00:00 +0100
 ---
 
 La **clé de répartition** est le rouage discret qui transforme une production locale d'électricité en avantage tangible pour chaque membre d'une communauté d'énergie. Elle décide, quart d'heure par quart d'heure, *qui reçoit combien* d'énergie partagée. Et c'est précisément là que la Belgique se complique : la Wallonie, Bruxelles et la Flandre n'ont pas adopté la même grille de clés standards, n'utilisent pas le même vocabulaire, et n'imposent pas les mêmes règles de validation.
 
-Cet article fait le tour des trois cadres régionaux — **CWaPE / ORES / RESA / AIEG / AIESH / REW** en Wallonie, **BRUGEL / Sibelga** à Bruxelles, **VREG / Fluvius** en Flandre — pour comparer ce qui est réellement permis dans chaque région et aider les gestionnaires de communauté à choisir une clé qui tienne dans le temps. Si vous découvrez la notion même de communauté d'énergie, commencez par notre article [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/guides/communautes-energie-belgique/) — il pose le vocabulaire repris ici.
+Cet article fait le tour des trois cadres régionaux — **CWaPE / ORES / RESA / AIEG / AIESH / REW** en Wallonie, **BRUGEL / Sibelga** à Bruxelles, **Vlaamse Nutsregulator / Fluvius** en Flandre — pour comparer ce qui est réellement permis dans chaque région et aider les gestionnaires de communauté à choisir une clé qui tienne dans le temps. Si vous découvrez la notion même de communauté d'énergie, commencez par notre article [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/guides/communautes-energie-belgique/) — il pose le vocabulaire repris ici.
 
 <img src="/assets/images/diagrams/allocation-key-flow-fr.svg"
      alt="Schéma en cinq étapes : données au quart d'heure, génération ou simulation, clé candidate, validation par les membres, transmission au gestionnaire de réseau."
@@ -83,7 +83,7 @@ Pour le contexte économique et l'impact tarifaire à Bruxelles, voyez l'analyse
 
 ## Le cadre flamand : verdeelsleutel selon le protocole Fluvius
 
-En Flandre, le régulateur est le [VREG](https://www.vlaamsenutsregulator.be) et le gestionnaire de réseau Fluvius. Le cadre s'applique au **partage d'énergie** (*energiedelen*) entre membres d'un groupe, à la **vente de pair à pair** (*persoon-aan-persoonverkoop*) et aux **communautés d'énergie** (CER et CEC, traduites en *hernieuwbare-energiegemeenschap* et *burgerenergiegemeenschap*).
+En Flandre, le régulateur est la [Vlaamse Nutsregulator](https://www.vlaamsenutsregulator.be) (anciennement VREG) et le gestionnaire de réseau Fluvius. Le cadre s'applique au **partage d'énergie** (*energiedelen*) entre membres d'un groupe, à la **vente de pair à pair** (*persoon-aan-persoonverkoop*) et aux **communautés d'énergie** (CER et CEC, traduites en *hernieuwbare-energiegemeenschap* et *burgerenergiegemeenschap*).
 
 Côté technique, le pas de 15 minutes et l'obligation d'un **compteur digital « meetregime 3 »** sont la règle. Trois clés — appelées *verdeelsleutels* — sont supportées par le [protocole Fluvius](https://www.fluvius.be/sites/fluvius/files/2024-07/protocol-energiedelen-p2p-verkoop-in-gebouwen-v3-2.pdf).
 
@@ -97,13 +97,13 @@ Côté technique, le pas de 15 minutes et l'obligation d'un **compteur digital �
 
 Le gestionnaire du groupe choisit la clé en fonction de la **puissance installée chez chaque participant**, du **nombre de membres**, de la **production attendue**, des **apports financiers** et d'autres critères locaux. Les accords doivent être documentés et communiqués à tous les membres avant la mise en service.
 
-Différence pratique avec la Wallonie : la Flandre n'a **pas de liste de clés « standards » publiée comme telle par le VREG** ; c'est le protocole opérationnel Fluvius qui fait foi, et chaque communauté définit sa clé dans ce cadre. Pour des éclairages réglementaires côté Wallonie touchant aussi à la Flandre, voir la [décision CWaPE sur les clés de répartition entre Flandre et Wallonie](https://www.cwape.be/documents-recents/decision-relative-lapprobation-de-la-proposition-de-cles-de-repartition-entre) pour les configurations transfrontalières.
+Différence pratique avec la Wallonie : la Flandre n'a **pas de liste de clés « standards » publiée comme telle par la Vlaamse Nutsregulator** ; c'est le protocole opérationnel Fluvius qui fait foi, et chaque communauté définit sa clé dans ce cadre. Pour des éclairages réglementaires côté Wallonie touchant aussi à la Flandre, voir la [décision CWaPE sur les clés de répartition entre Flandre et Wallonie](https://www.cwape.be/documents-recents/decision-relative-lapprobation-de-la-proposition-de-cles-de-repartition-entre) pour les configurations transfrontalières.
 
 ## Tableau récapitulatif : les trois régions en un coup d'œil
 
 | Critère | Wallonie | Bruxelles | Flandre |
 |---|---|---|---|
-| Régulateur | **CWaPE** | **BRUGEL** | **VREG** |
+| Régulateur | **CWaPE** | **BRUGEL** | **Vlaamse Nutsregulator** |
 | GRD | ORES / RESA / AIEG / AIESH / REW | **Sibelga** (unique) | **Fluvius** (unique) |
 | Documentation de référence | Proposition CD-23d27-CWaPE-0928 (27/04/2023) | Page « Méthodes de répartition » de Sibelga | Protocole Fluvius v3.x (juillet 2024) |
 | Clé n°1 — Égalitaire | Clé fixe égalitaire | Méthode fixe (1 tour, parts égales) | Vaste verdeelsleutel |
@@ -186,7 +186,7 @@ Au sein d'une **même opération de partage**, une seule clé s'applique. En rev
 
 ### Faut-il faire valider la clé par le régulateur ?
 
-En **Wallonie**, les **clés standards** sont acceptées automatiquement par le GRD ; les **clés non standards** doivent être autorisées par la CWaPE. À **Bruxelles**, les trois méthodes opérées par Sibelga sont prévues par BRUGEL et ne demandent pas d'autorisation supplémentaire. En **Flandre**, la clé est définie dans le cadre du protocole Fluvius et n'exige pas de validation préalable du VREG.
+En **Wallonie**, les **clés standards** sont acceptées automatiquement par le GRD ; les **clés non standards** doivent être autorisées par la CWaPE. À **Bruxelles**, les trois méthodes opérées par Sibelga sont prévues par BRUGEL et ne demandent pas d'autorisation supplémentaire. En **Flandre**, la clé est définie dans le cadre du protocole Fluvius et n'exige pas de validation préalable de la Vlaamse Nutsregulator.
 
 ### Quelle clé recommander pour une petite communauté de quartier ?
 
@@ -198,7 +198,7 @@ La clé est **recalculée** pour intégrer le nouveau membre. Avec une **clé fi
 
 ## Ce qu'il faut retenir
 
-Trois régulateurs (CWaPE, BRUGEL, VREG), trois paysages de gestionnaires de réseau (ORES/RESA/AIEG/AIESH/REW, Sibelga, Fluvius), trois vocabulaires (« clé », « méthode », « verdeelsleutel ») — mais une mécanique commune au quart d'heure, dépendante des compteurs communicants, et organisée autour de deux grandes familles : les clés **fixes** (égalitaires ou pondérées) et les clés **dynamiques / optimisées** (prorata, hybride, optimale).
+Trois régulateurs (CWaPE, BRUGEL, Vlaamse Nutsregulator), trois paysages de gestionnaires de réseau (ORES/RESA/AIEG/AIESH/REW, Sibelga, Fluvius), trois vocabulaires (« clé », « méthode », « verdeelsleutel ») — mais une mécanique commune au quart d'heure, dépendante des compteurs communicants, et organisée autour de deux grandes familles : les clés **fixes** (égalitaires ou pondérées) et les clés **dynamiques / optimisées** (prorata, hybride, optimale).
 
 Le choix d'une clé n'est pas une question technique : c'est un choix politique de gouvernance, qui doit refléter les valeurs et les contraintes des membres. Et parce qu'aucune clé n'est figée, il faut un outil pour la configurer, l'historiser, la faire évoluer proprement — et désormais la **générer automatiquement à partir des données réelles** de la communauté : c'est exactement ce qu'**OptimCE** propose aujourd'hui.
 
@@ -233,6 +233,6 @@ Pour aller plus loin, consultez nos guides :
 - [Sibelga — Le partage d'énergie renouvelable à Bruxelles](https://www.sibelga.be/fr/raccordements-compteurs/energie-renouvelable/partage-energie) — page pratique bruxelloise.
 - [Sibelga — Les méthodes de répartition pour le partage d'énergie](https://www.sibelga.be/fr/raccordements-compteurs/energie-renouvelable/partage-energie/methodes-de-repartition) — méthodes fixe, prorata et hybride.
 - [Bruxelles Environnement — Étude relative au potentiel, au développement et au fonctionnement des communautés d'énergie](https://document.environnement.brussels/opac_css/elecfile/RAP_2024_CommunautesEnergie.pdf) — étude de fond 2024.
-- [VREG — Vlaamse Nutsregulator](https://www.vlaamsenutsregulator.be) — régulateur flamand.
+- [Vlaamse Nutsregulator](https://www.vlaamsenutsregulator.be) — régulateur flamand.
 - [Fluvius — Protocole energiedelen, persoon-aan-persoonverkoop](https://www.fluvius.be/sites/fluvius/files/2024-07/protocol-energiedelen-p2p-verkoop-in-gebouwen-v3-2.pdf) — protocole technique v3.x (juillet 2024).
 - [Renouvelle — Coûts et avantages du partage d'électricité et des communautés d'énergie à Bruxelles](https://www.renouvelle.be/fr/quels-couts-avantages-sur-le-partage-delectricite-et-les-communautes-denergie-a-bruxelles/) — analyse économique.

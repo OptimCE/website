@@ -8,14 +8,14 @@ ref: pillar-communautes-energie
 pillar: communautes-energie
 permalink: /guides/communautes-energie/
 breadcrumb_parent: guides
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-22
 sections:
   - title: "Comprendre le cadre"
     refs: [energy-communities-europe, energy-communities-belgium, energy-sharing-barometer-wallonia, self-consumption-belgium, impact-tariff-energy-sharing]
   - title: "Créer ou rejoindre une communauté"
     refs: [create-energy-community-wallonia, energy-community-legal-form, join-energy-community-wallonia]
   - title: "Faire vivre la communauté"
-    refs: [engage-energy-community, cwape-administrative-documents]
+    refs: [engage-energy-community, cwape-administrative-documents, meter-data-energy-community]
 ---
 Une communauté d'énergie réunit des citoyens, des entreprises ou des autorités locales pour produire, partager et consommer leur propre énergie. C'est une personne morale, généralement une ASBL ou une coopérative, à laquelle on adhère librement. Le partage est administratif, pas physique : le gestionnaire de réseau de distribution (GRD) attribue à chaque membre, quart d'heure par quart d'heure, une part de la production locale selon une clé de répartition. On parle d'autoconsommation collective. Vous gardez votre fournisseur, qui facture la part de votre consommation que le partage ne couvre pas.
 
@@ -26,6 +26,6 @@ Le cadre juridique découle de [deux directives européennes]({{ "energy-communi
 
 Une fois la communauté lancée, le contrôle effectif par les membres reste une exigence continue. Il s'entretient en informant régulièrement et en consultant avant de décider, notamment sur la clé de répartition, qui touche chaque facture : c'est l'objet du guide [« Animer une communauté d'énergie au quotidien »]({{ "engage-energy-community" | ref_url }}).
 
-Côté administratif, la CWaPE reçoit la notification, ses modifications et le rapportage annuel ; le GRD, tout ce qui concerne le partage. Chaque activité de partage doit en outre être autorisée par la CWaPE, sur une demande introduite auprès du GRD : notre [baromètre des partages autorisés]({{ "energy-sharing-barometer-wallonia" | ref_url }}) les recense une à une, chaque trimestre. Deux échéances sont souvent mal lues : un dossier de notification incomplet devient caduc s'il n'est pas complété dans les six mois suivant le premier accusé de réception, et le rapportage annuel tombe chaque année pour le 1er septembre, quelle que soit la date de la notification. Le détail figure dans [« Communauté d'énergie : documents et délais CWaPE »]({{ "cwape-administrative-documents" | ref_url }}).
+Côté administratif, la CWaPE reçoit la notification, ses modifications et le rapportage annuel ; le GRD, tout ce qui concerne le partage. Le GRD produit aussi les données de la communauté : il envoie chaque mois au représentant les volumes de chaque membre au quart d'heure, comme l'explique [« Données de comptage en communauté d'énergie »]({{ "meter-data-energy-community" | ref_url }}). Chaque activité de partage doit en outre être autorisée par la CWaPE, sur une demande introduite auprès du GRD : notre [baromètre des partages autorisés]({{ "energy-sharing-barometer-wallonia" | ref_url }}) les recense une à une, chaque trimestre. Deux échéances sont souvent mal lues : un dossier de notification incomplet devient caduc s'il n'est pas complété dans les six mois suivant le premier accusé de réception, et le rapportage annuel tombe chaque année pour le 1er septembre, quelle que soit la date de la notification. Le détail figure dans [« Communauté d'énergie : documents et délais CWaPE »]({{ "cwape-administrative-documents" | ref_url }}).
 
 Les guides ci-dessous suivent ces trois temps : le cadre, la création ou l'adhésion, puis la vie de la communauté.

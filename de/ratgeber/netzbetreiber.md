@@ -8,7 +8,7 @@ ref: pillar-reseau-grd
 pillar: reseau-grd
 permalink: /de/ratgeber/netzbetreiber/
 breadcrumb_parent: guides
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-21
 sections:
   - title: "Verstehen, wer was macht"
     refs: [dso-supplier-roles, ean-code-belgium]
@@ -24,7 +24,7 @@ Diese Aufteilung sagt Ihnen, wen Sie anrufen:
 - **eine Störung, ein falscher Zählerstand, ein Anschluss**: Ihren Netzbetreiber, denn nur er erhebt die Zählerdaten in seinem Netz;
 - **ein Preis, ein Vertrag, ein Umzug**: Ihren Lieferanten, der abrechnet, was der Netzbetreiber gemessen hat.
 
-Davor transportiert Elia den Strom auf Hochspannung, und vier Regulierungsbehörden teilen sich die Aufsicht: die CREG auf föderaler Ebene, CWaPE, BRUGEL und VREG in den Regionen. [„Netzbetreiber und Lieferant: wer macht was?“]({{ "dso-supplier-roles" | ref_url }}) stellt jeden Akteur vor, zeigt, was er auf der Rechnung ausmacht, und in welchen Fällen der Netzbetreiber selbst Ihr Lieferant wird.
+Davor transportiert Elia den Strom auf Hochspannung, und vier Regulierungsbehörden teilen sich die Aufsicht: die CREG auf föderaler Ebene, CWaPE, BRUGEL und Vlaamse Nutsregulator (früher VREG) in den Regionen. [„Netzbetreiber und Lieferant: wer macht was?“]({{ "dso-supplier-roles" | ref_url }}) stellt jeden Akteur vor, zeigt, was er auf der Rechnung ausmacht, und in welchen Fällen der Netzbetreiber selbst Ihr Lieferant wird.
 
 Der Netzbetreiber bestimmt auch einen Teil Ihrer Rechnung: den Verteilungstarif, den die CWaPE für jeden der fünf genehmigt. Bei gleichem Verbrauch ist er nicht überall gleich: Für 3 500 kWh im Eintarif reicht er 2026 von 400 € im Jahr bei der AIEG bis 495 € bei der AIESH, einschließlich Mehrwertsteuer. [„Verteilungstarife in der Wallonie: 5 im Vergleich“]({{ "distribution-tariffs-dso-wallonia" | ref_url }}) rechnet für jeden Netzbetreiber und jede Formel nach, erklärt, woher der Abstand kommt, und was Sie tun können, statt den Netzbetreiber zu wechseln, denn das ist nicht möglich.
 

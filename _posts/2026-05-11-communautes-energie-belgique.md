@@ -10,7 +10,7 @@ lang: fr
 ref: energy-communities-belgium
 pillar: communautes-energie
 permalink: /guides/communautes-energie-belgique/
-last_modified_at: 2026-11-10 06:00:00 +0100
+last_modified_at: 2026-11-21 06:00:00 +0100
 ---
 
 Les communautés d'énergie sont au cœur de la transition énergétique en Belgique. Encadrées par l'Union européenne et déclinées par chaque région — Wallonie, Bruxelles, Flandre — elles permettent à des citoyens, des entreprises et des autorités locales de produire, partager et consommer leur propre énergie. Cet article passe en revue les trois formes officielles (CER, CEC, CEL), explique comment fonctionne le partage d'énergie, présente les acteurs clés et résume les bénéfices financiers et écologiques.
@@ -124,7 +124,7 @@ Oui. Les PME et les autorités locales sont explicitement autorisées à partici
 
 ### Et en Flandre ?
 
-La Flandre dispose d'un cadre équivalent supervisé par le **VREG**, avec **Fluvius** comme GRD. Les CER et CEC y sont reconnues sous leurs appellations néerlandaises (« Hernieuwbare-energiegemeenschap » et « Burgerenergiegemeenschap »).
+La Flandre dispose d'un cadre équivalent supervisé par la **Vlaamse Nutsregulator**, avec **Fluvius** comme GRD. Les CER et CEC y sont reconnues sous leurs appellations néerlandaises (« Hernieuwbare-energiegemeenschap » et « Burgerenergiegemeenschap »).
 
 ### Comment l'énergie partagée est-elle mesurée ?
 
@@ -140,7 +140,7 @@ Via les **compteurs communicants** (smart meters) déployés par les GRD, qui tr
 
 > **Bientôt — Bruxelles et Flandre**
 >
-> Les procédures côté **BRUGEL / Sibelga** (Bruxelles) et **VREG / Fluvius** (Flandre) feront l'objet de guides dédiés. Restez à l'écoute.
+> Les procédures côté **BRUGEL / Sibelga** (Bruxelles) et **Vlaamse Nutsregulator / Fluvius** (Flandre) feront l'objet de guides dédiés. Restez à l'écoute.
 
 ## Vous voulez rejoindre une communauté d'énergie ?
 
@@ -152,7 +152,7 @@ Via les **compteurs communicants** (smart meters) déployés par les GRD, qui tr
 
 > **Bientôt — Bruxelles et Flandre**
 >
-> Les modalités pour rejoindre une communauté à **Bruxelles** (BRUGEL / Sibelga) et en **Flandre** (VREG / Fluvius) feront l'objet de guides dédiés. Restez à l'écoute.
+> Les modalités pour rejoindre une communauté à **Bruxelles** (BRUGEL / Sibelga) et en **Flandre** (Vlaamse Nutsregulator / Fluvius) feront l'objet de guides dédiés. Restez à l'écoute.
 
 ## Sources
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Lire sa facture d'électricité ligne par ligne"
 date: 2026-07-30 10:00:00 +0200
-last_modified_at: 2026-10-23 06:00:00 +0200
+last_modified_at: 2026-11-21 06:00:00 +0100
 author: "Eric d'OptimCE"
 excerpt: "Vous recevez une douzaine de documents par an appelés « facture », et un seul vous dit vraiment ce que vous devez. Depuis 2022, un arrêté royal impose cinq sections identiques chez tous les fournisseurs belges. Ce guide décode le document : acompte et décompte annuel, code EAN, index réel ou estimé, chaque ligne de prix avec son destinataire réel, la redevance fixe qu'on paie parfois deux fois, et l'interlocuteur à saisir selon la ligne contestée."
 description: "Les cinq sections imposées depuis 2022, l'acompte face au décompte annuel, le code EAN, l'index estimé : décoder chaque ligne de sa facture."
@@ -164,7 +164,7 @@ Aucun de nos articles ne couvrait jusqu'ici le recours. C'est pourtant la suite 
 | votre contrat de fourniture ou son non-respect | **fédéral** |
 | un déménagement mal traité, un démarchage abusif | **fédéral** |
 
-La logique se retient facilement : **tout ce qui relève du compteur et du réseau est régional ; tout ce qui relève du contrat et du prix est fédéral.** Une contestation d'index part au SRME ; une contestation de prix unitaire part au fédéral. À Bruxelles et en Flandre, les services régionaux correspondants sont respectivement Brugel et la VREG.
+La logique se retient facilement : **tout ce qui relève du compteur et du réseau est régional ; tout ce qui relève du contrat et du prix est fédéral.** Une contestation d'index part au SRME ; une contestation de prix unitaire part au fédéral. À Bruxelles et en Flandre, les services régionaux correspondants sont respectivement Brugel et la Vlaamse Nutsregulator (anciennement VREG).
 
 La CWaPE demande d'attendre **vingt jours ouvrables après l'envoi de votre courrier** avant de la saisir, et précise que les délais de traitement communiqués le sont « à titre indicatif » et varient selon la complexité du dossier.
 

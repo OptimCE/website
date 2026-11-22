@@ -12,14 +12,14 @@ tool_page: true
 tool: dso
 tool_order: 1
 date_published: 2026-10-18
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-21
 faq:
   - q: "Comment savoir quel est mon GRD ?"
     a: "Entrez votre code postal dans l'outil en haut de cette page : il affiche le gestionnaire de réseau d'électricité et celui du gaz de votre commune. Si le code postal couvre plusieurs communes, ou si le gestionnaire change d'une section de commune à l'autre, l'outil vous demande de préciser. Pour vérifier, regardez votre facture de décompte d'électricité : pour un ménage, elle donne le nom et le numéro de téléphone du gestionnaire de réseau à appeler en cas de panne."
   - q: "Quelle est la différence entre mon GRD et mon fournisseur ?"
     a: "Le fournisseur vous vend l'électricité ou le gaz et vous envoie la facture : c'est vous qui le choisissez. Le GRD exploite et entretient le réseau jusqu'à votre compteur, relève vos index et intervient en cas de panne : il dépend de votre adresse. Les frais de réseau du GRD figurent sur la facture du fournisseur, qui les lui reverse."
   - q: "Puis-je changer de gestionnaire de réseau ?"
-    a: "Non. Chaque GRD est désigné pour un territoire : en Wallonie par le Gouvernement wallon, sur proposition des pouvoirs locaux et après avis de la CWaPE ; en Flandre par le VREG. À Bruxelles, Sibelga est le seul gestionnaire. Votre GRD ne change que si vous déménagez dans une zone desservie par un autre gestionnaire, ou si votre commune en change, comme Brunehaut pour l'électricité le 1er janvier 2026."
+    a: "Non. Chaque GRD est désigné pour un territoire : en Wallonie par le Gouvernement wallon, sur proposition des pouvoirs locaux et après avis de la CWaPE ; en Flandre par la Vlaamse Nutsregulator. À Bruxelles, Sibelga est le seul gestionnaire. Votre GRD ne change que si vous déménagez dans une zone desservie par un autre gestionnaire, ou si votre commune en change, comme Brunehaut pour l'électricité le 1er janvier 2026."
   - q: "Qui appeler en cas de panne d'électricité ou de gaz ?"
     a: "Votre GRD, pas votre fournisseur : c'est lui qui exploite le réseau et traite les pannes. Pour un ménage, le nom et le numéro de téléphone à appeler en cas de panne d'électricité figurent sur la facture de décompte ou de clôture. À Bruxelles, par exemple, Sibelga intervient aussi pour les odeurs de gaz. L'outil donne le nom et le site web de vos gestionnaires d'électricité et de gaz."
   - q: "Où trouver mon code EAN ?"
@@ -74,9 +74,9 @@ odeurs de gaz ([Brugel](https://www.brugel.brussels/brugel/grd-29)).
 
 ### Flandre : huit gestionnaires Fluvius {#flandre}
 
-Le [VREG]({{ 'glossary-term-vreg' | ref_url }}), régulateur flamand de l'énergie, désigne les
+La [Vlaamse Nutsregulator]({{ 'glossary-term-vreg' | ref_url }}) (anciennement VREG), régulateur flamand de l'énergie, désigne les
 gestionnaires de réseau de distribution
-([VREG](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/technische-reglementen-flexibiliteit-niet-publieke-netten/wie-is-mijn-netbeheerder/aanwijzing-netbeheerders)).
+([Vlaamse Nutsregulator](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/technische-reglementen-flexibiliteit-niet-publieke-netten/wie-is-mijn-netbeheerder/aanwijzing-netbeheerders)).
 Huit gestionnaires Fluvius se partagent les 285 communes flamandes, en général le même pour
 l'électricité et pour le gaz :
 
@@ -89,14 +89,14 @@ l'électricité et pour le gaz :
 - Fluvius West : 59 communes ;
 - Fluvius Zenne-Dijle : 44 communes.
 
-Ces nombres de 2026 viennent des décisions tarifaires du VREG
+Ces nombres de 2026 viennent des décisions tarifaires de la Vlaamse Nutsregulator
 ([sources]({{ 'tool-dso-list' | ref_url }}#sources)). Deux exceptions pour le gaz. Fourons (Voeren)
 est exclue de la désignation de Fluvius Limburg pour le gaz : la commune n'a pas de gestionnaire de
 réseau de gaz naturel
-([VREG, décision BESL-2015-47](https://assets.vlaamsenutsregulator.be/document/besl-2015-47.pdf)).
+([Vlaamse Nutsregulator, décision BESL-2015-47](https://assets.vlaamsenutsregulator.be/document/besl-2015-47.pdf)).
 À Baerle-Duc (Baarle-Hertog), le gaz est distribué par Enexis, un gestionnaire néerlandais, sauf
 dans la section de Zondereigen, desservie par Fluvius Kempen
-([VREG](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/technische-reglementen-flexibiliteit-niet-publieke-netten/wie-is-mijn-netbeheerder/aanwijzing-netbeheerders)).
+([Vlaamse Nutsregulator](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/technische-reglementen-flexibiliteit-niet-publieke-netten/wie-is-mijn-netbeheerder/aanwijzing-netbeheerders)).
 
 ### Wallonie : ORES, RESA, AIEG, AIESH et REW {#wallonie}
 
@@ -121,9 +121,9 @@ trouvé aucun arrêté de désignation, et l'information reste à confirmer
 
 Chaque GRD établit ses tarifs de distribution selon la méthode fixée par le régulateur de sa
 région : la CWaPE en Wallonie ([CWaPE](https://www.cwape.be/acteur/tarif-distribution)), Brugel à
-Bruxelles ([Brugel](https://brugel.brussels/themes/tarifs-de-distribution-12)). En Flandre, le VREG
+Bruxelles ([Brugel](https://brugel.brussels/themes/tarifs-de-distribution-12)). En Flandre, la Vlaamse Nutsregulator
 les approuve chaque année ; ils varient selon la zone de réseau où vous habitez
-([VREG](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/nettarieven/hoeveel-bedragen-de-distributienettarieven)).
+([Vlaamse Nutsregulator](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/nettarieven/hoeveel-bedragen-de-distributienettarieven)).
 
 En Wallonie, l'écart entre GRD est réel : pour 3 500 kWh au compteur simple, la distribution coûte en 2026 de 400 € à l'AIEG à 495 € à l'AIESH, TVA comprise. Le calcul pour chaque GRD et chaque formule est dans [« Tarif de distribution en Wallonie : 5 GRD comparés »]({{ 'distribution-tariffs-dso-wallonia' | ref_url }}).
 
@@ -176,7 +176,7 @@ points que nos sources ne permettent pas encore d'établir.
 - **Beveren-Kruibeke-Zwijndrecht, électricité et gaz.** Depuis le 1er janvier 2026, toute la
   commune dépend de Fluvius Midden-Vlaanderen ; Zwijndrecht (2070) dépendait jusque-là de Fluvius
   Antwerpen
-  ([VREG, décision BESL-2026-30](https://assets.vlaamsenutsregulator.be/2026-02/BESL-2026-30.pdf?VersionId=ElUWU7F1ROzPe0DBorhKohDkgVri6GOX)).
+  ([Vlaamse Nutsregulator, décision BESL-2026-30](https://assets.vlaamsenutsregulator.be/2026-02/BESL-2026-30.pdf?VersionId=ElUWU7F1ROzPe0DBorhKohDkgVri6GOX)).
 
 Le changement de Couvin est plus ancien : le 1er janvier 2024, l'AIESH a repris à ORES le réseau
 d'électricité de Boussu-en-Fagnes, Couvin, Frasnes-lez-Couvin, Mariembourg et Petigny
@@ -194,7 +194,7 @@ En amont :
   réseau de transport local, jusqu'à 70 kV, sur des tronçons fixés par le Gouvernement wallon
   ([CWaPE](https://www.cwape.be/node/160)). En Flandre, il gère le « plaatselijk vervoernet » (réseau de transport local) et
   aucun réseau de distribution
-  ([VREG](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/technische-reglementen-flexibiliteit-niet-publieke-netten/wie-is-mijn-netbeheerder/aanwijzing-netbeheerders)).
+  ([Vlaamse Nutsregulator](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/technische-reglementen-flexibiliteit-niet-publieke-netten/wie-is-mijn-netbeheerder/aanwijzing-netbeheerders)).
   Une entreprise raccordée directement à ces réseaux a Elia pour gestionnaire, pas un GRD.
 - **Fluxys Belgium** gère les infrastructures de transport de gaz naturel à haute pression ; les
   gestionnaires de réseau de distribution exploitent les réseaux locaux à basse pression qui
@@ -254,7 +254,7 @@ Le fournisseur vous vend l'électricité ou le gaz et vous envoie la facture : c
 
 ### Puis-je changer de gestionnaire de réseau ?
 
-Non. Chaque GRD est désigné pour un territoire : en Wallonie par le Gouvernement wallon, sur proposition des pouvoirs locaux et après avis de la CWaPE ; en Flandre par le VREG. À Bruxelles, Sibelga est le seul gestionnaire. Votre GRD ne change que si vous déménagez dans une zone desservie par un autre gestionnaire, ou si votre commune en change, comme Brunehaut pour l'électricité le 1er janvier 2026.
+Non. Chaque GRD est désigné pour un territoire : en Wallonie par le Gouvernement wallon, sur proposition des pouvoirs locaux et après avis de la CWaPE ; en Flandre par la Vlaamse Nutsregulator. À Bruxelles, Sibelga est le seul gestionnaire. Votre GRD ne change que si vous déménagez dans une zone desservie par un autre gestionnaire, ou si votre commune en change, comme Brunehaut pour l'électricité le 1er janvier 2026.
 
 ### Qui appeler en cas de panne d'électricité ou de gaz ?
 

@@ -9,7 +9,7 @@ tags: [guide]
 lang: nl
 ref: ean-code-belgium
 pillar: reseau-grd
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-21 06:00:00 +0100
 permalink: /nl/gidsen/ean-code-elektriciteit-vinden/
 faq:
   - q: "Waar vind ik mijn EAN-code voor elektriciteit?"
@@ -144,7 +144,7 @@ Voor een hernieuwbare-energiegemeenschap wordt ook de perimeter per code gecontr
 
 ### Voor twee minder bekende toepassingen
 
-De **GreenCheck** van de CWaPE toont op basis van uw elektriciteitscode “het percentage groene stroom dat u per maand verbruikt”, alleen voor contracten in Wallonië; in Vlaanderen doet de Groencheck van de VREG iets vergelijkbaars, zoals onze analyse van [groene stroom](/nl/gidsen/groene-stroom-belgie-echt-groen/) uitlegt. En het nieuwe Waalse technisch reglement, dat nog in het Belgisch Staatsblad moet verschijnen, geeft u gratis toegang tot uw afname- en injectiegegevens “mits mededeling van [uw] EAN-code”.
+De **GreenCheck** van de CWaPE toont op basis van uw elektriciteitscode “het percentage groene stroom dat u per maand verbruikt”, alleen voor contracten in Wallonië; in Vlaanderen doet de Groencheck van de Vlaamse Nutsregulator (voorheen VREG) iets vergelijkbaars, zoals onze analyse van [groene stroom](/nl/gidsen/groene-stroom-belgie-echt-groen/) uitlegt. En het nieuwe Waalse technisch reglement, dat nog in het Belgisch Staatsblad moet verschijnen, geeft u gratis toegang tot uw afname- en injectiegegevens “mits mededeling van [uw] EAN-code”.
 
 ## Ik vind mijn EAN-code niet
 

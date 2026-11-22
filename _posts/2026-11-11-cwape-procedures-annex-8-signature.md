@@ -2,6 +2,7 @@
 layout: post
 title: "CWaPE procedures and signing annex 8"
 date: 2026-11-11 06:00:00 +0100
+last_modified_at: 2026-11-21 06:00:00 +0100
 author: "Eric from OptimCE"
 excerpt: "OptimCE's administrative area is now organised into procedures, fed by the changes made in the CRM, and the CWaPE's annex 8 can be signed in the application. OptimCE still sends nothing: you do the sending."
 description: "CWaPE procedures arising from the CRM, deadlines, documents and simple electronic signature of annex 8: what OptimCE's new administrative area changes."
@@ -95,7 +96,7 @@ It is a **simple** electronic signature within the meaning of the eIDAS Regulati
 - **No sending.** OptimCE sends nothing to the DSO or to the CWaPE.
 - **Annex 8 only.** Not the agreements with the DSO, nor amendments, nor membership forms.
 - **No detection of production installations.** For a change of installation, the procedure is created by hand.
-- **Wallonia only.** Neither Brugel nor the VREG.
+- **Wallonia only.** Neither Brugel nor the Vlaamse Nutsregulator (formerly VREG).
 - **No proofreading for you.** A form prefilled with wrong data is still wrong.
 
 ## Availability and activation

@@ -2,7 +2,7 @@
 layout: post
 title: "Belgische Stromrechnung Zeile für Zeile lesen"
 date: 2026-07-30 10:00:00 +0200
-last_modified_at: 2026-10-23 06:00:00 +0200
+last_modified_at: 2026-11-21 06:00:00 +0100
 author: "Eric, OptimCE"
 excerpt: "Sie erhalten ein Dutzend Dokumente pro Jahr, die „Rechnung“ heißen, und nur eines sagt Ihnen wirklich, was Sie schulden. Seit 2022 schreibt ein Königlicher Erlass allen belgischen Lieferanten fünf identische Abschnitte vor. Dieser Leitfaden entschlüsselt das Dokument: Abschlagsrechnung und Jahresabrechnung, EAN-Code, abgelesene oder geschätzte Zählerstände, jede Preiszeile mit ihrem tatsächlichen Empfänger, die Grundgebühr, die manche zweimal zahlen, und die je nach Zeile zuständige Ombudsstelle."
 description: "Die fünf seit 2022 vorgeschriebenen Abschnitte, Abschlag gegen Jahresabrechnung, EAN-Code, geschätzte Zählerstände: jede Zeile Ihrer Rechnung entschlüsselt."
@@ -164,7 +164,7 @@ Bislang behandelte keiner unserer Artikel den Rechtsweg. Dabei ist er die logisc
 | Ihren Liefervertrag oder dessen Nichteinhaltung | **föderal** |
 | einen schlecht bearbeiteten Umzug, aggressive Haustürwerbung | **föderal** |
 
-Die Logik lässt sich leicht merken: **Alles rund um Zähler und Netz ist regional; alles rund um Vertrag und Preis ist föderal.** Eine Beanstandung des Zählerstands geht an den SRME; eine Beanstandung des Einheitspreises an die föderale Stelle. In Brüssel und Flandern sind die entsprechenden regionalen Stellen Brugel und die VREG.
+Die Logik lässt sich leicht merken: **Alles rund um Zähler und Netz ist regional; alles rund um Vertrag und Preis ist föderal.** Eine Beanstandung des Zählerstands geht an den SRME; eine Beanstandung des Einheitspreises an die föderale Stelle. In Brüssel und Flandern sind die entsprechenden regionalen Stellen Brugel und die Vlaamse Nutsregulator (früher VREG).
 
 Die CWaPE bittet darum, nach dem Versand Ihres Schreibens **zwanzig Werktage** abzuwarten, bevor Sie sie anrufen, und weist darauf hin, dass die veröffentlichten Bearbeitungsfristen als Richtwert gelten und je nach Komplexität des Falls variieren.
 

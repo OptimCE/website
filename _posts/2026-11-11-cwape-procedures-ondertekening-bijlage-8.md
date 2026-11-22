@@ -2,6 +2,7 @@
 layout: post
 title: "CWaPE-procedures en ondertekening van bijlage 8"
 date: 2026-11-11 06:00:00 +0100
+last_modified_at: 2026-11-21 06:00:00 +0100
 author: "Eric van OptimCE"
 excerpt: "De administratieve ruimte van OptimCE is voortaan in procedures georganiseerd, gevoed door de wijzigingen die in het CRM worden aangebracht, en bijlage 8 van de CWaPE wordt in de applicatie ondertekend. OptimCE verstuurt nog altijd niets: het versturen doet u zelf."
 description: "CWaPE-procedures uit het CRM, termijnen, stukken, eenvoudige elektronische handtekening van bijlage 8: wat de nieuwe administratieve ruimte van OptimCE wijzigt."
@@ -95,7 +96,7 @@ Het is een **eenvoudige** elektronische handtekening in de zin van de eIDAS-vero
 - **Geen verzending.** OptimCE verstuurt niets naar de netbeheerder of naar de CWaPE.
 - **Alleen bijlage 8.** Overeenkomsten met de netbeheerder, aanhangsels en toetredingsformulieren worden niet in de applicatie ondertekend.
 - **Geen detectie van productie-installaties.** Voor een wijziging van een installatie wordt de procedure met de hand aangemaakt.
-- **Alleen Wallonië.** Noch Brugel, noch de VREG.
+- **Alleen Wallonië.** Noch Brugel, noch de Vlaamse Nutsregulator (voorheen VREG).
 - **Geen nalezing in uw plaats.** Een formulier dat vooraf is ingevuld met verkeerde gegevens, blijft verkeerd.
 
 ## Beschikbaarheid en activering

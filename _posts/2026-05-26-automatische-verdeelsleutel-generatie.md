@@ -8,7 +8,7 @@ description: "Twee algoritmes — brute force op standaardsleutels en LOGAAS —
 tags: [allocation-key, app, guide]
 lang: nl
 ref: optimce-allocation-key-generator
-last_modified_at: 2026-10-11 10:00:00 +0200
+last_modified_at: 2026-11-21 06:00:00 +0100
 pillar: cle-de-repartition
 permalink: /nl/gidsen/automatische-verdeelsleutel-generatie/
 ---
@@ -17,7 +17,7 @@ De **verdeelsleutel** kiezen die het meest haalt uit de lokale productie van een
 
 De **module voor automatische generatie van verdeelsleutels** van OptimCE is nu beschikbaar om die beslissing uit het buikgevoel te halen. Geef hem een CSV met de reële productie- en verbruiksdata van de gemeenschap, en hij geeft een kandidaat-sleutel terug met een verwachte collectieve zelfverbruiksgraad — berekend op uw eigen data, niet op een handboekvoorbeeld. Vandaag worden twee **onafhankelijke** algoritmes uitgeleverd, die allebei dezelfde CSV verwerken: een **brute force** die de regionaal goedgekeurde standaardsleutels afzoekt, en **LOGAAS**, een hybride aanpak met lineaire optimalisatie en genetisch algoritme, ontwikkeld door [**CeCoTePe**](https://cecotepe.be/) voor het **Locomotrice**-project. Later kunnen meer algoritmes worden toegevoegd.
 
-Als u het regelgevend landschap nog in kaart brengt — wat CWaPE, BRUGEL en VREG als geldige sleutel aanvaarden — begin dan met ons referentieartikel [“Verdeelsleutel in België: de 3 regio's”](/nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/).
+Als u het regelgevend landschap nog in kaart brengt — wat CWaPE, BRUGEL en Vlaamse Nutsregulator (voorheen VREG) als geldige sleutel aanvaarden — begin dan met ons referentieartikel [“Verdeelsleutel in België: de 3 regio's”](/nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/).
 
 <img src="/assets/images/diagrams/allocation-key-flow-nl.svg"
      alt="Schema in vijf stappen: kwartierwaarden, generatie of simulatie, kandidaatsleutel, validatie door de leden, doorgifte aan de netbeheerder."
@@ -146,7 +146,7 @@ Om verder te gaan, lees onze begeleidende gidsen:
 
 > **[Verdeelsleutel in België: de 3 regio's](/nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/)**
 >
-> De regulatoire primer — wat CWaPE, BRUGEL en VREG aanvaarden, de drie regionale vocabulaires en hoe u een sleutelfamilie kiest voordat u OptimCE erbinnen laat optimaliseren.
+> De regulatoire primer — wat CWaPE, BRUGEL en Vlaamse Nutsregulator aanvaarden, de drie regionale vocabulaires en hoe u een sleutelfamilie kiest voordat u OptimCE erbinnen laat optimaliseren.
 
 > **[Hoe een energiegemeenschap oprichten in Wallonië: stapsgewijze gids](/nl/gidsen/energiegemeenschap-oprichten-wallonie/)**
 >

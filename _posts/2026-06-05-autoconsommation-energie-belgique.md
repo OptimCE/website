@@ -10,7 +10,7 @@ lang: fr
 ref: self-consumption-belgium
 pillar: communautes-energie
 permalink: /guides/autoconsommation-energie-belgique/
-last_modified_at: 2026-11-10 06:00:00 +0100
+last_modified_at: 2026-11-21 06:00:00 +0100
 faq:
   - q: "Qu'est-ce que le taux d'autoconsommation ?"
     a: "C'est la part de votre production solaire que vous consommez vous-même, au lieu de l'injecter sur le réseau. Un taux de 30 % signifie que vous consommez directement 30 % de ce que vos panneaux produisent ; le reste est injecté. Plus le taux est élevé, plus vous valorisez votre production."
@@ -23,7 +23,7 @@ faq:
   - q: "Dois-je changer de fournisseur d'électricité ?"
     a: "Non. Vous gardez votre fournisseur, qui continue de facturer uniquement l'énergie résiduelle, c'est-à-dire la part de votre consommation non couverte par votre propre production ou par le partage."
   - q: "L'autoconsommation collective fonctionne-t-elle partout en Belgique ?"
-    a: "Le cadre existe dans les trois régions mais avec des modalités différentes : la Wallonie (CWaPE, ORES/RESA/AIEG/AIESH/REW) et la Flandre (VREG, Fluvius) ont un cadre opérationnel, tandis que Bruxelles (BRUGEL, Sibelga) a déployé l'autoconsommation collective via des projets pilotes. Un compteur communicant est requis partout."
+    a: "Le cadre existe dans les trois régions mais avec des modalités différentes : la Wallonie (CWaPE, ORES/RESA/AIEG/AIESH/REW) et la Flandre (Vlaamse Nutsregulator, Fluvius) ont un cadre opérationnel, tandis que Bruxelles (BRUGEL, Sibelga) a déployé l'autoconsommation collective via des projets pilotes. Un compteur communicant est requis partout."
 ---
 
 L'autoconsommation est devenue l'un des piliers de la transition énergétique belge : consommer soi-même l'électricité produite localement, plutôt que de l'injecter sur le réseau à faible valeur. Avec un parc photovoltaïque qui dépasse désormais **8 GWc** et des prix de marché volatils depuis 2022, valoriser sa propre production — seul ou à plusieurs — n'a jamais été aussi pertinent. Cet article explique ce qu'est l'autoconsommation, pourquoi elle est intéressante, comment augmenter son **taux d'autoconsommation**, et comment elle se relie aux **communautés d'énergie**, avec les différences entre Wallonie, Bruxelles et Flandre.
@@ -78,15 +78,15 @@ Le principe de l'autoconsommation est identique partout, mais les acteurs et l'�
 
 | Critère | Wallonie | Bruxelles | Flandre |
 |---|---|---|---|
-| Régulateur | CWaPE | BRUGEL | VREG |
+| Régulateur | CWaPE | BRUGEL | Vlaamse Nutsregulator |
 | Gestionnaire de réseau (GRD) | ORES, RESA, AIEG, AIESH, REW | Sibelga | Fluvius |
 | Cadre de l'autoconsommation collective | Opérationnel (CER / CEC) | Déployée via projets pilotes | Opérationnel (« energiedelen ») |
 | Compteur communicant requis | Oui | Oui | Oui |
-| Revenu complémentaire producteur | Certificats verts | Certificats verts (≈ 10 premières années) | Soutien spécifique — voir VREG |
+| Revenu complémentaire producteur | Certificats verts | Certificats verts (≈ 10 premières années) | Soutien spécifique — voir Vlaamse Nutsregulator |
 
 - **Wallonie.** La [CWaPE](https://www.cwape.be/documents-recents/autoconsommation-collective-et-reseaux-alternatifs-avis-sur-un-projet-de-decret) encadre l'autoconsommation collective et les réseaux alternatifs ; [ORES](https://www.ores.be/particulier/communautes-denergie) et les autres GRD gèrent les compteurs et les répartitions. Le cadre wallon de l'[autoconsommation collective et des communautés d'énergie](https://energie.wallonie.be/home/actualites/actualites/communautes-denergie-et-autocons.html) est aujourd'hui stabilisé.
 - **Bruxelles.** [BRUGEL](https://brugel.brussels/actualites/lancement-du-1er-projet-d-autoconsommation-collective-a-bruxelles-415) a lancé le **premier projet d'autoconsommation collective** de la Région, opéré techniquement par Sibelga. Le portail [Energy Sharing de BRUGEL](https://energysharing.brugel.brussels/energysharing/les-projets-405) recense les projets, et [Renouvelle](https://www.renouvelle.be/fr/premiers-projets-pilotes-dautoconsommation-collective-a-bruxelles/) décrit l'intérêt de ces projets pilotes pour les quartiers.
-- **Flandre.** Le partage d'énergie (« **energiedelen** ») est encadré par le VREG et opéré par [Fluvius](https://www.fluvius.be/nl/groene-energie/energiedelen), qui détaille les conditions techniques, la vente d'électricité verte et le partage entre participants.
+- **Flandre.** Le partage d'énergie (« **energiedelen** ») est encadré par la Vlaamse Nutsregulator (anciennement VREG) et opéré par [Fluvius](https://www.fluvius.be/nl/groene-energie/energiedelen), qui détaille les conditions techniques, la vente d'électricité verte et le partage entre participants.
 
 ## Qui peut en bénéficier ?
 
@@ -134,7 +134,7 @@ Non. Vous gardez votre fournisseur, qui continue de facturer uniquement l'énerg
 
 ### L'autoconsommation collective fonctionne-t-elle partout en Belgique ?
 
-Le cadre existe dans les trois régions mais avec des modalités différentes : la Wallonie (CWaPE, ORES/RESA/AIEG/AIESH/REW) et la Flandre (VREG, Fluvius) ont un cadre opérationnel, tandis que Bruxelles (BRUGEL, Sibelga) a déployé l'autoconsommation collective via des projets pilotes. Un compteur communicant est requis partout.
+Le cadre existe dans les trois régions mais avec des modalités différentes : la Wallonie (CWaPE, ORES/RESA/AIEG/AIESH/REW) et la Flandre (Vlaamse Nutsregulator, Fluvius) ont un cadre opérationnel, tandis que Bruxelles (BRUGEL, Sibelga) a déployé l'autoconsommation collective via des projets pilotes. Un compteur communicant est requis partout.
 
 ## Passez à l'action
 

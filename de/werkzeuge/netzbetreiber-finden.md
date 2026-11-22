@@ -12,14 +12,14 @@ tool_page: true
 tool: dso
 tool_order: 1
 date_published: 2026-10-18
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-21
 faq:
   - q: "Welcher Netzbetreiber ist für mich zuständig?"
     a: "Geben Sie Ihre Postleitzahl in das Werkzeug oben auf dieser Seite ein: Es zeigt den Strom- und den Gasnetzbetreiber Ihrer Gemeinde an. Umfasst die Postleitzahl mehrere Gemeinden oder wechselt der Netzbetreiber von einem Ortsteil zum anderen, fragt das Werkzeug nach. Zur Kontrolle sehen Sie auf Ihrer Jahresabrechnung für Strom nach: Bei einem Haushalt nennt sie den Namen und die Telefonnummer des Netzbetreibers, den Sie bei einer Störung anrufen."
   - q: "Was unterscheidet meinen Netzbetreiber von meinem Versorger?"
     a: "Der Versorger verkauft Ihnen Strom oder Gas und schickt Ihnen die Rechnung: Ihn wählen Sie selbst. Der Verteilernetzbetreiber betreibt und wartet das Netz bis zu Ihrem Zähler, liest Ihre Zählerstände ab und greift bei Störungen ein: Er hängt von Ihrer Adresse ab. Die Netzkosten des Netzbetreibers stehen auf der Rechnung des Versorgers, der sie an ihn weiterleitet."
   - q: "Kann ich meinen Netzbetreiber wechseln?"
-    a: "Nein. Jeder Verteilernetzbetreiber ist für ein Gebiet bezeichnet: in der Wallonie von der Wallonischen Regierung, auf Vorschlag der lokalen Behörden und nach Stellungnahme der CWaPE; in Flandern von der VREG. In Brüssel ist Sibelga der einzige Netzbetreiber. Ihr Netzbetreiber ändert sich nur, wenn Sie in das Gebiet eines anderen Netzbetreibers umziehen oder wenn Ihre Gemeinde den Netzbetreiber wechselt, wie Brunehaut beim Strom am 1. Januar 2026."
+    a: "Nein. Jeder Verteilernetzbetreiber ist für ein Gebiet bezeichnet: in der Wallonie von der Wallonischen Regierung, auf Vorschlag der lokalen Behörden und nach Stellungnahme der CWaPE; in Flandern von der Vlaamse Nutsregulator. In Brüssel ist Sibelga der einzige Netzbetreiber. Ihr Netzbetreiber ändert sich nur, wenn Sie in das Gebiet eines anderen Netzbetreibers umziehen oder wenn Ihre Gemeinde den Netzbetreiber wechselt, wie Brunehaut beim Strom am 1. Januar 2026."
   - q: "Wen rufe ich bei einem Stromausfall oder einer Gasstörung an?"
     a: "Ihren Verteilernetzbetreiber, nicht Ihren Versorger: Er betreibt das Netz und behebt Störungen. Bei einem Haushalt stehen der Name und die Telefonnummer für einen Stromausfall auf der Jahresabrechnung oder Schlussrechnung. In Brüssel zum Beispiel kommt Sibelga auch bei Gasgeruch. Das Werkzeug nennt Namen und Website Ihrer Strom- und Gasnetzbetreiber."
   - q: "Wo finde ich meinen EAN-Code?"
@@ -73,9 +73,9 @@ Gasgeruch ([Brugel](https://www.brugel.brussels/brugel/grd-29)).
 
 ### Flandern: acht Fluvius-Netzbetreiber {#flandern}
 
-Die [VREG]({{ 'glossary-term-vreg' | ref_url }}), die flämische Energieregulierungsbehörde, bezeichnet die
+Die [Vlaamse Nutsregulator]({{ 'glossary-term-vreg' | ref_url }}) (früher VREG), die flämische Energieregulierungsbehörde, bezeichnet die
 Verteilernetzbetreiber
-([VREG](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/technische-reglementen-flexibiliteit-niet-publieke-netten/wie-is-mijn-netbeheerder/aanwijzing-netbeheerders)).
+([Vlaamse Nutsregulator](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/technische-reglementen-flexibiliteit-niet-publieke-netten/wie-is-mijn-netbeheerder/aanwijzing-netbeheerders)).
 Acht Fluvius-Netzbetreiber teilen sich die 285 flämischen Gemeinden; in der Regel ist derselbe
 für Strom und Gas zuständig:
 
@@ -88,14 +88,14 @@ für Strom und Gas zuständig:
 - Fluvius West: 59 Gemeinden
 - Fluvius Zenne-Dijle: 44 Gemeinden
 
-Diese Zahlen für 2026 stammen aus den Tarifbeschlüssen der VREG
+Diese Zahlen für 2026 stammen aus den Tarifbeschlüssen der Vlaamse Nutsregulator
 ([Quellen]({{ 'tool-dso-list' | ref_url }}#sources)). Beim Gas gibt es zwei Ausnahmen. Voeren (Fourons) ist
 von der Bezeichnung von Fluvius Limburg für Gas ausgenommen: Die Gemeinde hat keinen
 Erdgasnetzbetreiber
-([VREG, Beschluss BESL-2015-47](https://assets.vlaamsenutsregulator.be/document/besl-2015-47.pdf)).
+([Vlaamse Nutsregulator, Beschluss BESL-2015-47](https://assets.vlaamsenutsregulator.be/document/besl-2015-47.pdf)).
 In Baarle-Hertog verteilt Enexis, ein niederländischer Netzbetreiber, das Gas, außer im Ortsteil
 Zondereigen, den Fluvius Kempen versorgt
-([VREG](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/technische-reglementen-flexibiliteit-niet-publieke-netten/wie-is-mijn-netbeheerder/aanwijzing-netbeheerders)).
+([Vlaamse Nutsregulator](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/technische-reglementen-flexibiliteit-niet-publieke-netten/wie-is-mijn-netbeheerder/aanwijzing-netbeheerders)).
 
 ### Wallonie: ORES, RESA, AIEG, AIESH und REW {#wallonie}
 
@@ -129,8 +129,8 @@ Amel, Büllingen, Burg-Reuland und Bütgenbach ist kein Gasnetzbetreiber bezeich
 Jeder Verteilernetzbetreiber legt seine Verteilertarife nach der Methode fest, die die
 Regulierungsbehörde seiner Region vorgibt: die CWaPE in der Wallonie
 ([CWaPE](https://www.cwape.be/de/netztarife)), Brugel in Brüssel ([Brugel](https://brugel.brussels/themes/tarifs-de-distribution-12)). In Flandern
-genehmigt die VREG sie jedes Jahr; sie hängen vom Netzgebiet ab, in dem Sie wohnen
-([VREG](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/nettarieven/hoeveel-bedragen-de-distributienettarieven)).
+genehmigt die Vlaamse Nutsregulator sie jedes Jahr; sie hängen vom Netzgebiet ab, in dem Sie wohnen
+([Vlaamse Nutsregulator](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/nettarieven/hoeveel-bedragen-de-distributienettarieven)).
 
 In der Wallonie ist der Abstand zwischen den Netzbetreibern real: Für 3 500 kWh im Eintarif kostet die Verteilung 2026 von 400 € bei der AIEG bis 495 € bei der AIESH, einschließlich Mehrwertsteuer. Die Berechnung für jeden Netzbetreiber und jede Formel steht in [„Verteilungstarife in der Wallonie: 5 im Vergleich“]({{ 'distribution-tariffs-dso-wallonia' | ref_url }}).
 
@@ -181,7 +181,7 @@ Punkte, die unsere Quellen noch nicht belegen.
 - **Beveren-Kruibeke-Zwijndrecht, Strom und Gas.** Seit dem 1. Januar 2026 ist Fluvius
   Midden-Vlaanderen für die ganze Gemeinde zuständig; für Zwijndrecht (2070) war bis dahin
   Fluvius Antwerpen zuständig
-  ([VREG, Beschluss BESL-2026-30](https://assets.vlaamsenutsregulator.be/2026-02/BESL-2026-30.pdf?VersionId=ElUWU7F1ROzPe0DBorhKohDkgVri6GOX)).
+  ([Vlaamse Nutsregulator, Beschluss BESL-2026-30](https://assets.vlaamsenutsregulator.be/2026-02/BESL-2026-30.pdf?VersionId=ElUWU7F1ROzPe0DBorhKohDkgVri6GOX)).
 
 Der Wechsel in Couvin liegt länger zurück: Am 1. Januar 2024 hat AIESH von ORES das Stromnetz von
 Boussu-en-Fagnes, Couvin, Frasnes-lez-Couvin, Mariembourg und Petigny übernommen
@@ -199,7 +199,7 @@ Abschnitt bis zu Ihrem Zähler. Davor:
   des lokalen Übertragungsnetzes bis 70 kV, auf Abschnitten, die die Wallonische Regierung
   festlegt ([CWaPE](https://www.cwape.be/node/160)). In Flandern betreibt Elia das „plaatselijk vervoernet“
   (lokales Übertragungsnetz) und kein Verteilernetz
-  ([VREG](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/technische-reglementen-flexibiliteit-niet-publieke-netten/wie-is-mijn-netbeheerder/aanwijzing-netbeheerders)).
+  ([Vlaamse Nutsregulator](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/technische-reglementen-flexibiliteit-niet-publieke-netten/wie-is-mijn-netbeheerder/aanwijzing-netbeheerders)).
   Ein Unternehmen, das direkt an diese Netze angeschlossen ist, hat Elia als Netzbetreiber, keinen
   Verteilernetzbetreiber.
 - **Fluxys Belgium** betreibt die Fernleitungsinfrastruktur für Erdgas unter Hochdruck; die
@@ -261,7 +261,7 @@ Der Versorger verkauft Ihnen Strom oder Gas und schickt Ihnen die Rechnung: Ihn 
 
 ### Kann ich meinen Netzbetreiber wechseln?
 
-Nein. Jeder Verteilernetzbetreiber ist für ein Gebiet bezeichnet: in der Wallonie von der Wallonischen Regierung, auf Vorschlag der lokalen Behörden und nach Stellungnahme der CWaPE; in Flandern von der VREG. In Brüssel ist Sibelga der einzige Netzbetreiber. Ihr Netzbetreiber ändert sich nur, wenn Sie in das Gebiet eines anderen Netzbetreibers umziehen oder wenn Ihre Gemeinde den Netzbetreiber wechselt, wie Brunehaut beim Strom am 1. Januar 2026.
+Nein. Jeder Verteilernetzbetreiber ist für ein Gebiet bezeichnet: in der Wallonie von der Wallonischen Regierung, auf Vorschlag der lokalen Behörden und nach Stellungnahme der CWaPE; in Flandern von der Vlaamse Nutsregulator. In Brüssel ist Sibelga der einzige Netzbetreiber. Ihr Netzbetreiber ändert sich nur, wenn Sie in das Gebiet eines anderen Netzbetreibers umziehen oder wenn Ihre Gemeinde den Netzbetreiber wechselt, wie Brunehaut beim Strom am 1. Januar 2026.
 
 ### Wen rufe ich bei einem Stromausfall oder einer Gasstörung an?
 

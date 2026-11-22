@@ -2,6 +2,7 @@
 layout: post
 title: "Nouvel outil : trouver son gestionnaire de réseau"
 date: 2026-10-22 06:00:00 +0200
+last_modified_at: 2026-11-21 06:00:00 +0100
 author: "Eric d'OptimCE"
 excerpt: "Qui gère le réseau d'électricité et de gaz de votre commune ? Notre outil gratuit répond à partir du code postal, pour les 565 communes de Belgique, dans votre navigateur et sans compte."
 description: "Trouver son gestionnaire de réseau d'électricité et de gaz avec son code postal : notre outil gratuit couvre les 565 communes belges, sans compte."
@@ -17,8 +18,8 @@ faq:
     a: "Parce que votre code postal ne suffit pas toujours. Trois codes postaux couvrent deux communes : 1040 (Bruxelles et Etterbeek), 1050 (Bruxelles et Ixelles) et 1804 (Vilvorde et Zemst). À Baerle-Duc, le gestionnaire du gaz dépend de la section de commune : Enexis, un gestionnaire néerlandais, sauf à Zondereigen, desservie par Fluvius Kempen. L'outil vous pose alors la question avant d'afficher le résultat."
   - q: "Que faire si l'outil donne un mauvais gestionnaire de réseau ?"
     a: "Signalez-le avec le lien « Signaler une erreur » placé sous le résultat : il ouvre un e-mail vers contact@optimce.be qui indique la version des données, sans votre code postal. Pour vérifier en attendant, regardez votre facture de décompte ou de clôture d'électricité : pour un ménage, elle donne le nom et le numéro de téléphone du gestionnaire de réseau à appeler en cas de panne."
-  - q: "L'outil sera-t-il intégré à l'application OptimCE ?"
-    a: "C'est prévu. Quand un gestionnaire de communauté d'énergie ajoutera un compteur dans l'application, celle-ci proposera le gestionnaire de réseau de la commune, qu'il pourra corriger. En attendant, l'outil reste accessible à tous, gratuitement, sur le site optimce.be."
+  - q: "L'outil est-il intégré à l'application OptimCE ?"
+    a: "Oui. Quand un gestionnaire de communauté d'énergie ajoute un compteur dans l'application, celle-ci propose le gestionnaire de réseau d'électricité de l'adresse, qu'il peut corriger. Elle s'appuie sur les mêmes données que l'outil, qui reste accessible à tous, gratuitement, sur le site optimce.be."
 ---
 
 Pour trouver son gestionnaire de réseau d'électricité et de gaz, un code postal suffit désormais. Notre outil gratuit [« Quel est mon GRD ? »](/outils/quel-est-mon-grd/) donne, pour chacune des 565 communes belges, le gestionnaire de réseau de distribution (GRD) d'électricité et celui du gaz naturel. La recherche se fait dans votre navigateur, sans compte. L'outil inaugure la rubrique [Outils](/outils/) du site.
@@ -62,9 +63,9 @@ Quand nos sources ne suffisent pas, l'outil le dit. À Walcourt et à Marchin, l
 
 Le jeu de données compilé est publié sous licence CC BY 4.0 dans le dépôt [belgian-dso-map](https://github.com/OptimCE/belgian-dso-map) sur GitHub : chacun peut le réutiliser en citant la source. Chaque résultat affiche la version des données. Si une réponse vous semble fausse, le lien « Signaler une erreur », sous le résultat, ouvre un e-mail vers contact@optimce.be qui contient la version des données, jamais votre code postal.
 
-## La suite : l'outil dans l'application
+## L'outil dans l'application
 
-Nous prévoyons d'intégrer la même recherche à l'application OptimCE : quand un gestionnaire de communauté ajoutera un compteur, l'application proposera le GRD de la commune, qu'il pourra corriger. OptimCE couvre aujourd'hui le cadre wallon ; Bruxelles et la Flandre sont prévues, mais pas encore implémentées.
+La même recherche est désormais intégrée à l'application OptimCE : quand un gestionnaire de communauté ajoute un compteur, l'application propose le GRD d'électricité de l'adresse, qu'il peut corriger. Comment ces données sont construites et testées : [« GRD par commune : les coulisses des données »](/actualites/2026/11/21/grd-par-commune-coulisses-donnees/). OptimCE couvre aujourd'hui le cadre wallon ; Bruxelles et la Flandre sont prévues, mais pas encore implémentées.
 
 Vous portez un projet de partage ? Nos guides expliquent comment [créer une communauté d'énergie en Wallonie](/guides/creer-communaute-energie-wallonie/) ou [en rejoindre une](/guides/rejoindre-communaute-energie-wallonie/), et la page [Fonctionnalités](/fonctionnalites/) présente ce que l'application gère au quotidien.
 
@@ -92,9 +93,9 @@ Parce que votre code postal ne suffit pas toujours. Trois codes postaux couvrent
 
 Signalez-le avec le lien « Signaler une erreur » placé sous le résultat : il ouvre un e-mail vers contact@optimce.be qui indique la version des données, sans votre code postal. Pour vérifier en attendant, regardez votre facture de décompte ou de clôture d'électricité : pour un ménage, elle donne le nom et le numéro de téléphone du gestionnaire de réseau à appeler en cas de panne.
 
-### L'outil sera-t-il intégré à l'application OptimCE ?
+### L'outil est-il intégré à l'application OptimCE ?
 
-C'est prévu. Quand un gestionnaire de communauté d'énergie ajoutera un compteur dans l'application, celle-ci proposera le gestionnaire de réseau de la commune, qu'il pourra corriger. En attendant, l'outil reste accessible à tous, gratuitement, sur le site optimce.be.
+Oui. Quand un gestionnaire de communauté d'énergie ajoute un compteur dans l'application, celle-ci propose le gestionnaire de réseau d'électricité de l'adresse, qu'il peut corriger. Elle s'appuie sur les mêmes données que l'outil, qui reste accessible à tous, gratuitement, sur le site optimce.be.
 
 ## Sources
 

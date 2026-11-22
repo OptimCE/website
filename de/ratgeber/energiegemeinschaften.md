@@ -8,14 +8,14 @@ ref: pillar-communautes-energie
 pillar: communautes-energie
 permalink: /de/ratgeber/energiegemeinschaften/
 breadcrumb_parent: guides
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-22
 sections:
   - title: "Den Rahmen verstehen"
     refs: [energy-communities-europe, energy-communities-belgium, energy-sharing-barometer-wallonia, self-consumption-belgium, impact-tariff-energy-sharing]
   - title: "Eine Gemeinschaft gründen oder ihr beitreten"
     refs: [create-energy-community-wallonia, energy-community-legal-form, join-energy-community-wallonia]
   - title: "Die Gemeinschaft im Alltag führen"
-    refs: [engage-energy-community, cwape-administrative-documents]
+    refs: [engage-energy-community, cwape-administrative-documents, meter-data-energy-community]
 ---
 Eine Energiegemeinschaft bringt Bürgerinnen und Bürger, Unternehmen oder lokale Behörden zusammen, um ihre eigene Energie zu erzeugen, zu teilen und zu verbrauchen. Sie ist eine juristische Person, meist eine VoG (gemeinnützige Vereinigung) oder eine Genossenschaft, der man freiwillig beitritt. Die Energieteilung ist administrativ, nicht physisch: Der Verteilnetzbetreiber (VNB) weist jedem Mitglied viertelstündlich einen Anteil der lokalen Erzeugung nach einem Aufteilungsschlüssel zu. Man spricht von kollektivem Eigenverbrauch. Sie behalten Ihren Lieferanten, der den Teil Ihres Verbrauchs abrechnet, den die Teilung nicht deckt.
 
@@ -26,6 +26,6 @@ Der rechtliche Rahmen geht auf [zwei europäische Richtlinien]({{ "energy-commun
 
 Ist die Gemeinschaft gestartet, bleibt die tatsächliche Kontrolle durch die Mitglieder eine fortlaufende Anforderung. Sie wird gepflegt, indem man regelmäßig informiert und vor Entscheidungen konsultiert, insbesondere beim Aufteilungsschlüssel, der jede Rechnung berührt: Darum geht es in [„Mitglieder einer Energiegemeinschaft einbinden“]({{ "engage-energy-community" | ref_url }}).
 
-Administrativ erhält die CWaPE die Meldung, deren Änderungen und den Jahresbericht, der VNB dagegen alles, was die Teilung betrifft. Jede Teilungsaktivität muss zudem von der CWaPE genehmigt werden, auf einen Antrag beim VNB hin: Unser [Barometer der genehmigten Teilungen]({{ "energy-sharing-barometer-wallonia" | ref_url }}) erfasst sie einzeln, jedes Quartal. Zwei Fristen werden oft falsch gelesen: Ein unvollständiges Meldedossier verfällt, wenn es nicht innerhalb von sechs Monaten ab der ersten Empfangsbestätigung vervollständigt wird, und der Jahresbericht ist jedes Jahr spätestens zum 1. September fällig, unabhängig vom Datum der Meldung. Einzelheiten stehen in [„Energiegemeinschaft: CWaPE-Dokumente und Fristen“]({{ "cwape-administrative-documents" | ref_url }}).
+Administrativ erhält die CWaPE die Meldung, deren Änderungen und den Jahresbericht, der VNB dagegen alles, was die Teilung betrifft. Der VNB liefert auch die Daten der Gemeinschaft: Jeden Monat sendet er dem Vertreter die Viertelstundenwerte jedes Mitglieds, wie [„Messdaten in der Energiegemeinschaft“]({{ "meter-data-energy-community" | ref_url }}) erklärt. Jede Teilungsaktivität muss zudem von der CWaPE genehmigt werden, auf einen Antrag beim VNB hin: Unser [Barometer der genehmigten Teilungen]({{ "energy-sharing-barometer-wallonia" | ref_url }}) erfasst sie einzeln, jedes Quartal. Zwei Fristen werden oft falsch gelesen: Ein unvollständiges Meldedossier verfällt, wenn es nicht innerhalb von sechs Monaten ab der ersten Empfangsbestätigung vervollständigt wird, und der Jahresbericht ist jedes Jahr spätestens zum 1. September fällig, unabhängig vom Datum der Meldung. Einzelheiten stehen in [„Energiegemeinschaft: CWaPE-Dokumente und Fristen“]({{ "cwape-administrative-documents" | ref_url }}).
 
 Die Ratgeber weiter unten folgen diesen drei Etappen: der Rahmen, Gründung oder Beitritt, dann das Leben der Gemeinschaft.

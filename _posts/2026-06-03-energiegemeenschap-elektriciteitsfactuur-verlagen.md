@@ -9,7 +9,7 @@ tags: [community]
 lang: nl
 ref: reduce-electricity-bill
 pillar: facture-electricite
-last_modified_at: 2026-11-10 06:00:00 +0100
+last_modified_at: 2026-11-21 06:00:00 +0100
 permalink: /nl/gidsen/energiegemeenschap-elektriciteitsfactuur-verlagen/
 ---
 
@@ -67,12 +67,12 @@ De besparingsmechanismen bestaan in alle drie de regio's, maar de actoren en som
 
 | Criterium | Wallonië | Brussel | Vlaanderen |
 |---|---|---|---|
-| Regulator | CWaPE | BRUGEL | VREG |
+| Regulator | CWaPE | BRUGEL | Vlaamse Nutsregulator |
 | Distributienetbeheerder (DNB) | ORES, RESA, AIEG, AIESH, REW | Sibelga | Fluvius |
 | Nettarief op gedeelde energie | Geen vermindering in gemeenschap; −80% op de proportionele termen in hetzelfde gebouw | Getrapte vermindering over vier perimeters: proportionele term geschrapt in hetzelfde gebouw, −50% op dezelfde LS-cabine; de vaste term wordt in geen van de vier aangerekend | Geen vermindering |
-| Bijkomend inkomen voor de producent | Groenestroomcertificaten | Groenestroomcertificaten (≈ eerste 10 jaar) | Specifieke steun — zie VREG |
+| Bijkomend inkomen voor de producent | Groenestroomcertificaten | Groenestroomcertificaten (≈ eerste 10 jaar) | Specifieke steun — zie Vlaamse Nutsregulator |
 | Slimme meter vereist | Ja | Ja | Ja |
-| Verdeelsleutel | Standaardfamilies CWaPE | Vast / pro rata / hybride (BRUGEL) | Vaste / relatieve / optimale (VREG) |
+| Verdeelsleutel | Standaardfamilies CWaPE | Vast / pro rata / hybride (BRUGEL) | Vaste / relatieve / optimale (Vlaamse Nutsregulator) |
 
 Voor het detail van de verdeelsleutels en hun impact op het gedeelde bedrag, zie ons specifieke artikel: [“Verdeelsleutel in België: de 3 regio's”](/nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/). In Brussel kunnen producenten bovendien een **bijkomend inkomen halen uit de verkoop van groenestroomcertificaten** tijdens de eerste jaren van hun installatie ([Sibelga](https://www.sibelga.be/en/connections-meters/renewable-energy/solar-panels/green-certificates)).
 

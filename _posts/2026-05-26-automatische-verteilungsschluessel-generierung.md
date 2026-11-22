@@ -8,7 +8,7 @@ description: "Zwei Algorithmen — Brute-Force über alle Standardschlüssel und
 tags: [allocation-key, app, guide]
 lang: de
 ref: optimce-allocation-key-generator
-last_modified_at: 2026-10-11 10:00:00 +0200
+last_modified_at: 2026-11-21 06:00:00 +0100
 pillar: cle-de-repartition
 permalink: /de/ratgeber/automatische-verteilungsschluessel-generierung/
 ---
@@ -17,7 +17,7 @@ Den **Aufteilungsschlüssel** zu wählen, der das Beste aus der lokalen Erzeugun
 
 Das **automatische Generierungsmodul für Aufteilungsschlüssel** von OptimCE ist nun verfügbar, um diese Entscheidung aus dem Bauchgefühl-Bereich herauszuholen. Geben Sie ihm eine CSV mit den realen Erzeugungs- und Verbrauchsdaten der Gemeinschaft, und es liefert einen Kandidatenschlüssel mit der erwarteten kollektiven Eigenverbrauchsrate — berechnet auf Ihren eigenen Daten, nicht auf einem Lehrbuchbeispiel. Heute werden zwei **unabhängige** Algorithmen ausgeliefert, die beide dieselbe CSV verarbeiten: ein **Brute-Force-Scan** über die regional zugelassenen Standardschlüssel und **LOGAAS**, ein hybrider Ansatz aus linearer Optimierung und genetischem Algorithmus, entwickelt von [**CeCoTePe**](https://cecotepe.be/) für das **Locomotrice**-Projekt. Weitere Algorithmen können später ergänzt werden.
 
-Wenn Sie sich noch im regulatorischen Umfeld orientieren — was CWaPE, BRUGEL und VREG als gültigen Schlüssel akzeptieren — beginnen Sie mit unserem Referenzartikel [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/ratgeber/verteilungsschluessel-energiegemeinschaft-belgien/).
+Wenn Sie sich noch im regulatorischen Umfeld orientieren — was CWaPE, BRUGEL und Vlaamse Nutsregulator (früher VREG) als gültigen Schlüssel akzeptieren — beginnen Sie mit unserem Referenzartikel [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/ratgeber/verteilungsschluessel-energiegemeinschaft-belgien/).
 
 <img src="/assets/images/diagrams/allocation-key-flow-de.svg"
      alt="Fünfstufiges Schema: Viertelstundendaten, Generierung oder Simulation, Kandidatenschlüssel, Freigabe durch die Mitglieder, Übermittlung an den Netzbetreiber."
@@ -146,7 +146,7 @@ Um weiter zu gehen, lesen Sie unsere begleitenden Leitfäden:
 
 > **[Aufteilungsschlüssel in Belgien: 3 Regionen](/de/ratgeber/verteilungsschluessel-energiegemeinschaft-belgien/)**
 >
-> Der regulatorische Primer — was CWaPE, BRUGEL und VREG akzeptieren, die drei regionalen Vokabulare und wie man eine Schlüsselfamilie wählt, bevor OptimCE darin optimiert.
+> Der regulatorische Primer — was CWaPE, BRUGEL und Vlaamse Nutsregulator akzeptieren, die drei regionalen Vokabulare und wie man eine Schlüsselfamilie wählt, bevor OptimCE darin optimiert.
 
 > **[Wie man eine Energiegemeinschaft in Wallonien gründet: Schritt-für-Schritt-Leitfaden](/de/ratgeber/energiegemeinschaft-gruenden-wallonien/)**
 >

@@ -9,7 +9,7 @@ tags: [community, administrative, guide]
 lang: de
 ref: join-energy-community-wallonia
 pillar: communautes-energie
-last_modified_at: 2026-11-10 06:00:00 +0100
+last_modified_at: 2026-11-22 06:00:00 +0100
 permalink: /de/ratgeber/energiegemeinschaft-beitreten-wallonien/
 ---
 
@@ -183,7 +183,7 @@ Wallonische Genossenschaften funktionieren in der Regel nach **„ein Mitglied =
 
 ### Intelligenter Zähler und Datenschutz
 
-Der intelligente Zähler wird vom VNB kostenlos installiert, wenn Sie noch keinen besitzen. Die **Verbrauchsdaten** im 15-Minuten-Takt werden **ausschließlich für die Teilungsberechnung** verwendet; Sie können sie jederzeit auf dem Portal Ihres VNB einsehen.
+Der intelligente Zähler wird vom VNB kostenlos installiert, wenn Sie noch keinen besitzen. Ihre **Verbrauchsdaten** im 15-Minuten-Takt dienen der Teilungsberechnung: Der VNB übermittelt sie jeden Monat dem Vertreter der Gemeinschaft und, im Messregime 3, Ihrem Lieferanten. Jede andere Nutzung, etwa Ihre Lastkurve anderen Mitgliedern zu zeigen, braucht Ihre Zustimmung. Sie können sie jederzeit auf dem Portal Ihres VNB einsehen; Einzelheiten stehen in [„Messdaten in der Energiegemeinschaft“](/de/ratgeber/messdaten-energiegemeinschaft/).
 
 ### Restenergie und Gesamtkosten
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Energiegemeinschaften in Europa: RED II und IEMD"
 date: 2026-03-05 09:00:00 +0100
-last_modified_at: 2026-07-26 10:00:00 +0200
+last_modified_at: 2026-11-21 06:00:00 +0100
 author: "Eric, OptimCE"
 excerpt: "Zwei europäische Richtlinien regeln Energiegemeinschaften: RED II die Erneuerbare-Energien-Gemeinschaft, die Strombinnenmarktrichtlinie die Bürgerenergiegemeinschaft. Was sie trennt, was sie teilen und wie Belgien, Frankreich und die Niederlande sie umgesetzt haben."
 description: "Was die Richtlinien RED II und IEMD vorsehen, wie Belgien, Frankreich und die Niederlande sie umsetzen und was daraus folgt."
@@ -85,7 +85,7 @@ Eine Richtlinie gibt ein Ergebnis vor, keine unmittelbar anwendbare Regel. Jeder
 
 ### Belgien — drei regionale Rahmen
 
-Energie ist eine **regionale** Zuständigkeit. Wallonie, Brüssel und Flandern wenden jeweils ihr eigenes Dekret oder ihre eigene Ordonnanz an, mit eigener Regulierungsbehörde — CWaPE, BRUGEL, VREG — und eigenen Familien von Aufteilungsschlüsseln. Eine Brüsseler und eine wallonische Gemeinschaft folgen nicht denselben Regeln, obwohl beide aus denselben Richtlinien stammen.
+Energie ist eine **regionale** Zuständigkeit. Wallonie, Brüssel und Flandern wenden jeweils ihr eigenes Dekret oder ihre eigene Ordonnanz an, mit eigener Regulierungsbehörde — CWaPE, BRUGEL, Vlaamse Nutsregulator (früher VREG) — und eigenen Familien von Aufteilungsschlüsseln. Eine Brüsseler und eine wallonische Gemeinschaft folgen nicht denselben Regeln, obwohl beide aus denselben Richtlinien stammen.
 
 Die Einzelheiten der drei Rahmen, die Status CER, CEC und CEL sowie die Rolle des Netzbetreibers behandelt unser Referenzartikel: [„Energiegemeinschaften in Belgien: CER, CEC, CEL“](/de/ratgeber/energiegemeinschaften-belgien/).
 

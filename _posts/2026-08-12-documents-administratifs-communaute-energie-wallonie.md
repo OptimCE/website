@@ -8,7 +8,7 @@ description: "Notification, rapportage annuel, conventions GRD : quels documents
 tags: [administrative, app, guide]
 lang: fr
 ref: cwape-administrative-documents
-last_modified_at: 2026-11-13 08:00:00 +0100
+last_modified_at: 2026-11-21 06:00:00 +0100
 pillar: communautes-energie
 permalink: /guides/documents-administratifs-communaute-energie-wallonie/
 faq:
@@ -23,7 +23,7 @@ faq:
   - q: "OptimCE dépose-t-il les documents à la CWaPE à ma place ?"
     a: "Non, et c'est délibéré. OptimCE prépare les documents à partir de vos données, calcule les échéances, conserve chaque version envoyée et enregistre qui a transmis quoi et quand. Le dépôt lui-même reste de votre ressort : sur Mon Espace pour la notification, ses modifications et le rapportage annuel, auprès de votre gestionnaire de réseau pour le partage et les conventions. Il n'existe aucune interface automatisée entre la plateforme et le régulateur. Depuis le 11 novembre 2026, un seul document se signe dans l'application : l'annexe 8, la déclaration sur l'honneur des personnes prenant part au partage, par une signature électronique simple au sens du règlement eIDAS. Les conventions Word restent des documents que les parties éditent et signent, et ce qu'OptimCE ne peut pas déduire reste modifiable à la main."
   - q: "Et pour Bruxelles et la Flandre ?"
-    a: "La gestion des documents administratifs couvre aujourd'hui la Wallonie et la CWaPE uniquement. L'architecture est indexée par régulateur et Brugel comme la VREG sont déjà déclarés dans le registre partagé de la plateforme, mais ils y sont inactifs : un régulateur inconnu ou inactif provoque une erreur explicite plutôt qu'un repli silencieux sur les règles wallonnes. La raison est moins technique qu'éditoriale : ajouter une région, c'est surtout écrire les lots de documents de cette région, et Bruxelles comme la Flandre imposent des documents différents. Nous préférons ne pas annoncer d'échéance tant que ces lots ne sont pas écrits."
+    a: "La gestion des documents administratifs couvre aujourd'hui la Wallonie et la CWaPE uniquement. L'architecture est indexée par régulateur et Brugel comme la Vlaamse Nutsregulator sont déjà déclarés dans le registre partagé de la plateforme, mais ils y sont inactifs : un régulateur inconnu ou inactif provoque une erreur explicite plutôt qu'un repli silencieux sur les règles wallonnes. La raison est moins technique qu'éditoriale : ajouter une région, c'est surtout écrire les lots de documents de cette région, et Bruxelles comme la Flandre imposent des documents différents. Nous préférons ne pas annoncer d'échéance tant que ces lots ne sont pas écrits."
 ---
 
 Une communauté d'énergie wallonne se juge rarement sur sa technique. Les compteurs communicants existent, les clés de répartition se calculent, les volumes se comptent au quart d'heure. Ce qui bloque, ce sont les papiers — et surtout leurs dates. La CWaPE dispose de **dix jours ouvrables** pour vérifier si votre dossier de notification est complet. Un dossier resté incomplet devient **caduc au bout de six mois**. Une modification des conditions de constitution doit être notifiée dans les **quinze jours ouvrables**. Et chaque année, **pour le 1<sup>er</sup> septembre au plus tard**, la communauté doit déposer son rapportage annuel.
@@ -234,7 +234,7 @@ Quatre limites, qu'il vaut mieux connaître avant de s'engager.
 
 **Un seul document se signe dans OptimCE.** Depuis le 11 novembre 2026, l'annexe 8, la déclaration sur l'honneur des personnes prenant part au partage, se signe dans l'application. C'est une signature électronique simple au sens du règlement eIDAS, ni avancée ni qualifiée : elle ne peut pas être écartée comme preuve au seul motif qu'elle est électronique, mais elle n'a pas d'office la valeur d'une signature manuscrite. Rien d'autre ne se signe dans OptimCE : les conventions Word restent des contrats que les parties éditent et signent, et ni les avenants ni les bulletins d'adhésion ne s'y signent.
 
-**La couverture est wallonne.** Le module ne connaît aujourd'hui que la CWaPE. Brugel et la VREG sont déjà déclarés dans le registre de régulateurs partagé par les services, mais ils y sont inactifs, et c'est volontaire : un régulateur inactif provoque une erreur explicite plutôt qu'un repli silencieux sur les règles wallonnes, qui produirait des documents faux avec l'apparence du sérieux. Ajouter une région, c'est d'abord écrire les lots de documents de cette région — Bruxelles et la Flandre imposent des documents différents. Nous n'annoncerons pas de date tant que ce travail ne sera pas fait.
+**La couverture est wallonne.** Le module ne connaît aujourd'hui que la CWaPE. Brugel et la Vlaamse Nutsregulator (anciennement VREG) sont déjà déclarés dans le registre de régulateurs partagé par les services, mais ils y sont inactifs, et c'est volontaire : un régulateur inactif provoque une erreur explicite plutôt qu'un repli silencieux sur les règles wallonnes, qui produirait des documents faux avec l'apparence du sérieux. Ajouter une région, c'est d'abord écrire les lots de documents de cette région — Bruxelles et la Flandre imposent des documents différents. Nous n'annoncerons pas de date tant que ce travail ne sera pas fait.
 
 **Le module est optionnel.** La gestion des documents administratifs, comme la facturation ou le tableau d'actualités, s'active par communauté. Les tableaux de bord s'adaptent : les tuiles d'un module non souscrit ne s'affichent pas.
 
@@ -300,7 +300,7 @@ Non, et c'est délibéré. OptimCE prépare les documents à partir de vos donn�
 
 ### Et pour Bruxelles et la Flandre ?
 
-La gestion des documents administratifs couvre aujourd'hui **la Wallonie et la CWaPE uniquement**. L'architecture est indexée par régulateur et Brugel comme la VREG sont déjà déclarés dans le registre partagé de la plateforme, mais ils y sont inactifs : un régulateur inconnu ou inactif provoque une erreur explicite plutôt qu'un repli silencieux sur les règles wallonnes. La raison est moins technique qu'éditoriale : ajouter une région, c'est surtout écrire les lots de documents de cette région, et Bruxelles comme la Flandre imposent des documents différents. Nous préférons ne pas annoncer d'échéance tant que ces lots ne sont pas écrits.
+La gestion des documents administratifs couvre aujourd'hui **la Wallonie et la CWaPE uniquement**. L'architecture est indexée par régulateur et Brugel comme la Vlaamse Nutsregulator sont déjà déclarés dans le registre partagé de la plateforme, mais ils y sont inactifs : un régulateur inconnu ou inactif provoque une erreur explicite plutôt qu'un repli silencieux sur les règles wallonnes. La raison est moins technique qu'éditoriale : ajouter une région, c'est surtout écrire les lots de documents de cette région, et Bruxelles comme la Flandre imposent des documents différents. Nous préférons ne pas annoncer d'échéance tant que ces lots ne sont pas écrits.
 
 ## Sources
 

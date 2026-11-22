@@ -9,7 +9,7 @@ tags: [guide, community]
 lang: en
 ref: smart-meter-wallonia
 pillar: reseau-grd
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-22
 permalink: /en/guides/smart-meter-wallonia/
 faq:
   - q: "How do I request a smart meter in Wallonia?"
@@ -121,7 +121,7 @@ The DSO must allow “la consultation libre et gratuite” (free consultation) o
 
 In practice:
 
-- **at ORES**, the myORES account shows the previous day's data with a delay of about 72 hours; the quarter-hour view is switched on in the portal, and this “est transmise à votre fournisseur d'énergie” (is passed to your supplier), which may issue an interim bill;
+- **at ORES**, the myORES account shows the previous day's data with a delay of about 72 hours; the quarter-hour view is switched on in the portal, and this “est transmise à votre fournisseur d'énergie” (is passed to your supplier), which may issue an interim bill, with no effect on the annual bill or on compensation; the data of this view still “ne remonteront pas” (will not go up) to the supplier, which has to request them from ORES itself to use them;
 - **at RESA**, the MyRESA account shows your consumption and injection profile quarter-hour by quarter-hour;
 - **at AIESH**, it is Arewal's MyConso platform.
 
@@ -146,6 +146,8 @@ In practice, three conditions:
 If you want to join a community and do not have a smart meter yet, ask your DSO as soon as the project takes shape: it is the longest step, up to four months. The next steps are in [“Join an energy community in Wallonia”](/en/guides/join-energy-community-wallonia/), and the forms of sharing in [“Energy self-consumption in Belgium”](/en/guides/energy-self-consumption-belgium/).
 
 The meter only opens the door. Sharing only lowers the energy component of the shared kilowatt-hours: network costs, taxes and levies remain due on all your consumption, with the sole exception of the reduction granted to sharing within one building.
+
+Once sharing starts, this meter feeds a monthly flow: the DSO sends the representative each participant's quarter-hourly volumes, and your curve also goes to your supplier. What circulates, to whom and on what legal basis is covered in [“Meter data in an energy community”](/en/guides/meter-data-energy-community/).
 
 ## Brussels and Flanders
 
@@ -198,7 +200,7 @@ Yes, or an AMR meter, with communication active and regime R3 requested from you
 - [CWaPE — 2025 specific annual report on public service obligations](https://www.cwape.be/sites/default/files/cwape-documents/2026.07.03-RAS%20OSP%202025.pdf) — end of budget meters on 1 January 2026, 59,294 active prepayment meters of which 98.8% are smart meters. Report of 3 July 2026, accessed on 2 November 2026.
 - [CWaPE — Incentive tariff FAQ](https://cwape.be/sites/default/files/cwape-documents/2024.07.15-Tarification%20incitative-FAQ.pdf) — smart meter with active communication, 56 kVA or less. Document of 15 July 2024. [CWaPE — Press kit on distribution tariffs](https://www.cwape.be/sites/default/files/cwape-documents/2025.11.03-Tarifs%20distribution_dossier%20de%20presse%20-%20final.pdf) — refusal to impose R3 for the Impact tariff, definition of R1 and R3. Document of 3 November 2025. Accessed on 2 November 2026.
 - 2026 non-periodic tariffs approved by the CWaPE: [ORES, decision CD-26c26-CWaPE-1246, annex 8](https://www.cwape.be/sites/default/files/cwape-documents/2026.03.26-1246-ORES-D%C3%A9cision%20TPDA%20%26%20Rectification%20TNP%202025-29%20%2B%20annexes.pdf), [RESA](https://cwape.be/sites/default/files/cwape-documents/ANNEXE%20TNP-E0_B%20-%20RESA_ELEC_TARIFS%20NP_2026_0.pdf), [AIEG, decision of 19 December 2024](https://cwape.be/sites/default/files/cwape-documents/2024.12.19-1026-AIEG-D%C3%A9cision%20approbation%20TNP%202025-2029%2Bannexes.pdf), [AIESH, decision of 19 December 2024](https://cwape.be/sites/default/files/cwape-documents/2024.12.19-1027-AIESH-D%C3%A9cision%20approbation%20TNP%202025-2029%2Bannexes.pdf) and [REW](https://www.rew.be/document/download/191/fdd71d0b-f3ed-4a70-8731-6eb4dccc1610/118) — remote operations including the P1 port free, switching off communication 128.33 € excluding VAT more than fifteen days after installation, switching back on free, replacing an electromechanical meter with a smart meter free. Accessed on 2 November 2026.
-- ORES — [Meters (FAQ)](https://www.ores.be/faq/les-compteurs), [Customer port](https://www.ores.be/particulier/port-client/), [The smart meter](https://www.ores.be/particulier/compteur-communicant-fonctionnement), [myORES (FAQ)](https://www.ores.be/faq/myores) and [Starting energy sharing](https://www.ores.be/particulier/demarrer-partage-cer-cec) — request form, free replacement, installation can no longer be refused, P1 by phone, RJ12 cable, rollout by the end of 2029, quarter-hour view and 72-hour delay, smart or AMR meter and “régime 3” for sharing. Undated pages, accessed on 2 November 2026.
+- ORES — [Meters (FAQ)](https://www.ores.be/faq/les-compteurs), [Customer port](https://www.ores.be/particulier/port-client/), [The smart meter](https://www.ores.be/particulier/compteur-communicant-fonctionnement), [myORES (FAQ)](https://www.ores.be/faq/myores), [Starting energy sharing](https://www.ores.be/particulier/demarrer-partage-cer-cec) and [Energy sharing in practice](https://www.ores.be/particulier/en-pratique) — request form, free replacement, installation can no longer be refused, P1 by phone, RJ12 cable, rollout by the end of 2029, quarter-hour view and 72-hour delay, smart or AMR meter and “régime 3” for sharing. Undated pages, accessed on 2 November 2026; the myORES FAQ and “Energy sharing in practice” were read again on 22 November 2026 for the interim bill and the data that do not go up to the supplier.
 - [RESA — The smart meter](https://www.resa.be/fr/ma-situation/mon-compteur/compteur-communicant/) — request, replacement date from the EAN code, free replacement, switching off by form, consequences, quarter-hour data in MyRESA. [RESA — 2024 annual report](https://cms.resa.be/app/uploads/2025/09/Rapport-annuel-2024.pdf) — 84,862 smart meters at the end of 2024, 18.42% of meters. Accessed on 2 November 2026.
 - [AIEG — Smart meter](https://www.aieg.be/compteur-communicant-ou-smart-metering/) and [P1 port](https://www.aieg.be/le-port-p1/); [AIESH — Smart meters](https://aiesh.be/consommateurs/compteurs_communicants/); [REW — FAQ](https://www.rew.be/faq) — request and P1 activation forms, MyConso platform, replacement can no longer be refused and cost of switching off. Accessed on 2 November 2026.
 - [Fluvius — eMUCs-P1, P1 port specification, version 1.7.1](https://partner.fluvius.be/sites/fluvius/files/2025-09/smart-metering-system-emucs-p1-v1-7.pdf) — instantaneous values every second, interface based on the Dutch DSMR P1 specification. Document of 5 September 2022, accessed on 2 November 2026.

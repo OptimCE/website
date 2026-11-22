@@ -2,13 +2,13 @@
 layout: pillar
 title: "Allocation key: understand, choose, test"
 subtitle: "What each region accepts, how to choose a family of keys, then how to test it on your own data."
-description: "Allocation keys for Belgian energy communities: what CWaPE, BRUGEL and VREG accept, choosing a key family, then generating and simulating one."
+description: "Allocation keys for Belgian energy communities: what CWaPE, BRUGEL and Vlaamse Nutsregulator accept, choosing a key family, then generating and simulating one."
 lang: en
 ref: pillar-cle-de-repartition
 pillar: cle-de-repartition
 permalink: /en/guides/allocation-key/
 breadcrumb_parent: guides
-last_modified_at: 2026-10-11
+last_modified_at: 2026-11-21
 sections:
   - title: "Understanding the key and what each region accepts"
     refs: [allocation-key-belgium]
@@ -21,7 +21,7 @@ Belgium has three frameworks, and our [comparison of the three regions]({{ "allo
 
 - **Wallonia**: three standard keys published by CWaPE — egalitarian fixed, specific fixed, consumption-based dynamic — which DSOs accept automatically; any other key must be authorised by CWaPE.
 - **Brussels**: three methods operated by Sibelga and set by BRUGEL — fixed (single-round or multi-round), prorata, hybrid — which can be changed at any time at the request of the single point of contact.
-- **Flanders**: no list of “standard” keys published by VREG; the Fluvius protocol, the authoritative source, supports three *verdeelsleutels*: vaste, relatieve and optimale.
+- **Flanders**: no list of “standard” keys published by the Vlaamse Nutsregulator (formerly VREG); the Fluvius protocol, the authoritative source, supports three *verdeelsleutels*: vaste, relatieve and optimale.
 
 Behind these three vocabularies, the same two families recur everywhere: **fixed** keys, egalitarian or weighted by members' contributions, and **dynamic or optimised** keys, which follow actual consumption. Choosing between them is not a technical question but a governance choice: equality between members, recognition of investment, or maximising collective self-consumption. The diversity of profiles matters too — as soon as a school or an SME joins the group, strict equality stops being optimal — as does the financial predictability members expect. Finally, all three regions allow a key to be modified after launch: it is wise to plan an annual review at the general assembly from the outset.
 

@@ -12,14 +12,14 @@ tool_page: true
 tool: dso
 tool_order: 1
 date_published: 2026-10-18
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-21
 faq:
   - q: "How do I find out who my distribution network operator is?"
     a: "Enter your postcode in the tool at the top of this page: it shows your municipality's distribution system operator (DSO) for electricity and the one for gas. If the postcode covers several municipalities, or if the operator changes from one section of the municipality to another, the tool asks you to specify. To check, look at your annual electricity statement: for a household, it gives the name and phone number of the network operator to call in the event of a power cut."
   - q: "What is the difference between my DSO and my supplier?"
     a: "The supplier sells you electricity or gas and sends you the bill: you choose it yourself. The DSO runs and maintains the network up to your meter, takes your meter readings and steps in when there is a fault: it depends on your address. The DSO's network charges appear on the supplier's bill, and the supplier passes them on to the DSO."
   - q: "Can I change my network operator?"
-    a: "No. Each DSO is designated for a territory: in Wallonia by the Walloon Government, on a proposal from the local authorities and after receiving the CWaPE's opinion; in Flanders by the VREG. In Brussels, Sibelga is the only operator. Your DSO only changes if you move to an area served by another operator, or if your municipality changes operator, as Brunehaut did for electricity on 1 January 2026."
+    a: "No. Each DSO is designated for a territory: in Wallonia by the Walloon Government, on a proposal from the local authorities and after receiving the CWaPE's opinion; in Flanders by the Vlaamse Nutsregulator. In Brussels, Sibelga is the only operator. Your DSO only changes if you move to an area served by another operator, or if your municipality changes operator, as Brunehaut did for electricity on 1 January 2026."
   - q: "Who do I call in the event of a power cut or a gas fault?"
     a: "Your DSO, not your supplier: it runs the network and deals with faults. For a household, the name and phone number to call in the event of a power cut appear on the annual statement or closing invoice. In Brussels, for example, Sibelga also deals with gas smells. The tool gives the name and website of your electricity and gas operators."
   - q: "Where can I find my EAN code?"
@@ -74,9 +74,9 @@ since liberalisation in 2007; it reads meters, repairs faults and deals with gas
 
 ### Flanders: eight Fluvius operators {#flanders}
 
-The [VREG]({{ 'glossary-term-vreg' | ref_url }}), the Flemish energy regulator, designates the distribution
+The [Vlaamse Nutsregulator]({{ 'glossary-term-vreg' | ref_url }}) (formerly VREG), the Flemish energy regulator, designates the distribution
 system operators
-([VREG](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/technische-reglementen-flexibiliteit-niet-publieke-netten/wie-is-mijn-netbeheerder/aanwijzing-netbeheerders)).
+([Vlaamse Nutsregulator](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/technische-reglementen-flexibiliteit-niet-publieke-netten/wie-is-mijn-netbeheerder/aanwijzing-netbeheerders)).
 Eight Fluvius operators share Flanders' 285 municipalities, usually the same one for electricity
 and for gas:
 
@@ -89,14 +89,14 @@ and for gas:
 - Fluvius West: 59 municipalities
 - Fluvius Zenne-Dijle: 44 municipalities
 
-These 2026 figures come from the VREG's tariff decisions
+These 2026 figures come from the Vlaamse Nutsregulator's tariff decisions
 ([sources]({{ 'tool-dso-list' | ref_url }}#sources)). There are two exceptions for gas. Voeren (Fourons) is
 excluded from Fluvius Limburg's designation for gas: the municipality has no natural gas
 distribution system operator
-([VREG, decision BESL-2015-47](https://assets.vlaamsenutsregulator.be/document/besl-2015-47.pdf)).
+([Vlaamse Nutsregulator, decision BESL-2015-47](https://assets.vlaamsenutsregulator.be/document/besl-2015-47.pdf)).
 In Baarle-Hertog, gas is distributed by Enexis, a Dutch operator, except in the section of
 Zondereigen, which is served by Fluvius Kempen
-([VREG](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/technische-reglementen-flexibiliteit-niet-publieke-netten/wie-is-mijn-netbeheerder/aanwijzing-netbeheerders)).
+([Vlaamse Nutsregulator](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/technische-reglementen-flexibiliteit-niet-publieke-netten/wie-is-mijn-netbeheerder/aanwijzing-netbeheerders)).
 
 ### Wallonia: ORES, RESA, AIEG, AIESH and REW {#wallonia}
 
@@ -120,9 +120,9 @@ and the information is still to be confirmed
 
 Each DSO sets its distribution tariffs according to the method laid down by its region's
 regulator: the CWaPE in Wallonia ([CWaPE](https://www.cwape.be/acteur/tarif-distribution)), Brugel in Brussels
-([Brugel](https://brugel.brussels/themes/tarifs-de-distribution-12)). In Flanders, the VREG approves them every year; they vary with
+([Brugel](https://brugel.brussels/themes/tarifs-de-distribution-12)). In Flanders, the Vlaamse Nutsregulator approves them every year; they vary with
 the network area where you live
-([VREG](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/nettarieven/hoeveel-bedragen-de-distributienettarieven)).
+([Vlaamse Nutsregulator](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/nettarieven/hoeveel-bedragen-de-distributienettarieven)).
 
 In Wallonia, the gap between DSOs is real: for 3,500 kWh on a single-rate meter, distribution costs from 400 € with AIEG to 495 € with AIESH in 2026, VAT included. The calculation for each DSO and each formula is in [“Distribution tariffs in Wallonia: 5 DSOs compared”]({{ 'distribution-tariffs-dso-wallonia' | ref_url }}).
 
@@ -174,7 +174,7 @@ not yet establish.
 - **Beveren-Kruibeke-Zwijndrecht, electricity and gas.** Since 1 January 2026, the whole
   municipality has come under Fluvius Midden-Vlaanderen; until then, Zwijndrecht (2070) came
   under Fluvius Antwerpen
-  ([VREG, decision BESL-2026-30](https://assets.vlaamsenutsregulator.be/2026-02/BESL-2026-30.pdf?VersionId=ElUWU7F1ROzPe0DBorhKohDkgVri6GOX)).
+  ([Vlaamse Nutsregulator, decision BESL-2026-30](https://assets.vlaamsenutsregulator.be/2026-02/BESL-2026-30.pdf?VersionId=ElUWU7F1ROzPe0DBorhKohDkgVri6GOX)).
 
 The change in Couvin is older: on 1 January 2024, AIESH took over from ORES the electricity network
 of Boussu-en-Fagnes, Couvin, Frasnes-lez-Couvin, Mariembourg and Petigny
@@ -192,7 +192,7 @@ Upstream:
   operator, up to 70 kV, on sections set by the Walloon Government
   ([CWaPE](https://www.cwape.be/node/160)). In Flanders, it runs the “plaatselijk vervoernet” (local
   transmission network) and no distribution network
-  ([VREG](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/technische-reglementen-flexibiliteit-niet-publieke-netten/wie-is-mijn-netbeheerder/aanwijzing-netbeheerders)).
+  ([Vlaamse Nutsregulator](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/technische-reglementen-flexibiliteit-niet-publieke-netten/wie-is-mijn-netbeheerder/aanwijzing-netbeheerders)).
   A business connected directly to these networks has Elia as its operator, not a DSO.
 - **Fluxys Belgium** runs the high-pressure natural gas transmission infrastructure; the
   distribution system operators run the local low-pressure networks that serve households and
@@ -253,7 +253,7 @@ The supplier sells you electricity or gas and sends you the bill: you choose it 
 
 ### Can I change my network operator?
 
-No. Each DSO is designated for a territory: in Wallonia by the Walloon Government, on a proposal from the local authorities and after receiving the CWaPE's opinion; in Flanders by the VREG. In Brussels, Sibelga is the only operator. Your DSO only changes if you move to an area served by another operator, or if your municipality changes operator, as Brunehaut did for electricity on 1 January 2026.
+No. Each DSO is designated for a territory: in Wallonia by the Walloon Government, on a proposal from the local authorities and after receiving the CWaPE's opinion; in Flanders by the Vlaamse Nutsregulator. In Brussels, Sibelga is the only operator. Your DSO only changes if you move to an area served by another operator, or if your municipality changes operator, as Brunehaut did for electricity on 1 January 2026.
 
 ### Who do I call in the event of a power cut or a gas fault?
 

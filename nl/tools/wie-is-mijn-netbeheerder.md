@@ -12,14 +12,14 @@ tool_page: true
 tool: dso
 tool_order: 1
 date_published: 2026-10-18
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-21
 faq:
   - q: "Hoe weet ik wie mijn netbeheerder is?"
     a: "Vul uw postcode in de tool bovenaan deze pagina in: die toont de netbeheerder voor elektriciteit en die voor aardgas in uw gemeente. Als de postcode meerdere gemeenten omvat, of als de netbeheerder per deelgemeente verschilt, vraagt de tool u om dat te verduidelijken. Ter controle kijkt u op uw afrekeningsfactuur voor elektriciteit: voor een gezin vermeldt die de naam en het telefoonnummer van de netbeheerder die u belt bij een storing."
   - q: "Wat is het verschil tussen mijn netbeheerder en mijn leverancier?"
     a: "De leverancier verkoopt u elektriciteit of gas en stuurt u de factuur: die kiest u zelf. De netbeheerder baat het net tot aan uw meter uit en onderhoudt het, neemt uw meterstanden op en komt tussen bij een storing: die hangt af van uw adres. De netkosten van de netbeheerder staan op de factuur van de leverancier, die ze aan hem doorstort."
   - q: "Kan ik van netbeheerder veranderen?"
-    a: "Nee. Elke distributienetbeheerder is aangewezen voor een grondgebied: in Wallonië door de Waalse Regering, op voorstel van de lokale besturen en na advies van de CWaPE; in Vlaanderen door de VREG. In Brussel is Sibelga de enige netbeheerder. Uw netbeheerder verandert alleen als u verhuist naar een gebied van een andere netbeheerder, of als uw gemeente van netbeheerder verandert, zoals Brunehaut voor elektriciteit op 1 januari 2026."
+    a: "Nee. Elke distributienetbeheerder is aangewezen voor een grondgebied: in Wallonië door de Waalse Regering, op voorstel van de lokale besturen en na advies van de CWaPE; in Vlaanderen door de Vlaamse Nutsregulator. In Brussel is Sibelga de enige netbeheerder. Uw netbeheerder verandert alleen als u verhuist naar een gebied van een andere netbeheerder, of als uw gemeente van netbeheerder verandert, zoals Brunehaut voor elektriciteit op 1 januari 2026."
   - q: "Wie moet ik bellen bij een stroomstoring of een gasstoring?"
     a: "Uw netbeheerder, niet uw leverancier: hij baat het net uit en verhelpt storingen. Voor een gezin staan de naam en het telefoonnummer voor een stroomstoring op de afrekenings- of slotfactuur. In Brussel komt Sibelga bijvoorbeeld ook tussen bij een gasgeur. De tool geeft de naam en de website van uw netbeheerders voor elektriciteit en gas."
   - q: "Waar vind ik mijn EAN-code?"
@@ -72,9 +72,9 @@ en komt tussen bij een gasgeur ([Brugel](https://brugel.brussels/nl_BE/brugel/gr
 
 ### Vlaanderen: acht Fluvius-netbeheerders {#vlaanderen}
 
-De [VREG]({{ 'glossary-term-vreg' | ref_url }}), de Vlaamse energieregulator, wijst de
+De [Vlaamse Nutsregulator]({{ 'glossary-term-vreg' | ref_url }}) (voorheen VREG) wijst de
 distributienetbeheerders aan
-([VREG](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/technische-reglementen-flexibiliteit-niet-publieke-netten/wie-is-mijn-netbeheerder/aanwijzing-netbeheerders)).
+([Vlaamse Nutsregulator](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/technische-reglementen-flexibiliteit-niet-publieke-netten/wie-is-mijn-netbeheerder/aanwijzing-netbeheerders)).
 Acht Fluvius-netbeheerders verdelen de 285 Vlaamse gemeenten onder elkaar, meestal dezelfde voor
 elektriciteit en voor gas:
 
@@ -87,14 +87,14 @@ elektriciteit en voor gas:
 - Fluvius West: 59 gemeenten
 - Fluvius Zenne-Dijle: 44 gemeenten
 
-Deze aantallen voor 2026 komen uit de tariefbeslissingen van de VREG
+Deze aantallen voor 2026 komen uit de tariefbeslissingen van de Vlaamse Nutsregulator
 ([bronnen]({{ 'tool-dso-list' | ref_url }}#sources)). Voor gas zijn er twee uitzonderingen. Voeren is
 uitgesloten van de aanwijzing van Fluvius Limburg voor gas: de gemeente heeft geen
 aardgasnetbeheerder
-([VREG, beslissing BESL-2015-47](https://assets.vlaamsenutsregulator.be/document/besl-2015-47.pdf)).
+([Vlaamse Nutsregulator, beslissing BESL-2015-47](https://assets.vlaamsenutsregulator.be/document/besl-2015-47.pdf)).
 In Baarle-Hertog verdeelt Enexis, een Nederlandse netbeheerder, het gas, behalve in de
 deelgemeente Zondereigen, waar Fluvius Kempen het gas verdeelt
-([VREG](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/technische-reglementen-flexibiliteit-niet-publieke-netten/wie-is-mijn-netbeheerder/aanwijzing-netbeheerders)).
+([Vlaamse Nutsregulator](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/technische-reglementen-flexibiliteit-niet-publieke-netten/wie-is-mijn-netbeheerder/aanwijzing-netbeheerders)).
 
 ### Wallonië: ORES, RESA, AIEG, AIESH en REW {#wallonie}
 
@@ -118,9 +118,9 @@ worden bevestigd ([bronnen]({{ 'tool-dso-list' | ref_url }}#sources)).
 
 Elke distributienetbeheerder legt zijn distributietarieven vast volgens de methode die de
 regulator van zijn gewest bepaalt: de CWaPE in Wallonië ([CWaPE](https://www.cwape.be/acteur/tarif-distribution)), Brugel in
-Brussel ([Brugel](https://brugel.brussels/nl_BE/themes/distributietarieven-12)). In Vlaanderen keurt de VREG ze elk jaar goed; ze
+Brussel ([Brugel](https://brugel.brussels/nl_BE/themes/distributietarieven-12)). In Vlaanderen keurt de Vlaamse Nutsregulator ze elk jaar goed; ze
 verschillen naargelang het netgebied waarin u woont
-([VREG](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/nettarieven/hoeveel-bedragen-de-distributienettarieven)).
+([Vlaamse Nutsregulator](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/nettarieven/hoeveel-bedragen-de-distributienettarieven)).
 
 In Wallonië is het verschil tussen netbeheerders reëel: voor 3 500 kWh met een enkelvoudige meter kost de distributie in 2026 van 400 € bij AIEG tot 495 € bij AIESH, btw inbegrepen. De berekening voor elke netbeheerder en elke formule staat in [“Nettarieven Wallonië: 5 netbeheerders vergeleken”]({{ 'distribution-tariffs-dso-wallonia' | ref_url }}).
 
@@ -171,7 +171,7 @@ punten die onze bronnen nog niet aantonen.
 - **Beveren-Kruibeke-Zwijndrecht, elektriciteit en gas.** Sinds 1 januari 2026 valt de hele
   gemeente onder Fluvius Midden-Vlaanderen; Zwijndrecht (2070) viel tot dan onder Fluvius
   Antwerpen
-  ([VREG, beslissing BESL-2026-30](https://assets.vlaamsenutsregulator.be/2026-02/BESL-2026-30.pdf?VersionId=ElUWU7F1ROzPe0DBorhKohDkgVri6GOX)).
+  ([Vlaamse Nutsregulator, beslissing BESL-2026-30](https://assets.vlaamsenutsregulator.be/2026-02/BESL-2026-30.pdf?VersionId=ElUWU7F1ROzPe0DBorhKohDkgVri6GOX)).
 
 De wijziging in Couvin is ouder: op 1 januari 2024 heeft AIESH het elektriciteitsnet van
 Boussu-en-Fagnes, Couvin, Frasnes-lez-Couvin, Mariembourg en Petigny van ORES overgenomen
@@ -189,7 +189,7 @@ aan uw meter. Hogerop in de keten:
   het lokale transmissienet, tot 70 kV, op trajecten die de Waalse Regering vastlegt
   ([CWaPE](https://www.cwape.be/node/160)). In Vlaanderen beheert Elia het plaatselijk vervoernet en geen
   distributienet
-  ([VREG](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/technische-reglementen-flexibiliteit-niet-publieke-netten/wie-is-mijn-netbeheerder/aanwijzing-netbeheerders)).
+  ([Vlaamse Nutsregulator](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/technische-reglementen-flexibiliteit-niet-publieke-netten/wie-is-mijn-netbeheerder/aanwijzing-netbeheerders)).
   Een bedrijf dat rechtstreeks op die netten is aangesloten, heeft Elia als netbeheerder, geen
   distributienetbeheerder.
 - **Fluxys Belgium** beheert de infrastructuur voor het vervoer van aardgas onder hoge druk; de
@@ -249,7 +249,7 @@ De leverancier verkoopt u elektriciteit of gas en stuurt u de factuur: die kiest
 
 ### Kan ik van netbeheerder veranderen?
 
-Nee. Elke distributienetbeheerder is aangewezen voor een grondgebied: in Wallonië door de Waalse Regering, op voorstel van de lokale besturen en na advies van de CWaPE; in Vlaanderen door de VREG. In Brussel is Sibelga de enige netbeheerder. Uw netbeheerder verandert alleen als u verhuist naar een gebied van een andere netbeheerder, of als uw gemeente van netbeheerder verandert, zoals Brunehaut voor elektriciteit op 1 januari 2026.
+Nee. Elke distributienetbeheerder is aangewezen voor een grondgebied: in Wallonië door de Waalse Regering, op voorstel van de lokale besturen en na advies van de CWaPE; in Vlaanderen door de Vlaamse Nutsregulator. In Brussel is Sibelga de enige netbeheerder. Uw netbeheerder verandert alleen als u verhuist naar een gebied van een andere netbeheerder, of als uw gemeente van netbeheerder verandert, zoals Brunehaut voor elektriciteit op 1 januari 2026.
 
 ### Wie moet ik bellen bij een stroomstoring of een gasstoring?
 

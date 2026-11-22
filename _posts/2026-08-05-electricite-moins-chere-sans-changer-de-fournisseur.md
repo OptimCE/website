@@ -2,7 +2,7 @@
 layout: post
 title: "Baisser sa facture sans changer de fournisseur"
 date: 2026-08-05 04:00:00 +0200
-last_modified_at: 2026-11-10 06:00:00 +0100
+last_modified_at: 2026-11-21 06:00:00 +0100
 author: "Eric d'OptimCE"
 excerpt: "Tous les guides d'économies finissent par la même phrase : comparez, puis changez de fournisseur. Il existe pourtant un mécanisme qui fait baisser la facture sans résilier quoi que ce soit — le partage d'énergie. La question n'est pas de savoir s'il est légal : il l'est dans les trois régions. Elle est de savoir s'il est accessible chez vous, et la réponse tient dans deux chiffres : 36 communautés autorisées à Bruxelles, 13 notifiées en Wallonie, dont six seulement partagent, en novembre 2026."
 description: "Le partage d'énergie fait baisser la facture sans résilier son contrat. Ce qu'il rapporte vraiment, et dans quelle région il est réellement accessible."
@@ -89,7 +89,7 @@ Voici le cœur du sujet. Le tableau ci-dessous résume la disponibilité réelle
 
 | | Bruxelles | Wallonie | Flandre |
 |---|---|---|---|
-| **Régulateur / GRD** | Brugel / Sibelga | CWaPE / ORES, RESA, AIEG, AIESH, REW | VREG / Fluvius |
+| **Régulateur / GRD** | Brugel / Sibelga | CWaPE / ORES, RESA, AIEG, AIESH, REW | Vlaamse Nutsregulator / Fluvius |
 | **Pair-à-pair** | **opérationnel** | **bloqué** — décret 2022, arrêté d'exécution manquant | opérationnel |
 | **Même bâtiment** | opérationnel | opérationnel | opérationnel |
 | **Communauté** | opérationnel | opérationnel | opérationnel |
@@ -125,11 +125,11 @@ Le cadre bouge malgré tout : un arrêté du Gouvernement wallon du **5 février
 
 La Flandre présente le profil inverse de la Wallonie : le cadre est ouvert — partage et vente entre particuliers sont possibles, le pair-à-pair inclus — mais l'incitation tarifaire est nulle.
 
-En décembre 2023, **7 779 points d'accès** participaient au partage ou à la vente d'énergie, soit **0,2 %** des points d'accès flamands, d'après les données Fluvius publiées par le VREG. Deux nuances importantes sur ce chiffre : il agrège partage *et* vente, et il date. Le VREG publie un tableau de bord **mis à jour mensuellement** (dernière mise à jour relevée : 27 juillet 2026) — si vous préparez une décision, allez y chercher la valeur du mois plutôt que de vous fier à celle-ci.
+En décembre 2023, **7 779 points d'accès** participaient au partage ou à la vente d'énergie, soit **0,2 %** des points d'accès flamands, d'après les données Fluvius publiées par la Vlaamse Nutsregulator (anciennement VREG). Deux nuances importantes sur ce chiffre : il agrège partage *et* vente, et il date. La Vlaamse Nutsregulator publie un tableau de bord **mis à jour mensuellement** (dernière mise à jour relevée : 27 juillet 2026) — si vous préparez une décision, allez y chercher la valeur du mois plutôt que de vous fier à celle-ci.
 
 Le second enseignement flamand est plus utile encore, parce qu'il tempère les attentes partout : les participants ne parviennent à partager entre eux qu'environ **20 % de l'injection**, là où les estimations théoriques initiales tablaient sur 40 %. Autrement dit, **la moitié du potentiel se perd dans le décalage horaire entre production et consommation.** C'est un argument fort en faveur d'une clé de répartition bien construite, sujet traité dans [« Clé de répartition en Belgique : les 3 régions »](/guides/cle-repartition-communaute-energie-belgique/).
 
-Enfin, depuis janvier 2023, le tarif de distribution flamand repose sur la puissance de pointe et non sur l'énergie prélevée : il n'y a donc **aucune réduction de tarif de réseau** sur l'énergie partagée, dans aucune configuration. Le gain se limite strictement à l'écart entre le prix interne et le prix de votre fournisseur. Le VREG signale par ailleurs que certains fournisseurs facturent des **frais supplémentaires** aux clients qui participent à un partage — à vérifier avant de s'engager, car sur de petits volumes ces frais annulent le bénéfice.
+Enfin, depuis janvier 2023, le tarif de distribution flamand repose sur la puissance de pointe et non sur l'énergie prélevée : il n'y a donc **aucune réduction de tarif de réseau** sur l'énergie partagée, dans aucune configuration. Le gain se limite strictement à l'écart entre le prix interne et le prix de votre fournisseur. La Vlaamse Nutsregulator signale par ailleurs que certains fournisseurs facturent des **frais supplémentaires** aux clients qui participent à un partage — à vérifier avant de s'engager, car sur de petits volumes ces frais annulent le bénéfice.
 
 ## Combien ça rapporte, et sur quoi exactement
 
@@ -190,7 +190,7 @@ Ce qui bouge : l'arrêté du 5 février 2026 a modifié le cadre de 2023, le nom
 
 **Si vous habitez la Wallonie.** Vérifiez d'abord si votre immeuble permet un partage au sein d'un même bâtiment — c'est la seule configuration qui combine absence de personne morale et réduction de 80 % du terme proportionnel. À défaut, cherchez une opération de partage ouverte à proximité ; le facilitateur du SPW peut vous orienter, et l'annuaire des communautés d'OptimCE, consultable avec un compte, en montre une partie. N'attendez pas le pair-à-pair pour agir : aucun calendrier n'est annoncé.
 
-**Si vous habitez la Flandre.** Le partage et la vente sont ouverts, y compris entre particuliers, mais sans avantage réseau : tout le gain vient de l'écart de prix. Deux vérifications avant de signer — le tableau de bord du VREG pour les chiffres du mois, et surtout la fiche tarifaire de votre fournisseur, car certains facturent des frais supplémentaires aux participants qui annulent le bénéfice sur de petits volumes.
+**Si vous habitez la Flandre.** Le partage et la vente sont ouverts, y compris entre particuliers, mais sans avantage réseau : tout le gain vient de l'écart de prix. Deux vérifications avant de signer — le tableau de bord de la Vlaamse Nutsregulator pour les chiffres du mois, et surtout la fiche tarifaire de votre fournisseur, car certains facturent des frais supplémentaires aux participants qui annulent le bénéfice sur de petits volumes.
 
 **Dans les trois cas**, une question précède toutes les autres : **combien de kilowattheures la clé de répartition va-t-elle réellement vous attribuer ?** L'expérience flamande — 20 % de l'injection effectivement partagée contre 40 % espérés — montre que c'est là que se joue l'essentiel, bien plus que dans la négociation du prix.
 
@@ -254,8 +254,8 @@ L'ordre de grandeur documenté est d'environ **145 € par an** pour un consomma
 - [Bruxelles Environnement — Partage et communautés d'énergie](https://environnement.brussels/citoyen/agir-pour-lenvironnement/devenir-eco-responsable/partage-et-communautes-denergie) — portail citoyen bruxellois : les trois configurations de partage et le facilitateur « Partage et Communautés d'Énergie », gratuit.
 - [Bruxelles Environnement — Le partage d'énergie n'a jamais été aussi simple](https://environnement.brussels/citoyen/news/2026/le-partage-denergie-na-jamais-ete-aussi-simple) — annonce du 2 juin 2026 de la plateforme BEST (Brussels Energy Sharing Tool), développée par l'ASBL Simply Energy avec le soutien de Bruxelles Environnement.
 - [Sibelga — Partage d'énergie](https://www.sibelga.be/fr/raccordements-compteurs/energie-renouvelable/partage-energie) — fonctionnement opérationnel côté gestionnaire de réseau bruxellois : les trois formes de partage, l'obligation du compteur intelligent pour chaque participant et l'analyse des index par tranche de quinze minutes.
-- [VREG — Tableau de bord « énergie partagée et vendue »](https://www.vlaamsenutsregulator.be/cijfers/dashboard-energie-delen-en-verkopen) — données Fluvius mises à jour mensuellement (dernière mise à jour relevée : 27 juillet 2026) sur le nombre de groupes et de participants, les volumes partagés et les fournisseurs facturant des frais supplémentaires aux participants.
-- [Futech — Combien de Flamands pratiquent le partage d'énergie ?](https://futech.be/hoeveel-vlamingen-doen-aan-energiedelen/) — reprise des chiffres VREG et Fluvius : 7 779 points d'accès participant au partage ou à la vente en décembre 2023, soit 0,2 % des points d'accès flamands, et environ 20 % de l'injection effectivement partagée contre 40 % attendus.
+- [Vlaamse Nutsregulator — Tableau de bord « énergie partagée et vendue »](https://www.vlaamsenutsregulator.be/cijfers/dashboard-energie-delen-en-verkopen) — données Fluvius mises à jour mensuellement (dernière mise à jour relevée : 27 juillet 2026) sur le nombre de groupes et de participants, les volumes partagés et les fournisseurs facturant des frais supplémentaires aux participants.
+- [Futech — Combien de Flamands pratiquent le partage d'énergie ?](https://futech.be/hoeveel-vlamingen-doen-aan-energiedelen/) — reprise des chiffres de la Vlaamse Nutsregulator et de Fluvius : 7 779 points d'accès participant au partage ou à la vente en décembre 2023, soit 0,2 % des points d'accès flamands, et environ 20 % de l'injection effectivement partagée contre 40 % attendus.
 - [CREG — Tableau de bord mensuel](https://www.creg.be/fr/professionnels/fonctionnement-et-monitoring-du-marche/tableau-de-bord) — prix all-in de 36,94 c€/kWh et répartition 38,5 / 29,7 / 26,1 / 5,7 % pour un profil résidentiel de 3 500 kWh/an en monohoraire (édition de juin 2026 utilisée ici).
 - [Énergie Commune / Interreg Europe — Modèle économique du partage d'énergie](https://www.interregeurope.eu/sites/default/files/good_practices/8.%20EnergieCommune_EC_BM_Sharing_Interreg_Ghent.pdf) — cas documenté chiffrant l'économie d'un consommateur recevant 500 kWh partagés par an à environ 145 € au tarif standard, contre environ 70 € pour un ménage déjà au tarif social.
 - [CWaPE — ORES, tarifs périodiques de prélèvement 2026](https://www.cwape.be/sites/default/files/cwape-documents/ORES%20-%20Tarifs%20p%C3%A9riodiques%20de%20pr%C3%A9l%C3%A8vement%202026_0.pdf) — grille approuvée le 18 décembre 2025, source de la réduction de 80 % du terme proportionnel réservée au partage au sein d'un même bâtiment.

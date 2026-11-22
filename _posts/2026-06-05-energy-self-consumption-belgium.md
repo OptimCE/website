@@ -9,7 +9,7 @@ tags: [community]
 lang: en
 ref: self-consumption-belgium
 pillar: communautes-energie
-last_modified_at: 2026-11-10 06:00:00 +0100
+last_modified_at: 2026-11-21 06:00:00 +0100
 permalink: /en/guides/energy-self-consumption-belgium/
 faq:
   - q: "What is the self-consumption rate?"
@@ -23,7 +23,7 @@ faq:
   - q: "Do I need to change electricity supplier?"
     a: "No. You keep your supplier, who keeps billing only the residual energy — the part of your consumption not covered by your own production or by sharing."
   - q: "Does collective self-consumption work everywhere in Belgium?"
-    a: "The framework exists in all three regions but with different terms: Wallonia (CWaPE, ORES/RESA/AIEG/AIESH/REW) and Flanders (VREG, Fluvius) have an operational framework, while Brussels (BRUGEL, Sibelga) has rolled out collective self-consumption through pilot projects. A smart meter is required everywhere."
+    a: "The framework exists in all three regions but with different terms: Wallonia (CWaPE, ORES/RESA/AIEG/AIESH/REW) and Flanders (Vlaamse Nutsregulator, Fluvius) have an operational framework, while Brussels (BRUGEL, Sibelga) has rolled out collective self-consumption through pilot projects. A smart meter is required everywhere."
 ---
 
 Self-consumption has become one of the pillars of Belgium's energy transition: consuming the electricity produced locally yourself, rather than injecting it onto the grid at low value. With a photovoltaic fleet now above **8 GWp** and volatile market prices since 2022, putting your own production to use — alone or together — has never been more relevant. This article explains what self-consumption is, why it's worthwhile, how to raise your **self-consumption rate**, and how it connects to **energy communities**, with the differences between Wallonia, Brussels and Flanders.
@@ -78,15 +78,15 @@ The principle of self-consumption is identical everywhere, but the actors and th
 
 | Criterion | Wallonia | Brussels | Flanders |
 |---|---|---|---|
-| Regulator | CWaPE | BRUGEL | VREG |
+| Regulator | CWaPE | BRUGEL | Vlaamse Nutsregulator |
 | Distribution system operator (DSO) | ORES, RESA, AIEG, AIESH, REW | Sibelga | Fluvius |
 | Collective self-consumption framework | Operational (CER / CEC) | Rolled out via pilot projects | Operational ("energiedelen") |
 | Smart meter required | Yes | Yes | Yes |
-| Extra income for the producer | Green certificates | Green certificates (≈ first 10 years) | Specific support — see VREG |
+| Extra income for the producer | Green certificates | Green certificates (≈ first 10 years) | Specific support — see Vlaamse Nutsregulator |
 
 - **Wallonia.** The [CWaPE](https://www.cwape.be/documents-recents/autoconsommation-collective-et-reseaux-alternatifs-avis-sur-un-projet-de-decret) regulates collective self-consumption and alternative networks; [ORES](https://www.ores.be/particulier/communautes-denergie) and the other DSOs handle metering and allocation. The Walloon framework for [collective self-consumption and energy communities](https://energie.wallonie.be/home/actualites/actualites/communautes-denergie-et-autocons.html) is now stabilised.
 - **Brussels.** [BRUGEL](https://brugel.brussels/actualites/lancement-du-1er-projet-d-autoconsommation-collective-a-bruxelles-415) launched the Region's **first collective self-consumption project**, operated technically by Sibelga. BRUGEL's [Energy Sharing portal](https://energysharing.brugel.brussels/energysharing/les-projets-405) lists the projects, and [Renouvelle](https://www.renouvelle.be/fr/premiers-projets-pilotes-dautoconsommation-collective-a-bruxelles/) describes why these pilots matter for neighbourhoods.
-- **Flanders.** Energy sharing ("**energiedelen**") is regulated by the VREG and operated by [Fluvius](https://www.fluvius.be/nl/groene-energie/energiedelen), which details the technical conditions, the sale of green electricity, and sharing between participants.
+- **Flanders.** Energy sharing ("**energiedelen**") is regulated by the Vlaamse Nutsregulator (formerly VREG) and operated by [Fluvius](https://www.fluvius.be/nl/groene-energie/energiedelen), which details the technical conditions, the sale of green electricity, and sharing between participants.
 
 ## Who benefits?
 
@@ -134,7 +134,7 @@ No. You keep your supplier, who keeps billing only the residual energy — the p
 
 ### Does collective self-consumption work everywhere in Belgium?
 
-The framework exists in all three regions but with different terms: Wallonia (CWaPE, ORES/RESA/AIEG/AIESH/REW) and Flanders (VREG, Fluvius) have an operational framework, while Brussels (BRUGEL, Sibelga) has rolled out collective self-consumption through pilot projects. A smart meter is required everywhere.
+The framework exists in all three regions but with different terms: Wallonia (CWaPE, ORES/RESA/AIEG/AIESH/REW) and Flanders (Vlaamse Nutsregulator, Fluvius) have an operational framework, while Brussels (BRUGEL, Sibelga) has rolled out collective self-consumption through pilot projects. A smart meter is required everywhere.
 
 ## Take action
 

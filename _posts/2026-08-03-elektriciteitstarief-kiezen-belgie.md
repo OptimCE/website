@@ -2,7 +2,7 @@
 layout: post
 title: "Welk elektriciteitstarief kiezen in België?"
 date: 2026-08-03 10:00:00 +0200
-last_modified_at: 2026-08-08 10:00:00 +0200
+last_modified_at: 2026-11-21 06:00:00 +0100
 author: "Eric van OptimCE"
 excerpt: "Sociaal tarief, nachttarief, dynamisch contract: drie antwoorden op dezelfde vraag, en ze werken niet op hetzelfde deel van uw factuur. Deze becijferde vergelijking scheidt ze op basis van de CREG-tarieven voor het derde kwartaal van 2026 en de nettarieven van de drie gewesten, en onderzoekt daarna een vierde weg die geen enkele vergelijker vermeldt — de energiegemeenschap, de enige die bij beide contractformules optelt."
 description: "Sociaal tarief, nachttarief, dynamisch contract of energiegemeenschap: wat elke formule echt verandert aan uw factuur, gewest per gewest."
@@ -132,7 +132,7 @@ Het praktische gevolg is eenvoudig: in Brussel **blijft het midden van de dag in
 
 Dit is de diepste divergentie, en de slechtst begrepen. Sinds **januari 2023** steunt het Vlaamse distributietarief op het **piekvermogen** — het capaciteitstarief — en niet meer op het uur van verbruik. Het onderscheid dag-nacht is uit dit deel van de factuur verdwenen.
 
-Twee cijfers ter situering: de gemiddelde piek die de VREG optekent bedraagt ongeveer **3,15 kW**, en **er wordt een minimum van 2,5 kW aangerekend** ook als uw werkelijke piek lager ligt. De jaarlijkse kostprijs van de capaciteitsterm ligt doorgaans tussen **150 en 250 €** naargelang de gemeente en het verbruik.
+Twee cijfers ter situering: de gemiddelde piek die de Vlaamse Nutsregulator (voorheen VREG) optekent bedraagt ongeveer **3,15 kW**, en **er wordt een minimum van 2,5 kW aangerekend** ook als uw werkelijke piek lager ligt. De jaarlijkse kostprijs van de capaciteitsterm ligt doorgaans tussen **150 en 250 €** naargelang de gemeente en het verbruik.
 
 Een Vlaamse leverancier mag nog altijd een dag-nachtprijs aanbieden, maar **uitsluitend op de energiecomponent**, en steeds minder doen dat. De lonende zet in Vlaanderen is dus niet langer “'s nachts verbruiken” maar “**niet alles tegelijk laten draaien**”: de wasmachine, de oven en het opladen van de wagen over de avond spreiden in plaats van ze te stapelen, wat de maandpiek afvlakt die als berekeningsbasis dient.
 
@@ -214,7 +214,7 @@ Vier vragen, in deze volgorde. Elke vraag stelt zich pas zodra de vorige een ant
 | **CREG Scan** | CREG (federaal) | vergelijkt **het contract dat u hebt ondertekend**, ook een slapend product |
 | **CompaCWaPE** | CWaPE (Wallonië) | aanbiedingen beschikbaar in het Waals Gewest |
 | **BruSim** | Brugel (Brussel) | aanbiedingen beschikbaar in het Brussels Gewest |
-| **V-test** | VREG (Vlaanderen) | aanbiedingen beschikbaar in het Vlaams Gewest, dynamische contracten inbegrepen |
+| **V-test** | Vlaamse Nutsregulator (Vlaanderen) | aanbiedingen beschikbaar in het Vlaams Gewest, dynamische contracten inbegrepen |
 
 De [CREG Scan](https://www.creg.be/fr/cregscan) verdient een aparte vermelding, omdat hij een vraag beantwoordt die de andere niet stellen. Klassieke vergelijkers sommen de **vandaag verkochte** aanbiedingen op. Veel gezinnen zitten echter op een **slapend product**: een contract dat jaren geleden werd ondertekend, niet meer aan nieuwe klanten wordt aangeboden, en dus in geen enkele vergelijking opduikt. De CREG Scan toont het en situeert het, in zes vragen.
 
@@ -288,8 +288,8 @@ Vier openbare instrumenten, allemaal gratis en zonder commissie. De **CREG Scan*
 - [CWaPE — ORES, periodieke afnametarieven 2026](https://www.cwape.be/sites/default/files/cwape-documents/ORES%20-%20Tarifs%20p%C3%A9riodiques%20de%20pr%C3%A9l%C3%A8vement%202026_0.pdf) — rooster goedgekeurd op 18 december 2025: proportionele termen van het tweevoudig tarief en van de drie Impact-banden, en vermindering van 80 % op de proportionele term voor energie die binnen eenzelfde gebouw wordt gedeeld.
 - [ORES — Het tweevoudig tarief verandert van uren](https://www.ores.be/comprendre-ma-facture/bihoraire) — nieuwe Waalse tijdvakken die sinds 2026 zeven dagen op zeven gelden: daluren van 11 tot 17 uur en van 22 tot 7 uur.
 - [Brugel — Distributietarieven 2025-2029](https://brugel.brussels/themes/tarifs-de-distribution-12/tarifs-de-distribution-2025-2029-668) — Brusselse tariefmethodologie: definitie van piek- en daluren ongewijzigd ten opzichte van de periode 2020-2024, daluren van 22 tot 7 uur alsook de weekends en feestdagen.
-- [VREG — Capaciteitstarief](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/nettarieven/capaciteitstarief) — Vlaams distributietarief gebaseerd op het piekvermogen sinds januari 2023, gemiddelde piek van ongeveer 3,15 kW en aangerekend minimum van 2,5 kW.
+- [Vlaamse Nutsregulator — Capaciteitstarief](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/nettarieven/capaciteitstarief) — Vlaams distributietarief gebaseerd op het piekvermogen sinds januari 2023, gemiddelde piek van ongeveer 3,15 kW en aangerekend minimum van 2,5 kW.
 - [Renouvelle — Elektriciteit: contracten met dynamische prijs in Wallonië en Brussel](https://www.renouvelle.be/fr/contrats-electricite-prix-dynamiques-bruxelles-wallonie/) — uitrolkalender van juni tot november 2025, vereiste van een digitale meter **en** van de activering van het SMR3-regime, en simulatieresultaten: 20 % van de gezinnen 5 tot 17 % duurder, 99 % van de fotovoltaïsche gezinnen verliezend met een mediane stijging van 20 % (juni 2025).
 - [Test-Aankoop — Dynamische energiecontracten](https://www.test-achats.be/maison-energie/gaz-electricite-mazout-pellets/news/contrats-energetiques-dynamiques-avantageux) — marktaandeel van 0,40 % eind 2025, over 2025 vastgestelde besparing van ongeveer 62 € tegenover variabel en 193 € tegenover vast voor 3 500 kWh, en gemiddelde vaste vergoeding van 70 €/jaar in mei 2026, tot 130 € (9 juni 2026).
 - [Énergie Commune / Interreg Europe — Bedrijfsmodel van energiedelen](https://www.interregeurope.eu/sites/default/files/good_practices/8.%20EnergieCommune_EC_BM_Sharing_Interreg_Ghent.pdf) — gedocumenteerd geval dat de besparing voor een verbruiker die 500 gedeelde kWh per jaar ontvangt op ongeveer 145 € tegen het standaardtarief becijfert, tegenover ongeveer 70 € voor een gezin dat al het sociaal tarief geniet.
-- [CWaPE — CompaCWaPE](https://www.cwape.be/consommateurs/compacwape), [Brugel — BruSim](https://brugel.brussels/outils/brusim-2) en [VREG — V-test](https://www.vtest.be) — de drie officiële vergelijkers van de gewestelijke regulatoren, gratis en zonder leverancierscommissie.
+- [CWaPE — CompaCWaPE](https://www.cwape.be/consommateurs/compacwape), [Brugel — BruSim](https://brugel.brussels/outils/brusim-2) en [Vlaamse Nutsregulator — V-test](https://www.vtest.be) — de drie officiële vergelijkers van de gewestelijke regulatoren, gratis en zonder leverancierscommissie.

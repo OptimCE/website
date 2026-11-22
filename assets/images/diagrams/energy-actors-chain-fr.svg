@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520" role="img" aria-labelledby="t d">
-<title id="t">Qui fait quoi, de la centrale à votre compteur</title><desc id="d">Schéma en deux rangées. La première suit le courant : la production (centrales, éoliennes, panneaux solaires), le transport par Elia à haute tension (Fluxys pour le gaz), la distribution par votre GRD (ORES, RESA, Sibelga, Fluvius…), imposé par votre adresse, puis votre logement, avec son compteur et son code EAN. La seconde suit le contrat et l'argent : vous payez une seule facture au fournisseur, que vous choisissez ; il garde l'énergie et sa marge, reverse les frais de réseau au GRD et à Elia, et les taxes et la TVA aux pouvoirs publics. Le GRD relève votre compteur et transmet vos volumes au fournisseur. Une bande indique les régulateurs : la CREG pour le transport, au niveau fédéral ; la CWaPE, Brugel et le VREG pour la distribution, dans les régions.</desc>
+<title id="t">Qui fait quoi, de la centrale à votre compteur</title><desc id="d">Schéma en deux rangées. La première suit le courant : la production (centrales, éoliennes, panneaux solaires), le transport par Elia à haute tension (Fluxys pour le gaz), la distribution par votre GRD (ORES, RESA, Sibelga, Fluvius…), imposé par votre adresse, puis votre logement, avec son compteur et son code EAN. La seconde suit le contrat et l'argent : vous payez une seule facture au fournisseur, que vous choisissez ; il garde l'énergie et sa marge, reverse les frais de réseau au GRD et à Elia, et les taxes et la TVA aux pouvoirs publics. Le GRD relève votre compteur et transmet vos volumes au fournisseur. Une bande indique les régulateurs : la CREG pour le transport, au niveau fédéral ; la CWaPE, Brugel et la Vlaamse Nutsregulator pour la distribution, dans les régions.</desc>
 <rect width="800" height="520" fill="#FFFFFF"/>
 <g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
 <text x="46" y="46" font-size="21" fill="#212529" font-weight="700" text-anchor="start">Qui fait quoi, de la centrale à votre compteur</text>
@@ -54,7 +54,7 @@
 <text x="492" y="381" font-size="12.5" fill="#212529" font-weight="400" text-anchor="start">Taxes et TVA : reversées aux pouvoirs publics</text>
 <text x="46" y="428" font-size="12.5" fill="#495057" font-weight="400" text-anchor="start">Le GRD relève votre compteur et transmet vos volumes au fournisseur, qui les facture.</text>
 <rect x="46" y="452" width="708" height="34" rx="8" fill="#E8F5E9"/>
-<text x="58" y="474" font-size="12.5" fill="#1b5e20" font-weight="700" text-anchor="start">Contrôle : CREG pour le transport (fédéral) · CWaPE, Brugel, VREG pour la distribution (régions)</text>
+<text x="58" y="474" font-size="12.5" fill="#1b5e20" font-weight="700" text-anchor="start">Contrôle : CREG pour le transport (fédéral) · CWaPE, Brugel, Vlaamse Nutsregulator pour la distribution (régions)</text>
 <text x="46" y="508" font-size="11.5" fill="#868E96" font-weight="400" text-anchor="start">Sources : CWaPE, CREG, ORES, Fluxys</text>
 </g>
 </svg>

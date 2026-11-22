@@ -2,7 +2,7 @@
 layout: post
 title: "Welchen Stromtarif in Belgien wählen?"
 date: 2026-08-03 10:00:00 +0200
-last_modified_at: 2026-08-08 10:00:00 +0200
+last_modified_at: 2026-11-21 06:00:00 +0100
 author: "Eric, OptimCE"
 excerpt: "Sozialtarif, Nachttarif, dynamischer Vertrag: drei Antworten auf dieselbe Frage, und sie wirken nicht auf denselben Teil Ihrer Rechnung. Dieser bezifferte Vergleich trennt sie anhand der CREG-Sozialtarife für das dritte Quartal 2026 und der Netztarife der drei Regionen und untersucht anschließend einen vierten Weg, den kein Vergleichsportal führt — die Energiegemeinschaft, die einzige, die sich zu beiden Vertragsformeln addiert."
 description: "Sozialtarif, Nachttarif, dynamischer Vertrag oder Energiegemeinschaft: was jede Formel wirklich an Ihrer Rechnung ändert, Region für Region."
@@ -132,7 +132,7 @@ Die praktische Folge ist einfach: In Brüssel **bleibt die Tagesmitte in der Hoc
 
 Das ist die tiefste Divergenz und die am häufigsten missverstandene. Seit **Januar 2023** beruht der flämische Verteilungstarif auf der **Spitzenleistung** — dem Kapazitätstarif — und nicht mehr auf der Verbrauchsstunde. Die Unterscheidung Tag/Nacht ist aus diesem Teil der Rechnung verschwunden.
 
-Zwei Zahlen zur Einordnung: Die von der VREG erfasste Durchschnittsspitze liegt bei etwa **3,15 kW**, und **ein Minimum von 2,5 kW wird berechnet**, auch wenn Ihre tatsächliche Spitze darunter liegt. Die jährlichen Kosten des Kapazitätsterms bewegen sich gewöhnlich zwischen **150 und 250 €** je nach Gemeinde und Verbrauch.
+Zwei Zahlen zur Einordnung: Die von der Vlaamse Nutsregulator (früher VREG) erfasste Durchschnittsspitze liegt bei etwa **3,15 kW**, und **ein Minimum von 2,5 kW wird berechnet**, auch wenn Ihre tatsächliche Spitze darunter liegt. Die jährlichen Kosten des Kapazitätsterms bewegen sich gewöhnlich zwischen **150 und 250 €** je nach Gemeinde und Verbrauch.
 
 Ein flämischer Anbieter darf weiterhin einen Tag-Nacht-Preis anbieten, jedoch **nur auf die Energiekomponente**, und immer weniger tun dies. Der lohnende Griff in Flandern lautet daher nicht mehr „nachts verbrauchen“, sondern „**nicht alles gleichzeitig laufen lassen**“: Waschmaschine, Backofen und Fahrzeugladung über den Abend verteilen statt sie zu stapeln, was die Monatsspitze kappt, die als Berechnungsgrundlage dient.
 
@@ -214,7 +214,7 @@ Vier Fragen, in dieser Reihenfolge. Jede stellt sich erst, wenn die vorige beant
 | **CREG Scan** | CREG (föderal) | vergleicht **den Vertrag, den Sie unterzeichnet haben**, auch ein ruhendes Produkt |
 | **CompaCWaPE** | CWaPE (Wallonien) | in der Wallonischen Region verfügbare Angebote |
 | **BruSim** | Brugel (Brüssel) | in der Region Brüssel-Hauptstadt verfügbare Angebote |
-| **V-test** | VREG (Flandern) | in der Flämischen Region verfügbare Angebote, dynamische Verträge inbegriffen |
+| **V-test** | Vlaamse Nutsregulator (Flandern) | in der Flämischen Region verfügbare Angebote, dynamische Verträge inbegriffen |
 
 Der [CREG Scan](https://www.creg.be/fr/cregscan) verdient eine gesonderte Erwähnung, weil er eine Frage beantwortet, die die anderen nicht stellen. Klassische Vergleichsportale listen die **derzeit vertriebenen** Angebote auf. Viele Haushalte befinden sich jedoch in einem **ruhenden Produkt**: einem vor Jahren unterzeichneten Vertrag, der Neukunden nicht mehr angeboten wird und daher in keinem Vergleich auftaucht. Der CREG Scan zeigt ihn an und ordnet ihn ein, in sechs Fragen.
 
@@ -288,8 +288,8 @@ Vier öffentliche Werkzeuge, alle kostenlos und provisionsfrei. Der **CREG Scan*
 - [CWaPE — ORES, periodische Entnahmetarife 2026](https://www.cwape.be/sites/default/files/cwape-documents/ORES%20-%20Tarifs%20p%C3%A9riodiques%20de%20pr%C3%A9l%C3%A8vement%202026_0.pdf) — am 18. Dezember 2025 genehmigtes Raster: proportionale Terme des Zweitarifs und der drei Impact-Bänder sowie Ermäßigung von 80 % auf den proportionalen Term für Energie, die innerhalb desselben Gebäudes geteilt wird.
 - [ORES — Der Zweitarif ändert seine Zeiten](https://www.ores.be/comprendre-ma-facture/bihoraire) — neue wallonische Zeitfenster, die seit 2026 an sieben Tagen der Woche gelten: Schwachlast von 11 bis 17 Uhr und von 22 bis 7 Uhr.
 - [Brugel — Verteilungstarife 2025-2029](https://brugel.brussels/themes/tarifs-de-distribution-12/tarifs-de-distribution-2025-2029-668) — Brüsseler Tarifmethodik: Definition der Hoch- und Schwachlastzeiten gegenüber der Periode 2020-2024 unverändert, Schwachlast von 22 bis 7 Uhr sowie Wochenenden und Feiertage.
-- [VREG — Kapazitätstarif](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/nettarieven/capaciteitstarief) — flämischer Verteilungstarif auf Basis der Spitzenleistung seit Januar 2023, Durchschnittsspitze von etwa 3,15 kW und berechnetes Minimum von 2,5 kW.
+- [Vlaamse Nutsregulator — Kapazitätstarif](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/nettarieven/capaciteitstarief) — flämischer Verteilungstarif auf Basis der Spitzenleistung seit Januar 2023, Durchschnittsspitze von etwa 3,15 kW und berechnetes Minimum von 2,5 kW.
 - [Renouvelle — Strom: Verträge mit dynamischem Preis in Wallonien und Brüssel](https://www.renouvelle.be/fr/contrats-electricite-prix-dynamiques-bruxelles-wallonie/) — Einführungskalender von Juni bis November 2025, Erfordernis eines digitalen Zählers **und** der Freischaltung des SMR3-Regimes sowie Simulationsergebnisse: 20 % der Haushalte um 5 bis 17 % teurer, 99 % der Photovoltaikhaushalte im Minus mit einem Medianzuwachs von 20 % (Juni 2025).
 - [Test-Achats — Dynamische Energieverträge](https://www.test-achats.be/maison-energie/gaz-electricite-mazout-pellets/news/contrats-energetiques-dynamiques-avantageux) — Marktanteil von 0,40 % Ende 2025, für 2025 festgestellte Ersparnis von rund 62 € gegenüber variabel und 193 € gegenüber fest bei 3 500 kWh sowie durchschnittliche Grundgebühr von 70 €/Jahr im Mai 2026, bis zu 130 € (9. Juni 2026).
 - [Énergie Commune / Interreg Europe — Geschäftsmodell der Energieteilung](https://www.interregeurope.eu/sites/default/files/good_practices/8.%20EnergieCommune_EC_BM_Sharing_Interreg_Ghent.pdf) — dokumentierter Fall, der die Ersparnis für einen Verbraucher mit 500 geteilten kWh im Jahr auf rund 145 € zum Standardtarif beziffert, gegenüber etwa 70 € für einen Haushalt, der bereits den Sozialtarif genießt.
-- [CWaPE — CompaCWaPE](https://www.cwape.be/consommateurs/compacwape), [Brugel — BruSim](https://brugel.brussels/outils/brusim-2) und [VREG — V-test](https://www.vtest.be) — die drei offiziellen Vergleichsportale der regionalen Regulatoren, kostenlos und ohne Anbieterprovision.
+- [CWaPE — CompaCWaPE](https://www.cwape.be/consommateurs/compacwape), [Brugel — BruSim](https://brugel.brussels/outils/brusim-2) und [Vlaamse Nutsregulator — V-test](https://www.vtest.be) — die drei offiziellen Vergleichsportale der regionalen Regulatoren, kostenlos und ohne Anbieterprovision.

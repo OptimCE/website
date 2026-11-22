@@ -9,7 +9,7 @@ tags: [community, administrative]
 lang: nl
 ref: energy-communities-belgium
 pillar: communautes-energie
-last_modified_at: 2026-11-10 06:00:00 +0100
+last_modified_at: 2026-11-21 06:00:00 +0100
 permalink: /nl/gidsen/energiegemeenschappen-belgie/
 ---
 
@@ -124,7 +124,7 @@ Ja. **Kmo's** en **lokale overheden** mogen uitdrukkelijk deelnemen, op voorwaar
 
 ### En in Vlaanderen?
 
-Vlaanderen beschikt over een gelijkwaardig kader onder toezicht van **VREG**, met **Fluvius** als DNB. CER en CEC bestaan er onder hun Nederlandse benamingen (*Hernieuwbare-energiegemeenschap* en *Burgerenergiegemeenschap*).
+Vlaanderen beschikt over een gelijkwaardig kader onder toezicht van de **Vlaamse Nutsregulator**, met **Fluvius** als DNB. CER en CEC bestaan er onder hun Nederlandse benamingen (*Hernieuwbare-energiegemeenschap* en *Burgerenergiegemeenschap*).
 
 ### Hoe wordt de gedeelde energie gemeten?
 
@@ -140,7 +140,7 @@ Via de **slimme meters** (smart meters) die door de DNB's worden uitgerold en de
 
 > **Binnenkort — Brussel en Vlaanderen**
 >
-> De procedures aan de zijde van **BRUGEL / Sibelga** (Brussel) en **VREG / Fluvius** (Vlaanderen) komen aan bod in toegewijde gidsen. Blijf op de hoogte.
+> De procedures aan de zijde van **BRUGEL / Sibelga** (Brussel) en **Vlaamse Nutsregulator / Fluvius** (Vlaanderen) komen aan bod in toegewijde gidsen. Blijf op de hoogte.
 
 ## Wilt u toetreden tot een energiegemeenschap?
 
@@ -152,7 +152,7 @@ Via de **slimme meters** (smart meters) die door de DNB's worden uitgerold en de
 
 > **Binnenkort — Brussel en Vlaanderen**
 >
-> De modaliteiten om toe te treden in **Brussel** (BRUGEL / Sibelga) en in **Vlaanderen** (VREG / Fluvius) komen aan bod in toegewijde gidsen. Blijf op de hoogte.
+> De modaliteiten om toe te treden in **Brussel** (BRUGEL / Sibelga) en in **Vlaanderen** (Vlaamse Nutsregulator / Fluvius) komen aan bod in toegewijde gidsen. Blijf op de hoogte.
 
 ## Bronnen
 

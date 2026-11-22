@@ -9,7 +9,7 @@ tags: [community]
 lang: de
 ref: reduce-electricity-bill
 pillar: facture-electricite
-last_modified_at: 2026-11-10 06:00:00 +0100
+last_modified_at: 2026-11-21 06:00:00 +0100
 permalink: /de/ratgeber/energiegemeinschaft-stromrechnung-senken/
 ---
 
@@ -67,12 +67,12 @@ Die Sparmechanismen bestehen in allen drei Regionen, doch die Akteure und einige
 
 | Kriterium | Wallonie | Brüssel | Flandern |
 |---|---|---|---|
-| Regulierungsbehörde | CWaPE | BRUGEL | VREG |
+| Regulierungsbehörde | CWaPE | BRUGEL | Vlaamse Nutsregulator |
 | Verteilnetzbetreiber (VNB) | ORES, RESA, AIEG, AIESH, REW | Sibelga | Fluvius |
 | Netzentgelt auf geteilter Energie | Keine Ermäßigung in der Gemeinschaft; −80 % auf die proportionalen Bestandteile im selben Gebäude | Gestaffelte Ermäßigung über vier Perimeter: Arbeitspreisanteil im selben Gebäude gestrichen, −50 % an derselben NS-Kabine; der Grundpreisanteil wird in keinem der vier berechnet | Keine Ermäßigung |
-| Zusätzliches Einkommen für den Erzeuger | Grünstromzertifikate | Grünstromzertifikate (≈ erste 10 Jahre) | Spezifische Förderung — siehe VREG |
+| Zusätzliches Einkommen für den Erzeuger | Grünstromzertifikate | Grünstromzertifikate (≈ erste 10 Jahre) | Spezifische Förderung — siehe Vlaamse Nutsregulator |
 | Intelligenter Zähler erforderlich | Ja | Ja | Ja |
-| Aufteilungsschlüssel | Standardfamilien CWaPE | Fest / anteilig / hybrid (BRUGEL) | Vaste / relatieve / optimale (VREG) |
+| Aufteilungsschlüssel | Standardfamilien CWaPE | Fest / anteilig / hybrid (BRUGEL) | Vaste / relatieve / optimale (Vlaamse Nutsregulator) |
 
 Für die Details der Aufteilungsschlüssel und ihre Auswirkung auf den geteilten Betrag siehe unseren eigenen Artikel: [„Aufteilungsschlüssel in Belgien: 3 Regionen“](/de/ratgeber/verteilungsschluessel-energiegemeinschaft-belgien/). In Brüssel können Erzeuger zudem in den ersten Jahren ihrer Anlage ein **Zusatzeinkommen aus dem Weiterverkauf von Grünstromzertifikaten** erzielen ([Sibelga](https://www.sibelga.be/en/connections-meters/renewable-energy/solar-panels/green-certificates)).
 

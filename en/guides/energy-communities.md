@@ -8,14 +8,14 @@ ref: pillar-communautes-energie
 pillar: communautes-energie
 permalink: /en/guides/energy-communities/
 breadcrumb_parent: guides
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-22
 sections:
   - title: "Understanding the framework"
     refs: [energy-communities-europe, energy-communities-belgium, energy-sharing-barometer-wallonia, self-consumption-belgium, impact-tariff-energy-sharing]
   - title: "Creating or joining a community"
     refs: [create-energy-community-wallonia, energy-community-legal-form, join-energy-community-wallonia]
   - title: "Running the community"
-    refs: [engage-energy-community, cwape-administrative-documents]
+    refs: [engage-energy-community, cwape-administrative-documents, meter-data-energy-community]
 ---
 An energy community brings citizens, businesses or local authorities together to produce, share and consume their own energy. It is a legal entity, usually a non-profit (ASBL) or a cooperative, which members join freely. The sharing is administrative, not physical: the distribution system operator (DSO) allocates each member a share of local production, quarter-hour by quarter-hour, according to an allocation key. This is called collective self-consumption. You keep your supplier, which bills the part of your consumption that sharing does not cover.
 
@@ -26,6 +26,6 @@ The legal framework stems from [two European directives]({{ "energy-communities-
 
 Once the community is up and running, effective control by the members remains a continuing requirement. It is sustained by informing members regularly and consulting them before deciding, particularly on the allocation key, which affects every bill: that is the subject of [“Engaging energy community members”]({{ "engage-energy-community" | ref_url }}).
 
-On the administrative side, the CWaPE receives the notification, its modifications and the annual report; the DSO receives everything concerning the sharing. Each sharing activity must also be authorised by the CWaPE, on a request filed with the DSO: our [barometer of authorised sharing]({{ "energy-sharing-barometer-wallonia" | ref_url }}) lists them one by one, every quarter. Two deadlines are often misread: an incomplete notification dossier lapses if it is not completed within six months of the first acknowledgement, and the annual report is due every year by 1 September, whatever the notification date. The details are in [“Energy community: CWaPE documents and deadlines”]({{ "cwape-administrative-documents" | ref_url }}).
+On the administrative side, the CWaPE receives the notification, its modifications and the annual report; the DSO receives everything concerning the sharing. The DSO also produces the community's data: every month it sends the representative each member's quarter-hourly volumes, as explained in [“Meter data in an energy community”]({{ "meter-data-energy-community" | ref_url }}). Each sharing activity must also be authorised by the CWaPE, on a request filed with the DSO: our [barometer of authorised sharing]({{ "energy-sharing-barometer-wallonia" | ref_url }}) lists them one by one, every quarter. Two deadlines are often misread: an incomplete notification dossier lapses if it is not completed within six months of the first acknowledgement, and the annual report is due every year by 1 September, whatever the notification date. The details are in [“Energy community: CWaPE documents and deadlines”]({{ "cwape-administrative-documents" | ref_url }}).
 
 The guides below follow these three stages: the framework, creating or joining, then the life of the community.

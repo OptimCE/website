@@ -9,7 +9,7 @@ tags: [community, administrative]
 lang: en
 ref: energy-communities-belgium
 pillar: communautes-energie
-last_modified_at: 2026-11-10 06:00:00 +0100
+last_modified_at: 2026-11-21 06:00:00 +0100
 permalink: /en/guides/energy-communities-belgium/
 ---
 
@@ -124,7 +124,7 @@ Yes. **SMEs** and **local authorities** are explicitly allowed to take part, pro
 
 ### What about Flanders?
 
-Flanders has an equivalent framework supervised by **VREG**, with **Fluvius** as DSO. CER and CEC exist there under their Dutch names (*Hernieuwbare-energiegemeenschap* and *Burgerenergiegemeenschap*).
+Flanders has an equivalent framework supervised by the **Vlaamse Nutsregulator**, with **Fluvius** as DSO. CER and CEC exist there under their Dutch names (*Hernieuwbare-energiegemeenschap* and *Burgerenergiegemeenschap*).
 
 ### How is shared energy measured?
 
@@ -140,7 +140,7 @@ Through the **smart meters** rolled out by the DSOs, which transmit data every *
 
 > **Coming soon — Brussels and Flanders**
 >
-> The procedures on the **BRUGEL / Sibelga** (Brussels) and **VREG / Fluvius** (Flanders) sides will be covered in dedicated guides. Stay tuned.
+> The procedures on the **BRUGEL / Sibelga** (Brussels) and **Vlaamse Nutsregulator / Fluvius** (Flanders) sides will be covered in dedicated guides. Stay tuned.
 
 ## Want to join an energy community?
 
@@ -152,7 +152,7 @@ Through the **smart meters** rolled out by the DSOs, which transmit data every *
 
 > **Coming soon — Brussels and Flanders**
 >
-> Joining procedures in **Brussels** (BRUGEL / Sibelga) and **Flanders** (VREG / Fluvius) will be covered in dedicated guides. Stay tuned.
+> Joining procedures in **Brussels** (BRUGEL / Sibelga) and **Flanders** (Vlaamse Nutsregulator / Fluvius) will be covered in dedicated guides. Stay tuned.
 
 ## Sources
 

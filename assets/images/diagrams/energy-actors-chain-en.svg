@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520" role="img" aria-labelledby="t d">
-<title id="t">Who does what, from power plant to meter</title><desc id="d">Diagram in two rows. The first follows the power: generation (power plants, wind turbines, solar panels), transmission by Elia at high voltage (Fluxys for gas), distribution by your DSO (ORES, RESA, Sibelga, Fluvius…), set by your address, then your home, with its meter and EAN code. The second follows the contract and the money: you pay a single bill to the supplier, which you choose; it keeps the energy and its margin, passes network costs on to the DSO and Elia, and taxes and VAT to the public authorities. The DSO reads your meter and sends your volumes to the supplier. A band shows the regulators: the CREG for transmission, at federal level; the CWaPE, BRUGEL and the VREG for distribution, in the regions.</desc>
+<title id="t">Who does what, from power plant to meter</title><desc id="d">Diagram in two rows. The first follows the power: generation (power plants, wind turbines, solar panels), transmission by Elia at high voltage (Fluxys for gas), distribution by your DSO (ORES, RESA, Sibelga, Fluvius…), set by your address, then your home, with its meter and EAN code. The second follows the contract and the money: you pay a single bill to the supplier, which you choose; it keeps the energy and its margin, passes network costs on to the DSO and Elia, and taxes and VAT to the public authorities. The DSO reads your meter and sends your volumes to the supplier. A band shows the regulators: the CREG for transmission, at federal level; the CWaPE, BRUGEL and the Vlaamse Nutsregulator for distribution, in the regions.</desc>
 <rect width="800" height="520" fill="#FFFFFF"/>
 <g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
 <text x="46" y="46" font-size="21" fill="#212529" font-weight="700" text-anchor="start">Who does what, from power plant to meter</text>
@@ -54,7 +54,7 @@
 <text x="492" y="381" font-size="12.5" fill="#212529" font-weight="400" text-anchor="start">Taxes and VAT: to the public authorities</text>
 <text x="46" y="428" font-size="12.5" fill="#495057" font-weight="400" text-anchor="start">The DSO reads your meter and sends your volumes to the supplier, which bills them.</text>
 <rect x="46" y="452" width="708" height="34" rx="8" fill="#E8F5E9"/>
-<text x="58" y="474" font-size="12.5" fill="#1b5e20" font-weight="700" text-anchor="start">Oversight: CREG for transmission (federal) · CWaPE, BRUGEL, VREG for distribution (regions)</text>
+<text x="58" y="474" font-size="12.5" fill="#1b5e20" font-weight="700" text-anchor="start">Oversight: CREG for transmission (federal) · CWaPE, BRUGEL, Vlaamse Nutsregulator for distribution (regions)</text>
 <text x="46" y="508" font-size="11.5" fill="#868E96" font-weight="400" text-anchor="start">Sources: CWaPE, CREG, ORES, Fluxys</text>
 </g>
 </svg>

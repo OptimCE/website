@@ -8,7 +8,7 @@ description: "Deux algorithmes — brute force sur les clés standards et LOGAAS
 tags: [allocation-key, app, guide]
 lang: fr
 ref: optimce-allocation-key-generator
-last_modified_at: 2026-10-11 10:00:00 +0200
+last_modified_at: 2026-11-21 06:00:00 +0100
 pillar: cle-de-repartition
 # Pinned explicitly, like the three translations. Before `timezone` was set in
 # _config.yml the 00:00 +0200 date built as 05/25 on the UTC CI runner, so that
@@ -20,7 +20,7 @@ Choisir la **clé de répartition** qui tire le meilleur d'une production locale
 
 Le **module de génération automatique de clés de répartition** d'OptimCE est désormais disponible pour sortir cette décision du domaine de l'intuition. Donnez-lui un CSV avec les données réelles de production et de consommation de la communauté, et il renvoie une clé candidate avec un taux d'autoconsommation collective attendu — calculé sur vos propres données, pas sur un exemple théorique. Deux algorithmes **indépendants** sont livrés aujourd'hui, tous deux consommant le même CSV : un **brute force** qui balaie les clés standards reconnues dans chaque région, et **LOGAAS**, une approche hybride d'optimisation linéaire et d'algorithme génétique développée par [**CeCoTePe**](https://cecotepe.be/) pour le projet **Locomotrice**. D'autres algorithmes pourront s'ajouter par la suite.
 
-Si vous découvrez encore le paysage régulatoire — ce que CWaPE, BRUGEL et VREG considèrent comme une clé valide — commencez par notre article de référence [« Clé de répartition en Belgique : les 3 régions »](/guides/cle-repartition-communaute-energie-belgique/).
+Si vous découvrez encore le paysage régulatoire — ce que CWaPE, BRUGEL et Vlaamse Nutsregulator (anciennement VREG) considèrent comme une clé valide — commencez par notre article de référence [« Clé de répartition en Belgique : les 3 régions »](/guides/cle-repartition-communaute-energie-belgique/).
 
 <img src="/assets/images/diagrams/allocation-key-flow-fr.svg"
      alt="Schéma en cinq étapes : données au quart d'heure, génération ou simulation, clé candidate, validation par les membres, transmission au gestionnaire de réseau."
@@ -149,7 +149,7 @@ Pour aller plus loin, voyez nos guides complémentaires :
 
 > **[Clé de répartition en Belgique : les 3 régions](/guides/cle-repartition-communaute-energie-belgique/)**
 >
-> Le primer régulatoire — ce que CWaPE, BRUGEL et VREG acceptent, les trois vocabulaires régionaux et comment choisir une famille de clés avant de laisser OptimCE l'optimiser.
+> Le primer régulatoire — ce que CWaPE, BRUGEL et Vlaamse Nutsregulator acceptent, les trois vocabulaires régionaux et comment choisir une famille de clés avant de laisser OptimCE l'optimiser.
 
 > **[Comment créer une communauté d'énergie en Wallonie : guide étape par étape](/guides/creer-communaute-energie-wallonie/)**
 >

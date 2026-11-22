@@ -2,6 +2,7 @@
 layout: post
 title: "Neues Werkzeug: Ihren Netzbetreiber finden"
 date: 2026-10-22 06:00:00 +0200
+last_modified_at: 2026-11-21 06:00:00 +0100
 author: "Eric von OptimCE"
 excerpt: "Wer betreibt das Strom- und das Gasnetz Ihrer Gemeinde? Unser kostenloses Werkzeug antwortet anhand der Postleitzahl, für alle 565 Gemeinden Belgiens, in Ihrem Browser und ohne Konto."
 description: "Ihren Netzbetreiber für Strom und Gas mit der Postleitzahl finden: Unser kostenloses Werkzeug deckt alle 565 Gemeinden Belgiens ab, ohne Konto."
@@ -18,8 +19,8 @@ faq:
     a: "Weil die Postleitzahl nicht immer genügt. Drei Postleitzahlen umfassen zwei Gemeinden: 1040 (Brüssel und Etterbeek), 1050 (Brüssel und Ixelles) und 1804 (Vilvoorde und Zemst). In Baarle-Hertog hängt der Gasnetzbetreiber vom Ortsteil ab: Enexis, ein niederländischer Netzbetreiber, außer in Zondereigen, das Fluvius Kempen versorgt. Das Werkzeug fragt dann nach, bevor es das Ergebnis anzeigt."
   - q: "Was tun, wenn das Werkzeug einen falschen Netzbetreiber anzeigt?"
     a: "Melden Sie es über den Link „Fehler melden“ unter dem Ergebnis: Er öffnet eine E-Mail an contact@optimce.be mit der Version der Daten, ohne Ihre Postleitzahl. Zur Kontrolle sehen Sie inzwischen auf Ihrer Jahresabrechnung oder Schlussrechnung für Strom nach: Für einen Haushalt nennt sie den Namen und die Telefonnummer des Netzbetreibers, den Sie bei einem Stromausfall anrufen."
-  - q: "Wird das Werkzeug in die OptimCE-Anwendung eingebaut?"
-    a: "Das ist geplant. Wenn ein Verwalter einer Energiegemeinschaft in der Anwendung einen Zähler hinzufügt, schlägt sie den Netzbetreiber der Gemeinde vor, den er korrigieren kann. Bis dahin bleibt das Werkzeug für alle kostenlos auf optimce.be zugänglich."
+  - q: "Ist das Werkzeug in die OptimCE-Anwendung eingebaut?"
+    a: "Ja. Wenn ein Verwalter einer Energiegemeinschaft in der Anwendung einen Zähler hinzufügt, schlägt sie den Stromnetzbetreiber der Adresse vor, den er korrigieren kann. Sie stützt sich auf dieselben Daten wie das Werkzeug, das für alle kostenlos auf optimce.be zugänglich bleibt."
 ---
 
 Um Ihren Netzbetreiber für Strom und Gas zu finden, genügt jetzt eine Postleitzahl. Unser kostenloses Werkzeug [„Netzbetreiber finden“](/de/werkzeuge/netzbetreiber-finden/) nennt für jede der 565 Gemeinden Belgiens den Verteilernetzbetreiber für Strom und den für Erdgas. Die Suche läuft in Ihrem Browser, ohne Konto. Das Werkzeug eröffnet die neue Rubrik [Tools](/de/werkzeuge/) der Website.
@@ -65,9 +66,9 @@ Wo unsere Quellen nicht ausreichen, sagt das Werkzeug es. In Walcourt und Marchi
 
 Der zusammengestellte Datensatz ist unter der Lizenz CC BY 4.0 im Repository [belgian-dso-map](https://github.com/OptimCE/belgian-dso-map) auf GitHub veröffentlicht: Jeder darf ihn mit Quellenangabe weiterverwenden. Jedes Ergebnis zeigt die Version der Daten. Wenn Ihnen eine Antwort falsch erscheint, öffnet der Link „Fehler melden“ unter dem Ergebnis eine E-Mail an contact@optimce.be, die die Version der Daten enthält, nie Ihre Postleitzahl.
 
-## Wie es weitergeht: das Werkzeug in der Anwendung
+## Das Werkzeug in der Anwendung
 
-Wir planen, dieselbe Suche in die OptimCE-Anwendung einzubauen: Wenn ein Verwalter einer Gemeinschaft einen Zähler hinzufügt, schlägt die Anwendung den Netzbetreiber der Gemeinde vor, den er korrigieren kann. OptimCE deckt heute den wallonischen Rahmen ab; Brüssel und Flandern sind geplant, aber noch nicht umgesetzt.
+Dieselbe Suche ist jetzt in die OptimCE-Anwendung eingebaut: Wenn ein Verwalter einer Gemeinschaft einen Zähler hinzufügt, schlägt die Anwendung den Stromnetzbetreiber der Adresse vor, den er korrigieren kann. Wie diese Daten entstehen und getestet werden: [„Netzbetreiber nach Gemeinde: hinter den Kulissen“](/de/aktuelles/2026/11/21/netzbetreiber-nach-gemeinde-hinter-den-kulissen/). OptimCE deckt heute den wallonischen Rahmen ab; Brüssel und Flandern sind geplant, aber noch nicht umgesetzt.
 
 Sie tragen ein Projekt zur Energieteilung? Unsere Ratgeber erklären, wie Sie [eine Energiegemeinschaft in der Wallonie gründen](/de/ratgeber/energiegemeinschaft-gruenden-wallonien/) oder [einer beitreten](/de/ratgeber/energiegemeinschaft-beitreten-wallonien/), und die Seite [Funktionen](/de/funktionen/) zeigt, was die Anwendung im Alltag übernimmt.
 
@@ -95,9 +96,9 @@ Weil die Postleitzahl nicht immer genügt. Drei Postleitzahlen umfassen zwei Gem
 
 Melden Sie es über den Link „Fehler melden“ unter dem Ergebnis: Er öffnet eine E-Mail an contact@optimce.be mit der Version der Daten, ohne Ihre Postleitzahl. Zur Kontrolle sehen Sie inzwischen auf Ihrer Jahresabrechnung oder Schlussrechnung für Strom nach: Für einen Haushalt nennt sie den Namen und die Telefonnummer des Netzbetreibers, den Sie bei einem Stromausfall anrufen.
 
-### Wird das Werkzeug in die OptimCE-Anwendung eingebaut?
+### Ist das Werkzeug in die OptimCE-Anwendung eingebaut?
 
-Das ist geplant. Wenn ein Verwalter einer Energiegemeinschaft in der Anwendung einen Zähler hinzufügt, schlägt sie den Netzbetreiber der Gemeinde vor, den er korrigieren kann. Bis dahin bleibt das Werkzeug für alle kostenlos auf optimce.be zugänglich.
+Ja. Wenn ein Verwalter einer Energiegemeinschaft in der Anwendung einen Zähler hinzufügt, schlägt sie den Stromnetzbetreiber der Adresse vor, den er korrigieren kann. Sie stützt sich auf dieselben Daten wie das Werkzeug, das für alle kostenlos auf optimce.be zugänglich bleibt.
 
 ## Quellen
 

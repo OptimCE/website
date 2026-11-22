@@ -8,14 +8,14 @@ ref: pillar-communautes-energie
 pillar: communautes-energie
 permalink: /nl/gidsen/energiegemeenschappen/
 breadcrumb_parent: guides
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-22
 sections:
   - title: "Het kader begrijpen"
     refs: [energy-communities-europe, energy-communities-belgium, energy-sharing-barometer-wallonia, self-consumption-belgium, impact-tariff-energy-sharing]
   - title: "Een gemeenschap oprichten of ertoe toetreden"
     refs: [create-energy-community-wallonia, energy-community-legal-form, join-energy-community-wallonia]
   - title: "De gemeenschap dagelijks beheren"
-    refs: [engage-energy-community, cwape-administrative-documents]
+    refs: [engage-energy-community, cwape-administrative-documents, meter-data-energy-community]
 ---
 Een energiegemeenschap brengt burgers, bedrijven of lokale overheden samen om hun eigen energie te produceren, te delen en te verbruiken. Het is een rechtspersoon, meestal een vzw of een coöperatie, waartoe u vrijwillig toetreedt. Energiedelen is administratief, niet fysiek: de distributienetbeheerder (DNB) wijst elk lid per kwartier een deel van de lokale productie toe volgens een verdeelsleutel. Men spreekt van collectief zelfverbruik. U behoudt uw leverancier, die het deel van uw verbruik factureert dat het delen niet dekt.
 
@@ -26,6 +26,6 @@ Het juridische kader vloeit voort uit [twee Europese richtlijnen]({{ "energy-com
 
 Zodra de gemeenschap is opgestart, blijft de daadwerkelijke zeggenschap van de leden een doorlopende vereiste. U houdt ze in stand door regelmatig te informeren en te raadplegen vóór u beslist, zeker over de verdeelsleutel, die elke factuur raakt: dat is het onderwerp van [“Leden van een energiegemeenschap betrekken”]({{ "engage-energy-community" | ref_url }}).
 
-Administratief ontvangt de CWaPE de kennisgeving, de wijzigingen ervan en de jaarlijkse rapportering; de DNB ontvangt alles wat het delen betreft. Elke deelactiviteit moet bovendien door de CWaPE worden toegelaten, op een aanvraag bij de DNB: onze [barometer van de toegelaten deelactiviteiten]({{ "energy-sharing-barometer-wallonia" | ref_url }}) somt ze één voor één op, elk kwartaal. Twee termijnen worden vaak verkeerd gelezen: een onvolledig kennisgevingsdossier vervalt als het niet binnen zes maanden na de eerste ontvangstbevestiging is vervolledigd, en de jaarlijkse rapportering moet elk jaar uiterlijk op 1 september worden ingediend, ongeacht de datum van de kennisgeving. De details vindt u in [“Energiegemeenschap: CWaPE-documenten en termijnen”]({{ "cwape-administrative-documents" | ref_url }}).
+Administratief ontvangt de CWaPE de kennisgeving, de wijzigingen ervan en de jaarlijkse rapportering; de DNB ontvangt alles wat het delen betreft. De DNB levert ook de gegevens van de gemeenschap: elke maand stuurt hij de vertegenwoordiger de kwartiervolumes van elk lid, zoals [“Meetgegevens in een energiegemeenschap”]({{ "meter-data-energy-community" | ref_url }}) uitlegt. Elke deelactiviteit moet bovendien door de CWaPE worden toegelaten, op een aanvraag bij de DNB: onze [barometer van de toegelaten deelactiviteiten]({{ "energy-sharing-barometer-wallonia" | ref_url }}) somt ze één voor één op, elk kwartaal. Twee termijnen worden vaak verkeerd gelezen: een onvolledig kennisgevingsdossier vervalt als het niet binnen zes maanden na de eerste ontvangstbevestiging is vervolledigd, en de jaarlijkse rapportering moet elk jaar uiterlijk op 1 september worden ingediend, ongeacht de datum van de kennisgeving. De details vindt u in [“Energiegemeenschap: CWaPE-documenten en termijnen”]({{ "cwape-administrative-documents" | ref_url }}).
 
 De gidsen hieronder volgen die drie etappes: het kader, oprichten of toetreden, en daarna het leven van de gemeenschap.

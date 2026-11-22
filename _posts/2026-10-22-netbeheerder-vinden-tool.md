@@ -2,6 +2,7 @@
 layout: post
 title: "Nieuwe tool: vind uw netbeheerder"
 date: 2026-10-22 06:00:00 +0200
+last_modified_at: 2026-11-21 06:00:00 +0100
 author: "Eric van OptimCE"
 excerpt: "Wie beheert het elektriciteits- en gasnet van uw gemeente? Onze gratis tool antwoordt op basis van uw postcode, voor alle 565 gemeenten van België, in uw browser en zonder account."
 description: "Vind uw netbeheerder voor elektriciteit en gas met uw postcode: onze gratis tool dekt alle 565 Belgische gemeenten, in Vlaanderen, Brussel en Wallonië."
@@ -18,8 +19,8 @@ faq:
     a: "Omdat uw postcode niet altijd volstaat. Drie postcodes omvatten twee gemeenten: 1040 (Brussel en Etterbeek), 1050 (Brussel en Elsene) en 1804 (Vilvoorde en Zemst). In Baarle-Hertog hangt de gasnetbeheerder af van de deelgemeente: Enexis, een Nederlandse netbeheerder, behalve in Zondereigen, waar Fluvius Kempen het gas verdeelt. De tool vraagt het u dan voordat hij het resultaat toont."
   - q: "Wat doet u als de tool een verkeerde netbeheerder toont?"
     a: "Meld het via de link “Een fout melden” onder het resultaat: die opent een e-mail naar contact@optimce.be met de versie van de gegevens, zonder uw postcode. Om intussen te controleren kijkt u op uw afrekenings- of slotfactuur voor elektriciteit: voor een gezin vermeldt die de naam en het telefoonnummer van de netbeheerder die u belt bij een stroomstoring."
-  - q: "Komt de tool ook in de applicatie van OptimCE?"
-    a: "Dat is gepland. Wanneer een beheerder van een energiegemeenschap in de applicatie een meter toevoegt, zal die de netbeheerder van de gemeente voorstellen, die de beheerder kan corrigeren. Tot dan blijft de tool gratis voor iedereen beschikbaar op optimce.be."
+  - q: "Zit de tool ook in de applicatie van OptimCE?"
+    a: "Ja. Wanneer een beheerder van een energiegemeenschap in de applicatie een meter toevoegt, stelt die de netbeheerder voor elektriciteit van het adres voor, die de beheerder kan corrigeren. De applicatie steunt op dezelfde gegevens als de tool, die gratis voor iedereen beschikbaar blijft op optimce.be."
 ---
 
 Om uw netbeheerder voor elektriciteit en gas te vinden, volstaat voortaan een postcode. Onze gratis tool [“Wie is mijn netbeheerder?”](/nl/tools/wie-is-mijn-netbeheerder/) geeft voor elk van de 565 Belgische gemeenten de distributienetbeheerder voor elektriciteit en die voor aardgas. De zoekopdracht loopt in uw browser, zonder account. Het is de eerste pagina van de nieuwe rubriek [Tools](/nl/tools/) van de site.
@@ -63,9 +64,9 @@ Waar onze bronnen tekortschieten, zegt de tool het. In Walcourt en Marchin noemt
 
 De samengestelde dataset is onder de licentie CC BY 4.0 gepubliceerd in de repository [belgian-dso-map](https://github.com/OptimCE/belgian-dso-map) op GitHub: iedereen mag hem hergebruiken, met bronvermelding. Elk resultaat toont de versie van de gegevens. Lijkt een antwoord u fout, dan opent de link “Een fout melden” onder het resultaat een e-mail naar contact@optimce.be met de versie van de gegevens, nooit met uw postcode.
 
-## Wat volgt: de tool in de applicatie
+## De tool in de applicatie
 
-We plannen dezelfde zoekfunctie in de applicatie van OptimCE: wanneer een beheerder van een gemeenschap een meter toevoegt, zal de applicatie de netbeheerder van de gemeente voorstellen, die hij kan corrigeren. OptimCE dekt vandaag het Waalse kader; Brussel en Vlaanderen zijn gepland, maar nog niet geïmplementeerd. Voor energiedelen in Brussel verwijst Brugel naar zijn site [Energy Sharing](https://energysharing.brugel.brussels/); in Vlaanderen legt de Vlaamse Nutsregulator de [energiegemeenschappen](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/energieprijzen-en-facturen/energiegemeenschappen) uit.
+Dezelfde zoekfunctie zit nu in de applicatie van OptimCE: wanneer een beheerder van een gemeenschap een meter toevoegt, stelt de applicatie de netbeheerder voor elektriciteit van het adres voor, die hij kan corrigeren. Hoe die gegevens worden opgebouwd en getest: [“Netbeheerder per gemeente: achter de schermen”](/nl/nieuws/2026/11/21/netbeheerder-per-gemeente-achter-de-schermen/). OptimCE dekt vandaag het Waalse kader; Brussel en Vlaanderen zijn gepland, maar nog niet geïmplementeerd. Voor energiedelen in Brussel verwijst Brugel naar zijn site [Energy Sharing](https://energysharing.brugel.brussels/); in Vlaanderen legt de Vlaamse Nutsregulator de [energiegemeenschappen](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/energieprijzen-en-facturen/energiegemeenschappen) uit.
 
 Trekt u een project in Wallonië? Onze gidsen leggen uit hoe u [een energiegemeenschap opricht](/nl/gidsen/energiegemeenschap-oprichten-wallonie/) of [er een vervoegt](/nl/gidsen/energiegemeenschap-aansluiten-wallonie/), en de pagina [Functies](/nl/functies/) toont wat de applicatie dagelijks beheert.
 
@@ -93,9 +94,9 @@ Omdat uw postcode niet altijd volstaat. Drie postcodes omvatten twee gemeenten: 
 
 Meld het via de link “Een fout melden” onder het resultaat: die opent een e-mail naar contact@optimce.be met de versie van de gegevens, zonder uw postcode. Om intussen te controleren kijkt u op uw afrekenings- of slotfactuur voor elektriciteit: voor een gezin vermeldt die de naam en het telefoonnummer van de netbeheerder die u belt bij een stroomstoring.
 
-### Komt de tool ook in de applicatie van OptimCE?
+### Zit de tool ook in de applicatie van OptimCE?
 
-Dat is gepland. Wanneer een beheerder van een energiegemeenschap in de applicatie een meter toevoegt, zal die de netbeheerder van de gemeente voorstellen, die de beheerder kan corrigeren. Tot dan blijft de tool gratis voor iedereen beschikbaar op optimce.be.
+Ja. Wanneer een beheerder van een energiegemeenschap in de applicatie een meter toevoegt, stelt die de netbeheerder voor elektriciteit van het adres voor, die de beheerder kan corrigeren. De applicatie steunt op dezelfde gegevens als de tool, die gratis voor iedereen beschikbaar blijft op optimce.be.
 
 ## Bronnen
 

@@ -2,6 +2,7 @@
 layout: post
 title: "CWaPE-Verfahren und Unterzeichnung der Anlage 8"
 date: 2026-11-11 06:00:00 +0100
+last_modified_at: 2026-11-21 06:00:00 +0100
 author: "Eric von OptimCE"
 excerpt: "Der Verwaltungsbereich von OptimCE ist jetzt in Verfahren gegliedert, die sich aus den Änderungen im CRM speisen, und die Anlage 8 der CWaPE wird in der Anwendung unterschrieben. OptimCE sendet nach wie vor nichts: Sie senden selbst."
 description: "CWaPE-Verfahren aus dem CRM, Fristen, Unterlagen und einfache elektronische Signatur der Anlage 8: was der neue Verwaltungsbereich von OptimCE ändert."
@@ -95,7 +96,7 @@ Es ist eine **einfache** elektronische Signatur im Sinne der eIDAS-Verordnung, w
 - **Kein Versand.** OptimCE sendet nichts, weder an den Netzbetreiber noch an die CWaPE.
 - **Nur die Anlage 8.** Vereinbarungen mit dem Netzbetreiber, Nachträge und Beitrittsformulare werden nicht in der Anwendung unterschrieben.
 - **Keine Erkennung der Erzeugungsanlagen.** Bei einer Änderung an einer Anlage wird das Verfahren von Hand angelegt.
-- **Nur die Wallonie.** Weder Brugel noch die VREG.
+- **Nur die Wallonie.** Weder Brugel noch die Vlaamse Nutsregulator (früher VREG).
 - **Kein Gegenlesen an Ihrer Stelle.** Ein mit falschen Daten vorausgefülltes Formular bleibt falsch.
 
 ## Verfügbarkeit und Aktivierung

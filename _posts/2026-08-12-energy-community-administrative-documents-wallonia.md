@@ -8,7 +8,7 @@ description: "Notification, annual report, grid operator agreements: which docum
 tags: [administrative, app, guide]
 lang: en
 ref: cwape-administrative-documents
-last_modified_at: 2026-11-13 08:00:00 +0100
+last_modified_at: 2026-11-21 06:00:00 +0100
 pillar: communautes-energie
 permalink: /en/guides/energy-community-administrative-documents-wallonia/
 faq:
@@ -23,7 +23,7 @@ faq:
   - q: "Does OptimCE file the documents with the CWaPE for me?"
     a: "No, and that is deliberate. OptimCE prepares the documents from your data, computes the deadlines, keeps every version that was sent and records who transmitted what and when. Filing itself remains yours to do: on Mon Espace for the notification, its modifications and the annual report, and with your distribution system operator for sharing and the agreements. There is no automated interface between the platform and the regulator. As of 11 November 2026, a single document can be signed in the app: annex 8, the sworn declaration of persons taking part in the sharing, with a simple electronic signature within the meaning of the eIDAS Regulation. The Word agreements remain documents the parties edit and sign, and whatever OptimCE cannot derive stays editable by hand."
   - q: "What about Brussels and Flanders?"
-    a: "Administrative document management currently covers Wallonia and the CWaPE only. The architecture is keyed by regulator, and both Brugel and the VREG are already declared in the platform's shared registry, but they are inactive there: an unknown or inactive regulator raises an explicit error rather than falling back silently on the Walloon rules. The reason is editorial rather than technical: adding a region mostly means authoring that region's document bundles, and Brussels and Flanders mandate different documents. We would rather not announce a date until those bundles are written."
+    a: "Administrative document management currently covers Wallonia and the CWaPE only. The architecture is keyed by regulator, and both Brugel and the Vlaamse Nutsregulator are already declared in the platform's shared registry, but they are inactive there: an unknown or inactive regulator raises an explicit error rather than falling back silently on the Walloon rules. The reason is editorial rather than technical: adding a region mostly means authoring that region's document bundles, and Brussels and Flanders mandate different documents. We would rather not announce a date until those bundles are written."
 ---
 
 A Walloon energy community is rarely judged on its engineering. Smart meters exist, allocation keys can be computed, volumes are counted quarter-hour by quarter-hour. What blocks things is the paperwork — and above all its dates. The CWaPE has **ten working days** to check whether your notification dossier is complete. A dossier left incomplete **lapses after six months**. A change to the conditions of constitution must be notified within **fifteen working days**. And every year, **by 1 September at the latest**, the community must file its annual report.
@@ -234,7 +234,7 @@ Four limits, better known before you commit.
 
 **Only one document is signed in OptimCE.** As of 11 November 2026, annex 8, the sworn declaration of persons taking part in the sharing, can be signed in the app. It is a simple electronic signature within the meaning of the eIDAS Regulation, neither advanced nor qualified: it cannot be rejected as evidence solely on the grounds that it is electronic, but it does not automatically have the value of a handwritten signature. Nothing else is signed in OptimCE: the Word agreements remain contracts the parties edit and sign, and neither amendments nor membership forms are signed there.
 
-**Coverage is Walloon.** The module knows only the CWaPE today. Brugel and the VREG are already declared in the regulator registry shared across the services, but they are inactive there, and deliberately so: an inactive regulator raises an explicit error rather than falling back silently on the Walloon rules, which would produce wrong documents with every appearance of rigour. Adding a region means first authoring that region's document bundles — Brussels and Flanders mandate different documents. We will not announce a date until that work is done.
+**Coverage is Walloon.** The module knows only the CWaPE today. Brugel and the Vlaamse Nutsregulator (formerly VREG) are already declared in the regulator registry shared across the services, but they are inactive there, and deliberately so: an inactive regulator raises an explicit error rather than falling back silently on the Walloon rules, which would produce wrong documents with every appearance of rigour. Adding a region means first authoring that region's document bundles — Brussels and Flanders mandate different documents. We will not announce a date until that work is done.
 
 **The module is optional.** Administrative document management, like billing or the news board, is enabled per community. The dashboards adapt: tiles belonging to a module that is not subscribed simply do not appear.
 
@@ -300,7 +300,7 @@ No, and that is deliberate. OptimCE prepares the documents from your data, compu
 
 ### What about Brussels and Flanders?
 
-Administrative document management currently covers **Wallonia and the CWaPE only**. The architecture is keyed by regulator, and both Brugel and the VREG are already declared in the platform's shared registry, but they are inactive there: an unknown or inactive regulator raises an explicit error rather than falling back silently on the Walloon rules. The reason is editorial rather than technical: adding a region mostly means authoring that region's document bundles, and Brussels and Flanders mandate different documents. We would rather not announce a date until those bundles are written.
+Administrative document management currently covers **Wallonia and the CWaPE only**. The architecture is keyed by regulator, and both Brugel and the Vlaamse Nutsregulator are already declared in the platform's shared registry, but they are inactive there: an unknown or inactive regulator raises an explicit error rather than falling back silently on the Walloon rules. The reason is editorial rather than technical: adding a region mostly means authoring that region's document bundles, and Brussels and Flanders mandate different documents. We would rather not announce a date until those bundles are written.
 
 ## Sources
 

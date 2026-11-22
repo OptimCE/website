@@ -2,13 +2,13 @@
 layout: pillar
 title: "Clé de répartition : comprendre, choisir, tester"
 subtitle: "Ce que chaque région accepte, comment choisir une famille de clés, puis comment la tester sur vos propres données."
-description: "Clé de répartition d'une communauté d'énergie : ce que la CWaPE, BRUGEL et le VREG acceptent, le choix d'une famille de clés, la génération et la simulation."
+description: "Clé de répartition d'une communauté d'énergie : ce qu'acceptent la CWaPE, BRUGEL et la Vlaamse Nutsregulator, choisir une famille de clés, générer, simuler."
 lang: fr
 ref: pillar-cle-de-repartition
 pillar: cle-de-repartition
 permalink: /guides/cle-de-repartition/
 breadcrumb_parent: guides
-last_modified_at: 2026-10-11
+last_modified_at: 2026-11-21
 sections:
   - title: "Comprendre la clé et ce que chaque région accepte"
     refs: [allocation-key-belgium]
@@ -21,7 +21,7 @@ La Belgique compte trois cadres, et notre [comparatif des trois régions]({{ "al
 
 - **Wallonie** : trois clés standards publiées par la CWaPE — fixe égalitaire, fixe spécifique, dynamique basée sur la consommation — que les GRD acceptent automatiquement ; toute autre clé doit être autorisée par la CWaPE.
 - **Bruxelles** : trois méthodes opérées par Sibelga et prévues par BRUGEL — fixe (en un ou plusieurs tours), prorata, hybride —, modifiables à tout moment sur demande du point de contact unique.
-- **Flandre** : pas de liste de clés « standards » publiée par le VREG ; le protocole Fluvius, qui fait foi, supporte trois *verdeelsleutels* : vaste, relatieve et optimale.
+- **Flandre** : pas de liste de clés « standards » publiée par la Vlaamse Nutsregulator (anciennement VREG) ; le protocole Fluvius, qui fait foi, supporte trois *verdeelsleutels* : vaste, relatieve et optimale.
 
 Derrière ces trois vocabulaires, on retrouve partout deux familles : les clés **fixes**, égalitaires ou pondérées selon les apports des membres, et les clés **dynamiques ou optimisées**, qui suivent la consommation réelle. Trancher entre elles n'est pas une question technique mais un choix de gouvernance : égalité entre membres, reconnaissance de l'investissement ou maximisation de l'autoconsommation collective. La diversité des profils compte aussi — dès qu'une école ou une PME rejoint le groupe, l'égalité stricte cesse d'être optimale —, tout comme la prévisibilité financière attendue par les membres. Enfin, les trois régions autorisent à modifier une clé après le démarrage : mieux vaut prévoir d'emblée une revue annuelle en assemblée générale.
 

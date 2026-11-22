@@ -8,7 +8,7 @@ description: "Kennisgeving, jaarlijkse rapportering, overeenkomsten: welke docum
 tags: [administrative, app, guide]
 lang: nl
 ref: cwape-administrative-documents
-last_modified_at: 2026-11-13 08:00:00 +0100
+last_modified_at: 2026-11-21 06:00:00 +0100
 pillar: communautes-energie
 permalink: /nl/gidsen/energiegemeenschap-administratieve-documenten-wallonie/
 faq:
@@ -23,7 +23,7 @@ faq:
   - q: "Dient OptimCE de documenten in mijn plaats in bij de CWaPE?"
     a: "Nee, en dat is bewust. OptimCE bereidt de documenten voor op basis van uw gegevens, berekent de termijnen, bewaart elke verzonden versie en registreert wie wat wanneer heeft bezorgd. De indiening zelf blijft uw taak: via Mon Espace voor de kennisgeving, de wijzigingen ervan en de jaarlijkse rapportering, en bij uw distributienetbeheerder voor het delen en de overeenkomsten. Er bestaat geen geautomatiseerde koppeling tussen het platform en de regulator. Sinds 11 november 2026 wordt één enkel document in de applicatie ondertekend: bijlage 8, de verklaring op erewoord van wie deelneemt aan het delen, met een eenvoudige elektronische handtekening in de zin van de eIDAS-verordening. De Word-overeenkomsten blijven documenten die de partijen bewerken en ondertekenen, en wat OptimCE niet kan afleiden, blijft met de hand aanpasbaar."
   - q: "En hoe zit het met Brussel en Vlaanderen?"
-    a: "Het beheer van administratieve documenten dekt vandaag uitsluitend Wallonië en de CWaPE. De architectuur is opgebouwd per regulator, en zowel Brugel als de VREG staan al in het gedeelde register van het platform, maar daar zijn ze inactief: een onbekende of inactieve regulator geeft een uitdrukkelijke foutmelding in plaats van stilzwijgend terug te vallen op de Waalse regels. De reden is minder technisch dan redactioneel: een regio toevoegen betekent vooral de documentenpakketten van die regio schrijven, en zowel Brussel als Vlaanderen leggen andere documenten op. Wij kondigen liever geen datum aan zolang die pakketten niet geschreven zijn."
+    a: "Het beheer van administratieve documenten dekt vandaag uitsluitend Wallonië en de CWaPE. De architectuur is opgebouwd per regulator, en zowel Brugel als de Vlaamse Nutsregulator staan al in het gedeelde register van het platform, maar daar zijn ze inactief: een onbekende of inactieve regulator geeft een uitdrukkelijke foutmelding in plaats van stilzwijgend terug te vallen op de Waalse regels. De reden is minder technisch dan redactioneel: een regio toevoegen betekent vooral de documentenpakketten van die regio schrijven, en zowel Brussel als Vlaanderen leggen andere documenten op. Wij kondigen liever geen datum aan zolang die pakketten niet geschreven zijn."
 ---
 
 Een Waalse energiegemeenschap wordt zelden beoordeeld op haar techniek. Digitale meters bestaan, verdeelsleutels laten zich berekenen, volumes worden per kwartier geteld. Wat blokkeert, zijn de papieren — en vooral hun data. De CWaPE heeft **tien werkdagen** om na te gaan of uw kennisgevingsdossier volledig is. Een dossier dat onvolledig blijft, **vervalt na zes maanden**. Een wijziging van de oprichtingsvoorwaarden moet binnen **vijftien werkdagen** worden gemeld. En elk jaar, **uiterlijk op 1 september**, moet de gemeenschap haar jaarlijkse rapportering indienen.
@@ -234,7 +234,7 @@ Vier grenzen, die u beter vooraf kent.
 
 **In OptimCE wordt maar één document ondertekend.** Sinds 11 november 2026 wordt bijlage 8, de verklaring op erewoord van wie deelneemt aan het delen, in de applicatie ondertekend. Het is een eenvoudige elektronische handtekening in de zin van de eIDAS-verordening, geen geavanceerde en geen gekwalificeerde: zij kan niet als bewijs worden geweerd louter omdat zij elektronisch is, maar zij heeft niet automatisch de waarde van een handgeschreven handtekening. Verder wordt niets in OptimCE ondertekend: de Word-overeenkomsten blijven contracten die de partijen bewerken en ondertekenen, en noch de aanhangsels noch de toetredingsformulieren worden er ondertekend.
 
-**De dekking is Waals.** De module kent vandaag alleen de CWaPE. Brugel en de VREG staan al in het register van regulatoren dat de diensten delen, maar zij zijn daar inactief, en dat is bewust: een inactieve regulator geeft een uitdrukkelijke foutmelding in plaats van stilzwijgend terug te vallen op de Waalse regels, wat verkeerde documenten zou opleveren met alle schijn van zorgvuldigheid. Een regio toevoegen betekent eerst de documentenpakketten van die regio schrijven — Brussel en Vlaanderen leggen andere documenten op. Wij kondigen geen datum aan zolang dat werk niet af is.
+**De dekking is Waals.** De module kent vandaag alleen de CWaPE. Brugel en de Vlaamse Nutsregulator (voorheen VREG) staan al in het register van regulatoren dat de diensten delen, maar zij zijn daar inactief, en dat is bewust: een inactieve regulator geeft een uitdrukkelijke foutmelding in plaats van stilzwijgend terug te vallen op de Waalse regels, wat verkeerde documenten zou opleveren met alle schijn van zorgvuldigheid. Een regio toevoegen betekent eerst de documentenpakketten van die regio schrijven — Brussel en Vlaanderen leggen andere documenten op. Wij kondigen geen datum aan zolang dat werk niet af is.
 
 **De module is optioneel.** Het beheer van administratieve documenten wordt, net als de facturatie of het nieuwsbord, per gemeenschap geactiveerd. De dashboards passen zich aan: tegels van een module waarop niet is ingetekend, verschijnen eenvoudigweg niet.
 
@@ -300,7 +300,7 @@ Nee, en dat is bewust. OptimCE bereidt de documenten voor op basis van uw gegeve
 
 ### En hoe zit het met Brussel en Vlaanderen?
 
-Het beheer van administratieve documenten dekt vandaag **uitsluitend Wallonië en de CWaPE**. De architectuur is opgebouwd per regulator, en zowel Brugel als de VREG staan al in het gedeelde register van het platform, maar daar zijn ze inactief: een onbekende of inactieve regulator geeft een uitdrukkelijke foutmelding in plaats van stilzwijgend terug te vallen op de Waalse regels. De reden is minder technisch dan redactioneel: een regio toevoegen betekent vooral de documentenpakketten van die regio schrijven, en zowel Brussel als Vlaanderen leggen andere documenten op. Wij kondigen liever geen datum aan zolang die pakketten niet geschreven zijn.
+Het beheer van administratieve documenten dekt vandaag **uitsluitend Wallonië en de CWaPE**. De architectuur is opgebouwd per regulator, en zowel Brugel als de Vlaamse Nutsregulator staan al in het gedeelde register van het platform, maar daar zijn ze inactief: een onbekende of inactieve regulator geeft een uitdrukkelijke foutmelding in plaats van stilzwijgend terug te vallen op de Waalse regels. De reden is minder technisch dan redactioneel: een regio toevoegen betekent vooral de documentenpakketten van die regio schrijven, en zowel Brussel als Vlaanderen leggen andere documenten op. Wij kondigen liever geen datum aan zolang die pakketten niet geschreven zijn.
 
 ## Bronnen
 

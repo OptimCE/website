@@ -2,7 +2,7 @@
 layout: post
 title: "Cheaper electricity without switching supplier"
 date: 2026-08-05 04:00:00 +0200
-last_modified_at: 2026-11-10 06:00:00 +0100
+last_modified_at: 2026-11-21 06:00:00 +0100
 author: "Eric from OptimCE"
 excerpt: "Every guide to saving on electricity ends with the same sentence: compare, then switch supplier. Yet one mechanism lowers the bill without cancelling anything — energy sharing. The question is not whether it is legal: it is, in all three regions. It is whether it is available where you live, and two numbers frame the answer: 36 authorised communities in Brussels and 13 notified in Wallonia, only six of which share, in November 2026."
 description: "Energy sharing lowers your bill without cancelling your contract. What it is really worth, and which Belgian region can actually offer it to you."
@@ -89,7 +89,7 @@ Here is the heart of the matter. The table below summarises the real availabilit
 
 | | Brussels | Wallonia | Flanders |
 |---|---|---|---|
-| **Regulator / DSO** | Brugel / Sibelga | CWaPE / ORES, RESA, AIEG, AIESH, REW | VREG / Fluvius |
+| **Regulator / DSO** | Brugel / Sibelga | CWaPE / ORES, RESA, AIEG, AIESH, REW | Vlaamse Nutsregulator / Fluvius |
 | **Peer-to-peer** | **operational** | **blocked** — 2022 decree, implementing order missing | operational |
 | **Same building** | operational | operational | operational |
 | **Community** | operational | operational | operational |
@@ -125,11 +125,11 @@ The framework is nonetheless moving: a Walloon Government order of **5 February 
 
 Flanders presents the mirror image of Wallonia: the framework is open — sharing and selling between individuals are possible, peer-to-peer included — but the tariff incentive is nil.
 
-In December 2023, **7,779 access points** took part in energy sharing or selling, i.e. **0.2 %** of Flemish access points, according to Fluvius data published by the VREG. Two important qualifications on that figure: it aggregates sharing *and* selling, and it is dated. The VREG publishes a dashboard **updated monthly** (latest update recorded: 27 July 2026) — if you are preparing a decision, go and take this month's value rather than relying on this one.
+In December 2023, **7,779 access points** took part in energy sharing or selling, i.e. **0.2 %** of Flemish access points, according to Fluvius data published by the Vlaamse Nutsregulator (formerly VREG). Two important qualifications on that figure: it aggregates sharing *and* selling, and it is dated. The Vlaamse Nutsregulator publishes a dashboard **updated monthly** (latest update recorded: 27 July 2026) — if you are preparing a decision, go and take this month's value rather than relying on this one.
 
 The second Flemish lesson is more useful still, because it tempers expectations everywhere: participants only manage to share about **20 % of the injection** among themselves, where initial theoretical estimates assumed 40 %. In other words, **half the potential is lost to the timing gap between generation and consumption.** That is a strong argument for a well-built allocation key, a subject covered in [“Allocation keys in Belgium: the 3 regions”](/en/guides/allocation-key-belgium/).
 
-Finally, since January 2023 the Flemish distribution tariff has been based on peak power rather than energy drawn: there is therefore **no network tariff reduction** on shared energy, in any configuration. The gain is strictly limited to the gap between the internal price and your supplier's price. The VREG also flags that some suppliers charge **extra fees** to customers taking part in sharing — worth checking before committing, because on small volumes those fees wipe out the benefit.
+Finally, since January 2023 the Flemish distribution tariff has been based on peak power rather than energy drawn: there is therefore **no network tariff reduction** on shared energy, in any configuration. The gain is strictly limited to the gap between the internal price and your supplier's price. The Vlaamse Nutsregulator also flags that some suppliers charge **extra fees** to customers taking part in sharing — worth checking before committing, because on small volumes those fees wipe out the benefit.
 
 ## What it is worth, and on exactly what
 
@@ -190,7 +190,7 @@ What is moving: the order of 5 February 2026 amended the 2023 framework, the num
 
 **If you live in Wallonia.** First check whether your building allows same-building sharing — the only configuration combining no legal entity with the 80 % reduction of the proportional term. Failing that, look for an open sharing operation nearby; the SPW facilitator can point you to one, and OptimCE's community directory, open to anyone with an account, shows some of them. Do not wait for peer-to-peer before acting: no timetable has been announced.
 
-**If you live in Flanders.** Sharing and selling are open, including between individuals, but with no network advantage: the entire gain comes from the price gap. Two checks before signing — the VREG dashboard for this month's figures, and above all your supplier's tariff sheet, since some charge participants extra fees that wipe out the benefit on small volumes.
+**If you live in Flanders.** Sharing and selling are open, including between individuals, but with no network advantage: the entire gain comes from the price gap. Two checks before signing — the Vlaamse Nutsregulator dashboard for this month's figures, and above all your supplier's tariff sheet, since some charge participants extra fees that wipe out the benefit on small volumes.
 
 **In all three cases**, one question precedes every other: **how many kilowatt-hours will the allocation key actually assign to you?** The Flemish experience — 20 % of injection effectively shared against 40 % hoped for — shows that this is where the outcome is decided, far more than in negotiating the price.
 
@@ -254,8 +254,8 @@ The documented order of magnitude is around **€145 per year** for a consumer r
 - [Bruxelles Environnement — Energy sharing and communities](https://environnement.brussels/citoyen/agir-pour-lenvironnement/devenir-eco-responsable/partage-et-communautes-denergie) — Brussels citizen portal: the three sharing configurations and the free “Energy Sharing and Communities” facilitator.
 - [Bruxelles Environnement — Energy sharing has never been so simple](https://environnement.brussels/citoyen/news/2026/le-partage-denergie-na-jamais-ete-aussi-simple) — announcement of 2 June 2026 of the BEST platform (Brussels Energy Sharing Tool), developed by the non-profit Simply Energy with support from Bruxelles Environnement.
 - [Sibelga — Energy sharing](https://www.sibelga.be/en/connections-meters/renewable-energy/energy-sharing) — operational workings on the Brussels network operator's side: the three forms of sharing, the smart meter requirement for every participant and the analysis of meter readings in fifteen-minute intervals.
-- [VREG — “Energy shared and sold” dashboard](https://www.vlaamsenutsregulator.be/cijfers/dashboard-energie-delen-en-verkopen) — Fluvius data updated monthly (latest update recorded: 27 July 2026) on the number of groups and participants, shared volumes, and suppliers charging extra fees to participants.
-- [Futech — How many Flemish people take part in energy sharing?](https://futech.be/hoeveel-vlamingen-doen-aan-energiedelen/) — relay of VREG and Fluvius figures: 7,779 access points taking part in sharing or selling in December 2023, i.e. 0.2 % of Flemish access points, and around 20 % of injection effectively shared against 40 % expected.
+- [Vlaamse Nutsregulator — “Energy shared and sold” dashboard](https://www.vlaamsenutsregulator.be/cijfers/dashboard-energie-delen-en-verkopen) — Fluvius data updated monthly (latest update recorded: 27 July 2026) on the number of groups and participants, shared volumes, and suppliers charging extra fees to participants.
+- [Futech — How many Flemish people take part in energy sharing?](https://futech.be/hoeveel-vlamingen-doen-aan-energiedelen/) — relay of the Vlaamse Nutsregulator and Fluvius figures: 7,779 access points taking part in sharing or selling in December 2023, i.e. 0.2 % of Flemish access points, and around 20 % of injection effectively shared against 40 % expected.
 - [CREG — Monthly dashboard](https://www.creg.be/fr/professionnels/fonctionnement-et-monitoring-du-marche/tableau-de-bord) — all-in price of 36.94 c€/kWh and the 38.5 / 29.7 / 26.1 / 5.7 % split for a residential profile of 3,500 kWh/year on a single-rate meter (June 2026 edition used here).
 - [Énergie Commune / Interreg Europe — Business model of energy sharing](https://www.interregeurope.eu/sites/default/files/good_practices/8.%20EnergieCommune_EC_BM_Sharing_Interreg_Ghent.pdf) — documented case costing the saving of a consumer receiving 500 kWh shared per year at around €145 at the standard tariff, against around €70 for a household already on the social tariff.
 - [CWaPE — ORES, periodic offtake tariffs 2026](https://www.cwape.be/sites/default/files/cwape-documents/ORES%20-%20Tarifs%20p%C3%A9riodiques%20de%20pr%C3%A9l%C3%A8vement%202026_0.pdf) — grid approved on 18 December 2025, source of the 80 % reduction of the proportional term reserved for sharing within a single building.

@@ -1407,10 +1407,10 @@
     de: "Fluvius"
     nl: "Fluvius"
   definition:
-    fr: "Gestionnaire du réseau de distribution pour l'ensemble de la Flandre. Il fournit les données de comptage au quart d'heure et applique les verdeelsleutels reconnus par le régulateur flamand VREG."
-    en: "The distribution system operator for the whole of Flanders. It supplies the quarter-hourly metering data and applies the allocation keys recognised by the Flemish regulator VREG."
-    de: "Verteilnetzbetreiber für ganz Flandern. Er liefert die viertelstündlichen Messdaten und wendet die vom flämischen Regulator VREG anerkannten Aufteilungsschlüssel an."
-    nl: "Distributienetbeheerder voor heel Vlaanderen. Hij levert de kwartierwaarden en past de verdeelsleutels toe die door de Vlaamse regulator VREG erkend zijn."
+    fr: "Gestionnaire du réseau de distribution pour l'ensemble de la Flandre. Il fournit les données de comptage au quart d'heure et applique les verdeelsleutels reconnus par le régulateur flamand, la Vlaamse Nutsregulator."
+    en: "The distribution system operator for the whole of Flanders. It supplies the quarter-hourly metering data and applies the allocation keys recognised by the Flemish regulator, the Vlaamse Nutsregulator."
+    de: "Verteilnetzbetreiber für ganz Flandern. Er liefert die viertelstündlichen Messdaten und wendet die von der flämischen Regulierungsbehörde Vlaamse Nutsregulator anerkannten Aufteilungsschlüssel an."
+    nl: "Distributienetbeheerder voor heel Vlaanderen. Hij levert de kwartierwaarden en past de verdeelsleutels toe die door de Vlaamse Nutsregulator erkend zijn."
   alias:
     fr: []
     en: []
@@ -2677,7 +2677,7 @@
     nl: capaciteitstarief
   categorie: reseau
   tags: [tarif, reseau, flandre, pointe]
-  source_nom: VREG
+  source_nom: "Vlaamse Nutsregulator"
   source_url: "https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/nettarieven/capaciteitstarief"
   terme:
     fr: "Tarif capacitaire"
@@ -2685,10 +2685,10 @@
     de: "Kapazitätstarif"
     nl: "Capaciteitstarief"
   definition:
-    fr: "Tarif de distribution flamand en vigueur depuis janvier 2023, calculé sur la puissance de pointe mensuelle plutôt que sur l'heure de consommation. La pointe moyenne relevée par la VREG est d'environ 3,15 kW, avec un minimum facturé de 2,5 kW. Il fait disparaître la distinction jour/nuit de la part réseau de la facture : le geste utile n'est plus de consommer la nuit, mais d'éviter de tout faire tourner en même temps."
-    en: "The Flemish distribution tariff in force since January 2023, calculated on monthly peak power rather than on the hour of consumption. The average peak recorded by the VREG is around 3.15 kW, with a billed minimum of 2.5 kW. It removes the day/night distinction from the grid part of the bill: the useful move is no longer to consume at night, but to avoid running everything at once."
-    de: "Flämischer Verteilungstarif, in Kraft seit Januar 2023, berechnet auf die monatliche Spitzenleistung statt auf die Verbrauchsstunde. Die von der VREG erfasste Durchschnittsspitze liegt bei etwa 3,15 kW, mit einem berechneten Minimum von 2,5 kW. Er lässt die Unterscheidung Tag/Nacht aus dem Netzteil der Rechnung verschwinden: Der nützliche Griff ist nicht mehr, nachts zu verbrauchen, sondern zu vermeiden, alles gleichzeitig laufen zu lassen."
-    nl: "Vlaams distributietarief dat sinds januari 2023 van kracht is, berekend op het maandelijkse piekvermogen in plaats van op het uur van verbruik. De gemiddelde piek die de VREG optekent bedraagt ongeveer 3,15 kW, met een aangerekend minimum van 2,5 kW. Het doet het onderscheid dag/nacht uit het netgedeelte van de factuur verdwijnen: de nuttige zet is niet langer 's nachts verbruiken, maar vermijden dat alles tegelijk draait."
+    fr: "Tarif de distribution flamand en vigueur depuis janvier 2023, calculé sur la puissance de pointe mensuelle plutôt que sur l'heure de consommation. La pointe moyenne relevée par la Vlaamse Nutsregulator est d'environ 3,15 kW, avec un minimum facturé de 2,5 kW. Il fait disparaître la distinction jour/nuit de la part réseau de la facture : le geste utile n'est plus de consommer la nuit, mais d'éviter de tout faire tourner en même temps."
+    en: "The Flemish distribution tariff in force since January 2023, calculated on monthly peak power rather than on the hour of consumption. The average peak recorded by the Vlaamse Nutsregulator is around 3.15 kW, with a billed minimum of 2.5 kW. It removes the day/night distinction from the grid part of the bill: the useful move is no longer to consume at night, but to avoid running everything at once."
+    de: "Flämischer Verteilungstarif, in Kraft seit Januar 2023, berechnet auf die monatliche Spitzenleistung statt auf die Verbrauchsstunde. Die von der Vlaamse Nutsregulator erfasste Durchschnittsspitze liegt bei etwa 3,15 kW, mit einem berechneten Minimum von 2,5 kW. Er lässt die Unterscheidung Tag/Nacht aus dem Netzteil der Rechnung verschwinden: Der nützliche Griff ist nicht mehr, nachts zu verbrauchen, sondern zu vermeiden, alles gleichzeitig laufen zu lassen."
+    nl: "Vlaams distributietarief dat sinds januari 2023 van kracht is, berekend op het maandelijkse piekvermogen in plaats van op het uur van verbruik. De gemiddelde piek die de Vlaamse Nutsregulator optekent bedraagt ongeveer 3,15 kW, met een aangerekend minimum van 2,5 kW. Het doet het onderscheid dag/nacht uit het netgedeelte van de factuur verdwijnen: de nuttige zet is niet langer 's nachts verbruiken, maar vermijden dat alles tegelijk draait."
   alias:
     fr: ["terme capacitaire", "capacitaire"]
     en: ["capacity term"]
@@ -3098,17 +3098,17 @@
   source_nom: "Vlaamse Nutsregulator"
   source_url: "https://www.vlaamsenutsregulator.be"
   terme:
-    fr: "VREG"
-    en: "VREG"
-    de: "VREG"
-    nl: "VREG"
+    fr: "Vlaamse Nutsregulator"
+    en: "Vlaamse Nutsregulator"
+    de: "Vlaamse Nutsregulator"
+    nl: "Vlaamse Nutsregulator"
   definition:
-    fr: "Régulateur flamand du marché de l'énergie, devenu « Vlaamse Nutsregulator » le 1er janvier 2025."
-    en: "The Flemish energy-market regulator, renamed 'Vlaamse Nutsregulator' on 1 January 2025."
-    de: "Flämische Regulierungsbehörde für den Energiemarkt, seit dem 1. Januar 2025 „Vlaamse Nutsregulator“."
-    nl: "Vlaamse regulator van de energiemarkt, sinds 1 januari 2025 'Vlaamse Nutsregulator'."
+    fr: "Régulateur flamand du marché de l'énergie, appelé VREG jusqu'au 31 décembre 2024 : le décret flamand du 19 avril 2024 l'a transformé en « Vlaamse Nutsregulator » au 1er janvier 2025."
+    en: "The Flemish energy-market regulator, called VREG until 31 December 2024: the Flemish decree of 19 April 2024 turned it into the Vlaamse Nutsregulator on 1 January 2025."
+    de: "Flämische Regulierungsbehörde für den Energiemarkt, bis zum 31. Dezember 2024 VREG genannt: Das flämische Dekret vom 19. April 2024 hat sie zum 1. Januar 2025 in die „Vlaamse Nutsregulator“ umgewandelt."
+    nl: "Vlaamse regulator van de energiemarkt, tot 31 december 2024 de VREG genoemd: het decreet van 19 april 2024 heeft hem op 1 januari 2025 omgevormd tot de Vlaamse Nutsregulator."
   alias:
-    fr: ["Vlaamse Nutsregulator"]
-    en: ["Vlaamse Nutsregulator"]
-    de: ["Vlaamse Nutsregulator"]
-    nl: ["Vlaamse Nutsregulator"]
+    fr: ["VREG"]
+    en: ["VREG"]
+    de: ["VREG"]
+    nl: ["VREG"]

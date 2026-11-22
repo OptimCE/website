@@ -273,11 +273,11 @@ grd_tool:
       sharing_link: "Die Energieteilung auf der Website von Brugel (auf Französisch und Niederländisch)"
       sharing_url: "https://energysharing.brugel.brussels/"
     VLA:
-      regulator: "In Flandern veröffentlicht die VREG die genehmigten Verteilertarife jedes Netzbetreibers."
-      tariffs: "Die Verteilertarife auf der Website der VREG (auf Niederländisch)"
+      regulator: "In Flandern veröffentlicht die Vlaamse Nutsregulator die genehmigten Verteilertarife jedes Netzbetreibers."
+      tariffs: "Die Verteilertarife auf der Website der Vlaamse Nutsregulator (auf Niederländisch)"
       tariffs_url: "https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/nettarieven/hoeveel-bedragen-de-distributienettarieven"
-      sharing: "Die VREG stellt Energiegemeinschaften und die Energieteilung in Flandern vor. OptimCE deckt heute den wallonischen Rahmen ab: Flandern ist geplant, aber noch nicht umgesetzt."
-      sharing_link: "Energiegemeinschaften auf der Website der VREG (auf Niederländisch)"
+      sharing: "Die Vlaamse Nutsregulator stellt Energiegemeinschaften und die Energieteilung in Flandern vor. OptimCE deckt heute den wallonischen Rahmen ab: Flandern ist geplant, aber noch nicht umgesetzt."
+      sharing_link: "Energiegemeinschaften auf der Website der Vlaamse Nutsregulator (auf Niederländisch)"
       sharing_url: "https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/energieprijzen-en-facturen/energiegemeenschappen"
   table:
     date_format: "%d.%m.%Y"
@@ -330,7 +330,7 @@ grd_tool:
       name: "Brugel"
       url: "https://www.brugel.brussels/"
     BE-VLA-VREG:
-      name: "VREG"
+      name: "Vlaamse Nutsregulator"
       url: "https://www.vlaamsenutsregulator.be/"
     BE-WAL-CWAPE:
       name: "CWaPE"

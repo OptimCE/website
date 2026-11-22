@@ -9,7 +9,7 @@ tags: [community, administrative]
 lang: de
 ref: energy-communities-belgium
 pillar: communautes-energie
-last_modified_at: 2026-11-10 06:00:00 +0100
+last_modified_at: 2026-11-21 06:00:00 +0100
 permalink: /de/ratgeber/energiegemeinschaften-belgien/
 ---
 
@@ -124,7 +124,7 @@ Ja. **KMU** und **lokale Behörden** sind ausdrücklich berechtigt teilzunehmen,
 
 ### Und in Flandern?
 
-Flandern verfügt über einen gleichwertigen Rahmen unter Aufsicht des **VREG**, mit **Fluvius** als VNB. CER und CEC existieren dort unter ihren niederländischen Bezeichnungen (*Hernieuwbare-energiegemeenschap* und *Burgerenergiegemeenschap*).
+Flandern verfügt über einen gleichwertigen Rahmen unter Aufsicht der **Vlaamse Nutsregulator**, mit **Fluvius** als VNB. CER und CEC existieren dort unter ihren niederländischen Bezeichnungen (*Hernieuwbare-energiegemeenschap* und *Burgerenergiegemeenschap*).
 
 ### Wie wird die geteilte Energie gemessen?
 
@@ -140,7 +140,7 @@ Flandern verfügt über einen gleichwertigen Rahmen unter Aufsicht des **VREG**,
 
 > **Demnächst — Brüssel und Flandern**
 >
-> Die Verfahren auf Seite von **BRUGEL / Sibelga** (Brüssel) und **VREG / Fluvius** (Flandern) werden in eigenen Leitfäden behandelt. Bleiben Sie dran.
+> Die Verfahren auf Seite von **BRUGEL / Sibelga** (Brüssel) und **Vlaamse Nutsregulator / Fluvius** (Flandern) werden in eigenen Leitfäden behandelt. Bleiben Sie dran.
 
 ## Möchten Sie einer Energiegemeinschaft beitreten?
 
@@ -152,7 +152,7 @@ Flandern verfügt über einen gleichwertigen Rahmen unter Aufsicht des **VREG**,
 
 > **Demnächst — Brüssel und Flandern**
 >
-> Die Modalitäten für den Beitritt in **Brüssel** (BRUGEL / Sibelga) und in **Flandern** (VREG / Fluvius) werden in eigenen Leitfäden behandelt. Bleiben Sie dran.
+> Die Modalitäten für den Beitritt in **Brüssel** (BRUGEL / Sibelga) und in **Flandern** (Vlaamse Nutsregulator / Fluvius) werden in eigenen Leitfäden behandelt. Bleiben Sie dran.
 
 ## Quellen
 

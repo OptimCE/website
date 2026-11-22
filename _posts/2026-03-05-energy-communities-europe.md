@@ -2,7 +2,7 @@
 layout: post
 title: "Energy communities in Europe: RED II and IEMD"
 date: 2026-03-05 09:00:00 +0100
-last_modified_at: 2026-07-26 10:00:00 +0200
+last_modified_at: 2026-11-21 06:00:00 +0100
 author: "Eric from OptimCE"
 excerpt: "Two European directives govern energy communities: RED II for renewable energy communities, the internal electricity market directive for citizen energy communities. What separates them, what they share, and how Belgium, France and the Netherlands transposed them."
 description: "What the RED II and IEMD directives set out, how Belgium, France and the Netherlands transpose them, and what follows for communities."
@@ -85,7 +85,7 @@ A directive sets a result, not a directly applicable rule. Each Member State cho
 
 ### Belgium — three regional frameworks
 
-Energy is a **regional** competence. Wallonia, Brussels and Flanders each apply their own decree or ordinance, with their own regulator — CWaPE, BRUGEL, VREG — and their own families of allocation keys. A Brussels community and a Walloon community do not follow the same rules, even though both derive from the same directives.
+Energy is a **regional** competence. Wallonia, Brussels and Flanders each apply their own decree or ordinance, with their own regulator — CWaPE, BRUGEL, Vlaamse Nutsregulator (formerly VREG) — and their own families of allocation keys. A Brussels community and a Walloon community do not follow the same rules, even though both derive from the same directives.
 
 The detail of the three frameworks, the CER, CEC and CEL statuses and the role of the grid operator are covered in our reference article: [“Energy communities in Belgium: CER, CEC, CEL”](/en/guides/energy-communities-belgium/).
 

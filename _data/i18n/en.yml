@@ -267,11 +267,11 @@ grd_tool:
       sharing_link: "Energy sharing, on the Brugel website (in French and Dutch)"
       sharing_url: "https://energysharing.brugel.brussels/"
     VLA:
-      regulator: "In Flanders, the VREG publishes the approved distribution tariffs of each distribution system operator."
-      tariffs: "Distribution tariffs on the VREG website (in Dutch)"
+      regulator: "In Flanders, the Vlaamse Nutsregulator publishes the approved distribution tariffs of each distribution system operator."
+      tariffs: "Distribution tariffs on the Vlaamse Nutsregulator website (in Dutch)"
       tariffs_url: "https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/nettarieven/hoeveel-bedragen-de-distributienettarieven"
-      sharing: "The VREG explains energy communities and energy sharing in Flanders. OptimCE currently covers the Walloon framework: Flanders is planned, but not yet implemented."
-      sharing_link: "Energy communities, on the VREG website (in Dutch)"
+      sharing: "The Vlaamse Nutsregulator explains energy communities and energy sharing in Flanders. OptimCE currently covers the Walloon framework: Flanders is planned, but not yet implemented."
+      sharing_link: "Energy communities, on the Vlaamse Nutsregulator website (in Dutch)"
       sharing_url: "https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/energieprijzen-en-facturen/energiegemeenschappen"
   table:
     date_format: "%d/%m/%Y"
@@ -324,7 +324,7 @@ grd_tool:
       name: "Brugel"
       url: "https://www.brugel.brussels/"
     BE-VLA-VREG:
-      name: "VREG"
+      name: "Vlaamse Nutsregulator"
       url: "https://www.vlaamsenutsregulator.be/"
     BE-WAL-CWAPE:
       name: "CWaPE"

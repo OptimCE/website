@@ -2,13 +2,13 @@
 layout: pillar
 title: "Verdeelsleutel: begrijpen, kiezen, testen"
 subtitle: "Wat elk gewest aanvaardt, hoe u een sleutelfamilie kiest en hoe u die daarna op uw eigen data test."
-description: "Verdeelsleutels voor Belgische energiegemeenschappen: wat CWaPE, BRUGEL en VREG aanvaarden, een sleutelfamilie kiezen, genereren en simuleren op uw data."
+description: "Verdeelsleutels voor energiegemeenschappen: wat CWaPE, BRUGEL en Vlaamse Nutsregulator aanvaarden, een sleutelfamilie kiezen, genereren en simuleren."
 lang: nl
 ref: pillar-cle-de-repartition
 pillar: cle-de-repartition
 permalink: /nl/gidsen/verdeelsleutel/
 breadcrumb_parent: guides
-last_modified_at: 2026-10-11
+last_modified_at: 2026-11-21
 sections:
   - title: "De sleutel begrijpen en wat elk gewest aanvaardt"
     refs: [allocation-key-belgium]
@@ -21,7 +21,7 @@ België telt drie kaders, en onze [vergelijking van de drie gewesten]({{ "alloca
 
 - **Wallonië**: drie standaardsleutels gepubliceerd door de CWaPE — egalitaire vaste, specifieke vaste en dynamische sleutel op basis van verbruik — die de DNB's automatisch aanvaarden; elke andere sleutel moet door de CWaPE worden toegestaan.
 - **Brussel**: drie methoden die Sibelga hanteert en BRUGEL voorziet — vast (in één of meerdere rondes), prorata, hybride —, op elk moment wijzigbaar op verzoek van het enige contactpunt.
-- **Vlaanderen**: geen door de VREG gepubliceerde lijst van “standaard” sleutels; het Fluvius-protocol, de bron van gezag, ondersteunt drie verdeelsleutels: vaste, relatieve en optimale.
+- **Vlaanderen**: geen door de Vlaamse Nutsregulator (voorheen VREG) gepubliceerde lijst van “standaard” sleutels; het Fluvius-protocol, de bron van gezag, ondersteunt drie verdeelsleutels: vaste, relatieve en optimale.
 
 Achter die drie terminologieën komen overal dezelfde twee families terug: **vaste** sleutels, egalitair of gewogen naar de inbreng van de leden, en **dynamische of geoptimaliseerde** sleutels, die het reële verbruik volgen. Tussen beide kiezen is geen technische kwestie, maar een governancekeuze: gelijkheid tussen de leden, erkenning van de investering of maximaal collectief zelfverbruik. Ook de diversiteit van de profielen weegt — zodra een school of een kmo toetreedt, is strikte gelijkheid niet meer optimaal —, net als de financiële voorspelbaarheid die de leden verwachten. Ten slotte staan de drie gewesten toe dat u een sleutel na de opstart wijzigt: voorzie dus meteen een jaarlijkse herziening op de algemene vergadering.
 

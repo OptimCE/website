@@ -9,7 +9,7 @@ tags: [community, administrative, guide]
 lang: nl
 ref: join-energy-community-wallonia
 pillar: communautes-energie
-last_modified_at: 2026-11-10 06:00:00 +0100
+last_modified_at: 2026-11-22 06:00:00 +0100
 permalink: /nl/gidsen/energiegemeenschap-aansluiten-wallonie/
 ---
 
@@ -183,7 +183,7 @@ Waalse coöperaties werken in de regel volgens **“één lid = één stem”**,
 
 ### Digitale meter en privacy
 
-De digitale meter wordt gratis door de DNB geplaatst als u er nog geen hebt. De **verbruiksgegevens** om de 15 minuten worden **uitsluitend gebruikt voor de berekening van het delen**; u kunt ze op elk moment raadplegen op het portaal van uw DNB.
+De digitale meter wordt gratis door de DNB geplaatst als u er nog geen hebt. Uw **verbruiksgegevens** per kwartier dienen voor de berekening van het delen: de DNB stuurt ze elke maand naar de vertegenwoordiger van de gemeenschap en, in meetregime 3, naar uw leverancier. Elk ander gebruik, zoals uw curve tonen aan andere leden, vraagt uw toestemming. U kunt ze op elk moment raadplegen op het portaal van uw DNB; de details staan in [“Meetgegevens in een energiegemeenschap”](/nl/gidsen/meetgegevens-energiegemeenschap/).
 
 ### Residuele energie en totale kost
 

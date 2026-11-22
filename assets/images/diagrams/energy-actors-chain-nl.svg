@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520" role="img" aria-labelledby="t d">
-<title id="t">Wie doet wat, van centrale tot meter</title><desc id="d">Schema in twee rijen. De eerste volgt de stroom: de productie (centrales, windturbines, zonnepanelen), de transmissie door Elia op hoogspanning (Fluxys voor aardgas), de distributie door uw netbeheerder (Fluvius, Sibelga, ORES, RESA…), bepaald door uw adres, en dan uw woning, met meter en EAN-code. De tweede volgt het contract en het geld: u betaalt één factuur aan de leverancier, die u kiest; hij houdt de energie en zijn marge, stort de nettarieven door aan de netbeheerder en Elia, en de belastingen en btw aan de overheid. De netbeheerder leest uw meter af en bezorgt uw volumes aan de leverancier. Een band toont de regulatoren: de CREG voor de transmissie, op federaal niveau; de VREG, BRUGEL en de CWaPE voor de distributie, in de gewesten.</desc>
+<title id="t">Wie doet wat, van centrale tot meter</title><desc id="d">Schema in twee rijen. De eerste volgt de stroom: de productie (centrales, windturbines, zonnepanelen), de transmissie door Elia op hoogspanning (Fluxys voor aardgas), de distributie door uw netbeheerder (Fluvius, Sibelga, ORES, RESA…), bepaald door uw adres, en dan uw woning, met meter en EAN-code. De tweede volgt het contract en het geld: u betaalt één factuur aan de leverancier, die u kiest; hij houdt de energie en zijn marge, stort de nettarieven door aan de netbeheerder en Elia, en de belastingen en btw aan de overheid. De netbeheerder leest uw meter af en bezorgt uw volumes aan de leverancier. Een band toont de regulatoren: de CREG voor de transmissie, op federaal niveau; de Vlaamse Nutsregulator, BRUGEL en de CWaPE voor de distributie, in de gewesten.</desc>
 <rect width="800" height="520" fill="#FFFFFF"/>
 <g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
 <text x="46" y="46" font-size="21" fill="#212529" font-weight="700" text-anchor="start">Wie doet wat, van centrale tot meter</text>
@@ -54,7 +54,7 @@
 <text x="492" y="381" font-size="12.5" fill="#212529" font-weight="400" text-anchor="start">Belastingen en btw: naar de overheid</text>
 <text x="46" y="428" font-size="12.5" fill="#495057" font-weight="400" text-anchor="start">De netbeheerder leest uw meter af en bezorgt uw volumes aan de leverancier, die ze factureert.</text>
 <rect x="46" y="452" width="708" height="34" rx="8" fill="#E8F5E9"/>
-<text x="58" y="474" font-size="12.5" fill="#1b5e20" font-weight="700" text-anchor="start">Toezicht: CREG voor transmissie (federaal) · VREG, BRUGEL, CWaPE voor distributie (gewesten)</text>
+<text x="58" y="474" font-size="12.5" fill="#1b5e20" font-weight="700" text-anchor="start">Toezicht: CREG voor transmissie (federaal) · Vlaamse Nutsregulator, BRUGEL, CWaPE voor distributie (gewesten)</text>
 <text x="46" y="508" font-size="11.5" fill="#868E96" font-weight="400" text-anchor="start">Bronnen: CWaPE, CREG, ORES, Fluxys</text>
 </g>
 </svg>

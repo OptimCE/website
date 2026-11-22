@@ -9,7 +9,7 @@ tags: [community]
 lang: nl
 ref: self-consumption-belgium
 pillar: communautes-energie
-last_modified_at: 2026-11-10 06:00:00 +0100
+last_modified_at: 2026-11-21 06:00:00 +0100
 permalink: /nl/gidsen/zelfverbruik-energie-belgie/
 faq:
   - q: "Wat is de zelfverbruiksgraad?"
@@ -23,7 +23,7 @@ faq:
   - q: "Moet ik van elektriciteitsleverancier veranderen?"
     a: "Nee. U behoudt uw leverancier, die alleen nog de restenergie factureert — het deel van uw verbruik dat niet gedekt is door uw eigen productie of door het delen."
   - q: "Werkt collectief zelfverbruik overal in België?"
-    a: "Het kader bestaat in de drie gewesten maar met verschillende modaliteiten: Wallonië (CWaPE, ORES/RESA/AIEG/AIESH/REW) en Vlaanderen (VREG, Fluvius) hebben een operationeel kader, terwijl Brussel (BRUGEL, Sibelga) collectief zelfverbruik via pilootprojecten heeft uitgerold. Een digitale meter is overal vereist."
+    a: "Het kader bestaat in de drie gewesten maar met verschillende modaliteiten: Wallonië (CWaPE, ORES/RESA/AIEG/AIESH/REW) en Vlaanderen (Vlaamse Nutsregulator, Fluvius) hebben een operationeel kader, terwijl Brussel (BRUGEL, Sibelga) collectief zelfverbruik via pilootprojecten heeft uitgerold. Een digitale meter is overal vereist."
 ---
 
 Zelfverbruik is een van de pijlers van de Belgische energietransitie geworden: de lokaal opgewekte elektriciteit zelf verbruiken in plaats van ze tegen lage waarde op het net te injecteren. Met een zonnepark dat intussen meer dan **8 GWp** telt en sinds 2022 volatiele marktprijzen, was het nog nooit zo zinvol om uw eigen productie te valoriseren — alleen of samen. Dit artikel legt uit wat zelfverbruik is, waarom het interessant is, hoe u zich **zelfverbruiksgraad** verhoogt en hoe het aansluit op **energiegemeenschappen**, met de verschillen tussen Wallonië, Brussel en Vlaanderen.
@@ -78,15 +78,15 @@ Het principe van zelfverbruik is overal gelijk, maar de actoren en de maturiteit
 
 | Criterium | Wallonië | Brussel | Vlaanderen |
 |---|---|---|---|
-| Regulator | CWaPE | BRUGEL | VREG |
+| Regulator | CWaPE | BRUGEL | Vlaamse Nutsregulator |
 | Distributienetbeheerder (DNB) | ORES, RESA, AIEG, AIESH, REW | Sibelga | Fluvius |
 | Kader collectief zelfverbruik | Operationeel (CER / CEC) | Uitgerold via pilootprojecten | Operationeel (“energiedelen”) |
 | Digitale meter vereist | Ja | Ja | Ja |
-| Bijkomend inkomen producent | Groenestroomcertificaten | Groenestroomcertificaten (≈ eerste 10 jaar) | Specifieke steun — zie VREG |
+| Bijkomend inkomen producent | Groenestroomcertificaten | Groenestroomcertificaten (≈ eerste 10 jaar) | Specifieke steun — zie Vlaamse Nutsregulator |
 
 - **Wallonië.** De [CWaPE](https://www.cwape.be/documents-recents/autoconsommation-collective-et-reseaux-alternatifs-avis-sur-un-projet-de-decret) reguleert het collectieve zelfverbruik en de alternatieve netten; [ORES](https://www.ores.be/particulier/communautes-denergie) en de andere DNB's beheren de meters en de verdeling. Het Waalse kader voor [collectief zelfverbruik en energiegemeenschappen](https://energie.wallonie.be/home/actualites/actualites/communautes-denergie-et-autocons.html) is vandaag gestabiliseerd.
 - **Brussel.** [BRUGEL](https://brugel.brussels/actualites/lancement-du-1er-projet-d-autoconsommation-collective-a-bruxelles-415) lanceerde het **eerste project voor collectief zelfverbruik** van het Gewest, technisch uitgebaat door Sibelga. Het [Energy Sharing-portaal van BRUGEL](https://energysharing.brugel.brussels/energysharing/les-projets-405) lijst de projecten op, en [Renouvelle](https://www.renouvelle.be/fr/premiers-projets-pilotes-dautoconsommation-collective-a-bruxelles/) beschrijft het belang van deze pilootprojecten voor de wijken.
-- **Vlaanderen.** Het **energiedelen** wordt gereguleerd door de VREG en uitgebaat door [Fluvius](https://www.fluvius.be/nl/groene-energie/energiedelen), dat de technische voorwaarden, de verkoop van groene stroom en het delen tussen deelnemers toelicht.
+- **Vlaanderen.** Het **energiedelen** wordt gereguleerd door de Vlaamse Nutsregulator (voorheen VREG) en uitgebaat door [Fluvius](https://www.fluvius.be/nl/groene-energie/energiedelen), dat de technische voorwaarden, de verkoop van groene stroom en het delen tussen deelnemers toelicht.
 
 ## Wie kan ervan profiteren?
 
@@ -134,7 +134,7 @@ Nee. U behoudt uw leverancier, die alleen nog de restenergie factureert — het 
 
 ### Werkt collectief zelfverbruik overal in België?
 
-Het kader bestaat in de drie gewesten maar met verschillende modaliteiten: Wallonië (CWaPE, ORES/RESA/AIEG/AIESH/REW) en Vlaanderen (VREG, Fluvius) hebben een operationeel kader, terwijl Brussel (BRUGEL, Sibelga) collectief zelfverbruik via pilootprojecten heeft uitgerold. Een digitale meter is overal vereist.
+Het kader bestaat in de drie gewesten maar met verschillende modaliteiten: Wallonië (CWaPE, ORES/RESA/AIEG/AIESH/REW) en Vlaanderen (Vlaamse Nutsregulator, Fluvius) hebben een operationeel kader, terwijl Brussel (BRUGEL, Sibelga) collectief zelfverbruik via pilootprojecten heeft uitgerold. Een digitale meter is overal vereist.
 
 ## Kom in actie
 

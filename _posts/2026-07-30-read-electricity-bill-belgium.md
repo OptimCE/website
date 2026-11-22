@@ -2,7 +2,7 @@
 layout: post
 title: "Read your Belgian electricity bill line by line"
 date: 2026-07-30 10:00:00 +0200
-last_modified_at: 2026-10-23 06:00:00 +0200
+last_modified_at: 2026-11-21 06:00:00 +0100
 author: "Eric from OptimCE"
 excerpt: "You receive a dozen documents a year called an invoice, and only one of them actually tells you what you owe. Since 2022, a royal decree has imposed five identical sections on every Belgian supplier. This guide decodes the document: instalments versus the annual statement, the EAN code, actual versus estimated meter readings, every price line with its real recipient, the standing charge people sometimes pay twice, and which ombudsman to contact for which line."
 description: "The five sections mandated since 2022, instalments versus the annual statement, the EAN code, estimated readings: decode every line of your bill."
@@ -164,7 +164,7 @@ None of our articles covered recourse until now. Yet it is the logical sequel to
 | your supply contract or a breach of it | **federal** |
 | a mishandled house move, aggressive doorstep selling | **federal** |
 
-The logic is easy to remember: **anything to do with the meter and the network is regional; anything to do with the contract and the price is federal.** A disputed reading goes to the SRME; a disputed unit price goes to the federal service. In Brussels and Flanders the corresponding regional bodies are Brugel and the VREG.
+The logic is easy to remember: **anything to do with the meter and the network is regional; anything to do with the contract and the price is federal.** A disputed reading goes to the SRME; a disputed unit price goes to the federal service. In Brussels and Flanders the corresponding regional bodies are Brugel and the Vlaamse Nutsregulator (formerly VREG).
 
 The CWaPE asks you to wait **twenty working days after sending your letter** before referring the matter to it, and notes that the processing times it publishes are indicative and vary with the complexity of the file.
 

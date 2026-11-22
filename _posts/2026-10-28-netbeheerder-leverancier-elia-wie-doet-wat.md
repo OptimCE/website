@@ -4,24 +4,24 @@ title: "Netbeheerder en leverancier: wie doet wat?"
 date: 2026-10-28 06:00:00 +0100
 author: "Eric van OptimCE"
 excerpt: "Uw leverancier verkoopt u stroom en int de hele factuur; uw distributienetbeheerder vervoert die stroom, leest uw meter af en lost storingen op. De eerste kiest u, de tweede hoort bij uw adres. Daarvoor transporteert Elia de stroom op hoogspanning, en vier regulatoren delen het toezicht. Wie wat doet, wat elk weegt op uw factuur, wie u belt voor wat, en wat de netbeheerder doet in een energiegemeenschap, met de verschillen tussen Vlaanderen, Brussel en Wallonië."
-description: "Verschil tussen netbeheerder en leverancier in België: de ene beheert het net, de andere verkoopt energie. Elia, VREG, CWaPE, factuur en wie u belt."
+description: "Verschil tussen netbeheerder en leverancier in België: de een beheert het net, de ander verkoopt energie. Elia, Vlaamse Nutsregulator, factuur, wie u belt."
 tags: [guide]
 lang: nl
 ref: dso-supplier-roles
 pillar: reseau-grd
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-21 06:00:00 +0100
 permalink: /nl/gidsen/netbeheerder-leverancier-elia-wie-doet-wat/
 faq:
   - q: "Wat is het verschil tussen de netbeheerder en de energieleverancier?"
     a: "De leverancier verkoopt u de energie: hij sluit het contract met u, bepaalt de energieprijs, stuurt u de factuur en int het volledige bedrag, waarvan hij een deel doorstort aan de andere partijen. De distributienetbeheerder beheert het lokale net tot aan uw meter: hij sluit woningen aan, plaatst en leest meters af, bezorgt uw verbruiksgegevens aan de leverancier en grijpt in bij storingen. Uw leverancier kiest u vrij uit de bedrijven met een leveringsvergunning; uw netbeheerder is aangewezen voor uw gemeente en hangt af van uw adres. In Vlaanderen is dat een van de acht Fluvius-netbeheerders, in Brussel Sibelga, in Wallonië ORES, RESA, AIEG, AIESH of REW voor elektriciteit."
   - q: "Kan ik mijn netbeheerder kiezen of veranderen?"
-    a: "Nee. In Vlaanderen wijst de regulator VREG de distributienetbeheerders aan, voor een hernieuwbare termijn van twaalf jaar, en de Vlaamse overheid schrijft het letterlijk: u kunt uw netbeheerder niet zelf kiezen. In Brussel is Sibelga de enige. In Wallonië wijst de regering de netbeheerder aan op voorstel van de gemeente en na advies van de CWaPE, voor hoogstens twintig jaar. Uw netbeheerder verandert dus alleen als u verhuist of als uw gemeente van netbeheerder wisselt: in Beveren-Kruibeke-Zwijndrecht valt de hele gemeente sinds 1 januari 2026 onder Fluvius Midden-Vlaanderen, in het Waalse Brunehaut nam AIEG op dezelfde dag over van ORES. Uw leveringscontract blijft lopen."
+    a: "Nee. In Vlaanderen wijst de Vlaamse Nutsregulator de distributienetbeheerders aan, voor een hernieuwbare termijn van twaalf jaar, en de Vlaamse overheid schrijft het letterlijk: u kunt uw netbeheerder niet zelf kiezen. In Brussel is Sibelga de enige. In Wallonië wijst de regering de netbeheerder aan op voorstel van de gemeente en na advies van de CWaPE, voor hoogstens twintig jaar. Uw netbeheerder verandert dus alleen als u verhuist of als uw gemeente van netbeheerder wisselt: in Beveren-Kruibeke-Zwijndrecht valt de hele gemeente sinds 1 januari 2026 onder Fluvius Midden-Vlaanderen, in het Waalse Brunehaut nam AIEG op dezelfde dag over van ORES. Uw leveringscontract blijft lopen."
   - q: "Wie belt u bij een stroomonderbreking?"
     a: "Uw netbeheerder, niet uw leverancier: hij beheert het net en stuurt een ploeg. In Vlaanderen is dat Fluvius op 078 35 35 00, bij een gasgeur op 0800 65 0 65. In Brussel belt u Sibelga op 02 274 40 66, bij een gasgeur op 0800 19 400. In Wallonië zijn de storingsnummers 078/78.78.00 bij ORES, 04/263.18.80 of 04/220.12.11 bij RESA, 085/27.49.00 bij AIEG, 060/41.10.10 bij AIESH en 010/23.78.69 bij REW. Uw jaarafrekening vermeldt de naam en het storingsnummer van uw netbeheerder, en de gratis tool van OptimCE vindt hem op basis van uw postcode."
   - q: "Waarom staan er nettarieven op de factuur van mijn leverancier?"
     a: "Omdat de leverancier als enige u een factuur stuurt: hij int het volledige bedrag en verdeelt het daarna over de partijen, zoals ORES uitlegt. De nettarieven vergoeden uw distributienetbeheerder en Elia, dat de stroom op hoogspanning transporteert; de leverancier stort ze door zonder ze te bepalen. Volgens het maandelijkse dashboard van de CREG waren ze in september 2026 goed voor 26,10 % van een factuur van 3 500 kWh in Vlaanderen, 22,46 % in Brussel en 29,96 % in Wallonië. Van leverancier veranderen raakt ze niet: ze hangen af van uw netbeheerder, dus van uw adres, en van uw tariefformule."
-  - q: "Wat doen de VREG, de CWaPE en de CREG?"
-    a: "De VREG is de Vlaamse regulator: hij wijst de distributienetbeheerders aan en keurt elk jaar hun distributienettarieven goed. De CWaPE doet het tarifaire werk in Wallonië: ze bepaalt de tariefmethode, keurt de tarieven van de Waalse netbeheerders goed, kent er de leveringsvergunningen toe en heeft een regionale ombudsdienst. In Brussel is BRUGEL de regionale regulator. De CREG is de federale regulator: ze legt de tariefmethode vast voor het transmissienet van Elia, bewaakt concurrentie en prijzen op de elektriciteitsmarkt en berekent elk kwartaal het sociaal tarief. Geen enkele regulator levert u stroom of herstelt iets: u wendt zich tot hen nadat u het betrokken bedrijf hebt aangeschreven."
+  - q: "Wat doen de Vlaamse Nutsregulator, de CWaPE en de CREG?"
+    a: "De Vlaamse Nutsregulator is de Vlaamse regulator: hij wijst de distributienetbeheerders aan en keurt elk jaar hun distributienettarieven goed. De CWaPE doet het tarifaire werk in Wallonië: ze bepaalt de tariefmethode, keurt de tarieven van de Waalse netbeheerders goed, kent er de leveringsvergunningen toe en heeft een regionale ombudsdienst. In Brussel is BRUGEL de regionale regulator. De CREG is de federale regulator: ze legt de tariefmethode vast voor het transmissienet van Elia, bewaakt concurrentie en prijzen op de elektriciteitsmarkt en berekent elk kwartaal het sociaal tarief. Geen enkele regulator levert u stroom of herstelt iets: u wendt zich tot hen nadat u het betrokken bedrijf hebt aangeschreven."
   - q: "Is Elia mijn netbeheerder?"
     a: "Nee, tenzij uw bedrijf rechtstreeks op het net van Elia is aangesloten. Elia is de transmissienetbeheerder, aangewezen door de federale energieminister: hij transporteert de stroom op hoogspanning van de centrales naar de distributienetten. In Vlaanderen beheert Elia ook het plaatselijk vervoernet, maar geen enkel distributienet; in Wallonië beheert het ook het lokale transmissienet tot 70 kV. Een gezin is aangesloten op het net van zijn distributienetbeheerder, die de transportkosten van Elia doorrekent. Bij aardgas werkt het net zo: Fluxys transporteert het onder hoge druk, de distributienetbeheerders verdelen het."
 ---
@@ -35,7 +35,7 @@ Deze gids herhaalt niet wat al op deze site staat. [“Elektriciteitsfactuur lez
 **De vraag hier gaat over de spelers: wie doet wat, wie beslist wat, en wie belt u als er iets misloopt?** De gids vertrekt van de Belgische rolverdeling, die overal dezelfde is. Waar de regels per gewest verschillen, staat Vlaanderen eerst, dan Brussel en Wallonië; een regel die alleen voor Wallonië geldt, staat als zodanig vermeld.
 
 <img src="/assets/images/diagrams/energy-actors-chain-nl.svg"
-     alt="Schema in twee rijen. De eerste volgt de stroom: de productie (centrales, windturbines, zonnepanelen), de transmissie door Elia op hoogspanning (Fluxys voor aardgas), de distributie door uw netbeheerder (Fluvius, Sibelga, ORES, RESA…), bepaald door uw adres, en dan uw woning, met meter en EAN-code. De tweede volgt het contract en het geld: u betaalt één factuur aan de leverancier, die u kiest; hij houdt de energie en zijn marge, stort de nettarieven door aan de netbeheerder en Elia, en de belastingen en btw aan de overheid. De netbeheerder leest uw meter af en bezorgt uw volumes aan de leverancier. Een band toont de regulatoren: de CREG voor de transmissie, op federaal niveau; de VREG, BRUGEL en de CWaPE voor de distributie, in de gewesten."
+     alt="Schema in twee rijen. De eerste volgt de stroom: de productie (centrales, windturbines, zonnepanelen), de transmissie door Elia op hoogspanning (Fluxys voor aardgas), de distributie door uw netbeheerder (Fluvius, Sibelga, ORES, RESA…), bepaald door uw adres, en dan uw woning, met meter en EAN-code. De tweede volgt het contract en het geld: u betaalt één factuur aan de leverancier, die u kiest; hij houdt de energie en zijn marge, stort de nettarieven door aan de netbeheerder en Elia, en de belastingen en btw aan de overheid. De netbeheerder leest uw meter af en bezorgt uw volumes aan de leverancier. Een band toont de regulatoren: de CREG voor de transmissie, op federaal niveau; de Vlaamse Nutsregulator (voorheen VREG), BRUGEL en de CWaPE voor de distributie, in de gewesten."
      width="800" height="520" loading="lazy" decoding="async"
      style="width:100%;height:auto">
 
@@ -75,13 +75,13 @@ Behalve wanneer hij zelf uw leverancier wordt (zie verder), verkoopt de netbehee
 
 ### Aangewezen voor een gebied, nooit gekozen
 
-- **In Vlaanderen** wijst de VREG een distributienetbeheerder aan voor elk net, voor “een hernieuwbare termijn van twaalf jaar” (Energiedecreet, artikelen 4.1.1 en 4.1.3). De Vlaamse overheid is duidelijk: “U kunt uw netbeheerder dus niet zelf kiezen” ([Vlaanderen.be](https://www.vlaanderen.be/bouwen-wonen-en-energie/elektriciteit-en-aardgas/klacht-over-energieleverancier-netbeheerder-of-vlaamse-nutsregulator)). Acht Fluvius-netbeheerders delen de 285 Vlaamse gemeenten.
+- **In Vlaanderen** wijst de Vlaamse Nutsregulator een distributienetbeheerder aan voor elk net, voor “een hernieuwbare termijn van twaalf jaar” (Energiedecreet, artikelen 4.1.1 en 4.1.3). De Vlaamse overheid is duidelijk: “U kunt uw netbeheerder dus niet zelf kiezen” ([Vlaanderen.be](https://www.vlaanderen.be/bouwen-wonen-en-energie/elektriciteit-en-aardgas/klacht-over-energieleverancier-netbeheerder-of-vlaamse-nutsregulator)). Acht Fluvius-netbeheerders delen de 285 Vlaamse gemeenten.
 - **In Brussel** is Sibelga de enige netbeheerder voor elektriciteit en aardgas ([BRUGEL](https://www.brugel.brussels/brugel/grd-29), in het Frans).
 - **In Wallonië** wijst de regering de netbeheerder aan “na advies van de CWaPE en op voorstel van de gemeente of gemeenten”, voor “een hernieuwbare termijn van maximum twintig jaar”; een gemeente kan voor elektriciteit niet meerdere netbeheerders voorstellen (Waals elektriciteitsdecreet, artikel 10). Er zijn er vijf: ORES, RESA, AIEG, AIESH en REW ([CWaPE](https://www.cwape.be/node/160)).
 
 Welke netbeheerder de uwe is, hangt af van uw gemeente, soms van uw deelgemeente: **[vind de uwe](/nl/tools/wie-is-mijn-netbeheerder/)** met uw postcode, of bekijk [de lijst van netbeheerders per gemeente](/nl/tools/wie-is-mijn-netbeheerder/gemeenten/).
 
-Uw netbeheerder verandert alleen als u verhuist of als uw gemeente van netbeheerder wisselt. Sinds 1 januari 2026 valt heel Beveren-Kruibeke-Zwijndrecht onder Fluvius Midden-Vlaanderen; Zwijndrecht hing tot dan af van Fluvius Antwerpen ([VREG, beslissing BESL-2026-30](https://assets.vlaamsenutsregulator.be/2026-02/BESL-2026-30.pdf?VersionId=ElUWU7F1ROzPe0DBorhKohDkgVri6GOX)). In het Waalse Brunehaut werd het elektriciteitsnet op dezelfde dag “overgedragen aan AIEG” ([CWaPE, beslissing van 15 oktober 2026](https://www.cwape.be/sites/default/files/cwape-documents/2026.10.15-1318-D%C3%A9cision%20sur%20revenus%20autoris%C3%A9s%20%C3%A9lectricit%C3%A9%20et%20gaz%202026-2029%20d'ORES%20-%20version%20anonymis%C3%A9e.pdf), in het Frans). Uw leveringscontract loopt gewoon door.
+Uw netbeheerder verandert alleen als u verhuist of als uw gemeente van netbeheerder wisselt. Sinds 1 januari 2026 valt heel Beveren-Kruibeke-Zwijndrecht onder Fluvius Midden-Vlaanderen; Zwijndrecht hing tot dan af van Fluvius Antwerpen ([Vlaamse Nutsregulator, beslissing BESL-2026-30](https://assets.vlaamsenutsregulator.be/2026-02/BESL-2026-30.pdf?VersionId=ElUWU7F1ROzPe0DBorhKohDkgVri6GOX)). In het Waalse Brunehaut werd het elektriciteitsnet op dezelfde dag “overgedragen aan AIEG” ([CWaPE, beslissing van 15 oktober 2026](https://www.cwape.be/sites/default/files/cwape-documents/2026.10.15-1318-D%C3%A9cision%20sur%20revenus%20autoris%C3%A9s%20%C3%A9lectricit%C3%A9%20et%20gaz%202026-2029%20d'ORES%20-%20version%20anonymis%C3%A9e.pdf), in het Frans). Uw leveringscontract loopt gewoon door.
 
 ### Wanneer de netbeheerder uw leverancier wordt
 
@@ -94,7 +94,7 @@ Welke steun u vóór dat punt kunt inschakelen in Wallonië, staat in [“Energi
 
 ## Elia en Fluxys: het transport, en waarom ze geen distributienetbeheerders zijn
 
-Elia is de **transmissienetbeheerder** voor elektriciteit. Hij wordt niet door een gewest aangewezen maar door de federale minister, “na advies van de commissie en beraadslaging in de Ministerraad”, voor “een hernieuwbare termijn van twintig jaar” (wet van 29 april 1999, artikel 10). Zijn net is het “nationale, geïnterconnecteerde transmissienet voor elektriciteit op zeer hoge en hoge spanning” (artikel 2, 7°). In Vlaanderen beheert Elia ook het plaatselijk vervoernet, maar geen enkel distributienet ([VREG](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/technische-reglementen-flexibiliteit-niet-publieke-netten/wie-is-mijn-netbeheerder/aanwijzing-netbeheerders)); in Wallonië beheert hij het lokale transmissienet tot 70 kV ([CWaPE](https://www.cwape.be/node/160)).
+Elia is de **transmissienetbeheerder** voor elektriciteit. Hij wordt niet door een gewest aangewezen maar door de federale minister, “na advies van de commissie en beraadslaging in de Ministerraad”, voor “een hernieuwbare termijn van twintig jaar” (wet van 29 april 1999, artikel 10). Zijn net is het “nationale, geïnterconnecteerde transmissienet voor elektriciteit op zeer hoge en hoge spanning” (artikel 2, 7°). In Vlaanderen beheert Elia ook het plaatselijk vervoernet, maar geen enkel distributienet ([Vlaamse Nutsregulator](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/technische-reglementen-flexibiliteit-niet-publieke-netten/wie-is-mijn-netbeheerder/aanwijzing-netbeheerders)); in Wallonië beheert hij het lokale transmissienet tot 70 kV ([CWaPE](https://www.cwape.be/node/160)).
 
 Drie verschillen scheiden hem van een distributienetbeheerder:
 
@@ -104,13 +104,13 @@ Drie verschillen scheiden hem van een distributienetbeheerder:
 
 Fluxys Belgium speelt die rol voor aardgas: het transporteert het onder hoge druk en verkoopt capaciteit aan de leveranciers ([Fluxys](https://www.fluxys.com/fr/company/fluxys-belgium), in het Frans). Elia noch Fluxys verkoopt u energie of herstelt een storing bij u thuis.
 
-## De regulatoren: VREG, BRUGEL, CWaPE, CREG
+## De regulatoren: Vlaamse Nutsregulator, BRUGEL, CWaPE, CREG
 
 Een regulator levert niets en herstelt niets: hij legt de regels vast, keurt tarieven goed, houdt toezicht op de bedrijven en behandelt klachten. De distributienettarieven zijn een gewestbevoegdheid, de transmissietarieven een federale.
 
 | Regulator | Niveau | Waarop hij toeziet |
 |---|---|---|
-| **VREG** | Vlaanderen | Aanwijzing van de netbeheerders; jaarlijkse goedkeuring van de distributienettarieven |
+| **Vlaamse Nutsregulator** | Vlaanderen | Aanwijzing van de netbeheerders; jaarlijkse goedkeuring van de distributienettarieven |
 | **BRUGEL** | Brussel | Tariefmethode voor de distributienettarieven van Sibelga |
 | **CWaPE** | Wallonië | Tariefmethode en goedkeuring van de tarieven van de netbeheerders; hun openbaredienstverplichtingen; leveringsvergunningen; regionale ombudsdienst voor energie |
 | **CREG** | Federaal | Tariefmethode van de transmissie (Elia); transparantie en concurrentie op de markt; maximumprijzen; driemaandelijkse berekening van het sociaal tarief |
@@ -137,7 +137,7 @@ Het gevolg: **wie van leverancier verandert, raakt aan zo'n 43 tot 45 % van de f
 
 Binnen het netblok weegt de distributie veel zwaarder dan het transport. Volgens het tarief van ORES in 2026 betaalt een Waals gezin met 3 500 kWh op een enkelvoudige meter ongeveer **433 € inclusief btw aan distributie** (14,10 € vast deel en 11,98 c€/kWh), tegenover **96 € transport** dat voor Elia wordt doorgerekend. Hoeveel dat per Waalse netbeheerder verschilt, van 400 € bij AIEG tot 495 € bij AIESH voor hetzelfde gezin, staat in [“Nettarieven Wallonië: 5 netbeheerders vergeleken”](/nl/gidsen/distributienettarieven-wallonie-vergelijking/).
 
-*Aannames: tariefoverzicht 2026 van de CWaPE (bijgewerkt op 3 februari 2026), residentiële klanten op laagspanning zonder piekmeting. De methode verschilt van die van de CREG: tel deze bedragen niet op bij de vorige tabel. De Vlaamse distributienettarieven, die de VREG jaarlijks goedkeurt, verschillen per netgebied.*
+*Aannames: tariefoverzicht 2026 van de CWaPE (bijgewerkt op 3 februari 2026), residentiële klanten op laagspanning zonder piekmeting. De methode verschilt van die van de CREG: tel deze bedragen niet op bij de vorige tabel. De Vlaamse distributienettarieven, die de Vlaamse Nutsregulator jaarlijks goedkeurt, verschillen per netgebied.*
 
 ## Wie belt u voor wat?
 
@@ -184,7 +184,7 @@ In OptimCE wordt elke meter van een gemeenschap geregistreerd met zijn EAN-code 
 ## Wat u moet onthouden
 
 1. **De leverancier verkoopt, de netbeheerder vervoert**: de eerste bepaalt de energieprijs en int de factuur, de tweede beheert het net, leest de meter af en lost storingen op.
-2. **Uw leverancier kiest u, uw netbeheerder nooit**: in Vlaanderen wijst de VREG hem aan voor twaalf jaar, in Brussel is het Sibelga, in Wallonië beslist de regering.
+2. **Uw leverancier kiest u, uw netbeheerder nooit**: in Vlaanderen wijst de Vlaamse Nutsregulator hem aan voor twaalf jaar, in Brussel is het Sibelga, in Wallonië beslist de regering.
 3. **Elia is niet uw netbeheerder**: het transporteert op hoogspanning, en u betaalt het via uw netbeheerder.
 4. **Van leverancier veranderen raakt aan 43 tot 45 % van de factuur**; de nettarieven hangen af van uw adres.
 5. **Storing, meterstand, aansluiting: de netbeheerder. Prijs, contract, overstap: de leverancier.**
@@ -205,7 +205,7 @@ De leverancier verkoopt u de energie, bepaalt de prijs, sluit het contract en in
 
 ### Kan ik mijn netbeheerder kiezen of veranderen?
 
-Nee. In Vlaanderen wijst de VREG hem aan, in Brussel is het Sibelga, in Wallonië beslist de regering. Hij verandert alleen als u verhuist of als uw gemeente wisselt, zoals Beveren-Kruibeke-Zwijndrecht op 1 januari 2026.
+Nee. In Vlaanderen wijst de Vlaamse Nutsregulator hem aan, in Brussel is het Sibelga, in Wallonië beslist de regering. Hij verandert alleen als u verhuist of als uw gemeente wisselt, zoals Beveren-Kruibeke-Zwijndrecht op 1 januari 2026.
 
 ### Wie belt u bij een stroomonderbreking?
 
@@ -215,9 +215,9 @@ Uw netbeheerder: Fluvius op 078 35 35 00, Sibelga op 02 274 40 66, en in Walloni
 
 Omdat de leverancier de hele factuur int en het aandeel van netbeheerder en Elia doorstort. In september 2026 waren ze volgens de CREG goed voor 26,10 % van een typische Vlaamse factuur. Van leverancier veranderen raakt ze niet.
 
-### Wat doen de VREG, de CWaPE en de CREG?
+### Wat doen de Vlaamse Nutsregulator, de CWaPE en de CREG?
 
-De VREG wijst de Vlaamse netbeheerders aan en keurt hun tarieven goed; de CWaPE doet dat tarifaire werk in Wallonië en kent er de leveringsvergunningen toe. De federale CREG kadert de transmissietarieven van Elia, bewaakt de markt en berekent het sociaal tarief.
+De Vlaamse Nutsregulator wijst de Vlaamse netbeheerders aan en keurt hun tarieven goed; de CWaPE doet dat tarifaire werk in Wallonië en kent er de leveringsvergunningen toe. De federale CREG kadert de transmissietarieven van Elia, bewaakt de markt en berekent het sociaal tarief.
 
 ### Is Elia mijn netbeheerder?
 
@@ -225,10 +225,10 @@ Nee, tenzij een bedrijf rechtstreeks op zijn net is aangesloten. Elia transporte
 
 ## Bronnen
 
-- [Codex Vlaanderen — Energiedecreet van 8 mei 2009](https://codex.vlaanderen.be/portals/codex/documenten/1018092.html) — artikel 4.1.1 (aanwijzing van de distributienetbeheerders door de VREG) en artikel 4.1.3 (hernieuwbare termijn van twaalf jaar). Geraadpleegd op 28 oktober 2026.
+- [Codex Vlaanderen — Energiedecreet van 8 mei 2009](https://codex.vlaanderen.be/portals/codex/documenten/1018092.html) — artikel 4.1.1 (aanwijzing van de distributienetbeheerders door de Vlaamse Nutsregulator) en artikel 4.1.3 (hernieuwbare termijn van twaalf jaar). Geraadpleegd op 28 oktober 2026.
 - [Vlaanderen.be — Klacht over energieleverancier, netbeheerder of Vlaamse Nutsregulator](https://www.vlaanderen.be/bouwen-wonen-en-energie/elektriciteit-en-aardgas/klacht-over-energieleverancier-netbeheerder-of-vlaamse-nutsregulator) — de netbeheerder hangt af van de woonplaats en is niet te kiezen. Geraadpleegd op 28 oktober 2026.
-- [VREG — Aanwijzing netbeheerders](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/technische-reglementen-flexibiliteit-niet-publieke-netten/wie-is-mijn-netbeheerder/aanwijzing-netbeheerders) en [VREG — Hoeveel bedragen de distributienettarieven?](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/nettarieven/hoeveel-bedragen-de-distributienettarieven) — aanwijzing door de VREG, Elia als beheerder van het plaatselijk vervoernet zonder distributienet, jaarlijkse goedkeuring van de distributienettarieven per netgebied. Geraadpleegd op 28 oktober 2026.
-- [VREG — Beslissing BESL-2026-30](https://assets.vlaamsenutsregulator.be/2026-02/BESL-2026-30.pdf?VersionId=ElUWU7F1ROzPe0DBorhKohDkgVri6GOX) — Beveren-Kruibeke-Zwijndrecht volledig onder Fluvius Midden-Vlaanderen sinds 1 januari 2026. Geraadpleegd op 28 oktober 2026.
+- [Vlaamse Nutsregulator — Aanwijzing netbeheerders](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/technische-reglementen-flexibiliteit-niet-publieke-netten/wie-is-mijn-netbeheerder/aanwijzing-netbeheerders) en [Vlaamse Nutsregulator — Hoeveel bedragen de distributienettarieven?](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/nettarieven/hoeveel-bedragen-de-distributienettarieven) — aanwijzing door de Vlaamse Nutsregulator, Elia als beheerder van het plaatselijk vervoernet zonder distributienet, jaarlijkse goedkeuring van de distributienettarieven per netgebied. Geraadpleegd op 28 oktober 2026.
+- [Vlaamse Nutsregulator — Beslissing BESL-2026-30](https://assets.vlaamsenutsregulator.be/2026-02/BESL-2026-30.pdf?VersionId=ElUWU7F1ROzPe0DBorhKohDkgVri6GOX) — Beveren-Kruibeke-Zwijndrecht volledig onder Fluvius Midden-Vlaanderen sinds 1 januari 2026. Geraadpleegd op 28 oktober 2026.
 - [Fluvius — De rol van Fluvius als sociale leverancier](https://lokaal-bestuur.fluvius.be/nl/samenwerking-ocmw/sociale-leverancier/rol-van-fluvius) — levering door Fluvius na een opzegtermijn van 45 dagen, eerst een poging tot akkoord met een leverancier. Geraadpleegd op 28 oktober 2026.
 - [Fluvius — Energiedelen in een energiegemeenschap](https://www.fluvius.be/nl/groene-energie/energiedelen/in-een-energiegemeenschap) — registratie van de deelnemers met hun EAN-code, één energiegemeenschap per toegangspunt. [Fluvius — Contact](https://www.fluvius.be/nl/contact) — storings- en gasgeurnummers. Geraadpleegd op 28 oktober 2026.
 - [BRUGEL — Le gestionnaire de réseau de distribution](https://www.brugel.brussels/brugel/grd-29) en [BRUGEL — Tarifs de distribution](https://brugel.brussels/themes/tarifs-de-distribution-12) (in het Frans) — Sibelga als enige netbeheerder in Brussel; tariefmethode van BRUGEL. [Sibelga — Contact](https://www.sibelga.be/fr/contact) (in het Frans) — storings- en gasgeurnummers. Geraadpleegd op 28 oktober 2026.

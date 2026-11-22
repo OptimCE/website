@@ -10,7 +10,7 @@ lang: fr
 ref: reduce-electricity-bill
 pillar: facture-electricite
 permalink: /guides/communaute-energie-reduire-facture-electricite/
-last_modified_at: 2026-11-10 06:00:00 +0100
+last_modified_at: 2026-11-21 06:00:00 +0100
 ---
 
 Depuis 2022, les factures d'électricité belges ont connu des hausses brutales et imprévisibles. Face à cette volatilité, les communautés d'énergie offrent un levier concret et durable : payer son électricité **moins cher** et à un **prix plus stable**, sans changer de fournisseur ni installer le moindre panneau solaire. Cet article explique précisément comment ce gain se construit, jusqu'où il peut aller, ce qui change d'une région à l'autre, et qui en profite le plus. Et si vous vous demandez d'abord *pourquoi* votre facture reste élevée alors que les prix de l'énergie ont baissé, commencez par notre décomposition [« Facture d'électricité : pourquoi elle reste élevée »](/guides/pourquoi-facture-electricite-reste-elevee-belgique/) : elle chiffre bloc par bloc ce sur quoi le partage agit — et ce sur quoi il n'agit pas.
@@ -67,12 +67,12 @@ Les mécanismes d'économie existent dans les trois régions, mais les acteurs e
 
 | Critère | Wallonie | Bruxelles | Flandre |
 |---|---|---|---|
-| Régulateur | CWaPE | BRUGEL | VREG |
+| Régulateur | CWaPE | BRUGEL | Vlaamse Nutsregulator |
 | Gestionnaire de réseau (GRD) | ORES, RESA, AIEG, AIESH, REW | Sibelga | Fluvius |
 | Tarif réseau sur l'énergie partagée | Aucune réduction en communauté ; −80 % sur les termes proportionnels en même bâtiment | Réduction graduée sur quatre périmètres : terme proportionnel supprimé en même bâtiment, −50 % en même cabine BT ; le terme fixe n'est facturé dans aucun des quatre | Aucune réduction |
-| Revenu complémentaire pour le producteur | Certificats verts | Certificats verts (≈ 10 premières années) | Soutien spécifique — voir VREG |
+| Revenu complémentaire pour le producteur | Certificats verts | Certificats verts (≈ 10 premières années) | Soutien spécifique — voir Vlaamse Nutsregulator |
 | Compteur communicant requis | Oui | Oui | Oui |
-| Clé de répartition | Familles standards CWaPE | Fixe / prorata / hybride (BRUGEL) | Vaste / relatieve / optimale (VREG) |
+| Clé de répartition | Familles standards CWaPE | Fixe / prorata / hybride (BRUGEL) | Vaste / relatieve / optimale (Vlaamse Nutsregulator) |
 
 Pour le détail des clés de répartition et de leur impact sur le montant partagé, consultez notre article dédié : [« Clé de répartition en Belgique : les 3 régions »](/guides/cle-repartition-communaute-energie-belgique/). À Bruxelles, les producteurs peuvent en outre tirer un **revenu complémentaire de la revente de certificats verts** pendant les premières années de leur installation ([Sibelga](https://www.sibelga.be/en/connections-meters/renewable-energy/solar-panels/green-certificates)).
 

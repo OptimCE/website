@@ -2,7 +2,7 @@
 layout: post
 title: "Impact-tarief en energiegemeenschap"
 date: 2026-10-26 06:00:00 +0100
-last_modified_at: 2026-11-17 06:00:00 +0100
+last_modified_at: 2026-11-21 06:00:00 +0100
 author: "Eric van OptimCE"
 excerpt: "Tussen 11 en 17 uur rekent het Waalse Impact-tarief het distributienet vijf keer goedkoper aan dan tussen 17 en 22 uur. Precies dan produceren zonnepanelen: 70 % van de productie van een dak in Namen valt in dat tijdvak. Voor een lid van een energiegemeenschap stapelt een kilowattuur die ’s middags gedeeld wordt dus twee kortingen die niet van dezelfde plaats komen. Hier de berekening bij ORES, wat dat verandert voor de verdeelsleutel en de interne prijs, en hoe het beroep van de leveranciers ervoor staat. Het Impact-tarief bestaat alleen in Wallonië."
 description: "Impact-tarief en energiegemeenschap in Wallonië: wat een in ECO gedeelde kWh bij ORES kost, de voorwaarden en de stand van het beroep van Febeg."
@@ -221,7 +221,7 @@ Het Impact-tarief is Waals. Wat er in de twee andere gewesten bestaat:
 
 **In Brussel** blijft het tweevoudig tarief georganiseerd rond de nacht en het weekend: er is geen goedkoop middagtijdvak. Energiedelen geniet er wel van nabijheidsnettarieven die de proportionele term binnen hetzelfde gebouw schrappen, zoals uitgelegd in onze gids over de [interne overdrachtsprijs](/nl/gidsen/prijs-elektriciteit-energiegemeenschap/). Voor delen in Brussel is Brugel de regulator.
 
-**In Vlaanderen** bestaat er geen Impact-tarief: het nettarief steunt er op het capaciteitstarief, dat de kwartierpiek van uw afgenomen vermogen aanrekent. Energiedelen en verkoop van persoon tot persoon zijn er open, zonder verlaging van het nettarief. De regulator is de VREG.
+**In Vlaanderen** bestaat er geen Impact-tarief: het nettarief steunt er op het capaciteitstarief, dat de kwartierpiek van uw afgenomen vermogen aanrekent. Energiedelen en verkoop van persoon tot persoon zijn er open, zonder verlaging van het nettarief. De regulator is de Vlaamse Nutsregulator (voorheen VREG).
 
 ## Wat u moet onthouden
 

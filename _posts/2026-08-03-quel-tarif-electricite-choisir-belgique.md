@@ -2,7 +2,7 @@
 layout: post
 title: "Quel tarif d'électricité choisir en Belgique ?"
 date: 2026-08-03 10:00:00 +0200
-last_modified_at: 2026-08-08 10:00:00 +0200
+last_modified_at: 2026-11-21 06:00:00 +0100
 author: "Eric d'OptimCE"
 excerpt: "Tarif social, tarif de nuit, contrat dynamique : trois réponses à la même question, et elles n'agissent pas sur la même partie de votre facture. Ce comparatif chiffré les départage à partir des tarifs CREG du troisième trimestre 2026 et des grilles de réseau des trois régions, puis examine une quatrième voie que les comparateurs ne référencent pas — la communauté d'énergie, la seule qui se cumule avec les deux autres formules."
 description: "Tarif social, bihoraire, contrat dynamique ou communauté d'énergie : ce que chaque formule change vraiment sur votre facture, région par région."
@@ -132,7 +132,7 @@ La conséquence pratique est simple : à Bruxelles, **le milieu de journée rest
 
 C'est la divergence la plus profonde, et la plus mal comprise. Depuis **janvier 2023**, le tarif de distribution flamand repose sur la **puissance de pointe** — le fameux capacitaire — et non plus sur l'heure de consommation. La distinction jour/nuit a disparu de cette partie de la facture.
 
-Deux chiffres pour situer : la pointe moyenne relevée par la VREG est d'environ **3,15 kW**, et **un minimum de 2,5 kW est facturé** même si votre pointe réelle est inférieure. Le coût annuel du terme capacitaire se situe couramment entre **150 et 250 €** selon la commune et la consommation.
+Deux chiffres pour situer : la pointe moyenne relevée par la Vlaamse Nutsregulator (anciennement VREG) est d'environ **3,15 kW**, et **un minimum de 2,5 kW est facturé** même si votre pointe réelle est inférieure. Le coût annuel du terme capacitaire se situe couramment entre **150 et 250 €** selon la commune et la consommation.
 
 Un fournisseur flamand peut encore proposer un prix jour/nuit, mais **uniquement sur la composante énergie**, et de moins en moins le font. Le geste rentable en Flandre n'est donc plus « consommer la nuit » mais « **ne pas tout faire tourner en même temps** » : étaler le lave-linge, le four et la recharge du véhicule sur la soirée plutôt que de les superposer, ce qui écrête la pointe mensuelle qui sert de base au calcul.
 
@@ -214,7 +214,7 @@ Quatre questions, dans cet ordre. Chacune ne se pose que si la précédente a re
 | **CREG Scan** | CREG (fédéral) | compare **le contrat que vous avez signé**, y compris un produit dormant |
 | **CompaCWaPE** | CWaPE (Wallonie) | offres disponibles en Région wallonne |
 | **BruSim** | Brugel (Bruxelles) | offres disponibles en Région bruxelloise |
-| **V-test** | VREG (Flandre) | offres disponibles en Région flamande, contrats dynamiques inclus |
+| **V-test** | Vlaamse Nutsregulator (Flandre) | offres disponibles en Région flamande, contrats dynamiques inclus |
 
 Le [CREG Scan](https://www.creg.be/fr/cregscan) mérite un mot à part, parce qu'il répond à une question que les autres ne posent pas. Les comparateurs classiques listent les offres **actuellement commercialisées**. Or beaucoup de ménages sont sur un **produit dormant** : un contrat signé il y a des années, plus proposé à de nouveaux clients, et qui n'apparaît donc dans aucune comparaison. Le CREG Scan, lui, l'affiche et le situe, en six questions.
 
@@ -288,8 +288,8 @@ Quatre outils publics, tous gratuits et sans commission. Le **CREG Scan**, du r�
 - [CWaPE — ORES, tarifs périodiques de prélèvement 2026](https://www.cwape.be/sites/default/files/cwape-documents/ORES%20-%20Tarifs%20p%C3%A9riodiques%20de%20pr%C3%A9l%C3%A8vement%202026_0.pdf) — grille approuvée le 18 décembre 2025 : termes proportionnels du bihoraire et des trois bandes du tarif Impact, et réduction de 80 % du terme proportionnel sur l'énergie partagée au sein d'un même bâtiment.
 - [ORES — Le bihoraire change d'horaire](https://www.ores.be/comprendre-ma-facture/bihoraire) — nouvelles plages wallonnes applicables sept jours sur sept depuis 2026 : heures creuses de 11h à 17h et de 22h à 7h.
 - [Brugel — Tarifs de distribution 2025-2029](https://brugel.brussels/themes/tarifs-de-distribution-12/tarifs-de-distribution-2025-2029-668) — méthodologie tarifaire bruxelloise : définition des heures pleines et creuses inchangée par rapport à la période 2020-2024, heures creuses de 22h à 7h ainsi que les week-ends et jours fériés.
-- [VREG — Capaciteitstarief](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/nettarieven/capaciteitstarief) — tarif de distribution flamand fondé sur la puissance de pointe depuis janvier 2023, pointe moyenne d'environ 3,15 kW et minimum facturé de 2,5 kW.
+- [Vlaamse Nutsregulator — Capaciteitstarief](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/nettarieven/capaciteitstarief) — tarif de distribution flamand fondé sur la puissance de pointe depuis janvier 2023, pointe moyenne d'environ 3,15 kW et minimum facturé de 2,5 kW.
 - [Renouvelle — Électricité : contrats à prix dynamiques en Wallonie et à Bruxelles](https://www.renouvelle.be/fr/contrats-electricite-prix-dynamiques-bruxelles-wallonie/) — calendrier de déploiement de juin à novembre 2025, exigence d'un compteur communicant **et** de l'activation du régime SMR3, et résultats de simulation : 20 % des ménages en hausse de 5 à 17 %, 99 % des ménages photovoltaïques perdants avec une hausse médiane de 20 % (juin 2025).
 - [Test-Achats — Contrats énergétiques dynamiques](https://www.test-achats.be/maison-energie/gaz-electricite-mazout-pellets/news/contrats-energetiques-dynamiques-avantageux) — part de marché de 0,40 % fin 2025, économie constatée sur 2025 d'environ 62 € face au variable et 193 € face au fixe pour 3 500 kWh, et redevance fixe moyenne de 70 €/an relevée en mai 2026, jusqu'à 130 € (9 juin 2026).
 - [Énergie Commune / Interreg Europe — Modèle économique du partage d'énergie](https://www.interregeurope.eu/sites/default/files/good_practices/8.%20EnergieCommune_EC_BM_Sharing_Interreg_Ghent.pdf) — cas documenté chiffrant l'économie d'un consommateur recevant 500 kWh partagés par an à environ 145 € au tarif standard, contre environ 70 € pour un ménage déjà au tarif social.
-- [CWaPE — CompaCWaPE](https://www.cwape.be/consommateurs/compacwape), [Brugel — BruSim](https://brugel.brussels/outils/brusim-2) et [VREG — V-test](https://www.vtest.be) — les trois comparateurs officiels des régulateurs régionaux, gratuits et sans commission de fournisseur.
+- [CWaPE — CompaCWaPE](https://www.cwape.be/consommateurs/compacwape), [Brugel — BruSim](https://brugel.brussels/outils/brusim-2) et [Vlaamse Nutsregulator — V-test](https://www.vtest.be) — les trois comparateurs officiels des régulateurs régionaux, gratuits et sans commission de fournisseur.

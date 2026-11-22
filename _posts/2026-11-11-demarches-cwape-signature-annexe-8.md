@@ -2,6 +2,7 @@
 layout: post
 title: "Démarches CWaPE et signature de l'annexe 8"
 date: 2026-11-11 06:00:00 +0100
+last_modified_at: 2026-11-21 06:00:00 +0100
 author: "Eric d'OptimCE"
 excerpt: "L'espace administratif d'OptimCE est désormais organisé en démarches, nourries par les changements faits dans le CRM, et l'annexe 8 de la CWaPE se signe dans l'application. OptimCE n'envoie toujours rien : c'est vous qui envoyez."
 description: "Démarches CWaPE nées du CRM, échéances, pièces et signature électronique simple de l'annexe 8 : ce que change le nouvel espace administratif d'OptimCE."
@@ -94,7 +95,7 @@ C'est une signature électronique **simple** au sens du règlement eIDAS, ni ava
 - **Aucun envoi.** OptimCE n'envoie rien au GRD ni à la CWaPE.
 - **L'annexe 8 seulement.** Ni conventions avec le GRD, ni avenants, ni bulletins d'adhésion.
 - **Pas de détection des installations de production.** Pour un changement d'installation, la démarche se crée à la main.
-- **La Wallonie seulement.** Ni Brugel ni la VREG.
+- **La Wallonie seulement.** Ni Brugel ni la Vlaamse Nutsregulator (anciennement VREG).
 - **Pas de relecture à votre place.** Un formulaire prérempli avec des données fausses reste faux.
 
 ## Disponibilité et activation

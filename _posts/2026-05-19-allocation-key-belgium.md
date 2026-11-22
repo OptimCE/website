@@ -3,19 +3,19 @@ layout: post
 title: "Allocation key in Belgium: the 3 regions"
 date: 2026-05-19 10:00:00 +0200
 author: "Eric from OptimCE"
-excerpt: "Allocation key in an energy community — types accepted by CWaPE, BRUGEL and VREG, regional differences across Wallonia, Brussels and Flanders, and practical guidance to choose one."
-description: "Key types accepted by CWaPE, BRUGEL and VREG, what changes between Wallonia, Brussels and Flanders, and how to choose the right one."
+excerpt: "Allocation key in an energy community — types accepted by CWaPE, BRUGEL and Vlaamse Nutsregulator, regional differences across Wallonia, Brussels and Flanders, and practical guidance to choose one."
+description: "Key types accepted by CWaPE, BRUGEL and Vlaamse Nutsregulator, what changes between Wallonia, Brussels and Flanders, and how to choose the right one."
 tags: [allocation-key, administrative]
 lang: en
 ref: allocation-key-belgium
 pillar: cle-de-repartition
-last_modified_at: 2026-10-22 10:00:00 +0200
+last_modified_at: 2026-11-21 06:00:00 +0100
 permalink: /en/guides/allocation-key-belgium/
 ---
 
 The **allocation key** is the quiet piece of machinery that turns a local electricity production into a tangible benefit for each member of an energy community. Quarter-hour by quarter-hour, it decides *who gets how much* of the shared energy. And that is precisely where Belgium gets complicated: Wallonia, Brussels and Flanders have not adopted the same grid of standard keys, do not use the same vocabulary, and do not impose the same validation rules.
 
-This article walks through the three regional frameworks — **CWaPE / ORES / RESA / AIEG / AIESH / REW** in Wallonia, **BRUGEL / Sibelga** in Brussels, **VREG / Fluvius** in Flanders — to compare what is actually allowed in each region and help community managers pick a key that holds over time. If you are new to the very idea of an energy community, start with our article [“Energy communities in Belgium: CER, CEC, CEL”](/en/guides/energy-communities-belgium/) — it sets the vocabulary used here.
+This article walks through the three regional frameworks — **CWaPE / ORES / RESA / AIEG / AIESH / REW** in Wallonia, **BRUGEL / Sibelga** in Brussels, **Vlaamse Nutsregulator / Fluvius** in Flanders — to compare what is actually allowed in each region and help community managers pick a key that holds over time. If you are new to the very idea of an energy community, start with our article [“Energy communities in Belgium: CER, CEC, CEL”](/en/guides/energy-communities-belgium/) — it sets the vocabulary used here.
 
 <img src="/assets/images/diagrams/allocation-key-flow-en.svg"
      alt="Five-step diagram: quarter-hourly data, generation or simulation, candidate key, member validation, submission to the grid operator."
@@ -83,7 +83,7 @@ For the economic context and tariff impact in Brussels, see [Renouvelle's analys
 
 ## The Flemish framework: verdeelsleutel under the Fluvius protocol
 
-In Flanders, the regulator is the [VREG](https://www.vlaamsenutsregulator.be) and the DSO is Fluvius. The framework applies to **energy sharing** (*energiedelen*) within a group, **peer-to-peer sale** (*persoon-aan-persoonverkoop*) and **energy communities** (CER and CEC, translated as *hernieuwbare-energiegemeenschap* and *burgerenergiegemeenschap*).
+In Flanders, the regulator is the [Vlaamse Nutsregulator](https://www.vlaamsenutsregulator.be) (formerly VREG) and the DSO is Fluvius. The framework applies to **energy sharing** (*energiedelen*) within a group, **peer-to-peer sale** (*persoon-aan-persoonverkoop*) and **energy communities** (CER and CEC, translated as *hernieuwbare-energiegemeenschap* and *burgerenergiegemeenschap*).
 
 Technically, the 15-minute resolution and the requirement of a **“meetregime 3” digital meter** are mandatory. Three keys — called *verdeelsleutels* — are supported by the [Fluvius protocol](https://www.fluvius.be/sites/fluvius/files/2024-07/protocol-energiedelen-p2p-verkoop-in-gebouwen-v3-2.pdf).
 
@@ -103,7 +103,7 @@ A practical difference with Wallonia: Flanders does **not have a published list 
 
 | Criterion | Wallonia | Brussels | Flanders |
 |---|---|---|---|
-| Regulator | **CWaPE** | **BRUGEL** | **VREG** |
+| Regulator | **CWaPE** | **BRUGEL** | **Vlaamse Nutsregulator** |
 | DSO | ORES / RESA / AIEG / AIESH / REW | **Sibelga** (single) | **Fluvius** (single) |
 | Reference document | Proposal CD-23d27-CWaPE-0928 (27/04/2023) | Sibelga “Distribution methods” page | Fluvius protocol v3.x (July 2024) |
 | Key #1 — Egalitarian | Egalitarian fixed key | Fixed method (one round, equal shares) | Vaste verdeelsleutel |
@@ -186,7 +186,7 @@ Within a **single sharing operation**, only one key applies. However, a **single
 
 ### Does the key need to be validated by the regulator?
 
-In **Wallonia**, **standard keys** are accepted automatically by the DSO; **non-standard keys** must be authorised by CWaPE. In **Brussels**, the three methods operated by Sibelga are set by BRUGEL and require no additional authorisation. In **Flanders**, the key is defined within the Fluvius protocol and does not require prior VREG validation.
+In **Wallonia**, **standard keys** are accepted automatically by the DSO; **non-standard keys** must be authorised by CWaPE. In **Brussels**, the three methods operated by Sibelga are set by BRUGEL and require no additional authorisation. In **Flanders**, the key is defined within the Fluvius protocol and does not require prior validation by the Vlaamse Nutsregulator.
 
 ### Which key is recommended for a small neighbourhood community?
 
@@ -198,7 +198,7 @@ The key is **recomputed** to include the new member. With an **egalitarian fixed
 
 ## Key takeaways
 
-Three regulators (CWaPE, BRUGEL, VREG), three DSO landscapes (ORES/RESA/AIEG/AIESH/REW, Sibelga, Fluvius), three vocabularies (“key”, “method”, “verdeelsleutel”) — but a shared mechanic at the quarter-hour, dependent on smart meters, and organised around two big families: the **fixed** keys (egalitarian or weighted) and the **dynamic / optimised** keys (prorata, hybrid, optimal).
+Three regulators (CWaPE, BRUGEL, Vlaamse Nutsregulator), three DSO landscapes (ORES/RESA/AIEG/AIESH/REW, Sibelga, Fluvius), three vocabularies (“key”, “method”, “verdeelsleutel”) — but a shared mechanic at the quarter-hour, dependent on smart meters, and organised around two big families: the **fixed** keys (egalitarian or weighted) and the **dynamic / optimised** keys (prorata, hybrid, optimal).
 
 Choosing a key is not a technical question: it's a governance choice that should reflect the values and constraints of the members. And because no key is set in stone, you need a tool to configure it, historise it, evolve it cleanly — and now to **generate it automatically from real community data**: that's exactly what **OptimCE** provides.
 
@@ -233,6 +233,6 @@ To go further, see our companion guides:
 - [Sibelga — Renewable energy sharing in Brussels](https://www.sibelga.be/fr/raccordements-compteurs/energie-renouvelable/partage-energie) — Brussels practical page.
 - [Sibelga — Distribution methods for energy sharing](https://www.sibelga.be/fr/raccordements-compteurs/energie-renouvelable/partage-energie/methodes-de-repartition) — fixed, prorata and hybrid methods.
 - [Brussels Environment — Study on the potential, development and functioning of energy communities](https://document.environnement.brussels/opac_css/elecfile/RAP_2024_CommunautesEnergie.pdf) — 2024 in-depth study.
-- [VREG — Vlaamse Nutsregulator](https://www.vlaamsenutsregulator.be) — Flemish regulator.
+- [Vlaamse Nutsregulator](https://www.vlaamsenutsregulator.be) — Flemish regulator.
 - [Fluvius — Protocol energiedelen, persoon-aan-persoonverkoop](https://www.fluvius.be/sites/fluvius/files/2024-07/protocol-energiedelen-p2p-verkoop-in-gebouwen-v3-2.pdf) — technical protocol v3.x (July 2024).
 - [Renouvelle — Costs and benefits of electricity sharing and energy communities in Brussels](https://www.renouvelle.be/fr/quels-couts-avantages-sur-le-partage-delectricite-et-les-communautes-denergie-a-bruxelles/) — economic analysis.

@@ -2,7 +2,7 @@
 layout: post
 title: "Communautés d'énergie en Europe : RED II et IEMD"
 date: 2026-03-05 09:00:00 +0100
-last_modified_at: 2026-07-26 10:00:00 +0200
+last_modified_at: 2026-11-21 06:00:00 +0100
 author: "Eric d'OptimCE"
 excerpt: "Deux directives européennes encadrent les communautés d'énergie : RED II pour les communautés d'énergie renouvelable, la directive marché intérieur pour les communautés énergétiques citoyennes. Ce qui les sépare, ce qu'elles partagent, et comment la Belgique, la France et les Pays-Bas les ont transposées."
 description: "Ce que prévoient les directives RED II et IEMD, comment la Belgique, la France et les Pays-Bas les transposent, et ce qui en découle."
@@ -85,7 +85,7 @@ Une directive fixe un résultat, pas une règle directement applicable. Chaque �
 
 ### Belgique — trois cadres régionaux
 
-L'énergie est une compétence **régionale**. La Wallonie, Bruxelles et la Flandre appliquent chacune leur décret ou ordonnance, avec leur propre régulateur — CWaPE, BRUGEL, VREG — et leurs propres familles de clés de répartition. Une communauté bruxelloise et une communauté wallonne n'obéissent pas aux mêmes règles, alors qu'elles relèvent des mêmes directives.
+L'énergie est une compétence **régionale**. La Wallonie, Bruxelles et la Flandre appliquent chacune leur décret ou ordonnance, avec leur propre régulateur — CWaPE, BRUGEL, Vlaamse Nutsregulator (anciennement VREG) — et leurs propres familles de clés de répartition. Une communauté bruxelloise et une communauté wallonne n'obéissent pas aux mêmes règles, alors qu'elles relèvent des mêmes directives.
 
 Le détail des trois cadres, les statuts CER, CEC et CEL, et le rôle du gestionnaire de réseau sont traités dans notre article de référence : [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/guides/communautes-energie-belgique/).
 

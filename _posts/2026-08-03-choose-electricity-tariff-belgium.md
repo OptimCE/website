@@ -2,7 +2,7 @@
 layout: post
 title: "Which electricity tariff to choose in Belgium?"
 date: 2026-08-03 10:00:00 +0200
-last_modified_at: 2026-08-08 10:00:00 +0200
+last_modified_at: 2026-11-21 06:00:00 +0100
 author: "Eric from OptimCE"
 excerpt: "Social tariff, night rate, dynamic contract: three answers to the same question, and they do not act on the same part of your bill. This costed comparison separates them using the CREG social tariffs for the third quarter of 2026 and the grid schedules of all three regions, then examines a fourth route no comparison tool lists — the energy community, the only one that stacks with the other two contract formulas."
 description: "Social tariff, night rate, dynamic contract or energy community: what each formula really changes on your bill, region by region."
@@ -132,7 +132,7 @@ The practical consequence is simple: in Brussels, **the middle of the day stays 
 
 This is the deepest divergence, and the most widely misunderstood. Since **January 2023**, the Flemish distribution tariff has been based on **peak power** — the capacity tariff — and no longer on the hour of consumption. The day/night distinction has vanished from this part of the bill.
 
-Two figures for scale: the average peak recorded by the VREG is around **3.15 kW**, and **a minimum of 2.5 kW is billed** even if your actual peak is lower. The annual cost of the capacity term commonly falls between **€150 and €250** depending on the municipality and consumption.
+Two figures for scale: the average peak recorded by the Vlaamse Nutsregulator (formerly VREG) is around **3.15 kW**, and **a minimum of 2.5 kW is billed** even if your actual peak is lower. The annual cost of the capacity term commonly falls between **€150 and €250** depending on the municipality and consumption.
 
 A Flemish supplier may still offer a day/night price, but **only on the energy component**, and fewer and fewer do. The profitable move in Flanders is therefore no longer “consume at night” but “**do not run everything at the same time**”: spreading the washing machine, the oven and the vehicle charge across the evening rather than stacking them, which shaves the monthly peak used as the basis for the calculation.
 
@@ -214,7 +214,7 @@ Four questions, in this order. Each one only arises once the previous one has an
 | **CREG Scan** | CREG (federal) | compares **the contract you actually signed**, including a dormant product |
 | **CompaCWaPE** | CWaPE (Wallonia) | offers available in the Walloon Region |
 | **BruSim** | Brugel (Brussels) | offers available in the Brussels Region |
-| **V-test** | VREG (Flanders) | offers available in the Flemish Region, dynamic contracts included |
+| **V-test** | Vlaamse Nutsregulator (Flanders) | offers available in the Flemish Region, dynamic contracts included |
 
 The [CREG Scan](https://www.creg.be/fr/cregscan) deserves a separate mention, because it answers a question the others do not ask. Conventional comparison tools list **currently marketed** offers. Yet many households are on a **dormant product**: a contract signed years ago, no longer offered to new customers, and which therefore appears in no comparison. The CREG Scan displays it and places it, in six questions.
 
@@ -288,8 +288,8 @@ Four public tools, all free and commission-free. The **CREG Scan**, from the fed
 - [CWaPE — ORES, periodic withdrawal tariffs 2026](https://www.cwape.be/sites/default/files/cwape-documents/ORES%20-%20Tarifs%20p%C3%A9riodiques%20de%20pr%C3%A9l%C3%A8vement%202026_0.pdf) — schedule approved on 18 December 2025: proportional terms of the dual rate and of the three Impact tariff bands, and the 80 % reduction on the proportional term for energy shared within a single building.
 - [ORES — The dual rate changes its hours](https://www.ores.be/comprendre-ma-facture/bihoraire) — new Walloon bands applicable seven days a week since 2026: off-peak from 11:00 to 17:00 and from 22:00 to 07:00.
 - [Brugel — Distribution tariffs 2025-2029](https://brugel.brussels/themes/tarifs-de-distribution-12/tarifs-de-distribution-2025-2029-668) — Brussels tariff methodology: definition of peak and off-peak hours unchanged from the 2020-2024 period, off-peak from 22:00 to 07:00 as well as weekends and public holidays.
-- [VREG — Capacity tariff](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/nettarieven/capaciteitstarief) — Flemish distribution tariff based on peak power since January 2023, average peak of around 3.15 kW and a billed minimum of 2.5 kW.
+- [Vlaamse Nutsregulator — Capacity tariff](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/nettarieven/capaciteitstarief) — Flemish distribution tariff based on peak power since January 2023, average peak of around 3.15 kW and a billed minimum of 2.5 kW.
 - [Renouvelle — Electricity: dynamic price contracts in Wallonia and Brussels](https://www.renouvelle.be/fr/contrats-electricite-prix-dynamiques-bruxelles-wallonie/) — rollout calendar from June to November 2025, requirement of a smart meter **and** activation of the SMR3 regime, and simulation results: 20 % of households up by 5 to 17 %, 99 % of photovoltaic households losing out with a median increase of 20 % (June 2025).
 - [Test-Achats — Dynamic energy contracts](https://www.test-achats.be/maison-energie/gaz-electricite-mazout-pellets/news/contrats-energetiques-dynamiques-avantageux) — market share of 0.40 % at end-2025, saving observed over 2025 of about €62 against variable and €193 against fixed for 3,500 kWh, and average standing charge of €70/year recorded in May 2026, up to €130 (9 June 2026).
 - [Énergie Commune / Interreg Europe — Business model for energy sharing](https://www.interregeurope.eu/sites/default/files/good_practices/8.%20EnergieCommune_EC_BM_Sharing_Interreg_Ghent.pdf) — documented case putting the saving for a consumer receiving 500 kWh shared a year at around €145 on the standard tariff, against about €70 for a household already on the social tariff.
-- [CWaPE — CompaCWaPE](https://www.cwape.be/consommateurs/compacwape), [Brugel — BruSim](https://brugel.brussels/outils/brusim-2) and [VREG — V-test](https://www.vtest.be) — the three official comparison tools of the regional regulators, free and free of supplier commission.
+- [CWaPE — CompaCWaPE](https://www.cwape.be/consommateurs/compacwape), [Brugel — BruSim](https://brugel.brussels/outils/brusim-2) and [Vlaamse Nutsregulator — V-test](https://www.vtest.be) — the three official comparison tools of the regional regulators, free and free of supplier commission.

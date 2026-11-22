@@ -8,7 +8,7 @@ description: "Two algorithms — brute force over standard keys and LOGAAS — t
 tags: [allocation-key, app, guide]
 lang: en
 ref: optimce-allocation-key-generator
-last_modified_at: 2026-10-11 10:00:00 +0200
+last_modified_at: 2026-11-21 06:00:00 +0100
 pillar: cle-de-repartition
 permalink: /en/guides/automatic-allocation-key-generation/
 ---
@@ -17,7 +17,7 @@ Picking the **allocation key** that gets the most out of a community's local pro
 
 OptimCE's **automatic allocation key generation module** is now live to take that decision out of gut-feel territory. Feed it a CSV of the community's real production and consumption data, and it returns a candidate key with an expected collective self-consumption rate — computed on your own data, not on a textbook example. Two **independent** algorithms ship today, both consuming the same CSV input: a **brute force** scan over the regionally validated standard keys, and **LOGAAS**, a hybrid linear-optimisation / genetic-algorithm approach developed by [**CeCoTePe**](https://cecotepe.be/) for the **Locomotrice** project. More algorithms can be added later.
 
-If you are still mapping the regional landscape — what CWaPE, BRUGEL and VREG accept as a valid key — start with our reference article [“Allocation key in Belgium: the 3 regions”](/en/guides/allocation-key-belgium/).
+If you are still mapping the regional landscape — what CWaPE, BRUGEL and Vlaamse Nutsregulator (formerly VREG) accept as a valid key — start with our reference article [“Allocation key in Belgium: the 3 regions”](/en/guides/allocation-key-belgium/).
 
 <img src="/assets/images/diagrams/allocation-key-flow-en.svg"
      alt="Five-step diagram: quarter-hourly data, generation or simulation, candidate key, member validation, submission to the grid operator."
@@ -146,7 +146,7 @@ To go further, see our companion guides:
 
 > **[Allocation key in Belgium: the 3 regions](/en/guides/allocation-key-belgium/)**
 >
-> The regulatory primer — what CWaPE, BRUGEL and VREG accept, the three regional vocabularies, and how to pick a key family before letting OptimCE optimise inside it.
+> The regulatory primer — what CWaPE, BRUGEL and Vlaamse Nutsregulator accept, the three regional vocabularies, and how to pick a key family before letting OptimCE optimise inside it.
 
 > **[Create an energy community in Wallonia](/en/guides/create-energy-community-wallonia/)**
 >

@@ -8,7 +8,7 @@ ref: pillar-reseau-grd
 pillar: reseau-grd
 permalink: /guides/reseau-grd/
 breadcrumb_parent: guides
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-21
 sections:
   - title: "Comprendre qui fait quoi"
     refs: [dso-supplier-roles, ean-code-belgium]
@@ -24,7 +24,7 @@ Cette répartition dit qui appeler :
 - **une panne, une erreur d'index, un raccordement** : votre GRD, car seul le gestionnaire de réseau collecte les données de comptage sur son réseau ;
 - **un prix, un contrat, un déménagement** : votre fournisseur, qui facture ce que le GRD a mesuré.
 
-En amont, Elia transporte le courant à haute tension, et quatre régulateurs se partagent le contrôle : la CREG au niveau fédéral, la CWaPE, Brugel et le VREG dans les régions. [« Différence GRD et fournisseur : qui fait quoi ? »]({{ "dso-supplier-roles" | ref_url }}) reprend chaque acteur, ce qu'il pèse sur la facture et les cas où le GRD devient lui-même votre fournisseur.
+En amont, Elia transporte le courant à haute tension, et quatre régulateurs se partagent le contrôle : la CREG au niveau fédéral, la CWaPE, Brugel et la Vlaamse Nutsregulator (anciennement VREG) dans les régions. [« Différence GRD et fournisseur : qui fait quoi ? »]({{ "dso-supplier-roles" | ref_url }}) reprend chaque acteur, ce qu'il pèse sur la facture et les cas où le GRD devient lui-même votre fournisseur.
 
 Le GRD fixe aussi une part de votre facture : le tarif de distribution, que la CWaPE approuve pour chacun des cinq. À consommation égale, il n'est pas le même partout : pour 3 500 kWh au compteur simple, il va en 2026 de 400 € par an à l'AIEG à 495 € à l'AIESH, TVA comprise. [« Tarif de distribution en Wallonie : 5 GRD comparés »]({{ "distribution-tariffs-dso-wallonia" | ref_url }}) refait le calcul pour chaque GRD et chaque formule, explique d'où vient l'écart et ce que vous pouvez faire à la place de changer de GRD, ce qui est impossible.
 

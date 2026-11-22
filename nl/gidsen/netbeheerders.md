@@ -8,7 +8,7 @@ ref: pillar-reseau-grd
 pillar: reseau-grd
 permalink: /nl/gidsen/netbeheerders/
 breadcrumb_parent: guides
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-21
 sections:
   - title: "Begrijpen wie wat doet"
     refs: [dso-supplier-roles, ean-code-belgium]
@@ -24,7 +24,7 @@ Die verdeling zegt wie u belt:
 - **een storing, een foute meterstand, een aansluiting**: uw netbeheerder, want alleen de netbeheerder verzamelt de meetgegevens op zijn net;
 - **een prijs, een contract, een verhuis**: uw leverancier, die factureert wat de netbeheerder heeft gemeten.
 
-Daarvoor transporteert Elia de stroom op hoogspanning, en vier regulatoren delen het toezicht: de CREG op federaal niveau, de CWaPE, Brugel en de VREG in de gewesten. [“Netbeheerder en leverancier: wie doet wat?”]({{ "dso-supplier-roles" | ref_url }}) overloopt elke speler, wat elk weegt op uw factuur, en de gevallen waarin de netbeheerder zelf uw leverancier wordt.
+Daarvoor transporteert Elia de stroom op hoogspanning, en vier regulatoren delen het toezicht: de CREG op federaal niveau, de CWaPE, Brugel en de Vlaamse Nutsregulator (voorheen VREG) in de gewesten. [“Netbeheerder en leverancier: wie doet wat?”]({{ "dso-supplier-roles" | ref_url }}) overloopt elke speler, wat elk weegt op uw factuur, en de gevallen waarin de netbeheerder zelf uw leverancier wordt.
 
 Uw netbeheerder bepaalt ook een deel van uw factuur: het distributienettarief, dat de CWaPE voor elk van de vijf goedkeurt. Bij hetzelfde verbruik is het niet overal gelijk: voor 3 500 kWh met een enkelvoudige meter loopt het in 2026 van 400 € per jaar bij AIEG tot 495 € bij AIESH, btw inbegrepen. [“Nettarieven Wallonië: 5 netbeheerders vergeleken”]({{ "distribution-tariffs-dso-wallonia" | ref_url }}) rekent het na voor elke netbeheerder en elke formule, legt uit vanwaar het verschil komt en wat u kunt doen in plaats van van netbeheerder te veranderen, wat niet kan.
 

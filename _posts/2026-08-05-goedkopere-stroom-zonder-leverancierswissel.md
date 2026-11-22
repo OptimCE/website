@@ -2,7 +2,7 @@
 layout: post
 title: "Goedkopere stroom zonder leverancierswissel"
 date: 2026-08-05 04:00:00 +0200
-last_modified_at: 2026-11-10 06:00:00 +0100
+last_modified_at: 2026-11-21 06:00:00 +0100
 author: "Eric van OptimCE"
 excerpt: "Elke gids over besparen op elektriciteit eindigt met dezelfde zin: vergelijk en verander dan van leverancier. Toch bestaat er een mechanisme dat uw factuur verlaagt zonder dat u iets moet opzeggen — energiedelen. De vraag is niet of het legaal is: dat is het in alle drie de gewesten. De vraag is of het beschikbaar is waar u woont, en twee cijfers schetsen het antwoord: 36 vergunde gemeenschappen in Brussel en 13 aangemelde in Wallonië, waarvan er maar zes delen, in november 2026."
 description: "Energiedelen verlaagt uw factuur zonder uw contract op te zeggen. Wat het echt oplevert en in welk gewest het werkelijk beschikbaar is."
@@ -89,7 +89,7 @@ Hier ligt de kern van de zaak. De tabel hieronder vat de werkelijke beschikbaarh
 
 | | Brussel | Wallonië | Vlaanderen |
 |---|---|---|---|
-| **Regulator / DNB** | Brugel / Sibelga | CWaPE / ORES, RESA, AIEG, AIESH, REW | VREG / Fluvius |
+| **Regulator / DNB** | Brugel / Sibelga | CWaPE / ORES, RESA, AIEG, AIESH, REW | Vlaamse Nutsregulator / Fluvius |
 | **Peer-to-peer** | **operationeel** | **geblokkeerd** — decreet 2022, uitvoeringsbesluit ontbreekt | operationeel |
 | **Zelfde gebouw** | operationeel | operationeel | operationeel |
 | **Gemeenschap** | operationeel | operationeel | operationeel |
@@ -125,11 +125,11 @@ Het kader beweegt niettemin: een besluit van de Waalse Regering van **5 februari
 
 Vlaanderen vertoont het spiegelbeeld van Wallonië: het kader is open — delen en verkopen tussen particulieren zijn mogelijk, peer-to-peer inbegrepen — maar de tarifaire prikkel is nul.
 
-In december 2023 namen **7 779 toegangspunten** deel aan het delen of verkopen van energie, oftewel **0,2 %** van de Vlaamse toegangspunten, volgens de Fluvius-gegevens die de VREG publiceert. Twee belangrijke nuances bij dat cijfer: het bundelt delen *én* verkopen, en het is gedateerd. De VREG publiceert een **maandelijks bijgewerkt** dashboard (laatst vastgestelde update: 27 juli 2026) — bereidt u een beslissing voor, haal er dan de waarde van de lopende maand, in plaats van op deze te vertrouwen.
+In december 2023 namen **7 779 toegangspunten** deel aan het delen of verkopen van energie, oftewel **0,2 %** van de Vlaamse toegangspunten, volgens de Fluvius-gegevens die de Vlaamse Nutsregulator (voorheen VREG) publiceert. Twee belangrijke nuances bij dat cijfer: het bundelt delen *én* verkopen, en het is gedateerd. De Vlaamse Nutsregulator publiceert een **maandelijks bijgewerkt** dashboard (laatst vastgestelde update: 27 juli 2026) — bereidt u een beslissing voor, haal er dan de waarde van de lopende maand, in plaats van op deze te vertrouwen.
 
 De tweede Vlaamse les is nog nuttiger, want ze tempert de verwachtingen overal: de deelnemers slagen erin slechts ongeveer **20 % van de injectie** onderling te delen, waar de aanvankelijke theoretische ramingen op 40 % rekenden. Met andere woorden: **de helft van het potentieel gaat verloren in het tijdsverschil tussen productie en verbruik.** Dat is een sterk argument voor een goed opgebouwde verdeelsleutel, een onderwerp dat aan bod komt in [“Verdeelsleutel in België: de 3 gewesten”](/nl/gidsen/verdeelsleutel-energiegemeenschap-belgie/).
 
-Ten slotte berust het Vlaamse distributietarief sinds januari 2023 op het piekvermogen en niet meer op de afgenomen energie: er is dus **geen enkele verlaging van het nettarief** op gedeelde energie, in geen enkele configuratie. De winst blijft strikt beperkt tot het verschil tussen de interne prijs en de prijs van uw leverancier. De VREG signaleert bovendien dat sommige leveranciers **extra kosten** aanrekenen aan klanten die aan een deelverrichting deelnemen — na te gaan vóór u zich verbindt, want bij kleine volumes heffen die kosten het voordeel op.
+Ten slotte berust het Vlaamse distributietarief sinds januari 2023 op het piekvermogen en niet meer op de afgenomen energie: er is dus **geen enkele verlaging van het nettarief** op gedeelde energie, in geen enkele configuratie. De winst blijft strikt beperkt tot het verschil tussen de interne prijs en de prijs van uw leverancier. De Vlaamse Nutsregulator signaleert bovendien dat sommige leveranciers **extra kosten** aanrekenen aan klanten die aan een deelverrichting deelnemen — na te gaan vóór u zich verbindt, want bij kleine volumes heffen die kosten het voordeel op.
 
 ## Wat het werkelijk oplevert, en precies waarop
 
@@ -190,7 +190,7 @@ Wat beweegt: het besluit van 5 februari 2026 wijzigde het kader van 2023, het aa
 
 **Woont u in Wallonië.** Ga eerst na of uw gebouw delen binnen hetzelfde gebouw toelaat — de enige configuratie die het ontbreken van een rechtspersoon combineert met de verlaging van 80 % van de proportionele term. Zo niet, zoek dan een open deelverrichting in de buurt; de facilitator van de SPW kan u de weg wijzen, en het overzicht van gemeenschappen van OptimCE, te raadplegen met een account, toont er een deel van. Wacht niet op peer-to-peer om te handelen: er is geen enkele planning aangekondigd.
 
-**Woont u in Vlaanderen.** Delen en verkopen staan open, ook tussen particulieren, maar zonder netvoordeel: de volledige winst komt uit het prijsverschil. Twee controles vóór u tekent — het VREG-dashboard voor de cijfers van de lopende maand, en vooral het tariefblad van uw leverancier, want sommige rekenen deelnemers extra kosten aan die het voordeel bij kleine volumes tenietdoen.
+**Woont u in Vlaanderen.** Delen en verkopen staan open, ook tussen particulieren, maar zonder netvoordeel: de volledige winst komt uit het prijsverschil. Twee controles vóór u tekent — het dashboard van de Vlaamse Nutsregulator voor de cijfers van de lopende maand, en vooral het tariefblad van uw leverancier, want sommige rekenen deelnemers extra kosten aan die het voordeel bij kleine volumes tenietdoen.
 
 **In alle drie de gevallen** gaat één vraag aan alle andere vooraf: **hoeveel kilowattuur zal de verdeelsleutel u werkelijk toekennen?** De Vlaamse ervaring — 20 % van de injectie effectief gedeeld tegenover de gehoopte 40 % — toont aan dat het daar is dat het wezenlijke zich afspeelt, veel meer dan bij de prijsonderhandeling.
 
@@ -254,8 +254,8 @@ De gedocumenteerde grootteorde bedraagt ongeveer **145 € per jaar** voor een v
 - [Bruxelles Environnement — Delen en energiegemeenschappen](https://environnement.brussels/citoyen/agir-pour-lenvironnement/devenir-eco-responsable/partage-et-communautes-denergie) — Brussels burgerportaal: de drie configuraties van delen en de gratis facilitator “Delen en Energiegemeenschappen”.
 - [Bruxelles Environnement — Energiedelen was nog nooit zo eenvoudig](https://environnement.brussels/citoyen/news/2026/le-partage-denergie-na-jamais-ete-aussi-simple) — aankondiging van 2 juni 2026 van het platform BEST (Brussels Energy Sharing Tool), ontwikkeld door de vzw Simply Energy met steun van Bruxelles Environnement.
 - [Sibelga — Energiedelen](https://www.sibelga.be/en/connections-meters/renewable-energy/energy-sharing) — operationele werking aan de kant van de Brusselse netbeheerder: de drie vormen van delen, de verplichting van een slimme meter voor elke deelnemer en de analyse van de meterstanden per kwartier.
-- [VREG — Dashboard “energie delen en verkopen”](https://www.vlaamsenutsregulator.be/cijfers/dashboard-energie-delen-en-verkopen) — maandelijks bijgewerkte Fluvius-gegevens (laatst vastgestelde update: 27 juli 2026) over het aantal groepen en deelnemers, de gedeelde volumes en de leveranciers die deelnemers extra kosten aanrekenen.
-- [Futech — Hoeveel Vlamingen doen aan energiedelen?](https://futech.be/hoeveel-vlamingen-doen-aan-energiedelen/) — weergave van de cijfers van VREG en Fluvius: 7 779 toegangspunten die in december 2023 deelnamen aan delen of verkopen, oftewel 0,2 % van de Vlaamse toegangspunten, en ongeveer 20 % van de injectie effectief gedeeld tegenover 40 % verwacht.
+- [Vlaamse Nutsregulator — Dashboard “energie delen en verkopen”](https://www.vlaamsenutsregulator.be/cijfers/dashboard-energie-delen-en-verkopen) — maandelijks bijgewerkte Fluvius-gegevens (laatst vastgestelde update: 27 juli 2026) over het aantal groepen en deelnemers, de gedeelde volumes en de leveranciers die deelnemers extra kosten aanrekenen.
+- [Futech — Hoeveel Vlamingen doen aan energiedelen?](https://futech.be/hoeveel-vlamingen-doen-aan-energiedelen/) — weergave van de cijfers van de Vlaamse Nutsregulator en Fluvius: 7 779 toegangspunten die in december 2023 deelnamen aan delen of verkopen, oftewel 0,2 % van de Vlaamse toegangspunten, en ongeveer 20 % van de injectie effectief gedeeld tegenover 40 % verwacht.
 - [CREG — Maandelijks dashboard](https://www.creg.be/fr/professionnels/fonctionnement-et-monitoring-du-marche/tableau-de-bord) — all-inprijs van 36,94 c€/kWh en verdeling 38,5 / 29,7 / 26,1 / 5,7 % voor een gezinsprofiel van 3 500 kWh/jaar met enkelvoudig tarief (hier gebruikte editie: juni 2026).
 - [Énergie Commune / Interreg Europe — Businessmodel van energiedelen](https://www.interregeurope.eu/sites/default/files/good_practices/8.%20EnergieCommune_EC_BM_Sharing_Interreg_Ghent.pdf) — gedocumenteerd geval dat de besparing van een verbruiker die 500 kWh gedeeld per jaar ontvangt, becijfert op ongeveer 145 € tegen het standaardtarief, tegenover ongeveer 70 € voor een gezin dat al het sociaal tarief geniet.
 - [CWaPE — ORES, periodieke afnametarieven 2026](https://www.cwape.be/sites/default/files/cwape-documents/ORES%20-%20Tarifs%20p%C3%A9riodiques%20de%20pr%C3%A9l%C3%A8vement%202026_0.pdf) — tariefblad goedgekeurd op 18 december 2025, bron van de verlaging van 80 % van de proportionele term die is voorbehouden aan delen binnen eenzelfde gebouw.

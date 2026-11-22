@@ -9,7 +9,7 @@ tags: [community]
 lang: de
 ref: self-consumption-belgium
 pillar: communautes-energie
-last_modified_at: 2026-11-10 06:00:00 +0100
+last_modified_at: 2026-11-21 06:00:00 +0100
 permalink: /de/ratgeber/eigenverbrauch-energie-belgien/
 faq:
   - q: "Was ist die Eigenverbrauchsquote?"
@@ -23,7 +23,7 @@ faq:
   - q: "Muss ich meinen Stromlieferanten wechseln?"
     a: "Nein. Sie behalten Ihren Lieferanten, der nur noch die Restenergie abrechnet — den Teil Ihres Verbrauchs, der nicht durch Ihre eigene Produktion oder das Teilen gedeckt ist."
   - q: "Funktioniert kollektiver Eigenverbrauch überall in Belgien?"
-    a: "Der Rahmen besteht in allen drei Regionen, jedoch mit unterschiedlichen Modalitäten: Die Wallonie (CWaPE, ORES/RESA/AIEG/AIESH/REW) und Flandern (VREG, Fluvius) haben einen operativen Rahmen, während Brüssel (BRUGEL, Sibelga) den kollektiven Eigenverbrauch über Pilotprojekte eingeführt hat. Ein intelligenter Zähler ist überall erforderlich."
+    a: "Der Rahmen besteht in allen drei Regionen, jedoch mit unterschiedlichen Modalitäten: Die Wallonie (CWaPE, ORES/RESA/AIEG/AIESH/REW) und Flandern (Vlaamse Nutsregulator, Fluvius) haben einen operativen Rahmen, während Brüssel (BRUGEL, Sibelga) den kollektiven Eigenverbrauch über Pilotprojekte eingeführt hat. Ein intelligenter Zähler ist überall erforderlich."
 ---
 
 Der Eigenverbrauch ist zu einer der Säulen der belgischen Energiewende geworden: den lokal erzeugten Strom selbst verbrauchen, statt ihn zu geringem Wert ins Netz einzuspeisen. Mit einem Photovoltaik-Bestand von inzwischen über **8 GWp** und seit 2022 volatilen Marktpreisen war es noch nie so sinnvoll, die eigene Produktion zu verwerten — allein oder gemeinsam. Dieser Artikel erklärt, was Eigenverbrauch ist, warum er sich lohnt, wie Sie Ihre **Eigenverbrauchsquote** erhöhen und wie er mit **Energiegemeinschaften** zusammenhängt — mit den Unterschieden zwischen Wallonie, Brüssel und Flandern.
@@ -78,15 +78,15 @@ Das Prinzip des Eigenverbrauchs ist überall gleich, doch die Akteure und der Re
 
 | Kriterium | Wallonie | Brüssel | Flandern |
 |---|---|---|---|
-| Regulierungsbehörde | CWaPE | BRUGEL | VREG |
+| Regulierungsbehörde | CWaPE | BRUGEL | Vlaamse Nutsregulator |
 | Verteilnetzbetreiber (VNB) | ORES, RESA, AIEG, AIESH, REW | Sibelga | Fluvius |
 | Rahmen für kollektiven Eigenverbrauch | Operativ (CER / CEC) | Über Pilotprojekte eingeführt | Operativ („energiedelen“) |
 | Intelligenter Zähler erforderlich | Ja | Ja | Ja |
-| Zusatzeinkommen für den Erzeuger | Grünstromzertifikate | Grünstromzertifikate (≈ erste 10 Jahre) | Spezifische Förderung — siehe VREG |
+| Zusatzeinkommen für den Erzeuger | Grünstromzertifikate | Grünstromzertifikate (≈ erste 10 Jahre) | Spezifische Förderung — siehe Vlaamse Nutsregulator |
 
 - **Wallonie.** Die [CWaPE](https://www.cwape.be/documents-recents/autoconsommation-collective-et-reseaux-alternatifs-avis-sur-un-projet-de-decret) reguliert den kollektiven Eigenverbrauch und alternative Netze; [ORES](https://www.ores.be/particulier/communautes-denergie) und die anderen VNB verwalten Zähler und Verteilung. Der wallonische Rahmen für [kollektiven Eigenverbrauch und Energiegemeinschaften](https://energie.wallonie.be/home/actualites/actualites/communautes-denergie-et-autocons.html) ist heute stabilisiert.
 - **Brüssel.** [BRUGEL](https://brugel.brussels/actualites/lancement-du-1er-projet-d-autoconsommation-collective-a-bruxelles-415) hat das **erste Projekt für kollektiven Eigenverbrauch** der Region gestartet, technisch betrieben von Sibelga. Das [Energy-Sharing-Portal von BRUGEL](https://energysharing.brugel.brussels/energysharing/les-projets-405) listet die Projekte, und [Renouvelle](https://www.renouvelle.be/fr/premiers-projets-pilotes-dautoconsommation-collective-a-bruxelles/) beschreibt den Nutzen dieser Pilotprojekte für die Viertel.
-- **Flandern.** Das Energieteilen („**energiedelen**“) wird vom VREG reguliert und von [Fluvius](https://www.fluvius.be/nl/groene-energie/energiedelen) betrieben, das die technischen Bedingungen, den Verkauf von Grünstrom und das Teilen zwischen Teilnehmern erläutert.
+- **Flandern.** Das Energieteilen („**energiedelen**“) wird von der Vlaamse Nutsregulator (früher VREG) reguliert und von [Fluvius](https://www.fluvius.be/nl/groene-energie/energiedelen) betrieben, das die technischen Bedingungen, den Verkauf von Grünstrom und das Teilen zwischen Teilnehmern erläutert.
 
 ## Wer profitiert?
 
@@ -134,7 +134,7 @@ Nein. Sie behalten Ihren Lieferanten, der nur noch die Restenergie abrechnet —
 
 ### Funktioniert kollektiver Eigenverbrauch überall in Belgien?
 
-Der Rahmen besteht in allen drei Regionen, jedoch mit unterschiedlichen Modalitäten: Die Wallonie (CWaPE, ORES/RESA/AIEG/AIESH/REW) und Flandern (VREG, Fluvius) haben einen operativen Rahmen, während Brüssel (BRUGEL, Sibelga) den kollektiven Eigenverbrauch über Pilotprojekte eingeführt hat. Ein intelligenter Zähler ist überall erforderlich.
+Der Rahmen besteht in allen drei Regionen, jedoch mit unterschiedlichen Modalitäten: Die Wallonie (CWaPE, ORES/RESA/AIEG/AIESH/REW) und Flandern (Vlaamse Nutsregulator, Fluvius) haben einen operativen Rahmen, während Brüssel (BRUGEL, Sibelga) den kollektiven Eigenverbrauch über Pilotprojekte eingeführt hat. Ein intelligenter Zähler ist überall erforderlich.
 
 ## Werden Sie aktiv
 

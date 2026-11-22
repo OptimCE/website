@@ -8,7 +8,7 @@ ref: pillar-reseau-grd
 pillar: reseau-grd
 permalink: /en/guides/grid-operators/
 breadcrumb_parent: guides
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-21
 sections:
   - title: "Understanding who does what"
     refs: [dso-supplier-roles, ean-code-belgium]
@@ -24,7 +24,7 @@ This split tells you who to call:
 - **an outage, a wrong meter reading, a connection**: your DSO, because only the grid operator collects metering data on its grid;
 - **a price, a contract, a move**: your supplier, who bills what the DSO has measured.
 
-Upstream, Elia carries power at high voltage, and four regulators share oversight: the CREG at federal level, and the CWaPE, Brugel and the VREG in the regions. [“DSO vs supplier: who does what in Belgium?”]({{ "dso-supplier-roles" | ref_url }}) goes through each player, what each one weighs on your bill, and the cases where the DSO becomes your supplier itself.
+Upstream, Elia carries power at high voltage, and four regulators share oversight: the CREG at federal level, and the CWaPE, Brugel and the Vlaamse Nutsregulator (formerly VREG) in the regions. [“DSO vs supplier: who does what in Belgium?”]({{ "dso-supplier-roles" | ref_url }}) goes through each player, what each one weighs on your bill, and the cases where the DSO becomes your supplier itself.
 
 Your DSO also sets part of your bill: the distribution tariff, which the CWaPE approves for each of the five. For the same consumption, it is not the same everywhere: for 3,500 kWh on a single-rate meter, it ranges in 2026 from 400 € a year with AIEG to 495 € with AIESH, VAT included. [“Distribution tariffs in Wallonia: 5 DSOs compared”]({{ "distribution-tariffs-dso-wallonia" | ref_url }}) redoes the calculation for each DSO and each formula, explains where the gap comes from and what you can do instead of changing DSO, which is not possible.
 

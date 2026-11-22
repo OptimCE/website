@@ -2,6 +2,7 @@
 layout: post
 title: "New tool: find your DSO in Belgium"
 date: 2026-10-22 06:00:00 +0200
+last_modified_at: 2026-11-21 06:00:00 +0100
 author: "Eric from OptimCE"
 excerpt: "Who runs the electricity and gas network in your municipality? Our free tool answers from your postcode, for all 565 Belgian municipalities, in your browser and without an account."
 description: "Find your distribution network operator for electricity and gas from your postcode: our free tool covers all 565 Belgian municipalities, no account."
@@ -18,8 +19,8 @@ faq:
     a: "Because your postcode is not always enough. Three postcodes cover two municipalities: 1040 (Brussels and Etterbeek), 1050 (Brussels and Ixelles) and 1804 (Vilvoorde and Zemst). In Baarle-Hertog, the gas operator depends on the section of the municipality: Enexis, a Dutch operator, except in Zondereigen, served by Fluvius Kempen. The tool then asks before showing the result."
   - q: "What should I do if the tool shows the wrong network operator?"
     a: "Report it with the “Report an error” link below the result: it opens an email to contact@optimce.be that states the data version, without your postcode. To check in the meantime, look at your electricity settlement or final bill: for a household, it gives the name and phone number of the network operator to call in case of a power cut."
-  - q: "Will the tool be built into the OptimCE application?"
-    a: "That is planned. When an energy community manager adds a meter in the application, it will suggest the municipality's network operator, which the manager can correct. Until then, the tool remains open to everyone, free of charge, on optimce.be."
+  - q: "Is the tool built into the OptimCE application?"
+    a: "Yes. When an energy community manager adds a meter in the application, it suggests the electricity network operator for the address, which the manager can correct. It relies on the same data as the tool, which remains open to everyone, free of charge, on optimce.be."
 ---
 
 To find your distribution network operator for electricity and gas, a postcode is now enough. Our free tool, [“Find your DSO”](/en/tools/find-my-dso/), gives the distribution system operator (DSO) for electricity and the one for natural gas in each of Belgium's 565 municipalities. The search runs in your browser, without an account. It is the first page of the site's new [Tools](/en/tools/) section.
@@ -63,9 +64,9 @@ When our sources fall short, the tool says so. In Walcourt and Marchin, the CWaP
 
 The compiled dataset is published under the CC BY 4.0 licence in the [belgian-dso-map](https://github.com/OptimCE/belgian-dso-map) repository on GitHub: anyone may reuse it, with credit. Each result shows the data version. If an answer looks wrong, the “Report an error” link below the result opens an email to contact@optimce.be that contains the data version, never your postcode.
 
-## Next: the tool inside the application
+## The tool inside the application
 
-We plan to build the same lookup into the OptimCE application: when a community manager adds a meter, the application will suggest the municipality's DSO, which the manager can correct. OptimCE covers the Walloon framework today; Brussels and Flanders are planned but not yet implemented.
+The same lookup is now built into the OptimCE application: when a community manager adds a meter, the application suggests the electricity DSO for the address, which the manager can correct. How the data is built and tested: [“DSO by municipality: behind the data”](/en/news/2026/11/21/dso-by-municipality-behind-the-data/). OptimCE covers the Walloon framework today; Brussels and Flanders are planned but not yet implemented.
 
 Leading a sharing project? Our guides explain how to [create an energy community in Wallonia](/en/guides/create-energy-community-wallonia/) or [join one](/en/guides/join-energy-community-wallonia/), and the [features](/en/features/) page shows what the application handles day to day.
 
@@ -93,9 +94,9 @@ Because your postcode is not always enough. Three postcodes cover two municipali
 
 Report it with the “Report an error” link below the result: it opens an email to contact@optimce.be that states the data version, without your postcode. To check in the meantime, look at your electricity settlement or final bill: for a household, it gives the name and phone number of the network operator to call in case of a power cut.
 
-### Will the tool be built into the OptimCE application?
+### Is the tool built into the OptimCE application?
 
-That is planned. When an energy community manager adds a meter in the application, it will suggest the municipality's network operator, which the manager can correct. Until then, the tool remains open to everyone, free of charge, on optimce.be.
+Yes. When an energy community manager adds a meter in the application, it suggests the electricity network operator for the address, which the manager can correct. It relies on the same data as the tool, which remains open to everyone, free of charge, on optimce.be.
 
 ## Sources
 

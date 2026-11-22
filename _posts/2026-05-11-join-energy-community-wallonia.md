@@ -9,7 +9,7 @@ tags: [community, administrative, guide]
 lang: en
 ref: join-energy-community-wallonia
 pillar: communautes-energie
-last_modified_at: 2026-11-10 06:00:00 +0100
+last_modified_at: 2026-11-22 06:00:00 +0100
 permalink: /en/guides/join-energy-community-wallonia/
 ---
 
@@ -183,7 +183,7 @@ Walloon cooperatives generally run on **“one member, one vote”**, regardless
 
 ### Smart meter and data privacy
 
-The smart meter is installed free of charge by the DSO if you don't already have one. **Consumption data** at 15-minute granularity is used **only for the sharing calculation**; you can consult it at any time on your DSO's portal.
+The smart meter is installed free of charge by the DSO if you don't already have one. Your **consumption data** at 15-minute granularity is used for the sharing calculation: every month the DSO sends it to the community's representative and, under metering regime 3, to your supplier. Any other use, such as showing your curve to other members, needs your consent. You can consult it at any time on your DSO's portal; the details are in [“Meter data in an energy community”](/en/guides/meter-data-energy-community/).
 
 ### Residual energy and total cost
 

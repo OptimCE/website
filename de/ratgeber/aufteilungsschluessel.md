@@ -2,13 +2,13 @@
 layout: pillar
 title: "Aufteilungsschlüssel: verstehen, wählen, testen"
 subtitle: "Was jede Region zulässt, wie Sie eine Schlüsselfamilie wählen und wie Sie sie auf Ihren eigenen Daten testen."
-description: "Aufteilungsschlüssel belgischer Energiegemeinschaften: was CWaPE, BRUGEL und VREG zulassen, Wahl der Schlüsselfamilie, Generierung und Simulation."
+description: "Aufteilungsschlüssel für Energiegemeinschaften: was CWaPE, BRUGEL und Vlaamse Nutsregulator zulassen, Wahl der Schlüsselfamilie, Generierung, Simulation."
 lang: de
 ref: pillar-cle-de-repartition
 pillar: cle-de-repartition
 permalink: /de/ratgeber/aufteilungsschluessel/
 breadcrumb_parent: guides
-last_modified_at: 2026-10-11
+last_modified_at: 2026-11-21
 sections:
   - title: "Den Schlüssel verstehen: was jede Region zulässt"
     refs: [allocation-key-belgium]
@@ -21,7 +21,7 @@ Belgien kennt drei Rahmenwerke, und unser [Vergleich der drei Regionen]({{ "allo
 
 - **Wallonie**: drei von der CWaPE veröffentlichte Standardschlüssel — egalitärer fester, spezifischer fester und verbrauchsbasierter dynamischer Schlüssel —, welche die VNB automatisch akzeptieren; jeder andere Schlüssel muss von der CWaPE genehmigt werden.
 - **Brüssel**: drei von Sibelga betriebene und von BRUGEL vorgesehene Methoden — fest (in einer oder mehreren Runden), prorata, hybrid —, die auf Antrag der einzigen Kontaktstelle jederzeit geändert werden können.
-- **Flandern**: keine vom VREG veröffentlichte Liste „standardisierter“ Schlüssel; maßgeblich ist das Fluvius-Protokoll, das drei *verdeelsleutels* unterstützt: vaste, relatieve und optimale.
+- **Flandern**: keine von der Vlaamse Nutsregulator (früher VREG) veröffentlichte Liste „standardisierter“ Schlüssel; maßgeblich ist das Fluvius-Protokoll, das drei *verdeelsleutels* unterstützt: vaste, relatieve und optimale.
 
 Hinter diesen drei Vokabularen stehen überall dieselben zwei Familien: **feste** Schlüssel, egalitär oder nach den Beiträgen der Mitglieder gewichtet, und **dynamische oder optimierte** Schlüssel, die dem tatsächlichen Verbrauch folgen. Die Wahl zwischen ihnen ist keine technische Frage, sondern eine Governance-Entscheidung: Gleichheit unter den Mitgliedern, Anerkennung der Investition oder Maximierung des kollektiven Eigenverbrauchs. Auch die Vielfalt der Profile zählt — sobald eine Schule oder ein KMU hinzukommt, ist strikte Gleichheit nicht mehr optimal —, ebenso die finanzielle Vorhersehbarkeit, die die Mitglieder erwarten. Schließlich erlauben alle drei Regionen, einen Schlüssel nach dem Start zu ändern: Planen Sie am besten von Anfang an eine jährliche Überprüfung in der Generalversammlung ein.
 

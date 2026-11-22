@@ -2,7 +2,7 @@
 layout: post
 title: "Strom sparen ohne Anbieterwechsel"
 date: 2026-08-05 04:00:00 +0200
-last_modified_at: 2026-11-10 06:00:00 +0100
+last_modified_at: 2026-11-21 06:00:00 +0100
 author: "Eric, OptimCE"
 excerpt: "Jeder Ratgeber zum Stromsparen endet mit demselben Satz: vergleichen und dann den Anbieter wechseln. Dabei gibt es einen Mechanismus, der die Rechnung senkt, ohne dass Sie irgendetwas kündigen müssen — die Energieteilung. Die Frage ist nicht, ob sie legal ist: das ist sie in allen drei Regionen. Die Frage ist, ob sie dort verfügbar ist, wo Sie wohnen, und zwei Zahlen umreißen die Antwort: 36 genehmigte Gemeinschaften in Brüssel und 13 gemeldete in der Wallonie, von denen nur sechs teilen, im November 2026."
 description: "Energieteilung senkt Ihre Stromrechnung, ohne den Vertrag zu kündigen. Was sie wirklich bringt und in welcher Region sie tatsächlich verfügbar ist."
@@ -89,7 +89,7 @@ Hier liegt der Kern des Themas. Die folgende Tabelle fasst die tatsächliche Ver
 
 | | Brüssel | Wallonie | Flandern |
 |---|---|---|---|
-| **Regulierungsbehörde / VNB** | Brugel / Sibelga | CWaPE / ORES, RESA, AIEG, AIESH, REW | VREG / Fluvius |
+| **Regulierungsbehörde / VNB** | Brugel / Sibelga | CWaPE / ORES, RESA, AIEG, AIESH, REW | Vlaamse Nutsregulator / Fluvius |
 | **Peer-to-Peer** | **in Betrieb** | **blockiert** — Dekret 2022, Ausführungserlass fehlt | in Betrieb |
 | **Gleiches Gebäude** | in Betrieb | in Betrieb | in Betrieb |
 | **Gemeinschaft** | in Betrieb | in Betrieb | in Betrieb |
@@ -125,11 +125,11 @@ Der Rahmen bewegt sich dennoch: Ein Erlass der Wallonischen Regierung vom **5. F
 
 Flandern zeigt das Spiegelbild der Wallonie: Der Rahmen ist offen — Teilung und Verkauf zwischen Privatpersonen sind möglich, Peer-to-Peer eingeschlossen —, aber der tarifliche Anreiz ist gleich null.
 
-Im Dezember 2023 nahmen **7 779 Zugangspunkte** an der Teilung oder am Verkauf von Energie teil, also **0,2 %** der flämischen Zugangspunkte, laut den von der VREG veröffentlichten Fluvius-Daten. Zwei wichtige Einschränkungen zu dieser Zahl: Sie fasst Teilung *und* Verkauf zusammen, und sie ist nicht mehr aktuell. Die VREG veröffentlicht ein **monatlich aktualisiertes** Dashboard (zuletzt erfasste Aktualisierung: 27. Juli 2026) — wenn Sie eine Entscheidung vorbereiten, holen Sie sich dort den Wert des laufenden Monats, statt sich auf diesen zu verlassen.
+Im Dezember 2023 nahmen **7 779 Zugangspunkte** an der Teilung oder am Verkauf von Energie teil, also **0,2 %** der flämischen Zugangspunkte, laut den von der Vlaamse Nutsregulator (früher VREG) veröffentlichten Fluvius-Daten. Zwei wichtige Einschränkungen zu dieser Zahl: Sie fasst Teilung *und* Verkauf zusammen, und sie ist nicht mehr aktuell. Die Vlaamse Nutsregulator veröffentlicht ein **monatlich aktualisiertes** Dashboard (zuletzt erfasste Aktualisierung: 27. Juli 2026) — wenn Sie eine Entscheidung vorbereiten, holen Sie sich dort den Wert des laufenden Monats, statt sich auf diesen zu verlassen.
 
 Die zweite flämische Erkenntnis ist noch nützlicher, weil sie die Erwartungen überall dämpft: Die Teilnehmer schaffen es, nur rund **20 % der Einspeisung** untereinander zu teilen, wo die anfänglichen theoretischen Schätzungen von 40 % ausgingen. Mit anderen Worten: **Die Hälfte des Potenzials geht im zeitlichen Versatz zwischen Erzeugung und Verbrauch verloren.** Das ist ein starkes Argument für einen gut konstruierten Aufteilungsschlüssel, ein Thema, das in [„Aufteilungsschlüssel in Belgien: die 3 Regionen“](/de/ratgeber/verteilungsschluessel-energiegemeinschaft-belgien/) behandelt wird.
 
-Schließlich beruht das flämische Verteilnetzentgelt seit Januar 2023 auf der Spitzenleistung und nicht mehr auf der entnommenen Energie: Es gibt daher **keine Ermäßigung des Netzentgelts** auf geteilte Energie, in keiner Konstellation. Der Gewinn beschränkt sich strikt auf die Differenz zwischen dem internen Preis und dem Preis Ihres Lieferanten. Die VREG weist zudem darauf hin, dass manche Lieferanten Kunden, die an einer Teilung teilnehmen, **Zusatzgebühren** berechnen — vor der Zusage zu prüfen, denn bei kleinen Mengen heben diese Gebühren den Vorteil auf.
+Schließlich beruht das flämische Verteilnetzentgelt seit Januar 2023 auf der Spitzenleistung und nicht mehr auf der entnommenen Energie: Es gibt daher **keine Ermäßigung des Netzentgelts** auf geteilte Energie, in keiner Konstellation. Der Gewinn beschränkt sich strikt auf die Differenz zwischen dem internen Preis und dem Preis Ihres Lieferanten. Die Vlaamse Nutsregulator weist zudem darauf hin, dass manche Lieferanten Kunden, die an einer Teilung teilnehmen, **Zusatzgebühren** berechnen — vor der Zusage zu prüfen, denn bei kleinen Mengen heben diese Gebühren den Vorteil auf.
 
 ## Was es tatsächlich bringt, und worauf genau
 
@@ -190,7 +190,7 @@ Was sich bewegt: Der Erlass vom 5. Februar 2026 hat den Rahmen von 2023 geänder
 
 **Wenn Sie in der Wallonie wohnen.** Prüfen Sie zuerst, ob Ihr Gebäude eine Teilung im gleichen Gebäude erlaubt — die einzige Konstellation, die den Verzicht auf eine juristische Person mit der Ermäßigung von 80 % des Arbeitspreisanteils verbindet. Andernfalls suchen Sie einen offenen Teilungsvorgang in der Nähe; der Ansprechpartner des SPW kann Sie dorthin lotsen, und das Gemeinschaftsverzeichnis von OptimCE, mit einem Konto einsehbar, zeigt einen Teil davon. Warten Sie mit dem Handeln nicht auf Peer-to-Peer: Es ist kein Zeitplan angekündigt.
 
-**Wenn Sie in Flandern wohnen.** Teilung und Verkauf stehen offen, auch zwischen Privatpersonen, aber ohne Netzvorteil: Der gesamte Gewinn stammt aus der Preisdifferenz. Zwei Prüfungen vor der Unterschrift — das VREG-Dashboard für die Zahlen des laufenden Monats und vor allem das Tarifblatt Ihres Lieferanten, denn manche berechnen Teilnehmern Zusatzgebühren, die den Vorteil bei kleinen Mengen aufheben.
+**Wenn Sie in Flandern wohnen.** Teilung und Verkauf stehen offen, auch zwischen Privatpersonen, aber ohne Netzvorteil: Der gesamte Gewinn stammt aus der Preisdifferenz. Zwei Prüfungen vor der Unterschrift — das Dashboard der Vlaamse Nutsregulator für die Zahlen des laufenden Monats und vor allem das Tarifblatt Ihres Lieferanten, denn manche berechnen Teilnehmern Zusatzgebühren, die den Vorteil bei kleinen Mengen aufheben.
 
 **In allen drei Fällen** geht eine Frage allen anderen voraus: **Wie viele Kilowattstunden wird Ihnen der Aufteilungsschlüssel tatsächlich zuweisen?** Die flämische Erfahrung — 20 % der Einspeisung tatsächlich geteilt statt der erhofften 40 % — zeigt, dass sich hier das Wesentliche entscheidet, weit mehr als bei der Preisverhandlung.
 
@@ -254,8 +254,8 @@ Die dokumentierte Größenordnung liegt bei rund **145 € pro Jahr** für einen
 - [Bruxelles Environnement — Teilung und Energiegemeinschaften](https://environnement.brussels/citoyen/agir-pour-lenvironnement/devenir-eco-responsable/partage-et-communautes-denergie) — Brüsseler Bürgerportal: die drei Konstellationen der Teilung und der kostenlose Ansprechpartner „Teilung und Energiegemeinschaften“.
 - [Bruxelles Environnement — Die Energieteilung war noch nie so einfach](https://environnement.brussels/citoyen/news/2026/le-partage-denergie-na-jamais-ete-aussi-simple) — Ankündigung vom 2. Juni 2026 der Plattform BEST (Brussels Energy Sharing Tool), entwickelt vom gemeinnützigen Verein Simply Energy mit Unterstützung von Bruxelles Environnement.
 - [Sibelga — Energieteilung](https://www.sibelga.be/en/connections-meters/renewable-energy/energy-sharing) — operative Funktionsweise auf Seiten des Brüsseler Netzbetreibers: die drei Formen der Teilung, die Pflicht zum intelligenten Zähler für jeden Teilnehmer und die Auswertung der Zählerstände in Viertelstundenintervallen.
-- [VREG — Dashboard „geteilte und verkaufte Energie“](https://www.vlaamsenutsregulator.be/cijfers/dashboard-energie-delen-en-verkopen) — monatlich aktualisierte Fluvius-Daten (zuletzt erfasste Aktualisierung: 27. Juli 2026) zur Zahl der Gruppen und Teilnehmer, zu den geteilten Mengen und zu Lieferanten, die Teilnehmern Zusatzgebühren berechnen.
-- [Futech — Wie viele Flamen betreiben Energieteilung?](https://futech.be/hoeveel-vlamingen-doen-aan-energiedelen/) — Wiedergabe der Zahlen von VREG und Fluvius: 7 779 Zugangspunkte mit Teilung oder Verkauf im Dezember 2023, also 0,2 % der flämischen Zugangspunkte, und rund 20 % der Einspeisung tatsächlich geteilt gegenüber 40 % erwartet.
+- [Vlaamse Nutsregulator — Dashboard „geteilte und verkaufte Energie“](https://www.vlaamsenutsregulator.be/cijfers/dashboard-energie-delen-en-verkopen) — monatlich aktualisierte Fluvius-Daten (zuletzt erfasste Aktualisierung: 27. Juli 2026) zur Zahl der Gruppen und Teilnehmer, zu den geteilten Mengen und zu Lieferanten, die Teilnehmern Zusatzgebühren berechnen.
+- [Futech — Wie viele Flamen betreiben Energieteilung?](https://futech.be/hoeveel-vlamingen-doen-aan-energiedelen/) — Wiedergabe der Zahlen der Vlaamse Nutsregulator und von Fluvius: 7 779 Zugangspunkte mit Teilung oder Verkauf im Dezember 2023, also 0,2 % der flämischen Zugangspunkte, und rund 20 % der Einspeisung tatsächlich geteilt gegenüber 40 % erwartet.
 - [CREG — Monatliches Dashboard](https://www.creg.be/fr/professionnels/fonctionnement-et-monitoring-du-marche/tableau-de-bord) — All-in-Preis von 36,94 c€/kWh und Aufteilung 38,5 / 29,7 / 26,1 / 5,7 % für ein Haushaltsprofil von 3 500 kWh/Jahr im Eintarif (hier verwendete Ausgabe: Juni 2026).
 - [Énergie Commune / Interreg Europe — Geschäftsmodell der Energieteilung](https://www.interregeurope.eu/sites/default/files/good_practices/8.%20EnergieCommune_EC_BM_Sharing_Interreg_Ghent.pdf) — dokumentierter Fall, der die Ersparnis eines Verbrauchers mit 500 kWh geteilter Energie pro Jahr auf rund 145 € zum Standardtarif beziffert, gegenüber rund 70 € für einen Haushalt, der bereits den Sozialtarif bezieht.
 - [CWaPE — ORES, periodische Entnahmetarife 2026](https://www.cwape.be/sites/default/files/cwape-documents/ORES%20-%20Tarifs%20p%C3%A9riodiques%20de%20pr%C3%A9l%C3%A8vement%202026_0.pdf) — am 18. Dezember 2025 genehmigtes Tarifblatt, Quelle der Ermäßigung von 80 % des Arbeitspreisanteils, die der Teilung innerhalb eines Gebäudes vorbehalten ist.

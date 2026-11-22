@@ -10,7 +10,7 @@ lang: fr
 ref: join-energy-community-wallonia
 pillar: communautes-energie
 permalink: /guides/rejoindre-communaute-energie-wallonie/
-last_modified_at: 2026-11-10 06:00:00 +0100
+last_modified_at: 2026-11-22 06:00:00 +0100
 ---
 
 En Wallonie, les communautés d'énergie sortent à peine de l'expérimentation : au 10 novembre 2026, la CWaPE avait autorisé douze activités de partage, dans six communautés, que notre [baromètre des partages autorisés](/guides/barometre-communautes-energie-wallonie/) recense une à une. Le cadre légal est stabilisé, les gestionnaires de réseau de distribution (GRD) sont rodés, et la majorité des compteurs sont déjà communicants. Reste un obstacle bien concret pour la plupart des citoyens, PME et autorités locales : **comment trouver une communauté qui accepte de nouveaux membres**, et **quoi vérifier avant de signer**.
@@ -183,7 +183,7 @@ Les coopératives wallonnes fonctionnent en règle générale en « **un membre 
 
 ### Compteur communicant et confidentialité
 
-Le compteur communicant est posé gratuitement par le GRD si vous n'en aviez pas. Les **données de consommation** au pas de 15 minutes sont utilisées **uniquement pour le calcul du partage** ; vous pouvez les consulter à tout moment sur le portail de votre GRD.
+Le compteur communicant est posé gratuitement par le GRD si vous n'en aviez pas. Vos **données de consommation** au pas de 15 minutes servent au calcul du partage : le GRD les transmet chaque mois au représentant de la communauté et, en régime 3, à votre fournisseur. Tout autre usage, comme montrer votre courbe aux autres membres, demande votre accord. Vous pouvez les consulter à tout moment sur le portail de votre GRD ; le détail est dans [« Données de comptage en communauté d'énergie »](/guides/donnees-comptage-communaute-energie/).
 
 ### Énergie résiduelle et coût total
 
