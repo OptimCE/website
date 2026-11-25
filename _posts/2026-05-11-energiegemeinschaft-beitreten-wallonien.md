@@ -9,7 +9,7 @@ tags: [community, administrative, guide]
 lang: de
 ref: join-energy-community-wallonia
 pillar: communautes-energie
-last_modified_at: 2026-11-22 06:00:00 +0100
+last_modified_at: 2026-11-24 06:00:00 +0100
 permalink: /de/ratgeber/energiegemeinschaft-beitreten-wallonien/
 ---
 
@@ -25,7 +25,7 @@ Einer bestehenden Gemeinschaft beizutreten ist ein deutlich kürzerer Weg als ei
 
 | Aspekt | Beitreten | Gründen |
 |---|---|---|
-| Typische Dauer | 6 bis 12 Wochen | 3 bis 6 Monate |
+| Dauer | 6 bis 12 Wochen als Größenordnung, höchstens 22 | 3 bis 6 Monate |
 | Rechtliche Verpflichtung | Mitgliedschaft in einer bestehenden juristischen Person | Gründung einer VoG oder Genossenschaft |
 | Investition | Beitrag oder Anteil (€10 bis €500 je nach Struktur) | Anfangskapital, Notarkosten, Begleitung |
 | Zielpublikum | Bürger, Mieter, KMU, Gemeinden auf Suche nach Teilung | Kollektive, Gemeinden, Erzeuger als Projektträger |
@@ -109,7 +109,7 @@ Insbesondere im ländlichen Raum bilden sich viele Gemeinschaften um eine kommun
 
 ## Die Schritte zum Beitritt — eins nach dem anderen
 
-Sobald eine Gemeinschaft identifiziert ist, folgt der Beitrittspfad in der Regel sechs Schritten. Das Tempo hängt vom Manager und Ihrer Situation ab, rechnen Sie aber mit **6 bis 12 Wochen** zwischen Erstkontakt und erster geteilter Kilowattstunde.
+Sobald eine Gemeinschaft identifiziert ist, folgt der Beitrittspfad in der Regel sechs Schritten. Das Tempo hängt vom Manager und Ihrer Situation ab, rechnen Sie aber als Größenordnung mit **6 bis 12 Wochen** zwischen Erstkontakt und erster geteilter Kilowattstunde. Die Höchstfristen reichen weiter: Den Beitritt eines Teilnehmers prüft der VNB, dann die CWaPE, und die Schritte ergeben zusammen **110 Werktage**, also 22 Wochen ([CWaPE, Leitfaden zur Änderung einer Teilung, Juli 2025, auf Französisch](https://www.cwape.be/documents/download/6017)).
 
 ### Schritt 1 — Den Manager kontaktieren
 
@@ -145,7 +145,7 @@ Je nach Rechtsform der Gemeinschaft variieren die Formalitäten:
 
 Gute Nachricht für Sie: In diesem Schritt **müssen Sie nichts tun**. Der Manager der Gemeinschaft übermittelt Ihren EAN an Ihren VNB, der Sie an einem vereinbarten Datum zur Teilungsoperation hinzufügt. Kein Lieferantenwechsel, keine Kündigung, kein neuer Vertrag auf Energieseite.
 
-Die Dauer zwischen Unterzeichnung und erster geteilter kWh beträgt typischerweise **4 bis 8 Wochen**. Der limitierende Faktor ist die VNB-Planung sowie gegebenenfalls die Installation eines intelligenten Zählers, falls Sie noch keinen hatten.
+Die Dauer zwischen Unterzeichnung und erster geteilter kWh liegt bei **4 bis 8 Wochen**, wenn jeder Schritt schnell geht, und bei höchstens 110 Werktagen, wenn jeder seine volle Frist braucht. Ausschlaggebend sind die Prüfung durch den VNB und die CWaPE sowie gegebenenfalls die Installation eines intelligenten Zählers, falls Sie noch keinen hatten.
 
 ### Schritt 6 — Erste Abrechnung und Nachverfolgung
 
@@ -209,7 +209,7 @@ Die Einsparung hängt von der Deckungsrate (30 bis 60 %) und dem Abstand zwische
 
 ### Was passiert, wenn ich während der Mitgliedschaft umziehe?
 
-Die Teilung ist an Ihren **EAN** gekoppelt. Verlassen Sie den Perimeter (bei einer CER) oder wechseln Sie den VNB, scheiden Sie automatisch aus der Operation aus. Die in der Vereinbarung vorgesehene Kündigungsfrist gilt für die Verwaltungsformalitäten; der physische Teilungsmechanismus selbst endet, sobald Ihr EAN am Lieferpunkt nicht mehr aktiv ist.
+Ihre Teilnahme zieht nicht mit: Sie hängt am **EAN** der Wohnung, die Sie verlassen. Der Vertreter der Gemeinschaft beantragt beim VNB Ihren Austritt, was höchstens zehn Wochen dauert; ab dem 30. November 2026 nimmt der VNB einen Teilnehmer auch von sich aus heraus, sobald er erfährt, dass er nicht mehr Inhaber des Zugangspunkts ist. Ein Wechsel des VNB hindert Sie nicht daran, wieder zu teilen, aber es braucht einen neuen Beitritt und bei einer CER eine Adresse im Perimeter. Ihre Mitgliedschaft richtet sich nach den Statuten und der Kündigungsfrist der Vereinbarung. Die Einzelheiten stehen in [„Umzug in der Wallonie: Strom richtig ummelden“](/de/ratgeber/umzug-strom-ummelden-wallonie/).
 
 ### Kann ich gleichzeitig mehreren Gemeinschaften beitreten?
 
@@ -217,7 +217,7 @@ Theoretisch ja, aber **ein EAN kann nur an einer einzigen Teilungsoperation glei
 
 ### Wie lange dauert der Beitritt vom Erstkontakt bis zur ersten geteilten kWh?
 
-Im Durchschnitt **6 bis 12 Wochen**. Der limitierende Faktor ist die VNB-Planung für die Integration Ihres EAN in die Operation, gegebenenfalls verlängert durch die Installation eines intelligenten Zählers.
+Etwa **6 bis 12 Wochen**, und bis zu 110 Werktage, wenn jeder Schritt seine volle Frist braucht. Ausschlaggebend ist die Prüfung Ihres Beitritts durch den VNB und die CWaPE, gegebenenfalls verlängert durch die Installation eines intelligenten Zählers.
 
 ### Muss ich Eigentümer sein, um beitreten zu können?
 
@@ -247,6 +247,7 @@ Für den allgemeinen Kontext — was eine Energiegemeinschaft ist und welche eur
 
 - [CWaPE — Energiegemeinschaften und Energieteilung](https://www.cwape.be/secteur/communautes-partage-energie) — wallonischer Rahmen der Beitrittsvoraussetzungen und der Teilung.
 - [CWaPE — Verfahren zur Gründung einer Energiegemeinschaft](https://www.cwape.be/node/6052) — Standardformular, Liste der zulässigen Mitglieder, Meldung.
+- [CWaPE — Erläuterungen zum Formular für die Änderung einer Stromteilung, Juli 2025](https://www.cwape.be/documents/download/6017) (auf Französisch) — Beitritt eines Teilnehmers vom VNB und dann von der CWaPE geprüft, Austritt allein beim VNB, Höchstfristen.
 - [SPW Énergie — Energiegemeinschaften und Energieteilung](https://energie.wallonie.be) — Rolle des Facilitators und offizielle Aufklärung.
 - [Énergie commune — Gemeinschaft](https://energiecommune.be) — Vermittlungsformular für Bürger auf der Suche nach einer wallonischen Gemeinschaft.
 - [Énergie+ — Wie eine Energiegemeinschaft in der Wallonie aufsetzen](https://energieplus-lesite.be/webinaire/comment-mettre-en-place-une-communaute-denergie-en-wallonie/) — Logik des Beitritts und der Teilnahme.

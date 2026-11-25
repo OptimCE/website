@@ -9,7 +9,7 @@ tags: [community, administrative, guide]
 lang: nl
 ref: create-energy-community-wallonia
 pillar: communautes-energie
-last_modified_at: 2026-11-13 08:00:00 +0100
+last_modified_at: 2026-11-25 06:00:00 +0100
 permalink: /nl/gidsen/energiegemeenschap-oprichten-wallonie/
 ---
 
@@ -213,7 +213,7 @@ Ja. **Lokale overheden** (gemeenten, intercommunales, OCMW's — en **alle schol
 
 ## Liever toetreden tot een bestaande gemeenschap?
 
-Lijkt een gemeenschap van nul oprichten te zwaar, dan is **toetreden tot een bestaande deelactie** veel sneller — doorgaans 6 tot 12 weken tussen het eerste contact en de eerste gedeelde kilowattuur. Zie onze praktische gids:
+Lijkt een gemeenschap van nul oprichten te zwaar, dan is **toetreden tot een bestaande deelactie** lichter: de rechtspersoon en de toelating om te delen bestaan al. Reken als richtwaarde op **6 tot 12 weken** tussen het eerste contact en de eerste gedeelde kilowattuur, en tot 110 werkdagen als elke stap zijn volle termijn neemt, want de DNB en daarna de CWaPE onderzoeken de toevoeging van een deelnemer ([CWaPE, gids voor de wijziging van een energiedeling, juli 2025, in het Frans](https://www.cwape.be/documents/download/6017)). Zie onze praktische gids:
 
 > **[Toetreden tot een energiegemeenschap in Wallonië](/nl/gidsen/energiegemeenschap-aansluiten-wallonie/)**
 >
@@ -228,6 +228,7 @@ Om te starten of de functies te vergelijken, raadpleeg de [gebruikersgids van Op
 ## Bronnen
 
 - [CWaPE — Wat is de procedure om een energiegemeenschap op te richten?](https://www.cwape.be/node/6052) — verplichte melding, standaardformulier, termijn van 10 werkdagen voor de ontvangstbevestiging.
+- [CWaPE — Toelichting bij het formulier voor de wijziging van een energiedeling, juli 2025](https://www.cwape.be/documents/download/6017) (in het Frans) — toevoeging van een deelnemer onderzocht door de DNB en dan de CWaPE, maximumtermijnen.
 - [CWaPE — Energiegemeenschappen](https://www.cwape.be/node/158) — Waals kader, soorten gemeenschappen, juridische grondslagen, melding en jaarlijkse rapportage.
 - [CWaPE — Energiegemeenschappen en energiedelen](https://www.cwape.be/secteur/communautes-partage-energie) — algemeen Waals kader voor delen en gemeenschappen.
 - [CWaPE — De netbeheerders](https://www.cwape.be/node/160) — de vijf distributienetbeheerders voor elektriciteit in Wallonië, van wie er twee, ORES en RESA, ook gas verdelen.

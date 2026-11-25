@@ -9,7 +9,7 @@ tags: [guide, community]
 lang: en
 ref: smart-meter-wallonia
 pillar: reseau-grd
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-24
 permalink: /en/guides/smart-meter-wallonia/
 faq:
   - q: "How do I request a smart meter in Wallonia?"
@@ -43,7 +43,7 @@ Two things are often confused:
 
 Even when communication is active, the meter does not send everything to the market. The electricity decree is explicit: by default, “seuls les index du compteur et les volumes d'énergie sont utilisés dans les processus de marché” (only the meter readings and energy volumes are used in market processes), and they are passed to suppliers once a year (article 35*ter* § 2). Your quarter-hour consumption curve only leaves the DSO if you ask for it.
 
-The technical regulation approved by the CWaPE on 27 August 2026 calls these levels “metering regimes”:
+The technical regulation approved by the CWaPE on 27 August 2026, in force on 30 November 2026, calls these levels “metering regimes”:
 
 | Regime | When it applies | What the DSO sends to the market |
 |---|---|---|
@@ -51,7 +51,7 @@ The technical regulation approved by the CWaPE on 27 August 2026 calls these lev
 | R1 | default, communication active | start and end readings, volumes per time band; once a year, or monthly on request |
 | R3 | on explicit request, through your supplier | also the quarter-hour load curve, at least monthly |
 
-*Assumptions: Walloon technical regulation for electricity distribution networks, article V.45bis, in the version approved by the CWaPE on 27 August 2026. Suppliers also call R3 “SMR3”; it is mandatory for a dynamic-price offer and for energy sharing.*
+*Assumptions: Walloon technical regulation for electricity distribution networks, article V.45bis, in the version in force on 30 November 2026. Suppliers also call R3 “SMR3”; it is mandatory for a dynamic-price offer and for energy sharing.*
 
 A smart meter is not the only remotely read meter either. Larger connections often have an AMR meter, read remotely per quarter-hour, which the energy-sharing rules also accept. For a household, the smart meter is the normal route.
 
@@ -195,7 +195,7 @@ Yes, or an AMR meter, with communication active and regime R3 requested from you
 - [Wallex — Decree of 12 April 2001 on the organisation of the regional electricity market, consolidated version](https://wallex.wallonie.be/eli/loi-decret/2001/04/12/2001027238) — article 35 § 1 (installation at every supply point, exceptions, 100% by 31 December 2029, wording of the decree of 19 December 2025) and § 3 (refusing or switching off the communication function and its seven consequences), article 35*bis* §§ 1 and 4 (near real-time information, output port off by default), article 35*ter* §§ 2 and 3 (default metering regime, annual transmission, free consultation), article 35*septies* § 3 (prior consent for third-party access), articles 35*octies* § 3, 35*nonies* and 35*quaterdecies* (meter required for sharing). Version in force on 2 November 2026, accessed on 2 November 2026.
 - [Wallex — Decree of 19 December 2025 laying down various provisions on energy](https://wallex.wallonie.be/files/pdfs/22/124958_D%C3%A9cret_portant_dispositions_diverses_en_mati%C3%A8re_d'%C3%A9nergie_09-01-2026-.pdf) — article 26, rewriting article 35 of the electricity decree, in force on 9 January 2026. Accessed on 2 November 2026.
 - [Wallex — Walloon government order of 1 December 2022 on communicating meters](https://wallex.wallonie.be/eli/arrete/2022/12/01/2022034594) — article 2 (request, acknowledgement, offer, installation within four months, meter cost borne by the DSO), article 3 § 1 (producers of 10 kVA or less since 1 January 2024), article 4 (consultation platform, 24 months, export). Accessed on 2 November 2026.
-- [CWaPE — Decision CD-26h27-CWaPE-1284 approving the technical regulation for electricity distribution networks in Wallonia](https://www.cwape.be/sites/default/files/cwape-documents/CD-26h27-CWaPE-1284-D%C3%A9cision%20d%27approbation%20du%20RTDE%20%26%20annexes_site.pdf) — article V.45*bis* (regimes R0, R1, R3; R3 mandatory for sharing and dynamic-price offers), article IX.14 (quarter-hour allocation). Document of 27 August 2026, accessed on 2 November 2026.
+- [CWaPE — Decision CD-26h27-CWaPE-1284 approving the technical regulation for electricity distribution networks in Wallonia](https://www.cwape.be/sites/default/files/cwape-documents/CD-26h27-CWaPE-1284-D%C3%A9cision%20d%27approbation%20du%20RTDE%20%26%20annexes_site.pdf) — article V.45*bis* (regimes R0, R1, R3; R3 mandatory for sharing and dynamic-price offers), article IX.14 (quarter-hour allocation). Document of 27 August 2026, [published in the Belgian Official Gazette on 20 November 2026](https://www.ejustice.just.fgov.be/cgi/article_body.pl?language=fr&caller=summary&pub_date=2026-11-20&numac=2026007520) and in force on 30 November 2026, accessed on 2 and 24 November 2026.
 - [CWaPE — 2025 general annual report](https://www.cwape.be/sites/default/files/cwape-documents/2026.07.03-RAG%202025.pdf) — more than 537,000 electricity smart meters at the end of 2025, about 28% of meters; free meter replacement, remote operations and activation; switching off charged more than two weeks after installation. Report of 3 July 2026, accessed on 2 November 2026.
 - [CWaPE — 2025 specific annual report on public service obligations](https://www.cwape.be/sites/default/files/cwape-documents/2026.07.03-RAS%20OSP%202025.pdf) — end of budget meters on 1 January 2026, 59,294 active prepayment meters of which 98.8% are smart meters. Report of 3 July 2026, accessed on 2 November 2026.
 - [CWaPE — Incentive tariff FAQ](https://cwape.be/sites/default/files/cwape-documents/2024.07.15-Tarification%20incitative-FAQ.pdf) — smart meter with active communication, 56 kVA or less. Document of 15 July 2024. [CWaPE — Press kit on distribution tariffs](https://www.cwape.be/sites/default/files/cwape-documents/2025.11.03-Tarifs%20distribution_dossier%20de%20presse%20-%20final.pdf) — refusal to impose R3 for the Impact tariff, definition of R1 and R3. Document of 3 November 2025. Accessed on 2 November 2026.

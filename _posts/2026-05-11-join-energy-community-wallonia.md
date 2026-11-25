@@ -9,7 +9,7 @@ tags: [community, administrative, guide]
 lang: en
 ref: join-energy-community-wallonia
 pillar: communautes-energie
-last_modified_at: 2026-11-22 06:00:00 +0100
+last_modified_at: 2026-11-24 06:00:00 +0100
 permalink: /en/guides/join-energy-community-wallonia/
 ---
 
@@ -25,7 +25,7 @@ Joining an existing community is a much shorter path than creating one. The diff
 
 | Aspect | Joining | Creating |
 |---|---|---|
-| Typical timeline | 6 to 12 weeks | 3 to 6 months |
+| Timeline | 6 to 12 weeks as a rough guide, up to 22 at the maximum | 3 to 6 months |
 | Legal commitment | Membership in an existing legal entity | Incorporation of an ASBL or cooperative |
 | Investment | Membership fee or share (€10 to €500 depending on the structure) | Initial capital, notarial fees, advisory support |
 | Audience | Citizens, tenants, SMEs, municipalities seeking sharing | Collectives, municipalities, producers leading the project |
@@ -109,7 +109,7 @@ Especially in rural areas, many communities form around a municipal initiative, 
 
 ## Steps to enrol — one by one
 
-Once you've identified a community, enrolment generally follows six steps. The pace depends on the manager and your situation, but plan for **6 to 12 weeks** between first contact and first shared kilowatt-hour.
+Once you've identified a community, enrolment generally follows six steps. The pace depends on the manager and your situation, but plan for **6 to 12 weeks**, as a rough guide, between first contact and first shared kilowatt-hour. The maximum is longer: adding a participant is examined by the DSO, then by the CWaPE, and the steps add up to **110 working days**, or 22 weeks ([CWaPE, guide to modifying a sharing scheme, July 2025, in French](https://www.cwape.be/documents/download/6017)).
 
 ### Step 1 — Contact the community manager
 
@@ -145,7 +145,7 @@ Depending on the community's legal structure, formalities vary:
 
 Good news for you: at this step, **you have nothing to do**. The community manager transmits your EAN to your DSO, which adds you to the sharing operation on an agreed date. No supplier change, no contract termination, no new contract to sign on the energy side.
 
-The delay between signature and first shared kWh is typically **4 to 8 weeks**. The limiting factor is DSO scheduling, plus a potential smart-meter installation if you didn't have one.
+The delay between signature and first shared kWh is around **4 to 8 weeks** when every step moves fast, and 110 working days at most if each one takes its full time. The limiting factors are the examination of the addition by the DSO and the CWaPE, plus a potential smart-meter installation if you didn't have one.
 
 ### Step 6 — First statement and tracking
 
@@ -209,7 +209,7 @@ Savings depend on the coverage rate (30 to 60 %) and the gap between the interna
 
 ### What happens if I move during my membership?
 
-Sharing is tied to your **EAN**. If you leave the perimeter (for a CER) or change DSO, you automatically leave the operation. The notice period in the agreement applies for administrative formalities; the physical sharing mechanism itself stops as soon as your EAN is no longer active at the delivery point.
+Your participation does not follow you: it is attached to the **EAN** of the home you leave. The community's representative asks the DSO to withdraw you, which takes ten weeks at most; from 30 November 2026, the DSO also withdraws a participant on its own initiative once it learns that they no longer hold the access point. Changing DSO does not stop you sharing again, but you need to be added anew and, for a CER, to live within the perimeter. Your membership follows the statutes and the notice period in the agreement. The details are in [“Moving house in Wallonia: electricity steps”](/en/guides/moving-house-electricity-wallonia/).
 
 ### Can I join several communities at the same time?
 
@@ -217,7 +217,7 @@ Theoretically yes, but **one EAN can only participate in a single sharing operat
 
 ### How long does enrolment take, from first contact to first shared kWh?
 
-On average **6 to 12 weeks**. The limiting factor is DSO scheduling for integration of your EAN into the operation, plus a potential smart-meter installation if you didn't have one.
+Around **6 to 12 weeks**, and up to 110 working days if every step takes its full time. The limiting factors are the examination of your addition by the DSO and the CWaPE, plus a potential smart-meter installation if you didn't have one.
 
 ### Do I have to be a homeowner to join?
 
@@ -247,6 +247,7 @@ For the broader context — what an energy community is and the European foundat
 
 - [CWaPE — Energy communities and energy sharing](https://www.cwape.be/secteur/communautes-partage-energie) — Walloon framework of enrolment conditions and sharing.
 - [CWaPE — Procedure to create an energy community](https://www.cwape.be/node/6052) — standard form, list of eligible members, notification.
+- [CWaPE — Explanatory guide to the form for modifying electricity sharing, July 2025](https://www.cwape.be/documents/download/6017) (in French) — addition of a participant examined by the DSO then the CWaPE, withdrawal handled by the DSO alone, maximum times.
 - [SPW Énergie — Energy communities and energy sharing](https://energie.wallonie.be) — facilitator role and official plain-language overview.
 - [Énergie commune — Community](https://energiecommune.be) — matchmaking form for citizens looking for a Walloon community.
 - [Énergie+ — How to set up an energy community in Wallonia](https://energieplus-lesite.be/webinaire/comment-mettre-en-place-une-communaute-denergie-en-wallonie/) — membership and participation logic.

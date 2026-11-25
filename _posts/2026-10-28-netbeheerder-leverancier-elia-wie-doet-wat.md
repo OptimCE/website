@@ -9,7 +9,7 @@ tags: [guide]
 lang: nl
 ref: dso-supplier-roles
 pillar: reseau-grd
-last_modified_at: 2026-11-21 06:00:00 +0100
+last_modified_at: 2026-11-24 06:00:00 +0100
 permalink: /nl/gidsen/netbeheerder-leverancier-elia-wie-doet-wat/
 faq:
   - q: "Wat is het verschil tussen de netbeheerder en de energieleverancier?"
@@ -150,6 +150,7 @@ Binnen het netblok weegt de distributie veel zwaarder dan het transport. Volgens
 | EAN-code kwijt | uw netbeheerder | hij kent de code toe |
 | Prijs, voorschotten, factuur, contract | uw leverancier | hij bepaalt de prijs en beheert het contract |
 | Van leverancier veranderen | de nieuwe leverancier | hij zegt het oude contract voor u op |
+| [Verhuizen](/nl/gidsen/verhuizen-elektriciteit-wallonie/) | uw leverancier | het contract kan mee naar het nieuwe adres, niet naar een ander gewest |
 | Betalingsmoeilijkheden | uw leverancier, dan uw OCMW | de leverancier start de procedure; de netbeheerder plaatst of activeert de budgetmeter |
 | Klacht die niet is opgelost | gewestelijke of federale ombudsdienst | naargelang ze over het net of het contract gaat |
 

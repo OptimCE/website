@@ -9,6 +9,7 @@ tags: [guide]
 lang: en
 ref: meter-reading-index
 pillar: reseau-grd
+last_modified_at: 2026-11-24 06:00:00 +0100
 permalink: /en/guides/electricity-meter-reading-wallonia/
 faq:
   - q: "How do I submit my meter reading to ORES?"
@@ -18,7 +19,7 @@ faq:
   - q: "How do I read a dual-rate meter?"
     a: "A dual-rate meter has two readings: peak hours, marked with a sun, a I, a 1 or the code 1.8.1, and off-peak hours, marked with a moon, a II, a 2 or the code 1.8.2. Note both, without the digits after the decimal separator, after checking that the meter number matches the one on your letter. An indicator, a small arrow or a triangle that turns green, shows which register is running when you read it. In Wallonia, since 1 January 2026, off-peak hours run from 11:00 to 17:00 and from 22:00 to 07:00, seven days a week, at every grid operator."
   - q: "What happens if I forget to send my meter reading?"
-    a: "The grid operator estimates your consumption and passes the estimate to your supplier. The Walloon technical regulation requires it: missing data are replaced by values calculated on objective criteria, in practice from your consumption history. The bill must state whether the reading is actual or estimated. If your consumption has changed, the gap is not lost: it is caught up on a later bill, often the annual settlement. The new technical regulation, approved in August 2026 but not yet in force, will allow an upward estimate when the reading is missing because of the customer."
+    a: "The grid operator estimates your consumption and passes the estimate to your supplier. The Walloon technical regulation requires it: missing data are replaced by values calculated on objective criteria, in practice from your consumption history. The bill must state whether the reading is actual or estimated. If your consumption has changed, the gap is not lost: it is caught up on a later bill, often the annual settlement. From 30 November 2026, the new technical regulation allows an upward estimate where a first estimate already had to be made because of the customer."
   - q: "My reading is wrong or estimated: how do I get it corrected?"
     a: "It depends on the grid operator. At ORES, contact your supplier, which asks ORES for a new reading and the correction. At RESA, go through the supplier or write to mri@resa.be with a dated photo of your meter. At AIEG and REW, a meter reader visits and corrects the reading after the visit. The Walloon technical regulation lets you send a new reading only once per annual statement. A new physical reading is free if the grid operator made the mistake, and charged otherwise. To dispute a settlement bill, a written complaint is still needed."
   - q: "Do I need to read my meter when I move house?"
@@ -60,7 +61,7 @@ A meter shows a reading, or *index*: the total kilowatt-hours (kWh) that have pa
 
 ## When the DSO asks for a reading
 
-The Walloon technical regulation for distribution grids (RTDE, article V.54, § 2) requires every customer to let the DSO read the meter at least once a year, and to send the readings themselves “if the DSO asks and/or if they were absent during the reading visits”. Without remote reading, the DSO must visit at least once every twenty-four months; the CWaPE, the Walloon regulator, sums it up as “every other year”.
+The Walloon technical regulation for distribution grids (RTDE, article V.54, § 3) requires every customer to let the DSO read the meter at least once a year, and to send the readings themselves “if the DSO asks and/or if they were absent during the reading visits”. Without remote reading, the DSO must visit at least once every twenty-four months; the CWaPE, the Walloon regulator, sums it up as “every other year”.
 
 - **ORES**: “every other year, a meter reader comes to read your meter”; in the other year, a letter or email invites you to send your readings.
 - **RESA**: an invitation every year; a meter reader visits “when we consider it necessary”, but not if you have already sent your readings. The reading period for your address can be looked up on its website with the EAN code.
@@ -110,7 +111,7 @@ An estimate repeats the past and misses what has changed: a heat pump, a child b
 
 A reading you took yourself can be replaced “only once per annual statement”, with any supporting evidence (RTDE, article V.76, § 3). A new physical reading is free if the DSO made the mistake, and charged at the CWaPE-approved rate otherwise (articles V.58 and V.76, § 2). If a settlement or closing bill based on an estimated reading leaves you in debt, the formal notice entitles you to ask for a free reading (Walloon Government Order of 30 March 2006, article 30). The twenty-four-month limit and the written complaint are in [the settlement bill guide](/en/guides/electricity-settlement-bill-too-high-what-to-do/).
 
-**What is changing.** The new RTDE, approved by the CWaPE on 27 August 2026 but not yet published in the Belgian Official Gazette, will allow the DSO to “estimate upwards” when the reading is missing because of the customer.
+**What changes on 30 November 2026.** The new RTDE, published in the Belgian Official Gazette on 20 November, allows the DSO to “estimate upwards” at a point where a first estimate was already made because the reading was missing through the customer's doing, using a method approved by the CWaPE (article V.56, § 4).
 
 ## Readings to take yourself: moving house, changing supplier
 
@@ -118,11 +119,11 @@ A reading you took yourself can be replaced “only once per annual statement”
 
 **When you change supplier**, ORES and RESA invite you to send your readings; the CWaPE advises giving the reading to both the old and the new supplier.
 
-With a smart meter, the DSO reads remotely in both cases, and RESA considers it unnecessary to write the readings on the takeover form. The CWaPE still asks for the form when you move.
+With a smart meter, the DSO reads remotely in both cases, and RESA considers it unnecessary to write the readings on the takeover form. The CWaPE still asks for the form when you move. The rest of the procedure, from the contract to a closed meter, is in [“Moving house in Wallonia: electricity steps”](/en/guides/moving-house-electricity-wallonia/).
 
 ## With a smart meter, nothing left to do
 
-An active smart meter is read remotely: the RTDE uses the readings recorded at 00:00:00 and gives remote readings precedence over those you might send (article V.63, § 3). At ORES, readings go to the DSO every day and to the supplier once a year. AIEG reads on 1 November for its 2026 campaign; REW on 1 April in Limal, 1 May in Bierges, 1 October for Wavre 1 and 1 November for Wavre 2.
+An active smart meter is read remotely: the RTDE uses the readings recorded at 00:00:00 and gives remote readings precedence over those you might send (article V.63*bis*, § 1). At ORES, readings go to the DSO every day and to the supplier once a year. AIEG reads on 1 November for its 2026 campaign; REW on 1 April in Limal, 1 May in Bierges, 1 October for Wavre 1 and 1 November for Wavre 2.
 
 Two cases bring back manual reading: a deactivated communication function, which requires a reading “when a market process requires it” (Walloon electricity decree, article 35, § 3), and a meter that does not communicate yet, which RESA treats as a conventional meter. The rest, from the P1 port to energy sharing, is in [the smart meter guide](/en/guides/smart-meter-wallonia/).
 
@@ -176,7 +177,7 @@ Yes, together with the next occupant, on the CWaPE's energy takeover form, in tw
 
 - [Wallex — Decree of 12 April 2001 on the organisation of the regional electricity market, consolidated version](https://wallex.wallonie.be/eli/loi-decret/2001/04/12/2001027238) (in French) — article 34, § 1, 2° (validation and transmission of customers' readings, at most once every three months, instalment adjustment), article 35, § 3 (manual reading when the communication function is deactivated). Accessed on 14 November 2026.
 - [CWaPE — Technical regulation for the management of electricity distribution grids in Wallonia, proposal CD-21a29-CWaPE-1874](https://www.cwape.be/documents/download/4448) (in French), approved by the Walloon Government Order of 27 May 2021 — articles V.54, § 2 (reading at least once a year, readings sent at the DSO's request, physical reading at least once every twenty-four months), V.56 (estimate by fair values), V.58 (additional reading), V.63, § 3 (00:00:00 readings, precedence of remote reading), V.70, § 2 (reading window), V.76, §§ 2 and 3 (dispute, new reading once per statement). Accessed on 14 November 2026.
-- [CWaPE — Decision CD-26h27-CWaPE-1284 approving the technical regulation](https://www.cwape.be/sites/default/files/cwape-documents/CD-26h27-CWaPE-1284-D%C3%A9cision%20d%27approbation%20du%20RTDE%20%26%20annexes_site.pdf) (in French) — article V.56 (upward estimate when the reading is missing because of the user). Document of 27 August 2026, not yet published in the Belgian Official Gazette, accessed on 14 November 2026.
+- [CWaPE — Decision CD-26h27-CWaPE-1284 approving the technical regulation](https://www.cwape.be/sites/default/files/cwape-documents/CD-26h27-CWaPE-1284-D%C3%A9cision%20d%27approbation%20du%20RTDE%20%26%20annexes_site.pdf) (in French) — articles V.54, § 3 (reading, formerly § 2), V.56, § 4 (upward estimate), V.63*bis*, § 1 (precedence of remote readings, formerly V.63, § 3). Document of 27 August 2026, [published in the Belgian Official Gazette on 20 November 2026](https://www.ejustice.just.fgov.be/cgi/article_body.pl?language=fr&caller=summary&pub_date=2026-11-20&numac=2026007520) and in force on 30 November 2026, accessed on 14 and 24 November 2026.
 - [Wallex — Walloon Government Order of 30 March 2006 on public service obligations in the electricity market](https://wallex.wallonie.be/eli/arrete/2006/03/30/2006201391) (in French) — article 3*bis* (supplier's channels and deadlines for readings, written confirmation of a phoned reading within seven days), article 30 (free reading when the debt comes from a settlement or closing bill based on an estimated reading). Accessed on 14 November 2026.
 - [Belgian Official Gazette — Royal Decree of 9 December 2021 setting the other minimum requirements for gas and electricity bills and billing information](https://www.ejustice.just.fgov.be/cgi/article_body.pl?language=fr&caller=summary&pub_date=2021-12-20&numac=2021022724) (in French) — article 4 (opening and closing readings, dates, actual or estimated consumption). Accessed on 14 November 2026.
 - [CWaPE — Guidelines CD-24f27-CWaPE-0055](https://www.cwape.be/sites/default/files/2024-07/Lignes%20directrices%20CD-24f27-CWaPE-0055_0.pdf) (in French) — § 7.2, peak and off-peak hours of the dual rate, identical at every DSO since 1 January 2026. Document of 27 June 2024, accessed on 14 November 2026.

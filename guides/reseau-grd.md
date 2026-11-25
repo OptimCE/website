@@ -2,13 +2,13 @@
 layout: pillar
 title: "Réseau et GRD : gestionnaire, compteur, code EAN"
 subtitle: "Qui gère le réseau jusqu'à votre compteur, qui appeler pour quoi, et ce que le compteur communicant change pour vous."
-description: "Réseau et GRD en Wallonie : qui fait quoi entre gestionnaire de réseau et fournisseur, tarifs de distribution, code EAN et compteur communicant."
+description: "Réseau et GRD en Wallonie : qui fait quoi entre GRD et fournisseur, tarifs de distribution, code EAN, compteur communicant et déménagement."
 lang: fr
 ref: pillar-reseau-grd
 pillar: reseau-grd
 permalink: /guides/reseau-grd/
 breadcrumb_parent: guides
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-24
 sections:
   - title: "Comprendre qui fait quoi"
     refs: [dso-supplier-roles, ean-code-belgium]
@@ -16,6 +16,8 @@ sections:
     refs: [distribution-tariffs-dso-wallonia]
   - title: "Votre compteur"
     refs: [meter-reading-index, smart-meter-wallonia]
+  - title: "Changer d'adresse"
+    refs: [moving-house-electricity]
 ---
 Votre facture d'électricité ne porte qu'un nom, celui de votre fournisseur. Ce n'est pourtant pas lui qui vous amène le courant. Le fournisseur vous vend l'énergie et encaisse toute la facture ; le gestionnaire de réseau de distribution (GRD) l'achemine jusqu'à votre compteur, relève vos index et répare les pannes. Le premier, vous le choisissez. Le second, jamais : il est désigné pour un territoire et dépend de votre adresse. En Wallonie, cinq GRD se partagent l'électricité, ORES, RESA, l'AIEG, l'AIESH et le REW, et seuls ORES et RESA distribuent aussi le gaz. [Notre outil « Quel est mon GRD ? »]({{ "tool-dso" | ref_url }}) donne le vôtre, pour l'électricité et pour le gaz, à partir de votre code postal.
 
@@ -36,4 +38,6 @@ Le compteur, lui, change de nature. Depuis janvier 2026, chaque point de fournit
 
 Ces données au quart d'heure sont aussi la condition du partage d'énergie. Dans une opération de partage, c'est le GRD qui relève les données de chaque participant et applique la clé de répartition, qui fixe la part d'électricité partagée attribuée à chacun. Pour un ménage, participer suppose en pratique un compteur communicant dont la fonction communicante est active. [« Compteur communicant en Wallonie : le guide »]({{ "smart-meter-wallonia" | ref_url }}) dit comment l'obtenir chez chacun des cinq GRD, ce qu'il coûte et ce que coûte la désactivation de sa communication.
 
-Les guides ci-dessous partent des acteurs et de ce que coûte le réseau, puis du compteur.
+Un déménagement met tous ces acteurs en jeu le même jour : le contrat suit chez le fournisseur, le GRD ouvre un compteur fermé, l'EAN change, les index se relèvent à deux. Mal réglé, il finit par une coupure : en 2025, c'était la cause de plus d'une coupure d'électricité sur deux chez les ménages wallons. [« Déménagement et électricité : les démarches »]({{ "moving-house-electricity" | ref_url }}) donne la liste de contrôle dans l'ordre, le prix d'une ouverture de compteur, et ce que devient votre participation à une communauté d'énergie.
+
+Les guides ci-dessous partent des acteurs et de ce que coûte le réseau, passent au compteur, puis au changement d'adresse.

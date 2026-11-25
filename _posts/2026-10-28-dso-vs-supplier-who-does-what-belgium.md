@@ -9,7 +9,7 @@ tags: [guide]
 lang: en
 ref: dso-supplier-roles
 pillar: reseau-grd
-last_modified_at: 2026-11-21 06:00:00 +0100
+last_modified_at: 2026-11-24 06:00:00 +0100
 permalink: /en/guides/dso-vs-supplier-who-does-what-belgium/
 faq:
   - q: "What is the difference between a DSO and an electricity supplier?"
@@ -151,7 +151,7 @@ Within the network block, distribution weighs far more than transmission. On the
 | Lost EAN code | your DSO | it assigns the code |
 | Price, advance bills, invoice, contract | your supplier | it sets the price and manages the contract |
 | Switching supplier | the new supplier | it ends the old contract for you |
-| Moving house | your supplier | the contract follows you to the new address |
+| [Moving house](/en/guides/moving-house-electricity-wallonia/) | your supplier | the contract follows you to the new address |
 | Payment difficulties | your supplier, then your CPAS (public social welfare centre) | the supplier starts the procedure, the DSO installs the prepayment meter |
 | Social tariff, regionally protected customer | your DSO | it is your social supplier |
 | Unresolved complaint | regional or federal ombudsman | depending on whether it concerns the grid or the contract |

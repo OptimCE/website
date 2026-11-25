@@ -9,7 +9,7 @@ tags: [guide]
 lang: en
 ref: ean-code-belgium
 pillar: reseau-grd
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 permalink: /en/guides/ean-code-belgium-where-to-find/
 faq:
   - q: "Where can I find my electricity EAN code?"
@@ -36,7 +36,7 @@ This article does not repeat what is already on this site. [“Read your Belgian
 
 ## What an EAN code designates
 
-“EAN” stands for *European Article Numbering*. The Walloon technical regulation, in the version adopted by the regulator CWaPE in August 2026, defines it as a “unique numeric field” identifying “either an access point (EAN-GSRN code […]) or one of the market players (EAN-GLN code […])”. The one on your bill is the first kind.
+“EAN” stands for *European Article Numbering*. The Walloon technical regulation, in the version adopted by the regulator CWaPE in August 2026 and in force on 30 November 2026, defines it as a “unique numeric field” identifying “either an access point (EAN-GSRN code […]) or one of the market players (EAN-GLN code […])”. The one on your bill is the first kind.
 
 RESA puts it in one sentence: the EAN number “is neither the meter number nor the customer number”. It “stays attached to the connection point, whoever the supplier or the customer”. ORES adds that there is “one EAN code per energy supplied”.
 
@@ -120,7 +120,7 @@ The **energy takeover form** drawn up by CWaPE records the meter readings at the
 
 In a block of flats, check the code you are given. CWaPE finds that errors are “often” swaps: “a new occupant is given their neighbour's EAN code, for example by their landlord or a building manager”. The reliable check is the meter number, read by yourself.
 
-If nobody takes over the supply point, the grid operator writes to the new occupant within five working days and, failing a response, visits within fifteen working days with a regularisation form; without a contract, it may suspend supply (ministerial order of 3 March 2008).
+If nobody takes over the supply point, the grid operator writes to the new occupant within five working days and, failing a response, tries to reach them for fifteen days, then visits within fifteen working days with a regularisation form; without a contract, it may suspend supply, even in winter (ministerial order of 3 March 2008). Every step is in [“Moving house in Wallonia: electricity steps”](/en/guides/moving-house-electricity-wallonia/).
 
 Two decisions made on a code stay with the home. Participation in a sharing scheme, as our [guide for tenants](/en/guides/tenant-solar-without-roof-guide/) explains. And **giving up compensation**, which sharing requires: it is final, and the right “cannot be reactivated for the new producer (new owner or tenant)” either, CWaPE specifies. If you take over a house with solar panels, ask whether the previous occupant gave it up.
 
@@ -142,13 +142,13 @@ For a renewable energy community, the perimeter is also checked by code: no publ
 
 ### Two lesser-known uses
 
-CWaPE's **GreenCheck** shows, from your electricity code, “the percentage of green electricity you consume each month”, for Walloon contracts; our analysis of [green electricity](/en/guides/green-electricity-belgium-really-green/) explains what that figure proves. And the new technical regulation, still to be published in the Belgian Official Gazette, gives you free access to your offtake and injection data “upon communication of [your] EAN code”.
+CWaPE's **GreenCheck** shows, from your electricity code, “the percentage of green electricity you consume each month”, for Walloon contracts; our analysis of [green electricity](/en/guides/green-electricity-belgium-really-green/) explains what that figure proves. And the new technical regulation, published in the Belgian Official Gazette on 20 November 2026 and in force on 30 November 2026, gives you free access to your offtake and injection data “upon communication of [your] EAN code”.
 
 ## I can't find my EAN code
 
 The grid operator can retrieve it: it is the one that assigns it. The [“Find your DSO”](/en/tools/find-my-dso/) tool tells you which one to contact; for gas, in Wallonia, it will be ORES or RESA, the only two that distribute it.
 
-Have your **exact address** ready, box number included, and your **meter number**, read on the device. AIEG and REW only send the code “if there is a good match” between the two. The new technical regulation adopted by CWaPE provides for a reply within ten days at most, based on those two pieces of information.
+Have your **exact address** ready, box number included, and your **meter number**, read on the device. AIEG and REW only send the code “if there is a good match” between the two. The new technical regulation, in force on 30 November 2026, provides for a reply within ten working days at most, based on those two pieces of information.
 
 | Operator | How to ask | How the code arrives |
 |---|---|---|
@@ -223,7 +223,7 @@ Yes: it identifies you in Annex 6 of the sharing form and in the statement you s
 ## Sources
 
 - [Belgian Official Gazette — Royal decree of 9 December 2021 setting further minimum requirements for gas and electricity bills and billing information](https://www.ejustice.just.fgov.be/eli/arrete/2021/12/09/2021022724/justel) (in French) — article 3, § 2, 9° (unique identification code of the supply point on the annual and closing statement) and article 5, 11° (same code on the instalment invoice); in force since 1 January 2022. Accessed 23 October 2026.
-- [CWaPE — Decision CD-26h27-CWaPE-1284 approving the technical regulation for the management of electricity distribution networks in Wallonia](https://www.cwape.be/sites/default/files/cwape-documents/CD-26h27-CWaPE-1284-D%C3%A9cision%20d%27approbation%20du%20RTDE%20%26%20annexes_site.pdf) (in French) — decision of 27 August 2026 adopting the new technical regulation, to be published in the Official Gazette after translation and applicable ten days after publication; the regulation in force remains the one approved by the Walloon Government order of 27 May 2021. Source of the definition of the EAN code (EAN-GSRN for an access point, EAN-GLN for a market player), of the rule that the operator gives the code within ten days based on meter number and address (article IV.22, § 2) and of free access to metering data upon communication of the code (article V.74). Accessed 23 October 2026.
+- [CWaPE — Decision CD-26h27-CWaPE-1284 approving the technical regulation for the management of electricity distribution networks in Wallonia](https://www.cwape.be/sites/default/files/cwape-documents/CD-26h27-CWaPE-1284-D%C3%A9cision%20d%27approbation%20du%20RTDE%20%26%20annexes_site.pdf) (in French) — decision of 27 August 2026 adopting the new technical regulation, [published in the Official Gazette on 20 November 2026](https://www.ejustice.just.fgov.be/cgi/article_body.pl?language=fr&caller=summary&pub_date=2026-11-20&numac=2026007520) and in force on 30 November 2026; until then, the one approved by the Walloon Government order of 27 May 2021 applies. Source of the definition of the EAN code (EAN-GSRN for an access point, EAN-GLN for a market player), of the rule that the operator gives the code within ten days based on meter number and address (article IV.22, § 2) and of free access to metering data upon communication of the code (article V.74). Accessed 23 October and 24 November 2026.
 - [GS1 — Global Service Relation Number (GSRN)](https://www.gs1.org/standards/id-keys/gsrn) and [GS1 — GS1 Company Prefix](https://www.gs1.org/standards/id-keys/company-prefix) — use of the GSRN for the metering points of an electricity company; prefixes 540 to 549 managed by GS1 Belgium & Luxembourg. Accessed 23 October 2026.
 - [CREG — EAN code](https://www.creg.be/fr/a-z-index/code-ean) (in French) — 18-digit code, unique to the supply point, shown on the bill and needed to take out a new contract. Accessed 23 October 2026.
 - [ORES — EAN code](https://www.ores.be/particulier/code-ean) (in French) — where to find the code, its confidential nature and the risk of a contract change by an ill-intentioned person. Accessed 23 October 2026.

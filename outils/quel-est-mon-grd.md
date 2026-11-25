@@ -12,7 +12,7 @@ tool_page: true
 tool: dso
 tool_order: 1
 date_published: 2026-10-18
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-24
 faq:
   - q: "Comment savoir quel est mon GRD ?"
     a: "Entrez votre code postal dans l'outil en haut de cette page : il affiche le gestionnaire de réseau d'électricité et celui du gaz de votre commune. Si le code postal couvre plusieurs communes, ou si le gestionnaire change d'une section de commune à l'autre, l'outil vous demande de préciser. Pour vérifier, regardez votre facture de décompte d'électricité : pour un ménage, elle donne le nom et le numéro de téléphone du gestionnaire de réseau à appeler en cas de panne."
@@ -221,6 +221,9 @@ explique où retrouver le code sans facture et à qui le donner.
 Qui appeler pour quoi, ce que chacun pèse sur la facture et quand le GRD devient lui-même fournisseur : le guide
 [« Différence GRD et fournisseur : qui fait quoi ? »]({{ 'dso-supplier-roles' | ref_url }})
 reprend chaque acteur en détail.
+
+Vous déménagez ? [« Déménagement et électricité : les démarches »]({{ 'moving-house-electricity' | ref_url }})
+dit quand contacter le GRD de la nouvelle adresse et ce que coûte l'ouverture d'un compteur.
 
 ## Votre GRD et le partage d'énergie
 

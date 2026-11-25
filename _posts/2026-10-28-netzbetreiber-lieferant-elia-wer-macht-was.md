@@ -9,7 +9,7 @@ tags: [guide]
 lang: de
 ref: dso-supplier-roles
 pillar: reseau-grd
-last_modified_at: 2026-11-21 06:00:00 +0100
+last_modified_at: 2026-11-24 06:00:00 +0100
 permalink: /de/ratgeber/netzbetreiber-lieferant-elia-wer-macht-was/
 faq:
   - q: "Was ist der Unterschied zwischen Netzbetreiber und Stromlieferant?"
@@ -151,7 +151,7 @@ Im Netzblock wiegt die Verteilung weit mehr als die Übertragung. Nach dem ORES-
 | EAN-Code verloren | Ihr Netzbetreiber | er vergibt den Code |
 | Preis, Abschläge, Rechnung, Vertrag | Ihr Lieferant | er legt den Preis fest und verwaltet den Vertrag |
 | Lieferantenwechsel | der neue Lieferant | er kündigt den alten Vertrag für Sie |
-| Umzug | Ihr Lieferant | der Vertrag folgt Ihnen an die neue Adresse |
+| [Umzug](/de/ratgeber/umzug-strom-ummelden-wallonie/) | Ihr Lieferant | der Vertrag folgt Ihnen an die neue Adresse |
 | Zahlungsschwierigkeiten | Ihr Lieferant, dann Ihr ÖSHZ | der Lieferant leitet das Verfahren ein, der Netzbetreiber setzt den Vorauszahlungszähler |
 | Sozialtarif, regional geschützter Kunde | Ihr Netzbetreiber | er ist Ihr Sozialversorger |
 | Ungelöste Beschwerde | regionaler oder föderaler Ombudsdienst | je nachdem, ob es um Netz oder Vertrag geht |

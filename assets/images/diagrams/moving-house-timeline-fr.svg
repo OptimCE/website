@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img" aria-labelledby="t d">
+<title id="t">Déménager : quoi faire, et quand</title><desc id="d">Frise d'un déménagement en Wallonie, en six étapes. Dix semaines avant : si vous êtes dans une communauté d'énergie, prévenir son représentant. Un mois avant : trouver le GRD, le code EAN et le contrat du nouveau logement. Quatorze jours avant : prévenir le fournisseur par écrit. Le jour des clés : relever et photographier les index, signer le document de reprise à chaque adresse. Dans le mois : envoyer les index, dans le délai publié par le fournisseur. Six semaines après la fin du contrat : facture de clôture à comparer avec le document signé.</desc>
+<rect width="800" height="500" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="28" y="46" font-size="21" fill="#212529" font-weight="700" text-anchor="start">Déménager : quoi faire, et quand</text>
+<text x="28" y="72" font-size="13.5" fill="#495057" font-weight="400" text-anchor="start">Électricité et gaz, en Wallonie</text>
+<line x1="60" y1="264" x2="740" y2="264" stroke="#DEE2E6" stroke-width="4" stroke-linecap="round"/>
+<line x1="130" y1="232" x2="130" y2="255" stroke="#2e7d32" stroke-width="1.5"/>
+<rect x="28" y="138" width="204" height="94" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<path d="M28 148 a10 10 0 0 1 10 -10 h184 a10 10 0 0 1 10 10 v24 h-204 z" fill="#E8F5E9"/>
+<text x="42" y="161" font-size="14.5" fill="#2e7d32" font-weight="700" text-anchor="start">10 semaines avant</text>
+<text x="42" y="194" font-size="13.5" fill="#212529" font-weight="400" text-anchor="start">En communauté d'énergie :</text>
+<text x="42" y="213" font-size="13.5" fill="#212529" font-weight="400" text-anchor="start">prévenir son représentant</text>
+<circle cx="130" cy="264" r="8" fill="#2e7d32" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="238" y1="273" x2="238" y2="296" stroke="#2e7d32" stroke-width="1.5"/>
+<rect x="136" y="296" width="204" height="94" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<path d="M136 306 a10 10 0 0 1 10 -10 h184 a10 10 0 0 1 10 10 v24 h-204 z" fill="#E8F5E9"/>
+<text x="150" y="319" font-size="14.5" fill="#2e7d32" font-weight="700" text-anchor="start">1 mois avant</text>
+<text x="150" y="352" font-size="13.5" fill="#212529" font-weight="400" text-anchor="start">GRD, code EAN et contrat du</text>
+<text x="150" y="371" font-size="13.5" fill="#212529" font-weight="400" text-anchor="start">nouveau logement</text>
+<circle cx="238" cy="264" r="8" fill="#2e7d32" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="346" y1="232" x2="346" y2="255" stroke="#2e7d32" stroke-width="1.5"/>
+<rect x="244" y="138" width="204" height="94" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<path d="M244 148 a10 10 0 0 1 10 -10 h184 a10 10 0 0 1 10 10 v24 h-204 z" fill="#E8F5E9"/>
+<text x="258" y="161" font-size="14.5" fill="#2e7d32" font-weight="700" text-anchor="start">14 jours avant</text>
+<text x="258" y="194" font-size="13.5" fill="#212529" font-weight="400" text-anchor="start">Prévenir le fournisseur, par</text>
+<text x="258" y="213" font-size="13.5" fill="#212529" font-weight="400" text-anchor="start">écrit</text>
+<circle cx="346" cy="264" r="8" fill="#2e7d32" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="454" y1="273" x2="454" y2="296" stroke="#2e7d32" stroke-width="1.5"/>
+<rect x="352" y="296" width="204" height="113" rx="10" fill="#FFFFFF" stroke="#2e7d32" stroke-width="2"/>
+<path d="M352 306 a10 10 0 0 1 10 -10 h184 a10 10 0 0 1 10 10 v24 h-204 z" fill="#2e7d32"/>
+<text x="366" y="319" font-size="14.5" fill="#FFFFFF" font-weight="700" text-anchor="start">Jour des clés</text>
+<text x="366" y="352" font-size="13.5" fill="#212529" font-weight="400" text-anchor="start">Index relevés et</text>
+<text x="366" y="371" font-size="13.5" fill="#212529" font-weight="400" text-anchor="start">photographiés, document</text>
+<text x="366" y="390" font-size="13.5" fill="#212529" font-weight="400" text-anchor="start">signé, aux deux adresses</text>
+<circle cx="454" cy="264" r="10" fill="#F59E0B" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="562" y1="232" x2="562" y2="255" stroke="#2e7d32" stroke-width="1.5"/>
+<rect x="460" y="119" width="204" height="113" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<path d="M460 129 a10 10 0 0 1 10 -10 h184 a10 10 0 0 1 10 10 v24 h-204 z" fill="#E8F5E9"/>
+<text x="474" y="142" font-size="14.5" fill="#2e7d32" font-weight="700" text-anchor="start">Dans le mois</text>
+<text x="474" y="175" font-size="13.5" fill="#212529" font-weight="400" text-anchor="start">Envoyer les index, dans le</text>
+<text x="474" y="194" font-size="13.5" fill="#212529" font-weight="400" text-anchor="start">délai publié par le</text>
+<text x="474" y="213" font-size="13.5" fill="#212529" font-weight="400" text-anchor="start">fournisseur</text>
+<circle cx="562" cy="264" r="8" fill="#2e7d32" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="670" y1="273" x2="670" y2="296" stroke="#2e7d32" stroke-width="1.5"/>
+<rect x="568" y="296" width="204" height="94" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<path d="M568 306 a10 10 0 0 1 10 -10 h184 a10 10 0 0 1 10 10 v24 h-204 z" fill="#E8F5E9"/>
+<text x="582" y="319" font-size="14.5" fill="#2e7d32" font-weight="700" text-anchor="start">6 semaines après</text>
+<text x="582" y="352" font-size="13.5" fill="#212529" font-weight="400" text-anchor="start">Facture de clôture : comparer</text>
+<text x="582" y="371" font-size="13.5" fill="#212529" font-weight="400" text-anchor="start">avec le document signé</text>
+<circle cx="670" cy="264" r="8" fill="#2e7d32" stroke="#FFFFFF" stroke-width="2"/>
+<text x="28" y="470" font-size="13" fill="#495057" font-weight="400" text-anchor="start">Sans contrat à la nouvelle adresse, le GRD peut couper au bout de la procédure, même en hiver.</text>
+</g></svg>

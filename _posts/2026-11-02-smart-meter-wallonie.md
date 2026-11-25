@@ -9,7 +9,7 @@ tags: [guide, community]
 lang: de
 ref: smart-meter-wallonia
 pillar: reseau-grd
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-24
 permalink: /de/ratgeber/smart-meter-wallonie/
 faq:
   - q: "Wie beantrage ich einen Smart Meter in der Wallonie?"
@@ -43,7 +43,7 @@ Zwei Dinge werden oft verwechselt:
 
 Auch bei aktiver Kommunikation schickt der Zähler nicht alles an den Markt. Das Stromdekret ist eindeutig: Standardmäßig werden nur die Zählerstände und die Energiemengen in den Marktprozessen verwendet, und sie gehen einmal im Jahr an die Lieferanten (Artikel 35*ter* § 2). Ihre Verbrauchskurve pro Viertelstunde verlässt den Netzbetreiber nur, wenn Sie es verlangen.
 
-Die technische Regelung, die die CWaPE am 27. August 2026 genehmigt hat, nennt diese Stufen „Messregime“:
+Die technische Regelung, die die CWaPE am 27. August 2026 genehmigt hat und die am 30. November 2026 in Kraft tritt, nennt diese Stufen „Messregime“:
 
 | Regime | Wann es gilt | Was der Netzbetreiber an den Markt übermittelt |
 |---|---|---|
@@ -51,7 +51,7 @@ Die technische Regelung, die die CWaPE am 27. August 2026 genehmigt hat, nennt d
 | R1 | Standard bei aktiver Kommunikation | Anfangs- und Endstand, Mengen pro Zeitzone; einmal im Jahr oder auf Wunsch monatlich |
 | R3 | auf ausdrücklichen Antrag über Ihren Lieferanten | zusätzlich die Lastkurve pro Viertelstunde, mindestens monatlich |
 
-*Annahmen: technische Regelung für den Betrieb der Stromverteilernetze in der Wallonie, Artikel V.45bis, in der von der CWaPE am 27. August 2026 genehmigten Fassung. Lieferanten nennen R3 auch „SMR3“; es ist Pflicht für ein Angebot mit dynamischem Preis und für das Energieteilen.*
+*Annahmen: technische Regelung für den Betrieb der Stromverteilernetze in der Wallonie, Artikel V.45bis, in der am 30. November 2026 in Kraft tretenden Fassung. Lieferanten nennen R3 auch „SMR3“; es ist Pflicht für ein Angebot mit dynamischem Preis und für das Energieteilen.*
 
 Der Smart Meter ist auch nicht der einzige fernausgelesene Zähler. Anschlüsse mit höherer Leistung haben oft einen AMR-Zähler, der pro Viertelstunde fernausgelesen wird und den die Regeln des Energieteilens ebenfalls zulassen. Für einen Haushalt ist der Smart Meter der normale Weg.
 
@@ -195,7 +195,7 @@ Ja, oder einen AMR-Zähler, mit aktiver Kommunikation und dem beim Lieferanten b
 - [Wallex — Dekret vom 12. April 2001 über die Organisation des regionalen Elektrizitätsmarktes, konsolidierte Fassung](https://wallex.wallonie.be/eli/loi-decret/2001/04/12/2001027238) — Artikel 35 § 1 (Einbau an jedem Lieferpunkt, Ausnahmen, 100 % bis 31. Dezember 2029, Fassung des Dekrets vom 19. Dezember 2025) und § 3 (Ablehnung oder Abschaltung der Kommunikationsfunktion und ihre sieben Folgen), Artikel 35*bis* §§ 1 und 4 (Informationen nahezu in Echtzeit, Ausgangsport standardmäßig deaktiviert), Artikel 35*ter* §§ 2 und 3 (Standard-Messregime, jährliche Übermittlung, kostenlose Einsicht), Artikel 35*septies* § 3 (vorherige Zustimmung für den Zugriff Dritter), Artikel 35*octies* § 3, 35*nonies* und 35*quaterdecies* (Zähler als Voraussetzung des Teilens). Am 2. November 2026 geltende Fassung, abgerufen am 2. November 2026.
 - [Wallex — Dekret vom 19. Dezember 2025 über verschiedene Bestimmungen im Energiebereich](https://wallex.wallonie.be/files/pdfs/22/124958_D%C3%A9cret_portant_dispositions_diverses_en_mati%C3%A8re_d'%C3%A9nergie_09-01-2026-.pdf) — Artikel 26, Neufassung von Artikel 35 des Stromdekrets, in Kraft am 9. Januar 2026. Abgerufen am 2. November 2026.
 - [Wallex — Erlass der Wallonischen Regierung vom 1. Dezember 2022 über kommunizierende Zähler](https://wallex.wallonie.be/eli/arrete/2022/12/01/2022034594) — Artikel 2 (Antrag, Eingangsbestätigung, Angebot, Einbau innerhalb von vier Monaten, Zählerkosten zu Lasten des Netzbetreibers), Artikel 3 § 1 (Erzeuger bis 10 kVA seit dem 1. Januar 2024), Artikel 4 (Einsichtsplattform, 24 Monate, Export). Abgerufen am 2. November 2026.
-- [CWaPE — Beschluss CD-26h27-CWaPE-1284 zur Genehmigung der technischen Regelung für den Betrieb der Stromverteilernetze in der Wallonie](https://www.cwape.be/sites/default/files/cwape-documents/CD-26h27-CWaPE-1284-D%C3%A9cision%20d%27approbation%20du%20RTDE%20%26%20annexes_site.pdf) — Artikel V.45*bis* (Regime R0, R1, R3; R3 Pflicht für das Teilen und für Angebote mit dynamischem Preis), Artikel IX.14 (Aufteilung auf Viertelstundenbasis). Dokument vom 27. August 2026, abgerufen am 2. November 2026.
+- [CWaPE — Beschluss CD-26h27-CWaPE-1284 zur Genehmigung der technischen Regelung für den Betrieb der Stromverteilernetze in der Wallonie](https://www.cwape.be/sites/default/files/cwape-documents/CD-26h27-CWaPE-1284-D%C3%A9cision%20d%27approbation%20du%20RTDE%20%26%20annexes_site.pdf) — Artikel V.45*bis* (Regime R0, R1, R3; R3 Pflicht für das Teilen und für Angebote mit dynamischem Preis), Artikel IX.14 (Aufteilung auf Viertelstundenbasis). Dokument vom 27. August 2026, [am 20. November 2026 im Belgischen Staatsblatt veröffentlicht](https://www.ejustice.just.fgov.be/cgi/article_body.pl?language=fr&caller=summary&pub_date=2026-11-20&numac=2026007520) und ab dem 30. November 2026 in Kraft, abgerufen am 2. und 24. November 2026.
 - [CWaPE — Allgemeiner Jahresbericht 2025](https://www.cwape.be/sites/default/files/cwape-documents/2026.07.03-RAG%202025.pdf) — mehr als 537 000 kommunizierende Stromzähler Ende 2025, etwa 28 % des Bestands; kostenloser Zähleraustausch, kostenlose Fernoperationen und Aktivierung; kostenpflichtige Abschaltung mehr als zwei Wochen nach dem Einbau. Bericht vom 3. Juli 2026, abgerufen am 2. November 2026.
 - [CWaPE — Spezifischer Jahresbericht 2025 über die gemeinwirtschaftlichen Verpflichtungen](https://www.cwape.be/sites/default/files/cwape-documents/2026.07.03-RAS%20OSP%202025.pdf) — Ende der Budgetzähler am 1. Januar 2026, 59 294 aktive Vorauszahlungszähler, davon 98,8 % kommunizierend. Bericht vom 3. Juli 2026, abgerufen am 2. November 2026.
 - [CWaPE — FAQ zur Anreiztarifierung](https://cwape.be/sites/default/files/cwape-documents/2024.07.15-Tarification%20incitative-FAQ.pdf) — kommunizierender Zähler mit aktiver Kommunikation, bis 56 kVA. Dokument vom 15. Juli 2024. [CWaPE — Pressemappe zu den Verteilnetztarifen](https://www.cwape.be/sites/default/files/cwape-documents/2025.11.03-Tarifs%20distribution_dossier%20de%20presse%20-%20final.pdf) — Ablehnung, R3 für den Impact-Tarif vorzuschreiben, Definition von R1 und R3. Dokument vom 3. November 2025. Abgerufen am 2. November 2026.

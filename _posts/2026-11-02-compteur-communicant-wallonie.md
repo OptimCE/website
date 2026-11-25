@@ -9,7 +9,7 @@ tags: [guide, community]
 lang: fr
 ref: smart-meter-wallonia
 pillar: reseau-grd
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-24
 permalink: /guides/compteur-communicant-wallonie/
 faq:
   - q: "Comment demander un compteur communicant en Wallonie ?"
@@ -43,7 +43,7 @@ Il faut distinguer deux choses que le langage courant confond :
 
 Et même quand la communication est active, le compteur n'envoie pas tout au marché. Le décret électricité est clair : par défaut, « seuls les index du compteur et les volumes d'énergie sont utilisés dans les processus de marché », et leur transmission aux fournisseurs « est effectuée sur base annuelle » (article 35*ter*, § 2). Votre courbe de consommation au quart d'heure ne quitte le gestionnaire de réseau que si vous le demandez.
 
-Le règlement technique approuvé par la CWaPE le 27 août 2026 nomme ces niveaux des « régimes de comptage » :
+Le règlement technique approuvé par la CWaPE le 27 août 2026, en vigueur le 30 novembre 2026, nomme ces niveaux des « régimes de comptage » :
 
 | Régime | Quand il s'applique | Ce que le GRD transmet au marché |
 |---|---|---|
@@ -51,7 +51,7 @@ Le règlement technique approuvé par la CWaPE le 27 août 2026 nomme ces niveau
 | R1 | par défaut, communication active | index de début et de fin, volumes par plage horaire ; une fois par an, ou chaque mois à votre demande |
 | R3 | sur demande explicite, via votre fournisseur | en plus, la courbe de charge au quart d'heure, au moins chaque mois |
 
-*Hypothèses : règlement technique pour la gestion des réseaux de distribution d'électricité en Wallonie, article V.45bis, dans la version approuvée par la CWaPE le 27 août 2026. Le R3 est aussi appelé SMR3 par les fournisseurs ; il est obligatoire pour une offre à prix dynamique et pour le partage d'énergie.*
+*Hypothèses : règlement technique pour la gestion des réseaux de distribution d'électricité en Wallonie, article V.45bis, dans la version en vigueur le 30 novembre 2026. Le R3 est aussi appelé SMR3 par les fournisseurs ; il est obligatoire pour une offre à prix dynamique et pour le partage d'énergie.*
 
 Un compteur communicant n'est pas non plus le seul compteur « intelligent ». Les raccordements plus puissants ont souvent un compteur AMR, télérelevé au quart d'heure, que les règles du partage acceptent aussi. Pour un ménage, le compteur communicant est la voie normale.
 
@@ -195,7 +195,7 @@ Oui, ou un compteur AMR, avec la communication active et le régime R3 demandé 
 - [Wallex — Décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité, version consolidée](https://wallex.wallonie.be/eli/loi-decret/2001/04/12/2001027238) — article 35, § 1er (installation à chaque point de fourniture, exceptions, 100 % au 31 décembre 2029, rédaction du décret du 19 décembre 2025) et § 3 (refus ou désactivation de la fonction communicante et ses sept conséquences), article 35*bis*, § 1er et § 4 (informations en temps quasi réel, port de sortie désactivé par défaut), article 35*ter*, § 2 et § 3 (régime de comptage par défaut, transmission annuelle, consultation libre et gratuite), article 35*septies*, § 3 (accord préalable pour l'accès des tiers), articles 35*octies*, § 3, 35*nonies* et 35*quaterdecies* (compteur exigé pour le partage). Version en vigueur au 2 novembre 2026, consultée le 2 novembre 2026.
 - [Wallex — Décret du 19 décembre 2025 portant dispositions diverses en matière d'énergie](https://wallex.wallonie.be/files/pdfs/22/124958_D%C3%A9cret_portant_dispositions_diverses_en_mati%C3%A8re_d'%C3%A9nergie_09-01-2026-.pdf) — article 26, réécriture de l'article 35 du décret électricité, en vigueur le 9 janvier 2026. Consulté le 2 novembre 2026.
 - [Wallex — Arrêté du Gouvernement wallon du 1er décembre 2022 relatif aux compteurs communicants](https://wallex.wallonie.be/eli/arrete/2022/12/01/2022034594) — article 2 (demande, accusé de réception, offre, placement en quatre mois, coût du compteur à charge du GRD), article 3, § 1er (producteur de 10 kVA ou moins depuis le 1er janvier 2024), article 4 (plateforme de consultation, vingt-quatre mois, export). Consulté le 2 novembre 2026.
-- [CWaPE — Décision CD-26h27-CWaPE-1284 d'approbation du règlement technique pour la gestion des réseaux de distribution d'électricité en Région wallonne](https://www.cwape.be/sites/default/files/cwape-documents/CD-26h27-CWaPE-1284-D%C3%A9cision%20d%27approbation%20du%20RTDE%20%26%20annexes_site.pdf) — article V.45*bis* (régimes R0, R1, R3 ; R3 obligatoire pour le partage et les offres à prix dynamique), article IX.14 (répartition sur une base quart-horaire). Document du 27 août 2026, consulté le 2 novembre 2026.
+- [CWaPE — Décision CD-26h27-CWaPE-1284 d'approbation du règlement technique pour la gestion des réseaux de distribution d'électricité en Région wallonne](https://www.cwape.be/sites/default/files/cwape-documents/CD-26h27-CWaPE-1284-D%C3%A9cision%20d%27approbation%20du%20RTDE%20%26%20annexes_site.pdf) — article V.45*bis* (régimes R0, R1, R3 ; R3 obligatoire pour le partage et les offres à prix dynamique), article IX.14 (répartition sur une base quart-horaire). Document du 27 août 2026, [publié au Moniteur belge le 20 novembre 2026](https://www.ejustice.just.fgov.be/cgi/article_body.pl?language=fr&caller=summary&pub_date=2026-11-20&numac=2026007520) et en vigueur le 30 novembre 2026, consulté le 2 et le 24 novembre 2026.
 - [CWaPE — Rapport annuel général 2025](https://www.cwape.be/sites/default/files/cwape-documents/2026.07.03-RAG%202025.pdf) — plus de 537 000 compteurs électriques communicants fin 2025, environ 28 % du parc ; gratuité du remplacement de compteur, des téléopérations et de l'activation ; désactivation tarifée plus de deux semaines après la pose. Rapport du 3 juillet 2026, consulté le 2 novembre 2026.
 - [CWaPE — Rapport annuel spécifique 2025 sur les obligations de service public](https://www.cwape.be/sites/default/files/cwape-documents/2026.07.03-RAS%20OSP%202025.pdf) — fin des compteurs à budget au 1er janvier 2026, 59 294 compteurs à prépaiement actifs dont 98,8 % communicants. Rapport du 3 juillet 2026, consulté le 2 novembre 2026.
 - [CWaPE — Tarification incitative, FAQ](https://cwape.be/sites/default/files/cwape-documents/2024.07.15-Tarification%20incitative-FAQ.pdf) — compteur communicant avec fonction de communication active, 56 kVA au plus. Document du 15 juillet 2024. [CWaPE — Dossier de presse sur les tarifs de distribution](https://www.cwape.be/sites/default/files/cwape-documents/2025.11.03-Tarifs%20distribution_dossier%20de%20presse%20-%20final.pdf) — refus d'imposer le régime R3 pour le tarif Impact, définition des régimes R1 et R3. Document du 3 novembre 2025. Consultés le 2 novembre 2026.

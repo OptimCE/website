@@ -9,7 +9,7 @@ tags: [guide]
 lang: fr
 ref: ean-code-belgium
 pillar: reseau-grd
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 permalink: /guides/code-ean-electricite-ou-le-trouver/
 faq:
   - q: "Où trouver mon code EAN d'électricité ?"
@@ -36,7 +36,7 @@ Cet article ne refait pas ce qui est déjà écrit ailleurs sur ce site. [« Lir
 
 ## Ce que désigne un code EAN
 
-« EAN » vient de *European Article Numbering*. Le règlement technique wallon, dans la version adoptée par la CWaPE en août 2026, le définit comme un « champ numérique unique » qui identifie « soit un point d'accès (code EAN-GSRN […]), soit un des acteurs du marché (code EAN-GLN […]) ». Celui de votre facture est le premier.
+« EAN » vient de *European Article Numbering*. Le règlement technique wallon, dans la version adoptée par la CWaPE en août 2026 et en vigueur le 30 novembre 2026, le définit comme un « champ numérique unique » qui identifie « soit un point d'accès (code EAN-GSRN […]), soit un des acteurs du marché (code EAN-GLN […]) ». Celui de votre facture est le premier.
 
 RESA le résume : « Le numéro EAN n'est ni le numéro de compteur, ni le numéro de client. » Il « reste attaché au lieu de raccordement, quel que soit le fournisseur ou le client ». ORES ajoute qu'il y a « un code EAN par énergie fournie ».
 
@@ -120,7 +120,7 @@ Le **document de reprise des énergies**, établi par la CWaPE, fixe les relevé
 
 Dans un immeuble, vérifiez le code qu'on vous transmet. La CWaPE constate que les erreurs sont « souvent » des inversions : « un nouvel occupant se voit communiquer le code EAN de son voisin, par exemple par son propriétaire ou un syndic d'immeuble ». Le contrôle fiable reste le numéro de compteur, lu par vous-même.
 
-Si personne ne reprend le point, le gestionnaire de réseau écrit au nouvel occupant dans les cinq jours ouvrables, puis, sans suite, passe dans les quinze jours ouvrables avec un formulaire de régularisation ; à défaut de contrat, il peut suspendre la fourniture (arrêté ministériel du 3 mars 2008).
+Si personne ne reprend le point, le gestionnaire de réseau écrit au nouvel occupant dans les cinq jours ouvrables, puis, sans suite, essaie de le joindre pendant quinze jours et passe dans les quinze jours ouvrables avec un formulaire de régularisation ; à défaut de contrat, il peut suspendre la fourniture, même en hiver (arrêté ministériel du 3 mars 2008). Toutes les étapes sont dans [« Déménagement et électricité : les démarches »](/guides/demenagement-electricite-demarches/).
 
 Deux décisions prises sur un code restent au logement. La participation à un partage, comme l'explique notre [guide du locataire](/guides/guide-solaire-locataire-sans-toit/). Et la **renonciation à la compensation**, exigée pour partager : elle est définitive, et ce droit « ne pourra pas non plus être réactivé dans le chef du nouveau producteur (nouveau propriétaire ou locataire) », précise la CWaPE. Si vous reprenez une maison équipée de panneaux, demandez si l'ancien occupant y a renoncé.
 
@@ -142,13 +142,13 @@ Pour une communauté d'énergie renouvelable, le périmètre se vérifie aussi p
 
 ### Pour deux usages moins connus
 
-Le **GreenCheck** de la CWaPE affiche, à partir de votre code électricité, « le pourcentage d'électricité verte que vous consommez par mois », pour les contrats wallons ; notre analyse de l'[électricité verte](/guides/electricite-verte-belgique-vraiment-verte/) dit ce que ce chiffre prouve. Et le nouveau règlement technique, qui doit encore être publié au Moniteur belge, vous donne accès gratuitement à vos données de prélèvement et d'injection « moyennant communication de [votre] code EAN ».
+Le **GreenCheck** de la CWaPE affiche, à partir de votre code électricité, « le pourcentage d'électricité verte que vous consommez par mois », pour les contrats wallons ; notre analyse de l'[électricité verte](/guides/electricite-verte-belgique-vraiment-verte/) dit ce que ce chiffre prouve. Et le nouveau règlement technique, publié au Moniteur belge le 20 novembre 2026 et en vigueur le 30 novembre 2026, vous donne accès gratuitement à vos données de prélèvement et d'injection « moyennant communication de [votre] code EAN ».
 
 ## Je ne trouve pas mon code EAN
 
 Le gestionnaire de réseau le retrouve : c'est lui qui l'attribue. L'outil [« Quel est mon GRD ? »](/outils/quel-est-mon-grd/) vous dit lequel contacter ; pour le gaz, en Wallonie, ce sera ORES ou RESA, les deux seuls à le distribuer.
 
-Préparez votre **adresse exacte**, numéro de boîte compris, et votre **numéro de compteur**, lu sur l'appareil. L'AIEG et le REW n'envoient le code qu'« en cas de bonne correspondance » entre les deux. Le nouveau règlement technique adopté par la CWaPE prévoit une réponse dans les dix jours au plus, sur la base de ces deux informations.
+Préparez votre **adresse exacte**, numéro de boîte compris, et votre **numéro de compteur**, lu sur l'appareil. L'AIEG et le REW n'envoient le code qu'« en cas de bonne correspondance » entre les deux. Le nouveau règlement technique, en vigueur le 30 novembre 2026, prévoit une réponse dans les dix jours ouvrables au plus, sur la base de ces deux informations.
 
 | Gestionnaire | Comment demander | Comment le code arrive |
 |---|---|---|
@@ -223,7 +223,7 @@ Oui : il vous identifie dans l'annexe 6 du formulaire de partage et dans la déc
 ## Sources
 
 - [Moniteur belge — Arrêté royal du 9 décembre 2021 fixant les autres exigences minimales auxquelles doivent répondre les factures et les informations relatives à la facturation de gaz et d'électricité](https://www.ejustice.just.fgov.be/eli/arrete/2021/12/09/2021022724/justel) — article 3, § 2, 9° (code d'identification unique du point de fourniture sur la facture de décompte et de clôture) et article 5, 11° (même code sur la facture d'acompte) ; entrée en vigueur le 1er janvier 2022. Consulté le 23 octobre 2026.
-- [CWaPE — Décision CD-26h27-CWaPE-1284 d'approbation du règlement technique pour la gestion des réseaux de distribution d'électricité en Région wallonne](https://www.cwape.be/sites/default/files/cwape-documents/CD-26h27-CWaPE-1284-D%C3%A9cision%20d%27approbation%20du%20RTDE%20%26%20annexes_site.pdf) — décision du 27 août 2026 adoptant le nouveau règlement technique, à publier au Moniteur belge après traduction et applicable dix jours après sa publication ; le règlement en vigueur reste celui approuvé par l'arrêté du Gouvernement wallon du 27 mai 2021. Source de la définition du code EAN (EAN-GSRN pour un point d'accès, EAN-GLN pour un acteur du marché), de la communication du code dans un délai maximum de dix jours sur la base du numéro de compteur et de l'adresse (article IV.22, § 2) et de l'accès gratuit aux données de comptage moyennant communication du code (article V.74). Consulté le 23 octobre 2026.
+- [CWaPE — Décision CD-26h27-CWaPE-1284 d'approbation du règlement technique pour la gestion des réseaux de distribution d'électricité en Région wallonne](https://www.cwape.be/sites/default/files/cwape-documents/CD-26h27-CWaPE-1284-D%C3%A9cision%20d%27approbation%20du%20RTDE%20%26%20annexes_site.pdf) — décision du 27 août 2026 adoptant le nouveau règlement technique, [publié au Moniteur belge le 20 novembre 2026](https://www.ejustice.just.fgov.be/cgi/article_body.pl?language=fr&caller=summary&pub_date=2026-11-20&numac=2026007520) et en vigueur le 30 novembre 2026 ; jusque-là s'applique celui approuvé par l'arrêté du Gouvernement wallon du 27 mai 2021. Source de la définition du code EAN (EAN-GSRN pour un point d'accès, EAN-GLN pour un acteur du marché), de la communication du code dans un délai maximum de dix jours sur la base du numéro de compteur et de l'adresse (article IV.22, § 2) et de l'accès gratuit aux données de comptage moyennant communication du code (article V.74). Consulté le 23 octobre et le 24 novembre 2026.
 - [GS1 — Global Service Relation Number (GSRN)](https://www.gs1.org/standards/id-keys/gsrn) et [GS1 — GS1 Company Prefix](https://www.gs1.org/standards/id-keys/company-prefix) — usage du GSRN pour les points de comptage d'une entreprise d'électricité ; préfixes 540 à 549 gérés par GS1 Belgium & Luxembourg. Consultés le 23 octobre 2026.
 - [CREG — Code EAN](https://www.creg.be/fr/a-z-index/code-ean) — code à 18 chiffres, unique au point de fourniture, figurant sur la facture et nécessaire pour souscrire un nouveau contrat. Consulté le 23 octobre 2026.
 - [ORES — Code EAN](https://www.ores.be/particulier/code-ean) — endroits où trouver le code, caractère confidentiel et risque de changement de contrat par une personne mal intentionnée. Consulté le 23 octobre 2026.

@@ -2,13 +2,13 @@
 layout: pillar
 title: "Net en netbeheerders: meter en EAN-code"
 subtitle: "Wie het net tot aan uw meter beheert, wie u belt voor wat, en wat de digitale meter voor u verandert."
-description: "Het net en uw netbeheerder in Wallonië: wie wat doet tussen netbeheerder en leverancier, distributienettarieven, EAN-code en digitale meter."
+description: "Het net en uw netbeheerder in Wallonië: wie wat doet tussen netbeheerder en leverancier, distributienettarieven, EAN-code, digitale meter en verhuizen."
 lang: nl
 ref: pillar-reseau-grd
 pillar: reseau-grd
 permalink: /nl/gidsen/netbeheerders/
 breadcrumb_parent: guides
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-24
 sections:
   - title: "Begrijpen wie wat doet"
     refs: [dso-supplier-roles, ean-code-belgium]
@@ -16,6 +16,8 @@ sections:
     refs: [distribution-tariffs-dso-wallonia]
   - title: "Uw meter"
     refs: [meter-reading-index, smart-meter-wallonia]
+  - title: "Verhuizen"
+    refs: [moving-house-electricity]
 ---
 Op uw elektriciteitsfactuur staat maar één naam: die van uw leverancier. Toch brengt niet hij u de stroom. De leverancier verkoopt u de energie en int de hele factuur; de distributienetbeheerder vervoert de stroom tot aan uw meter, leest die af en lost storingen op. De eerste kiest u. De tweede nooit: hij is aangewezen voor een grondgebied en hoort bij uw adres. In Wallonië delen vijf netbeheerders het elektriciteitsnet, ORES, RESA, AIEG, AIESH en REW, en alleen ORES en RESA verdelen ook gas. [Onze tool “Wie is mijn netbeheerder?”]({{ "tool-dso" | ref_url }}) geeft u de uwe, voor elektriciteit en voor gas, op basis van uw postcode.
 
@@ -36,4 +38,6 @@ De meter zelf verandert. Sinds januari 2026 moet elk Waals leveringspunt tegen e
 
 Die kwartierdata zijn ook de voorwaarde voor energiedelen. In een deeloperatie leest de netbeheerder de gegevens van elke deelnemer af en past hij de verdeelsleutel toe, die bepaalt welk deel van de gedeelde stroom aan elk wordt toegewezen. Voor een gezin vraagt deelname in de praktijk een digitale meter met actieve communicatiefunctie. [“Digitale meter in Wallonië: de gids”]({{ "smart-meter-wallonia" | ref_url }}) legt uit hoe u er een krijgt bij elk van de vijf netbeheerders, wat hij kost en wat het uitschakelen van de communicatie kost.
 
-De gidsen hieronder beginnen bij de spelers en bij wat het net kost, en gaan daarna over de meter.
+Een verhuizing brengt al die spelers op dezelfde dag samen: het contract verhuist mee bij de leverancier, de netbeheerder opent een gesloten meter, de EAN-code verandert, de meterstanden neemt u met twee op. Slecht geregeld eindigt ze met een afsluiting: in 2025 was dat de oorzaak van meer dan de helft van de stroomafsluitingen bij Waalse gezinnen. [“Verhuizen: elektriciteit regelen in Wallonië”]({{ "moving-house-electricity" | ref_url }}) geeft de checklist in volgorde, wat een meter openen kost, en wat er met uw deelname aan een energiegemeenschap gebeurt.
+
+De gidsen hieronder beginnen bij de spelers en bij wat het net kost, gaan dan over de meter, en tot slot over verhuizen.

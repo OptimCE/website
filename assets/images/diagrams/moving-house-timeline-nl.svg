@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img" aria-labelledby="t d">
+<title id="t">Verhuizen: wat doet u wanneer?</title><desc id="d">Tijdlijn van een verhuizing in Wallonië, in zes stappen. Tien weken vooraf: wie in een energiegemeenschap zit, verwittigt de vertegenwoordiger. Eén maand vooraf: netbeheerder, EAN-code en contract van de nieuwe woning. Veertien dagen vooraf: de leverancier schriftelijk verwittigen. Op de dag van de sleutels: meters aflezen en fotograferen, op elk adres het overnamedocument ondertekenen. Binnen de maand: de meterstanden doorgeven, binnen de termijn die de leverancier publiceert. Zes weken na het einde van het contract: de slotfactuur vergelijken met het ondertekende document.</desc>
+<rect width="800" height="500" fill="#FFFFFF"/>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<text x="28" y="46" font-size="21" fill="#212529" font-weight="700" text-anchor="start">Verhuizen: wat doet u wanneer?</text>
+<text x="28" y="72" font-size="13.5" fill="#495057" font-weight="400" text-anchor="start">Elektriciteit en gas, in Wallonië</text>
+<line x1="60" y1="264" x2="740" y2="264" stroke="#DEE2E6" stroke-width="4" stroke-linecap="round"/>
+<line x1="130" y1="232" x2="130" y2="255" stroke="#2e7d32" stroke-width="1.5"/>
+<rect x="28" y="119" width="204" height="113" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<path d="M28 129 a10 10 0 0 1 10 -10 h184 a10 10 0 0 1 10 10 v24 h-204 z" fill="#E8F5E9"/>
+<text x="42" y="142" font-size="14.5" fill="#2e7d32" font-weight="700" text-anchor="start">10 weken vooraf</text>
+<text x="42" y="175" font-size="13.5" fill="#212529" font-weight="400" text-anchor="start">In een energiegemeenschap:</text>
+<text x="42" y="194" font-size="13.5" fill="#212529" font-weight="400" text-anchor="start">de vertegenwoordiger</text>
+<text x="42" y="213" font-size="13.5" fill="#212529" font-weight="400" text-anchor="start">verwittigen</text>
+<circle cx="130" cy="264" r="8" fill="#2e7d32" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="238" y1="273" x2="238" y2="296" stroke="#2e7d32" stroke-width="1.5"/>
+<rect x="136" y="296" width="204" height="113" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<path d="M136 306 a10 10 0 0 1 10 -10 h184 a10 10 0 0 1 10 10 v24 h-204 z" fill="#E8F5E9"/>
+<text x="150" y="319" font-size="14.5" fill="#2e7d32" font-weight="700" text-anchor="start">1 maand vooraf</text>
+<text x="150" y="352" font-size="13.5" fill="#212529" font-weight="400" text-anchor="start">Netbeheerder, EAN-code en</text>
+<text x="150" y="371" font-size="13.5" fill="#212529" font-weight="400" text-anchor="start">contract van de nieuwe</text>
+<text x="150" y="390" font-size="13.5" fill="#212529" font-weight="400" text-anchor="start">woning</text>
+<circle cx="238" cy="264" r="8" fill="#2e7d32" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="346" y1="232" x2="346" y2="255" stroke="#2e7d32" stroke-width="1.5"/>
+<rect x="244" y="138" width="204" height="94" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<path d="M244 148 a10 10 0 0 1 10 -10 h184 a10 10 0 0 1 10 10 v24 h-204 z" fill="#E8F5E9"/>
+<text x="258" y="161" font-size="14.5" fill="#2e7d32" font-weight="700" text-anchor="start">14 dagen vooraf</text>
+<text x="258" y="194" font-size="13.5" fill="#212529" font-weight="400" text-anchor="start">Uw leverancier schriftelijk</text>
+<text x="258" y="213" font-size="13.5" fill="#212529" font-weight="400" text-anchor="start">verwittigen</text>
+<circle cx="346" cy="264" r="8" fill="#2e7d32" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="454" y1="273" x2="454" y2="296" stroke="#2e7d32" stroke-width="1.5"/>
+<rect x="352" y="296" width="204" height="132" rx="10" fill="#FFFFFF" stroke="#2e7d32" stroke-width="2"/>
+<path d="M352 306 a10 10 0 0 1 10 -10 h184 a10 10 0 0 1 10 10 v24 h-204 z" fill="#2e7d32"/>
+<text x="366" y="319" font-size="14.5" fill="#FFFFFF" font-weight="700" text-anchor="start">Dag van de sleutels</text>
+<text x="366" y="352" font-size="13.5" fill="#212529" font-weight="400" text-anchor="start">Meters aflezen en</text>
+<text x="366" y="371" font-size="13.5" fill="#212529" font-weight="400" text-anchor="start">fotograferen, document</text>
+<text x="366" y="390" font-size="13.5" fill="#212529" font-weight="400" text-anchor="start">ondertekenen, op beide</text>
+<text x="366" y="409" font-size="13.5" fill="#212529" font-weight="400" text-anchor="start">adressen</text>
+<circle cx="454" cy="264" r="10" fill="#F59E0B" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="562" y1="232" x2="562" y2="255" stroke="#2e7d32" stroke-width="1.5"/>
+<rect x="460" y="119" width="204" height="113" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<path d="M460 129 a10 10 0 0 1 10 -10 h184 a10 10 0 0 1 10 10 v24 h-204 z" fill="#E8F5E9"/>
+<text x="474" y="142" font-size="14.5" fill="#2e7d32" font-weight="700" text-anchor="start">Binnen de maand</text>
+<text x="474" y="175" font-size="13.5" fill="#212529" font-weight="400" text-anchor="start">Meterstanden doorgeven,</text>
+<text x="474" y="194" font-size="13.5" fill="#212529" font-weight="400" text-anchor="start">binnen de termijn van uw</text>
+<text x="474" y="213" font-size="13.5" fill="#212529" font-weight="400" text-anchor="start">leverancier</text>
+<circle cx="562" cy="264" r="8" fill="#2e7d32" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="670" y1="273" x2="670" y2="296" stroke="#2e7d32" stroke-width="1.5"/>
+<rect x="568" y="296" width="204" height="94" rx="10" fill="#FFFFFF" stroke="#DEE2E6" stroke-width="1.5"/>
+<path d="M568 306 a10 10 0 0 1 10 -10 h184 a10 10 0 0 1 10 10 v24 h-204 z" fill="#E8F5E9"/>
+<text x="582" y="319" font-size="14.5" fill="#2e7d32" font-weight="700" text-anchor="start">6 weken later</text>
+<text x="582" y="352" font-size="13.5" fill="#212529" font-weight="400" text-anchor="start">Slotfactuur: vergelijken met</text>
+<text x="582" y="371" font-size="13.5" fill="#212529" font-weight="400" text-anchor="start">het document</text>
+<circle cx="670" cy="264" r="8" fill="#2e7d32" stroke="#FFFFFF" stroke-width="2"/>
+<text x="28" y="470" font-size="13" fill="#495057" font-weight="400" text-anchor="start">Zonder contract op het nieuwe adres kan de netbeheerder na de procedure afsluiten, ook in de winter.</text>
+</g></svg>

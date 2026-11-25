@@ -2,13 +2,13 @@
 layout: pillar
 title: "Grid and DSOs: operator, meter and EAN code"
 subtitle: "Who runs the grid up to your meter, who to call for what, and what a smart meter changes for you."
-description: "The grid and your DSO in Wallonia: who does what between grid operator and supplier, distribution tariffs, your EAN code and what a smart meter changes."
+description: "The grid and your DSO in Wallonia: who does what between DSO and supplier, distribution tariffs, your EAN code, smart meters and moving house."
 lang: en
 ref: pillar-reseau-grd
 pillar: reseau-grd
 permalink: /en/guides/grid-operators/
 breadcrumb_parent: guides
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-24
 sections:
   - title: "Understanding who does what"
     refs: [dso-supplier-roles, ean-code-belgium]
@@ -16,6 +16,8 @@ sections:
     refs: [distribution-tariffs-dso-wallonia]
   - title: "Your meter"
     refs: [meter-reading-index, smart-meter-wallonia]
+  - title: "Moving house"
+    refs: [moving-house-electricity]
 ---
 Your electricity bill carries only one name: your supplier's. Yet the supplier is not the one bringing power to your home. It sells you the energy and collects the whole bill; your distribution system operator (DSO) carries it to your meter, reads your meter and fixes outages. You choose the first. Never the second: it is appointed for a territory and comes with your address. In Wallonia, five DSOs share the electricity grid, ORES, RESA, AIEG, AIESH and REW, and only ORES and RESA also distribute gas. [Our “Find your DSO” tool]({{ "tool-dso" | ref_url }}) gives you yours, for electricity and for gas, from your postcode.
 
@@ -36,4 +38,6 @@ The meter itself is changing. Since January 2026, every supply point in Wallonia
 
 That quarter-hour data is also what energy sharing depends on. In a sharing operation, the DSO reads every participant's data and applies the allocation key, which sets the share of shared electricity allocated to each one. For a household, taking part in practice means a smart meter with its communication function switched on. [“Smart meters in Wallonia: the complete guide”]({{ "smart-meter-wallonia" | ref_url }}) explains how to get one from each of the five DSOs, what it costs and what switching off its communication costs.
 
-The guides below start with the players and what the grid costs, then turn to the meter.
+A move brings all these players together on the same day: the contract follows with the supplier, the DSO opens a closed meter, the EAN code changes, and the readings are taken by two people. Badly handled, it ends in a cut-off: in 2025, that was behind more than half of household electricity cut-offs in Wallonia. [“Moving house in Wallonia: electricity steps”]({{ "moving-house-electricity" | ref_url }}) gives the checklist in order, what opening a meter costs, and what becomes of your place in an energy community.
+
+The guides below start with the players and what the grid costs, turn to the meter, then to moving house.

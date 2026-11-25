@@ -9,7 +9,7 @@ tags: [guide]
 lang: fr
 ref: dso-supplier-roles
 pillar: reseau-grd
-last_modified_at: 2026-11-21 06:00:00 +0100
+last_modified_at: 2026-11-24 06:00:00 +0100
 permalink: /guides/difference-grd-fournisseur-elia/
 faq:
   - q: "Quelle est la différence entre le GRD et le fournisseur d'électricité ?"
@@ -151,7 +151,7 @@ Dans le bloc réseau, la distribution pèse bien plus que le transport. Sur la g
 | Code EAN perdu | votre GRD | il attribue le code |
 | Prix, acomptes, facture, contrat | votre fournisseur | il fixe le prix et gère le contrat |
 | Changement de fournisseur | le nouveau fournisseur | il résilie l'ancien contrat pour vous |
-| Déménagement | votre fournisseur | le contrat vous suit à la nouvelle adresse |
+| [Déménagement](/guides/demenagement-electricite-demarches/) | votre fournisseur | le contrat vous suit à la nouvelle adresse |
 | Difficultés de paiement | votre fournisseur, puis votre CPAS | le fournisseur lance la procédure, le GRD place le compteur à prépaiement |
 | Tarif social, client protégé régional | votre GRD | il est votre fournisseur social |
 | Plainte non résolue | médiation régionale ou fédérale | selon que la plainte porte sur le réseau ou sur le contrat |

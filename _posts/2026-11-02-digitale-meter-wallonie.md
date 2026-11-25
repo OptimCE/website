@@ -9,7 +9,7 @@ tags: [guide, community]
 lang: nl
 ref: smart-meter-wallonia
 pillar: reseau-grd
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-24
 permalink: /nl/gidsen/digitale-meter-wallonie/
 faq:
   - q: "Hoe vraag ik een digitale meter aan in Wallonië?"
@@ -43,7 +43,7 @@ Twee dingen worden vaak door elkaar gehaald:
 
 Ook met actieve communicatie stuurt de meter niet alles naar de markt. Het Waalse elektriciteitsdecreet is duidelijk: standaard worden alleen de meterstanden en de energievolumes in de marktprocessen gebruikt, en ze gaan eenmaal per jaar naar de leveranciers (artikel 35*ter*, § 2). Uw verbruikscurve per kwartier verlaat de netbeheerder alleen als u daarom vraagt.
 
-Het technisch reglement dat de CWaPE op 27 augustus 2026 goedkeurde, noemt die niveaus “meetregimes”:
+Het technisch reglement dat de CWaPE op 27 augustus 2026 goedkeurde en dat op 30 november 2026 van kracht wordt, noemt die niveaus “meetregimes”:
 
 | Regime | Wanneer het geldt | Wat de netbeheerder naar de markt stuurt |
 |---|---|---|
@@ -51,7 +51,7 @@ Het technisch reglement dat de CWaPE op 27 augustus 2026 goedkeurde, noemt die n
 | R1 | standaard, communicatie actief | begin- en eindstand, volumes per tijdsblok; eenmaal per jaar, of maandelijks op aanvraag |
 | R3 | op uitdrukkelijke aanvraag, via uw leverancier | daarbovenop de belastingscurve per kwartier, minstens maandelijks |
 
-*Hypotheses: Waals technisch reglement voor het beheer van de elektriciteitsdistributienetten, artikel V.45bis, in de versie die de CWaPE op 27 augustus 2026 goedkeurde. Leveranciers noemen R3 ook “SMR3”; het is verplicht voor een dynamisch prijscontract en voor energiedelen.*
+*Hypotheses: Waals technisch reglement voor het beheer van de elektriciteitsdistributienetten, artikel V.45bis, in de versie die op 30 november 2026 van kracht wordt. Leveranciers noemen R3 ook “SMR3”; het is verplicht voor een dynamisch prijscontract en voor energiedelen.*
 
 De communicerende meter is ook niet de enige meter die op afstand wordt uitgelezen. Aansluitingen met een hoger vermogen hebben vaak een AMR-meter, die per kwartier op afstand wordt uitgelezen en die de regels voor energiedelen ook aanvaarden. Voor een gezin is de communicerende meter de normale weg.
 
@@ -195,7 +195,7 @@ In Wallonië ja, of een AMR-meter, met actieve communicatie en het bij de levera
 - [Wallex — Decreet van 12 april 2001 betreffende de organisatie van de gewestelijke elektriciteitsmarkt, geconsolideerde versie](https://wallex.wallonie.be/eli/loi-decret/2001/04/12/2001027238) — artikel 35, § 1 (installatie op elk leveringspunt, uitzonderingen, 100 % tegen 31 december 2029, tekst van het decreet van 19 december 2025) en § 3 (weigering of uitschakeling van de communicatiefunctie en de zeven gevolgen), artikel 35*bis*, § 1 en § 4 (bijna realtime informatie, uitgangspoort standaard uit), artikel 35*ter*, § 2 en § 3 (standaardmeetregime, jaarlijkse doorsturing, gratis raadpleging), artikel 35*septies*, § 3 (voorafgaande toestemming voor toegang door derden), artikelen 35*octies*, § 3, 35*nonies* en 35*quaterdecies* (meter vereist voor delen). Versie van kracht op 2 november 2026, geraadpleegd op 2 november 2026.
 - [Wallex — Decreet van 19 december 2025 houdende diverse bepalingen inzake energie](https://wallex.wallonie.be/files/pdfs/22/124958_D%C3%A9cret_portant_dispositions_diverses_en_mati%C3%A8re_d'%C3%A9nergie_09-01-2026-.pdf) — artikel 26, herschrijving van artikel 35 van het elektriciteitsdecreet, in werking op 9 januari 2026. Geraadpleegd op 2 november 2026.
 - [Wallex — Besluit van de Waalse Regering van 1 december 2022 betreffende de communicerende meters](https://wallex.wallonie.be/eli/arrete/2022/12/01/2022034594) — artikel 2 (aanvraag, ontvangstbevestiging, offerte, plaatsing binnen vier maanden, meter ten laste van de netbeheerder), artikel 3, § 1 (producenten van 10 kVA of minder sinds 1 januari 2024), artikel 4 (raadplegingsplatform, 24 maanden, export). Geraadpleegd op 2 november 2026.
-- [CWaPE — Beslissing CD-26h27-CWaPE-1284 tot goedkeuring van het technisch reglement voor het beheer van de elektriciteitsdistributienetten in het Waals Gewest](https://www.cwape.be/sites/default/files/cwape-documents/CD-26h27-CWaPE-1284-D%C3%A9cision%20d%27approbation%20du%20RTDE%20%26%20annexes_site.pdf) — artikel V.45*bis* (regimes R0, R1, R3; R3 verplicht voor delen en voor dynamische prijscontracten), artikel IX.14 (verdeling op kwartierbasis). Document van 27 augustus 2026, geraadpleegd op 2 november 2026.
+- [CWaPE — Beslissing CD-26h27-CWaPE-1284 tot goedkeuring van het technisch reglement voor het beheer van de elektriciteitsdistributienetten in het Waals Gewest](https://www.cwape.be/sites/default/files/cwape-documents/CD-26h27-CWaPE-1284-D%C3%A9cision%20d%27approbation%20du%20RTDE%20%26%20annexes_site.pdf) — artikel V.45*bis* (regimes R0, R1, R3; R3 verplicht voor delen en voor dynamische prijscontracten), artikel IX.14 (verdeling op kwartierbasis). Document van 27 augustus 2026, [op 20 november 2026 in het Belgisch Staatsblad verschenen](https://www.ejustice.just.fgov.be/cgi/article_body.pl?language=fr&caller=summary&pub_date=2026-11-20&numac=2026007520) en van kracht op 30 november 2026, geraadpleegd op 2 en 24 november 2026.
 - [CWaPE — Algemeen jaarverslag 2025](https://www.cwape.be/sites/default/files/cwape-documents/2026.07.03-RAG%202025.pdf) — meer dan 537 000 communicerende elektriciteitsmeters eind 2025, ongeveer 28 % van het totaal; gratis vervanging, bewerkingen op afstand en activering; betalende uitschakeling meer dan twee weken na de plaatsing. Verslag van 3 juli 2026, geraadpleegd op 2 november 2026.
 - [CWaPE — Specifiek jaarverslag 2025 over de openbaredienstverplichtingen](https://www.cwape.be/sites/default/files/cwape-documents/2026.07.03-RAS%20OSP%202025.pdf) — einde van de budgetmeters met kaart op 1 januari 2026, 59 294 actieve meters met voorafbetaling, waarvan 98,8 % communicerend. Verslag van 3 juli 2026, geraadpleegd op 2 november 2026.
 - [CWaPE — FAQ over de incentivetarifering](https://cwape.be/sites/default/files/cwape-documents/2024.07.15-Tarification%20incitative-FAQ.pdf) — communicerende meter met actieve communicatie, hoogstens 56 kVA. Document van 15 juli 2024. [CWaPE — Persmap over de distributienettarieven](https://www.cwape.be/sites/default/files/cwape-documents/2025.11.03-Tarifs%20distribution_dossier%20de%20presse%20-%20final.pdf) — weigering om R3 op te leggen voor het Impact-tarief, definitie van R1 en R3. Document van 3 november 2025. Geraadpleegd op 2 november 2026.

@@ -9,7 +9,7 @@ tags: [community, administrative, guide]
 lang: en
 ref: create-energy-community-wallonia
 pillar: communautes-energie
-last_modified_at: 2026-11-13 08:00:00 +0100
+last_modified_at: 2026-11-25 06:00:00 +0100
 permalink: /en/guides/create-energy-community-wallonia/
 ---
 
@@ -213,7 +213,7 @@ Yes. **Local authorities** (municipalities, inter-municipal entities, public soc
 
 ## Would you rather join an existing community?
 
-If creating a community from scratch feels too heavy, **joining an existing operation** is much faster — typically 6 to 12 weeks between first contact and first shared kilowatt-hour. See our practical guide:
+If creating a community from scratch feels too heavy, **joining an existing operation** is lighter: the legal entity and the sharing authorisation already exist. Allow **6 to 12 weeks** as a rough guide between first contact and first shared kilowatt-hour, and up to 110 working days if every step takes its full time, because the DSO and then the CWaPE examine the addition of a participant ([CWaPE, guide to modifying a sharing scheme, July 2025, in French](https://www.cwape.be/documents/download/6017)). See our practical guide:
 
 > **[Join an energy community in Wallonia](/en/guides/join-energy-community-wallonia/)**
 >
@@ -228,6 +228,7 @@ To get started or to compare features, see the [OptimCE user guide](https://guid
 ## Sources
 
 - [CWaPE — What is the procedure to create an energy community?](https://www.cwape.be/node/6052) — mandatory notification, standard form, 10-business-day deadline for the acknowledgement of receipt.
+- [CWaPE — Explanatory guide to the form for modifying electricity sharing, July 2025](https://www.cwape.be/documents/download/6017) (in French) — addition of a participant examined by the DSO then the CWaPE, maximum times.
 - [CWaPE — Energy communities](https://www.cwape.be/node/158) — Walloon framework, community types, legal foundations, notification and annual reporting.
 - [CWaPE — Energy communities and energy sharing](https://www.cwape.be/secteur/communautes-partage-energie) — general Walloon framework on sharing and communities.
 - [CWaPE — Network operators](https://www.cwape.be/node/160) — the five electricity DSOs active in Wallonia, two of which, ORES and RESA, also distribute gas.

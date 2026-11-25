@@ -2,13 +2,13 @@
 layout: pillar
 title: "Netz und Netzbetreiber: Zähler und EAN-Code"
 subtitle: "Wer das Netz bis zu Ihrem Zähler betreibt, wen Sie wofür anrufen und was der Smart Meter für Sie ändert."
-description: "Netz und Netzbetreiber in der Wallonie: wer was macht zwischen Netzbetreiber und Lieferant, Verteilungstarife, EAN-Code und Smart Meter."
+description: "Netz und Netzbetreiber in der Wallonie: wer was macht zwischen Netzbetreiber und Lieferant, Verteilungstarife, EAN-Code, Smart Meter und Umzug."
 lang: de
 ref: pillar-reseau-grd
 pillar: reseau-grd
 permalink: /de/ratgeber/netzbetreiber/
 breadcrumb_parent: guides
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-24
 sections:
   - title: "Verstehen, wer was macht"
     refs: [dso-supplier-roles, ean-code-belgium]
@@ -16,6 +16,8 @@ sections:
     refs: [distribution-tariffs-dso-wallonia]
   - title: "Ihr Zähler"
     refs: [meter-reading-index, smart-meter-wallonia]
+  - title: "Umziehen"
+    refs: [moving-house-electricity]
 ---
 Auf Ihrer Stromrechnung steht nur ein Name: der Ihres Lieferanten. Doch nicht er bringt Ihnen den Strom. Der Lieferant verkauft Ihnen die Energie und kassiert die ganze Rechnung; der Verteilernetzbetreiber (VNB, auf Französisch GRD) bringt den Strom bis zu Ihrem Zähler, liest ihn ab und behebt Störungen. Den ersten wählen Sie. Den zweiten nie: Er ist für ein Gebiet bestimmt und hängt von Ihrer Adresse ab. In der Wallonie teilen sich fünf Netzbetreiber das Stromnetz, ORES, RESA, AIEG, AIESH und REW, und nur ORES und RESA verteilen auch Gas. [Unser Werkzeug „Netzbetreiber finden“]({{ "tool-dso" | ref_url }}) nennt Ihnen Ihren Netzbetreiber für Strom und für Gas, anhand Ihrer Postleitzahl.
 
@@ -36,4 +38,6 @@ Der Zähler selbst verändert sich. Seit Januar 2026 muss jeder Lieferpunkt in d
 
 Diese Viertelstundendaten sind auch die Voraussetzung für das Energieteilen. In einer Teilungsoperation liest der Netzbetreiber die Daten jedes Teilnehmers ab und wendet den Aufteilungsschlüssel an, der festlegt, welcher Anteil des geteilten Stroms jedem zugeordnet wird. Für einen Haushalt setzt die Teilnahme in der Praxis einen Smart Meter mit aktiver Kommunikationsfunktion voraus. [„Smart Meter in der Wallonie: der Ratgeber“]({{ "smart-meter-wallonia" | ref_url }}) erklärt, wie Sie ihn bei jedem der fünf Netzbetreiber bekommen, was er kostet und was das Abschalten seiner Kommunikation kostet.
 
-Die Ratgeber unten beginnen bei den Akteuren und den Kosten des Netzes und wenden sich dann dem Zähler zu.
+Ein Umzug bringt all diese Akteure am selben Tag ins Spiel: Der Vertrag zieht beim Lieferanten mit, der Netzbetreiber öffnet einen geschlossenen Zähler, der EAN-Code wechselt, die Zählerstände werden zu zweit abgelesen. Schlecht geregelt endet er mit einer Sperre: 2025 war das der Grund für mehr als jede zweite Stromsperre bei wallonischen Haushalten. [„Umzug in der Wallonie: Strom richtig ummelden“]({{ "moving-house-electricity" | ref_url }}) gibt die Checkliste der Reihe nach, den Preis einer Zähleröffnung und sagt, was aus Ihrer Teilnahme an einer Energiegemeinschaft wird.
+
+Die Ratgeber unten beginnen bei den Akteuren und den Kosten des Netzes, wenden sich dann dem Zähler zu und schließlich dem Umzug.

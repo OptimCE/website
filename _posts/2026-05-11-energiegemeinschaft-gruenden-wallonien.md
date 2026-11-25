@@ -9,7 +9,7 @@ tags: [community, administrative, guide]
 lang: de
 ref: create-energy-community-wallonia
 pillar: communautes-energie
-last_modified_at: 2026-11-13 08:00:00 +0100
+last_modified_at: 2026-11-25 06:00:00 +0100
 permalink: /de/ratgeber/energiegemeinschaft-gruenden-wallonien/
 ---
 
@@ -213,7 +213,7 @@ Ja. **Gebietskörperschaften** (Gemeinden, Interkommunalen, ÖSHZ — und **alle
 
 ## Möchten Sie lieber einer bestehenden Gemeinschaft beitreten?
 
-Falls eine Gemeinschaft von Grund auf zu gründen Ihnen zu aufwändig erscheint, ist der **Beitritt zu einer bestehenden Operation** deutlich schneller — typischerweise 6 bis 12 Wochen zwischen Erstkontakt und erster geteilter Kilowattstunde. Sehen Sie unseren praktischen Leitfaden:
+Falls eine Gemeinschaft von Grund auf zu gründen Ihnen zu aufwändig erscheint, ist der **Beitritt zu einer bestehenden Operation** einfacher: Die juristische Person und die Teilungsgenehmigung bestehen schon. Rechnen Sie als Größenordnung mit **6 bis 12 Wochen** zwischen Erstkontakt und erster geteilter Kilowattstunde, und mit bis zu 110 Werktagen, wenn jeder Schritt seine volle Frist braucht, denn der VNB und dann die CWaPE prüfen den Beitritt eines Teilnehmers ([CWaPE, Leitfaden zur Änderung einer Teilung, Juli 2025, auf Französisch](https://www.cwape.be/documents/download/6017)). Sehen Sie unseren praktischen Leitfaden:
 
 > **[Energiegemeinschaft in der Wallonie beitreten](/de/ratgeber/energiegemeinschaft-beitreten-wallonien/)**
 >
@@ -228,6 +228,7 @@ Zum Einstieg oder zum Funktionsvergleich konsultieren Sie das [OptimCE-Benutzerh
 ## Quellen
 
 - [CWaPE — Welches Verfahren ist zur Gründung einer Energiegemeinschaft zu befolgen?](https://www.cwape.be/node/6052) — verpflichtende Meldung, Standardformular, 10-Werktage-Frist für die Empfangsbestätigung.
+- [CWaPE — Erläuterungen zum Formular für die Änderung einer Stromteilung, Juli 2025](https://www.cwape.be/documents/download/6017) (auf Französisch) — Beitritt eines Teilnehmers vom VNB und dann von der CWaPE geprüft, Höchstfristen.
 - [CWaPE — Energiegemeinschaften](https://www.cwape.be/node/158) — wallonischer Rahmen, Gemeinschaftstypen, Rechtsgrundlagen, Meldung und Jahresberichterstattung.
 - [CWaPE — Energiegemeinschaften und Energieteilung](https://www.cwape.be/secteur/communautes-partage-energie) — allgemeiner wallonischer Rahmen für Teilung und Gemeinschaften.
 - [CWaPE — Die Netzbetreiber](https://www.cwape.be/node/160) — die fünf in der Wallonie tätigen Stromnetzbetreiber, von denen zwei, ORES und RESA, auch Gas verteilen.

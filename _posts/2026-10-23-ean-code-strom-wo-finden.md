@@ -9,7 +9,7 @@ tags: [guide]
 lang: de
 ref: ean-code-belgium
 pillar: reseau-grd
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-24
 permalink: /de/ratgeber/ean-code-strom-wo-finden/
 faq:
   - q: "Wo finde ich meinen EAN-Code für Strom?"
@@ -36,7 +36,7 @@ Dieser Artikel wiederholt nicht, was auf dieser Website schon steht. [„Belgisc
 
 ## Was ein EAN-Code bezeichnet
 
-„EAN“ steht für *European Article Numbering*. Das wallonische technische Reglement definiert ihn in der von der CWaPE im August 2026 angenommenen Fassung als „eindeutiges numerisches Feld“, das „entweder einen Zugangspunkt (EAN-GSRN-Code […]) oder einen der Marktakteure (EAN-GLN-Code […])“ kennzeichnet. Der Code auf Ihrer Rechnung ist der erste.
+„EAN“ steht für *European Article Numbering*. Das wallonische technische Reglement definiert ihn in der von der CWaPE im August 2026 angenommenen, am 30. November 2026 in Kraft tretenden Fassung als „eindeutiges numerisches Feld“, das „entweder einen Zugangspunkt (EAN-GSRN-Code […]) oder einen der Marktakteure (EAN-GLN-Code […])“ kennzeichnet. Der Code auf Ihrer Rechnung ist der erste.
 
 RESA fasst es so zusammen: Die EAN-Nummer ist „weder die Zählernummer noch die Kundennummer“. Sie „bleibt mit dem Anschlussort verbunden, unabhängig vom Lieferanten oder vom Kunden“. ORES ergänzt, dass es „einen EAN-Code je gelieferter Energie“ gibt.
 
@@ -120,7 +120,7 @@ Das **Übergabedokument für Energie** (*document de reprise des énergies*), vo
 
 Im Mehrparteienhaus prüfen Sie den Code, den man Ihnen nennt. Die CWaPE stellt fest, dass Fehler „oft“ Vertauschungen sind: Ein neuer Bewohner erhält den EAN-Code seines Nachbarn, etwa vom Vermieter oder vom Hausverwalter. Die verlässliche Kontrolle bleibt die Zählernummer, die Sie selbst ablesen.
 
-Übernimmt niemand die Lieferstelle, schreibt der Netzbetreiber dem neuen Bewohner innerhalb von fünf Werktagen und kommt ohne Antwort innerhalb von fünfzehn Werktagen mit einem Regularisierungsformular vorbei; ohne Vertrag kann er die Versorgung aussetzen (Ministerialerlass vom 3. März 2008).
+Übernimmt niemand die Lieferstelle, schreibt der Netzbetreiber dem neuen Bewohner innerhalb von fünf Werktagen, versucht ihn ohne Antwort fünfzehn Tage lang zu erreichen und kommt dann innerhalb von fünfzehn Werktagen mit einem Regularisierungsformular vorbei; ohne Vertrag kann er die Versorgung aussetzen, auch im Winter (Ministerialerlass vom 3. März 2008). Alle Schritte stehen in [„Umzug in der Wallonie: Strom richtig ummelden“](/de/ratgeber/umzug-strom-ummelden-wallonie/).
 
 Zwei Entscheidungen, die an einem Code hängen, bleiben bei der Wohnung. Die Teilnahme an einer Energieteilung, wie unser [Leitfaden für Mieter](/de/ratgeber/solar-mieter-ohne-dach-leitfaden/) erklärt. Und der **Verzicht auf die Kompensation**, den die Teilung verlangt: Er ist endgültig, und dieses Recht kann laut CWaPE „auch für den neuen Erzeuger (neuer Eigentümer oder Mieter) nicht reaktiviert werden“. Übernehmen Sie ein Haus mit Solaranlage, fragen Sie, ob der frühere Bewohner darauf verzichtet hat.
 
@@ -142,13 +142,13 @@ Bei einer Erneuerbare-Energie-Gemeinschaft wird auch der Perimeter über die Cod
 
 ### Für zwei weniger bekannte Zwecke
 
-Der **GreenCheck** der CWaPE zeigt anhand Ihres Strom-Codes „den Prozentsatz an Ökostrom, den Sie pro Monat verbrauchen“, für in der Wallonie geschlossene Verträge; unsere Analyse zum [Ökostrom](/de/ratgeber/oekostrom-belgien-wirklich-gruen/) erklärt, was diese Zahl beweist. Und das neue technische Reglement, das noch im Belgischen Staatsblatt veröffentlicht werden muss, gibt Ihnen kostenlos Zugang zu Ihren Entnahme- und Einspeisedaten „gegen Mitteilung [Ihres] EAN-Codes“.
+Der **GreenCheck** der CWaPE zeigt anhand Ihres Strom-Codes „den Prozentsatz an Ökostrom, den Sie pro Monat verbrauchen“, für in der Wallonie geschlossene Verträge; unsere Analyse zum [Ökostrom](/de/ratgeber/oekostrom-belgien-wirklich-gruen/) erklärt, was diese Zahl beweist. Und das neue technische Reglement, am 20. November 2026 im Belgischen Staatsblatt veröffentlicht und ab dem 30. November 2026 in Kraft, gibt Ihnen kostenlos Zugang zu Ihren Entnahme- und Einspeisedaten „gegen Mitteilung [Ihres] EAN-Codes“.
 
 ## Ich finde meinen EAN-Code nicht
 
 Der Netzbetreiber findet ihn wieder: Er hat ihn vergeben. Das Werkzeug [„Netzbetreiber finden“](/de/werkzeuge/netzbetreiber-finden/) sagt Ihnen, welchen Sie kontaktieren; für Gas ist es in der Wallonie ORES oder RESA, die beiden einzigen Gasverteiler.
 
-Halten Sie Ihre **genaue Adresse** bereit, mit Briefkastennummer, und Ihre **Zählernummer**, am Gerät abgelesen. AIEG und REW schicken den Code nur „bei guter Übereinstimmung“ der beiden. Das neue technische Reglement der CWaPE sieht eine Antwort innerhalb von höchstens zehn Tagen auf Grundlage dieser beiden Angaben vor.
+Halten Sie Ihre **genaue Adresse** bereit, mit Briefkastennummer, und Ihre **Zählernummer**, am Gerät abgelesen. AIEG und REW schicken den Code nur „bei guter Übereinstimmung“ der beiden. Das neue technische Reglement, ab dem 30. November 2026 in Kraft, sieht eine Antwort innerhalb von höchstens zehn Werktagen auf Grundlage dieser beiden Angaben vor.
 
 | Netzbetreiber | Wie Sie fragen | Wie der Code kommt |
 |---|---|---|
@@ -223,7 +223,7 @@ Ja: Er weist Sie in Anhang 6 des Teilungsformulars und in der Erklärung aus, di
 ## Quellen
 
 - [Belgisches Staatsblatt — Königlicher Erlass vom 9. Dezember 2021 zur Festlegung weiterer Mindestanforderungen an Gas- und Stromrechnungen und Abrechnungsinformationen](https://www.ejustice.just.fgov.be/eli/arrete/2021/12/09/2021022724/justel) (auf Französisch) — Artikel 3 § 2 Nr. 9 (eindeutiger Identifikationscode der Lieferstelle auf der Jahres- und Schlussabrechnung) und Artikel 5 Nr. 11 (derselbe Code auf der Abschlagsrechnung); in Kraft seit dem 1. Januar 2022. Abgerufen am 23. Oktober 2026.
-- [CWaPE — Entscheidung CD-26h27-CWaPE-1284 zur Genehmigung des technischen Reglements für die Verwaltung der Stromverteilernetze in der Wallonischen Region](https://www.cwape.be/sites/default/files/cwape-documents/CD-26h27-CWaPE-1284-D%C3%A9cision%20d%27approbation%20du%20RTDE%20%26%20annexes_site.pdf) (auf Französisch) — Entscheidung vom 27. August 2026 zur Annahme des neuen technischen Reglements, das nach Übersetzung im Staatsblatt veröffentlicht wird und zehn Tage danach gilt; in Kraft bleibt bis dahin das durch Erlass der Wallonischen Regierung vom 27. Mai 2021 genehmigte Reglement. Quelle der Definition des EAN-Codes (EAN-GSRN für einen Zugangspunkt, EAN-GLN für einen Marktakteur), der Mitteilung des Codes binnen höchstens zehn Tagen anhand von Zählernummer und Adresse (Artikel IV.22 § 2) und des kostenlosen Zugangs zu Messdaten gegen Mitteilung des Codes (Artikel V.74). Abgerufen am 23. Oktober 2026.
+- [CWaPE — Entscheidung CD-26h27-CWaPE-1284 zur Genehmigung des technischen Reglements für die Verwaltung der Stromverteilernetze in der Wallonischen Region](https://www.cwape.be/sites/default/files/cwape-documents/CD-26h27-CWaPE-1284-D%C3%A9cision%20d%27approbation%20du%20RTDE%20%26%20annexes_site.pdf) (auf Französisch) — Entscheidung vom 27. August 2026 zur Annahme des neuen technischen Reglements, [am 20. November 2026 im Staatsblatt veröffentlicht](https://www.ejustice.just.fgov.be/cgi/article_body.pl?language=fr&caller=summary&pub_date=2026-11-20&numac=2026007520) und ab dem 30. November 2026 in Kraft; bis dahin gilt das durch Erlass der Wallonischen Regierung vom 27. Mai 2021 genehmigte Reglement. Quelle der Definition des EAN-Codes (EAN-GSRN für einen Zugangspunkt, EAN-GLN für einen Marktakteur), der Mitteilung des Codes binnen höchstens zehn Tagen anhand von Zählernummer und Adresse (Artikel IV.22 § 2) und des kostenlosen Zugangs zu Messdaten gegen Mitteilung des Codes (Artikel V.74). Abgerufen am 23. Oktober und 24. November 2026.
 - [GS1 — Global Service Relation Number (GSRN)](https://www.gs1.org/standards/id-keys/gsrn) und [GS1 — GS1 Company Prefix](https://www.gs1.org/standards/id-keys/company-prefix) (auf Englisch) — Nutzung der GSRN für die Messstellen eines Elektrizitätsunternehmens; Präfixe 540 bis 549 von GS1 Belgium & Luxembourg verwaltet. Abgerufen am 23. Oktober 2026.
 - [CREG — EAN-Code](https://www.creg.be/fr/a-z-index/code-ean) (auf Französisch) — 18-stelliger Code, einzigartig für die Lieferstelle, auf der Rechnung angegeben und für einen neuen Vertrag nötig. Abgerufen am 23. Oktober 2026.
 - [ORES — EAN-Code](https://www.ores.be/particulier/code-ean) (auf Französisch) — Fundorte des Codes, vertraulicher Charakter und Risiko einer Vertragsänderung durch eine böswillige Person. Abgerufen am 23. Oktober 2026.

@@ -9,7 +9,7 @@ tags: [guide]
 lang: nl
 ref: ean-code-belgium
 pillar: reseau-grd
-last_modified_at: 2026-11-21 06:00:00 +0100
+last_modified_at: 2026-11-24 06:00:00 +0100
 permalink: /nl/gidsen/ean-code-elektriciteit-vinden/
 faq:
   - q: "Waar vind ik mijn EAN-code voor elektriciteit?"
@@ -36,7 +36,7 @@ Dit artikel herhaalt niet wat al op deze site staat. [“Elektriciteitsfactuur l
 
 ## Wat een EAN-code aanduidt
 
-“EAN” staat voor *European Article Numbering*. Het Waalse technisch reglement, in de versie die de CWaPE in augustus 2026 heeft aangenomen, definieert hem als een “uniek numeriek veld” dat “ofwel een toegangspunt (EAN-GSRN-code […]), ofwel een van de marktspelers (EAN-GLN-code […])” aanduidt. De code op uw factuur is de eerste.
+“EAN” staat voor *European Article Numbering*. Het Waalse technisch reglement, in de versie die de CWaPE in augustus 2026 heeft aangenomen en die op 30 november 2026 van kracht wordt, definieert hem als een “uniek numeriek veld” dat “ofwel een toegangspunt (EAN-GSRN-code […]), ofwel een van de marktspelers (EAN-GLN-code […])” aanduidt. De code op uw factuur is de eerste.
 
 Fluvius vat het samen: de EAN-code “is niet persoonsgebonden, maar behoort toe aan het adres waar de meter staat”. De Luikse netbeheerder RESA voegt eraan toe dat het EAN-nummer noch het meternummer, noch het klantnummer is.
 
@@ -122,7 +122,7 @@ Het **overnamedocument energie** dat de CWaPE heeft opgesteld, legt de meterstan
 
 In een appartementsgebouw controleert u de code die u krijgt. Sibelga raadt aan hem aan de vorige bewoners of de syndicus te vragen, maar de CWaPE stelt vast dat fouten “vaak” verwisselingen zijn: een nieuwe bewoner krijgt de EAN-code van zijn buren, bijvoorbeeld van de verhuurder of de syndicus. De betrouwbare controle blijft het meternummer, dat u zelf afleest.
 
-Neemt niemand het Waalse leveringspunt over, dan schrijft de netbeheerder de nieuwe bewoner binnen vijf werkdagen aan, komt hij zonder antwoord binnen vijftien werkdagen langs met een regularisatieformulier, en kan hij zonder contract de levering opschorten (ministerieel besluit van 3 maart 2008).
+Neemt niemand het Waalse leveringspunt over, dan schrijft de netbeheerder de nieuwe bewoner binnen vijf werkdagen aan, probeert hij die zonder antwoord vijftien dagen lang te bereiken, komt hij dan binnen vijftien werkdagen langs met een regularisatieformulier, en kan hij zonder contract de levering opschorten, ook in de winter (ministerieel besluit van 3 maart 2008). Alle stappen staan in [“Verhuizen: elektriciteit regelen in Wallonië”](/nl/gidsen/verhuizen-elektriciteit-wallonie/).
 
 Twee Waalse beslissingen die aan een code hangen, blijven bij de woning. De deelname aan een energiedeling, zoals onze [gids voor huurders](/nl/gidsen/zonne-energie-huurder-zonder-dak-gids/) uitlegt. En het **afzien van de compensatie**, dat energiedelen vereist: het is definitief, en dat recht kan volgens de CWaPE “ook niet worden heractiveerd voor de nieuwe producent (nieuwe eigenaar of huurder)”. Neemt u een Waalse woning met zonnepanelen over, vraag dan of de vorige bewoner ervan heeft afgezien.
 
@@ -144,13 +144,13 @@ Voor een hernieuwbare-energiegemeenschap wordt ook de perimeter per code gecontr
 
 ### Voor twee minder bekende toepassingen
 
-De **GreenCheck** van de CWaPE toont op basis van uw elektriciteitscode “het percentage groene stroom dat u per maand verbruikt”, alleen voor contracten in Wallonië; in Vlaanderen doet de Groencheck van de Vlaamse Nutsregulator (voorheen VREG) iets vergelijkbaars, zoals onze analyse van [groene stroom](/nl/gidsen/groene-stroom-belgie-echt-groen/) uitlegt. En het nieuwe Waalse technisch reglement, dat nog in het Belgisch Staatsblad moet verschijnen, geeft u gratis toegang tot uw afname- en injectiegegevens “mits mededeling van [uw] EAN-code”.
+De **GreenCheck** van de CWaPE toont op basis van uw elektriciteitscode “het percentage groene stroom dat u per maand verbruikt”, alleen voor contracten in Wallonië; in Vlaanderen doet de Groencheck van de Vlaamse Nutsregulator (voorheen VREG) iets vergelijkbaars, zoals onze analyse van [groene stroom](/nl/gidsen/groene-stroom-belgie-echt-groen/) uitlegt. En het nieuwe Waalse technisch reglement, op 20 november 2026 in het Belgisch Staatsblad verschenen en van kracht op 30 november 2026, geeft u gratis toegang tot uw afname- en injectiegegevens “mits mededeling van [uw] EAN-code”.
 
 ## Ik vind mijn EAN-code niet
 
 De netbeheerder vindt hem terug: hij kent hem toe. De tool [“Wie is mijn netbeheerder?”](/nl/tools/wie-is-mijn-netbeheerder/) zegt u welke u contacteert.
 
-Houd uw **exacte adres** bij de hand, busnummer inbegrepen, en uw **meternummer**, op het toestel afgelezen. AIEG en REW sturen de code alleen bij een goede overeenstemming tussen beide. Het nieuwe Waalse technisch reglement voorziet een antwoord binnen hoogstens tien dagen op basis van die twee gegevens.
+Houd uw **exacte adres** bij de hand, busnummer inbegrepen, en uw **meternummer**, op het toestel afgelezen. AIEG en REW sturen de code alleen bij een goede overeenstemming tussen beide. Het nieuwe Waalse technisch reglement, van kracht op 30 november 2026, voorziet een antwoord binnen hoogstens tien werkdagen op basis van die twee gegevens.
 
 | Netbeheerder | Hoe u het vraagt | Hoe de code aankomt |
 |---|---|---|
@@ -227,7 +227,7 @@ Ja. In Wallonië staat hij op bijlage 6 van het formulier van de CWaPE en op uw 
 ## Bronnen
 
 - [Belgisch Staatsblad — Koninklijk besluit van 9 december 2021 tot vaststelling van de andere minimale vereisten voor de facturen en de factuurinformatie voor gas en elektriciteit](https://www.ejustice.just.fgov.be/eli/arrete/2021/12/09/2021022724/justel) — artikel 3, § 2, 9° (unieke identificatiecode van het leveringspunt op de jaar- en slotafrekening) en artikel 5, 11° (dezelfde code op de voorschotfactuur); van kracht sinds 1 januari 2022. Geraadpleegd op 23 oktober 2026.
-- [CWaPE — Beslissing CD-26h27-CWaPE-1284 tot goedkeuring van het technisch reglement voor het beheer van de elektriciteitsdistributienetten in het Waals Gewest](https://www.cwape.be/sites/default/files/cwape-documents/CD-26h27-CWaPE-1284-D%C3%A9cision%20d%27approbation%20du%20RTDE%20%26%20annexes_site.pdf) — beslissing van 27 augustus 2026 tot aanneming van het nieuwe technisch reglement, dat na vertaling in het Belgisch Staatsblad verschijnt en tien dagen later geldt; tot dan blijft het reglement van kracht dat het besluit van de Waalse Regering van 27 mei 2021 goedkeurde. Bron van de definitie van de EAN-code (EAN-GSRN voor een toegangspunt, EAN-GLN voor een marktspeler), van de mededeling van de code binnen hoogstens tien dagen op basis van meternummer en adres (artikel IV.22, § 2) en van de gratis toegang tot meetgegevens mits mededeling van de code (artikel V.74). Geraadpleegd op 23 oktober 2026.
+- [CWaPE — Beslissing CD-26h27-CWaPE-1284 tot goedkeuring van het technisch reglement voor het beheer van de elektriciteitsdistributienetten in het Waals Gewest](https://www.cwape.be/sites/default/files/cwape-documents/CD-26h27-CWaPE-1284-D%C3%A9cision%20d%27approbation%20du%20RTDE%20%26%20annexes_site.pdf) — beslissing van 27 augustus 2026 tot aanneming van het nieuwe technisch reglement, [op 20 november 2026 in het Belgisch Staatsblad verschenen](https://www.ejustice.just.fgov.be/cgi/article_body.pl?language=fr&caller=summary&pub_date=2026-11-20&numac=2026007520) en van kracht op 30 november 2026; tot dan geldt het reglement dat het besluit van de Waalse Regering van 27 mei 2021 goedkeurde. Bron van de definitie van de EAN-code (EAN-GSRN voor een toegangspunt, EAN-GLN voor een marktspeler), van de mededeling van de code binnen hoogstens tien dagen op basis van meternummer en adres (artikel IV.22, § 2) en van de gratis toegang tot meetgegevens mits mededeling van de code (artikel V.74). Geraadpleegd op 23 oktober en 24 november 2026.
 - [GS1 — Global Service Relation Number (GSRN)](https://www.gs1.org/standards/id-keys/gsrn) en [GS1 — GS1 Company Prefix](https://www.gs1.org/standards/id-keys/company-prefix) — gebruik van de GSRN voor de meetpunten van een elektriciteitsbedrijf; prefixen 540 tot 549 beheerd door GS1 Belgium & Luxembourg. Geraadpleegd op 23 oktober 2026.
 - [CREG — EAN-code](https://www.creg.be/fr/a-z-index/code-ean) — code van 18 cijfers, uniek voor het leveringspunt, vermeld op de factuur en nodig voor een nieuw contract. Geraadpleegd op 23 oktober 2026.
 - [Fluvius — EAN-code opvragen](https://www.fluvius.be/nl/contact/contactformulier/ean-code) — 18 cijfers beginnend met 54, vindplaatsen (factuur, offerte, sticker op de meter), aparte code per elektriciteits- en aardgasmeter, code hoort bij het adres, antwoord binnen vijf werkdagen, volmacht voor de code van iemand anders. Geraadpleegd op 23 oktober 2026.

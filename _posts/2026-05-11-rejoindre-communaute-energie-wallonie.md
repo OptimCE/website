@@ -10,7 +10,7 @@ lang: fr
 ref: join-energy-community-wallonia
 pillar: communautes-energie
 permalink: /guides/rejoindre-communaute-energie-wallonie/
-last_modified_at: 2026-11-22 06:00:00 +0100
+last_modified_at: 2026-11-24 06:00:00 +0100
 ---
 
 En Wallonie, les communautés d'énergie sortent à peine de l'expérimentation : au 10 novembre 2026, la CWaPE avait autorisé douze activités de partage, dans six communautés, que notre [baromètre des partages autorisés](/guides/barometre-communautes-energie-wallonie/) recense une à une. Le cadre légal est stabilisé, les gestionnaires de réseau de distribution (GRD) sont rodés, et la majorité des compteurs sont déjà communicants. Reste un obstacle bien concret pour la plupart des citoyens, PME et autorités locales : **comment trouver une communauté qui accepte de nouveaux membres**, et **quoi vérifier avant de signer**.
@@ -25,7 +25,7 @@ Rejoindre une communauté existante est un chemin beaucoup plus court que d'en c
 
 | Aspect | Rejoindre | Créer |
 |---|---|---|
-| Délai typique | 6 à 12 semaines | 3 à 6 mois |
+| Délai | 6 à 12 semaines en ordre de grandeur, jusqu'à 22 en délais maximaux | 3 à 6 mois |
 | Engagement juridique | Adhésion à une personne morale existante | Constitution d'une ASBL ou coopérative |
 | Investissement | Cotisation ou part (de 10 à 500 € selon la structure) | Capital initial, frais notariaux, accompagnement |
 | À qui s'adresse | Citoyens, locataires, PME, communes en quête de partage | Collectifs, communes, producteurs porteurs de projet |
@@ -109,7 +109,7 @@ Surtout en milieu rural, beaucoup de communautés se constituent autour d'une in
 
 ## Les démarches pour adhérer — étape par étape
 
-Une fois la communauté identifiée, le parcours d'adhésion suit généralement six étapes. Le rythme dépend du gestionnaire et de votre situation, mais comptez **6 à 12 semaines** entre le premier contact et le premier kilowattheure partagé.
+Une fois la communauté identifiée, le parcours d'adhésion suit généralement six étapes. Le rythme dépend du gestionnaire et de votre situation, mais comptez **6 à 12 semaines**, en ordre de grandeur, entre le premier contact et le premier kilowattheure partagé. Les délais maximaux vont plus loin : l'ajout d'un participant est examiné par le GRD, puis par la CWaPE, et les étapes additionnées atteignent **110 jours ouvrables**, soit 22 semaines ([CWaPE, guide de modification du partage, juillet 2025](https://www.cwape.be/documents/download/6017)).
 
 ### Étape 1 — Prendre contact avec le gestionnaire
 
@@ -145,7 +145,7 @@ Selon la structure juridique de la communauté, les formalités varient :
 
 Bonne nouvelle pour vous : à cette étape, **vous n'avez rien à faire**. Le gestionnaire de la communauté transmet votre EAN à votre GRD, qui vous ajoute à l'opération de partage à une date convenue. Aucun changement de fournisseur, aucune résiliation, aucun nouveau contrat à signer côté énergie.
 
-Le délai entre la signature et le premier kWh partagé est typiquement de **4 à 8 semaines**. Le facteur limitant est la planification GRD, et éventuellement la pose d'un compteur communicant si vous n'en aviez pas.
+Le délai entre la signature et le premier kWh partagé est de l'ordre de **4 à 8 semaines** quand chaque étape va vite, et de 110 jours ouvrables au plus si chacune prend son délai maximal. Les facteurs limitants sont l'examen de l'ajout par le GRD et la CWaPE, et éventuellement la pose d'un compteur communicant si vous n'en aviez pas.
 
 ### Étape 6 — Premier décompte et suivi
 
@@ -209,7 +209,7 @@ L'économie dépend du taux de couverture (30 à 60 %) et de l'écart entre le p
 
 ### Que se passe-t-il si je déménage en cours d'adhésion ?
 
-Le partage est lié à votre **EAN**. Si vous quittez le périmètre (pour une CER) ou changez de GRD, vous sortez automatiquement de l'opération. Le préavis prévu dans la convention s'applique pour les formalités administratives ; le mécanisme physique de partage, lui, s'arrête dès que votre EAN n'est plus actif sur le point de fourniture.
+Votre participation ne vous suit pas : elle est attachée à l'**EAN** du logement que vous quittez. Le représentant de la communauté demande votre retrait au GRD, ce qui prend dix semaines au maximum ; à partir du 30 novembre 2026, le GRD retire aussi d'office un participant dès qu'il apprend qu'il n'est plus titulaire du point d'accès. Changer de GRD n'empêche pas de partager à nouveau, mais il faut un nouvel ajout et, pour une CER, une adresse dans le périmètre. Votre qualité de membre, elle, suit les statuts et le préavis de la convention. Le détail est dans [« Déménagement et électricité : les démarches »](/guides/demenagement-electricite-demarches/).
 
 ### Puis-je adhérer à plusieurs communautés en même temps ?
 
@@ -217,7 +217,7 @@ Théoriquement oui, mais **un EAN ne peut participer qu'à une seule opération 
 
 ### Combien de temps prend l'adhésion entre le premier contact et le premier kWh partagé ?
 
-En moyenne **6 à 12 semaines**. Le facteur limitant est la planification du GRD pour l'intégration de votre EAN à l'opération, et éventuellement la pose d'un compteur communicant si vous n'en aviez pas.
+De l'ordre de **6 à 12 semaines**, et jusqu'à 110 jours ouvrables si chaque étape prend son délai maximal. Les facteurs limitants sont l'examen de votre ajout par le GRD et la CWaPE, et éventuellement la pose d'un compteur communicant si vous n'en aviez pas.
 
 ### Faut-il être propriétaire pour rejoindre ?
 
@@ -247,6 +247,7 @@ Pour le contexte général — qu'est-ce qu'une communauté d'énergie, quelles 
 
 - [CWaPE — Communautés et partage d'énergie](https://www.cwape.be/secteur/communautes-partage-energie) — cadre wallon des conditions d'adhésion et du partage.
 - [CWaPE — Procédure de création d'une communauté d'énergie](https://www.cwape.be/node/6052) — formulaire-type, liste des membres éligibles, notification.
+- [CWaPE — Guide explicatif du formulaire de modification de partage d'électricité, juillet 2025](https://www.cwape.be/documents/download/6017) — ajout d'un participant examiné par le GRD puis par la CWaPE, retrait traité par le GRD seul, délais maximaux.
 - [SPW Énergie — Communautés d'énergie et partage d'énergie](https://energie.wallonie.be) — rôle du facilitateur et vulgarisation officielle.
 - [Énergie commune — Communauté](https://energiecommune.be) — formulaire de mise en relation citoyen ↔ communauté en Wallonie.
 - [Énergie+ — Comment mettre en place une communauté d'énergie en Wallonie](https://energieplus-lesite.be/webinaire/comment-mettre-en-place-une-communaute-denergie-en-wallonie/) — logique d'adhésion et de participation.

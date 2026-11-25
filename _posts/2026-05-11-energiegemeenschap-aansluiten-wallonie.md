@@ -9,7 +9,7 @@ tags: [community, administrative, guide]
 lang: nl
 ref: join-energy-community-wallonia
 pillar: communautes-energie
-last_modified_at: 2026-11-22 06:00:00 +0100
+last_modified_at: 2026-11-24 06:00:00 +0100
 permalink: /nl/gidsen/energiegemeenschap-aansluiten-wallonie/
 ---
 
@@ -25,7 +25,7 @@ Toetreden tot een bestaande gemeenschap is een veel korter traject dan er een op
 
 | Aspect | Toetreden | Oprichten |
 |---|---|---|
-| Typische doorlooptijd | 6 tot 12 weken | 3 tot 6 maanden |
+| Doorlooptijd | 6 tot 12 weken als richtwaarde, hoogstens 22 | 3 tot 6 maanden |
 | Juridisch engagement | Lidmaatschap van een bestaande rechtspersoon | Oprichting van een vzw of coöperatie |
 | Investering | Bijdrage of aandeel (€10 tot €500 naargelang de structuur) | Beginkapitaal, notariskosten, begeleiding |
 | Doelpubliek | Burgers, huurders, kmo's, gemeenten op zoek naar delen | Collectieven, gemeenten, producenten als projectdragers |
@@ -109,7 +109,7 @@ Vooral in landelijke gebieden ontstaan veel gemeenschappen rond een gemeentelijk
 
 ## De stappen om toe te treden — één voor één
 
-Eens een gemeenschap geïdentificeerd, verloopt de toetreding meestal in zes stappen. Het tempo hangt af van de beheerder en uw situatie, maar reken op **6 tot 12 weken** tussen het eerste contact en de eerste gedeelde kilowattuur.
+Eens een gemeenschap geïdentificeerd, verloopt de toetreding meestal in zes stappen. Het tempo hangt af van de beheerder en uw situatie, maar reken als richtwaarde op **6 tot 12 weken** tussen het eerste contact en de eerste gedeelde kilowattuur. De maximumtermijnen liggen hoger: de toevoeging van een deelnemer wordt onderzocht door de DNB en dan door de CWaPE, en samen komen de stappen op **110 werkdagen**, of 22 weken ([CWaPE, gids voor de wijziging van een energiedeling, juli 2025, in het Frans](https://www.cwape.be/documents/download/6017)).
 
 ### Stap 1 — Contact opnemen met de beheerder
 
@@ -145,7 +145,7 @@ Naargelang de juridische structuur van de gemeenschap variëren de formaliteiten
 
 Goed nieuws voor u: in deze fase **hoeft u niets te doen**. De beheerder van de gemeenschap geeft uw EAN door aan uw DNB, die u op een afgesproken datum aan de deelactie toevoegt. Geen verandering van leverancier, geen opzegging, geen nieuw contract aan energiezijde.
 
-De doorlooptijd tussen ondertekening en eerste gedeelde kWh is doorgaans **4 tot 8 weken**. De beperkende factor is de DNB-planning, eventueel verlengd door de plaatsing van een digitale meter als u er nog geen had.
+De doorlooptijd tussen ondertekening en eerste gedeelde kWh is ongeveer **4 tot 8 weken** als elke stap vlot gaat, en hoogstens 110 werkdagen als elke stap zijn volle termijn neemt. Bepalend is het onderzoek door de DNB en de CWaPE, eventueel verlengd door de plaatsing van een digitale meter als u er nog geen had.
 
 ### Stap 6 — Eerste afrekening en opvolging
 
@@ -209,7 +209,7 @@ De besparing hangt af van de dekkingsgraad (30 tot 60 %) en van het verschil tus
 
 ### Wat gebeurt er als ik tijdens mijn lidmaatschap verhuis?
 
-Het delen is gekoppeld aan uw **EAN**. Verlaat u de perimeter (bij een CER) of verandert u van DNB, dan verlaat u automatisch de deelactie. De in de overeenkomst voorziene opzeggingstermijn geldt voor de administratieve formaliteiten; het fysieke deelmechanisme zelf stopt zodra uw EAN niet meer actief is op het leveringspunt.
+Uw deelname verhuist niet mee: ze hangt aan de **EAN** van de woning die u verlaat. De vertegenwoordiger van de gemeenschap vraagt de DNB uw uittreding, wat hoogstens tien weken duurt; vanaf 30 november 2026 haalt de DNB een deelnemer ook zelf uit het delen zodra hij verneemt dat die geen houder van het toegangspunt meer is. Een andere DNB belet niet dat u opnieuw deelt, maar u moet opnieuw worden toegevoegd en, voor een CER, binnen de perimeter wonen. Uw lidmaatschap volgt de statuten en de opzegtermijn van de overeenkomst. De details, ook voor Vlaanderen en Brussel, staan in [“Verhuizen: elektriciteit regelen in Wallonië”](/nl/gidsen/verhuizen-elektriciteit-wallonie/).
 
 ### Kan ik tegelijk lid zijn van meerdere gemeenschappen?
 
@@ -217,7 +217,7 @@ In theorie ja, maar **één EAN kan slechts aan één deelactie tegelijk deelnem
 
 ### Hoelang duurt de toetreding van eerste contact tot eerste gedeelde kWh?
 
-Gemiddeld **6 tot 12 weken**. De beperkende factor is de DNB-planning voor de integratie van uw EAN in de operatie, eventueel verlengd door de plaatsing van een digitale meter.
+Ongeveer **6 tot 12 weken**, en tot 110 werkdagen als elke stap zijn volle termijn neemt. Bepalend is het onderzoek van uw toevoeging door de DNB en de CWaPE, eventueel verlengd door de plaatsing van een digitale meter.
 
 ### Moet ik eigenaar zijn om te kunnen toetreden?
 
@@ -247,6 +247,7 @@ Voor de algemene context — wat is een energiegemeenschap, wat zijn de Europese
 
 - [CWaPE — Energiegemeenschappen en energiedelen](https://www.cwape.be/secteur/communautes-partage-energie) — Waals kader van toetredingsvoorwaarden en delen.
 - [CWaPE — Procedure om een energiegemeenschap op te richten](https://www.cwape.be/node/6052) — standaardformulier, lijst van toegelaten leden, melding.
+- [CWaPE — Toelichting bij het formulier voor de wijziging van een energiedeling, juli 2025](https://www.cwape.be/documents/download/6017) (in het Frans) — toevoeging van een deelnemer onderzocht door de DNB en dan de CWaPE, uittreding door de DNB alleen, maximumtermijnen.
 - [SPW Énergie — Energiegemeenschappen en energiedelen](https://energie.wallonie.be) — rol van de facilitator en officiële vulgarisatie.
 - [Énergie commune — Gemeenschap](https://energiecommune.be) — matchingformulier voor burgers op zoek naar een Waalse gemeenschap.
 - [Énergie+ — Hoe een energiegemeenschap opzetten in Wallonië](https://energieplus-lesite.be/webinaire/comment-mettre-en-place-une-communaute-denergie-en-wallonie/) — logica van aansluiting en deelname.

@@ -9,6 +9,7 @@ tags: [guide]
 lang: fr
 ref: meter-reading-index
 pillar: reseau-grd
+last_modified_at: 2026-11-24 06:00:00 +0100
 permalink: /guides/releve-index-compteur-electricite/
 faq:
   - q: "Comment encoder mon index chez ORES ?"
@@ -18,7 +19,7 @@ faq:
   - q: "Comment lire un compteur bihoraire ?"
     a: "Un compteur bihoraire a deux index : les heures pleines, repérées par un soleil, un I, un 1 ou le code 1.8.1, et les heures creuses, repérées par une lune, un II, un 2 ou le code 1.8.2. Notez les deux, sans les chiffres après la virgule, en vérifiant d'abord que le numéro du compteur correspond à celui de votre courrier. Un indicateur, petite flèche ou triangle qui passe au vert, montre le registre qui tourne au moment du relevé. En Wallonie, depuis le 1er janvier 2026, les heures creuses vont de 11h à 17h et de 22h à 7h, sept jours sur sept, chez tous les gestionnaires de réseau."
   - q: "Que se passe-t-il si j'oublie de transmettre mon index ?"
-    a: "Le gestionnaire de réseau estime votre consommation et transmet cette estimation à votre fournisseur. C'est une obligation du règlement technique wallon : les données manquantes sont remplacées par des valeurs calculées sur des critères objectifs, en pratique à partir de l'historique de vos consommations. La facture doit indiquer si l'index est réel ou estimé. Si votre consommation a changé, l'écart n'est pas perdu : il est rattrapé sur une facture suivante, souvent la régularisation. Le nouveau règlement technique, approuvé en août 2026 mais pas encore en vigueur, permettra d'estimer à la hausse quand le relevé manque du fait du client."
+    a: "Le gestionnaire de réseau estime votre consommation et transmet cette estimation à votre fournisseur. C'est une obligation du règlement technique wallon : les données manquantes sont remplacées par des valeurs calculées sur des critères objectifs, en pratique à partir de l'historique de vos consommations. La facture doit indiquer si l'index est réel ou estimé. Si votre consommation a changé, l'écart n'est pas perdu : il est rattrapé sur une facture suivante, souvent la régularisation. À partir du 30 novembre 2026, le nouveau règlement technique permet d'estimer à la hausse quand une première estimation a déjà dû être faite, du fait du client."
   - q: "Mon index est faux ou estimé : comment le faire corriger ?"
     a: "Cela dépend du gestionnaire de réseau. Chez ORES, contactez votre fournisseur : c'est lui qui demande à ORES un nouveau relevé et la correction. Chez RESA, passez par le fournisseur ou écrivez à mri@resa.be, avec une photo datée de votre compteur. À l'AIEG et à la REW, un agent passe et corrige l'index sur la base de sa visite. Le règlement technique wallon ne vous permet de transmettre un nouvel index qu'une fois par facture de décompte. Un nouveau relevé physique est gratuit si le gestionnaire de réseau s'était trompé, et payant sinon. Pour la contestation d'une facture de régularisation, la réclamation écrite reste nécessaire."
   - q: "Faut-il relever ses index en déménageant ?"
@@ -60,7 +61,7 @@ Un compteur affiche un index : le total des kilowattheures (kWh) qui l'ont trave
 
 ## Quand le GRD demande un relevé
 
-Le règlement technique wallon (RTDE, article V.54, § 2) oblige tout client à laisser le GRD relever ses index au moins une fois l'an, et à les communiquer lui-même « si le GRD le lui demande et/ou s'il était absent lors des visites de relevé ». Sans télérelevé, le GRD passe au moins une fois en vingt-quatre mois ; la CWaPE le résume en « une année sur deux ».
+Le règlement technique wallon (RTDE, article V.54, § 3) oblige tout client à laisser le GRD relever ses index au moins une fois l'an, et à les communiquer lui-même « si le GRD le lui demande et/ou s'il était absent lors des visites de relevé ». Sans télérelevé, le GRD passe au moins une fois en vingt-quatre mois ; la CWaPE le résume en « une année sur deux ».
 
 - **ORES** : « un an sur deux, un releveur vient faire le relevé d'index chez vous » ; l'autre année, un courrier ou un e-mail vous invite à transmettre vos index.
 - **RESA** : une invitation par an ; un agent passe « lorsque nous le jugeons nécessaire », mais pas si vous avez déjà transmis vos index. La période de relève de votre adresse se retrouve sur son site à partir du code EAN.
@@ -110,7 +111,7 @@ L'estimation reproduit le passé et rate ce qui a changé : une pompe à chaleur
 
 Un index que vous avez relevé vous-même se remplace « une seule fois par facture de décompte », avec tout élément probant (RTDE, article V.76, § 3). Un nouveau relevé physique est gratuit si le GRD s'était trompé, et facturé au tarif de la CWaPE sinon (articles V.58 et V.76, § 2). Si une facture de décompte ou de clôture basée sur un index estimé vous laisse une dette, la mise en demeure vous permet de demander un relevé gratuit (arrêté du Gouvernement wallon du 30 mars 2006, article 30). La limite de vingt-quatre mois et la réclamation écrite sont dans [le guide sur la facture de régularisation](/guides/facture-regularisation-trop-elevee-que-faire/).
 
-**Ce qui va changer.** Le nouveau RTDE, approuvé par la CWaPE le 27 août 2026 mais pas encore publié au Moniteur belge, permettra au GRD d'« estimer à la hausse » quand le relevé manque du fait du client.
+**Ce qui change le 30 novembre 2026.** Le nouveau RTDE, publié au Moniteur belge le 20 novembre, permet au GRD d'« estimer à la hausse » un point où une première estimation a déjà été faite parce que le relevé manquait du fait du client, selon une méthode approuvée par la CWaPE (article V.56, § 4).
 
 ## Les relevés à faire soi-même : déménagement, changement de fournisseur
 
@@ -118,11 +119,11 @@ Un index que vous avez relevé vous-même se remplace « une seule fois par fact
 
 **Au changement de fournisseur**, ORES et RESA vous invitent à transmettre vos index ; la CWaPE conseille de donner ce relevé à l'ancien et au nouveau fournisseur.
 
-Avec un compteur communicant, le GRD relève à distance dans les deux cas, et RESA juge inutile d'inscrire les index sur le document de reprise. La CWaPE maintient pourtant le formulaire au déménagement.
+Avec un compteur communicant, le GRD relève à distance dans les deux cas, et RESA juge inutile d'inscrire les index sur le document de reprise. La CWaPE maintient pourtant le formulaire au déménagement. Le reste de la démarche, du contrat au compteur fermé, est dans [« Déménagement et électricité : les démarches »](/guides/demenagement-electricite-demarches/).
 
 ## Avec un compteur communicant, plus rien à faire
 
-Un compteur communicant actif se relève à distance : le RTDE retient les index de 00:00:00 et fait primer le télérelevé sur ceux que vous communiqueriez (article V.63, § 3). Chez ORES, les index partent chaque jour au GRD et une fois par an au fournisseur. L'AIEG relève le 1er novembre pour la campagne 2026 ; la REW le 1er avril à Limal, le 1er mai à Bierges, le 1er octobre pour Wavre 1 et le 1er novembre pour Wavre 2.
+Un compteur communicant actif se relève à distance : le RTDE retient les index de 00:00:00 et fait primer le télérelevé sur ceux que vous communiqueriez (article V.63*bis*, § 1er). Chez ORES, les index partent chaque jour au GRD et une fois par an au fournisseur. L'AIEG relève le 1er novembre pour la campagne 2026 ; la REW le 1er avril à Limal, le 1er mai à Bierges, le 1er octobre pour Wavre 1 et le 1er novembre pour Wavre 2.
 
 Deux cas ramènent au relevé manuel : une fonction communicante désactivée, qui impose un relevé « lorsqu'un processus de marché le nécessite » (décret électricité, article 35, § 3), et un compteur qui ne communique pas encore, que RESA traite comme un compteur classique. Le reste, du port P1 au partage d'énergie, est dans [le guide du compteur communicant](/guides/compteur-communicant-wallonie/).
 
@@ -176,7 +177,7 @@ Oui, avec l'occupant suivant, sur le formulaire de reprise des énergies de la C
 
 - [Wallex — Décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité, version consolidée](https://wallex.wallonie.be/eli/loi-decret/2001/04/12/2001027238) — article 34, § 1er, 2° (validation et transmission des relevés des clients, au plus une fois tous les trois mois, adaptation des acomptes), article 35, § 3 (relevé manuel quand la fonction communicante est désactivée). Consulté le 14 novembre 2026.
 - [CWaPE — Règlement technique pour la gestion des réseaux de distribution d'électricité en Région wallonne, proposition CD-21a29-CWaPE-1874](https://www.cwape.be/documents/download/4448), approuvé par l'arrêté du Gouvernement wallon du 27 mai 2021 — articles V.54, § 2 (relevé au moins une fois l'an, communication des index à la demande du GRD, relevé physique au moins une fois en vingt-quatre mois), V.56 (estimation par des valeurs équitables), V.58 (relevé supplémentaire), V.63, § 3 (index de 00:00:00, primauté du télérelevé), V.70, § 2 (fenêtre de relevé, estimation au vingtième jour ouvrable), V.76, §§ 2 et 3 (contestation, nouvel index une fois par décompte). Consulté le 14 novembre 2026.
-- [CWaPE — Décision CD-26h27-CWaPE-1284 d'approbation du règlement technique](https://www.cwape.be/sites/default/files/cwape-documents/CD-26h27-CWaPE-1284-D%C3%A9cision%20d%27approbation%20du%20RTDE%20%26%20annexes_site.pdf) — article V.56 (estimation à la hausse quand le relevé manque du fait de l'utilisateur). Document du 27 août 2026, pas encore publié au Moniteur belge, consulté le 14 novembre 2026.
+- [CWaPE — Décision CD-26h27-CWaPE-1284 d'approbation du règlement technique](https://www.cwape.be/sites/default/files/cwape-documents/CD-26h27-CWaPE-1284-D%C3%A9cision%20d%27approbation%20du%20RTDE%20%26%20annexes_site.pdf) — articles V.54, § 3 (relevé, ancien § 2), V.56, § 4 (estimation à la hausse), V.63*bis*, § 1er (primauté du télérelevé, ancien V.63, § 3). Document du 27 août 2026, [publié au Moniteur belge le 20 novembre 2026](https://www.ejustice.just.fgov.be/cgi/article_body.pl?language=fr&caller=summary&pub_date=2026-11-20&numac=2026007520) et en vigueur le 30 novembre 2026, consulté le 14 et le 24 novembre 2026.
 - [Wallex — Arrêté du Gouvernement wallon du 30 mars 2006 relatif aux obligations de service public dans le marché de l'électricité](https://wallex.wallonie.be/eli/arrete/2006/03/30/2006201391) — article 3*bis* (canaux et délais de transmission des index chez le fournisseur, confirmation écrite d'un index téléphoné dans les sept jours), article 30 (relevé gratuit quand la dette vient d'une facture de décompte ou de clôture basée sur un index estimé). Consulté le 14 novembre 2026.
 - [Moniteur belge — Arrêté royal du 9 décembre 2021 fixant les autres exigences minimales auxquelles doivent répondre les factures et les informations relatives à la facturation de gaz et d'électricité](https://www.ejustice.just.fgov.be/cgi/article_body.pl?language=fr&caller=summary&pub_date=2021-12-20&numac=2021022724) — article 4 (index de début et de fin, dates, consommation réelle ou estimée). Consulté le 14 novembre 2026.
 - [CWaPE — Lignes directrices CD-24f27-CWaPE-0055](https://www.cwape.be/sites/default/files/2024-07/Lignes%20directrices%20CD-24f27-CWaPE-0055_0.pdf) — § 7.2, heures pleines et heures creuses du bihoraire, identiques chez tous les GRD depuis le 1er janvier 2026. Document du 27 juin 2024, consulté le 14 novembre 2026.

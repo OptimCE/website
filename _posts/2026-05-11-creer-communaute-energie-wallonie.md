@@ -10,7 +10,7 @@ lang: fr
 ref: create-energy-community-wallonia
 pillar: communautes-energie
 permalink: /guides/creer-communaute-energie-wallonie/
-last_modified_at: 2026-11-13 08:00:00 +0100
+last_modified_at: 2026-11-25 06:00:00 +0100
 ---
 
 La Wallonie est, à ce jour, la région belge où les communautés d'énergie se déploient le plus rapidement. Cadre légal stabilisé depuis 2022, formulaire-type publié par la CWaPE, gestionnaires de réseau outillés : tous les ingrédients sont réunis pour qu'un groupe de citoyens, une commune, une école ou un parc d'entreprises lance son propre partage d'énergie. Ce guide décrit, pas à pas, **la procédure complète** : du choix du type de communauté à la mise en service du partage avec votre gestionnaire de réseau de distribution (GRD). Si vous n'êtes pas encore familier avec la notion même de communauté d'énergie, commencez par notre article [« Communautés d'énergie en Belgique : CER, CEC, CEL »](/guides/communautes-energie-belgique/) — il pose le vocabulaire repris ici.
@@ -213,7 +213,7 @@ Oui. Les **autorités locales** (communes, intercommunales, CPAS — et **toutes
 
 ## Vous préférez rejoindre une communauté existante ?
 
-Si créer une communauté de A à Z vous semble trop lourd, **rejoindre une opération existante** est beaucoup plus rapide — typiquement 6 à 12 semaines entre le premier contact et le premier kilowattheure partagé. Voyez notre guide pratique :
+Si créer une communauté de A à Z vous semble trop lourd, **rejoindre une opération existante** est plus léger : la personne morale et l'autorisation de partage existent déjà. Comptez **6 à 12 semaines** en ordre de grandeur entre le premier contact et le premier kilowattheure partagé, et jusqu'à 110 jours ouvrables si chaque étape prend son délai maximal, car le GRD puis la CWaPE examinent l'ajout d'un participant ([CWaPE, guide de modification du partage, juillet 2025](https://www.cwape.be/documents/download/6017)). Voyez notre guide pratique :
 
 > **[Rejoindre une communauté d'énergie en Wallonie](/guides/rejoindre-communaute-energie-wallonie/)**
 >
@@ -228,6 +228,7 @@ Pour démarrer ou comparer les fonctionnalités, consultez le [guide utilisateur
 ## Sources
 
 - [CWaPE — Quelle est la procédure à suivre pour créer une communauté d'énergie ?](https://www.cwape.be/node/6052) — notification obligatoire, formulaire-type, délai de 10 jours ouvrables pour l'accusé de réception.
+- [CWaPE — Guide explicatif du formulaire de modification de partage d'électricité, juillet 2025](https://www.cwape.be/documents/download/6017) — ajout d'un participant examiné par le GRD puis par la CWaPE, délais maximaux.
 - [CWaPE — Communautés d'énergie](https://www.cwape.be/node/158) — cadre wallon, types de communautés, bases légales, notification et rapportage annuel.
 - [CWaPE — Communautés d'énergie et partage d'énergie](https://www.cwape.be/secteur/communautes-partage-energie) — cadre général wallon du partage et des communautés.
 - [CWaPE — Les gestionnaires de réseaux](https://www.cwape.be/node/160) — les cinq GRD d'électricité actifs en Wallonie, dont deux, ORES et RESA, distribuent aussi le gaz.
